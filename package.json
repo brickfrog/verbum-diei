@@ -11,7 +11,7 @@
     "serve": "bunx http-server public -c-1 -p 5173"
   },
   "dependencies": {
-    "fast-xml-parser": "latest",
+    "fast-xml-parser": "^5.3.3",
     "openai": "latest",
     "romcal": "^1.3.0"
   },
