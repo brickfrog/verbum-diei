@@ -147,9 +147,9 @@ renderCommentNotes :: ReadingKind -> Array CommentNote -> String
 renderCommentNotes kind notes =
   if Array.length notes == 0 then ""
   else
-    "<ol class=\"comment-notes\">"
+    "<ul class=\"comment-notes\">"
       <> String.joinWith "" (notes <#> renderOne)
-      <> "</ol>"
+      <> "</ul>"
   where
   renderOne :: CommentNote -> String
   renderOne note =
