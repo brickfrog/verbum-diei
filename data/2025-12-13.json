@@ -1,0 +1,191 @@
+{
+  "date": "2025-12-13",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/13.html",
+    "title": "Gospel and Word of the Day - 13 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/13.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week II"
+    },
+    "celebrations": [
+      {
+        "key": "saintLucyOfSyracuseVirginAndMartyr",
+        "name": "Saint Lucy of Syracuse, Virgin and Martyr",
+        "rank": "MEMORIAL",
+        "source": "g",
+        "color": "RED",
+        "titles": [
+          "MARTYR"
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Sirach",
+      "reference": "Sirach 48:1-4,9-11",
+      "bibleApiReference": "Sirach 48:1-4,9-11",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "And Elias the prophet stood up, as a fire, and his word burnt like a torch.",
+        "He brought a famine upon them, and they that provoked him in their envy, were reduced to a small number, for they could not endure the commandments of the Lord.",
+        "By the word of the Lord he shut up the heaven, and he brought down fire from heaven thrice.",
+        "Thus was Elias magnified in his wondrous works. And who can glory like to thee?",
+        "Who wast taken up in a whirlwind of fire, in a chariot of fiery horses.",
+        "Who art registered in the judgments of times to appease the wrath of the Lord, to reconcile the heart of the father to the son, and to restore the tribes of Jacob.",
+        "Blessed are they that saw thee, and were honoured with thy friendship."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 17:9,10-13",
+      "bibleApiReference": "Matthew 17:9,10-13",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "And as they came down from the mountain, Jesus charged them, saying: Tell the vision to no man, till the Son of man be risen from the dead.",
+        "And his disciples asked him, saying: Why then do the scribes say that Elias must come first?",
+        "But he answering, said to them: Elias indeed shall come, and restore all things.",
+        "But I say to you, that Elias is already come, and they knew him not, But have done unto him whatsoever they had a mind. So also the Son of man shall suffer from them.",
+        "Then the disciples understood, that he had spoken to them of John the Baptist."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Fire as ontology: man and message share one element."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Envy reads as hermeneutic failure: they cannot “endure” commandment."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Speech acts as weather; the mouth becomes a hinge for heaven."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "The violent prophet is filed under “appease”: ferocity repurposed into repair."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7
+      ],
+      "text": "Friendship with a conflagration: beatitude without domestication."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "Secrecy stapled to resurrection: vision withheld until violence has spoken."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "The question is an appeal to protocol: scribal order versus lived event."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Misrecognition licenses cruelty; whim becomes theology’s executioner."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "Understanding arrives as identification: prophecy collapses into a person’s fate."
+    }
+  ],
+  "commentary": {
+    "excursus": "Sirach gives you Elijah as incandescent apparatus: word-as-torch, heaven-as-valve, fire-as-exegesis. It’s not “miracles” so much as judicial speech acts—creation-language weaponized. The famine and the shrinking of the envious are a political theology of attention: those who “cannot endure the commandments” cannot endure reality when it arrives in declarative form. Elijah’s greatness is framed as unanswerable glory, but the text quietly limits it: he’s “registered in the judgments of times,” i.e., filed in the divine bureaucracy of history. Even the pyrotechnics are subordinated to administration: he exists for a later function—appeasing wrath, reconciling generations, restoring tribes. The fire is instrumental; the real miracle is social repair.\n\nMatthew then does something both elegant and ruthless: it keeps the restoration clause (“Elias indeed shall come, and restore all things”) while also declaring it already fulfilled in a figure who did not “restore” anything visibly, and was treated as disposable. This is a hermeneutic of inversion: prophecy is satisfied not by obvious success but by typological repetition under conditions of blindness. The scribal expectation is literalist and therefore, in Matthew’s telling, naïve; Jesus’ reading is straussian in the strict sense—public doctrine says “Elijah comes,” esoteric fulfillment says “he came unrecognized,” and the proof is not triumph but persecution. The restoration happens, but not as census-and-borders politics; it happens as the reconfiguration of what counts as “Elijah” at all.\n\nPut together, the pair stages a bait-and-switch about power. Sirach’s Elijah can shut the sky; Matthew’s Elijah (John) can’t shut Herod’s mouth. Yet Matthew does not demote Elijah; it relocates Elijah’s function from meteorology to epistemology. The true sign is not fire from heaven but the recurring human inability to read the sign when it arrives without theatrics. Hence the secrecy command after the Transfiguration: don’t market the vision, because the point isn’t spectacle but the pattern—glory disclosed to intimates, then translated into suffering in public. The “restore all things” line becomes a kind of trap for the exoteric mind: if you demand restoration that looks like restoration, you’ll miss the restoration that looks like failure.\n\nThere’s also a darker consonance: in Sirach, Elijah reduces the envious to “a small number”; in Matthew, the authorities reduce Elijah’s successor to nothing. Same structure, reversed agency. Prophetic fire can thin a corrupt community; a corrupt community can also extinguish the prophet. Either way, the crowd shrinks. That suggests a grim anthropology: history is selection by endurance—endurance of commandments, endurance of truth, endurance of the sight of fire.\n\nIf you want a single thematic nerve: Sirach imagines wrath appeased by the return of a fiery corrector; Matthew says wrath is absorbed by the suffering of the corrector and then, more scandalously, by the suffering of the Son. Elijah as conflagration becomes Elijah as victim, and the world’s “they knew him not” is the constant. Revelation doesn’t fail; recognition does.",
+    "gospel": [
+      {
+        "lines": [
+          3,
+          4
+        ],
+        "text": "Matthew places the Elijah expectation under stress by splitting it: future (“shall come”) and realized (“already come”). The result is not neat fulfillment but a critique of recognition: the promised restorer can arrive and be handled as disposable. The logic exposes a continuity of resistance that will not be solved by better signs."
+      },
+      {
+        "lines": [
+          1,
+          4
+        ],
+        "text": "The identification of Elijah-within-history functions as a template for the Son of Man: the same blindness that treats the forerunner as an object of impulse will interpret the main figure through the same violence. Resurrection, in this frame, is not an add-on miracle but the boundary after which testimony can be spoken without being prematurely converted into another occasion for control."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          4,
+          5
+        ],
+        "text": "Sirach stages Elijah as a problem of scale: wonder-working is acknowledged, yet the text pivots to removal—whirlwind, chariot, departure. The prophet’s authority is not merely his acts but the way his exit becomes part of the economy of judgment: absence is assigned a task."
+      },
+      {
+        "lines": [
+          6
+        ],
+        "text": "The key move is bureaucratic: Elijah is “registered” inside time’s adjudication. This treats eschatological hope as an entry in a ledger—restoration and reconciliation are not moods but scheduled interventions aimed at defusing wrath and repairing kinship and polity at once."
+      }
+    ],
+    "synthesis": "Together the texts bind “restoration” to suffering rather than triumphal repair: the agent of reconciliation is first misread and used up. Elijah is less a spectacular figure than a recurring mechanism—appearing, being rejected, and thereby prefiguring how divine order advances through human nonrecognition and its consequences.",
+    "seminaVerbi": "The image of the prophet as fire—speech that sears, purifies, and exposes—has analogues in many traditions that see truth as something that burns away illusion rather than merely informing. Hindu traditions speak of tapas, an inner “heat” of ascetic discipline that transforms the person; in Buddhism, wisdom is sometimes compared to a fire that consumes ignorance. These parallels are imperfect, since the prophetic fire here is not chiefly self-cultivation but a word that comes from beyond the self and confronts a community, yet they rhyme in their sense that real truth costs, cleanses, and changes.\n\nThe tension between divine power displayed in signs (famine, shut heavens, fire) and divine desire to heal and reconcile recalls a question that appears across religious philosophy: how judgment and mercy relate without collapsing one into the other. Jewish apocalyptic hope often holds both together: history is weighed, yet the goal is restoration. Some strands of Islam similarly speak of God’s justice and mercy as inseparable attributes, with warning serving repentance and return. Read this way, the “hard” interventions are not mere spectacle but a severe medicine ordered toward a mended covenantal life.\n\nThe expectation of a returning figure who “restores all things” resembles wider human patterns of hoping for a renewer at the hinge of an age: Jewish hopes around Elijah, Islamic expectation of the Mahdi (with Jesus’ return in many interpretations), Zoroastrian notions of a final renovator (Saoshyant), and Hindu expectations of Kalki. The similarities can be overstated—each tradition frames the crisis and the remedy differently—but the shared motif suggests a deep intuition that history’s wounds require not only incremental improvement but a decisive act of reordering.\n\nThe notion that the promised restorer can come “unrecognized,” and even be mistreated, touches a moral theme familiar to both religion and philosophy: the failure to perceive the truly righteous when they do not match our categories. Greek philosophy already worried about this—Plato’s accounts of the just person misunderstood by the city, or the fate of Socrates—as do Buddhist stories in which awakened compassion appears in humble forms, unnoticed by those seeking grandeur. The readings press the uncomfortable possibility that religious expertise can coexist with spiritual blindness.\n\nThe command to keep the vision quiet for a time also resonates with traditions that treat sacred insight as something requiring ripeness and discretion. In Judaism there is a caution about esoteric teaching without proper formation; in Sufism and other mystical streams, there is often an ethic of guarding experiences that could be distorted by pride or by the hearer’s unreadiness. The point is not secrecy for its own sake but reverence for the slow education of desire.\n\nFinally, the linkage of restoration with suffering—both the herald’s and the one he heralds—echoes a pattern found beyond Christianity: the idea that renewal is purchased through costly witness rather than coercive triumph. One might think of the bodhisattva’s willingness to bear others’ burdens, or of the Jain and Buddhist valuation of nonviolence even when it entails vulnerability. The traditions differ on why suffering has this role and what it accomplishes, but they converge in resisting the fantasy that the world is healed without someone absorbing, refusing, and transfiguring its violence."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "ea663170f1a22e4a16c8110fe39fbc3c79ed33b04e6e02395f138952bb0c8089",
+        "outputSha256": "ad777c897d9cb905831560e9db06ac52bfc84640925310314c0ed716ac4307bd"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "bf106ead3bd479ffcd5b294a411c4b9043c396066ed448ed946cdfd4b6119a9b",
+        "outputSha256": "8882e4be3413e0407cf36948cd3bb30fd2b57592bf8933b4abcabb1ac882ff68"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "0b169baf323eaf8dfe862d6ad70c1a874ba6f8bc8ddb41dd4e656dfc1c62d425",
+        "outputSha256": "7f4db36c3b1ca77d05cb636c169c7c79e040aaa1d3bee016306495bf3c3156c3"
+      }
+    ]
+  }
+}
