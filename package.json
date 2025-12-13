@@ -7,6 +7,7 @@
     "build": "XDG_CACHE_HOME=./.cache spago build",
     "run": "XDG_CACHE_HOME=./.cache spago run",
     "generate": "XDG_CACHE_HOME=./.cache spago run",
+    "build:bible": "node scripts/build-dra1899.mjs",
     "bundle": "XDG_CACHE_HOME=./.cache spago bundle --platform node --module Main --bundle-type app --outfile dist/generate.js --force",
     "serve": "bunx http-server public -c-1 -p 5173"
   },

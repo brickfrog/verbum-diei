@@ -19,7 +19,7 @@ import Effect.Class.Console (log)
 import Effect.Exception (error)
 import Node.Process as Process
 import VerbumDiei.Artifact (Artifact, Commentary, Reading, ReadingKind, firstReadingKind, gospelKind)
-import VerbumDiei.BibleApi (fetchBibleApiReading)
+import VerbumDiei.Bible (fetchBibleReading)
 import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
@@ -196,7 +196,7 @@ run = do
 fetchReadings :: FeedItem -> Aff (Array Reading)
 fetchReadings item = do
   item.readings # traverse \r -> do
-    api <- fetchBibleApiReading r.bibleApiReference
+    api <- fetchBibleReading r.bibleApiReference
     pure
       { kind: readingKindFromString r.kind
       , heading: r.heading

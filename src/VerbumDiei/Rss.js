@@ -30,11 +30,30 @@ function extractParagraphs(html) {
 }
 
 function bookFromHeading(heading) {
+  const trimmed = (heading ?? "").trim();
+
+  function clean(name) {
+    return String(name ?? "")
+      .replace(/^the\s+prophet\s+/i, "")
+      .replace(/^(saint|st\.?)\s+/i, "")
+      .trim();
+  }
+
+  if (/acts of the apostles/i.test(trimmed)) return "Acts";
+
+  const paulMatch = trimmed.match(
+    /Letter of\s+(?:Saint|St\.?)\s+Paul\s+to\s+the\s+(.+)$/i,
+  );
+  if (paulMatch) return clean(paulMatch[1]);
+
+  const letterMatch = trimmed.match(/Letter of\s+(?:Saint|St\.?)\s+(.+)$/i);
+  if (letterMatch) return clean(letterMatch[1]);
+
   const bookMatch = heading.match(/Book of\s+(.+)$/i);
-  if (bookMatch) return bookMatch[1].trim();
+  if (bookMatch) return clean(bookMatch[1]);
 
   const gospelMatch = heading.match(/Gospel according to\s+(.+)$/i);
-  if (gospelMatch) return gospelMatch[1].trim();
+  if (gospelMatch) return clean(gospelMatch[1]);
 
   return null;
 }

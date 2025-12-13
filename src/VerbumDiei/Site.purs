@@ -45,8 +45,7 @@ kindShort = case _ of
 translationHref :: String -> String
 translationHref = case _ of
   "dra" -> "https://www.gutenberg.org/ebooks/8300"
-  "web" -> "https://worldenglishbible.org/"
-  _ -> "https://bible-api.com/"
+  _ -> "https://www.gutenberg.org/"
 
 lineId :: ReadingKind -> Int -> String
 lineId kind n =
@@ -260,7 +259,7 @@ renderArtifactPage config artifact =
 
     translationLink =
       case Array.head artifact.readings of
-        Nothing -> navLink "https://bible-api.com/" translationLabel
+        Nothing -> navLink "https://www.gutenberg.org/" translationLabel
         Just r -> navLink (translationHref r.translation.id) translationLabel
 
     hasLlm = Array.length artifact.llm.calls > 0
