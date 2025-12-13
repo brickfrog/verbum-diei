@@ -4,11 +4,13 @@ import Prelude
 
 import Control.Monad.Error.Class (throwError)
 import Data.Array as Array
+import Data.Char as Char
 import Data.Either (Either(..))
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String (Pattern(..), split)
 import Data.String as String
 import Data.String.Common (trim)
+import Data.String.CodeUnits as CodeUnits
 import Data.Traversable (traverse)
 import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
@@ -18,13 +20,13 @@ import Effect.Exception (error)
 import Node.Process as Process
 import VerbumDiei.Artifact (Artifact, Commentary, Reading, ReadingKind, firstReadingKind, gospelKind)
 import VerbumDiei.BibleApi (fetchBibleApiReading)
-import VerbumDiei.Fs (ensureDir, writeTextFile)
+import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
 import VerbumDiei.OpenAI (callOpenAiStructured)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
-import VerbumDiei.Site (renderArtifactPage)
+import VerbumDiei.Site (renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
 
 main :: Effect Unit
@@ -243,21 +245,91 @@ sanitizeLlmOutput readings llmOutput =
   in
     { marginalia, commentary }
 
+isAsciiDigit :: Char -> Boolean
+isAsciiDigit c =
+  let
+    code = Char.toCharCode c
+  in
+    code >= 48 && code <= 57
+
+allDigits :: String -> Boolean
+allDigits =
+  CodeUnits.toCharArray >>> Array.all isAsciiDigit
+
+isIsoDate :: String -> Boolean
+isIsoDate s =
+  case split (Pattern "-") s of
+    [ y, m, d ] ->
+      CodeUnits.length y == 4
+        && CodeUnits.length m == 2
+        && CodeUnits.length d == 2
+        && allDigits y
+        && allDigits m
+        && allDigits d
+    _ -> false
+
+extractDateFromDataFilename :: String -> Maybe String
+extractDateFromDataFilename filename =
+  case CodeUnits.stripSuffix (Pattern ".json") filename of
+    Just base | isIsoDate base -> Just base
+    _ -> Nothing
+
+listDataDates :: Effect (Array String)
+listDataDates = do
+  entries <- readDir "data"
+  pure $
+    entries
+      # Array.mapMaybe extractDateFromDataFilename
+      # Array.sort
+      # Array.reverse
+
 writeOutputs :: Artifact -> Aff Unit
 writeOutputs artifact = do
   let json = stringifyPretty artifact
-  let html = renderArtifactPage artifact
+  let rootHtml =
+        renderArtifactPage
+          { assetPrefix: ""
+          , homeHref: ""
+          , archiveHref: "archive/"
+          , permalinkHref: "d/" <> artifact.date <> "/"
+          }
+          artifact
+
+  let dayHtml =
+        renderArtifactPage
+          { assetPrefix: "../../"
+          , homeHref: "../../"
+          , archiveHref: "../../archive/"
+          , permalinkHref: ""
+          }
+          artifact
 
   liftEffect do
     ensureDir "data"
     ensureDir "public"
     ensureDir "public/data"
+    ensureDir "public/d"
+    ensureDir ("public/d/" <> artifact.date)
+    ensureDir "public/archive"
 
     writeTextFile ("data/" <> artifact.date <> ".json") json
     writeTextFile ("public/data/" <> artifact.date <> ".json") json
-    writeTextFile "public/index.html" html
+    writeTextFile "public/index.html" rootHtml
+    writeTextFile ("public/d/" <> artifact.date <> "/index.html") dayHtml
 
-  log ("Wrote data/" <> artifact.date <> ".json and public/index.html")
+  dates <- liftEffect listDataDates
+  let archiveHtml =
+        renderArchivePage
+          { assetPrefix: "../"
+          , homeHref: "../"
+          , dayHrefPrefix: "../d/"
+          }
+          dates
+
+  liftEffect do
+    writeTextFile "public/archive/index.html" archiveHtml
+
+  log ("Wrote public/index.html, public/d/" <> artifact.date <> "/index.html, and public/archive/index.html")
 
 argValue :: String -> Array String -> Maybe String
 argValue key argv =

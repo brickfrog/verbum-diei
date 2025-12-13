@@ -1,5 +1,6 @@
 module VerbumDiei.Site
   ( renderArtifactPage
+  , renderArchivePage
   ) where
 
 import Prelude
@@ -9,6 +10,19 @@ import Data.Maybe (Maybe(..))
 import Data.String (Pattern(..), Replacement(..), replaceAll)
 import Data.String as String
 import VerbumDiei.Artifact (Artifact, CommentNote, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
+
+type RenderConfig =
+  { assetPrefix :: String
+  , homeHref :: String
+  , archiveHref :: String
+  , permalinkHref :: String
+  }
+
+type ArchiveConfig =
+  { assetPrefix :: String
+  , homeHref :: String
+  , dayHrefPrefix :: String
+  }
 
 escapeHtml :: String -> String
 escapeHtml =
@@ -180,9 +194,17 @@ renderCommentaryBox hasLlm artifact =
                 "<p class=\"commentary-synthesis\">" <> escapeHtml artifact.commentary.synthesis <> "</p>"))
       <> "</section>"
 
-renderArtifactPage :: Artifact -> String
-renderArtifactPage artifact =
+renderArtifactPage :: RenderConfig -> Artifact -> String
+renderArtifactPage config artifact =
   let
+    navLinks =
+      String.joinWith "" $
+        Array.catMaybes
+          [ if config.homeHref == "" then Nothing else Just (navLink config.homeHref "Latest")
+          , if config.archiveHref == "" then Nothing else Just (navLink config.archiveHref "Archive")
+          , if config.permalinkHref == "" then Nothing else Just (navLink config.permalinkHref "Permalink")
+          ]
+
     canonicalLink =
       if artifact.source.itemUrl == "" then ""
       else "<a class=\"source-link\" href=\"" <> escapeHtml artifact.source.itemUrl <> "\">"
@@ -212,7 +234,11 @@ renderArtifactPage artifact =
       <> "<meta charset=\"utf-8\" />"
       <> "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
       <> "<title>Verbum Diei — " <> escapeHtml artifact.date <> "</title>"
-      <> "<link rel=\"stylesheet\" href=\"/styles.css\" />"
+      <> "<link rel=\"icon\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon.ico") <> "\" />"
+      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-32x32.png") <> "\" />"
+      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-16x16.png") <> "\" />"
+      <> "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"" <> escapeHtml (config.assetPrefix <> "apple-touch-icon.png") <> "\" />"
+      <> "<link rel=\"stylesheet\" href=\"" <> escapeHtml (config.assetPrefix <> "styles.css") <> "\" />"
       <> "</head>"
       <> "<body>"
       <> "<main class=\"layout\">"
@@ -221,6 +247,7 @@ renderArtifactPage artifact =
       <> "<div class=\"page-meta\">"
       <> "<span class=\"page-date\">" <> escapeHtml artifact.date <> "</span>"
       <> canonicalLink
+      <> navLinks
       <> "</div>"
       <> "</header>"
       <> renderObservances artifact
@@ -240,6 +267,61 @@ renderArtifactPage artifact =
       <> renderCommentaryBox hasLlm artifact
       <> "<footer class=\"page-footer\">"
       <> "<div class=\"footer-note\">Scripture text: " <> escapeHtml translationNote <> "</div>"
+      <> "</footer>"
+      <> "</main>"
+      <> "</body>"
+      <> "</html>"
+
+navLink :: String -> String -> String
+navLink href label =
+  "<a class=\"source-link\" href=\"" <> escapeHtml href <> "\">"
+    <> escapeHtml label
+    <> "</a>"
+
+renderArchivePage :: ArchiveConfig -> Array String -> String
+renderArchivePage config dates =
+  let
+    dateLinks =
+      String.joinWith "" $
+        dates <#> \d ->
+          "<li class=\"archive-item\">"
+            <> "<a class=\"source-link\" href=\"" <> escapeHtml (config.dayHrefPrefix <> d <> "/") <> "\">"
+            <> escapeHtml d
+            <> "</a>"
+            <> "</li>"
+  in
+    "<!doctype html>"
+      <> "<html lang=\"en\">"
+      <> "<head>"
+      <> "<meta charset=\"utf-8\" />"
+      <> "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+      <> "<title>Verbum Diei — Archive</title>"
+      <> "<link rel=\"icon\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon.ico") <> "\" />"
+      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-32x32.png") <> "\" />"
+      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-16x16.png") <> "\" />"
+      <> "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"" <> escapeHtml (config.assetPrefix <> "apple-touch-icon.png") <> "\" />"
+      <> "<link rel=\"stylesheet\" href=\"" <> escapeHtml (config.assetPrefix <> "styles.css") <> "\" />"
+      <> "</head>"
+      <> "<body>"
+      <> "<main class=\"layout layout-single\">"
+      <> "<header class=\"page-header\">"
+      <> "<div class=\"page-title\">Verbum Diei</div>"
+      <> "<div class=\"page-meta\">"
+      <> "<span class=\"page-date\">Archive</span>"
+      <> (if config.homeHref == "" then "" else navLink config.homeHref "Latest")
+      <> "</div>"
+      <> "</header>"
+      <> "<section class=\"box archive-box\">"
+      <> "<header class=\"section-header\">"
+      <> "<div class=\"section-kicker\">All Days</div>"
+      <> "<h2 class=\"section-title\">Archive</h2>"
+      <> "</header>"
+      <> "<ul class=\"archive-list\">"
+      <> dateLinks
+      <> "</ul>"
+      <> "</section>"
+      <> "<footer class=\"page-footer\">"
+      <> "<div class=\"footer-note\">Generated daily.</div>"
       <> "</footer>"
       <> "</main>"
       <> "</body>"

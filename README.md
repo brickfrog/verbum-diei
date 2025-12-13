@@ -20,7 +20,14 @@ Outputs:
 - `data/YYYY-MM-DD.json`
 - `public/index.html`
 - `public/data/YYYY-MM-DD.json`
+- `public/d/YYYY-MM-DD/index.html`
+- `public/archive/index.html`
 
 ## Preview
 
 - `bun run serve` then open `http://localhost:5173`
+
+## Publish (GitHub Pages)
+
+- Enable Pages with “GitHub Actions” as the source.
+- `public/` deploys on push to `main` via `.github/workflows/pages.yml`.

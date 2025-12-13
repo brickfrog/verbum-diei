@@ -6,6 +6,16 @@ export function ensureDir(path) {
   };
 }
 
+export function readDir(path) {
+  return function () {
+    try {
+      return fs.readdirSync(path);
+    } catch (_err) {
+      return [];
+    }
+  };
+}
+
 export function writeTextFile(path) {
   return function (contents) {
     return function () {
@@ -13,4 +23,3 @@ export function writeTextFile(path) {
     };
   };
 }
-

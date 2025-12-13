@@ -39,6 +39,14 @@ body {
   align-items: start;
 }
 
+.layout.layout-single {
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "header"
+    "archive"
+    "footer";
+}
+
 .box {
   background: var(--paper);
   border: 1px solid var(--rule);
@@ -217,6 +225,19 @@ body {
   grid-area: gospel;
 }
 
+.archive-box {
+  grid-area: archive;
+}
+
+.archive-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.archive-item {
+  margin: 0.4rem 0;
+}
+
 .scripture {
   margin-top: 0.5rem;
 }
@@ -301,4 +322,3 @@ body {
     grid-template-columns: 1fr;
   }
 }
-
