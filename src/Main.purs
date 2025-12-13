@@ -375,7 +375,7 @@ extractDateFromDataFilename filename =
 
 listDataDates :: Effect (Array String)
 listDataDates = do
-  entries <- readDir "data"
+  entries <- readDir "public/data"
   pure $
     entries
       # Array.mapMaybe extractDateFromDataFilename
@@ -404,14 +404,12 @@ writeOutputs artifact = do
           artifact
 
   liftEffect do
-    ensureDir "data"
     ensureDir "public"
     ensureDir "public/data"
     ensureDir "public/d"
     ensureDir ("public/d/" <> artifact.date)
     ensureDir "public/archive"
 
-    writeTextFile ("data/" <> artifact.date <> ".json") json
     writeTextFile ("public/data/" <> artifact.date <> ".json") json
     writeTextFile "public/index.html" rootHtml
     writeTextFile ("public/d/" <> artifact.date <> "/index.html") dayHtml

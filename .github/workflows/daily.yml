@@ -13,8 +13,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v4
+
+      - name: Checkout published branch (gh-pages)
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: .published
+          fetch-depth: 1
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
@@ -24,23 +32,28 @@ jobs:
       - name: Install
         run: bun install --frozen-lockfile
 
+      - name: Restore previously published days
+        run: |
+          if [[ -d ".published/data" ]]; then
+            echo "Restoring prior published days from gh-pages…"
+            mkdir -p public/data public/d
+            rsync -a ".published/data/" "public/data/"
+            if [[ -d ".published/d" ]]; then
+              rsync -a ".published/d/" "public/d/"
+            fi
+          else
+            echo "No gh-pages branch yet; starting fresh."
+          fi
+
       - name: Generate
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           VERBUM_OPENAI_MODEL: ${{ vars.VERBUM_OPENAI_MODEL }}
         run: bun run generate
 
-      - name: Commit
-        run: |
-          if [[ -z "$(git status --porcelain)" ]]; then
-            echo "No changes."
-            exit 0
-          fi
-
-          date_slug="$(ls -1 data/*.json 2>/dev/null | sort | tail -n 1 | sed -E 's#^data/##; s#\\.json$##')"
-          git config user.name "verbum-diei[bot]"
-          git config user.email "actions@github.com"
-          git add -A
-          git commit -m "chore: generate ${date_slug:-daily}"
-          git push
-
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: public

@@ -7,6 +7,13 @@ dist
 *.tgz
 output
 
+# generated artifacts (keep out of `main`)
+/data/
+/public/index.html
+/public/archive/
+/public/d/
+/public/data/
+
 # PureScript / Spago
 .spago
 .psci_modules
