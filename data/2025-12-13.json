@@ -1,0 +1,234 @@
+{
+  "date": "2025-12-13",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/13.html",
+    "title": "Gospel and Word of the Day - 13 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/13.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week II"
+    },
+    "celebrations": [
+      {
+        "key": "saintLucyOfSyracuseVirginAndMartyr",
+        "name": "Saint Lucy of Syracuse, Virgin and Martyr",
+        "rank": "MEMORIAL",
+        "source": "g",
+        "color": "RED",
+        "titles": [
+          "MARTYR"
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Sirach",
+      "reference": "Sirach 48:1-4,9-11",
+      "bibleApiReference": "Sirach 48:1-4,9-11",
+      "translation": {
+        "id": "web",
+        "name": "World English Bible",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "Also there arose Elijah the prophet as fire,",
+        "And his word burned like a torch:",
+        "Who brought a famine upon them,",
+        "And by his zeal made them few in number.",
+        "By the word of the Lord he shut up the heaven:",
+        "Thrice did he thus bring down fire.",
+        "How was you glorified, O Elijah, in your wondrous deeds!",
+        "And who shall glory like to you?",
+        "Who was taken up in a tempest of fire,",
+        "In a chariot of fiery horses:",
+        "Who was recorded for reproofs in their seasons,",
+        "To pacify anger, before it brake forth into wrath;",
+        "To turn the heart of the father to the son,",
+        "And to restore the tribes of Jacob.",
+        "Blessed are those who saw you,",
+        "And those who have been beautified with love;",
+        "For we also shall surely live."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 17:9,10-13",
+      "bibleApiReference": "Matthew 17:9,10-13",
+      "translation": {
+        "id": "web",
+        "name": "World English Bible",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "As they were coming down from the mountain, Jesus commanded them, saying,",
+        "“Don’t tell anyone what you saw, until the Son of Man has risen from the dead.”",
+        "His disciples asked him, saying, “Then why do the scribes say that Elijah must come first?”",
+        "Jesus answered them,",
+        "“Elijah indeed comes first, and will restore all things,",
+        "but I tell you that Elijah has come already, and they didn’t recognize him, but did to him whatever they wanted to. Even so the Son of Man will also suffer by them.”",
+        "Then the disciples understood that he spoke to them of John the Baptizer."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1,
+        2
+      ],
+      "text": "Fire as idiom: presence that consumes; speech as ignition."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3,
+        5,
+        6
+      ],
+      "text": "Nature weaponized by obedience: famine, sealed heaven, answered fire—judgment by decree, not force."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7,
+        8
+      ],
+      "text": "Rhetorical exaltation; the text manufactures singularity to fix memory."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        9,
+        10
+      ],
+      "text": "Ascent without decay: translation marks a life unresolved by death; claims of access to the court of God."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        11,
+        12
+      ],
+      "text": "“Recorded” shifts Elijah into an eschatological instrument: rebuke timed to history’s crises."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        13,
+        14
+      ],
+      "text": "Restoration defined as kinship repaired and polity reconstituted; covenant politics, not sentiment."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        15,
+        17
+      ],
+      "text": "Beatitude of witnesses; life promised by association with the prophetic economy."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1,
+        2
+      ],
+      "text": "Commanded secrecy: vision is unintelligible until resurrection rewires categories."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3,
+        5
+      ],
+      "text": "Scribal expectation acknowledged, then redirected: “restore” becomes contested fulfillment."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        6
+      ],
+      "text": "Misrecognition is permitted and culpable; prophetic figure can be treated as disposable—pattern for the Son of Man."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        7
+      ],
+      "text": "Identification collapses typology: Elijah-function executed by John; fulfillment arrives as repetition with violence."
+    }
+  ],
+  "commentary": {
+    "reading": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "Elijah is rendered as elemental speech: the prophet is not merely messenger but event."
+      },
+      {
+        "lines": [
+          3,
+          6
+        ],
+        "text": "Authority appears as command over scarcity and sky; the prophet mediates covenant sanctions."
+      },
+      {
+        "lines": [
+          9,
+          14
+        ],
+        "text": "His “departure” secures future return in imagination; the text assigns him a role in turning wrath and repairing lineage and tribes."
+      },
+      {
+        "lines": [
+          15,
+          17
+        ],
+        "text": "The closing beatitude ties survival to having seen—vision as credential within salvation history."
+      }
+    ],
+    "gospel": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "The transfiguration is sealed until the resurrection makes disclosure non-misleading."
+      },
+      {
+        "lines": [
+          3,
+          6
+        ],
+        "text": "Jesus accepts the Elijah schema yet says it has already occurred in a form the public could brutalize; restoration and suffering coexist."
+      },
+      {
+        "lines": [
+          7
+        ],
+        "text": "John is named as Elijah by function, not identity; the pattern forecasts Jesus’ reception."
+      }
+    ],
+    "synthesis": "Sirach canonizes Elijah as fire and future corrective; Matthew claims the corrective arrived as John and was rejected, making “restoration” inseparable from misrecognition and violence, and tying Elijah’s return to the passion logic rather than triumphal repair."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "6520de16f43c97a62043af0858f0eeca4454a4b7f866192efa35b8eac2eae822",
+        "outputSha256": "eb4e096ad94f86b6d07fe4f795745b5be5ad89af96a24c466008e4261f821181"
+      }
+    ]
+  }
+}

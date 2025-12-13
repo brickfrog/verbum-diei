@@ -1,0 +1,23 @@
+{
+  "name": "verbum-diei",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "XDG_CACHE_HOME=./.cache spago build",
+    "run": "XDG_CACHE_HOME=./.cache spago run",
+    "generate": "XDG_CACHE_HOME=./.cache spago run",
+    "bundle": "XDG_CACHE_HOME=./.cache spago bundle --platform node --module Main --bundle-type app --outfile dist/generate.js --force",
+    "serve": "bunx http-server public -c-1 -p 5173"
+  },
+  "dependencies": {
+    "fast-xml-parser": "latest",
+    "openai": "latest",
+    "romcal": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "http-server": "^14.1.1",
+    "purescript": "latest",
+    "spago": "next"
+  }
+}

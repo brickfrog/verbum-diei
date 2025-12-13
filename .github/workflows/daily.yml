@@ -1,0 +1,46 @@
+name: Daily generate
+
+on:
+  schedule:
+    # Runs daily; GitHub schedules use UTC.
+    - cron: "15 1 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install
+        run: bun install --frozen-lockfile
+
+      - name: Generate
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VERBUM_OPENAI_MODEL: ${{ vars.VERBUM_OPENAI_MODEL }}
+        run: bun run generate
+
+      - name: Commit
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes."
+            exit 0
+          fi
+
+          date_slug="$(ls -1 data/*.json 2>/dev/null | sort | tail -n 1 | sed -E 's#^data/##; s#\\.json$##')"
+          git config user.name "verbum-diei[bot]"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "chore: generate ${date_slug:-daily}"
+          git push
+
