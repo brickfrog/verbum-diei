@@ -1,5 +1,11 @@
 const BASE_URL = "https://bible-api.com/";
 
+function preferredTranslationId() {
+  const raw = process.env.VERBUM_BIBLE_TRANSLATION;
+  const t = typeof raw === "string" ? raw.trim().toLowerCase() : "";
+  return t || "dra";
+}
+
 function splitLines(text) {
   return text
     .replace(/\r\n/g, "\n")
@@ -12,8 +18,9 @@ export function fetchBibleApiReadingImpl(bibleApiReference) {
   return function (onError) {
     return function (onSuccess) {
       return function () {
+        const translationId = preferredTranslationId();
         const url = new URL(`${BASE_URL}${encodeURIComponent(bibleApiReference)}`);
-        url.searchParams.set("translation", "web");
+        url.searchParams.set("translation", translationId);
 
         fetch(url.toString())
           .then((res) => {
@@ -25,8 +32,8 @@ export function fetchBibleApiReadingImpl(bibleApiReference) {
           .then((json) => {
             const reference = json?.reference ?? bibleApiReference;
             const translation = {
-              id: json?.translation_id ?? "web",
-              name: json?.translation_name ?? "World English Bible",
+              id: json?.translation_id ?? translationId,
+              name: json?.translation_name ?? "Douay-Rheims 1899 American Edition",
               note: json?.translation_note ?? "Public Domain",
             };
             const lines = splitLines(json?.text ?? "");
@@ -38,4 +45,3 @@ export function fetchBibleApiReadingImpl(bibleApiReference) {
     };
   };
 }
-

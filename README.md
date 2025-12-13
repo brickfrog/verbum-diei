@@ -1,7 +1,7 @@
 # verbum-diei
 
 Daily “Word of the Day” (Vatican News RSS) rendered as a static page with:
-- scripture text from a public-domain translation (World English Bible via bible-api.com)
+- scripture text from a public-domain translation (Douay-Rheims 1899 American Edition / `DRA` via bible-api.com)
 - LLM marginalia + line-referenced commentary (optional; runs once per day)
 - liturgical observances (local calc via `romcal`)
 

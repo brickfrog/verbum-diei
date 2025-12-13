@@ -42,6 +42,12 @@ kindShort = case _ of
   k | k == gospelKind -> "G"
   _ -> "R"
 
+translationHref :: String -> String
+translationHref = case _ of
+  "dra" -> "https://www.gutenberg.org/ebooks/8300"
+  "web" -> "https://worldenglishbible.org/"
+  _ -> "https://bible-api.com/"
+
 lineId :: ReadingKind -> Int -> String
 lineId kind n =
   kind <> "-L" <> show n
@@ -253,7 +259,9 @@ renderArtifactPage config artifact =
       Just r -> r.translation.name <> " (" <> String.toUpper r.translation.id <> ")"
 
     translationLink =
-      navLink "https://worldenglishbible.org/" translationLabel
+      case Array.head artifact.readings of
+        Nothing -> navLink "https://bible-api.com/" translationLabel
+        Just r -> navLink (translationHref r.translation.id) translationLabel
 
     hasLlm = Array.length artifact.llm.calls > 0
   in
