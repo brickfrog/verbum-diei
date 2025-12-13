@@ -84,17 +84,23 @@
         1,
         2
       ],
-      "text": "Elijah rendered as combustion: prophet = ignition; speech = heat."
+      "text": "Prophet figured as combustion: person and speech are the same fire."
     },
     {
       "readingKind": "first",
       "lines": [
         3,
-        4,
+        4
+      ],
+      "text": "Miracle as attrition; zeal reduces bodies, not merely arguments."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
         5,
         6
       ],
-      "text": "Power over scarcity and sky; judgment enacted by withdrawal and fire."
+      "text": "Cosmos obeys a sentence; the sky becomes a shutter. Fire is liturgical, repeated (“thrice”)."
     },
     {
       "readingKind": "first",
@@ -102,7 +108,7 @@
         9,
         10
       ],
-      "text": "Exit is not death but transport; fire frames both ministry and departure."
+      "text": "Exit is not death but ascent; theophany translated into transport."
     },
     {
       "readingKind": "first",
@@ -110,7 +116,7 @@
         11,
         12
       ],
-      "text": "Stored as a future instrument: reproof timed to avert wrath."
+      "text": "Elijah kept on record as a timed instrument: reproof deployed to prevent rage’s ignition."
     },
     {
       "readingKind": "first",
@@ -118,16 +124,15 @@
         13,
         14
       ],
-      "text": "Restoration defined as relational reversal (fathers/sons) and political repair (tribes)."
+      "text": "Restoration defined as reordering kinship and tribe; covenant repair is social, not private."
     },
     {
       "readingKind": "first",
       "lines": [
         15,
-        16,
         17
       ],
-      "text": "Beatitude shifts from Elijah’s glory to witnesses’ beautification; life promised by proximity."
+      "text": "Beatitude attaches to witnesses; life is promised as continuity, not escape."
     },
     {
       "readingKind": "gospel",
@@ -135,14 +140,14 @@
         1,
         2
       ],
-      "text": "Theophany sealed under a resurrection embargo; disclosure is scheduled, not denied."
+      "text": "Commanded silence: revelation is embargoed until resurrection makes it legible."
     },
     {
       "readingKind": "gospel",
       "lines": [
         3
       ],
-      "text": "Scribes’ sequence problem: Elijah first, then kingdom."
+      "text": "Scribes frame expectation as sequence: Elijah as prerequisite."
     },
     {
       "readingKind": "gospel",
@@ -150,83 +155,73 @@
         5,
         6
       ],
-      "text": "Two claims held together: Elijah “will restore” and “has come” unrecognized—restoration arrives in misrecognition and violence."
+      "text": "Double claim: Elijah ‘will’ restore, yet ‘has’ come—fulfilled under misrecognition and violence."
     },
     {
       "readingKind": "gospel",
       "lines": [
-        6
-      ],
-      "text": "Typology tightened: what is done to the forerunner prefigures what will be done to the Son of Man."
-    },
-    {
-      "readingKind": "gospel",
-      "lines": [
+        6,
         7
       ],
-      "text": "Identification collapses the expectation: Elijah = John, not a returned fire-chariot."
+      "text": "Patterning: what was done to the forerunner prefigures what will be done to the Son; comprehension arrives late, after identification."
     }
   ],
   "commentary": {
-    "reading": [
-      {
-        "lines": [
-          1,
-          2
-        ],
-        "text": "Elijah is described as fire; the text treats prophetic speech as an element that consumes."
-      },
-      {
-        "lines": [
-          3,
-          4,
-          5,
-          6
-        ],
-        "text": "The prophet’s authority is cosmic (heaven shut) and punitive (famine, descending fire) but explicitly derivative: “by the word of the Lord.”"
-      },
-      {
-        "lines": [
-          9,
-          10
-        ],
-        "text": "Elijah’s translation in fire becomes part of his profile, not merely an ending."
-      },
-      {
-        "lines": [
-          11,
-          12,
-          13,
-          14
-        ],
-        "text": "Elijah is positioned as an eschatological lever: reproof, anger-pacification, household reconciliation, tribal restoration."
-      }
-    ],
     "gospel": [
       {
         "lines": [
           1,
           2
         ],
-        "text": "Jesus controls testimony: the vision’s meaning is unintelligible apart from resurrection."
+        "text": "The transfiguration is sealed behind a temporal lock; disclosure awaits the interpretive key of rising."
       },
       {
         "lines": [
           3,
-          5,
           6
         ],
-        "text": "The Elijah expectation is affirmed and reinterpreted: the restoring figure came as one who could be ignored and harmed; restoration is not triumphal."
+        "text": "Jesus concedes the restorative schema while asserting its paradoxical completion: Elijah arrived unrecognized, and covenant restoration proceeds through rejection."
       },
       {
         "lines": [
           6,
           7
         ],
-        "text": "John’s fate becomes the interpretive key and the template for the Son of Man’s suffering."
+        "text": "John is named as the Elijah-function; the forerunner’s suffering is the template for the Messiah’s."
       }
     ],
-    "synthesis": "Sirach casts Elijah as fiery judgment and future restoration; Matthew relocates that role into John the Baptizer, showing restoration arriving under concealment, misrecognition, and suffering, with revelation deferred until resurrection."
+    "reading": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "Elijah is rendered as elemental force; speech acts scorch, not persuade."
+      },
+      {
+        "lines": [
+          3,
+          6
+        ],
+        "text": "Power is judicial: famine, shut heaven, descending fire—creation as responsive courtroom."
+      },
+      {
+        "lines": [
+          9,
+          14
+        ],
+        "text": "His removal intensifies his role: an absent prophet becomes an eschatological lever for turning hearts and reconstituting Israel."
+      },
+      {
+        "lines": [
+          15,
+          17
+        ],
+        "text": "The text ends with survivance: those who saw are blessed; the community claims future life by association with this prophetic economy."
+      }
+    ],
+    "synthesis": "Sirach casts Elijah as fiery agent who restrains wrath and repairs the covenant order; Matthew relocates that Elijah-work into John, where ‘restoration’ is inaugurated not by acclaim but by misrecognition, and the same pattern is slated to fall on the Son after the mountain’s unveiled glory.",
+    "excursus": "Sirach gives you Elijah as a combustive principle: not merely a man with miracles, but a walking theophany whose “word” is pyroclastic—speech as flame, rhetoric as judgment. The text admires him the way iron admires the magnet: with fear disguised as encomium. The famine and the fire are not “power demonstrations” but covenantal enforcement, i.e., God’s politics executed through a zealot. Sirach also does something sly: Elijah is both catastrophe and katechon. He shuts heaven (de-creation), yet he’s “recorded” to pacify anger before it becomes wrath (re-creation). That’s a priestly function attributed to a prophet: he is filed away like an apotropaic document to be produced “in their seasons.” The famous “turn the heart of the father to the son” is not sentimental therapy; it’s civilizational re-binding, the repair of generational discontinuity that makes a people governable again. “Restore the tribes of Jacob” is national, not merely spiritual: a promise of reconstitution after dispersion. Sirach’s last line—“we also shall surely live”—rides on this: Elijah guarantees futurity.\n\nMatthew, coming down from the mountain, immediately plays the esoteric card: secrecy until resurrection. Transfiguration is too raw to circulate without the interpretive key of the cross; otherwise you get a triumphalist cult with no cruciform grammar. Then the disciples ask the scribal question, and Jesus answers with a double register: Elijah “will” come and Elijah “has” come. That’s not confusion; it’s a deliberate temporal folding. On the surface, it identifies John as Elijah. Underneath, it preserves an unspent remainder of the Elijah-expectation: the typology is satisfied, yet the archetype is not exhausted. The kingdom runs on recapitulations.\n\nThe decisive sting is “they didn’t recognize him.” Sirach’s Elijah is unmistakable—fire, horses, tempest, cosmic theater. Matthew’s Elijah is misrecognized, handled like disposable nuisance, “whatever they wanted.” That’s the inversion: in the new economy, the Elijah-function hides in the unglamorous and gets crushed by institutions. Recognition becomes a moral test: the powerful can only recognize power. Hence John-as-Elijah is an anti-miracle: not chariot-fire but prison and beheading, and precisely there the prophetic office is fulfilled. If you want the Strauss: the exoteric expectation is spectacle; the esoteric fulfillment is neg"
   },
   "llm": {
     "calls": [
@@ -234,7 +229,13 @@
         "name": "analysis",
         "model": "gpt-5.2",
         "inputSha256": "6520de16f43c97a62043af0858f0eeca4454a4b7f866192efa35b8eac2eae822",
-        "outputSha256": "ef613e667792496cbc584e143396c4813af424ef8253c18e9609af87eec5082d"
+        "outputSha256": "33a6f87eb5bf8e16a2e13450db7878b162b13c7018e2b78359c29594d8764a4e"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "32b690a29dfb56f1bcd31b803c681c7a2e3f080f6dae4045560d93ed5c4a82a0",
+        "outputSha256": "f55e200ed56be1b856f42b9f5cd3c2e94ce685bd29f778a3616e461e56791fd2"
       }
     ]
   }
