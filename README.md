@@ -8,7 +8,7 @@ Daily “Word of the Day” (Vatican News RSS) rendered as a static page with:
 ## Setup
 
 - Install deps: `bun install`
-- Optional: set `OPENAI_API_KEY` (or run your `load-openai` helper) to enable marginalia + commentary
+- Optional: set `OPENAI_API_KEY` to enable marginalia + commentary
 - Defaults to `VERBUM_OPENAI_MODEL=gpt-5.2` (override with `VERBUM_OPENAI_MODEL` or `OPENAI_MODEL`)
 
 ## Generate today

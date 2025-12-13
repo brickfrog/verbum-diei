@@ -2,6 +2,7 @@
   "name": "verbum-diei",
   "type": "module",
   "private": true,
+  "license": "AGPL-3.0-only",
   "scripts": {
     "build": "XDG_CACHE_HOME=./.cache spago build",
     "run": "XDG_CACHE_HOME=./.cache spago run",
