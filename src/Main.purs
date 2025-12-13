@@ -213,10 +213,16 @@ readingKindFromString = case _ of
 
 preferredModel :: Effect (Maybe String)
 preferredModel = do
-  explicit <- Process.lookupEnv "VERBUM_OPENAI_MODEL"
+  let
+    normalize m =
+      m >>= \s -> case trim s of
+        "" -> Nothing
+        t -> Just t
+
+  explicit <- normalize <$> Process.lookupEnv "VERBUM_OPENAI_MODEL"
   case explicit of
     Just m -> pure (Just m)
-    Nothing -> Process.lookupEnv "OPENAI_MODEL"
+    Nothing -> normalize <$> Process.lookupEnv "OPENAI_MODEL"
 
 renderPromptInput :: Array Reading -> String
 renderPromptInput readings =
