@@ -254,6 +254,10 @@ body {
   background: var(--highlight);
 }
 
+.scripture-line.is-highlighted {
+  background: var(--highlight);
+}
+
 .ln {
   width: 2.2rem;
   flex: 0 0 auto;
@@ -284,6 +288,32 @@ body {
   border-top: 1px solid var(--rule);
   color: var(--accent);
   font-weight: 650;
+}
+
+.excursus {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.excursus-text {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.98rem;
+  white-space: pre-wrap;
+}
+
+.semina-verbi {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.semina-verbi-text {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.98rem;
+  white-space: pre-wrap;
 }
 
 .page-footer {

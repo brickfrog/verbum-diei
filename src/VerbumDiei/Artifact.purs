@@ -61,6 +61,8 @@ type Commentary =
   { reading :: Array CommentNote
   , gospel :: Array CommentNote
   , synthesis :: String
+  , excursus :: String
+  , seminaVerbi :: String
   }
 
 type ObservancesMeta =

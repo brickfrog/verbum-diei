@@ -128,9 +128,10 @@ renderMarginalia hasLlm notes =
         Nothing -> "#"
         Just n -> "#" <> lineId note.readingKind n
       label = renderLinesLabel note.readingKind note.lines
+      hl = String.joinWith " " (note.lines <#> \n -> lineId note.readingKind n)
     in
       "<li class=\"note\">"
-        <> "<a class=\"note-ref\" href=\"" <> escapeHtml href <> "\">"
+        <> "<a class=\"note-ref\" data-hl=\"" <> escapeHtml hl <> "\" href=\"" <> escapeHtml href <> "\">"
         <> escapeHtml label
         <> "</a>"
         <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
@@ -152,9 +153,10 @@ renderCommentNotes kind notes =
         Nothing -> "#"
         Just n -> "#" <> lineId kind n
       label = renderLinesLabel kind note.lines
+      hl = String.joinWith " " (note.lines <#> \n -> lineId kind n)
     in
       "<li class=\"comment-note\">"
-        <> "<a class=\"note-ref\" href=\"" <> escapeHtml href <> "\">"
+        <> "<a class=\"note-ref\" data-hl=\"" <> escapeHtml hl <> "\" href=\"" <> escapeHtml href <> "\">"
         <> escapeHtml label
         <> "</a>"
         <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
@@ -171,6 +173,22 @@ renderCommentaryBox hasLlm artifact =
     emptyMessage =
       if hasLlm then "<div class=\"empty\">(no commentary generated)</div>"
       else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
+
+    excursusText = String.trim artifact.commentary.excursus
+
+    excursusBody =
+      if excursusText == "" then
+        if hasLlm then "<div class=\"empty\">(no excursus generated)</div>"
+        else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
+      else "<div class=\"excursus-text\">" <> escapeHtml excursusText <> "</div>"
+
+    seminaText = String.trim artifact.commentary.seminaVerbi
+
+    seminaBody =
+      if seminaText == "" then
+        if hasLlm then "<div class=\"empty\">(no semina verbi generated)</div>"
+        else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
+      else "<div class=\"semina-verbi-text\">" <> escapeHtml seminaText <> "</div>"
   in
     "<section class=\"box commentary-box\">"
       <> "<header class=\"section-header\">"
@@ -192,6 +210,14 @@ renderCommentaryBox hasLlm artifact =
             <> "</div>"
             <> (if artifact.commentary.synthesis == "" then "" else
                 "<p class=\"commentary-synthesis\">" <> escapeHtml artifact.commentary.synthesis <> "</p>"))
+      <> "<div class=\"excursus\">"
+      <> "<div class=\"section-kicker\">Excursus</div>"
+      <> excursusBody
+      <> "</div>"
+      <> "<div class=\"semina-verbi\">"
+      <> "<div class=\"section-kicker\">Semina Verbi</div>"
+      <> seminaBody
+      <> "</div>"
       <> "</section>"
 
 renderArtifactPage :: RenderConfig -> Artifact -> String
@@ -269,6 +295,7 @@ renderArtifactPage config artifact =
       <> "<div class=\"footer-note\">Scripture text: " <> escapeHtml translationNote <> "</div>"
       <> "</footer>"
       <> "</main>"
+      <> highlightScript
       <> "</body>"
       <> "</html>"
 
@@ -277,6 +304,10 @@ navLink href label =
   "<a class=\"source-link\" href=\"" <> escapeHtml href <> "\">"
     <> escapeHtml label
     <> "</a>"
+
+highlightScript :: String
+highlightScript =
+  "<script>(function(){const CLS='is-highlighted';let els=[];function clear(){for(const el of els){el.classList.remove(CLS);}els=[];}function apply(ids){clear();for(const id of ids){const el=document.getElementById(id);if(el){el.classList.add(CLS);els.push(el);}}}document.addEventListener('click',function(ev){const a=ev.target&&ev.target.closest?ev.target.closest('a.note-ref'):null;if(!a)return;const raw=a.getAttribute('data-hl');if(!raw)return;const ids=raw.split(/\\s+/).filter(Boolean);if(ids.length)apply(ids);},true);})();</script>"
 
 renderArchivePage :: ArchiveConfig -> Array String -> String
 renderArchivePage config dates =

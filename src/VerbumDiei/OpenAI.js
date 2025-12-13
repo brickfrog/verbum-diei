@@ -74,6 +74,24 @@ const VERBUM_SCHEMA = {
   required: ["marginalia", "commentary"],
 };
 
+const EXCURSUS_SCHEMA = {
+  type: "object",
+  additionalProperties: false,
+  properties: {
+    excursus: { type: "string", minLength: 1, maxLength: 6000 },
+  },
+  required: ["excursus"],
+};
+
+const SEMINA_VERBI_SCHEMA = {
+  type: "object",
+  additionalProperties: false,
+  properties: {
+    seminaVerbi: { type: "string", minLength: 1, maxLength: 6000 },
+  },
+  required: ["seminaVerbi"],
+};
+
 function normalizeLines(lines) {
   const numbers = Array.isArray(lines) ? lines : [];
   const uniq = new Set();
@@ -120,9 +138,20 @@ function normalizeOutput(parsed) {
       ? parsed.commentary.synthesis.trim()
       : "";
 
+  const excursus =
+    typeof parsed?.commentary?.excursus === "string"
+      ? parsed.commentary.excursus.trim()
+      : "";
+
   return {
     marginalia,
-    commentary: { reading, gospel, synthesis },
+    commentary: { reading, gospel, synthesis, excursus, seminaVerbi: "" },
+  };
+}
+
+function normalizeExcursusOutput(parsed) {
+  return {
+    excursus: typeof parsed?.excursus === "string" ? parsed.excursus.trim() : "",
   };
 }
 
@@ -214,6 +243,149 @@ export function callOpenAiStructuredImpl(model) {
 
                   if (raw) {
                     onSuccess(normalizeOutput(JSON.parse(raw)))();
+                    return;
+                  }
+
+                  if (refusal) {
+                    throw new Error(`Model refusal: ${refusal}`);
+                  }
+
+                  throw new Error(
+                    `No parseable output (outputTypes=${JSON.stringify(
+                      summary.outputTypes,
+                    )}, contentTypes=${JSON.stringify(summary.contentTypes)})`,
+                  );
+                })
+                .catch((err) => onError(String(err))());
+            };
+          };
+        };
+      };
+    };
+  };
+}
+
+export function callOpenAiExcursusImpl(model) {
+  return function (instructions) {
+    return function (input) {
+      return function (temperature) {
+        return function (onError) {
+          return function (onSuccess) {
+            return function () {
+              const client = new OpenAI({
+                apiKey: process.env.OPENAI_API_KEY,
+              });
+
+              void temperature;
+
+              const request = {
+                model,
+                instructions,
+                input,
+                max_output_tokens: 2000,
+                text: {
+                  verbosity: "low",
+                  format: {
+                    type: "json_schema",
+                    name: "verbum_diei_excursus",
+                    strict: true,
+                    schema: EXCURSUS_SCHEMA,
+                  },
+                },
+              };
+
+              client.responses
+                .parse(request)
+                .then((response) => {
+                  const parsed = response?.output_parsed ?? null;
+                  if (parsed) {
+                    onSuccess(normalizeExcursusOutput(parsed))();
+                    return;
+                  }
+
+                  const raw = getResponseOutputText(response);
+                  const refusal = getResponseRefusal(response);
+                  const summary = summarizeResponse(response);
+
+                  if (raw) {
+                    onSuccess(normalizeExcursusOutput(JSON.parse(raw)))();
+                    return;
+                  }
+
+                  if (refusal) {
+                    throw new Error(`Model refusal: ${refusal}`);
+                  }
+
+                  throw new Error(
+                    `No parseable output (outputTypes=${JSON.stringify(
+                      summary.outputTypes,
+                    )}, contentTypes=${JSON.stringify(summary.contentTypes)})`,
+                  );
+                })
+                .catch((err) => onError(String(err))());
+            };
+          };
+        };
+      };
+    };
+  };
+}
+
+export function callOpenAiSeminaVerbiImpl(model) {
+  return function (instructions) {
+    return function (input) {
+      return function (temperature) {
+        return function (onError) {
+          return function (onSuccess) {
+            return function () {
+              const client = new OpenAI({
+                apiKey: process.env.OPENAI_API_KEY,
+              });
+
+              void temperature;
+
+              const request = {
+                model,
+                instructions,
+                input,
+                max_output_tokens: 2000,
+                text: {
+                  verbosity: "low",
+                  format: {
+                    type: "json_schema",
+                    name: "verbum_diei_semina_verbi",
+                    strict: true,
+                    schema: SEMINA_VERBI_SCHEMA,
+                  },
+                },
+              };
+
+              client.responses
+                .parse(request)
+                .then((response) => {
+                  const parsed = response?.output_parsed ?? null;
+                  if (parsed) {
+                    onSuccess({
+                      seminaVerbi:
+                        typeof parsed?.seminaVerbi === "string"
+                          ? parsed.seminaVerbi.trim()
+                          : "",
+                    })();
+                    return;
+                  }
+
+                  const raw = getResponseOutputText(response);
+                  const refusal = getResponseRefusal(response);
+                  const summary = summarizeResponse(response);
+
+                  if (raw) {
+                    const obj = JSON.parse(raw);
+                    onSuccess({
+                      seminaVerbi:
+                        typeof obj?.seminaVerbi === "string"
+                          ? obj.seminaVerbi.trim()
+                          : "",
+                    })();
                     return;
                   }
 

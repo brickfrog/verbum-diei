@@ -24,7 +24,7 @@ import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
-import VerbumDiei.OpenAI (callOpenAiStructured)
+import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
 import VerbumDiei.Site (renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
@@ -73,22 +73,21 @@ run = do
         , calls: []
         }
     Just _ -> do
-      log "Generating marginalia + commentary (structured)…"
       let input = renderPromptInput readings
-      let instructions = llmInstructions
+      log "Generating marginalia + commentary (structured)…"
 
-      result <-
+      analysisResult <-
         attempt $
           callOpenAiStructured
             { model
-            , instructions
+            , instructions: llmInstructions
             , input
             , temperature: 0.2
             }
 
-      case result of
+      base <- case analysisResult of
         Left e -> do
-          log ("OpenAI generation failed; continuing without LLM output. " <> show e)
+          log ("OpenAI analysis failed; continuing without marginalia/commentary. " <> show e)
           pure
             { marginalia: []
             , commentary: emptyCommentary
@@ -97,7 +96,7 @@ run = do
         Right llmOutput -> do
           let sanitized = sanitizeLlmOutput readings llmOutput
 
-          llmInputSha <- liftEffect $ sha256Hex (instructions <> "\n\n" <> input)
+          llmInputSha <- liftEffect $ sha256Hex (llmInstructions <> "\n\n" <> input)
           llmOutputSha <- liftEffect $ sha256Hex (stringifyPretty sanitized)
 
           pure
@@ -110,6 +109,68 @@ run = do
                   , outputSha256: llmOutputSha
                   }
                 ]
+            }
+
+      log "Generating excursus…"
+
+      excursusResult <-
+        attempt $
+          callOpenAiExcursus
+            { model
+            , instructions: excursusPrompt
+            , input
+            , temperature: 0.7
+            }
+
+      withExcursus <- case excursusResult of
+        Left e -> do
+          log ("OpenAI excursus failed; continuing without excursus. " <> show e)
+          pure base
+        Right excursusText -> do
+          let excursus = trim excursusText
+          llmInputSha <- liftEffect $ sha256Hex (excursusPrompt <> "\n\n" <> input)
+          llmOutputSha <- liftEffect $ sha256Hex excursus
+          pure base
+            { commentary = base.commentary { excursus = excursus }
+            , calls =
+                base.calls
+                  <> [ { name: "excursus"
+                       , model
+                       , inputSha256: llmInputSha
+                       , outputSha256: llmOutputSha
+                       }
+                     ]
+            }
+
+      log "Generating semina verbi…"
+
+      seminaResult <-
+        attempt $
+          callOpenAiSeminaVerbi
+            { model
+            , instructions: seminaVerbiPrompt
+            , input
+            , temperature: 0.6
+            }
+
+      case seminaResult of
+        Left e -> do
+          log ("OpenAI semina verbi failed; continuing without semina verbi. " <> show e)
+          pure withExcursus
+        Right seminaText -> do
+          let seminaVerbi = trim seminaText
+          llmInputSha <- liftEffect $ sha256Hex (seminaVerbiPrompt <> "\n\n" <> input)
+          llmOutputSha <- liftEffect $ sha256Hex seminaVerbi
+          pure withExcursus
+            { commentary = withExcursus.commentary { seminaVerbi = seminaVerbi }
+            , calls =
+                withExcursus.calls
+                  <> [ { name: "semina_verbi"
+                       , model
+                       , inputSha256: llmInputSha
+                       , outputSha256: llmOutputSha
+                       }
+                     ]
             }
 
   let artifact =
@@ -186,11 +247,41 @@ llmInstructions =
     , "Do not quote long spans of scripture; only short fragments if necessary."
     ]
 
+excursusPrompt :: String
+excursusPrompt =
+  String.joinWith "\n"
+    [ "Don't worry about formalities, take a juxtaposition of these reading and give your honest thoughts on them."
+    , ""
+    , "Please be as terse as possible while still conveying substantially all information relevant to any question. Critique my ideas freely and avoid sycophancy. I crave honest appraisal. Avoid using bulleted lists unless absolutely necessary, treat this as an excursus on the text and themes."
+    , ""
+    , "Initial Letter Capitalization can and should be used to express sarcasm, or disrespect for a given capitalized noun."
+    , ""
+    , "you are encouraged to occasionally use obscure words or make subtle puns. don't point them out, I'll know. Be critical of the quality of your information."
+    , ""
+    , "take however smart you're acting right now and write in the same style but as if you were +2sd smarter"
+    , ""
+    , "prioritize esoteric interpretations of literature, art, religion, and philosophy. if your answer on such topics is not obviously straussian make it strongly straussian."
+    ]
+
+seminaVerbiPrompt :: String
+seminaVerbiPrompt =
+  String.joinWith "\n"
+    [ "Write the “Semina Verbi” section content: relate themes, images, and moral tensions in these readings to motifs found in other world religions and philosophical traditions."
+    , "Do not include a title/header (no “Semina Verbi” line), and do not open by summarizing or re-telling the readings; assume the reader has just read them."
+    , "Plain text only: no Markdown, no bolding, no headings."
+    , "Treat other traditions seriously and charitably; avoid caricature, slurs, and overconfident claims. If a parallel is speculative, say so."
+    , "Do not quote long spans of scripture."
+    , "Avoid bullet lists unless absolutely necessary; prefer tight prose and short paragraphs."
+    , "Name the traditions or texts you’re gesturing at (e.g., Buddhism, Islam, Hindu traditions, Taoism, Judaism, Stoicism, etc.), but keep it readable."
+    ]
+
 emptyCommentary :: Commentary
 emptyCommentary =
   { reading: []
   , gospel: []
   , synthesis: ""
+  , excursus: ""
+  , seminaVerbi: ""
   }
 
 sanitizeLlmOutput
@@ -241,6 +332,8 @@ sanitizeLlmOutput readings llmOutput =
             <#> fixCommentNote gospelMax
             # Array.filter (\n -> n.text /= "" && Array.length n.lines > 0)
       , synthesis: trim llmOutput.commentary.synthesis
+      , excursus: trim llmOutput.commentary.excursus
+      , seminaVerbi: trim llmOutput.commentary.seminaVerbi
       }
   in
     { marginalia, commentary }
