@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-14",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/14.html",
+    "title": "Gospel and Word of the Day - 14 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/14.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week III"
+    },
+    "celebrations": [
+      {
+        "key": "3rdSundayOfAdvent",
+        "name": "3rd Sunday of Advent",
+        "rank": "SUNDAY",
+        "source": "l",
+        "color": "ROSE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Isaiah",
+      "reference": "Isaiah 35:1-6,10",
+      "bibleApiReference": "Isaiah 35:1-6,10",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.",
+        "It shall bud forth and blossom, and shall rejoice with joy and praise: the glory of Libanus is given to it: the beauty of Carmel, and Saron, they shall see the glory of the Lord, and the beauty of our God.",
+        "Strengthen ye the feeble hands, and confirm the weak knees.",
+        "Say to the fainthearted: Take courage, and fear not: behold your God will bring the revenge of recompense: God himself will come and will save you.",
+        "Then shall the eyes of the blind be opened, and the ears of the deaf shall be unstopped.",
+        "Then shall the lame man leap as a hart, and the tongue of the dumb shall be free: for waters are broken out in the desert, and streams in the wilderness.",
+        "And the redeemed of the Lord shall return, and shall come into Sion with praise, and everlasting joy shall be upon their heads: they shall obtain joy and gladness, and sorrow and mourning shall flee away."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 11:2-11",
+      "bibleApiReference": "Matthew 11:2-11",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "Now when John had heard in prison the works of Christ: sending two of his disciples he said to him:",
+        "Art thou he that art to come, or look we for another?",
+        "And Jesus making answer said to them: Go and relate to John what you have heard and seen.",
+        "The blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise again, the poor have the gospel preached to them.",
+        "And blessed is he that shall not be scandalized in me. Scandalized in me... That is, who shall not take occasion of scandal or offence from my humility, and the disgraceful death of the cross which I shall endure.",
+        "And when they went their way, Jesus began to say to the multitudes concerning John: What went you out into the desert to see? a reed shaken with the wind?",
+        "But what went you out to see? a man clothed in soft garments? Behold they that are clothed in soft garments, are in the houses of kings.",
+        "But what went you out to see? A prophet? Yea I tell you, and more than a prophet.",
+        "For this is he of whom it is written: Behold I send my angel before my face, who shall prepare thy way before thee.",
+        "Amen I say to you, there hath not risen among them that are born of women a greater than John the Baptist: yet he that is the lesser in the kingdom of heaven is greater than he."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Desolation made vocal: the place itself \"shall\" rejoice—imperative futures."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Borrowed splendor: Libanus/Carmel/Saron as a down-payment, not origin."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Command to bodies that cannot obey; strength is addressed to weakness, not to will."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Salvation arrives carrying \"revenge\"—deliverance with an edge."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "Desert hydrology as counter-creation: water breaks rules, not just ground."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7
+      ],
+      "text": "Joy worn like a crown; sorrow treated as a fugitive, not a feeling."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "The forerunner asks for a sign: certainty outsourced through bars."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Catalogue as credential: miracles listed like items on a manifest; the poor included last."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "Beatitude for the unoffended: the crisis is not pain but interpretation."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        6
+      ],
+      "text": "Reed image: the desert expected firmness, not scenery."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        7
+      ],
+      "text": "Softness relocated to palaces; comfort is framed as political, not moral."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        10
+      ],
+      "text": "Superlative reversed: greatest by birth, surpassed by belonging; metrics swapped."
+    }
+  ],
+  "commentary": {
+    "excursus": "Isaiah’s hymn is landscape-theology: the cosmos itself is drafted into covenantal propaganda. Desert becomes garden not by “progress” but by presence; the world is a liturgy that has been awaiting its proper celebrant. Note the oddly martial seam running through the pastoral silk: “revenge of recompense” sits inside a rehabilitation montage (blind/deaf/lame healed). The text refuses modern sentimentality; mercy is not the opposite of vengeance but its transfiguration. The wilderness blooms because God returns as judge, not as therapist.\n\nMatthew then performs a hermeneutic coup: Jesus answers John’s messianic doubt by quoting the Isaiah-pattern (blind see, lame walk, good news to poor). It’s a proof by aesthetic: the messiah is recognized not by credential but by the signature miracles that make Isaiah’s poetry literal. Yet the exchange also exposes a fissure: John expected the axe, gets the clinic. Hence “blessed is he that shall not be scandalized in me”—the scandal is not merely the cross later, but the present mismatch between apocalyptic expectation and humble praxis. Jesus is telling John (and the reader): your eschatology is right; your timetable and taste are wrong.\n\nStraussian subtext: both passages domesticate political impatience. Isaiah comforts a battered polity with a cosmic reversal; Matthew reins in revolutionary messianism by redefining the victorious king as a healer who postpones the purge. “Revenge” is retained as a word, but displaced as a spectacle; the sign of divine arrival is care for the marginal, not immediate regime change. That’s a clever stabilization strategy for a movement that must survive empire: it sublimates zeal into compassion while still promising ultimate reckoning.\n\nJohn is the hinge and the tragedy. Jesus praises him as “more than a prophet,” then undercuts him: the least in the Kingdom is greater. This isn’t mere compliment-sandwich; it’s a metaphysical demotion. John stands at the threshold, but threshold-figures don’t dine inside. He can announce the wedding, not attend it. His greatness is maximal under the old economy (“born of women”); the Kingdom introduces a new metric—rebirth, not birth. The implication is acid: virtue and austerity (John’s desert heroism) are insufficient once the new order arrives; holiness must become participation.\n\nAlso, the repeated desert motif is not décor. John is literally “in the desert,” and yet ends in prison—wilderness disciplined into a cage. Isaiah promises springs in the desert; Matthew shows the desert prophet drying up behind bars while the springs walk around Galilee. The consolation is that the signs are happening; the cruelty is that John doesn’t get to enjoy them. That’s the Gospel’s unsentimental realism: the world is being remade, and you may still die waiting.\n\nIf there’s a critique to level at the texts themselves, it’s their near-brutal instrumentalization of suffering: disability becomes a semiotic resource (“proof” of messiahship) and national humiliation becomes a stage for divine self-advertisement. Beautiful, yes; also opportunistic. And yet, perhaps that’s the point: in these traditions, history is not fair but legible—meaning is wrested from affliction the way water is struck from rock. The lily in the wasteland is not optimism; it’s a sign that the Author has returned to the manuscript and started revising in ink that looks, to the impatient, like scandal.",
+    "gospel": [
+      {
+        "lines": [
+          1,
+          3,
+          9,
+          10
+        ],
+        "text": "The pericope stages a relay of testimony: John cannot see; disciples mediate; Jesus answers by pointing to public facts rather than private assurance. After they leave, Jesus repositions John for the crowd by re-reading his identity through scripture (the \"messenger\" text) and then by redefining greatness in kingdom terms. The passage turns from epistemology (how you know) to hierarchy (what counts)."
+      },
+      {
+        "lines": [
+          6,
+          7,
+          8
+        ],
+        "text": "Jesus’ questions audit the crowd’s motives: spectacle, luxury, or prophetic truth. By contrasting desert and palace, he exposes expectation as socially conditioned; the desert is where God speaks, the palace where taste and power set the standard. John is defended not by denying his confinement but by locating him within a narrative that outlasts institutions."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          3,
+          5,
+          6
+        ],
+        "text": "The oracle moves from communal exhortation to anatomical repair and then to altered ecology. It treats impairment and aridity as linked disorders, and it insists the remedy is not human technique but an arriving order that reconstitutes perception (eyes/ears), locomotion, and speech. The sequence implies that praise is not an add-on after rescue; it is the restored function of the world."
+      },
+      {
+        "lines": [
+          4,
+          7
+        ],
+        "text": "The promised advent is juridical as well as medicinal: recompense precedes homecoming. Return to Sion is described as a managed procession—redeemed, gathered, and marked by durable affect—suggesting public vindication rather than private consolation."
+      }
+    ],
+    "synthesis": "Isaiah supplies the template: the coming of God is recognized by reversal in bodies and land. Matthew supplies the test: even the herald must learn to read reversal without taking offence at its form. Together they define messianic proof as transformation that is observable yet easily misinterpreted when one expects triumph rather than restoration under lowliness.",
+    "seminaVerbi": "The reversal of the wilderness into a garden resonates with a widespread religious imagination in which barrenness is not the final word. Hindu traditions often picture the cosmos as renewed through divine presence (dharma restored, fertility returning), while in Taoism the image of water breaking forth where it “shouldn’t” evokes the Dao’s quiet power to bring life without coercion. Even where traditions are less theistic, the motif remains: in Buddhism, what looks like a spiritual desert can become a place of awakening, and the “flowers in the wasteland” theme can function as a figure for transformation rather than mere external improvement.\n\nThe summons to strengthen weak hands and knees echoes virtue traditions that treat courage as communal and teachable. Stoicism, for example, speaks of fortitude amid trial, not as denial of suffering but as training the soul to stand firm and to help others stand firm. Confucian ethics similarly frames moral life as the cultivation of steadfastness and the strengthening of social bonds, so that the vulnerable are upheld by ritual, duty, and humane concern.\n\nThe opening of eyes and ears and the loosening of tongues—healing as restoration to participation—has parallels across cultures where salvation is pictured as reintegration. In Islamic spirituality, guidance (huda) is often described as moving from blindness to sight and from constriction to expansiveness; in Jewish thought, to be redeemed is also to be gathered and enabled to sing again. If one reads these healings not only medically but socially, they also resemble themes in many traditions where liberation includes being able to speak, be heard, and take one’s place in the community.\n\nJohn’s question from confinement touches a perennial moral tension: what to do when hope is delayed and the signs are ambiguous. Buddhist and Jain traditions are frank about how disappointment and craving for certainty can intensify suffering; they propose practices of patience and clear seeing when expectations are unmet. In the Hebrew wisdom tradition and in Islam’s discourse on sabr (patient endurance), faithfulness is likewise tested not in triumph but under pressure, when the righteous must live without immediate vindication.\n\nThe warning about being “scandalized” by humility and a lowly path parallels a recurring spiritual critique of prestige. Taoist texts often distrust displays of power and praise the unassuming; Zen stories regularly overturn the seeker’s expectation that the highest truth arrives with grandeur. In Sufi literature, too, the friend of God may appear hidden, even outwardly disgraced, and the test is whether one can recognize divine action without demanding the costume of worldly success.\n\nFinally, the contrast between the desert prophet and “soft garments” in palaces recalls the renunciant ideal found in many places: the Hindu sannyasi, the Buddhist monastic, the Jain ascetic, and the Cynic philosopher each witness—imperfectly and differently—that freedom can require distance from luxury and from the flattering proximity of power. Yet the texts also press a subtler point: greatness is not simply austerity, but a vocation received and fulfilled, and the measure of it may be hidden from ordinary hierarchies—an idea that finds analogues in traditions that locate true nobility in inner conformity to the Good rather than in social rank.\n\nThe promised return with joy, sorrow fleeing, gestures toward an eschatological horizon shared in different keys: Judaism’s hope for restoration, Islam’s confidence in ultimate justice, and even some philosophical traditions’ longing for a final harmony between virtue and reality. Where these readings differ is in how concrete the promised renewal is and how personally it is anchored; but the human intuition beneath them—that history is not closed, that the broken can be made whole, and that the humble may bear the decisive word—appears again and again across the world’s spiritual grammars."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "035c2bc9aa1bd1d27b81c7ed7956e2d65db84561908d396bec592fcb2efc5639",
+        "outputSha256": "7dd908c0d6eff7bade6b77dec99686e34fb8d92ecfa65b262f3c5946f36518ac"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "a55d4b49e2505942c0bb62a364da938ee97bd362295c07a6e30fa5d70ccc1a02",
+        "outputSha256": "4a9da58cafb0e440166742b22bb5b46cc877d3afbfedb0af1a402de4541f2cc2"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "06533a0b055364ae6ec94c71a62177df5d9f47dd4a21d399bbfb3a217b06f032",
+        "outputSha256": "bf7bda537856977ab58fda9a67fdbb2fcf2ecd95ee12f7f1286bb2e805d106d9"
+      }
+    ]
+  }
+}
