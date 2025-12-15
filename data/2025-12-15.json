@@ -1,0 +1,215 @@
+{
+  "date": "2025-12-15",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/15.html",
+    "title": "Gospel and Word of the Day - 15 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/15.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week III"
+    },
+    "celebrations": [
+      {
+        "key": "mondayOfThe3rdWeekOfAdvent",
+        "name": "Monday of the 3rd week of Advent",
+        "rank": "FERIA",
+        "source": "l",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Numbers",
+      "reference": "Numbers 24:2-7,15-17",
+      "bibleApiReference": "Numbers 24:2-7,15-17",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "And lifting up his eyes, he saw Israel abiding in their tents by their tribes: and the spirit of God rushing upon him,",
+        "He took up his parable and said: Balaam the son of Beor hath said: The man hath said, whose eye is stopped up:",
+        "The bearer of the words of God hath said, he that hath beheld the vision of the Almighty, he that falleth, and so his eyes are opened:",
+        "How beautiful are thy tabernacles O Jacob, and thy tents, O Israel!",
+        "As woody valleys, as watered gardens near the rivers, as tabernacles which the Lord hath pitched, as cedars by the waterside.",
+        "Water shall flow out of his bucket, and his seed shall be in many waters. For Agag his king shall be removed, and his kingdom shall be taken away.",
+        "Therefore taking up his parable, again he said: Balaam the son of Beor hath said: The man whose eye is stopped up, hath said:",
+        "The hearer of the words of God hath said, who knoweth the doctrine of the Highest, and seeth the visions of the Almighty, who falling hath his eyes opened:",
+        "I shall see him, but not now: I shall behold him, but not near. A STAR SHALL RISE out of Jacob and a sceptre shall spring up from Israel: and shall strike the chiefs of Moab, and shall waste all the children of Seth"
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 21:23-27",
+      "bibleApiReference": "Matthew 21:23-27",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "And when he was come into the temple, there came to him, as he was teaching, the chief priests and ancients of the people, saying: By what authority dost thou these things? And who hath given thee this authority?",
+        "Jesus answering, said to them: I also will ask you one word, which if you shall tell me, I will also tell you by what authority I do these things.",
+        "The baptism of John, whence was it? From heaven or from men? But they thought within themselves, saying:",
+        "If we shall say, from heaven, he will say to us: Why then did you not believe him? But if we shall say, from men, we are afraid of the multitude: for all held John as a prophet.",
+        "And answering Jesus, they said: We know not. He also said to them: Neither do I tell you by what authority I do these things."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Sight triggers invasion: \"spirit...rushing\"; tents become a liturgical field."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "A seer introduced by blockage: authority speaks from a damaged organ."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Revelation via collapse: falling precedes opening; humiliation as optic surgery."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Beauty is named before morality; Israel aestheticized, not evaluated."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "Overloaded similes; nature conscripted to certify election."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "Water-and-seed abundance abruptly flips to dethronement; fertility carries a blade."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        9
+      ],
+      "text": "Distance tense: \"not now...not near\"; the star is promise weaponized into conquest."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "Authority interrogates inside the temple; institution policing speech at its own altar."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "Counter-question as jurisdictional trap; inquiry becomes ordeal."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "\"From heaven or from men\" reduces complex fidelity to a binary."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "They compute consequences, not truth; fear of crowd replaces fear of God."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "\"We know not\" as shield; withheld answer meets withheld explanation."
+    }
+  ],
+  "commentary": {
+    "excursus": "Numbers gives you the paradox you’re supposed to notice but not domesticate: revelation arrives through a compromised mouth. Balaam is a hired curse-machine who keeps blessing; his “eye stopped up” is a delicious admission that prophecy is not moral achievement but invasive optics. He “falls” and only then “sees”: gnosis via collapse, not via priestly posture. Israel is praised not for virtue but for form—tents “by tribes,” ordered multiplicity, a portable architecture of separation. The imagery is all irrigation and cedar-luxury: a people as a hydraulic project, seeded “in many waters,” which is either imperial fecundity or diaspora prophecy depending on which century you’re smuggling in.\n\nThen the nasty little kernel: “Agag… removed,” “strike… Moab,” “waste… the children of Seth.” The blessing is already a war-poem; the garden is watered by conquest. The “STAR” is not a twinkly Advent ornament here but an astral claim to sovereignty—cosmic legitimation of a sceptre. If you read it as straight messianism you miss its first function: political astrology for a tribal confederation that needs to believe its expansion is written into the sky.\n\nMatthew is the same problem, inverted: authority is the theme, but Jesus refuses the bureaucratic demand for credentials. The priests ask for the stamp; he counters with an origin-question about John that forces them to confess their real god: public opinion. Their “We know not” is not ignorance; it’s diplomatic casuistry, fear dressed as epistemology. Jesus’ silence is not evasive either; it’s a judgment: if you can’t name the source of a prophet because it endangers your position, you’re unfit to adjudicate authority at all.\n\nJuxtaposed, they form a sly chiasm. In Numbers, a non-Israelite diviner is temporarily commandeered by the Spirit to authorize Israel’s future rule—authority from “outside,” almost against the will of the authorized. In Matthew, the official custodians of inside-authority are exposed as hollow, and the charismatic teacher’s authority is demonstrated precisely by not playing their game. One text says: God can speak through the crooked; the other says: the straight-backed are often the most crooked.\n\nStraussian subtext: both readings teach a politics of speech. Balaam’s parable is esoteric propaganda: it launders national ambition through ecstatic diction. Jesus’ counter-question is anti-propaganda: it forces elites into a trilemma—affirm heaven and indict themselves, affirm men and incur revolt, or plead agnosticism and reveal cowardice. The “star” is the myth that crowns the sword; the “we know not” is the technocrat’s refrain when truth has constituency costs.\n\nIf there’s a critique to make, it’s that devotional readings sentimentalize both. Numbers isn’t chiefly about Christmas; it’s about sacral kingship and the violence it metabolizes. Matthew isn’t chiefly about Jesus being clever; it’s about a regime that cannot speak plainly without collapsing. Both warn that authority is always tethered to interpretation—who gets to call a star a sign, who gets to call a baptism “from heaven,” and who benefits when the answer stays conveniently unsaid.",
+    "gospel": [
+      {
+        "lines": [
+          1,
+          2,
+          5
+        ],
+        "text": "The scene is a contest over who gets to define legitimacy in the temple. Jesus declines the court’s terms and instead tests whether his interrogators can render a judgment that costs them something. Their refusal to adjudicate John exposes a leadership that can only govern by managing risk; authority, in this frame, is inseparable from truthful verdicts."
+      },
+      {
+        "lines": [
+          3,
+          4
+        ],
+        "text": "The John-question forces them to choose between transcendent accountability and social control. They opt for neither, revealing a vacuum where confession should be. The narrative suggests that inability to name the source of a true prophet disables any subsequent evaluation of Jesus."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          2,
+          7,
+          8
+        ],
+        "text": "The speaker’s credibility is staged through self-identification and repeated titles: parable, bearer/hearer, doctrine/vision. The text builds a formal apparatus that legitimizes a hostile mouthpiece. Israel’s future is authorized by an outsider’s compelled speech, making election a public verdict rather than private self-congratulation."
+      },
+      {
+        "lines": [
+          6,
+          9
+        ],
+        "text": "The oracle yokes blessing to geopolitical displacement: abundance flows into regime-change. The promised figure arrives in deferred time, but the deferred time does not soften the outcome; delay functions as certainty, not mercy. Hope is narrated as a coming administration with enforcement power."
+      }
+    ],
+    "synthesis": "Numbers presents authority as an irruption that commandeers an unwilling seer and projects rule into the future; Matthew presents authority as a present crisis that exposes unwilling judges. In both, the decisive issue is not raw power but the capacity to name heaven when it presses its claim.",
+    "seminaVerbi": "The “opened eye” that comes through a kind of falling has echoes in multiple wisdom traditions: insight arriving not as self-assertion but as a surrender of control. Buddhism often frames awakening as the collapse of delusion and the loosening of grasping; in some Hindu traditions, true seeing follows the humbling of ahamkara (ego). The image is not identical, but the moral tension is similar: real perception can be gift-like, disruptive, and costly to one’s prior certainties.\n\nThe beauty of a people “in their tents,” likened to watered gardens and cedars by streams, resonates with widespread religious symbolism where right order shows itself as fertility, shade, and flowing water. The Qur’an’s garden imagery (jannah as rivers and shade) and Taoist depictions of life aligned with the Dao as supple, well-watered growth both treat water as a sign of life that cannot be hoarded. In many Indigenous and African traditional religions as well (speaking generally and with caution), land, dwelling, and communal arrangement can carry spiritual meaning, so that the visible pattern of a community becomes a kind of moral icon.\n\nA foreign seer compelled to speak blessing rather than curse suggests an older intuition shared across traditions: truth can overrun tribal boundaries and even use reluctant mouths. One might think of the Stoic sense of a logos that can be glimpsed beyond civic loyalties, or of figures in Greek tragedy whose unwanted prophetic speech still binds them. In Judaism and Islam, prophecy is not merely private inspiration but accountable speech under God; here too the uneasy mix of instrument and intention raises the question of how much “authority” comes from character versus commission.\n\nThe star and sceptre imagery joins a global motif of cosmic signs legitimating rule, yet it also sharpens the ambiguity of sacral kingship. Chinese traditions of the Mandate of Heaven connect rightful authority with moral order and its public signs, while also warning that heaven’s favor can be withdrawn. That parallel is suggestive rather than direct, but it illuminates the peril: reading providence in power can slide into triumphalism unless tempered by ethical demands.\n\nIn the temple exchange about authority, the refusal to answer on rigged terms resembles philosophical methods that expose bad faith rather than feed it. Socrates’ elenchus similarly turns a question back on the questioner to reveal what they already know but will not own. Zen koans, though quite different in aim, also disrupt the impulse to control truth by forcing a response from a deeper place than calculation.\n\nThe leaders’ dilemma—truth versus reputation, conviction versus fear of the crowd—has clear analogues in Confucian and Stoic ethics. Confucius prizes rectification of names and integrity in public speech; the Stoics insist that fear of opinion is a form of bondage. Across these traditions, authority is tested by whether one will name the good plainly, even when social consequences threaten.\n\nFinally, the silence—“neither do I tell you”—can be read alongside apophatic strands in Christianity and Judaism, and even with certain Islamic and Hindu cautions about speaking of the highest realities: not everything is available on demand, especially when the request is a trap. Here restraint functions as moral clarity: some questions are not answered because the asker is not seeking truth but leverage."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "cb8746d6393fd78ba3253b9445e7c7b2930d86fa34caf27cf027e453802d9440",
+        "outputSha256": "6ce151d8b338841bbbc07bde8e9c6761f3d35584d70931a60dee93afb6c7858b"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "fa25b9e94079afa10fe3a2e1cb8a066edd5b4286f3a0107a34b81f70b8875b05",
+        "outputSha256": "aefb50af2df30570875625c038999eff6cddbf3ee2a6271c80aafea67781dd4f"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "7a7c2ea801f5962ffcfc5b701ce4f7822e6bb5a366651466ef01422d12e44cec",
+        "outputSha256": "5a0a35652a992850708704a8a0e2fc7547ea442c4221c02c58610c2157ed5209"
+      }
+    ]
+  }
+}
