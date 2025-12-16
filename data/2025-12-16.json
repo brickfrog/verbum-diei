@@ -1,0 +1,204 @@
+{
+  "date": "2025-12-16",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/16.html",
+    "title": "Gospel and Word of the Day - 16 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/16.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week III"
+    },
+    "celebrations": [
+      {
+        "key": "tuesdayOfThe3rdWeekOfAdvent",
+        "name": "Tuesday of the 3rd week of Advent",
+        "rank": "FERIA",
+        "source": "l",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Zephaniah",
+      "reference": "Zephaniah 3:1-2,9-13",
+      "bibleApiReference": "Zephaniah 3:1-2,9-13",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "Woe to the provoking and redeemed city, the dove.",
+        "She hath not hearkened to the voice, neither hath she received discipline: she hath not trusted in the Lord, she drew not near to her God.",
+        "Because then I will restore to the people a chosen lip, that all may call upon the name of the Lord, and may serve him with one shoulder.",
+        "From beyond the rivers of Ethiopia, shall my suppliants, the children of my dispersed people, bring me an offering.",
+        "In that day thou shalt not be ashamed for all thy doings, wherein thou hast transgressed against me for then I will take away out of the midst of thee thy proud boasters, and thou shalt no more be lifted up because of my holy mountain.",
+        "And I will leave in the midst of thee a poor and needy people: and they shall hope in the name of the Lord.",
+        "The remnant of Israel shall not do iniquity, nor speak lies, nor shall a deceitful tongue be found in their mouth: for they shall feed, and shall lie down, and there shall be none to make them afraid."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 21:28-32",
+      "bibleApiReference": "Matthew 21:28-32",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "But what think you? A certain man had two sons: and coming to the first, he said: Son, go work to day in my vineyard.",
+        "And he answering, said: I will not. But afterwards, being moved with repentance, he went.",
+        "And coming to the other, he said in like manner. And he answering said: I go, Sir. And he went not.",
+        "Which of the two did the father's will? They say to him: The first. Jesus saith to them: Amen I say to you that the publicans and the harlots shall go into the kingdom of God before you.",
+        "For John came to you in the way of justice: and you did not believe him. But the publicans and the harlots believed him: but you, seeing it, did not even afterwards repent, that you might believe him."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "“Woe” addressed to a “dove”: insult lodged inside a pet name."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Four negations in a row; refusal becomes a habitus, not an incident."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "“Chosen lip”: purification at the organ of speech, not at the altar."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "“One shoulder”: obedience figured as load-bearing, coordinated strain."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "Shame removed by subtraction: the loud are taken out, not argued down."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "God “leaves” the poor behind—remnant as deliberate remainder, not failure."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7
+      ],
+      "text": "Ethics and language fused: no iniquity, no lies, no tongue-twist; peace follows."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "The question opens like a trap: thought is demanded before piety."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "Refusal precedes obedience; repentance is temporal leverage."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "Polite assent masks inertia; “Sir” is a verbal fig leaf."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Kingdom order inverted: the notorious enter first, the reputable wait outside."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "Evidence didn’t convert them: they “seeing it” still refuse the second turn."
+    }
+  ],
+  "commentary": {
+    "excursus": "Zephaniah and Matthew are doing the same operation with different instruments: humiliating the fluent and vindicating the abject—while quietly threatening to rebuild the social order around obedience rather than status.\n\nZephaniah’s “provoking and redeemed city, the dove” is a nasty little paradox: the city is already stamped with a salvific epithet while behaving like a shiv. “Dove” reads as sanctimonious branding—an ecclesial logo masking civic insubordination. The charges are epistemic, not merely moral: she won’t “hearken,” won’t “receive discipline,” won’t “trust,” won’t “draw near.” It’s a refusal of formation, a posture of autonomous adulthood that is, in the prophetic idiom, infantile.\n\nThen comes the strange promise: “a chosen lip.” The remedy for civic rebellion is linguistic surgery. That should worry you if you like freedom. A “pure/chosen lip” is not just nicer speech; it’s a new shared code, a re-tuning of pronouns and pieties so “all may call upon the name of the Lord, and may serve him with one shoulder.” One shoulder: yoked, synchronized, liturgically conscripted. Unity here is not pluralism; it’s coordinated load-bearing. If you want the esoteric reading, it’s a theory of regime change: purify the language, you standardize the worship, you stabilize the polity.\n\nThe Ethiopia line (“beyond the rivers… my dispersed people”) is outwardly universalist, inwardly imperial: the diaspora returns bearing offerings. The nations are not merely welcomed; they are metabolized. Yet the moral pivot is internal: God removes “proud boasters” and leaves “a poor and needy people.” That’s not sentimental charity; it’s deliberate class inversion as spiritual technology. The remnant’s virtue is mostly negative—no lies, no deceit—because the real enemy was rhetorical: the city’s elite talk, not their appetites, is what poisons everything. Zephaniah is obsessed with speech because speech is governance.\n\nMatthew’s parable is the Zephaniah program in miniature and with sharper teeth. Two sons are two speech-acts. One says “I will not” then does; the other says “I go, Sir” then doesn’t. Jesus isn’t praising the first son’s initial defiance; he’s exposing that polite verbal compliance is the favored camouflage of the Religious Class. The Kingdom is not for the verbally correct but for the behaviorally converted.\n\nThen the insult that isn’t merely an insult: “publicans and harlots” go in before you. That’s not just scandal; it’s diagnostic. The outcasts are already trained in the one prerequisite the respectable often lack: acquaintance with truth about themselves. Their sins are visible, so repentance is psychologically available. The elites’ sin is invisibility—self-deception backed by prestige. John came “in the way of justice,” i.e., a publicly legible path; you couldn’t plead ignorance. You “seeing it” still didn’t repent: perceptual culpability. The real damnation is not vice but the refusal to update when confronted with evidence.\n\nPut together, the texts aren’t saying “be nicer.” They’re saying: God prefers the socially disreputable who actually bend reality over the reputable who bend language. The “chosen lip” of Zephaniah and the lying “I go, Sir” of Matthew are mirror-images: one is divinely imposed speech aligned with action; the other is human speech severed from action. The threat is that God will close that gap by force—removing the boasters, leaving the needy, re-authoring the vocabulary.\n\nIf you’re looking for a critique: the program is morally bracing but politically perilous. Purified language + unified shoulder is how you get saints; it’s also how you get disciplined crowds. The texts know this and don’t apologize. They wager that a community of the humbled is less dangerous than a community of the decorous. History, being a sarcastic commentator, suggests both can become monsters—just with different diction.",
+    "gospel": [
+      {
+        "lines": [
+          4,
+          5
+        ],
+        "text": "Jesus forces an adjudication of “will” that collapses rhetoric into outcome, then applies it as a judgment on religious authority. The scandal is epistemic: they had a witness (“John”), a public demonstration (others believed), and yet their will remained unconverted—status becomes a barrier to learning. The parable is less about initial refusal than about who is capable of revising themselves when confronted with truth."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          3,
+          4
+        ],
+        "text": "The oracle turns from indictment to reconstitution: worship is rebuilt as a communicative and communal act (speech restored; service made synchronized), then widened geographically to include the dispersed. The horizon is not moral improvement by exhortation but a re-made public—language, liturgy, and belonging are refashioned so a new social body can form."
+      },
+      {
+        "lines": [
+          5,
+          6
+        ],
+        "text": "The mechanism of renewal is political as much as spiritual: the proud are removed and a low-status center is installed. The text treats arrogance as a structural contaminant; the future community is stabilized by a different class profile—those without leverage become the reliable core."
+      }
+    ],
+    "synthesis": "Both texts attack verbal religion: one repairs speech so invocation can be real; the other condemns speech that only simulates compliance. In each, God’s future runs through a reordered community where credibility is measured by enacted response, not by standing or phrasing.",
+    "seminaVerbi": "The contrast between a “provoking” city and a purified speech that lets a people call on God with “one shoulder” echoes a widespread intuition: that moral renewal is inseparable from the healing of language and community. Jewish tradition often links truthful speech with covenant fidelity, and in Islam the gravity of the tongue—truthfulness, repentance, and remembrance (dhikr)—likewise frames communal unity as an ethical achievement, not a merely political one. The image of restored lips can also be heard alongside Hindu and Buddhist disciplines of “right speech,” where the integrity of words is a training of desire and a condition for social harmony.\n\nThe removal of “proud boasters” and the surprising centrality of the poor and needy resonates with critiques of status found in many traditions. Buddhism’s suspicion of conceit (mana) and the Jain emphasis on humility both treat pride as a fundamental distortion of perception; Daoist texts can sound a similar note when they portray softness and lowliness as closer to the Way than self-assertion. Philosophically, Stoicism’s warning against vanity and its call to align with reason rather than applause parallels the idea that a community becomes livable when it stops performing itself and starts telling the truth.\n\nThe “remnant” who do no wrong and speak no lies, who can rest without fear, touches a deep moral tension between external security and interior integrity. Confucian thought often frames social peace as downstream from cultivated virtue and trustworthy names; the Hebrew prophetic tradition similarly treats justice and truth as the architecture of safety. The aspiration to a place where no one is afraid also invites comparison—carefully and without collapsing differences—to Buddhist and Hindu visions of liberation from fear through transformation of the heart, though here it is imagined in corporate, historical terms.\n\nThe parable of the two sons presses a distinction between declared intention and enacted obedience that many wisdom traditions probe. In Aristotle, virtue is not a speech-act but a habit formed by doing; in the Bhagavad Gita, action that aligns with duty carries more weight than pious talk. The story’s sharp reversal—those publicly labeled sinners entering ahead of the self-assured—finds analogies in Sufi and other Islamic moral narratives that warn against spiritual pride and honor the repentant over the self-satisfied, and in Buddhist stories where the “respectable” can be more trapped by attachment to reputation than those who know their need.\n\nThe emphasis on repentance as a real turning rather than a performance also has close cousins in many paths: Jewish teshuvah, Islamic tawbah, and the Buddhist sense of a genuine change of mind and conduct. Across these, a common thread is that moral truth is recognized not by self-description but by conversion made visible in deeds—and that communities are renewed when honesty about failure becomes the doorway to mercy rather than a cause for shame."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "844019295827739eff25f56d9498387cffd50a14236c9b255491380565d3d39d",
+        "outputSha256": "d19597d6a42fa8e10a177643a883d2e279e4d401e72e453396619faa050fa7a7"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "8bce16193bd60ce961aa574188d6662eecfa996e29d7dc2bf3ff96d29ba6fb88",
+        "outputSha256": "7322a177629c1759739e5e875ee67505a7a19743b0ff05d6e41d3266f5dadbfa"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "ffe59d89562c3de734fd72600997c8a84f67635ae7f85d7b21bdb32e82b79433",
+        "outputSha256": "a3029b0d76da8d5b32013f3626361eb7dca3bd2d9a3caafa9051d02ada6f9f9b"
+      }
+    ]
+  }
+}
