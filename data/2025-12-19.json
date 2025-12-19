@@ -1,0 +1,245 @@
+{
+  "date": "2025-12-19",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/19.html",
+    "title": "Gospel and Word of the Day - 19 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/19.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week III"
+    },
+    "celebrations": [
+      {
+        "key": "fridayOfThe3rdWeekOfAdvent",
+        "name": "Friday of the 3rd week of Advent",
+        "rank": "FERIA",
+        "source": "l",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Judges",
+      "reference": "Judges 13:2-7,24-25",
+      "bibleApiReference": "Judges 13:2-7,24-25",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "Now there was a certain man of Saraa, and of the race of Dan, whose name was Manue, and his wife was barren.",
+        "And an angel of the Lord appeared to her, and said: Thou art barren and without children: but thou shalt conceive and bear a son.",
+        "Now therefore beware, and drink no wine nor strong drink, and eat not any unclean thing.",
+        "Because thou shalt conceive, and bear a son, and no razor shall touch his head: for he shall be a Nazarite of God, from his infancy, and from his mother's womb, and he shall begin to deliver Israel from the hands of the Philistines.",
+        "And when she was come to her husband, she said to him: A man of God came to me, having the countenance of an angel, very awful. And when I asked him whence he came, and by what name he was called, he would not tell me:",
+        "But he answered thus: Behold thou shalt conceive and bear a son: beware thou drink no wine, nor strong drink, nor eat any unclean thing: for the child shall be a Nazarite of God from his infancy, from his mother's womb until the day of his death.",
+        "And she bore a son, and called his name Samson. And the child grew, and the Lord blessed him.",
+        "And the Spirit of the Lord began to be with him in the camp of Dan, between Saraa and Esthaol."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Luke",
+      "reference": "Luke 1:5-25",
+      "bibleApiReference": "Luke 1:5-25",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "There was in the days of Herod, the king of Judea, a certain priest named Zachary, of the course of Abia: and his wife was of the daughters of Aaron, and her name Elizabeth. Of the course of Abia... that is, of the rank of Abia, which word in the Greek is commonly put for the employment of one day: but here for the functions of a whole week. For, by the appointment of David, 1 Par. 24., the descendants from Aaron were divided into twenty-four families, of which the eighth was Abia, from whom descended this Zachary, who at this time was in the week of his priestly functions.",
+        "And they were both just before God, walking in all the commandments and justifications of the Lord without blame.",
+        "And they had no son, for that Elizabeth was barren: and they both were well advanced in years.",
+        "And it came to pass, when he executed the priestly function in the order of his course before God,",
+        "According to the custom of the priestly office, it was his lot to offer incense, going into the temple of the Lord.",
+        "And all the multitude of the people was praying without, at the hour of incense.",
+        "And there appeared to him an angel of the Lord, standing on the right side of the altar of incense.",
+        "And Zachary seeing him, was troubled: and fear fell upon him.",
+        "But the angel said to him: Fear not, Zachary, for thy prayer is heard: and thy wife Elizabeth shall bear thee a son. And thou shalt call his name John.",
+        "And thou shalt have joy and gladness: and many shall rejoice in his nativity.",
+        "For he shall be great before the Lord and shall drink no wine nor strong drink: and he shall be filled with the Holy Ghost, even from his mother's womb.",
+        "And he shall convert many of the children of Israel to the Lord their God.",
+        "And he shall go before him in the spirit and power of Elias: that he may turn the hearts of the fathers unto the children and the incredulous to the wisdom of the just, to prepare unto the Lord a perfect people.",
+        "And Zachary said to the angel: Whereby shall I know this? For I am an old man, and my wife is advanced in years.",
+        "And the angel answering, said to him: I am Gabriel, who stand before God and am sent to speak to thee and to bring thee these good tidings.",
+        "And behold, thou shalt be dumb and shalt not be able to speak until the day wherein these things shall come to pass: because thou hast not believed my words, which shall be fulfilled in their time.",
+        "And the people were waiting for Zachary: and they wondered that he tarried so long in the temple.",
+        "And when he came out, he could not speak to them: and they understood that he had seen a vision in the temple. And he made signs to them and remained dumb.",
+        "And it came to pass, after the days of his office were accomplished, he departed to his own house.",
+        "And after those days, Elizabeth his wife conceived and hid herself five months, saying:",
+        "Thus hath the Lord dealt with me in the days wherein he hath had regard to take away my reproach among men."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Barrenness opens the narrative like a wound: the plot begins as lack."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "The angel names the deficit before reversing it; diagnosis precedes promise."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Conception is governed by abstinence: the mother’s body becomes the child’s first rule."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Hair as covenant-token; deliverance announced as “begin”—unfinished salvation built in."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "She gets the epiphany; he gets the report. Authority arrives secondhand."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "The prohibition repeats verbatim: revelation insists, as if the human ear is porous."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        8
+      ],
+      "text": "“Began” again: Spirit as onset, not completion; presence as pressure in a border-camp."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "Two kinds of emptiness: barren womb and late time; biology and chronology both closed."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        6
+      ],
+      "text": "The people outside pray; the priest inside meets the answer. Distance between petition and receipt."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        9
+      ],
+      "text": "Name given in advance: identity imposed, not discovered."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        11
+      ],
+      "text": "Same abstinence, different filling: wine refused so Spirit can occupy."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        14
+      ],
+      "text": "Demand for proof turns piety into audit."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        16
+      ],
+      "text": "Mute priest: disbelief punished by liturgical irony—one who mediates speech loses it."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        20
+      ],
+      "text": "Conception followed by concealment: miracle kept under cover, not displayed."
+    }
+  ],
+  "commentary": {
+    "excursus": "The juxtaposition is less “two annunciations” than a deliberate stress-test of sacred power: Judges gives you charisma without character; Luke gives you sanctity with discipline. Same trope (barrenness, angel, abstention, destined son), opposite anxieties.\n\nSamson’s origin is immaculate in the narrow sense—set apart, tabooed, scripted—yet everything about him will read like a warning that consecration is not moral formation. The Nazirite rule is imposed first on the mother: holiness begins as a regime of appetite before it is a story of heroism. But the text already hints at the coming farce: the “angel” refuses a name; Manue’s wife can report the awe but not the identity. You get power delivered through obscurity. In Judges that’s not a bug; it’s the Judges-cycle feature: Israel receives deliverers who are themselves half-delivered. “He shall begin to deliver” is the quiet indictment—Samson’s vocation is truncated by design, as if the author knows that raw force can only open a door it cannot walk through.\n\nLuke rewrites the same structure in priestly key and makes the missing piece explicit: not strength but speech. Zachary’s scene is all liturgy—incense, lots, courses, ordered time—so when Gabriel arrives, the question becomes epistemic and political: can the temple’s own functionary receive a message that relativizes the temple? Zachary asks for a sign, and the sign is the removal of his public instrument: voice. In Judges, the nameless messenger withholds; in Luke, the messenger over-identifies (“I am Gabriel…”) and then withholds Zachary. Different pedagogy: Samson will be too much mouth and muscle with too little inner law; Zachary is forced into silence so the word can gestate without being managed.\n\nBoth births cure “reproach,” but they treat reproach differently. In Judges, barrenness is a narrative lever to introduce an exceptional body; in Luke, barrenness is shame in the social register (“among men”), and the cure is framed as divine regard—God repairing public meaning, not just producing an instrument. That’s why John’s abstention (“no wine nor strong drink”) is not merely Nazirite cosplay; it signals a reconfiguration of authority: he will be “filled with the Holy Ghost… from his mother’s womb,” i.e., charisma without the Samson-problem of being charisma alone. Luke is anxious to baptize power into intelligibility.\n\nStraussianly: Judges is honest that Israel sometimes needs a brute miracle it can barely deserve—deliverance as emergency engineering. Luke is more rhetorically civilized: it domesticates the miracle inside institutional time (“course of Abia”) while simultaneously undermining the institution by making its priest temporarily inarticulate. The surface says: God is gracious. The subtext says: the old order can’t speak the new order into being.\n\nThe most acid contrast is the angel’s treatment of doubt. Manue’s wife believes, reports, obeys; her husband is almost irrelevant. Zachary is “just… without blame,” yet is disciplined for wanting certainty. Virtue is not the same as receptivity. Luke is not flattering the pious class; it’s warning them that righteousness can still be a kind of controlling pedantry.\n\nSo the pairing is a critique in stereo: Judges shows what happens when the holy is mostly prohibition plus power (a consecrated appetite attached to an unconsecrated will). Luke shows what happens when the holy is word plus silence (speech disciplined into prophecy). Samson “begins” deliverance; John “prepares” a people. One cracks Philistines; the other cracks interpretations.",
+    "gospel": [
+      {
+        "lines": [
+          4,
+          5,
+          7,
+          15
+        ],
+        "text": "Luke situates the announcement inside institutional worship: lots, incense, altar, named angel. The point is not private spirituality but sanctioned space being interrupted by a messenger who “stands before God.” Temple order becomes the stage for a new order that will soon exceed the temple."
+      },
+      {
+        "lines": [
+          12,
+          13,
+          21
+        ],
+        "text": "John’s vocation is described as relational repair and epistemic reversal—turning hearts and converting the “incredulous” to wisdom—i.e., a moral and cognitive reorientation before any political change. Elizabeth’s final line interprets the event as social vindication, exposing how divine action collides with public shame economies."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          4,
+          7
+        ],
+        "text": "The pericope frames Samson as a designed instrument, not a spontaneous hero: consecration precedes character. The stated mission is deliberately partial—he is tasked to initiate a rupture in Philistine dominance, not to resolve it. That incompleteness signals that judgeship is episodic governance: interventions, not a kingdom."
+      },
+      {
+        "lines": [
+          5,
+          8
+        ],
+        "text": "The scene also relocates agency away from established male channels. Revelation bypasses the husband, then the Spirit stirs the child in a liminal geography (“camp… between” towns). The deliverer is incubated in margins—social and territorial—before he ever acts."
+      }
+    ],
+    "synthesis": "Both texts use the same pattern—barrenness, angelic decree, abstinence, womb-consecration—but aim it differently: Judges produces a boundary-breaker for a pressure zone; Luke produces a forerunner who reorders a people from within. In each, the child’s holiness is not earned but assigned, and the adult world is forced to adjust to an identity announced ahead of time.",
+    "seminaVerbi": "A recurrent pattern across traditions is the “impossible birth” that arrives as gift rather than achievement: the barren conceive, the old become fruitful, and a community’s future is carried by someone who begins as sheer promise. Comparable motifs appear in Hindu epics and Puranic stories where a long-awaited child signals a turning point for dharma, and in Buddhist and Jain biographies where extraordinary beginnings point less to family pride than to a vocation that will reshape others.\n\nThe discipline laid upon the mother and child—abstaining, remaining “set apart,” living under a rule before one can consent—echoes ascetic and consecratory patterns found in many paths: the Hindu brahmacharya ideal, Buddhist monastic precepts, Jain vows, and the Stoic sense that freedom is trained through self-mastery. The moral tension is familiar: consecration is not mere personal perfection but a burden carried for the sake of a people, and the very practices that separate a person can also be understood as making them available for service.\n\nAngelic visitation and the fear it provokes resonate with wider accounts of the numinous: Judaism’s own trembling before the divine name, Islamic narratives of revelation that unsettle the recipient, and even non-theistic traditions’ depictions of awakening as destabilizing before it becomes luminous. The point is not spectacle but reorientation: reality is disclosed as more charged than ordinary calculation allows.\n\nZachary’s speechlessness after demanding certainty has parallels in traditions that treat silence as both medicine and judgment. In Buddhism, “noble silence” can protect the mind from grasping at premature conclusions; in Taoism, speech is often portrayed as an obstacle to aligning with the Way; in Hindu yoga, restraint of speech is a discipline for truthfulness. Here, the muteness feels less like humiliation than a forced apprenticeship in receptivity: the mind that wants proof is trained to wait for fulfillment “in its time.”\n\nFinally, the promised mission of turning hearts—repairing generational fracture and preparing a people—finds echoes in Confucian concerns for filial harmony and social renewal, in Jewish themes of teshuvah as communal return, and in Islamic emphases on guidance that restores justice and right worship. Across these, renewal begins not with abstract programs but with transformed persons whose lives become signs that the future can be received, not manufactured."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "98d7a6fd1531cd013a89cb3eed40a5b0e40d4b4a25e0b8fe8e65eb340bda2bba",
+        "outputSha256": "671e3a16f0f72090013aa1b5aeebd368835d25928475ee97e3c91e4e7efb3a15"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "2ba525558549635c5ec9a189c71cea1a8f59bf54cbd66015c022133c9b1102ef",
+        "outputSha256": "f24677c6bda956fb70455d607f0e8332e3e2d1d3c04dbf7b731a72192ede92b4"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "6b3f5472f5dbc078f3a901410a779e6c7456b177bd8e303f88113bf63c50cffd",
+        "outputSha256": "db28c48a46714085c7e97fbee411f2384d1a4ed604e1cc9765c69aabe1cfbf5c"
+      }
+    ]
+  }
+}
