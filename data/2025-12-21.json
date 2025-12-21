@@ -1,0 +1,198 @@
+{
+  "date": "2025-12-21",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/21.html",
+    "title": "Gospel and Word of the Day - 21 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/21.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "4thSundayOfAdvent",
+        "name": "4th Sunday of Advent",
+        "rank": "SUNDAY",
+        "source": "l",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Isaiah",
+      "reference": "Isaiah 7:10-14",
+      "bibleApiReference": "Isaiah 7:10-14",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "And the Lord spoke again to Achaz, saying:",
+        "Ask thee a sign of the Lord thy God, either unto the depth of hell, or unto the height above.",
+        "And Achaz said: I will not ask, and I will not tempt the Lord.",
+        "And he said: Hear ye therefore, O house of David: Is it a small thing for you to be grievous to men, that you are grievous to my God also?",
+        "Therefore the Lord himself shall give you a sign. Behold a virgin shall conceive, and bear a son and his name shall be called Emmanuel."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 1:18-24",
+      "bibleApiReference": "Matthew 1:18-24",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lines": [
+        "Now the generation of Christ was in this wise. When as his mother Mary was espoused to Joseph, before they came together, she was found with child, of the Holy Ghost.",
+        "Whereupon Joseph her husband, being a just man, and not willing publicly to expose her, was minded to put her away privately.",
+        "But while he thought on these things, behold the Angel of the Lord appeared to him in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.",
+        "And she shall bring forth a son: and thou shalt call his name Jesus. For he shall save his people from their sins.",
+        "Now all this was done that it might be fulfilled which the Lord spoke by the prophet, saying:",
+        "Behold a virgin shall be with child, and bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+        "And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "The sign is offered at the extremes: abyss or zenith. Total jurisdiction."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Piety as refusal. Scruple becomes a shield against obedience."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Court politics recast as liturgy: to weary men is to weary God."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "God gives what the king declines. The sign bypasses consent; it arrives as birth and a name."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "“Emmanuel”: not an argument but a compression—presence as verdict."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "“Found with child”: discovery precedes explanation. Fact first, meaning later."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "Justice here is damage control—law restrained by discretion."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "The address “son of David” reattaches him to a line he is about to rescue from scandal."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "Revelation comes in sleep: certainty delivered where agency is weakest."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Name as program: Jesus—salvation defined as sin-removal, not regime-change."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        7
+      ],
+      "text": "Waking obedience. The dream is not an escape from action but its trigger."
+    }
+  ],
+  "commentary": {
+    "excursus": "Isaiah hands Achaz an epistemic blank check—“ask… unto the depth… or… the height”—and Achaz performs piety as refusal. It’s the classic move of the compromised ruler: decline verification in the name of reverence, thereby keeping one’s policy options unmolested by divine falsifiability. Isaiah calls it what it is: not humility but fatigue-inducing sabotage; you’ve worn out men, now you want to wear out God. The “sign” is therefore not a consolation prize but a hostile gift: God will choose the datum, not the king. The text’s bite is political before it is metaphysical.\n\nThen comes the famous crux: “virgin” (almah in Hebrew) is not the technical term for sexual intactness; it’s a young woman of marriageable age. The later Greek (parthenos) hardens the ambiguity into the biological miracle Christianity needs. That isn’t a cheap gotcha; it’s the point: prophecy is an instrument, and instruments are tuned to the ear that plays them. Isaiah’s immediate horizon is dynastic survival and the psychology of fear; Matthew’s horizon is retroactive intelligibility—history as a tapestry woven from earlier threads, even if the earlier thread was a different color when first spun.\n\nMatthew’s telling is ruthlessly Joseph-centric: Mary is almost an object around which law, mercy, and reputation orbit. Joseph is “just” precisely because he chooses a solution that satisfies legality while minimizing spectacle. This is not romantic. It’s risk-management with a tender conscience. The angel appears in a dream—conveniently unverifiable, perfectly fitted to a man who won’t “ask a sign”: God grants private certainty rather than public evidence. That parallel is a quiet rebuke to Achaz: the sign you refused publicly returns as the sign you cannot control privately.\n\nNames do the heavy lifting. “Emmanuel” is theology: God-with-us, a claim about presence. “Jesus” (Yeshua) is program: salvation, a claim about action. Matthew keeps both, then effectively privileges the functional name: the child will be called Jesus, while Emmanuel becomes interpretation, gloss, secondary title. Presence is subordinated to mission. Christianity’s genius (and its danger) is precisely this: the metaphysical claim is tethered to an ethical-eschatological project, so belief becomes recruitment.\n\nStraussian subtext: these are two strategies for governing a people by narrating crisis. Isaiah threatens the court with a sign that bypasses royal discretion; Matthew offers the populace a sign that bypasses empirical scrutiny. Both replace the politics of alliances with the politics of meaning. Achaz tries to avoid being pinned to a divine demand; Joseph submits to a divine demand that conveniently preserves Davidic legitimacy—“son of David” is not decoration, it’s dynastic bookkeeping. The virgin birth is not only about purity; it’s also a way to claim David without admitting ordinary paternity, a theological adoption that rescues legitimacy from biology.\n\nIf you want the uncomfortable read: the “sign” functions less as proof than as authorization. It doesn’t persuade Achaz; it overrules him. It doesn’t persuade Joseph; it conscripts him. And by the time Matthew quotes Isaiah, the sign has become portable—detached from its original war-time context, made into a reusable cipher. That is midrash at its most creative and least historically scrupulous.\n\nWhat’s admirable here is the psychological acuity: rulers refuse tests; decent men fear scandal; communities need stories that transmute shame into vocation. What’s suspect is the hermeneutical opportunism: a text about a young woman in a 8th-century political panic becomes a linchpin for a 1st-century metaphysical claim. But maybe that’s religion’s central trick: making contingency look like destiny until people live as if it were true.",
+    "gospel": [
+      {
+        "lines": [
+          5,
+          6
+        ],
+        "text": "Matthew frames the episode as hermeneutics: events are narrated to land on citation, and citation is translated into doctrine (“God with us”). The text builds a bridge from genealogy to meaning by making Joseph’s legal act of taking Mary function as the hinge where prophecy becomes public history."
+      },
+      {
+        "lines": [
+          1,
+          4,
+          7
+        ],
+        "text": "The structure turns on naming and adoption. Joseph contributes no conception but supplies legitimacy by accepting the child and executing the commanded name; that act installs the child inside Davidic continuity while redefining kingship in moral terms—deliverance from sins rather than consolidation of power."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          1,
+          5
+        ],
+        "text": "The oracle targets a political actor but shifts the arena: the “sign” is not for Ahaz’s strategy but for the dynastic house. The promised child is a temporal marker and a theological intrusion; the claim “God with us” converts succession into a test of divine presence, making the monarchy answerable to more than diplomacy."
+      }
+    ],
+    "synthesis": "Isaiah offers a sign that overrides royal reluctance; Matthew shows how that overriding enters the world through a private decision that becomes juridical and prophetic at once. In both, the decisive movement is not human initiative but divine insistence, routed through names that interpret the child before he acts.",
+    "seminaVerbi": "A sign offered “from the depths” to “the heights” evokes a wide religious intuition: the Holy is not confined to one register of experience but can meet the human in dread and in wonder. Traditions as different as the Bhagavad Gita (where the divine discloses a cosmic form beyond ordinary measure) and Taoist accounts of the Tao that cannot be grasped yet makes itself known in the humble and the hidden both recognize that revelation often arrives as excess—something that outstrips what calculation can manage.\n\nThe hesitation to “tempt” or test God has close cousins beyond the Bible. In Islam, the refusal to bargain with the Divine through demands for proofs can resonate with the adab of surrender (islam) and the sense that faith is not a laboratory procedure. In Buddhist and Hindu traditions, too, spiritual maturity is sometimes marked by moving from grasping after certainties to a steadier trust in right practice and right perception—though the metaphysical claims differ.\n\nJoseph’s moral tension—justice held together with mercy, truth with protection of another’s dignity—finds analogues in Confucian ethics (where righteousness is inseparable from humane regard and the saving of “face”), and in the Jewish rabbinic concern to balance strict הדין (judgment) with רחמים (compassion). The choice to avoid public shaming also resembles Stoic restraint: refusing to weaponize social power, acting from conscience rather than passion or reputation.\n\nGuidance received in a dream recalls the widespread sense that the boundary between waking reason and deeper insight is porous. Greek accounts of revelatory dreams (as in temple healing traditions), indigenous and shamanic dreamways, and Islamic narratives in which true dreams can carry meaning (without being equated to prophecy) all witness to the possibility that the psyche becomes a meeting place for instruction when the will is quiet.\n\nThe motif of a child as a sign of hope has broad human reach. In Hindu traditions, the birth of Krishna under threat, or in Buddhist stories where the Bodhisattva’s advent signals a turning of the age, echoes—at least thematically—the idea that salvation or renewal arrives not through domination but through vulnerability. Any direct equation would be speculative, yet the shared image is striking: the future comes as gift, not conquest.\n\nFinally, the name “God-with-us” touches a universal longing for divine nearness. Jewish and Christian traditions speak of presence; Sikhism emphasizes the Divine Name dwelling on the tongue and in the heart; Sufi Islam speaks of closeness “nearer than the jugular” while maintaining God’s transcendence. Across these, the moral consequence is similar: if the Holy is not distant, then everyday fidelity—quiet obedience, protective love, courage without spectacle—becomes a credible place where the sacred is disclosed."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "33903783d4f8ca17985f1d85c7272e5a18828006556c5cb4359d9974f3010f72",
+        "outputSha256": "48bf7e7011c82ca30a515fa572715aa58bf77a3b3475055e1c54d365c86bfb35"
+      },
+      {
+        "name": "excursus",
+        "model": "gpt-5.2",
+        "inputSha256": "ea693993ac133e6129786c87caac0eef36662ad4e09d778ec76444fb09ffa79c",
+        "outputSha256": "0bf7375712ae09471772bdc3200d350767ecd13bfbb64920167b663533ce8854"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "60976804bb196956c168a61368050e6710ae7bb230a020248d18343848f6cabc",
+        "outputSha256": "acf8042c8e93a0e334c84e53b613de3e7b8096bbb96d4bfd7576f31431a19eca"
+      }
+    ]
+  }
+}
