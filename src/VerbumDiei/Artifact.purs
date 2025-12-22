@@ -43,6 +43,7 @@ type Reading =
   , reference :: String
   , bibleApiReference :: String
   , translation :: Translation
+  , lineRefs :: Array String
   , lines :: Array String
   }
 

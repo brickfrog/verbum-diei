@@ -14,6 +14,7 @@ import VerbumDiei.Artifact (Translation)
 type BibleReading =
   { reference :: String
   , translation :: Translation
+  , lineRefs :: Array String
   , lines :: Array String
   }
 

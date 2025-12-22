@@ -29,8 +29,60 @@ function extractParagraphs(html) {
   return (matches ?? []).map((p) => stripTags(p).trim());
 }
 
+function ordinalFromHeading(heading) {
+  const match = String(heading ?? "").match(
+    /\b(first|second|third|fourth|1st|2nd|3rd|4th|[1-4]|i{1,3}|iv)\s+(?:book|letter)\b/i,
+  );
+  if (!match) return null;
+
+  switch (match[1].toLowerCase()) {
+    case "first":
+    case "1st":
+    case "1":
+    case "i":
+      return "1";
+    case "second":
+    case "2nd":
+    case "2":
+    case "ii":
+      return "2";
+    case "third":
+    case "3rd":
+    case "3":
+    case "iii":
+      return "3";
+    case "fourth":
+    case "4th":
+    case "4":
+    case "iv":
+      return "4";
+    default:
+      return null;
+  }
+}
+
+const DEFAULT_ORDINAL_BOOKS = new Map([
+  ["Samuel", "1 Samuel"],
+  ["Kings", "1 Kings"],
+  ["Chronicles", "1 Chronicles"],
+  ["Maccabees", "1 Maccabees"],
+]);
+
+const DEFAULT_ORDINAL_LETTERS = new Map([
+  ["Corinthians", "1 Corinthians"],
+  ["Thessalonians", "1 Thessalonians"],
+  ["Timothy", "1 Timothy"],
+  ["Peter", "1 Peter"],
+  ["John", "1 John"],
+]);
+
 function bookFromHeading(heading) {
   const trimmed = (heading ?? "").trim();
+  const ordinal = ordinalFromHeading(trimmed);
+
+  function withOrdinal(book, context) {
+    return ordinal ? `${ordinal} ${book}` : book;
+  }
 
   function clean(name) {
     return String(name ?? "")
@@ -39,21 +91,32 @@ function bookFromHeading(heading) {
       .trim();
   }
 
+  function withOrdinalOrDefault(book, context) {
+    if (ordinal) return `${ordinal} ${book}`;
+    if (context === "book") {
+      return DEFAULT_ORDINAL_BOOKS.get(book) ?? book;
+    }
+    if (context === "letter") {
+      return DEFAULT_ORDINAL_LETTERS.get(book) ?? book;
+    }
+    return book;
+  }
+
   if (/acts of the apostles/i.test(trimmed)) return "Acts";
 
   const paulMatch = trimmed.match(
     /Letter of\s+(?:Saint|St\.?)\s+Paul\s+to\s+the\s+(.+)$/i,
   );
-  if (paulMatch) return clean(paulMatch[1]);
+  if (paulMatch) return withOrdinalOrDefault(clean(paulMatch[1]), "letter");
 
   const letterMatch = trimmed.match(/Letter of\s+(?:Saint|St\.?)\s+(.+)$/i);
-  if (letterMatch) return clean(letterMatch[1]);
+  if (letterMatch) return withOrdinalOrDefault(clean(letterMatch[1]), "letter");
 
   const bookMatch = heading.match(/Book of\s+(.+)$/i);
-  if (bookMatch) return clean(bookMatch[1]);
+  if (bookMatch) return withOrdinalOrDefault(clean(bookMatch[1]), "book");
 
   const gospelMatch = heading.match(/Gospel according to\s+(.+)$/i);
-  if (gospelMatch) return clean(gospelMatch[1]);
+  if (gospelMatch) return withOrdinal(clean(gospelMatch[1]), "gospel");
 
   return null;
 }

@@ -127,6 +127,11 @@ export function fetchBibleReadingImpl(reference) {
             throw new Error(`Could not parse citation: ${citation}`);
           }
 
+          const sameChapter = refs.every((r) => r.chapter === refs[0].chapter);
+          const lineRefs = refs.map((r) =>
+            sameChapter ? String(r.verse) : `${r.chapter}:${r.verse}`,
+          );
+
           const lines = [];
           for (const r of refs) {
             const t = getVerseText(data, book, r.chapter, r.verse);
@@ -147,6 +152,7 @@ export function fetchBibleReadingImpl(reference) {
           onSuccess({
             reference: `${book} ${citation}`,
             translation,
+            lineRefs,
             lines,
           })();
         } catch (err) {
@@ -156,4 +162,3 @@ export function fetchBibleReadingImpl(reference) {
     };
   };
 }
-

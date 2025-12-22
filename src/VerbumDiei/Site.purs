@@ -6,7 +6,7 @@ module VerbumDiei.Site
 import Prelude
 
 import Data.Array as Array
-import Data.Maybe (Maybe(..))
+import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String (Pattern(..), Replacement(..), replaceAll)
 import Data.String as String
 import VerbumDiei.Artifact (Artifact, CommentNote, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
@@ -51,10 +51,20 @@ lineId :: ReadingKind -> Int -> String
 lineId kind n =
   kind <> "-L" <> show n
 
-renderLine :: ReadingKind -> Int -> String -> String
-renderLine kind n text =
+lineLabelForReading :: Reading -> Int -> String
+lineLabelForReading reading n =
+  fromMaybe (show n) (Array.head (Array.drop (n - 1) reading.lineRefs))
+
+lineLabelForKind :: Array Reading -> ReadingKind -> Int -> String
+lineLabelForKind readings kind n =
+  case Array.find (\r -> r.kind == kind) readings of
+    Nothing -> show n
+    Just r -> lineLabelForReading r n
+
+renderLine :: ReadingKind -> Int -> String -> String -> String
+renderLine kind n label text =
   "<p class=\"scripture-line\" id=\"" <> escapeHtml (lineId kind n) <> "\">"
-    <> "<span class=\"ln\">" <> show n <> "</span>"
+    <> "<span class=\"ln\">" <> escapeHtml label <> "</span>"
     <> "<span class=\"lt\">" <> escapeHtml text <> "</span>"
     <> "</p>"
 
@@ -64,7 +74,10 @@ renderReadingBox reading =
     linesHtml =
       String.joinWith "" $
         reading.lines # Array.mapWithIndex \i line ->
-          renderLine reading.kind (i + 1) line
+          let
+            n = i + 1
+          in
+            renderLine reading.kind n (lineLabelForReading reading n) line
   in
     "<section class=\"box reading-box\">"
       <> "<header class=\"section-header\">"
@@ -111,12 +124,12 @@ renderObservances artifact =
       <> "</ul>"
       <> "</section>"
 
-renderLinesLabel :: ReadingKind -> Array Int -> String
-renderLinesLabel kind lines =
-  kindShort kind <> " " <> String.joinWith "," (lines <#> show)
+renderLinesLabel :: (ReadingKind -> Int -> String) -> ReadingKind -> Array Int -> String
+renderLinesLabel lineLabel kind lines =
+  kindShort kind <> " " <> String.joinWith "," (lines <#> lineLabel kind)
 
-renderMarginalia :: Boolean -> Array MarginalNote -> String
-renderMarginalia hasLlm notes =
+renderMarginalia :: (ReadingKind -> Int -> String) -> Boolean -> Array MarginalNote -> String
+renderMarginalia lineLabel hasLlm notes =
   if Array.length notes == 0 then
     if hasLlm then "<div class=\"empty\">(no marginalia generated)</div>"
     else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
@@ -132,7 +145,7 @@ renderMarginalia hasLlm notes =
       href = case firstLine of
         Nothing -> "#"
         Just n -> "#" <> lineId note.readingKind n
-      label = renderLinesLabel note.readingKind note.lines
+      label = renderLinesLabel lineLabel note.readingKind note.lines
       hl = String.joinWith " " (note.lines <#> \n -> lineId note.readingKind n)
     in
       "<li class=\"note\">"
@@ -142,8 +155,8 @@ renderMarginalia hasLlm notes =
         <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
         <> "</li>"
 
-renderCommentNotes :: ReadingKind -> Array CommentNote -> String
-renderCommentNotes kind notes =
+renderCommentNotes :: (ReadingKind -> Int -> String) -> ReadingKind -> Array CommentNote -> String
+renderCommentNotes lineLabel kind notes =
   if Array.length notes == 0 then ""
   else
     "<ul class=\"comment-notes\">"
@@ -157,7 +170,7 @@ renderCommentNotes kind notes =
       href = case firstLine of
         Nothing -> "#"
         Just n -> "#" <> lineId kind n
-      label = renderLinesLabel kind note.lines
+      label = renderLinesLabel lineLabel kind note.lines
       hl = String.joinWith " " (note.lines <#> \n -> lineId kind n)
     in
       "<li class=\"comment-note\">"
@@ -167,8 +180,8 @@ renderCommentNotes kind notes =
         <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
         <> "</li>"
 
-renderCommentaryBox :: Boolean -> Artifact -> String
-renderCommentaryBox hasLlm artifact =
+renderCommentaryBox :: (ReadingKind -> Int -> String) -> Boolean -> Artifact -> String
+renderCommentaryBox lineLabel hasLlm artifact =
   let
     isEmpty =
       Array.length artifact.commentary.reading == 0
@@ -183,7 +196,7 @@ renderCommentaryBox hasLlm artifact =
 
     excursusBody =
       if excursusText == "" then
-        if hasLlm then "<div class=\"empty\">(no excursus generated)</div>"
+        if hasLlm then "<div class=\"empty\">(no heterodox reading generated)</div>"
         else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
       else "<div class=\"excursus-text\">" <> escapeHtml excursusText <> "</div>"
 
@@ -205,22 +218,25 @@ renderCommentaryBox hasLlm artifact =
             <> (if Array.length artifact.commentary.reading == 0 then "" else
                 "<div class=\"commentary-section\">"
                   <> "<div class=\"section-kicker\">On the Reading</div>"
-                  <> renderCommentNotes firstReadingKind artifact.commentary.reading
+                  <> renderCommentNotes lineLabel firstReadingKind artifact.commentary.reading
                   <> "</div>")
             <> (if Array.length artifact.commentary.gospel == 0 then "" else
                 "<div class=\"commentary-section\">"
                   <> "<div class=\"section-kicker\">On the Gospel</div>"
-                  <> renderCommentNotes gospelKind artifact.commentary.gospel
+                  <> renderCommentNotes lineLabel gospelKind artifact.commentary.gospel
                   <> "</div>")
             <> "</div>"
             <> (if artifact.commentary.synthesis == "" then "" else
-                "<p class=\"commentary-synthesis\">" <> escapeHtml artifact.commentary.synthesis <> "</p>"))
+                "<p class=\"commentary-synthesis\">"
+                  <> "<span class=\"label\">Doctrinal</span>"
+                  <> escapeHtml artifact.commentary.synthesis
+                  <> "</p>"))
       <> "<div class=\"excursus\">"
-      <> "<div class=\"section-kicker\">Excursus</div>"
+      <> "<div class=\"section-kicker is-strong\">Heterodox Reading</div>"
       <> excursusBody
       <> "</div>"
       <> "<div class=\"semina-verbi\">"
-      <> "<div class=\"section-kicker\">Semina Verbi</div>"
+      <> "<div class=\"section-kicker is-strong\">Semina Verbi</div>"
       <> seminaBody
       <> "</div>"
       <> "</section>"
@@ -262,6 +278,8 @@ renderArtifactPage config artifact =
         Nothing -> navLink "https://www.gutenberg.org/" translationLabel
         Just r -> navLink (translationHref r.translation.id) translationLabel
 
+    lineLabel = lineLabelForKind artifact.readings
+
     hasLlm = Array.length artifact.llm.calls > 0
   in
     "<!doctype html>"
@@ -292,7 +310,7 @@ renderArtifactPage config artifact =
       <> "<div class=\"section-kicker\">Margin</div>"
       <> "<h2 class=\"section-title\">Marginalia</h2>"
       <> "</header>"
-      <> renderMarginalia hasLlm artifact.marginalia
+      <> renderMarginalia lineLabel hasLlm artifact.marginalia
       <> "</aside>"
       <> "<div class=\"reading-area\">"
       <> readingHtml
@@ -300,7 +318,7 @@ renderArtifactPage config artifact =
       <> "<div class=\"gospel-area\">"
       <> gospelHtml
       <> "</div>"
-      <> renderCommentaryBox hasLlm artifact
+      <> renderCommentaryBox lineLabel hasLlm artifact
       <> "<footer class=\"page-footer\">"
       <> "<div class=\"footer-note\">"
       <> "Scripture text: "
