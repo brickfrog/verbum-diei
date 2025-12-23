@@ -41,158 +41,162 @@ run :: Aff Unit
 run = do
   args <- liftEffect Process.argv
   let targetDate = argValue "--date" args
+  let preflightOnly = hasFlag "--preflight" args || hasFlag "--check" args
 
   log "Fetching Vatican News RSS…"
   rssXml <- fetchText rssUrl
   let feed = parseWordOfDayFeed rssXml
 
-  item <- case targetDate of
-    Nothing ->
-      case Array.head feed.items of
-        Nothing -> throwError (error "RSS feed had no items")
-        Just it -> pure it
-    Just d ->
-      case Array.find (\it -> it.date == d) feed.items of
-        Nothing -> throwError (error ("No RSS item matched date " <> d))
-        Just it -> pure it
+  if preflightOnly then do
+    preflightFeed feed.items
+  else do
+    item <- case targetDate of
+      Nothing ->
+        case Array.head feed.items of
+          Nothing -> throwError (error "RSS feed had no items")
+          Just it -> pure it
+      Just d ->
+        case Array.find (\it -> it.date == d) feed.items of
+          Nothing -> throwError (error ("No RSS item matched date " <> d))
+          Just it -> pure it
 
-  readings <- fetchReadings item
-  observances <- liftEffect $ getObservances item.date
+    readings <- fetchReadings item
+    observances <- liftEffect $ getObservances item.date
 
-  generatedAt <- liftEffect nowIso
+    generatedAt <- liftEffect nowIso
 
-  openAiKeyRaw <- liftEffect $ Process.lookupEnv "OPENAI_API_KEY"
-  let openAiKey = openAiKeyRaw >>= \k -> if trim k == "" then Nothing else Just k
-  model <- liftEffect $ fromMaybe "gpt-5.2" <$> preferredModel
+    openAiKeyRaw <- liftEffect $ Process.lookupEnv "OPENAI_API_KEY"
+    let openAiKey = openAiKeyRaw >>= \k -> if trim k == "" then Nothing else Just k
+    model <- liftEffect $ fromMaybe "gpt-5.2" <$> preferredModel
 
-  { marginalia, commentary, calls } <- case openAiKey of
-    Nothing -> do
-      log "OPENAI_API_KEY not set; skipping LLM generation."
-      pure
-        { marginalia: []
-        , commentary: emptyCommentary
-        , calls: []
-        }
-    Just _ -> do
-      let input = renderPromptInput readings
-      log "Generating marginalia + commentary (structured)…"
+    { marginalia, commentary, calls } <- case openAiKey of
+      Nothing -> do
+        log "OPENAI_API_KEY not set; skipping LLM generation."
+        pure
+          { marginalia: []
+          , commentary: emptyCommentary
+          , calls: []
+          }
+      Just _ -> do
+        let input = renderPromptInput readings
+        log "Generating marginalia + commentary (structured)…"
 
-      analysisResult <-
-        attempt $
-          callOpenAiStructured
-            { model
-            , instructions: llmInstructions
-            , input
-            , temperature: 0.2
-            }
+        analysisResult <-
+          attempt $
+            callOpenAiStructured
+              { model
+              , instructions: llmInstructions
+              , input
+              , temperature: 0.2
+              }
 
-      base <- case analysisResult of
-        Left e -> do
-          log ("OpenAI analysis failed; continuing without marginalia/commentary. " <> show e)
-          pure
-            { marginalia: []
-            , commentary: emptyCommentary
-            , calls: []
-            }
-        Right llmOutput -> do
-          let sanitized = sanitizeLlmOutput readings llmOutput
+        base <- case analysisResult of
+          Left e -> do
+            log ("OpenAI analysis failed; continuing without marginalia/commentary. " <> show e)
+            pure
+              { marginalia: []
+              , commentary: emptyCommentary
+              , calls: []
+              }
+          Right llmOutput -> do
+            let sanitized = sanitizeLlmOutput readings llmOutput
 
-          llmInputSha <- liftEffect $ sha256Hex (llmInstructions <> "\n\n" <> input)
-          llmOutputSha <- liftEffect $ sha256Hex (stringifyPretty sanitized)
+            llmInputSha <- liftEffect $ sha256Hex (llmInstructions <> "\n\n" <> input)
+            llmOutputSha <- liftEffect $ sha256Hex (stringifyPretty sanitized)
 
-          pure
-            { marginalia: sanitized.marginalia
-            , commentary: sanitized.commentary
-            , calls:
-                [ { name: "analysis"
-                  , model
-                  , inputSha256: llmInputSha
-                  , outputSha256: llmOutputSha
-                  }
-                ]
-            }
+            pure
+              { marginalia: sanitized.marginalia
+              , commentary: sanitized.commentary
+              , calls:
+                  [ { name: "analysis"
+                    , model
+                    , inputSha256: llmInputSha
+                    , outputSha256: llmOutputSha
+                    }
+                  ]
+              }
 
-      log "Generating heterodox reading…"
+        log "Generating heterodox reading…"
 
-      excursusResult <-
-        attempt $
-          callOpenAiExcursus
-            { model
-            , instructions: heterodoxPrompt
-            , input
-            , temperature: 0.7
-            }
+        excursusResult <-
+          attempt $
+            callOpenAiExcursus
+              { model
+              , instructions: heterodoxPrompt
+              , input
+              , temperature: 0.7
+              }
 
-      withExcursus <- case excursusResult of
-        Left e -> do
-          log ("OpenAI heterodox reading failed; continuing without heterodox reading. " <> show e)
-          pure base
-        Right excursusText -> do
-          let heterodoxText = trim excursusText
-          llmInputSha <- liftEffect $ sha256Hex (heterodoxPrompt <> "\n\n" <> input)
-          llmOutputSha <- liftEffect $ sha256Hex heterodoxText
-          pure base
-            { commentary = base.commentary { excursus = heterodoxText }
-            , calls =
-                base.calls
-                  <> [ { name: "heterodox_reading"
-                       , model
-                       , inputSha256: llmInputSha
-                       , outputSha256: llmOutputSha
-                       }
-                     ]
-            }
+        withExcursus <- case excursusResult of
+          Left e -> do
+            log ("OpenAI heterodox reading failed; continuing without heterodox reading. " <> show e)
+            pure base
+          Right excursusText -> do
+            let heterodoxText = trim excursusText
+            llmInputSha <- liftEffect $ sha256Hex (heterodoxPrompt <> "\n\n" <> input)
+            llmOutputSha <- liftEffect $ sha256Hex heterodoxText
+            pure base
+              { commentary = base.commentary { excursus = heterodoxText }
+              , calls =
+                  base.calls
+                    <> [ { name: "heterodox_reading"
+                         , model
+                         , inputSha256: llmInputSha
+                         , outputSha256: llmOutputSha
+                         }
+                       ]
+              }
 
-      log "Generating semina verbi…"
+        log "Generating semina verbi…"
 
-      seminaResult <-
-        attempt $
-          callOpenAiSeminaVerbi
-            { model
-            , instructions: seminaVerbiPrompt
-            , input
-            , temperature: 0.6
-            }
+        seminaResult <-
+          attempt $
+            callOpenAiSeminaVerbi
+              { model
+              , instructions: seminaVerbiPrompt
+              , input
+              , temperature: 0.6
+              }
 
-      case seminaResult of
-        Left e -> do
-          log ("OpenAI semina verbi failed; continuing without semina verbi. " <> show e)
-          pure withExcursus
-        Right seminaText -> do
-          let seminaVerbi = trim seminaText
-          llmInputSha <- liftEffect $ sha256Hex (seminaVerbiPrompt <> "\n\n" <> input)
-          llmOutputSha <- liftEffect $ sha256Hex seminaVerbi
-          pure withExcursus
-            { commentary = withExcursus.commentary { seminaVerbi = seminaVerbi }
-            , calls =
-                withExcursus.calls
-                  <> [ { name: "semina_verbi"
-                       , model
-                       , inputSha256: llmInputSha
-                       , outputSha256: llmOutputSha
-                       }
-                     ]
-            }
+        case seminaResult of
+          Left e -> do
+            log ("OpenAI semina verbi failed; continuing without semina verbi. " <> show e)
+            pure withExcursus
+          Right seminaText -> do
+            let seminaVerbi = trim seminaText
+            llmInputSha <- liftEffect $ sha256Hex (seminaVerbiPrompt <> "\n\n" <> input)
+            llmOutputSha <- liftEffect $ sha256Hex seminaVerbi
+            pure withExcursus
+              { commentary = withExcursus.commentary { seminaVerbi = seminaVerbi }
+              , calls =
+                  withExcursus.calls
+                    <> [ { name: "semina_verbi"
+                         , model
+                         , inputSha256: llmInputSha
+                         , outputSha256: llmOutputSha
+                         }
+                       ]
+              }
 
-  let artifact =
-        { date: item.date
-        , source:
-            { rssUrl
-            , itemUrl: item.guid
-            , title: item.title
-            , guid: item.guid
-            }
-        , observances
-        , readings
-        , marginalia
-        , commentary
-        , llm:
-            { generatedAt
-            , calls
-            }
-        }
+    let artifact =
+          { date: item.date
+          , source:
+              { rssUrl
+              , itemUrl: item.guid
+              , title: item.title
+              , guid: item.guid
+              }
+          , observances
+          , readings
+          , marginalia
+          , commentary
+          , llm:
+              { generatedAt
+              , calls
+              }
+          }
 
-  writeOutputs artifact
+    writeOutputs artifact
 
 fetchReadings :: FeedItem -> Aff (Array Reading)
 fetchReadings item = do
@@ -207,6 +211,42 @@ fetchReadings item = do
       , lineRefs: api.lineRefs
       , lines: api.lines
       }
+
+preflightFeed :: Array FeedItem -> Aff Unit
+preflightFeed items = do
+  log ("Preflight: validating " <> show (Array.length items) <> " feed item(s)…")
+  results <- items # traverse \item -> do
+    checks <- item.readings # traverse \r -> do
+      res <- attempt (fetchBibleReading r.bibleApiReference)
+      pure { kind: r.kind, ref: r.bibleApiReference, result: res }
+    pure { item, checks }
+
+  let
+    failures =
+      results # Array.concatMap \entry ->
+        entry.checks # Array.mapMaybe \check ->
+          case check.result of
+            Left e ->
+              Just
+                { date: entry.item.date
+                , title: entry.item.title
+                , kind: check.kind
+                , ref: check.ref
+                , err: show e
+                }
+            Right _ -> Nothing
+
+    formatFailure f =
+      let
+        label =
+          if f.date == "" then f.title else f.date <> " " <> f.title
+      in
+        "- " <> label <> " (" <> f.kind <> " " <> f.ref <> "): " <> f.err
+
+  if Array.length failures == 0 then
+    log "Preflight OK: all feed readings resolved."
+  else
+    throwError (error ("Preflight failed:\n" <> String.joinWith "\n" (failures <#> formatFailure)))
 
 readingKindFromString :: String -> ReadingKind
 readingKindFromString = case _ of
@@ -398,6 +438,12 @@ argValue key argv =
   case Array.findIndex (_ == key) argv of
     Just i -> Array.index argv (i + 1)
     Nothing -> findEquals key argv
+
+hasFlag :: String -> Array String -> Boolean
+hasFlag key argv =
+  case Array.findIndex (_ == key) argv of
+    Just _ -> true
+    Nothing -> false
 
 findEquals :: String -> Array String -> Maybe String
 findEquals key argv =

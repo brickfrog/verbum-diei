@@ -25,6 +25,8 @@ function loadData() {
     ["revelation", "Revelation"],
     ["tobias", "Tobit"],
     ["tobit", "Tobit"],
+    ["malachi", "Malachias"],
+    ["malachias", "Malachias"],
     ["josue", "Joshua"],
     ["joshua", "Joshua"],
     ["paralipomenon", "Chronicles"],
@@ -110,6 +112,51 @@ function getVerseText(data, book, chapter, verse) {
   return typeof t === "string" ? t : null;
 }
 
+const VERSE_MAPS = new Map([
+  [
+    "Malachias",
+    {
+      folds: [{ fromChapter: 3, toChapter: 4 }],
+    },
+  ],
+  [
+    "Zechariah",
+    {
+      offsets: [{ chapter: 2, offset: 4 }],
+    },
+  ],
+]);
+
+function mapVerseReference(data, book, chapter, verse) {
+  const maps = VERSE_MAPS.get(book);
+  if (!maps) return null;
+  const chapters = data.books?.[book];
+  if (!Array.isArray(chapters)) return null;
+
+  for (const fold of maps.folds ?? []) {
+    if (chapter !== fold.fromChapter) continue;
+    const fromArr = chapters[fold.fromChapter - 1];
+    const toArr = chapters[fold.toChapter - 1];
+    if (!Array.isArray(fromArr) || !Array.isArray(toArr)) continue;
+    const offset = fromArr.length;
+    if (verse <= offset) continue;
+    const mappedVerse = verse - offset;
+    if (mappedVerse < 1 || mappedVerse > toArr.length) continue;
+    return { chapter: fold.toChapter, verse: mappedVerse };
+  }
+
+  for (const mapping of maps.offsets ?? []) {
+    if (chapter !== mapping.chapter) continue;
+    const chapterArr = chapters[chapter - 1];
+    if (!Array.isArray(chapterArr)) continue;
+    const mappedVerse = verse - mapping.offset;
+    if (mappedVerse < 1 || mappedVerse > chapterArr.length) continue;
+    return { chapter, verse: mappedVerse };
+  }
+
+  return null;
+}
+
 export function fetchBibleReadingImpl(reference) {
   return function (onError) {
     return function (onSuccess) {
@@ -134,7 +181,11 @@ export function fetchBibleReadingImpl(reference) {
 
           const lines = [];
           for (const r of refs) {
-            const t = getVerseText(data, book, r.chapter, r.verse);
+            let t = getVerseText(data, book, r.chapter, r.verse);
+            if (!t) {
+              const mapped = mapVerseReference(data, book, r.chapter, r.verse);
+              if (mapped) t = getVerseText(data, book, mapped.chapter, mapped.verse);
+            }
             if (!t) {
               throw new Error(
                 `Missing verse text for ${book} ${r.chapter}:${r.verse}`,
