@@ -1,0 +1,235 @@
+{
+  "date": "2025-12-23",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/23.html",
+    "title": "Gospel and Word of the Day - 23 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/23.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "saintJohnOfKantyPriest",
+        "name": "Saint John of Kenty, Priest",
+        "rank": "OPT_MEMORIAL",
+        "source": "g",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Malachi",
+      "reference": "Malachias 3:1-4,23-24",
+      "bibleApiReference": "Malachi 3:1-4,23-24",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "23",
+        "24"
+      ],
+      "lines": [
+        "Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold, he cometh, saith the Lord of hosts. My angel... Viz., John the Baptist, the messenger of God, and forerunner of Christ.",
+        "And who shall be able to think of the day of his coming? and who shall stand to see him? for he is like a refining fire, and like the fuller's herb:",
+        "And he shall sit refining and cleansing the silver, and he shall purify the sons of Levi, and shall refine them as gold, and as silver, and they shall offer sacrifices to the Lord in justice.",
+        "And the sacrifice of Juda and of Jerusalem shall please the Lord, as in the days of old, and in the ancient years.",
+        "Behold, I will send you Elias the prophet, before the coming of the great and dreadful day of the Lord.",
+        "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema. He shall turn the heart, etc... By bringing over the Jews to the faith of Christ, he shall reconcile them to their fathers, viz., the partiarchs and prophets; whose hearts for many ages have been turned away from them, because of their refusing to believe in Christ.-Ibid. With anathema... In the Hebrew, Cherem, that is, with utter destruction. THE FIRST BOOK OF MACHABEES These books are so called, because they contain the history of the people of God under the command of Judas Machabeus and his brethren: and he, as some will have it, was surnamed Machabeus, from carrying in his ensigns, or standards, those words of Exodus 15.11, Who is like to thee among the strong, O Lord: in which the initial letters, in the Hebrew, are M. C. B. E. I. It is not known who is the author of these books. But as to their authority, though they are not received by the Jews, saith St. Augustine, (lib. 18, De Civ. Dei, c. 36,) they are received by the church: who, in settling her canon of the scriptures, chose rather to be directed by the tradition she had received from the apostles of Christ, than by that of the scribes and Pharisees. And as the church has declared these two Books canonical, even in two general councils, viz., Florence and Trent, there can be no doubt of their authenticity."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Luke",
+      "reference": "Luke 1:57-66",
+      "bibleApiReference": "Luke 1:57-66",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66"
+      ],
+      "lines": [
+        "Now Elizabeth's full time of being delivered was come: and she brought forth a son.",
+        "And her neighbors and kinsfolks heard that the Lord had shewed his great mercy towards her: and they congratulated with her.",
+        "And it came to pass that on the eighth day they came to circumcise the child: and they called him by his father's name Zachary.",
+        "And his mother answering, said: Not so. But he shall be called John.",
+        "And they said to her: There is none of thy kindred that is called by this name.",
+        "And they made signs to his father, how he would have him called.",
+        "And demanding a writing table, he wrote, saying: John is his name. And they all wondered.",
+        "And immediately his mouth was opened and his tongue loosed: and he spoke, blessing God.",
+        "And fear came upon all their neighbours: and all these things were noised abroad over all the hill country of Judea.",
+        "And all they that had heard them laid them up in their heart, saying: What an one, think ye, shall this child be? For the hand of the Lord was with him."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "The Lord arrives as “angel of the testament”: covenant in a body, not a document."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Coming is unbearable: consolation and combustion share a date."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "He “sits” to refine: judgment as patient procedure, not a raid."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "Elias promised before the Day: mercy posts a warning sign."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "Hearts turned or land struck: reconciliation framed as disaster-avoidance."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "The rite tries to annex the child to lineage by naming."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "“Not so”: vocation vetoes custom; mother speaks like a prophet."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        7
+      ],
+      "text": "Mute man writes the name; the word returns only after obedience."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        8
+      ],
+      "text": "Speech reopens as doxology: the first recovered use is worship."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        10
+      ],
+      "text": "Question becomes atmosphere: identity is treated as omen, not biography."
+    }
+  ],
+  "commentary": {
+    "excursus": "Malachi doesn’t promise comfort; he promises a violation. The one “whom you seek” is also the one nobody can endure, a chemist-god who comes to the place you thought you owned and turns worship into an assay of your impurities. Desire is exposed as hunger for punishment disguised as piety: you want him, and you fear him, and those are the same pulse.\n\nThe “refining” is not gentle improvement but controlled burning, a liturgical interrogation. Priests are the first target because they are the first liars, living on holy language while dodging its heat. Reconciliation of fathers and children isn’t sentimental; it’s coercive reattachment, the family line yanked taut so no one can escape the ancestral claim. The threat at the end—anathema, total ruin—reveals the real motive: love is offered with a knife behind it.\n\nLuke stages this violence as domestic scene. A birth, a party, the ordinary machinery of naming—and then a rupture. Elizabeth refuses the clan’s script; the community pushes back; Zechariah, silenced until he submits, writes the new name like a verdict. “John” lands in the room as an alien object, and the price of saying it is fear spreading through the hills. The miracle isn’t sweetness; it’s the terror of a child who doesn’t belong to anyone’s genealogy, a messenger born to unmake the house from the inside.",
+    "gospel": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "Luke frames the birth as a public event: mercy is legible to the neighborhood, not locked in private experience. The community is made a witness-body, and witness immediately becomes interpretation."
+      },
+      {
+        "lines": [
+          6,
+          9
+        ],
+        "text": "Communication is a motif: signs to the father, writing, then speech, then rumor across the hills. The narrative converts a domestic naming into a regional disturbance; revelation propagates through ordinary channels."
+      },
+      {
+        "lines": [
+          8,
+          10
+        ],
+        "text": "The miracle is not primarily the opened mouth but the opened question in others. The crowd’s fear and pondering are the first fruits of John’s mission: he is introduced as an unanswered problem that prepares a people for the coming scrutiny."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          1,
+          4
+        ],
+        "text": "The passage hinges on access: the one “sought” comes to the temple, and worship is reconstituted so that offerings can again be called “in justice.” The target is not mere cultic improvement but the recovery of right relation—priesthood first, then the people who depend on it."
+      },
+      {
+        "lines": [
+          2,
+          3
+        ],
+        "text": "Purification is cast as differentiation: the same advent that attracts desire also creates a crisis of standing. Refining language implies separation within Israel, not an external enemy; holiness is produced by removing what cannot survive proximity."
+      },
+      {
+        "lines": [
+          5,
+          6
+        ],
+        "text": "The eschatological threat (“great and dreadful day,” “anathema/cherem”) is answered by a social-theological repair: generations are realigned. The covenant is defended by restoring continuity of faith across time, so the land is not treated as disposable collateral."
+      }
+    ],
+    "synthesis": "God’s mercy arrives as purification that reorders worship and lineage, separating what can endure His presence from what cannot. John’s naming and the loosening of Zechariah’s tongue mark the beginning of that refining before the Lord comes to His temple.",
+    "seminaVerbi": "Malachi stages arrival as heat: not comfort but assay. The “messenger” is the psyche’s disruptive function, the one who walks ahead of meaning and makes the house ready by making it intolerable to stay the same. Refining fire is moral perception turned up to a temperature where self-deception can’t survive. The point isn’t punishment; it’s concentration. What remains after burning is what you can actually stand on.\n\nLuke gives that heat a domestic scene. The neighbors want the old name, the clan’s continuity, the easy script. Elizabeth interrupts. Zechariah, silenced until he stops bargaining with reality, writes the name down and speech returns. The body’s ritual on the eighth day is paired with a rupture in social expectation: a new word enters the family and the family has to reorganize around it. Wonder and fear spread because everyone senses that a child can be an event, not just a birth.\n\n“Turn the hearts of fathers to children” reads like intergenerational repair under pressure: the future becomes legible again to the past, and the past becomes usable again to the future. The alternative is “anathema,” the curse of severed continuity, a community that can’t transmit life without transmitting damage.\n\nSemina Verbi: this messenger-before-the-event resembles Hermes as threshold-crossing herald and purifier of boundaries; speculation. The refining ordeal echoes alchemical calcination and nigredo-to-albedo sequences where the false is burned off so a truer substance can appear; speculation. The name-change-as-destiny recalls Daoist “rectification of names” and the Confucian sense that disorder begins when words no longer fit reality; speculation. The returning of hearts parallels Buddhist and Hindu karma-as-inheritance made conscious and transformed rather than repeated; speculation."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "d1c4ec6d81c354206f935772c12db64cee5735818bc93bf71f379a9963715963",
+        "outputSha256": "8fc2cd9f8a840753fda92765ae057c974a6aedcd7e30b55d635fe51717d28b6f"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "48a8ba6aa17e9c477c14bdc58c622ad87791e2483fb78f261359848bbe20025b",
+        "outputSha256": "0ab565f00395ccd8501ef62579ca2dd15d41ff46a8dfc226ae725efeda6a4cac"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "5ede9eece43a28b235d87263616bdc059936463f9e69921339dd2fd595d56edc",
+        "outputSha256": "1ce772bdb18504c7fd8dbd0b8da06051956f9bb765901dbabebeafe3a60419d4"
+      }
+    ]
+  }
+}
