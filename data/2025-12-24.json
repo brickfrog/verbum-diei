@@ -1,0 +1,258 @@
+{
+  "date": "2025-12-24",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/24.html",
+    "title": "Gospel and Word of the Day - 24 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/24.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Advent",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "wednesdayOfThe4thWeekOfAdvent",
+        "name": "Wednesday of the 4th week of Advent",
+        "rank": "FERIA",
+        "source": "l",
+        "color": "PURPLE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Second Book of  Samuel",
+      "reference": "2 Samuel 7:1-5,8-12,14,16",
+      "bibleApiReference": "2 Samuel 7:1-5,8-12,14,16",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "14",
+        "16"
+      ],
+      "lines": [
+        "And it came to pass when the king sat in his house, and the Lord had given him rest on every side from all his enemies,",
+        "He said to Nathan the prophet: Dost thou see that I dwell in a house of cedar, and the ark of God is lodged within skins?",
+        "And Nathan said to the king: Go, do all that is in they heart: because the Lord is with thee.",
+        "But it came to pass that night, that the word of the Lord came to Nathan, saying:",
+        "Go, and say to my servant David: Thus saith the Lord: Shalt thou build me a house to dwell in?",
+        "And now thus shalt thou speak to my servant David: Thus saith the Lord of hosts: I took thee out of the pastures from following the sheep to be ruler over my people Israel:",
+        "And I have been with thee wheresoever thou hast walked, and have slain all thy enemies from before thy face: and I have made thee a great man, like unto the name of the great ones that are on the earth.",
+        "And I will appoint a place for my people Israel, and I will plant them, and they shall dwell therein, and shall be disturbed no more: neither shall the children of iniquity afflict them any more as they did before,",
+        "From the day that I appointed judges over my people Israel: and I will give thee rest from all thy enemies. And the Lord foretelleth to thee, that the Lord will make thee a house.",
+        "And when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I will raise up thy seed after thee, which shall proceed out of the bowels, and I will establish his kingdom. I will establish his kingdom... This prophecy partly relateth to Solomon: but much more to Christ, who is called the son of David in scripture, and who is the builder of the true temple, which is the church, his everlasting kingdom, which shall never fail.",
+        "I will be to him a father, and he shall be to me a son: and if he commit any iniquity, I will correct him with the rod of men, and with the stripes of the children of men.",
+        "And thy house shall be faithful, and thy kingdom for ever before thy face, and thy throne shall be firm for ever."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Luke",
+      "reference": "Luke 1:67-79",
+      "bibleApiReference": "Luke 1:67-79",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79"
+      ],
+      "lines": [
+        "And Zachary his father was filled with the Holy Ghost. And he prophesied, saying:",
+        "Blessed be the Lord God of Israel: because he hath visited and wrought the redemption of his people.",
+        "And hath raised up an horn of salvation to us, in the house of David his servant. Horn of salvation... That is, A powerful salvation, as Dr. Witham translates it. For in the Scripture, by horn is generally understood strength and power.",
+        "As he spoke by the mouth of his holy prophets, who are from the beginning.",
+        "Salvation from our enemies and from the hand of all that hate us.",
+        "To perform mercy to our fathers and to remember his holy testament.",
+        "The oath, which he swore to Abraham our father, that he would grant to us.",
+        "That being delivered from the hand of our enemies, we may serve him without fear:",
+        "In holiness and justice before him, all our days.",
+        "And thou, child, shalt be called the prophet of the Highest: for thou shalt, go before the face of the Lord to prepare his ways:",
+        "To give knowledge of salvation to his people, unto the remission of their sins.",
+        "Through the bowels of the mercy of our God, in which the Orient from on high hath visited us: The Orient... It is one of the titles of the Messias, the true light of the world, and the sun of justice.",
+        "To enlighten them that sit in darkness and in the shadow of death: to direct our feet into the way of peace."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "“Rest” is the dangerous interval: the temptation to manage God."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Cedar versus skins: luxury shames simplicity; piety is mixed with status."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Prophetic impulse outruns revelation; approval comes too fast."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "A question that cuts: God refuses to be housed by human initiative."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "Sheep-to-scepter: election precedes architecture; God builds kings before temples."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        9
+      ],
+      "text": "Reversal: David offers a house; God promises to make David a “house”."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "“Visited”: redemption framed as inspection and intervention, not sentiment."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "Horn imagery: salvation as force, not consolation."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        6
+      ],
+      "text": "Mercy is covenantal memory; God’s kindness has a legal shape."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        8
+      ],
+      "text": "Delivered in order to serve: freedom is reassignment."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        11
+      ],
+      "text": "Salvation defined as remission: the enemy is guilt before it is Rome."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        12
+      ],
+      "text": "“Bowels of mercy”: visceral compassion becomes history; “Orient” names invasion of light."
+    }
+  ],
+  "commentary": {
+    "excursus": "David mistakes peace for permission. Rest from enemies makes him restless; he wants to memorialize the calm with architecture, to trap the untamed God inside cedar the way a king traps his own story inside monuments. Nathan’s first answer is the easy flattery power always receives: do what is in your heart.\n\nGod’s refusal is not piety but jealousy of being managed. “Shalt thou build me a house” is a rebuke to David’s need to domesticate what chose him from sheep and mud. The twist—“the Lord will make thee a house”—is a takeover of David’s desire: you will not author permanence; you will be authored by it. The promise of an heir carries dread as well as comfort: even the son will be scourged, and the dynasty is secured through discipline. Eternity comes with a rod.\n\nZachary’s song is the same bargain dressed as joy. He calls it salvation from enemies and service “without fear,” but the poem keeps returning to shadows, death, and the urgent need to be directed. Mercy is described in viscera, in “bowels,” as if redemption is not clean light but something that churns inside, invasive and bodily. The Orient rises, not to congratulate history, but to expose it: a dawn that finds people seated, habituated, in darkness. Peace arrives as guidance, not relief—an imposed path when your own feet would wander back to the familiar night.",
+    "gospel": [
+      {
+        "lines": [
+          1,
+          4,
+          7,
+          10,
+          13
+        ],
+        "text": "The hymn is a compressed theology of history: Spirit-filled speech interprets events as fulfillment across generations—prophets, Abrahamic oath, then a named forerunner whose role is preparatory, not central. The movement is from promise to proclamation to path: light produces direction, and peace is depicted as a way walked, not merely a ceasefire."
+      },
+      {
+        "lines": [
+          5,
+          9
+        ],
+        "text": "“Enemies” are treated on two registers: external opposition and the internal condition that blocks worship. The telos is a life rendered before God—public, continuous, and accountable."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          4,
+          7,
+          8,
+          10,
+          12
+        ],
+        "text": "The oracle relocates agency: the dynasty is not David’s project but God’s instrument, timed by death (“sleep with thy fathers”) and extended by succession (“raise up thy seed”). The promise stabilizes Israel by planting and place, then stretches beyond political continuity toward an enduring reign, with sonship language opening a theological horizon the monarchy cannot exhaust."
+      },
+      {
+        "lines": [
+          11
+        ],
+        "text": "The covenant is not flattery: filial status includes chastisement. Permanence does not cancel discipline; it domesticates judgment inside a relationship."
+      }
+    ],
+    "synthesis": "God’s covenant builds an everlasting house by sovereign promise, not human construction, and its salvation is the remission of sins that frees a people for lifelong worship under the Davidic Son.",
+    "seminaVerbi": "David’s piety is restless: he can’t enjoy his cedar comfort while the ark sleeps in a tent. It looks like gratitude, but it’s also management—an urge to stabilize God by giving Him an address. The shock is the reversal: David doesn’t build God a house; God builds David a house. The text dismantles religious control. The divine favor that lifted a shepherd into kingship refuses to be domesticated by architecture.\n\nPsychologically, it’s the moment a successful man tries to convert inner debt into a visible project. Nathan’s first answer blesses the impulse, then the night brings the correction: desire is not discernment. The promise is intimate and unsettling. Dynasty will continue, but not as a reward for David’s plan; it will exist as a gift that outlives David’s competence. Even the line about correction with “the rod of men” keeps the bond from turning into flattery. This is not a contract between equals. It is attachment with discipline, a fathering that won’t be managed.\n\nLuke turns that old promise into a bodily experience: a mute man gets his voice back and the first thing he does is interpret history as visitation. “Horn” is strength, yes, but it is also animal imagery: salvation as force, not ornament. Enemies are named, yet the axis shifts toward “remission of sins,” as if the deepest occupation is internal. The rhetoric is a nervous system settling: delivered, then able to serve “without fear.” The “Orient from on high” is dawn inside the psyche, light that doesn’t argue but changes what the dark can conceal.\n\nThe seed here is the intuition that the holy cannot be housed, only hosted. Speculation: you can hear an Upanishadic critique of ritual possession, the Daoist suspicion of naming and containing the Dao, and the Sufi insistence that the Friend won’t fit in forms. You can also hear Stoic liberation from fear through alignment with a providential order, and Buddhist language about awakening as light breaking ignorance. Each is a cousin-gesture toward the same movement: from controlling the sacred to being re-made by it, from anxious security to a peace that arrives like morning."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "850e41c9e8d1e3bf77fe1f4b961d2301ecaaacf9ac69a5831ab2204dd9f986fa",
+        "outputSha256": "7c7a23ba18ef53d4fd3615dec9846c543d83304b72a593f3d13af705b117c3d1"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "df3388d59a5b45653706dd456d432c1fda5dedf41f9c3b3f82ff25b4dc68d0d7",
+        "outputSha256": "b456a78645b64e0f3ba21a8b1fdc3ae3d03a20a870d73f5629ca374666d7218e"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "c26c25449b6e53d5fddb1f02871fca221174453eac5badf249ee43b555be89cb",
+        "outputSha256": "2dd1254a29dc45e26a46f7e514a214080dd9365ca47977ea4a73b16b0acc0dae"
+      }
+    ]
+  }
+}
