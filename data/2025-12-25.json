@@ -1,0 +1,230 @@
+{
+  "date": "2025-12-25",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/25.html",
+    "title": "Gospel and Word of the Day - 25 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/25.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Christmas",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "christmas",
+        "name": "Christmas",
+        "rank": "SOLEMNITY",
+        "source": "c",
+        "color": "WHITE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Isaiah",
+      "reference": "Isaiah 52:7-10",
+      "bibleApiReference": "Isaiah 52:7-10",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "lines": [
+        "How beautiful upon the mountains are the feet of him that bringeth good tidings, and that preacheth peace: of him that sheweth forth good, that preacheth salvation, that saith to Sion: Thy God shall reign!",
+        "The voice of thy watchmen: they have lifted up their voice, they shall praise together: for they shall see eye to eye when the Lord shall convert Sion.",
+        "Rejoice, and give praise together, O ye deserts of Jerusalem: for the Lord hath comforted his people: he hath redeemed Jerusalem.",
+        "The Lord hath prepared his holy arm in the sight of all the Gentiles: and all the ends of the earth shall see the salvation of our God."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to John",
+      "reference": "John 1:1-18",
+      "bibleApiReference": "John 1:1-18",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "lines": [
+        "In the beginning was the Word: and the Word was with God: and the Word was God.",
+        "The same was in the beginning with God.",
+        "All things were made by him: and without him was made nothing that was made.",
+        "In him was life: and the life was the light of men.",
+        "And the light shineth in darkness: and the darkness did not comprehend it.",
+        "There was a man sent from God, whose name was John.",
+        "This man came for a witness, to give testimony of the light, that all men might believe through him.",
+        "He was not the light, but was to give testimony of the light.",
+        "That was the true light, which enlighteneth every man that cometh into this world.",
+        "He was in the world: and the world was made by him: and the world knew him not.",
+        "He came unto his own: and his own received him not.",
+        "But as many as received him, he gave them power to be made the sons of God, to them that believe in his name.",
+        "Who are born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+        "And the Word was made flesh and dwelt among us (and we saw his glory, the glory as it were of the only begotten of the Father), full of grace and truth.",
+        "John beareth witness of him and crieth out, saying: This was he of whom I spoke: He that shall come after me is preferred before me: because he was before me.",
+        "And of his fulness we all have received: and grace for grace.",
+        "For the law was given by Moses: grace and truth came by Jesus Christ.",
+        "No man hath seen God at any time: the only begotten Son who is in the Bosom of the Father, he hath declared him."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Feet, not face: the messenger is praised at ground level; reign arrives by report before rule is felt."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "“Eye to eye” ends surveillance; watchmen cease scanning and start seeing."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "The “holy arm” is staged “in the sight” of nations: power becomes public, not tribal."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "The Word is not a tool God uses; the Word is what God is."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "Darkness fails as intellect and as grip: it cannot grasp the light."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        10
+      ],
+      "text": "Maker unrecognized by his own workmanship: the scandal of familiarity."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        14
+      ],
+      "text": "Flesh is not a costume; “dwelt” makes God a resident, not a visitor."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        13
+      ],
+      "text": "Birth is stripped of ancestry, appetite, and politics; origin is relocated to God."
+    }
+  ],
+  "commentary": {
+    "excursus": "Isaiah fetishizes the messenger: feet on mountains, news that supposedly ends terror. But it reads like propaganda for the traumatized. “Peace,” “salvation,” “God shall reign” are slogans the body is begged to believe while the city lies in ruins. The watchmen “see eye to eye” not because truth arrives, but because fear finally produces unanimity. Even the “holy arm” bared before the nations is not comfort but spectacle, power rebranded as tenderness.\n\nJohn’s prologue is the same ache in metaphysical dress. The Word makes everything, then enters what it made and is met with the most intimate humiliation: not-known, not-received. Light shines and the darkness “did not comprehend” it; that isn’t darkness’s stupidity, it’s its refusal. The world resists being interpreted, because being comprehended means being owned.\n\nThe incarnation is not a cozy visit; it is an invasion of flesh by meaning. “Born not of blood” is a severing: family, desire, and lineage declared insufficient, replaced by a new origin that can only be granted from elsewhere. Grace arrives as a beautiful threat, offering adoption at the price of your old name. The dread in both texts is that redemption looks like takeover, and the desire is that takeover might finally quiet the ruin inside.",
+    "gospel": [
+      {
+        "lines": [
+          3,
+          4,
+          9
+        ],
+        "text": "John’s prologue is a cosmic claim with anthropological force: the agent of creation is also the giver of illumination to “every man.” The same source grounds being, life, and intelligibility."
+      },
+      {
+        "lines": [
+          6,
+          7,
+          15
+        ],
+        "text": "John the Baptist is inserted as procedural necessity: revelation is not self-authenticating to a resistant world; it comes with testimony that both directs belief and refuses to become the object of belief."
+      },
+      {
+        "lines": [
+          12,
+          16,
+          17,
+          18
+        ],
+        "text": "The passage moves from reception to participation: receiving yields adoption, then “fulness,” then a contrastive economy where Moses marks gift, and Jesus Christ constitutes the arrival of “grace and truth.” The unseen God is not inferred but declared by the Son’s nearness to the Father."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          1,
+          3
+        ],
+        "text": "Isaiah’s sequence runs: proclamation → perception → consolation. The message of reign does not float as religious sentiment; it reorganizes a ruined city into a choir, turning “deserts” into liturgy."
+      },
+      {
+        "lines": [
+          2,
+          4
+        ],
+        "text": "The horizon widens from Zion to “all the ends of the earth.” Salvation is narrated as a conversion of the center that becomes visibility for the periphery; particular restoration becomes universal disclosure."
+      }
+    ],
+    "synthesis": "The one God reigns by making himself known: first by proclaimed good news, finally by the Word made flesh who discloses the Father and creates a new birth of adopted sons.",
+    "seminaVerbi": "Isaiah gives you a body first: feet on mountains, a runner crossing hard terrain with news that changes the nervous system. Peace and salvation aren’t ideas; they arrive as breathless report, and the city’s “watchmen” answer with a synchronized relief—eye to eye, finally, because the threat-response can stand down. The “holy arm” bared before the nations is the public end of hiding, the moment a people stops whispering its hope.\n\nJohn takes that messenger-energy and drives it inward to the structure of reality. “Word” is the intelligibility of things, the pattern that makes chaos readable, and it is personal. Light doesn’t argue with darkness; it simply shows what is there, and the tragedy is not hostility but non-recognition: the world runs on meaning and still fails to know meaning when it appears in a human face. “His own received him not” reads like the most intimate psychological wound: familiarity turning into blindness.\n\nThe pivot is the sentence that refuses spiritualization: the Word becomes flesh and “dwells” among us. Meaning accepts limitation, texture, fatigue, misunderstanding; the cure is not escape but incarnation. John the witness is the necessary secondary figure—healthy ego that points away from itself—because humans often need a voice they trust before they can tolerate the light.\n\nSemina Verbi: the Logos here resonates, speculatively, with Stoic Logos as the rational fire ordering the cosmos, and with the Dao in Daoism as the way that underlies and generates forms, though John insists that this ordering principle takes a particular human life. Isaiah’s watchmen seeing “eye to eye” echoes the Buddhist image of awakening as clear seeing, and the desert rejoicing recalls Hindu bhakti where the world itself becomes capable of praise. The messenger on the mountains has kin in Zoroastrian good tidings of truth over the Lie, and in Islamic imagery of revelation as guidance and light, though John’s claim is that the light is not merely sent; it is the source come near."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "28a5bb42ab6c4f5fbc7987175871f66670297d7b16945786dda478c8efddcdef",
+        "outputSha256": "5b56eb1f45f5e97b873d2165eee35bff1991300afd13d868e2921828c9124c5a"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "07eb34d4df0b171c80ceb0cc84dea232fa1492b1b7a891e862ca2e382b479324",
+        "outputSha256": "b2f6db11b2db560569a2e95d9e57d1df98daae5cd2df0f9728cd9abedffc0376"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "dfe7d9afdad27a0cd1cf70a132025428d1a7ac84cd7cd992f7f2391ad2c1258b",
+        "outputSha256": "603975f9f55afbdb018170af0c93a651f1684fb00377084adcd2323b360794a3"
+      }
+    ]
+  }
+}
