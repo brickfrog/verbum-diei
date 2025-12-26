@@ -65,7 +65,7 @@ function resolveBookName(input, byKey) {
 
 function parseReference(reference) {
   const trimmed = String(reference ?? "").trim();
-  const match = trimmed.match(/^(.+)\s+(\d+.*)$/);
+  const match = trimmed.match(/^(.+?)\s+(\d+.*)$/);
   if (!match) {
     throw new Error(`Could not parse reference: ${trimmed}`);
   }

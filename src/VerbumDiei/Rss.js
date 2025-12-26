@@ -15,6 +15,13 @@ function decodeEntities(input) {
     .replace(/&#([0-9]+);/g, (_, num) => String.fromCharCode(Number(num)));
 }
 
+function stripCitationSuffix(value) {
+  return String(value ?? "")
+    .replace(/\s*\([^)]*\d+[^)]*\)\s*$/, "")
+    .replace(/\s+\d+[:\d].*$/, "")
+    .trim();
+}
+
 function stripTags(html) {
   return decodeEntities(
     html
@@ -85,10 +92,12 @@ function bookFromHeading(heading) {
   }
 
   function clean(name) {
-    return String(name ?? "")
-      .replace(/^the\s+prophet\s+/i, "")
-      .replace(/^(saint|st\.?)\s+/i, "")
-      .trim();
+    return stripCitationSuffix(
+      String(name ?? "")
+        .replace(/^the\s+/i, "")
+        .replace(/^the\s+prophet\s+/i, "")
+        .replace(/^(saint|st\.?)\s+/i, ""),
+    ).trim();
   }
 
   function withOrdinalOrDefault(book, context) {
@@ -109,10 +118,12 @@ function bookFromHeading(heading) {
   );
   if (paulMatch) return withOrdinalOrDefault(clean(paulMatch[1]), "letter");
 
-  const letterMatch = trimmed.match(/Letter of\s+(?:Saint|St\.?)\s+(.+)$/i);
+  const letterMatch = trimmed.match(
+    /Letter of\s+(?:(?:Saint|St\.?)\s+)?(.+)$/i,
+  );
   if (letterMatch) return withOrdinalOrDefault(clean(letterMatch[1]), "letter");
 
-  const bookMatch = heading.match(/Book of\s+(.+)$/i);
+  const bookMatch = trimmed.match(/Boo[kf]\s+of\s+(.+)$/i);
   if (bookMatch) return withOrdinalOrDefault(clean(bookMatch[1]), "book");
 
   const gospelMatch = heading.match(/Gospel according to\s+(.+)$/i);
@@ -129,6 +140,97 @@ function normalizeCitation(citation) {
     .trim();
 }
 
+function isCitationLine(line) {
+  return /\d+\s*:\s*\d/.test(line);
+}
+
+function splitBookCitation(line) {
+  const normalized = String(line ?? "")
+    .replace(/[()]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  const match = normalized.match(/^(.+?)\s+(\d+.*)$/);
+  if (!match) return null;
+  if (!/[A-Za-z]/.test(match[1])) return null;
+  if (isCitationLine(match[1]) || /:/.test(match[1])) return null;
+  return { book: stripCitationSuffix(match[1]), citation: match[2].trim() };
+}
+
+function isHeadingLabel(line) {
+  return (
+    /^(a\s+reading|first\s+reading|second\s+reading|third\s+reading|fourth\s+reading)\b/i.test(
+      line,
+    ) ||
+    /^gospel\b/i.test(line) ||
+    /gospel according to/i.test(line)
+  );
+}
+
+function normalizeBookLine(line) {
+  const fromHeading = bookFromHeading(line);
+  if (fromHeading) return fromHeading;
+  const cleaned = stripCitationSuffix(line);
+  if (!cleaned) return null;
+  if (isCitationLine(cleaned)) return null;
+  if (!/[A-Za-z]/.test(cleaned)) return null;
+  if (isHeadingLabel(cleaned)) return null;
+  return cleaned;
+}
+
+function extractReadingFromParagraph(paragraph, kind) {
+  const lines = paragraph
+    .split("\n")
+    .map((l) => l.trim())
+    .filter(Boolean);
+  const heading = lines[0] ?? (kind === "gospel" ? "Gospel" : "A reading");
+
+  let book = bookFromHeading(heading);
+  let citation = "";
+
+  const citationIndex = lines.findIndex(isCitationLine);
+  if (citationIndex >= 0) {
+    const citationLine = lines[citationIndex];
+    const split = splitBookCitation(citationLine);
+    if (split) {
+      const normalizedBook = normalizeBookLine(split.book) ?? split.book;
+      book = book ?? normalizedBook;
+      citation = split.citation;
+    } else {
+      citation = citationLine;
+    }
+
+    if (!book) {
+      for (let i = citationIndex - 1; i >= 0; i--) {
+        const candidate = normalizeBookLine(lines[i]);
+        if (candidate) {
+          book = candidate;
+          break;
+        }
+      }
+    }
+  }
+
+  if (!citation) {
+    const splitHeading = splitBookCitation(heading);
+    if (splitHeading) {
+      const normalizedBook = normalizeBookLine(splitHeading.book) ?? splitHeading.book;
+      book = book ?? normalizedBook;
+      citation = splitHeading.citation;
+    }
+  }
+
+  const normalizedCitation = normalizeCitation(citation);
+  const bibleApiReference = `${book ?? ""} ${normalizedCitation}`.trim();
+
+  return {
+    kind,
+    heading,
+    book: book ?? "",
+    citation: normalizedCitation,
+    bibleApiReference,
+  };
+}
+
 function extractReadingsFromDescription(descriptionHtml) {
   const paragraphs = extractParagraphs(descriptionHtml);
 
@@ -142,41 +244,11 @@ function extractReadingsFromDescription(descriptionHtml) {
   const results = [];
 
   if (firstReadingHeading) {
-    const lines = firstReadingHeading
-      .split("\n")
-      .map((l) => l.trim())
-      .filter(Boolean);
-    const heading = lines[0] ?? "A reading";
-    const citation = normalizeCitation(lines[1] ?? "");
-    const book = bookFromHeading(heading) ?? "";
-    const bibleApiReference = `${book} ${citation}`.trim();
-
-    results.push({
-      kind: "first",
-      heading,
-      book,
-      citation,
-      bibleApiReference,
-    });
+    results.push(extractReadingFromParagraph(firstReadingHeading, "first"));
   }
 
   if (gospelHeading) {
-    const lines = gospelHeading
-      .split("\n")
-      .map((l) => l.trim())
-      .filter(Boolean);
-    const heading = lines[0] ?? "Gospel";
-    const citation = normalizeCitation(lines[1] ?? "");
-    const book = bookFromHeading(heading) ?? "";
-    const bibleApiReference = `${book} ${citation}`.trim();
-
-    results.push({
-      kind: "gospel",
-      heading,
-      book,
-      citation,
-      bibleApiReference,
-    });
+    results.push(extractReadingFromParagraph(gospelHeading, "gospel"));
   }
 
   return results;
