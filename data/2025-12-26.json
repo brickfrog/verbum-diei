@@ -1,0 +1,250 @@
+{
+  "date": "2025-12-26",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/26.html",
+    "title": "Gospel and Word of the Day - 26 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/26.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Christmas",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "saintStephenTheFirstMartyr",
+        "name": "Saint Stephen, The First Martyr",
+        "rank": "FEAST",
+        "source": "g",
+        "color": "RED",
+        "titles": [
+          "MARTYR"
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Boof of the Acts",
+      "reference": "Acts 6:8-10; 7:54-59",
+      "bibleApiReference": "Acts 6:8-10; 7:54-59",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "6:8",
+        "6:9",
+        "6:10",
+        "7:54",
+        "7:55",
+        "7:56",
+        "7:57",
+        "7:58",
+        "7:59"
+      ],
+      "lines": [
+        "And Stephen, full of grace and fortitude, did great wonders and signs among the people.",
+        "Now there arose some, of that which is called the synagogue of the Libertines and of the Cyrenians and of the Alexandrians and of them that were of Cilicia and Asia, disputing with Stephen.",
+        "And they were not able to resist the wisdom and the spirit that spoke.",
+        "Now hearing these things, they were cut to the heart: and they gnashed with their teeth at him.",
+        "But he, being full of the Holy Ghost, looking up steadfastly to heaven, saw the glory of God and Jesus standing on the right hand of God. And he said: Behold, I see the heavens opened and the Son of man standing on the right hand of God.",
+        "And they, crying out with a loud voice, stopped their ears and with one accord ran violently upon him.",
+        "And casting him forth without the city, they stoned him. And the witnesses laid down their garments at the feet of a young man, whose name was Saul.",
+        "And they stoned Stephen, invoking and saying: Lord Jesus, receive my spirit.",
+        "And falling on his knees, he cried with a loud voice, saying: Lord, lay not his sin to their charge: And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to Matthew",
+      "reference": "Matthew 10:17-22",
+      "bibleApiReference": "Matthew 10:17-22",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "lines": [
+        "But beware of men. For they will deliver you up in councils, and they will scourge you in their synagogues.",
+        "And you shall be brought before governors, and before kings for my sake, for a testimony to them and to the Gentiles:",
+        "But when they shall deliver you up, take no thought how or what to speak: for it shall be given you in that hour what to speak:",
+        "For it is not you that speak, but the spirit of your Father that speaketh in you.",
+        "The brother also shall deliver up the brother to death, and the father the son; and the children shall rise up against their parents, and shall put them to death.",
+        "And you shall be hated by all men for my name's sake: but he that shall persevere unto the end, he shall be saved."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "“Full of grace” paired with “fortitude”: charisma yoked to endurance; power is not the point, staying is."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "The litany of factions names diaspora respectability; violence will arrive wearing committee badges."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "They cannot “resist” wisdom: the failure is not intellectual but defensive; truth cornered becomes dangerous."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "“Cut to the heart” yields teeth, not tears; conviction mutates into rage when pride is threatened."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        5
+      ],
+      "text": "Jesus “standing”: court posture, not enthroned repose—witness for the accused, indictment of the judges."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "They stop their ears: chosen deafness; the mob is liturgy of self-protection."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7
+      ],
+      "text": "Outside the city: holiness expelled to preserve a clean center; Saul at the feet—custodian of violence."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        8
+      ],
+      "text": "“Receive my spirit”: death rendered as transfer of custody; prayer replaces self-assertion."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        9
+      ],
+      "text": "“Lay not his sin”: absolution spoken over murder; “fell asleep” dares to rename execution as rest."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "“Beware of men”: the threat is ordinary humanity, institutionalized in councils and synagogues."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        3
+      ],
+      "text": "No premeditated defense: persecution forbids theatrics; speech becomes sheer dependence."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Agency displaced: the Father’s Spirit speaks; the martyr is instrument, not author."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        5
+      ],
+      "text": "Kinship turns prosecutorial: the household becomes the first tribunal."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        6
+      ],
+      "text": "“Hated by all” for a Name: universality of enmity; salvation is attached to endurance, not victory."
+    }
+  ],
+  "commentary": {
+    "excursus": "Stephen is not killed because he loses an argument; he is killed because he wins it too cleanly. His “wisdom and spirit” are an erotic kind of certainty, the sort that makes other men feel stupid and exposed. The council’s rage is shame turned outward: they cannot bear being seen through, so they turn the gaze into stones.\n\nHis vision is not consolation but provocation. “I see the heavens opened” is an escalation, a refusal to soften, a mystic’s last thrust into the wound of the crowd. They stop their ears like children, not to block noise but to block contagion, because his calm is infectious and would unmake their shared story.\n\nMatthew’s warning reads like the manual for creating a persecuted self. “Take no thought what to speak” is permission to dissociate into a voice that cannot be corrected. The Spirit becomes the perfect alibi: you are no longer responsible for what you say, and therefore no longer reachable.\n\nThe dread in both texts is that belief is a solvent. It dissolves family first, then law, then ordinary pity, because devotion wants purity more than peace. Stephen’s final forgiveness is not sweetness; it is domination—he dies setting the terms, refusing to grant his killers the dignity of guilt. Saul watches and consents, learning that the new world is founded by the spectacle of a body made meaningful under violence.",
+    "gospel": [
+      {
+        "lines": [
+          2,
+          6
+        ],
+        "text": "Matthew presents persecution as mission’s public interface: governors and kings become unwilling audiences, and endurance is the metric of fidelity. The horizon is not martyrdom as spectacle but as sustained witness under expanding social pressure."
+      },
+      {
+        "lines": [
+          1,
+          5
+        ],
+        "text": "The text collapses the distance between religious space and domestic space: synagogue discipline and family betrayal operate by the same logic of preservation. The disciple is trained to expect opposition not as exception but as the normal cost of naming Christ."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          2,
+          7
+        ],
+        "text": "Acts frames Stephen’s death as a juridical and civic act: disputation hardens into expulsion, then public execution. The narrative quietly installs Saul as the legitimating witness-bearer of the deed, setting continuity between official religion, civic boundary-making (“without the city”), and the later apostolic drama."
+      },
+      {
+        "lines": [
+          5,
+          8,
+          9
+        ],
+        "text": "Stephen’s final speech-acts align his death with Jesus’ own: vision interprets the event from above, and prayer governs the event from within. The scene establishes martyrdom as a mode of testimony where the decisive action is not resistance but address—directed to Christ and, paradoxically, for the killers."
+      }
+    ],
+    "synthesis": "The Spirit makes the persecuted Church speak with Christ’s own voice, and that witness is authenticated by endurance unto death and by intercession for enemies.",
+    "seminaVerbi": "Stephen is drawn as a mind too awake for the room he’s in. “Full of grace and fortitude” is less halo than psychological posture: grounded, unflinching, unusually coherent under pressure. His opponents can’t “resist” his speech, so the conflict stops being about reasons and becomes about containment. The body reacts—cut to the heart, teeth grinding, ears stopped—because the argument has touched identity, and identity fights like pain.\n\nThe vision functions as the inward image that lets him hold the line when the crowd’s reality becomes mob reality. “Heavens opened” is the private certainty that makes public fear irrelevant. He answers violence with an astonishing refusal to mirror it: receive my spirit; don’t charge them. That is not passivity; it is mastery over retaliatory impulse, the final independence. The detail of Saul watching plants the seed of transformation: the witness of composure under unjust suffering infects even the consenting bystander.\n\nMatthew’s warning reads like a manual for what happens when loyalty becomes total: institutions punish, families fracture, hatred concentrates. The promise is not safety but a different kind of speech—unrehearsed, emergent, arriving from deeper than the calculating self. Perseverance here is not stubbornness; it is staying intact when social reality tries to rewrite you.\n\nSemina Verbi: the non-retaliation echoes the Bodhisattva ideal in Mahayana Buddhism, meeting harm with compassion rather than reflex. The steadiness under death recalls Stoic apatheia and Socrates’ composure before execution. Speculation: “spirit speaking in you” resembles the Daoist sense of effortless right action, wu-wei, where speech arises when the self stops grasping."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "0e1ae5745501fc5b23b8d66d43beec77adcb73ce85dd7ab48450c44ae7e77a2e",
+        "outputSha256": "064eb11e45e89c81e35902d853b9dd4314fc0fd8d3635adb7788737cb2d43ac0"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "ee7a30a71d621d323993aae31056708c0b90de7aac9d80e4a07a960a5e2796a1",
+        "outputSha256": "5e52f7ef0a55aef3f31cf7d7fd4f27cb73a441513da0419d68a990739879bbe6"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "1fd15a56476b875df60baf17a2eccad8440ed1e1ce440334119175ae445dd59e",
+        "outputSha256": "4b35d1fe534d3ae21408b36f0529d0a5e5fb2c2f12b5f47182dc8cd6f87ea1d8"
+      }
+    ]
+  }
+}
