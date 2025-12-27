@@ -73,7 +73,11 @@ function parseReference(reference) {
 }
 
 function parseCitation(citation) {
-  const cleaned = String(citation ?? "").replace(/\s+/g, "");
+  let cleaned = String(citation ?? "")
+    .replace(/\s+/g, " ")
+    .replace(/\band\b/gi, ",")
+    .replace(/,\s*(\d+\s*:\s*\d+)/g, ";$1")
+    .replace(/\s+/g, "");
   const segments = cleaned.split(";").filter(Boolean);
   const out = [];
 
