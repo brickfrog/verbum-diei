@@ -1,0 +1,208 @@
+{
+  "date": "2025-12-27",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/27.html",
+    "title": "Gospel and Word of the Day - 27 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/27.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Christmas",
+      "cycle": "Year A",
+      "psalterWeek": "Week IV"
+    },
+    "celebrations": [
+      {
+        "key": "saintJohnTheApostleAndEvangelist",
+        "name": "Saint John the Apostle and Evangelist",
+        "rank": "FEAST",
+        "source": "g",
+        "color": "WHITE",
+        "titles": []
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the first letter of John",
+      "reference": "1 John 1:1-4",
+      "bibleApiReference": "1 John 1:1-4",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "lines": [
+        "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon and our hands have handled, of the word of life.",
+        "For the life was manifested: and we have seen and do bear witness and declare unto you the life eternal, which was with the Father and hath appeared to us.",
+        "That which we have seen and have heard, we declare unto you: that you also may have fellowship with us and our fellowship may be with the Father and with his Son Jesus Christ.",
+        "And these things we write to you, that you may rejoice and your joy may be full."
+      ]
+    },
+    {
+      "kind": "gospel",
+      "heading": "From the Gospel according to John",
+      "reference": "John 20:1 and 2-8",
+      "bibleApiReference": "John 20:1 and 2-8",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "lines": [
+        "And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre: and she saw the stone taken away from the sepulchre.",
+        "She ran therefore and cometh to Simon Peter and to the other disciple whom Jesus loved and saith to them: They have taken away the Lord out of the sepulchre: and we know not where they have laid him.",
+        "Peter therefore went out, and the other disciple: and they came to the sepulchre.",
+        "And they both ran together: and that other disciple did outrun Peter and came first to the sepulchre.",
+        "And when he stooped down, he saw the linen cloths lying: but yet he went not in.",
+        "Then cometh Simon Peter, following him, and went into the sepulchre: and saw the linen cloths lying,",
+        "And the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place.",
+        "Then that other disciple also went in, who came first to the sepulchre: and he saw and believed."
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "The beginning is proved by senses: heard, seen, handled; anti-gnostic empiricism."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "“Manifested” turns eternity into event; witness is compelled, not optional."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Declaration aims at communion; vertical fellowship (Father/Son) sets the terms of the horizontal."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Writing is an instrument of completion: joy as a finished measure, not a mood."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        1
+      ],
+      "text": "Dawn begins in darkness; resurrection knowledge starts with absence and displaced stone."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        2
+      ],
+      "text": "“They have taken” misreads victory as theft; plural ignorance speaks for the group."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        4
+      ],
+      "text": "Two runners: love arrives first, authority enters first; speed and office diverge."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        7
+      ],
+      "text": "The head-cloth set apart: order without a body; calm trace of departure, not haste."
+    },
+    {
+      "readingKind": "gospel",
+      "lines": [
+        8
+      ],
+      "text": "Belief sparked by signs, not sight of Jesus; faith can be induced by residue."
+    }
+  ],
+  "commentary": {
+    "excursus": "These texts ache with the need to make absence behave. The letter insists on touch—heard, seen, handled—as if piling up senses could pin down what keeps slipping. “Word of life” is treated like a body you can grip, because the dread underneath is simple: if it can’t be held, it can’t be trusted, and if it can’t be trusted, you are alone.\n\nMary arrives “while it was yet dark” and reads the missing body as theft. That’s the honest first interpretation of loss: someone took him; the world did what the world does. The men run not toward revelation but toward damage control. The beloved disciple pauses at the threshold, staring at the linens like evidence that refuses to speak.\n\nThe strange detail is the neatness: cloths lying, the head-napkin folded apart. It’s not a miracle as spectacle; it’s a scene arranged to make grief tolerable. No body, but order. The beloved disciple “saw and believed” not because he met the risen one, but because the emptiness is curated—absence with a signature. Belief here is an erotic fidelity to a trace.\n\n“Fellowship” then is not communion with a triumphant presence; it’s a pact among witnesses who cannot bear the thought that they were abandoned. They write to force joy into fullness, to seal the crack where desire leaks into terror. Joy is manufactured as a shared story that makes the dark tomb livable, and the deepest temptation is to call that fullness when it is, still, hunger.",
+    "gospel": [
+      {
+        "lines": [
+          3,
+          5,
+          6
+        ],
+        "text": "The narrative is staged as a procedural investigation: report, arrival, inspection, entry. The sequence distinguishes observation from interpretation and makes belief answerable to a controlled set of clues rather than to ecstatic experience."
+      },
+      {
+        "lines": [
+          1,
+          2,
+          8
+        ],
+        "text": "Mary’s error is not corrected by argument but by the unfolding of evidence; the text depicts faith as the reclassification of absence—from loss to meaning—under the pressure of signs."
+      }
+    ],
+    "reading": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "The epistle opens as sworn testimony: a public claim to apostolic competence that anchors “eternal life” in a concrete disclosure, so the community’s faith is tethered to a historical irruption rather than private illumination."
+      },
+      {
+        "lines": [
+          3,
+          4
+        ],
+        "text": "The logic moves from manifestation to incorporation: proclamation creates a shared participation in divine life, and the letter functions as a continuing vehicle of that incorporation, extending apostolic presence across time."
+      }
+    ],
+    "synthesis": "The risen Christ establishes faith through publicly accessible testimony and signs, binding believers into communion with the Father through the apostolic word.",
+    "seminaVerbi": "These passages insist that meaning begins in the senses. Hearing, seeing, touching: the writer piles up bodily verbs to block the escape into vagueness. “Word of life” is not an idea you assent to but a presence that presses back against the hand. Psychologically it’s a manifesto against dissociation: joy becomes “full” when inner conviction is re-welded to shared, testable experience, and when private rapture is converted into public testimony.\n\nThe tomb scene stages belief as a sequence of perceptions. Darkness, a missing stone, running, stooping, cloths, a neatly placed headcloth: the narrative makes faith grow out of attention to small, stubborn details. Mary interprets absence as theft; the men interpret arrangement as meaning. Grief jumps to the most human explanation; love and curiosity linger long enough for a different pattern to emerge. The “beloved disciple” believes not because he is braver, but because he can read the room: the emptiness is organized, not looted.\n\nFellowship is the social form of this psychology. The writer isn’t trying to win an argument; he’s trying to create a shared field where perception, memory, and speech line up, so joy can circulate rather than collapse into solitary intensity.\n\nSemina Verbi: the insistence on a truth that must be seen and touched echoes Zen’s distrust of secondhand doctrine and its demand for direct seeing; it also resembles Sufism’s emphasis on tasted knowledge, dhawq, where reality is known by an inward savor rather than by report. The careful reading of absence and the way the empty space becomes a kind of sign recalls apophatic strands in Hindu Advaita and in the Daoist sense that what is most real can be indicated by what is not there. Speculation: the folded cloth functions like a koan-object, not proving anything, but arresting the mind long enough for a new interpretation to arrive."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "111155a343188de578039190e2422e62647e1a85b58d42e656e161934c13095d",
+        "outputSha256": "57b7daa3c4206426fd5ca40bbb444f541e106f862b0e24aeeff28878de060515"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "e901ab6b4e8be4054616b038582c70dffec455d6d4d47c2d2ee2ea0fccee5734",
+        "outputSha256": "0c64465e827dad9022dfa16924adc5f5d2e78cf8e19365bc22162dcc3672d689"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "f34ba75d6474b4aa6d65cb3300701d1b6d1726255a79af8431c5992638b51943",
+        "outputSha256": "9aa370abc15ab70701e9675febbddcc09a425aefcf84cbda0b231ffd280a6aa3"
+      }
+    ]
+  }
+}
