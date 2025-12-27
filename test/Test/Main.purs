@@ -26,6 +26,10 @@ main = do
       reading <- fetchBibleReading "John 20:1,21:1-2"
       assertEqual "lineRefs" [ "20:1", "21:1", "21:2" ] reading.lineRefs
 
+    test "parses ordinal book references" do
+      reading <- fetchBibleReading "1 John 1:1-4"
+      assertEqual "lineRefs" [ "1", "2", "3", "4" ] reading.lineRefs
+
     liftEffect (log "All tests passed.")
 
 test :: String -> Aff Unit -> Aff Unit

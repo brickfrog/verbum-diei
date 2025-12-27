@@ -12,6 +12,7 @@
             "either",
             "exceptions",
             "foldable-traversable",
+            "integers",
             "maybe",
             "node-process",
             "prelude",

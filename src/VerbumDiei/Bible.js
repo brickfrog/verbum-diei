@@ -63,51 +63,6 @@ function resolveBookName(input, byKey) {
   return byKey.get(key) ?? null;
 }
 
-function parseReference(reference) {
-  const trimmed = String(reference ?? "").trim();
-  const match = trimmed.match(/^(.+?)\s+(\d+.*)$/);
-  if (!match) {
-    throw new Error(`Could not parse reference: ${trimmed}`);
-  }
-  return { bookRaw: match[1].trim(), citation: match[2].trim() };
-}
-
-function parseCitation(citation) {
-  let cleaned = String(citation ?? "")
-    .replace(/\s+/g, " ")
-    .replace(/\band\b/gi, ",")
-    .replace(/,\s*(\d+\s*:\s*\d+)/g, ";$1")
-    .replace(/\s+/g, "");
-  const segments = cleaned.split(";").filter(Boolean);
-  const out = [];
-
-  for (const seg of segments) {
-    const m = seg.match(/^(\d+):(.+)$/);
-    if (!m) continue;
-
-    const chapter = Number.parseInt(m[1], 10);
-    const versesPart = m[2];
-
-    for (const part of versesPart.split(",").filter(Boolean)) {
-      const range = part.match(/^(\d+)-(\d+)$/);
-      if (range) {
-        const start = Number.parseInt(range[1], 10);
-        const end = Number.parseInt(range[2], 10);
-        const lo = Math.min(start, end);
-        const hi = Math.max(start, end);
-        for (let v = lo; v <= hi; v++) out.push({ chapter, verse: v });
-        continue;
-      }
-
-      if (/^\d+$/.test(part)) {
-        out.push({ chapter, verse: Number.parseInt(part, 10) });
-      }
-    }
-  }
-
-  return out;
-}
-
 function getVerseText(data, book, chapter, verse) {
   const chapters = data.books?.[book];
   const chapterArr = Array.isArray(chapters) ? chapters[chapter - 1] : null;
@@ -161,58 +116,60 @@ function mapVerseReference(data, book, chapter, verse) {
   return null;
 }
 
-export function fetchBibleReadingImpl(reference) {
-  return function (onError) {
-    return function (onSuccess) {
-      return function () {
-        try {
-          const data = loadData();
-          const { bookRaw, citation } = parseReference(reference);
-          const book = resolveBookName(bookRaw, data._bookByKey);
-          if (!book) {
-            throw new Error(`Unknown book: ${bookRaw}`);
-          }
+export function fetchBibleReadingImpl(bookRaw) {
+  return function (citation) {
+    return function (refs) {
+      return function (onError) {
+        return function (onSuccess) {
+          return function () {
+            try {
+              const data = loadData();
+              const book = resolveBookName(bookRaw, data._bookByKey);
+              if (!book) {
+                throw new Error(`Unknown book: ${bookRaw}`);
+              }
 
-          const refs = parseCitation(citation);
-          if (!refs.length) {
-            throw new Error(`Could not parse citation: ${citation}`);
-          }
+              if (!Array.isArray(refs) || refs.length === 0) {
+                throw new Error(`Could not parse citation: ${citation}`);
+              }
 
-          const sameChapter = refs.every((r) => r.chapter === refs[0].chapter);
-          const lineRefs = refs.map((r) =>
-            sameChapter ? String(r.verse) : `${r.chapter}:${r.verse}`,
-          );
-
-          const lines = [];
-          for (const r of refs) {
-            let t = getVerseText(data, book, r.chapter, r.verse);
-            if (!t) {
-              const mapped = mapVerseReference(data, book, r.chapter, r.verse);
-              if (mapped) t = getVerseText(data, book, mapped.chapter, mapped.verse);
-            }
-            if (!t) {
-              throw new Error(
-                `Missing verse text for ${book} ${r.chapter}:${r.verse}`,
+              const sameChapter = refs.every((r) => r.chapter === refs[0].chapter);
+              const lineRefs = refs.map((r) =>
+                sameChapter ? String(r.verse) : `${r.chapter}:${r.verse}`,
               );
+
+              const lines = [];
+              for (const r of refs) {
+                let t = getVerseText(data, book, r.chapter, r.verse);
+                if (!t) {
+                  const mapped = mapVerseReference(data, book, r.chapter, r.verse);
+                  if (mapped) t = getVerseText(data, book, mapped.chapter, mapped.verse);
+                }
+                if (!t) {
+                  throw new Error(
+                    `Missing verse text for ${book} ${r.chapter}:${r.verse}`,
+                  );
+                }
+                lines.push(t);
+              }
+
+              const translation = {
+                id: data.translation?.id ?? "dra",
+                name: data.translation?.name ?? "Douay-Rheims 1899 American Edition",
+                note: data.translation?.note ?? "Public Domain",
+              };
+
+              onSuccess({
+                reference: `${book} ${citation}`,
+                translation,
+                lineRefs,
+                lines,
+              })();
+            } catch (err) {
+              onError(String(err))();
             }
-            lines.push(t);
-          }
-
-          const translation = {
-            id: data.translation?.id ?? "dra",
-            name: data.translation?.name ?? "Douay-Rheims 1899 American Edition",
-            note: data.translation?.note ?? "Public Domain",
           };
-
-          onSuccess({
-            reference: `${book} ${citation}`,
-            translation,
-            lineRefs,
-            lines,
-          })();
-        } catch (err) {
-          onError(String(err))();
-        }
+        };
       };
     };
   };
