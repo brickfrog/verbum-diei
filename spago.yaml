@@ -2,21 +2,45 @@ package:
   name: verbum-diei
   dependencies:
     - aff
+    - argonaut-codecs
+    - argonaut-core
     - arrays
     - console
     - effect
     - either
     - exceptions
+    - foreign-object
     - foldable-traversable
+    - http-methods
     - integers
+    - js-date
+    - js-promise
     - maybe
+    - node-fs
+    - node-path
     - node-process
+    - node-crypto
     - prelude
     - strings
+    - web-fetch
   test:
     main: Test.Main
     dependencies: []
 workspace:
   packageSet:
     registry: 68.8.1
-  extraPackages: {}
+  extraPackages:
+    node-crypto:
+      git: "https://github.com/purescript-node/purescript-node-crypto.git"
+      ref: "7a85ec0aec47f3f3f6c530fe55c3b7ee91da6972"
+      dependencies:
+        - effect
+        - either
+        - exceptions
+        - foreign
+        - maybe
+        - node-buffer
+        - node-streams
+        - nullable
+        - prelude
+        - unsafe-coerce

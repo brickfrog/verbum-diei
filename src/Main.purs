@@ -18,13 +18,13 @@ import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error)
 import Node.Process as Process
-import VerbumDiei.Artifact (Artifact, Commentary, Reading, ReadingKind, firstReadingKind, gospelKind)
+import VerbumDiei.Artifact (Artifact, Commentary, Reading, ReadingKind, encodeArtifact, firstReadingKind, gospelKind)
 import VerbumDiei.Bible (fetchBibleReading)
 import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
-import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured)
+import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, encodeLlmOutput)
 import VerbumDiei.Prompts (heterodoxPrompt, llmInstructions, seminaVerbiPrompt)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
 import VerbumDiei.Site (renderArchivePage, renderArtifactPage)
@@ -102,7 +102,7 @@ run = do
             let sanitized = sanitizeLlmOutput readings llmOutput
 
             llmInputSha <- liftEffect $ sha256Hex (llmInstructions <> "\n\n" <> input)
-            llmOutputSha <- liftEffect $ sha256Hex (stringifyPretty sanitized)
+            llmOutputSha <- liftEffect $ sha256Hex (stringifyPretty (encodeLlmOutput sanitized))
 
             pure
               { marginalia: sanitized.marginalia
@@ -389,7 +389,7 @@ listDataDates = do
 
 writeOutputs :: Artifact -> Aff Unit
 writeOutputs artifact = do
-  let json = stringifyPretty artifact
+  let json = stringifyPretty (encodeArtifact artifact)
   let rootHtml =
         renderArtifactPage
           { assetPrefix: ""

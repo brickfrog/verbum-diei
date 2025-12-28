@@ -4,12 +4,13 @@
   "private": true,
   "license": "AGPL-3.0-only",
   "scripts": {
-    "build": "XDG_CACHE_HOME=./.cache spago build",
-    "run": "XDG_CACHE_HOME=./.cache spago run",
-    "generate": "XDG_CACHE_HOME=./.cache spago run",
-    "preflight": "XDG_CACHE_HOME=./.cache spago run -- --preflight",
+    "build:ts": "tsc -p tsconfig.json",
+    "build": "XDG_CACHE_HOME=./.cache bun run build:ts && spago build",
+    "run": "XDG_CACHE_HOME=./.cache bun run build:ts && spago run",
+    "generate": "XDG_CACHE_HOME=./.cache bun run build:ts && spago run",
+    "preflight": "XDG_CACHE_HOME=./.cache bun run build:ts && spago run -- --preflight",
     "build:bible": "node scripts/build-dra1899.mjs",
-    "bundle": "XDG_CACHE_HOME=./.cache spago bundle --platform node --module Main --bundle-type app --outfile dist/generate.js --force",
+    "bundle": "XDG_CACHE_HOME=./.cache bun run build:ts && spago bundle --platform node --module Main --bundle-type app --outfile dist/generate.js --force",
     "serve": "bunx http-server public -c-1 -p 5173"
   },
   "dependencies": {
@@ -21,6 +22,7 @@
     "@types/bun": "latest",
     "http-server": "^14.1.1",
     "purescript": "latest",
-    "spago": "next"
+    "spago": "next",
+    "typescript": "^5.9.3"
   }
 }

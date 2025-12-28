@@ -1,4 +1,6 @@
 module VerbumDiei.Json (stringifyPretty) where
 
-foreign import stringifyPretty :: forall a. a -> String
+import Data.Argonaut.Core (Json, stringifyWithIndent)
 
+stringifyPretty :: Json -> String
+stringifyPretty = stringifyWithIndent 2

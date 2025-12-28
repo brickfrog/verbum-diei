@@ -6,10 +6,24 @@ module VerbumDiei.Fs
 
 import Prelude
 
+import Data.Either (Either(..))
 import Effect (Effect)
+import Effect.Exception (try)
+import Node.Encoding (Encoding(..))
+import Node.FS.Perms (all, mkPerms)
+import Node.FS.Sync as FS
 
-foreign import ensureDir :: String -> Effect Unit
+ensureDir :: String -> Effect Unit
+ensureDir path =
+  FS.mkdir' path { recursive: true, mode: mkPerms all all all }
 
-foreign import readDir :: String -> Effect (Array String)
+readDir :: String -> Effect (Array String)
+readDir path = do
+  result <- try (FS.readdir path)
+  case result of
+    Left _ -> pure []
+    Right entries -> pure entries
 
-foreign import writeTextFile :: String -> String -> Effect Unit
+writeTextFile :: String -> String -> Effect Unit
+writeTextFile path contents =
+  FS.writeTextFile UTF8 path contents
