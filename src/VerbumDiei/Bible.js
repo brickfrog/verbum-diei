@@ -5,6 +5,8 @@ const DATA_PATH = path.join(process.cwd(), "assets", "bible", "dra1899.json");
 
 let cached = null;
 
+const GOSPEL_BOOKS = new Set(["Matthew", "Mark", "Luke", "John"]);
+
 function loadData() {
   if (cached) return cached;
   const raw = fs.readFileSync(DATA_PATH, "utf8");
@@ -31,10 +33,27 @@ function loadData() {
     ["joshua", "Joshua"],
     ["paralipomenon", "Chronicles"],
     ["machabees", "Maccabees"],
+    ["samuel", "1 Samuel"],
+    ["kings", "1 Kings"],
+    ["chronicles", "1 Chronicles"],
+    ["maccabees", "1 Maccabees"],
+    ["corinthians", "1 Corinthians"],
+    ["thessalonians", "1 Thessalonians"],
+    ["timothy", "1 Timothy"],
+    ["peter", "1 Peter"],
+    ["mt", "Matthew"],
+    ["matt", "Matthew"],
+    ["mk", "Mark"],
+    ["mrk", "Mark"],
+    ["lk", "Luke"],
+    ["luk", "Luke"],
+    ["jn", "John"],
+    ["jhn", "John"],
+    ["joh", "John"],
   ];
 
   for (const [fromKey, toBook] of aliasPairs) {
-    const canonical = resolveBookName(toBook, byKey);
+    const canonical = resolveBookNameInMap(toBook, byKey);
     if (canonical) byKey.set(fromKey, canonical);
   }
 
@@ -58,7 +77,7 @@ function normalizeBookKey(name) {
     .replace(/[^a-z0-9]+/g, "");
 }
 
-function resolveBookName(input, byKey) {
+function resolveBookNameInMap(input, byKey) {
   const key = normalizeBookKey(input);
   return byKey.get(key) ?? null;
 }
@@ -124,7 +143,7 @@ export function fetchBibleReadingImpl(bookRaw) {
           return function () {
             try {
               const data = loadData();
-              const book = resolveBookName(bookRaw, data._bookByKey);
+              const book = resolveBookNameInMap(bookRaw, data._bookByKey);
               if (!book) {
                 throw new Error(`Unknown book: ${bookRaw}`);
               }
@@ -173,4 +192,13 @@ export function fetchBibleReadingImpl(bookRaw) {
       };
     };
   };
+}
+
+export function resolveBookName(input) {
+  const data = loadData();
+  return resolveBookNameInMap(input, data._bookByKey);
+}
+
+export function isGospelBook(book) {
+  return GOSPEL_BOOKS.has(String(book ?? ""));
 }
