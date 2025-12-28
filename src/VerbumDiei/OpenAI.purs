@@ -228,8 +228,8 @@ parseSeminaVerbiResponse response = do
 normalizeOutput :: Json -> LlmOutput
 normalizeOutput parsed =
   let
-    obj = jsonObject parsed
-    marginaliaJson = fromMaybe [] (lookupArray "marginalia" obj)
+    rootObj = jsonObject parsed
+    marginaliaJson = fromMaybe [] (lookupArray "marginalia" rootObj)
     marginalia =
       marginaliaJson
         # Array.mapMaybe normalizeNote
@@ -257,27 +257,27 @@ normalizeOutput parsed =
 normalizeExcursusOutput :: Json -> ExcursusOutput
 normalizeExcursusOutput parsed =
   let
-    obj = jsonObject parsed
+    rootObj = jsonObject parsed
   in
-    { excursus: normalizedString (lookupString "excursus" obj) }
+    { excursus: normalizedString (lookupString "excursus" rootObj) }
 
 normalizeSeminaVerbiOutput :: Json -> SeminaVerbiOutput
 normalizeSeminaVerbiOutput parsed =
   let
-    obj = jsonObject parsed
+    rootObj = jsonObject parsed
   in
-    { seminaVerbi: normalizedString (lookupString "seminaVerbi" obj) }
+    { seminaVerbi: normalizedString (lookupString "seminaVerbi" rootObj) }
 
 normalizeNote :: Json -> Maybe MarginalNote
 normalizeNote value = do
-  obj <- toObject value
+  noteObj <- toObject value
   let
     readingKind =
-      case lookupString "readingKind" obj of
+      case lookupString "readingKind" noteObj of
         Just "gospel" -> "gospel"
         _ -> "first"
     lines = normalizeLines (lookupField "lines" value)
-    text = normalizedString (lookupString "text" obj)
+    text = normalizedString (lookupString "text" noteObj)
   if text == "" || Array.null lines then
     Nothing
   else
@@ -285,10 +285,10 @@ normalizeNote value = do
 
 normalizeCommentNote :: Json -> Maybe CommentNote
 normalizeCommentNote value = do
-  obj <- toObject value
+  noteObj <- toObject value
   let
     lines = normalizeLines (lookupField "lines" value)
-    text = normalizedString (lookupString "text" obj)
+    text = normalizedString (lookupString "text" noteObj)
   if text == "" || Array.null lines then
     Nothing
   else
@@ -318,16 +318,16 @@ normalizedString =
 
 lookupField :: String -> Json -> Maybe Json
 lookupField key json = do
-  obj <- toObject json
-  FO.lookup key obj
+  jsonObj <- toObject json
+  FO.lookup key jsonObj
 
 lookupString :: String -> FO.Object Json -> Maybe String
-lookupString key obj =
-  FO.lookup key obj >>= toString
+lookupString key jsonObj =
+  FO.lookup key jsonObj >>= toString
 
 lookupArray :: String -> FO.Object Json -> Maybe (Array Json)
-lookupArray key obj =
-  FO.lookup key obj >>= toArray
+lookupArray key jsonObj =
+  FO.lookup key jsonObj >>= toArray
 
 jsonObject :: Json -> FO.Object Json
 jsonObject json =
@@ -357,11 +357,11 @@ outputItemText :: Json -> Array String
 outputItemText item =
   case toObject item of
     Nothing -> []
-    Just obj ->
-      case lookupString "type" obj of
+    Just itemObj ->
+      case lookupString "type" itemObj of
         Just "message" ->
           let
-            content = fromMaybe [] (lookupArray "content" obj)
+            content = fromMaybe [] (lookupArray "content" itemObj)
           in
             content >>= contentText
         _ -> []
@@ -370,11 +370,11 @@ outputItemRefusal :: Json -> Array String
 outputItemRefusal item =
   case toObject item of
     Nothing -> []
-    Just obj ->
-      case lookupString "type" obj of
+    Just itemObj ->
+      case lookupString "type" itemObj of
         Just "message" ->
           let
-            content = fromMaybe [] (lookupArray "content" obj)
+            content = fromMaybe [] (lookupArray "content" itemObj)
           in
             content >>= contentRefusal
         _ -> []
@@ -383,10 +383,10 @@ contentText :: Json -> Array String
 contentText item =
   case toObject item of
     Nothing -> []
-    Just obj ->
-      case lookupString "type" obj of
+    Just contentObj ->
+      case lookupString "type" contentObj of
         Just "output_text" ->
-          case lookupString "text" obj of
+          case lookupString "text" contentObj of
             Just t -> [ t ]
             Nothing -> []
         _ -> []
@@ -395,10 +395,10 @@ contentRefusal :: Json -> Array String
 contentRefusal item =
   case toObject item of
     Nothing -> []
-    Just obj ->
-      case lookupString "type" obj of
+    Just contentObj ->
+      case lookupString "type" contentObj of
         Just "refusal" ->
-          case lookupString "refusal" obj of
+          case lookupString "refusal" contentObj of
             Just t -> [ t ]
             Nothing -> []
         _ -> []
@@ -414,26 +414,26 @@ summarizeResponse response =
 
 outputType :: Json -> Maybe String
 outputType item = do
-  obj <- toObject item
-  lookupString "type" obj
+  itemObj <- toObject item
+  lookupString "type" itemObj
 
 outputContentTypes :: Json -> Array String
 outputContentTypes item =
   case toObject item of
     Nothing -> []
-    Just obj ->
-      case lookupString "type" obj of
+    Just itemObj ->
+      case lookupString "type" itemObj of
         Just "message" ->
           let
-            content = fromMaybe [] (lookupArray "content" obj)
+            content = fromMaybe [] (lookupArray "content" itemObj)
           in
             content # Array.mapMaybe contentType
         _ -> []
 
 contentType :: Json -> Maybe String
 contentType item = do
-  obj <- toObject item
-  lookupString "type" obj
+  itemObj <- toObject item
+  lookupString "type" itemObj
 
 responseError :: Json -> Maybe String
 responseError response = do
