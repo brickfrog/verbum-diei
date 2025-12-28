@@ -1,0 +1,164 @@
+{
+  "date": "2025-12-28",
+  "source": {
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/28.html",
+    "title": "Gospel and Word of the Day - 28 December 2025",
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/28.html"
+  },
+  "observances": {
+    "meta": {
+      "season": "Christmas",
+      "cycle": "Year A",
+      "psalterWeek": "Week I"
+    },
+    "celebrations": [
+      {
+        "key": "holyFamily",
+        "name": "Holy Family",
+        "rank": "FEAST",
+        "source": "c",
+        "color": "WHITE",
+        "titles": [
+          "FEAST_OF_THE_LORD"
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "kind": "first",
+      "heading": "A reading from the Book of Sirach",
+      "reference": "Sirach 3:2-6,12-14",
+      "bibleApiReference": "Sirach 3:2-6,12-14",
+      "translation": {
+        "id": "dra",
+        "name": "Douay-Rheims 1899 American Edition",
+        "note": "Public Domain"
+      },
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "12",
+        "13",
+        "14"
+      ],
+      "lines": [
+        "Children, hear the judgment of your father, and so do that you may be saved.",
+        "For God hath made the father honourable to the children: and seeking the judgment of the mothers, hath confirmed it upon the children.",
+        "He that loveth God, shall obtain pardon for his sins by prayer, and shall refrain himself from them, and shall be heard in the prayer of days.",
+        "And he that honoureth his mother is as one that layeth up a treasure.",
+        "He that honoureth his father shall have joy in his own children, and in the day of his prayer he shall be heard.",
+        "Glory not in the dishonour of thy father: for his shame is no glory to thee.",
+        "For the glory of a man is from the honour of his father, and a father without honour is the disgrace of the son.",
+        "Son, support the old age of thy father, and grieve him not in his life;"
+      ]
+    }
+  ],
+  "marginalia": [
+    {
+      "readingKind": "first",
+      "lines": [
+        1
+      ],
+      "text": "Salvation framed as obedience before it is framed as belief."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        2
+      ],
+      "text": "Authority is not seized; it is conferred—genealogy as ordinance."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        3
+      ],
+      "text": "Pardon paired with self-restraint: prayer that refuses its own contradiction."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        4
+      ],
+      "text": "Mother-honour translated into economy: virtue stored, not displayed."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        6
+      ],
+      "text": "Shame is contagious; mockery boomerangs."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        7
+      ],
+      "text": "Identity is relational capital: the son’s “glory” is borrowed."
+    },
+    {
+      "readingKind": "first",
+      "lines": [
+        8
+      ],
+      "text": "Old age becomes a moral claim on the strong; time turns into debt."
+    }
+  ],
+  "commentary": {
+    "excursus": "Sirach sells “honor your father and mother” as salvation, but the real engine is fear: fear of being unmade by the people who made you. The father’s “judgment” is not wisdom; it’s a verdict hanging over the child’s nervous system. To “hear” it is to survive it.\n\nThe text dresses this coercion in piety. Love of God becomes the clean excuse for submission, and prayer becomes the loophole: if you comply, you will be “heard.” It’s a bargain with an invisible auditor who rewards the child for keeping the family story intact.\n\nThen the core dread surfaces: your father’s dishonor is contagious. His shame is “no glory to thee” because you are not allowed to be separate. The child is drafted as reputation-manager, asked to carry the parent’s unresolved life as if it were a sacred relic.\n\n“Support the old age of thy father” reads like tenderness, but it is also the final consolidation of power: when the parent weakens, the child is obligated to become the parent’s legs, memory, and alibi, while not “grieving him” by telling the truth. The desire underneath is simple and brutal: to be loved without costing the parent their myth.",
+    "gospel": [],
+    "reading": [
+      {
+        "lines": [
+          1,
+          2
+        ],
+        "text": "The passage treats the household as a juridical sphere: “judgment” and confirmation establish parental status as an objective norm, not a mood of affection. The command is therefore public and stabilizing; it orders a miniature polity."
+      },
+      {
+        "lines": [
+          4,
+          5
+        ],
+        "text": "The text motivates honour by attaching it to future-oriented recompense—treasure, generational joy, answered prayer. It makes filial piety a practice with durable consequences, not a sentimental ornament."
+      },
+      {
+        "lines": [
+          6,
+          7,
+          8
+        ],
+        "text": "A boundary is drawn against parasitic self-definition: one cannot build a self by consuming a parent’s disgrace. Instead, the son is required to bear weakness (old age) as part of his own moral continuity."
+      }
+    ],
+    "synthesis": "God binds moral obligation to natural relations: honour of parents is a commanded participation in divine order. To despise that relation is to deform one’s own standing before God.",
+    "seminaVerbi": "Sirach treats the family as the first moral school: the child’s salvation is not a private mood but a craft learned in loyalty, restraint, and repair. Honor here is not applause; it is a practice that binds generations, making the parent’s dignity a structure the child lives inside. The text is psychologically shrewd: it links reverence to self-mastery. If you can govern your tongue and pride around the people who formed you, you can govern yourself elsewhere.\n\nIt also refuses the cheap victory of exposing a parent. “Glory not in the dishonour of thy father” names a temptation familiar to modernity: to build identity by indictment. Sirach does not deny parental failure; it denies the son the narcotic of public contempt. A father’s shame is not the child’s trophy because contempt corrodes the one who wields it. The passage’s logic is reciprocal: the way you treat origins becomes the way you treat outcomes; honor given returns as joy in your own children, not as a magical reward but as the transmission of a tone.\n\n“Support the old age of thy father” turns affection into burden-bearing. Love is measured in logistics: patience, provision, presence, and the refusal to add grief to a declining life. This is adulthood defined not by separation but by responsibility. Prayer in the text is not escape; it is the inner alignment that makes this kind of fidelity possible.\n\nSemina Verbi: the duty of filial reverence echoes Confucian xiao, where honoring parents stabilizes the whole social order; it also resembles Roman pietas, where loyalty to household and ancestors shapes character. In Buddhism, caring for parents is praised as a potent field of merit, less as obedience than as gratitude enacted. Speculation: even the Stoic ideal of self-command can be read here as beginning with how one handles the intimate irritations and humiliations of family life—the hardest gym for the will."
+  },
+  "llm": {
+    "calls": [
+      {
+        "name": "analysis",
+        "model": "gpt-5.2",
+        "inputSha256": "0fcbfc2b211a3c6f0d37b06069b9e00d61c58ac5bf6807006ccb2539178e6aa8",
+        "outputSha256": "89d079fd58f9600a35d95b884a03788a609cf2fa93a6a44d73da5d67fecc6bea"
+      },
+      {
+        "name": "heterodox_reading",
+        "model": "gpt-5.2",
+        "inputSha256": "7221737e6776a0f70f29566bb4142d84abf089ace3e6e0e4daa79794c65d78f0",
+        "outputSha256": "7c894abd1ade8edf3cfe9b83e8d422cd6e1b6020835fc20c69d557ee21b60b80"
+      },
+      {
+        "name": "semina_verbi",
+        "model": "gpt-5.2",
+        "inputSha256": "d51731d3a92007e49227883bfd1f496d72d947a056fc02a6403bc5bea66d8698",
+        "outputSha256": "869b11a71ddcf21c5dd3a69b2931fab6e04ff52a7c75184c6bbd7b31a843f58e"
+      }
+    ]
+  }
+}
