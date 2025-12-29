@@ -3,6 +3,7 @@ module Test.Main where
 import Prelude
 
 import Control.Monad.Error.Class (throwError)
+import Data.Array as Array
 import Data.Either (Either(..))
 import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
@@ -29,6 +30,21 @@ main = do
     test "parses ordinal book references" do
       reading <- fetchBibleReading "1 John 1:1-4"
       assertEqual "lineRefs" [ "1", "2", "3", "4" ] reading.lineRefs
+
+    test "resolves book aliases" do
+      reading <- fetchBibleReading "Ecclesiasticus 3:2-3"
+      assertEqual "reference" "Sirach 3:2-3" reading.reference
+      assertEqual "lineRefs" [ "2", "3" ] reading.lineRefs
+
+    test "resolves book abbreviations" do
+      reading <- fetchBibleReading "Jn 3:16"
+      assertEqual "reference" "John 3:16" reading.reference
+      assertEqual "lineRefs" [ "16" ] reading.lineRefs
+
+    test "tolerates null verses in data" do
+      reading <- fetchBibleReading "Exodus 1:18"
+      assertEqual "lineRefs" [ "18" ] reading.lineRefs
+      assertEqual "lines length" 1 (Array.length reading.lines)
 
     liftEffect (log "All tests passed.")
 

@@ -31,6 +31,7 @@ import Promise.Rejection as Rejection
 import VerbumDiei.Artifact (Commentary, CommentNote, MarginalNote, encodeCommentary, encodeMarginalNote)
 import Web.Fetch as Fetch
 import Web.Fetch.Request as Request
+import Web.Fetch.Referrer as Referrer
 import Web.Fetch.Response as Response
 
 type LlmOutput =
@@ -137,6 +138,7 @@ buildRequestInit apiKey body = do
     { method: POST
     , headers
     , body: stringify body
+    , referrer: Referrer.ReferrerUrl ""
     }
 
 fetchAff :: Request.Request -> Aff Response.Response

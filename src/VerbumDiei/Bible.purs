@@ -6,7 +6,7 @@ module VerbumDiei.Bible
 import Prelude
 
 import Control.Monad.Error.Class (throwError)
-import Data.Argonaut.Core (Json, toArray, toObject, toString)
+import Data.Argonaut.Core (Json, toArray, toNull, toObject, toString)
 import Data.Argonaut.Parser (jsonParser)
 import Data.Array as Array
 import Data.Char as Char
@@ -236,7 +236,16 @@ decodeChapters value = do
 decodeChapter :: Json -> Maybe (Array String)
 decodeChapter value = do
   verses <- toArray value
-  traverse toString verses
+  traverse decodeVerse verses
+
+decodeVerse :: Json -> Maybe String
+decodeVerse value =
+  case toString value of
+    Just verse -> Just verse
+    Nothing ->
+      case toNull value of
+        Just _ -> Just ""
+        Nothing -> Nothing
 
 decodeTranslation :: Maybe Json -> Translation
 decodeTranslation maybeJson =

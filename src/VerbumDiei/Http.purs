@@ -14,11 +14,12 @@ import Promise as Promise
 import Promise.Rejection as Rejection
 import Web.Fetch as Fetch
 import Web.Fetch.Request as Request
+import Web.Fetch.Referrer as Referrer
 import Web.Fetch.Response as Response
 
 fetchText :: String -> Aff String
 fetchText url = do
-  req <- liftEffect $ Request.new' url {}
+  req <- liftEffect $ Request.new' url { referrer: Referrer.ReferrerUrl "" }
   resp <- fetchAff req
   if Response.ok resp then do
     bodyPromise <- liftEffect $ Response.text resp
