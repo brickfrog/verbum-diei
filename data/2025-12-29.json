@@ -2,51 +2,58 @@
   "llm": {
     "calls": [
       {
-        "outputSha256": "1f59050ab30f351d56210b9a8d427e0f03d2a7afe3018a6eac329a522764874d",
+        "outputSha256": "a964c5ef12781c9992398ac1ff6fca50190d4c4e28428468f485e5d42c3da0c8",
         "inputSha256": "b18bec2fa21b6d5aa8d7877e42b491f929d46a011e131f4d5ff741ed6efc9931",
         "model": "gpt-5.2",
         "name": "analysis"
       },
       {
-        "outputSha256": "72c9c1f1ae5c40cfcab232c5cb27b7d69e4a1c7682fa331b3e3b2a59f04eb391",
+        "outputSha256": "868f6dd21f4c9bdd720ab4ea86fcc495ed6b72fcf259bc8c508ee6b0c47f859a",
         "inputSha256": "aa387547544e477a0febc34a24fe814def4d19020e2ee29e93f014e50eb16027",
         "model": "gpt-5.2",
         "name": "heterodox_reading"
       },
       {
-        "outputSha256": "0dea8eb8d063e32cd3c136afc8f8a7712aeec6a6ec297467ce81cb2b644d677c",
+        "outputSha256": "679e9ead6b0a500cbd6874498c71bdb06e8df07a6d58c9b3e236d6327168b3a1",
         "inputSha256": "243f27f045ce6e47fdbee03710d648745d02cbfb46d7d63b96ba1c75755f3958",
         "model": "gpt-5.2",
         "name": "semina_verbi"
       }
     ],
-    "generatedAt": "2025-12-29T00:16:49.599Z"
+    "generatedAt": "2025-12-29T01:54:52.918Z"
   },
   "commentary": {
-    "seminaVerbi": "John writes like a clinician of self-deception. “Knowing” is not an idea you hold but a life you enact; the test is obedience that takes the concrete form of love. Hatred is not merely a vice; it is perceptual damage. It makes you lose the plot of your own life, “not knowing where you go,” because it narrows the field of vision until other people become shadows and you become a shadow to yourself. The passage is less about moral bookkeeping than about how resentment produces a private night in which you mistake your own bitterness for clarity.\n\nLuke gives the same psychology in narrative form. Simeon is an old man whose waiting has purified his attention; he can recognize meaning in smallness, a child in his arms. His song is relief after long vigilance: the nervous system finally unclenches because what he has lived toward has arrived. But the peace is not sentimental. The child will divide responses, exposing what people already are. Contradiction is the instrument that reveals hearts, and Mary’s “sword” names the cost of loving something that will be refused and attacked.\n\nTogether they say: love is light because it lets you see; hate is darkness because it makes you misread everything, including yourself. Revelation is not only a message descending; it is an unveiling produced by encounter, where your stance toward the other discloses your inner truth.\n\nSemina Verbi (speculation): the “light/darkness” moral optics resembles Buddhism’s account of aversion as a klesha that distorts perception, and Stoicism’s insistence that right judgment shows itself in right action rather than slogans. Simeon’s long, disciplined waiting echoes Jewish hope, but also the Hindu bhakti sense of life oriented toward a promised seeing, and the Taoist idea that the quieted person recognizes the Way in the ordinary. The “sword” reads like the Greek tragic insight that love and suffering are braided, and like Sufi teachings where nearness to the Real burns away illusions.",
-    "excursus": "These texts don’t soothe; they police. John turns “knowing” into a surveillance test: your interior life is only credited if it leaks out as obedience, and if it doesn’t, you are not mistaken but counterfeit. Love isn’t tenderness here; it’s the demanded proof that you belong, the badge you must keep shining. Hatred is less a feeling than a diagnosis: it means you’ve lost your way, you’re walking blind, and the darkness isn’t outside you but behind your eyes.\n\nLuke stages that same pressure in a temple scene that looks like celebration but feels like sentencing. The infant is lifted like an offering, and Simeon speaks as if release can only come once the weapon has been named. “Light” arrives already divisive, designed to expose and split, to make some fall. The prophecy doesn’t predict conflict as an accident; it makes contradiction the child’s job.\n\nAnd Mary’s sword is the cost of this exposure: intimacy turned into evidence. The child will reveal thoughts, not by gentle understanding but by provoking refusal, drawing out the secret violence people prefer to call innocence. Desire for consolation births dread: salvation is presented, and the price is that everyone’s heart must be forced into the open.",
-    "synthesis": "Union with Christ is verified by commanded love that walks in his pattern. The same Christ who is offered in the Temple becomes the Light that judges hearts by dividing belief from refusal.",
+    "seminaVerbi": "John’s voice is hard-edged: “knowing” is not an idea but a tested intimacy. Psychology first, theology second. If your life does not bend toward the beloved—toward concrete restraint, repair, fidelity—then the claim to insight is self-deception dressed as certainty. The text treats hatred not as a single act but as a weather system: it darkens perception, warps navigation, makes the world unreadable. Love, by contrast, is clarity; it is the condition in which you stop tripping over other people.\n\nLuke sets that ethic inside a human arc of waiting. Simeon is the mind that has carried a promise for so long it has become his breathing; when the child arrives, the body relaxes into release. The “light” here is not mere cheer; it is exposure. A life that reveals will also provoke. Simeon names the fracture line: some will rise because they can bear being seen; some will fall because they cannot. And Mary is told that to love what is vulnerable is to accept a blade: the cost of attachment is pain, and pain becomes the instrument by which hidden motives surface.\n\nSemina Verbi, briefly and speculative: this reads like the Bhagavad Gita’s insistence that real knowledge shows up as disciplined action, and like Stoic practice where virtue is proven in conduct, not speech. Simeon’s long patience echoes the Buddhist image of ripening karma and the quiet readiness of the bodhisattva, while the “sword” resembles the Sufi and Zen motif that awakening cuts through the heart’s attachments. In each, light is both comfort and confrontation.",
+    "excursus": "These texts don’t soothe; they interrogate. “By this we know” is not comfort but surveillance. Knowledge becomes a moral lie detector: keep the commandments or you are counterfeit. Love is not a feeling here; it’s the price of belonging, and the penalty for refusal is darkness so thick you can’t even tell where you’re going.\n\nSimeon’s “light” arrives like a blade. The child is carried in as an offering, and the old man reads him as an instrument that will sort the crowd by breaking it: fall for some, rising for others. The revelation is not gentle illumination; it is exposure. Hearts are opened by contradiction, and Mary is told that intimacy with this light will wound her. Salvation comes with dread built in: to be seen is to be judged, and to love is to submit to a command that keeps cutting until nothing hidden remains.",
+    "synthesis": "Union with God is measured by obedient love, not by claims of insight. Christ’s advent discloses hearts by forcing a division: light for the nations and contradiction for the resistant.",
     "gospel": [
       {
-        "text": "Luke stages the meeting of promise and procedure: Temple customs, Spirit-oracle, and public proclamation converge. Simeon’s canticle universalizes Israel’s hope without erasing Israel, then immediately turns eschatology into crisis—salvation is seen, and therefore resisted, exposing the interior of a people and of a household.",
+        "text": "Luke stages a convergence of scriptural citation, universal horizon ('all peoples'), and domestic astonishment: the event is larger than the family that carries it, and the Law’s text becomes the stage on which its fulfillment is recognized.",
         "lines": [
           2,
-          3,
+          10,
+          12
+        ]
+      },
+      {
+        "text": "Prophecy functions as verification and as forecast of conflict: the Messiah is identified not by triumph but by the coming division he produces, making rejection itself part of the narrative logic of revelation.",
+        "lines": [
           5,
-          6,
-          9,
-          10
+          13
         ]
       }
     ],
     "reading": [
       {
-        "text": "The passage builds a legal-style verification of communion with God: tests of truth, not moods. It frames love as the content of the commandment and as the environment in which truth becomes socially legible, so that community relations are the arena where doctrine either coheres or collapses.",
+        "text": "The passage frames knowledge of God as a juridical claim tested by conduct. It replaces mystical interiority with an externally verifiable criterion and makes imitation of Jesus the concrete definition of 'abiding'.",
         "lines": [
           1,
-          3,
-          5,
-          7,
+          4
+        ]
+      },
+      {
+        "text": "'No scandal' is not sinlessness but non-obstruction: love stabilizes the community’s path so that others are not tripped into apostasy.",
+        "lines": [
           8
         ]
       }
@@ -54,71 +61,63 @@
   },
   "marginalia": [
     {
-      "text": "Claimed knowledge without obedience is not ignorance but fraud.",
+      "text": "'I know' without obedience is not error but fraud; truth is treated as an inhabitant that can evacuate.",
       "lines": [
         2
       ],
       "readingKind": "first"
     },
     {
-      "text": "“Abide” is tested by imitation: ethics as Christological evidence.",
+      "text": "Love is said to be 'perfected' not discovered; telos is achieved only inside keeping.",
       "lines": [
-        4
+        3
       ],
       "readingKind": "first"
     },
     {
-      "text": "Old and new at once: continuity tightened into intensity.",
+      "text": "Old and new collapse into one demand: love is ancient in content, novel in intensity and scope.",
       "lines": [
+        5,
         6
       ],
       "readingKind": "first"
     },
     {
-      "text": "Hatred is not merely darkness; it becomes a mode of locomotion and a loss of destination.",
+      "text": "Hatred is epistemic damage: darkness becomes both location and instrument, ending in lost direction.",
       "lines": [
+        7,
         9
       ],
       "readingKind": "first"
     },
     {
-      "text": "Purification and presentation: the Law receives its own Lord as an offering.",
+      "text": "Purification and pigeons: the Holy One enters by the poor man’s gate, under the Law’s paperwork.",
       "lines": [
-        1
+        1,
+        3
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Consolation is a person; waiting becomes discernment under the Spirit.",
+      "text": "Three movements of the Spirit—indwelling, oracle, leading—before the child speaks a word.",
       "lines": [
-        4
+        4,
+        6
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Peace arrives as dismissal; fulfillment loosens the grip of survival.",
+      "text": "Dismissal follows sight: peace is permitted only after the promised object appears; 'light' is public, not tribal.",
       "lines": [
-        8
-      ],
-      "readingKind": "gospel"
-    },
-    {
-      "text": "Light splits its audience: Gentile disclosure, Israel’s concentrated glory.",
-      "lines": [
+        8,
         11
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "The Messiah is calibrated as a divider: one child, two trajectories.",
+      "text": "The sign saves by dividing; contradiction is built in, and Mary’s wound is made part of the disclosure.",
       "lines": [
-        13
-      ],
-      "readingKind": "gospel"
-    },
-    {
-      "text": "Revelation is surgical: a sword that opens a mother, then hearts.",
-      "lines": [
+        13,
         14
       ],
       "readingKind": "gospel"
