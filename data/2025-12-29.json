@@ -1,0 +1,231 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1f59050ab30f351d56210b9a8d427e0f03d2a7afe3018a6eac329a522764874d",
+        "inputSha256": "b18bec2fa21b6d5aa8d7877e42b491f929d46a011e131f4d5ff741ed6efc9931",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "72c9c1f1ae5c40cfcab232c5cb27b7d69e4a1c7682fa331b3e3b2a59f04eb391",
+        "inputSha256": "aa387547544e477a0febc34a24fe814def4d19020e2ee29e93f014e50eb16027",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0dea8eb8d063e32cd3c136afc8f8a7712aeec6a6ec297467ce81cb2b644d677c",
+        "inputSha256": "243f27f045ce6e47fdbee03710d648745d02cbfb46d7d63b96ba1c75755f3958",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2025-12-29T00:16:49.599Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John writes like a clinician of self-deception. “Knowing” is not an idea you hold but a life you enact; the test is obedience that takes the concrete form of love. Hatred is not merely a vice; it is perceptual damage. It makes you lose the plot of your own life, “not knowing where you go,” because it narrows the field of vision until other people become shadows and you become a shadow to yourself. The passage is less about moral bookkeeping than about how resentment produces a private night in which you mistake your own bitterness for clarity.\n\nLuke gives the same psychology in narrative form. Simeon is an old man whose waiting has purified his attention; he can recognize meaning in smallness, a child in his arms. His song is relief after long vigilance: the nervous system finally unclenches because what he has lived toward has arrived. But the peace is not sentimental. The child will divide responses, exposing what people already are. Contradiction is the instrument that reveals hearts, and Mary’s “sword” names the cost of loving something that will be refused and attacked.\n\nTogether they say: love is light because it lets you see; hate is darkness because it makes you misread everything, including yourself. Revelation is not only a message descending; it is an unveiling produced by encounter, where your stance toward the other discloses your inner truth.\n\nSemina Verbi (speculation): the “light/darkness” moral optics resembles Buddhism’s account of aversion as a klesha that distorts perception, and Stoicism’s insistence that right judgment shows itself in right action rather than slogans. Simeon’s long, disciplined waiting echoes Jewish hope, but also the Hindu bhakti sense of life oriented toward a promised seeing, and the Taoist idea that the quieted person recognizes the Way in the ordinary. The “sword” reads like the Greek tragic insight that love and suffering are braided, and like Sufi teachings where nearness to the Real burns away illusions.",
+    "excursus": "These texts don’t soothe; they police. John turns “knowing” into a surveillance test: your interior life is only credited if it leaks out as obedience, and if it doesn’t, you are not mistaken but counterfeit. Love isn’t tenderness here; it’s the demanded proof that you belong, the badge you must keep shining. Hatred is less a feeling than a diagnosis: it means you’ve lost your way, you’re walking blind, and the darkness isn’t outside you but behind your eyes.\n\nLuke stages that same pressure in a temple scene that looks like celebration but feels like sentencing. The infant is lifted like an offering, and Simeon speaks as if release can only come once the weapon has been named. “Light” arrives already divisive, designed to expose and split, to make some fall. The prophecy doesn’t predict conflict as an accident; it makes contradiction the child’s job.\n\nAnd Mary’s sword is the cost of this exposure: intimacy turned into evidence. The child will reveal thoughts, not by gentle understanding but by provoking refusal, drawing out the secret violence people prefer to call innocence. Desire for consolation births dread: salvation is presented, and the price is that everyone’s heart must be forced into the open.",
+    "synthesis": "Union with Christ is verified by commanded love that walks in his pattern. The same Christ who is offered in the Temple becomes the Light that judges hearts by dividing belief from refusal.",
+    "gospel": [
+      {
+        "text": "Luke stages the meeting of promise and procedure: Temple customs, Spirit-oracle, and public proclamation converge. Simeon’s canticle universalizes Israel’s hope without erasing Israel, then immediately turns eschatology into crisis—salvation is seen, and therefore resisted, exposing the interior of a people and of a household.",
+        "lines": [
+          2,
+          3,
+          5,
+          6,
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds a legal-style verification of communion with God: tests of truth, not moods. It frames love as the content of the commandment and as the environment in which truth becomes socially legible, so that community relations are the arena where doctrine either coheres or collapses.",
+        "lines": [
+          1,
+          3,
+          5,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Claimed knowledge without obedience is not ignorance but fraud.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Abide” is tested by imitation: ethics as Christological evidence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Old and new at once: continuity tightened into intensity.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hatred is not merely darkness; it becomes a mode of locomotion and a loss of destination.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purification and presentation: the Law receives its own Lord as an offering.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Consolation is a person; waiting becomes discernment under the Spirit.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace arrives as dismissal; fulfillment loosens the grip of survival.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Light splits its audience: Gentile disclosure, Israel’s concentrated glory.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Messiah is calibrated as a divider: one child, two trajectories.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation is surgical: a sword that opens a mother, then hearts.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And by this we know that we have known him, if we keep his commandments. We have known him, if we keep his commandments... He speaks of that practical knowledge by love and affection, which can only be proved by our keeping his commandments; and without which we can not be said to know God as we should do.",
+        "He who saith that he knoweth him and keepeth not his commandments is a liar: and the truth is not in him.",
+        "But he that keepeth his word, in him in very deed the charity of God is perfected. And by this we know that we are in him.",
+        "He that saith he abideth in him ought himself also to walk even as he walked.",
+        "Dearly beloved, I write not a new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you have heard.",
+        "Again a new commandment I write unto you: which thing is true both in him and in you, because the darkness is passed and the true light now shineth. A new commandment... Viz., the commandment of love, which was first given in the old law; but was renewed and extended by Christ. See John 13.34.",
+        "He that saith he is in the light and hateth his brother is in darkness even until now.",
+        "He that loveth his brother abideth in the light: and there is no scandal in him.",
+        "But he that hateth his brother is in darkness and walketh in darkness and knoweth not whither he goeth: because the darkness hath blinded his eyes."
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 2:3-11",
+      "reference": "1 John 2:3-11",
+      "heading": "A reading from the First Letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And after the days of her purification, according to the law of Moses, were accomplished, they carried him to Jerusalem, to present him to the Lord:",
+        "As it is written in the law of the Lord: Every male opening the womb shall be called holy to the Lord:",
+        "And to offer a sacrifice, according as it is written in the law of the Lord, a pair of turtledoves or two young pigeons:",
+        "And behold there was a man in Jerusalem named Simeon: and this man was just and devout, waiting for the consolation of Israel. And the Holy Ghost was in him.",
+        "And he had received an answer from the Holy Ghost, that he should not see death before he had seen the Christ of the Lord.",
+        "And he came by the Spirit into the temple. And when his parents brought in the child Jesus, to do for him according to the custom of the law,",
+        "He also took him into his arms and blessed God and said",
+        "Now thou dost dismiss thy servant, O Lord, according to thy word in peace:",
+        "Because my eyes have seen thy salvation,",
+        "Which thou hast prepared before the face of all peoples:",
+        "A light to the revelation of the Gentiles and the glory of thy people Israel.",
+        "And his father and mother were wondering at those things which were spoken concerning him.",
+        "And Simeon blessed them and said to Mary his mother: Behold this child is set for the fall and for the resurrection of many in Israel and for a sign which shall be contradicted. For the fall, etc... Christ came for the salvation of all men; but here Simeon prophesies what would come to pass, that many through their own wilful blindness and obstinacy would not believe in Christ, nor receive his doctrine, which therefore would be ruin to them: but to others a resurrection, by their believing in him, and obeying his commandments.",
+        "And thy own soul a sword shall pierce, that, out of many hearts thoughts may be revealed."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 2:22-35",
+      "reference": "Luke 2:22-35",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Thomas Becket, Bishop and Martyr",
+        "key": "saintThomasBecketBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/29.html",
+    "title": "Gospel and Word of the Day - 29 December 2025",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2025-12-29"
+}
