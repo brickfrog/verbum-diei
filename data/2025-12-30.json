@@ -1,0 +1,213 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "50b50b0181de4686640f7b412f60aee033d87f1fe836952f27d93d318f0f076d",
+        "inputSha256": "1ffe65f086d9831a2537da1b7d3ba900acc517dd7100978ebf5c3dba843f0852",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6743c8f5dc054bb11ecbf82e96c03d0cb96651b30e4191b62988d307e891e938",
+        "inputSha256": "660d3fe893f575b75df9ca92febb259d55a239b6e2e53259b48cb0eb2db28d16",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3cdce08880b2e631a057ea424f39381138fae80d0b5b53546fd470c180a94c78",
+        "inputSha256": "00a1d49f0fb25ea61d302db835997976587b472153b0e4dcbb51ebd2cdde2f85",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2025-12-30T01:54:25.638Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John speaks like a seasoned mentor sorting a community by life-stage, not to flatter them but to locate their temptations. Children live off sheer gift: forgiven, held by a name. Fathers are memory and steadiness: they have “known him from the beginning,” meaning they’ve internalized a reality deeper than moods. Young men are the arena: strength, conflict, victory over a “wicked one” that reads psychologically as the recurring pattern that hijacks desire and turns it against the self.\n\nThen the knife goes in: don’t love the world. “World” here isn’t mountains and bread; it’s the whole attention-economy of craving. Flesh, eyes, pride: appetite, fantasy, and status, the trio that colonizes perception until nothing is simply itself. The warning is about imitation love. You can feel ardent and still be hollow because your ardor is feeding the machinery that makes you restless. The cure is not disgust but allegiance: do the will of God, and you “abide,” you stop being blown around by the next urge.\n\nLuke answers John with an embodied portrait. Anna is what abiding looks like over decades: a life simplified around one center, not because she’s narrow but because she’s free. Her fasting and prayer aren’t self-punishment; they are training attention so it doesn’t get bought. When the child appears, she recognizes him instantly. That recognition is the payoff of a long fidelity: she can see what others miss, and she becomes speech itself, telling “all who looked for redemption.”\n\nSemina Verbi: John’s triad of cravings echoes Buddhism’s tanha and the three poisons (speculation), and the Stoic suspicion of externals that promise control but deliver slavery. Anna’s steady practice resembles Hindu bhakti’s single-hearted devotion and the Jewish tradition of watchful waiting in prayer. Across them runs one thread: desire can be educated, attention can be purified, and the self becomes spacious when it stops trying to possess the passing world.",
+    "excursus": "John sounds tender, but the tenderness is a tactic. He sorts the community into children, fathers, young men, babes, not to bless their variety but to fix them in roles, to make identity a leash. “Your sins are forgiven” is soothing, yet it lands like a stamp: forgiven for his name’s sake, not yours. You are safe only inside the label.\n\nThen comes the real demand: don’t love the world. Not because the world is merely bad, but because it is seductive competition. The text trembles with desire as it names it—flesh, eyes, pride—cataloguing the very appetites it forbids, as if prohibition is the only way this group knows how to talk about wanting. “The world passeth away” is less theology than threat: what you crave will die in your hands, so transfer your craving to something that cannot leave.\n\nAnna is the lived version of that transfer, and it is not pretty. Eighty-four years of waiting, fasting, praying, staying put: a life narrowed until longing has only one permitted object. When the child appears, her “confession” reads like release, but also like proof that endurance can turn into prophecy: if you have sacrificed enough, you must be right. She speaks to all who “looked” for redemption, to those already hungry for a story that justifies their hunger.\n\nThe dread in both passages is that ordinary love might be a rival god, and the desire is to make time itself obey. John promises abiding; Luke shows a woman who has already given her whole body to abiding. The child grows strong, full of wisdom—yet the cost of this strength is a community trained to distrust its own eyes unless they are staring at the temple door, waiting for the world to end before it ends them.",
+    "synthesis": "The Father’s love excludes the world’s appetitive order, and only adherence to God’s will endures. The Messiah is recognized within Israel’s lawful worship and then borne into ordinary life, where grace and growth proceed together.",
+    "gospel": [
+      {
+        "text": "Luke frames recognition of the Messiah inside meticulous continuity: named persons, tribe, lawful completion, then ordinary geography. The scene refuses to let revelation float above Israel’s concrete story; redemption is announced within the temple yet carried into Nazareth’s obscurity, where the child’s maturation is itself the narrative vehicle.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Anna’s speech functions as a hinge between hiddenness and dissemination: a private confession becomes public testimony to those already oriented by hope. The text depicts revelation as selective resonance—heard by “looked for” persons—while the child’s growth indicates that divine presence does not cancel developmental time.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The repeated “I write” arranges the community by time and conflict: beginnings, endurance, and combat. John binds identity to what has already occurred—knowing, abiding, overcoming—so the warning against the world lands as preservation of an accomplished state rather than a technique for achieving it.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "“World” is not creation but a rival order of valuation. The argument turns on permanence: attaching love to what passes produces inner contradiction, because the heart’s object determines the self’s horizon; abiding is treated as ontological alignment with God’s will.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Absolution is tethered to a Name; forgiveness is not free-floating sentiment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three estates, three proofs: memory (fathers), victory (young), origin-knowledge (children).",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A hard prohibition: love is a jealous economy; two objects cannot cohabit.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The world catechized as a triple appetite—flesh, eyes, life—desire trained into taxonomy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The world’s vanishing is an argument, not a metaphor; only will-doing has duration.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lineage and tribe named, yet the figure is a woman: authority without office.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Temple as habitat; fasting/prayer become a life-rule that outlasts marriage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She arrives “at the same hour”: recognition is punctual; confession becomes proclamation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Law fulfilled, then withdrawal: obedience does not require visibility.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Growth described in strength and wisdom; grace is stated as an indwelling, not a halo.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I write unto you, little children, because your sins are forgiven you for his name's sake.",
+        "I write unto you, fathers, because you have known him who is from the beginning. I write unto you, young men, because you have overcome the wicked one.",
+        "I write unto you, babes, because you have known the Father. I write unto you, young men, because you are strong, and the word of God abideth in you, and you have overcome the wicked one.",
+        "Love not the world, nor the things which are in the world. If any man love the world, the charity of the Father is not in him.",
+        "For all that is in the world is the concupiscence of the flesh and the concupiscence of the eyes and the pride of life, which is not of the Father but is of the world.",
+        "And the world passeth away and the concupiscence thereof: but he that doth the will of God abideth for ever."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 2:12-17",
+      "reference": "1 John 2:12-17",
+      "heading": "A reading from the First Letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser. She was far advanced in years and had lived with her husband seven years from her virginity.",
+        "And she was a widow until fourscore and four years: who departed not from the temple, by fastings and prayers serving night and day.",
+        "Now she, at the same hour, coming in, confessed to the Lord: and spoke of him to all that looked for the redemption of Israel.",
+        "And after they had performed all things according to the law of the Lord, they returned into Galilee, to their city Nazareth.",
+        "And the child grew and waxed strong, full of wisdom: and the grace of God was in him."
+      ],
+      "lineRefs": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 2:36-40",
+      "reference": "Luke 2:36-40",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "6th day in the Octave of Christmas",
+        "key": "6thDayInTheOctaveOfChristmas"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/30.html",
+    "title": "Gospel and Word of the Day - 30 December 2025",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2025-12-30"
+}
