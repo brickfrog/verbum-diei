@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "abd73da09ba16e77a91197d60a0ce2f718f5f9b3f090f05cd062ded77a154044",
+        "inputSha256": "7537872d01e9dfd72a294f0d644d9225974196a7fb37b635836689234ceaaf2f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "411eb35b2d2650ea784256c4cf97e075242d7875002e527b4a4b2c0589c838ef",
+        "inputSha256": "251293b2526bec8772d2f96905c96a10e28cafcf6a33dc617f7d11efc258be03",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "954af2dfa2deade0c7f6efa24bf150341077ab1e69abd7607b709c685d3387a1",
+        "inputSha256": "44c5361c85a70a57f9f710b6f5641aca8393c8326604ed63f6ddaacccbb83195",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2025-12-31T01:54:30.932Z"
+  },
+  "commentary": {
+    "seminaVerbi": "1 John reads like group therapy under pressure. “Last hour” is not a calendar prediction but an emotional climate: the moment when loyalties harden and exits reveal what was already true. The “antichrists” are not monsters but breakaway mirrors, people who learned the language of belonging and then used it to justify separation. The community metabolizes betrayal by narrating it as disclosure: they left because they were never really here. It is a protective story, but also a diagnostic one. It names a psychological law: when a shared center is real, it produces endurance; when it is performative, it collapses at cost.\n\nThe “unction” is the counterweight to paranoia. Not omniscience, but an interior steadiness that lets you recognize the texture of truth without chasing every new voice. It is confidence that the core has been given, not invented. The letter’s edge is sharp: it draws a line between truth and lie because a wounded group cannot survive if it treats every competing narrative as equally nourishing.\n\nJohn’s prologue supplies the deeper frame: reality is intelligible because it is spoken. The Word is not mere information; it is the source-pattern by which things cohere. “Life” and “light” describe consciousness waking to meaning, and darkness is not ignorance so much as refusal, the will not to see. The tragedy is intimate: the world is made through the Word and yet fails to recognize its own origin; the familiar rejects what would make it whole.\n\nThen the scandal: the Word becomes flesh. The highest meaning consents to limitation, time, appetite, vulnerability. Psychology calls this integration: the ideal descends into the body so the person can be real. “Dwelt among us” is presence, not theory; witness replaces speculation. Grace “for grace” suggests a surplus that keeps arriving, not a single crisis but an ongoing replenishment.\n\nSemina Verbi: the Logos echoes the Stoic logos spermatikos and Philo’s Logos (speculation: John may be transfiguring that intellectual air into a personal, embodied claim). The light that “enlighteneth every man” resonates with the Buddhist image of innate buddha-nature and with Advaita’s witness-consciousness, both insisting that awakening is already seeded in the human condition. The Word made flesh parallels Hindu avatara and Mahayana bodhisattva compassion, where ultimate reality bends toward the finite for the sake of rescue. The “unction” resembles Sufi ma‘rifa, a tasted knowing, and Quaker “inner light,” a truth recognized inwardly rather than imposed.",
+    "excursus": "“Last hour” is not a calendar prediction but a panic attack that never ends. The community is splitting, and the writer converts the wound into an apocalypse: if you leave, you become Antichrist. The dread is that the center cannot hold, so the text invents a test that cannot fail—true ones stay, leavers were never true. It’s a defense mechanism dressed as revelation.\n\nAgainst that anxiety, the prologue’s cosmic grandeur feels like overcompensation: the Word made everything, the Light hits every eye, and still the world doesn’t know him. Desire here is humiliating. God wants recognition and doesn’t get it. Incarnation becomes a risky bid for intimacy—“dwelt among us”—and the result is refusal.\n\nSo “unction” is less secret knowledge than a sedative: you already know all things, stop looking elsewhere. The lie isn’t an argument; it’s the possibility that the outside might be real, might have light too. The darkness “did not comprehend” because comprehension would mean surrender, and both sides refuse it: the secessionists refuse the group, the group refuses to admit the loss. In the middle stands John the witness, not the light, just a voice trying to hold a dissolving world together by pointing at a brightness that keeps getting rejected.",
+    "synthesis": "The eternal Word, consubstantial with God, becomes flesh to generate true sonship by grace, and the Spirit’s anointing preserves that truth in a persevering Church against antichristly departures.",
+    "gospel": [
+      {
+        "text": "The Prologue inserts a human witness into a metaphysical thesis, not to stabilize it but to prosecute belief in history. John’s role is juridical: testimony is the ordained bridge between the Light’s objective advent and the world’s obligated reception.",
+        "lines": [
+          6,
+          7,
+          15
+        ]
+      },
+      {
+        "text": "The gift named “power” reconstitutes kinship: sonship is granted, then grounded in a birth whose causes explicitly exclude genealogy and self-fashioning. Moses-to-Christ is not replacement but escalation: what was given as command is exceeded by communicated life from the incarnate fullness.",
+        "lines": [
+          12,
+          13,
+          16,
+          17
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The community is defined by a double criterion: visible continuity (“remained”) and invisible endowment (“unction”). Together they exclude both mere institutional adhesion and privatized illumination; knowledge is located where the Spirit remains operative in a staying people.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Eschatological time serves polemic: the “last hour” is not a timetable but a filter that sorts claims. The letter treats doctrinal falsity as temporally symptomatic—an index of crisis—so that discernment becomes part of endurance.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Last hour”: eschatology compressed into a diagnosis.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Antichrist pluralized; the menace is diffuse, not merely future.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A schism as an unveiling: departure functions as disclosure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Perseverance is treated as evidence, not achievement.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Unction”: truth as an anointing, not a deduction.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Truth has a hard boundary: lies are not adjacent to it.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Beginning without origin-story: the Word is already there.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“With God” and “was God”: proximity without dilution.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Creation by mediation: nothing stands outside the Word’s causal reach.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Darkness “did not comprehend”: failure is cognitive and moral at once.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Maker unrecognized by what he made: epistemic revolt.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Flesh without embarrassment; glory without evacuation.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The unseen God is made known only by the Son’s narration.",
+      "lines": [
+        18
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Little children, it is the last hour: and as you have heard that Antichrist cometh, even now there are become many Antichrists: whereby we know that it is the last hour. It is the last hour... That is, it is the last age of the world. Many Antichrists;... that is, many heretics, enemies of Christ and his church, and forerunners of the great Antichrist.",
+        "They went out from us but they were not of us. For if they had been of us, they would no doubt have remained with us: but that they may be manifest, that they are not all of us. They were not of us... That is, they were not solid, steadfast, genuine Christians: otherwise they would have remained in the church.",
+        "But you have the unction from the Holy One and know all things. The unction from the Holy One... That is, grace and wisdom from the Holy Ghost. Know all things... The true children of God's church, remaining in unity, under the guidance of their lawful pastors, partake of the grace of the Holy Ghost, promised to the church and her pastors; and have in the church all necessary knowledge and instruction; so as to have no need to seek it elsewhere, since it can be only found in that society of which they are members.",
+        "I have not written to you as to them that know not the truth, but as to them that know it: and that no lie is of the truth."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 2:18-21",
+      "reference": "1 John 2:18-21",
+      "heading": "A reading from the first letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "In the beginning was the Word: and the Word was with God: and the Word was God.",
+        "The same was in the beginning with God.",
+        "All things were made by him: and without him was made nothing that was made.",
+        "In him was life: and the life was the light of men.",
+        "And the light shineth in darkness: and the darkness did not comprehend it.",
+        "There was a man sent from God, whose name was John.",
+        "This man came for a witness, to give testimony of the light, that all men might believe through him.",
+        "He was not the light, but was to give testimony of the light.",
+        "That was the true light, which enlighteneth every man that cometh into this world.",
+        "He was in the world: and the world was made by him: and the world knew him not.",
+        "He came unto his own: and his own received him not.",
+        "But as many as received him, he gave them power to be made the sons of God, to them that believe in his name.",
+        "Who are born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+        "And the Word was made flesh and dwelt among us (and we saw his glory, the glory as it were of the only begotten of the Father), full of grace and truth.",
+        "John beareth witness of him and crieth out, saying: This was he of whom I spoke: He that shall come after me is preferred before me: because he was before me.",
+        "And of his fulness we all have received: and grace for grace.",
+        "For the law was given by Moses: grace and truth came by Jesus Christ.",
+        "No man hath seen God at any time: the only begotten Son who is in the Bosom of the Father, he hath declared him."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:1-18",
+      "reference": "John 1:1-18",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Sylvester I, Pope",
+        "key": "saintSylvesterIPope"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2025/12/31.html",
+    "title": "Gospel and Word of the Day - 31 December 2025",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2025/12/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2025-12-31"
+}
