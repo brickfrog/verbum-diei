@@ -1,0 +1,186 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a9b30337fd38f56766f2c94e735fbf10c610c00c814ba6fb42ddb571dde11d21",
+        "inputSha256": "76e793df0b1f711c08b4c42e49107a4a8aec70ffbb76cf78e9ee0fbf472bd78b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "846cf2119758e8a275f1246546ce59a6f15cdf74c4cb00f3a7bd4979acc52008",
+        "inputSha256": "9453719e69ba745426ce70db3657537e082d2fcae28103645d67ae122c2928bd",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "bad9ace5c05f071c6981b27ffef3c72d8630b69c7b46c0ec800fdc1b3f894bad",
+        "inputSha256": "382924b51ba0f353d1e906a45d63d6e2250ef2fe4f0aee5e63b56a0abc11c4f8",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-01T01:55:12.300Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Numbers is a liturgy of attention: blessing is not a feeling but a trained gaze. “Face” and “countenance” make protection and peace into something interpersonal, like standing within a look that steadies you. The name invoked is a psychological shelter; to be “kept” is to be held in a coherent story when life scatters you.\n\nLuke shows how that shelter forms. The shepherds rush, see, and speak; wonder ripples through the crowd. Mary does the opposite: she stores and digests. Her pondering is not passivity but interior work, the slow making of meaning. Then the narrative tightens into flesh: circumcision, naming. The child is not an idea; he is marked, entered into a people, given a word that will be spoken over him and by him.\n\nThe blessing in Numbers asks for a face that shines and a peace that lands. Luke answers with a face you can actually look at, a name you can actually say, and a peace that begins as fragile as an infant and as costly as belonging.\n\nSemina Verbi: the “shining face” echoes the Hindu darshan of receiving grace through seeing and being seen; the priestly name-as-protection recalls Islamic barakah and the practice of invoking the divine names; Mary’s interior treasuring resembles Buddhist sati and Zen’s quiet witnessing. Speculation: circumcision as a sign of peace-through-boundary parallels initiatory markings in many traditions, where limitation becomes the doorway to identity rather than its prison.",
+    "excursus": "The blessing in Numbers is not tenderness; it is a formula for control. A face turned toward you is surveillance, not romance. “Keep thee” means contain thee. The priests are instructed to place a name on the people like a brand, and the payoff is “peace,” the quiet that follows when everyone has been properly marked and watched.\n\nLuke stages the same pressure at ground level. The shepherds rush in, see the child, and immediately turn him into a story that travels faster than his breath. Wonder is the crowd’s narcotic; it smooths the shock of a baby trapped inside prophecy. Mary does not join the chorus. She hoards the words and turns them over in private, not because she is serene but because she senses the danger of language that claims her son.\n\nThen the cut arrives. Eight days: blood, law, the first incision into the flesh that will later be offered as destiny. The name is not discovered; it is imposed, announced before he exists, as if his life must catch up to a sentence already spoken. The blessing’s “face” and the gospel’s “name” are the same apparatus: attention that feels like mercy until you realize it never looks away.",
+    "synthesis": "God’s blessing is the public placing of his Name upon a people, and in Jesus that Name is bound to covenant flesh and publicly given.",
+    "gospel": [
+      {
+        "text": "The narrative turns on reception and circulation of a word: the shepherds interpret what they see by what they were told, then their report provokes wonder without comprehension. The scene is a testing ground for how revelation moves—through witnesses, rumor, and restrained interiority.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text formalizes mediation: God speaks to Moses, Moses instructs priests, priests address Israel. Blessing is administered, not improvised; it establishes a public order in which divine favor is spoken into a people as a rite.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Blessing begins as custody: to be kept is to be guarded from drift.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The face shown is not information but exposure; mercy follows vision.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Countenance turned: attention as gift. Peace arrives as the residue of regard.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Name is placed \"upon\"—a stamped ownership, not a sentiment.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Haste meets stillness: running ends at a manger.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mary does not broadcast; she archives.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They return to the same fields, but with liturgy on the tongue.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Circumcision: covenant cut into flesh. The Name arrives already assigned.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord spoke to Moses, saying:",
+        "Say to Aaron and his sons: Thus shall you bless the children of Israel, and you shall say to them:",
+        "The Lord bless thee, and keep thee.",
+        "The Lord shew his face to thee, and have mercy on thee.",
+        "The Lord turn his countenance to thee, and give thee peace.",
+        "And they shall invoke my name upon the children of Israel, and I will bless them."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Numbers 6:22-27",
+      "reference": "Numbers 6:22-27",
+      "heading": "A reading from the Book of Numbers",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they came with haste: and they found Mary and Joseph, and the infant lying in the manger.",
+        "And seeing, they understood of the word that had been spoken to them concerning this child.",
+        "And all that heard wondered: and at those things that were told them by the shepherds.",
+        "But Mary kept all these words, pondering them in her heart.",
+        "And the shepherds returned, glorifying and praising God for all the things they had heard and seen, as it was told unto them.",
+        "And after eight days were accomplished, that the child should be circumcised, his name was called JESUS, which was called by the angel before he was conceived in the womb."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 2:16-21",
+      "reference": "Luke 2:16-21",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Mary, Mother of God",
+        "key": "maryMotherOfGod"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/01.html",
+    "title": "Gospel and Word of the Day - 01 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-01"
+}
