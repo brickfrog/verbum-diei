@@ -1,0 +1,220 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5a809dd49be7ab4f992ab05f8c9c102991737e71ae94b0b219b04b2682b7c01b",
+        "inputSha256": "52a1e4d79ced693c5140278babb7dc5768e3d4541237bafc790881383eea83b0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "be5a0923c20f56f040680b5f7b4d747ae20f7101af290e7a0ab9648f3f948fc1",
+        "inputSha256": "e3ce8b1b6f23074cb44710be0a384a778d5d586c111c3e221459d6abb07e0bde",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4aa319df9877c180cf4665e6f153519c370d8d3d7db844396f2e6d60b1657d1f",
+        "inputSha256": "3d728a617241745a9dff52a3efa52cfbd438b9049f1530b5f5e66cc28dd5ad65",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-02T01:54:27.647Z"
+  },
+  "commentary": {
+    "seminaVerbi": "These two passages braid the same psychological move: identity is safest when it is not self-invented. The community in 1 John is being pressured by sleek “knowers” who offer a superior version of the story; the writer replies that the test of truth is fidelity to the original relational claim—Son and Father as one disclosure—held not as an idea but as an indwelling. “Antichrist” is not a movie villain here; it is the seduction of severing symbol from source, wanting the benefits of transcendence without the particular face that anchors it.\n\nThe “unction” is the interior compass that resists spiritual consumerism. It is not anti-intellectual; it is anti-manipulation. The line “you have no need that any man teach you” is a boundary against charismatic capture: the psyche is already seeded with a lived criterion, and the task is not novelty but abiding—staying with what has proved itself true in experience. Eternal life is framed less as reward than as the stable mode of being that comes from coherence.\n\nJohn the Baptist models the opposite of spiritual narcissism. Under interrogation he refuses every prestigious label and chooses metaphor: a voice, not a brand. He stands in a liminal place—the wilderness, the river—where identities are stripped, and his authority comes from self-emptying. His baptism is a rite of readiness, not possession; he points to someone already “in the midst of you,” unknown because the crowd expects a role, not a presence.\n\nSemina Verbi: the insistence on an inner “unction” resembles the Quaker “Inner Light,” the Hindu notion of antaryāmin, and the Sufi emphasis on dhawq, tasted knowledge; speculation: all function as anti-seduction antibodies against secondhand spirituality. John’s self-erasure echoes Buddhist anattā practice and Taoist wu-wei, where power appears as non-grasping; speculation: the text frames humility not as virtue-signaling but as accurate perception of where agency truly originates.",
+    "excursus": "These passages aren’t serene theology; they’re emergency boundary-making under pressure. “Antichrist” is the name the community gives to an inner terror: that the figure you’ve built your life around might be reinterpreted, thinned out, made abstract, made safe. The “liar” is not merely an outsider; it’s the seductive voice that offers relief from the scandal of a particular man by replacing him with an idea. Denial becomes a psychological maneuver: if Jesus is not the Christ, then nothing demands you, nothing judges you, nothing comes.\n\nThe “unction” is the most dangerous line. You have no need that any man teach you. That is spiritual independence as an intoxicant, a sanctioned refusal of authority that can harden into paranoia. It reads like a community telling itself it’s immune while obsessing over seduction. “Abide” is repeated because they feel slipping; permanence is being commanded into existence.\n\nAgainst that anxiety stands John the Baptist, performing the opposite impulse: self-erasure. Interrogated to produce an identity, he keeps saying no, stripping away roles others want him to occupy. He becomes pure function, a voice, not a face. And yet even his negation becomes power; he baptizes anyway, authority without title. The dread sharpens at “one in the midst of you, whom you know not”: the unknown is already among them, not elsewhere, not later. The coming is not comforting; it’s exposure. The desire is to recognize and be recognized, and the fear is that the decisive presence has been standing there all along while you busied yourself with definitions.",
+    "synthesis": "To deny the Son is to sever oneself from the Father; to confess the Son is to remain within the only communion that ends in eternal life. True witness empties itself of title so that the already-present Christ may be recognized and received.",
+    "gospel": [
+      {
+        "text": "An official delegation interrogates, attempting to stabilize religious authority through categories and jurisdiction (“priests and Levites,” “Pharisees”). John’s replies refuse their taxonomy; the scene relocates authority from institutional recognition to prophetic witness, and from Jerusalem to “beyond the Jordan,” the margin where new beginnings are staged.",
+        "lines": [
+          1,
+          4,
+          6,
+          7,
+          10
+        ]
+      },
+      {
+        "text": "The narrative’s irony is geographic and sacramental: water is administered at a borderland while the unknown one stands already among the center. Baptism becomes a sign of imminent disclosure, not a credential for the baptizer.",
+        "lines": [
+          8,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The epistle frames the community as a contested space: writing is a defensive act against internal rhetorical capture. The point is not speculation about end-times figures but the policing of boundary-markers that keep communion from dissolving into rival “knowledge.”",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "The argument telescopes from christology to soteriology: the promised object is not insight but “life everlasting,” making doctrinal precision instrumental to participation, not mere correctness.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Lie defined as misnaming Jesus; falsehood becomes a person: “Antichrist.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No Father by shortcut; confession is the only access-road.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“From the beginning” as the immovable deposit; abiding replaces novelty.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unction displaces the seducer’s classroom; truth is not an upgrade path.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eschatology as nerve-test: confidence or shame at the appearing.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Threefold candor: confessed, did not deny, confessed—identity by refusal.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not a man of titles, a “voice”; self reduced to function.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Presence hidden in plain sight: “in the midst of you… you know not.”",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rank inversion: the later one is “preferred”; humility as accurate measurement.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Who is a liar, but he who denieth that Jesus is the Christ? This is Antichrist, who denieth the Father and the Son.",
+        "Whosoever denieth the Son, the same hath not the Father. He that confesseth the Son hath the Father also.",
+        "As for you, let that which you have heard from the beginning abide in you. If that abide in you, which you have heard from the beginning, you also shall abide in the Son and in the Father.",
+        "And this is the promise which he hath promised us, life everlasting.",
+        "These things have I written to you concerning them that seduce you.",
+        "And as for you, let the unction, which you have received from him abide in you. And you have no need that any man teach you: but as his unction teacheth you of all things and is truth and is no lie. And as it hath taught you, abide in him. You have no need, etc... You want not to be taught by any of these men, who, under pretence of imparting more knowledge to you, seek to seduce you (ver. 26), since you are sufficiently taught already, and have all knowledge and grace in the church, with the unction of the Holy Ghost; which these new teachers have no share in.",
+        "And now, little children, abide in him, that when he shall appear we may have confidence and not be confounded by him at his coming."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 2:22-28",
+      "reference": "1 John 2:22-28",
+      "heading": "From the Letter according to John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And this is the testimony of John, when the Jews sent from Jerusalem priests and Levites to him, to ask him: Who art thou?",
+        "And he confessed and did not deny: and he confessed: I am not the Christ.",
+        "And they asked him: What then? Art thou Elias? And he said: I am not. Art thou the prophet? And he answered: No.",
+        "They said therefore unto him: Who art thou, that we may give an answer to them that sent us? What sayest thou of thyself?",
+        "He said: I am the voice of one crying in the wilderness, make straight the way of the Lord, as said the prophet Isaias.",
+        "And they that were sent were of the Pharisees.",
+        "And they asked him and said to him: Why then dost thou baptize, if thou be not Christ, nor Elias, nor the prophet?",
+        "John answered them, saying: I baptize with water: but there hath stood one in the midst of you, whom you know not.",
+        "The same is he that shall come after me, who is preferred before me: the latchet of whose shoe I am not worthy to loose.",
+        "These things were done in Bethania, beyond the Jordan, where John was baptizing."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:19-28",
+      "reference": "John 1:19-28",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors",
+        "key": "saintsBasilTheGreatAndGregoryNazianzenBishopsAndDoctors"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/02.html",
+    "title": "Gospel and Word of the Day - 02 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-02"
+}
