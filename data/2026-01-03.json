@@ -1,0 +1,232 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "cf48388c9630edf90aafc91f95b870737e73a6cbc2d4fdc3b614fdb7505cc2a6",
+        "inputSha256": "4ccc88de1379d3b0dfe5405385e86d0188f8ae08b992b9a1d26fec40aadb6485",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "aa7b3b8bb3c2ae1a86bbc35cb86e718f5478a92ef2869858d0a0d9e849f5a8a7",
+        "inputSha256": "8711defa1b82555809af9c98cc3e9218ef416f63d0030118f7696c55922cf550",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "253905208ff23b7f2dfac7e770fe55d609dd01d3c1e1eca5fe6d802b34d1c4fa",
+        "inputSha256": "a35ec2ad31e7bbb3fda01445ee7dd1560795a9677a1fb89bce93e4e0d4d276e9",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-03T19:39:45.882Z"
+  },
+  "commentary": {
+    "seminaVerbi": "These texts stage a psychological initiation: identity is not claimed by pedigree or insight but by resemblance. “Born of him” is a new pattern of action; justice is the visible gene. The world “knows not” because recognition here is not information but attunement: people name what they can mirror.\n\nThe future promise—“we shall be like to him, because we shall see him as he is”—treats perception as transformation. To see the real without distortion is to be reorganized by it. Hope is not optimism; it is a discipline that “sanctifieth,” a self-cleaning driven by a felt destiny.\n\nSin is framed as lawlessness, not mere mistake: a refusal of form. The blunt line “abideth in him sinneth not” reads like the psychology of absorption: when a person is truly centered in a coherent good, the repetitive compulsion to rupture fades. The text is not denying relapse so much as naming incompatibility: sustained intimacy with the holy and sustained appetite for rupture cannot occupy the same inner room.\n\nThe Gospel scene gives the image that makes this interior claim concrete. “Lamb of God” is concentrated vulnerability offered against the world’s violence; it “taketh away” sin not by counterforce but by exposure and absorption. John the Baptist’s repeated “I knew him not” insists that recognition is gifted, not manufactured; the sign is the Spirit “remaining,” stability rather than spectacle.\n\nSemina Verbi: the idea that vision changes the seer echoes Plato’s ascent to the Good and the Neoplatonic claim that contemplation assimilates the soul to what it beholds. “Abiding” resembles Buddhist and Hindu accounts of samadhi, where sustained dwelling in a single reality dissolves scattered craving (speculation). The lamb as redemptive innocence parallels the Jewish scapegoat motif and, more loosely, the Jain ideal of radical nonviolence that purifies by refusing harm (speculation). The descending-and-remaining Spirit recalls Daoist de, an enduring potency that marks the true person by quiet, continuous presence rather than flashes (speculation).",
+    "excursus": "These texts stage a frightening romance: you are named “sons of God” before you are anything like it. The label comes first, the self second, and the gap between them is the wound. “It hath not yet appeared what we shall be” is not comfort; it is suspense. The world “knoweth not us” because we are mid-metamorphosis, uncanny to others and unstable to ourselves.\n\nJohn’s moral absolutism—abide and you do not sin, sin and you have not seen—reads like a psyche trying to control desire by turning it into vision. If you could just see rightly, you would be clean. But the insistence betrays the opposite: the closer the beloved, the more intolerable the relapse. Hope becomes a discipline of self-purification not because holiness is sweet, but because resemblance is demanded by love, and love here is exacting.\n\nThen the Baptist appears as the model of displaced longing. He keeps saying “I knew him not,” as if the whole drama depends on ignorance turning into recognition. He baptizes with water—manageable, repeatable—while waiting for the sign that cannot be manufactured: the Spirit that “remained.” His desire is to point and vanish, to make the other manifest and himself obsolete.\n\n“Lamb of God” is not a nursery image; it is the logic of sacrifice smuggled into intimacy. The one who takes away sin does it by becoming the object you can kill and still call holy. Salvation here is not a legal transaction but a violent cleansing fantasy: if the perfect one can absorb the world’s filth, the rest of us can stop hating ourselves for failing to be what we’ve already been named.\n\nTo “see him as he is” is the promised cure, yet it is also the threat: complete visibility, no excuses, no private rooms. The desire for that sight is real, but so is the dread that if you are seen, you will be found unchanged. So the text tightens the knot: you are already called divine, and until you become it, you will not know whether the name is gift or judgment.",
+    "synthesis": "The Son without sin removes sin, and those born of God are obligated to mirror his holiness as proof of knowing him. The Spirit’s abiding on Jesus authorizes him alone as the giver of the Holy Ghost and confirms his divine sonship.",
+    "gospel": [
+      {
+        "text": "John the Baptist is constructed as a witness whose authority is intentionally secondary: he does not generate the content of his testimony; he is authorized by a prior sender and a specified sign. The scene transfers cleansing from ritual administration (“water”) to a new agent who dispenses the Spirit, shifting the center of covenant life.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The narrative argues Christology by temporal and pneumatic markers: preexistence (“he was before me”) is matched to the Spirit’s abiding, culminating in a juridical declaration (“Son of God”). The logic is forensic: sign → identification → public testimony.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage binds identity to moral ontology: being “sons” is not sentiment but a new provenance that demands congruence with the Father’s holiness. The world’s non-recognition functions as an external audit: the community’s origin is invisible to the age that misread Christ.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Eschatology here is ethical leverage: the promised disclosure (“when he shall appear”) is used to police present conduct without granting speculative detail. The criterion is relational permanence—knowledge is validated by perseverance, not by claims.",
+        "lines": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Justice is not a badge; it is a birthmark.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Adoption creates estrangement: named “sons,” unread by the world.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The future is withheld; likeness is promised by vision, not by effort.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sin is not a private flaw; it is lawlessness—an anti-order.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Removal of sin depends on sinlessness in the remover.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Abiding is epistemic: to sin is to prove non-recognition.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Lamb” compresses altar and verdict into one animal word.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The later one outranks the earlier: precedence by prior being.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "John’s ignorance is functional; manifestation is his assignment.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The sign is not the descent but the remaining.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Water work is delegated; Spirit work is proprietary.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Testimony ends in a title: Sonship is the point of the sign.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "If you know that he is just, know ye, that every one also who doth justice is born of him.",
+        "Behold what manner of charity the Father hath bestowed upon us, that we should be called and should be the sons of God. Therefore the world knoweth not us, because it knew not him.",
+        "Dearly beloved, we are now the sons of God: and it hath not yet appeared what we shall be. We know that when he shall appear we shall be like to him: because we shall see him as he is.",
+        "And every one that hath this hope in him sanctifieth himself, as he also is holy.",
+        "Whosoever committeth sin committeth also iniquity. And sin is iniquity. Iniquity... transgression of the law.",
+        "And you know that he appeared to take away our sins: and in him there is no sin.",
+        "Whosoever abideth in him sinneth not: and whosoever sinneth hath not seen him nor known him. Sinneth not... viz., mortally. See chap. 1.8."
+      ],
+      "lineRefs": [
+        "2:29",
+        "3:1",
+        "3:2",
+        "3:3",
+        "3:4",
+        "3:5",
+        "3:6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 2:29–3:6",
+      "reference": "1 John 2:29–3:6",
+      "heading": "A reading from the letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The next day, John saw Jesus coming to him; and he saith: Behold the Lamb of God. Behold him who taketh away the sin of the world.",
+        "This is he of whom I said: After me there cometh a man, who is preferred before me: because he was before me.",
+        "And I knew him not: but that he may be made manifest in Israel, therefore am I come baptizing with water.",
+        "And John gave testimony, saying: I saw the Spirit coming down, as a dove from heaven; and he remained upon him.",
+        "And I knew him not: but he who sent me to baptize with water said to me: He upon whom thou shalt see the Spirit descending and remaining upon him, he it is that baptizeth with the Holy Ghost.",
+        "And I saw: and I gave testimony that this is the Son of God."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:29-34",
+      "reference": "John 1:29-34",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "The Most Holy Name of Jesus",
+        "key": "theMostHolyNameOfJesus"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/03.html",
+    "title": "Gospel and Word of the Day - 03 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-03"
+}
