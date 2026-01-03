@@ -91,16 +91,18 @@ fetchBibleReadingFromData bookRaw citation refs = do
       case FO.lookup book data'.books of
         Nothing -> pure (Left ("Unknown book: " <> book))
         Just chapters -> do
+          -- Expand cross-chapter ranges by filling in all intermediate verses
+          let expandedRefs = expandCrossChapterRefs chapters refs
           let
-            sameChapter = case Array.head refs of
+            sameChapter = case Array.head expandedRefs of
               Nothing -> true
-              Just firstRef -> Array.all (\r -> r.chapter == firstRef.chapter) refs
-            lineRefs = refs <#> \r ->
+              Just firstRef -> Array.all (\r -> r.chapter == firstRef.chapter) expandedRefs
+            lineRefs = expandedRefs <#> \r ->
               if sameChapter then
                 show r.verse
               else
                 show r.chapter <> ":" <> show r.verse
-          case traverse (lookupVerse chapters book) refs of
+          case traverse (lookupVerse chapters book) expandedRefs of
             Left errMsg -> pure (Left errMsg)
             Right lines ->
               pure
@@ -110,6 +112,63 @@ fetchBibleReadingFromData bookRaw citation refs = do
                   , lineRefs
                   , lines
                   })
+
+expandCrossChapterRefs :: Array (Array String) -> Array VerseRef -> Array VerseRef
+expandCrossChapterRefs chapters refs =
+  case refs of
+    [] -> []
+    [single] -> [single]
+    _ -> expandPairs 0 refs
+  where
+  expandPairs idx refsArray =
+    case Array.index refsArray idx, Array.index refsArray (idx + 1) of
+      Just curr, Just next ->
+        if next.chapter > curr.chapter && next.verse > 1 then
+          -- Cross-chapter range detected (next verse is not at chapter start)
+          -- This distinguishes "2:29–3:6" from "20:1,21:1"
+          let gap = generateGap curr next
+          in [curr] <> gap <> expandPairs (idx + 1) refsArray
+        else
+          -- Same chapter, adjacent verses, or separate citation starting at verse 1
+          [curr] <> expandPairs (idx + 1) refsArray
+      Just curr, Nothing ->
+        -- Last element
+        [curr]
+      _, _ ->
+        []
+
+  generateGap start end =
+    let
+      -- Remaining verses in start chapter (only if there are any)
+      startChapterArr = Array.index chapters (start.chapter - 1)
+      startMaxVerse = fromMaybe 0 ((\arr -> Array.length arr) <$> startChapterArr)
+      remainingInStart =
+        if start.verse + 1 <= startMaxVerse then
+          Array.range (start.verse + 1) startMaxVerse
+            <#> \v -> { chapter: start.chapter, verse: v }
+        else
+          []
+
+      -- All intermediate complete chapters (only if there are any)
+      intermediateChapters =
+        if start.chapter + 1 <= end.chapter - 1 then
+          Array.range (start.chapter + 1) (end.chapter - 1)
+        else
+          []
+      intermediateVerses = intermediateChapters >>= \ch ->
+        let chapterArr = Array.index chapters (ch - 1)
+            maxVerse = fromMaybe 0 ((\arr -> Array.length arr) <$> chapterArr)
+        in Array.range 1 maxVerse <#> \v -> { chapter: ch, verse: v }
+
+      -- Verses in end chapter before the end verse (only if there are any)
+      prefixInEnd =
+        if 1 <= end.verse - 1 then
+          Array.range 1 (end.verse - 1)
+            <#> \v -> { chapter: end.chapter, verse: v }
+        else
+          []
+    in
+      remainingInStart <> intermediateVerses <> prefixInEnd
 
 lookupVerse :: Array (Array String) -> String -> VerseRef -> Either String String
 lookupVerse chapters book ref =

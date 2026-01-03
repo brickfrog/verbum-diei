@@ -46,6 +46,15 @@ main = do
       assertEqual "lineRefs" [ "18" ] reading.lineRefs
       assertEqual "lines length" 1 (Array.length reading.lines)
 
+    test "parses en-dash in same-chapter range" do
+      reading <- fetchBibleReading "John 20:1–8"
+      assertEqual "lineRefs" expectedJohn20 reading.lineRefs
+
+    test "parses cross-chapter range with en-dash" do
+      reading <- fetchBibleReading "1 John 2:29–3:6"
+      assertEqual "lineRefs" [ "2:29", "3:1", "3:2", "3:3", "3:4", "3:5", "3:6" ] reading.lineRefs
+      assertEqual "lines length" 7 (Array.length reading.lines)
+
     liftEffect (log "All tests passed.")
 
 test :: String -> Aff Unit -> Aff Unit

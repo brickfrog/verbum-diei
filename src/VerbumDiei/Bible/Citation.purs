@@ -25,6 +25,11 @@ type VerseRef =
 data VersePart
   = Single Int
   | Range Int Int
+  | CrossChapterRange
+      { startVerse :: Int
+      , endChapter :: Int
+      , endVerse :: Int
+      }
 
 type ChapterSegment =
   { chapter :: Int
@@ -87,6 +92,11 @@ expandPart chapter part =
       let lo = min start end
           hi = max start end
       in Array.range lo hi <#> \v -> { chapter, verse: v }
+    CrossChapterRange { startVerse, endChapter, endVerse } ->
+      -- Return endpoint markers only; Bible.purs will expand the full range
+      [ { chapter, verse: startVerse }
+      , { chapter: endChapter, verse: endVerse }
+      ]
 
 mkCursor :: String -> Cursor
 mkCursor input =
@@ -174,9 +184,34 @@ parseVersePart cursor = do
   startParsed <- parseInt cursor
   let cursor' = skipSpaces startParsed.cursor
   case peek cursor' of
-    Just '-' -> do
-      endParsed <- parseInt (skipSpaces (advance cursor'))
-      Right { value: Range startParsed.value endParsed.value, cursor: endParsed.cursor }
+    Just c | isDashChar c -> do
+      -- Advance past the dash
+      let afterDash = skipSpaces (advance cursor')
+      -- Look ahead to see if this is a cross-chapter range
+      let digitsPeek = takeDigits afterDash
+      if Array.null digitsPeek.digits then
+        Left "Expected number after dash"
+      else do
+        -- Check if the number is followed by a colon
+        let afterNumber = skipSpaces digitsPeek.cursor
+        case peek afterNumber of
+          Just ':' -> do
+            -- Cross-chapter range: parse "3:6"
+            endChapterParsed <- parseInt afterDash
+            colonCursor <- parseColon endChapterParsed.cursor
+            endVerseParsed <- parseInt colonCursor
+            Right
+              { value: CrossChapterRange
+                  { startVerse: startParsed.value
+                  , endChapter: endChapterParsed.value
+                  , endVerse: endVerseParsed.value
+                  }
+              , cursor: endVerseParsed.cursor
+              }
+          _ -> do
+            -- Same-chapter range: parse just the ending verse number
+            endParsed <- parseInt afterDash
+            Right { value: Range startParsed.value endParsed.value, cursor: endParsed.cursor }
     _ ->
       Right { value: Single startParsed.value, cursor: cursor' }
 
@@ -329,3 +364,11 @@ toLowerChar c =
          Nothing -> c
      else
        c
+
+isDashChar :: Char -> Boolean
+isDashChar c =
+  case c of
+    '-' -> true  -- ASCII hyphen (U+002D)
+    '–' -> true  -- En-dash (U+2013)
+    '—' -> true  -- Em-dash (U+2014)
+    _ -> false
