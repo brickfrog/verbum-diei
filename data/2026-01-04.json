@@ -1,0 +1,202 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d49721c76bfae44f69e3b192570f2fe96c9a39754e58eb1e05e6cc0c4a404d9f",
+        "inputSha256": "d0f9c3663a474a39ace51d6cf7f216a9f7a97f016f188eef2920254e903dece5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "af40b95875066b23d7e2620e30fbd064f106db386ac908cf56e0eb80d837796f",
+        "inputSha256": "91ce3c60b82e28141dc502a801fb13f9ac521798ccd2216981b424e3d5b740ca",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d4a8d86ba47427fe9c52e56701553ea4682872c6757acf204a5837ee2ebd5170",
+        "inputSha256": "c361293b529129904f0e1a690daafe49b257d94c9b1864f94503b96ed78b6d68",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-04T01:54:57.443Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah stages a psychic sunrise: a city told to stand up and consent to illumination. The light is not a private mood but a public force that reorganizes perception, pulling scattered people home and turning foreign traffic—sea, caravans, kings—into a procession. It reads like the sudden return of meaning after a long depression: the world is still dark, but one place becomes legible, and that legibility radiates.\n\nMatthew tightens the drama into two inner postures before the same sign. The wise men follow a faint, patient guidance and arrive ready to kneel; Herod hears the same rumor and converts it into threat. The story is about how power panics when it cannot control the source of authority, while seekers accept being led. The “other way” home is the psychological hinge: once you have truly recognized what you came to see, you cannot return by the old routes of complicity.\n\nSemina Verbi: the magnetism of a light that gathers nations echoes the Bodhisattva’s compassionate radiance in Mahayana Buddhism and the Buddha-field imagery (speculation), and the star-led journey resembles the Daoist and Hindu sense of an auspicious sign guiding a pilgrim without coercion. Herod’s fear is a near-universal portrait of the ego in Greek tragedy and in Stoic moral psychology: threatened status breeds violence, while wisdom chooses detachment and a different path.",
+    "excursus": "Isaiah’s “light” is not comfort; it’s exposure. Jerusalem is commanded to shine because darkness is already winning everywhere else, and the city’s radiance functions like a flare in a flooded night: it summons traffic. The nations don’t arrive as converts so much as as cargo. Camels, gold, frankincense—wealth piling up until the city is covered. Desire is dressed as praise.\n\nMatthew sharpens the dread: the star is an intelligence that betrays location. It leads foreigners straight into the mouth of power, and power immediately learns how to hunt. Herod’s “adore” is the language of predators; Jerusalem’s trouble is the body recognizing what the mind denies. The priests and scribes know the text cold and stay put; knowledge here is paralysis.\n\nThe magi are not saints; they’re the first surveillance network, and then the first defectors. They bring tribute that smells like burial, and they must flee by dream because reason has already been recruited. Epiphany is not revelation as clarity; it’s revelation as pursuit. Light arrives, and everyone’s hidden motives—fear of losing control, hunger for meaning, the thrill of a sign—step into it.",
+    "synthesis": "God’s glory draws the nations to the messianic king, and this revelation exposes and overturns rival claims to rule. The proper response to manifested kingship is adoration that results in obedience, even against established powers.",
+    "gospel": [
+      {
+        "text": "Matthew stages a three-tier witness: foreign astrologers, Jewish scripture, and a moving sign converge on Bethlehem. The priests supply accurate prophecy yet do not go; knowledge remains inert. Herod leverages the same scriptural apparatus for control, while the star’s guidance functions as a counter-sovereignty that bypasses Jerusalem’s court.",
+        "lines": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle is an expansion narrative: exiles and dispersed kin return, and the influx of nations is described as a reversal of extraction—sea and Gentile “strength” flow toward Zion. The text frames universality not as dilution but as centripetal order around a single cultic center.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Imperative dawn: Jerusalem commanded into radiance, not consoled into it.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Darkness is universal; glory is localized—election as light-source.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Nations navigate by borrowed luminosity; kings reduced to pedestrians of brightness.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pilgrimage becomes commerce; wealth converted into liturgy (gold, frankincense).",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A political question disguised as devotion: “born king” forces a crisis of legitimacy.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Herod’s fear is contagious; the city shares the ruler’s anxiety.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Adore” in a tyrant’s mouth: piety weaponized as surveillance.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation reroutes geography; obedience is a changed road.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of the Lord is risen upon thee.",
+        "For behold darkness shall cover the earth, and a mist the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.",
+        "And the Gentiles shall walk in thy light, and kings in the brightness of thy rising.",
+        "Lift up thy eyes round about, and see: all these are gathered together, they are come to thee: thy sons shall come from afar, and thy daughters shall rise up at thy side.",
+        "Then shalt thou see, and abound, and thy heart shall wonder and be enlarged, when the multitude of the sea shall be converted to thee, the strength of the Gentiles shall come to thee.",
+        "The multitude of camels shall cover thee, the dromedaries of Madian and Epha: all they from Saba shall come, bringing gold and frankincense: and shewing forth praise to the Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 60:1-6",
+      "reference": "Isaiah 60:1-6",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod, behold, there came wise men from the East to Jerusalem,",
+        "Saying: Where is he that is born king of the Jews? For we have seen his star in the East, and are come to adore him.",
+        "And king Herod hearing this, was troubled, and all Jerusalem with him.",
+        "And assembling together all the chief priests and the scribes of the people, he inquired of them where Christ should be born.",
+        "But they said to him: In Bethlehem of Juda. For so it is written by the prophet:",
+        "And thou Bethlehem the land of Juda art not the least among the princes of Juda: for out of thee shall come forth the captain that shall rule my people Israel.",
+        "Then Herod, privately calling the wise men learned diligently of them the time of the star which appeared to them;",
+        "And sending them into Bethlehem, said: Go and diligently inquire after the child, and when you have found him, bring me word again, that I also may come and adore him.",
+        "Who having heard the king, went their way; and behold the star which they had seen in the East, went before them, until it came and stood over where the child was.",
+        "And seeing the star they rejoiced with exceeding great joy.",
+        "And entering into the house, they found the child with Mary his mother, and falling down they adored him: and opening their treasures, they offered him gifts; gold, frankincense, and myrrh.",
+        "And having received an answer in sleep that they should not return to Herod, they went back another way into their country."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 2:1-12",
+      "reference": "Matthew 2:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Epiphany",
+        "key": "epiphany"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/04.html",
+    "title": "Gospel and Word of the Day - 04 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-04"
+}
