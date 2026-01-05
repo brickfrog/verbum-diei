@@ -7,6 +7,7 @@ module VerbumDiei.Rss
 
 import Prelude
 
+import Control.Alternative (guard)
 import Data.Array as Array
 import Data.Char as Char
 import Data.Int as Int
@@ -205,29 +206,63 @@ type SplitCitation =
   , citation :: String
   }
 
+checkOrdinalBookPrefix :: Array String -> Maybe Int
+checkOrdinalBookPrefix tokens = do
+  first <- Array.index tokens 0
+  second <- Array.index tokens 1
+  -- Check if first token is a numeral 1-4
+  guard (first `Array.elem` [ "1", "2", "3", "4" ])
+  -- Check if second token (lowercased) is a known ordinal book name
+  let
+    secondLower = toLowerString second
+    ordinalBooks =
+      [ "john", "peter", "corinthians", "thessalonians", "timothy"
+      , "samuel", "kings", "chronicles", "maccabees"
+      ]
+  guard (secondLower `Array.elem` ordinalBooks)
+  pure 2
+
 splitBookCitation :: String -> SplitCitation
 splitBookCitation line =
   let
     tokens = splitWords line
-    idx = Array.findIndex tokenHasDigitOrColon tokens
+    -- Check if line starts with an ordinal book name (e.g., "1 John 3:16")
+    maybeOrdinalBook = checkOrdinalBookPrefix tokens
   in
-    case idx of
-      Nothing ->
-        { book: Nothing, citation: "" }
-      Just i ->
+    case maybeOrdinalBook of
+      Just bookLength ->
+        -- Found ordinal book prefix, split after it
         let
-          bookTokens = Array.take i tokens
-          citationTokens = Array.drop i tokens
+          bookTokens = Array.take bookLength tokens
+          citationTokens = Array.drop bookLength tokens
           citationTokens' =
             takeWhileArray (\t -> toLowerString t /= "or") citationTokens
-          book =
-            if Array.null bookTokens then
-              Nothing
-            else
-              Just (joinWith " " bookTokens)
+          book = Just (joinWith " " bookTokens)
           citation = joinWith " " citationTokens'
         in
           { book, citation }
+      Nothing ->
+        -- No ordinal book prefix, use original logic
+        let
+          idx = Array.findIndex tokenHasDigitOrColon tokens
+        in
+          case idx of
+            Nothing ->
+              { book: Nothing, citation: "" }
+            Just i ->
+              let
+                bookTokens = Array.take i tokens
+                citationTokens = Array.drop i tokens
+                citationTokens' =
+                  takeWhileArray (\t -> toLowerString t /= "or") citationTokens
+                book =
+                  if Array.null bookTokens then
+                    Nothing
+                  else
+                    Just (joinWith " " bookTokens)
+                citation = joinWith " " citationTokens'
+              in
+                { book, citation }
 
 extractParagraphs :: String -> Array String
 extractParagraphs html =
