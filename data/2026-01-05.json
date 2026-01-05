@@ -1,0 +1,242 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a77ec98ff2a7b8d9169bf147a5c2a8111df6a30ea211dd7c5c4a0f7b64250991",
+        "inputSha256": "65db29011e32daf6ab138e4f1faf1f521758a246d5aa507cc148dbe185dab86e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7949ef42ebe64c4ef1bfe5ca6a6fc0090b5ad7a5400f87cddeecd0e618d64337",
+        "inputSha256": "a17b3d483dcf0d2ff9437a9cdadeb0b2243af47aac358fb5ea5879c1d6b11abd",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c83d4890b12aba915b0e3aae4913e033e1fd5aa4c24056ce97c8487fea8bede1",
+        "inputSha256": "259bc358bf4bf4ad050eca3b4fa28c2fc6d6acf653160f680d181f876e8de96f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-05T02:34:05.991Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John binds efficacy in prayer to an inner congruence: you ask and receive because your wanting has been trained. “Commandment” collapses into a double fidelity—trust a person, love the others—and the promised “Spirit” reads like the felt seam where intention and action stop fighting. The warning about “spirits” is not occult; it is about contagious voices. Test them by whether they keep the story whole: the real arrives in flesh, not as an idea that dissolves the weight of bodies. “Antichrist” is the psychology of abstraction that flatters you out of responsibility.\n\nMatthew shows how that voice moves through geography and mood: prison news, a retreat, then a public turn into Galilee’s mixed margins. Light is not a concept here; it is a campaign of attention—teaching, announcing, touching the sick. “Repent” is a change of direction because a new order is near enough to reorganize desire. The crowds follow not because they grasp a theory but because wholeness seems possible.\n\nSemina Verbi: the “testing of spirits” resembles Buddhist discernment between wholesome and unwholesome mind-states and Stoic scrutiny of impressions; the insistence on flesh echoes Hindu avatara devotion and Jewish insistence that holiness lives in concrete commandments; the “light in darkness” aligns with Sufi imagery of illumination. Speculation: all of them aim at the same human problem—voices that promise transcendence by skipping the body—and answer it by yoking vision to love and repair.",
+    "excursus": "John turns prayer into a bargain and then calls it love. Ask and you will receive, because you have already obeyed; desire is permitted only after it has been domesticated. “Abide” becomes surveillance, the Spirit a receipt proving you’re inside the right intimacy.\n\nThen comes the dread: not every spirit. The test is blunt, almost crude: say the right thing about flesh. The body is the battleground because the body is where people slip away. “Dissolving Jesus” is the urge to make him easier, purer, less embarrassing, less like need. Antichrist is not a monster but a soothing solvent.\n\nMatthew’s Jesus begins when John is arrested, as if the kingdom feeds on the removal of the forerunner. He moves to a borderland, a mixed place, and calls it light, but the first word of that light is penance: a demand, not comfort. The healings read like conquest—torments, devils, lunacy—an inventory of misery drawn toward him by rumor and hunger. The crowds follow because pain loves a strong center, and because darkness will accept any light that promises a body to hold.",
+    "synthesis": "God is known by adherence to the apostolic Christ confessed in the flesh, and that confession is proven in commanded love. The kingdom arrives as light and rule, announcing repentance and manifesting authority over the world’s disorders.",
+    "gospel": [
+      {
+        "text": "Matthew reads Jesus’ relocation as prophetic choreography: the messianic work begins on a borderland, where mixed peoples and compromised histories sit. The fulfillment citation frames the ministry as an invasion of illumination into a death-region, not an inward spiritual upgrade.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The narrative pairs word and deed to form a public summons: teaching names the kingdom; healing exhibits its jurisdiction over disorder. The widening following—from local Galilee to trans-Jordan crowds—signals a kingdom that gathers peripheries into a single orbit around the preacher.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage constructs an epistemology of communion: discernment is not private insight but a test keyed to apostolic hearing. The boundary marker is christological confession under pressure, yet the final criterion is reception of the apostolic voice—truth recognized by adherence, error by refusal.",
+        "lines": [
+          4,
+          5,
+          9
+        ]
+      },
+      {
+        "text": "Prayer and ethics are fused into a single economy: requests are not raw entitlement but participation in commanded life. The center of that life is simultaneously doctrinal (belief in the Son) and social (love), making “commandment” a rule for both mind and body politic.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Petition is yoked to obedience; the ask is audited by the life.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commandment collapses into two nouns: faith with a proper Name; love with a proper neighbor.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mutual indwelling is not sentiment but tenancy; the Spirit is the deed.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Credulity is framed as moral failure: spirits are many; truth is not democratic.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Antichrist is defined as dissolution—Christ pulled apart, not merely opposed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Victory is interior before it is public: the greater resident displaces the world’s prince.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "World-talk is a dialect with its own audience; popularity is a diagnostic.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The arrest of John triggers geography: threat reroutes the mission without ending it.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Nazareth is left; the obscure becomes coastal—exposure chosen, not avoided.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Light does not argue with darkness; it appears, and the map changes.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "First sermon is an ultimatum: repent because reign is near, not because you feel bad.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The catalog of afflictions reads like a census of the fall; cure is proclamation in flesh.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And whatsoever we shall ask, we shall receive of him: because we keep his commandments and do those things which are pleasing in his sight.",
+        "And this is his commandment: That we should believe in the name of his Son Jesus Christ and love one another, as he hath given commandment unto us.",
+        "And he that keepeth his commandments abideth in him, and he in him. And in this we know that he abideth in us by the Spirit which he hath given us.",
+        "Dearly beloved, believe not every spirit, but try the spirits if they be of God: because many false prophets are gone out into the world. Try the spirits... Viz., by examining whether their teaching be agreeable to the rule of the Catholic faith, and the doctrine of the church. For as he says, (ver. 6,) He that knoweth God, heareth us [the pastors of the church]. By this we know the spirit of truth, and the spirit of error.",
+        "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh is of God: Every spirit which confesseth, etc... Not that the confession of this point of faith alone, is, at all times, and in all cases, sufficient; but that with relation to that time, and for that part of the Christian doctrine, which was then particularly to be confessed, taught, and maintained against the heretics of those days, this was the most proper token, by which the true teachers might be distinguished form the false.",
+        "And every spirit that dissolveth Jesus is not of God. And this is Antichrist, of whom you have heard that he cometh: and he is now already in the world. That dissolveth Jesus... Viz., either by denying his humanity, or his divinity. He is now already in the world... Not in his person, but in his spirit, and in his precursors.",
+        "You are of God, little children, and have overcome him. Because greater is he that is in you, than he that is in the world.",
+        "They are of the world. Therefore of the world they speak: and the world heareth them.",
+        "We are of God. He that knoweth God heareth us. He that is not of God heareth us not. By this we know the spirit of truth and the spirit of error."
+      ],
+      "lineRefs": [
+        "3:22",
+        "3:23",
+        "3:24",
+        "4:1",
+        "4:2",
+        "4:3",
+        "4:4",
+        "4:5",
+        "4:6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 3:22–4:6",
+      "reference": "1 John 3:22–4:6",
+      "heading": "A reading from the letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when Jesus had heard that John was delivered up, he retired into Galilee:",
+        "And leaving the city Nazareth, he came and dwelt in Capharnaum on the sea coast, in the borders of Zabulon and of Nephthalim;",
+        "That it might be fulfilled which was said by Isaias the prophet:",
+        "Land of Zabulon and land of Nephthalim, the way of the sea beyond the Jordan, Galilee of the Gentiles:",
+        "The people that sat in darkness, hath seen great light: and to them that sat in the region of the shadow of death, light is sprung up.",
+        "From that time Jesus began to preach, and to say: Do penance, for the kingdom of heaven is at hand.",
+        "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom: and healing all manner of sickness and every infirmity, among the people.",
+        "And his fame went throughout all Syria, and they presented to him all sick people that were taken with divers diseases and torments, and such as were possessed by devils, and lunatics, and those that had the palsy, and he cured them:",
+        "And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 4:12-17,23-25",
+      "reference": "Matthew 4:12-17,23-25",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "n",
+        "rank": "MEMORIAL",
+        "name": "Saint John Neumann, Bishop",
+        "key": "saintJohnNeumannBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/05.html",
+    "title": "Gospel and Word of the Day - 05 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-05"
+}
