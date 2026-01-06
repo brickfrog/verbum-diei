@@ -1,0 +1,203 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8d75a13abc35d268ce498536707e021b2b129bfb30adbb85b9cf82d7027b5e0a",
+        "inputSha256": "0df4bb0301ed22d412ab8d43600eb46b901bc9fd8845d5eaaf49a74aaafa146d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "4d95fd8432a07c9ffa43ed5ae9b5e31f6db07b57a7d48301a5518288b241fe6b",
+        "inputSha256": "2cc6a3b3ac4bcb07f49d41a072d7fb5054adc83c3e36725865ffcd98ada2cfdc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8267530f481ee8fd807b205eb4e4071e1e8a41d9e5da47f32edae0e2cb6391cf",
+        "inputSha256": "a8f6744812ab64ef54a7fb9a6f7b0ed77c7606d6e27916501157463bd34df5cb",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-06T01:54:18.516Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John turns love into a diagnostic, not a decoration: the self is known by what it can sustain. “God is charity” reads psychologically as the claim that reality’s deepest grain is outgoing, self-giving regard, and that to refuse love is to fall out of contact with what is most real. The sharper twist is precedence: you do not climb into love by effort; you awaken inside a love already in motion. “Propitiation” names the way guilt and fear get metabolized so relationship can restart; the divine initiative absorbs the rupture so the human can live.\n\nMark stages that interior claim as a social scene. Compassion appears first as attention: he sees them, names their leaderlessness, then teaches. When the disciples try to manage scarcity by dispersal, he forces a different imagination: you feed them. The miracle is less spectacle than a re-training of perception and agency. He takes what is already there, organizes the crowd into human-sized groups, blesses, breaks, and distributes through the disciples. Abundance arrives as a pattern: gratitude, fracture, mediation, shared order. The twelve baskets feel like the psyche’s residue of grace—evidence that generosity doesn’t merely meet need; it leaves capacity behind.\n\nSemina Verbi: this resembles the Mahayana bodhisattva’s vow to let compassion precede merit, and the Buddhist insight that clinging to lack produces more lack (speculation). It echoes Sufi talk of love as the substance of God and the human as the place where divine love recognizes itself. It rhymes with Hindu anna-dāna, food-giving as sacred duty, and with Jewish tzedakah as justice enacted through concrete provision. In all of them, the shift is from counting to care, from isolated survival to shared life.",
+    "excursus": "John’s “love” is not warmth; it is domination made holy. If God loves first, then love begins as an invasion, not a choice. You don’t rise toward God; you are claimed, preempted, placed in debt. “Propitiation” is the word that gives away the bargain: something must be paid down, something in God must be satisfied. The beloved are told to love because they have already been bought.\n\nMark stages the same structure in flesh. The crowd is called sheep, which sounds tender until you notice what sheep are for. Jesus sees them, feels compassion, then organizes them into ranks on green grass like a controlled pasture. The miracle is not only food; it is compliance. The disciples want scarcity to disperse the bodies; Jesus wants the bodies gathered, counted, seated, managed.\n\n“Give you them to eat” lands like a threat: you will become the conduit of my excess. Bread appears through a chain of handing-over, and the crowd’s fill comes with leftovers counted into twelve baskets, a neat inventory of surplus. Desire is met, but under supervision. Love here is the power to feed you so thoroughly you can’t pretend you were ever free.",
+    "synthesis": "God’s love is prior, objective, and atoning, and it generates a community ordered under Christ’s provision. Divine charity both teaches and feeds, binding doctrine and sustenance into one economy of salvation.",
+    "gospel": [
+      {
+        "text": "Mark stages a contest between logistical prudence and messianic sufficiency. The disciples reason in markets and distances; Jesus answers by reorganizing a crowd into an ordered people and feeding them through mediated hands, producing satiety at scale and leaving a recorded remainder—signs of kingship in a wilderness.",
+        "lines": [
+          2,
+          3,
+          5,
+          7,
+          9,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage argues that divine love is not an interior sentiment but a revealed economy with a determinate instrument: the Son. The logic runs from ontology (God’s identity) to history (sending) to cultic resolution (propitiation), making “love” inseparable from atonement and therefore objective, public, and costly.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Love is treated as a lineage marker: birth before behavior.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance of God is not theoretical; it is enacted by refusal.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The mission is framed as vivification: the sending aims at life, not mere display.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Charity is asymmetrical; the first move is divine, and the cost is expiation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Compassion becomes instruction; pity does not bypass doctrine.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The imperative lands on the disciples: scarcity is delegated.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Miracle begins with seating charts; abundance is administered.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Upward glance, downward distribution: heaven acknowledged, hands employed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Leftovers are counted; excess is not romanticized but measured.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Dearly beloved, let us love one another: for charity is of God. And every one that loveth is born of God and knoweth God.",
+        "He that loveth not knoweth not God: for God is charity.",
+        "By this hath the charity of God appeared towards us, because God hath sent his only begotten Son into the world, that we may live by him.",
+        "In this is charity: not as though we had loved God, but because he hath first loved us, and sent his Son to be a propitiation for our sins."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 4:7-10",
+      "reference": "1 John 4:7-10",
+      "heading": "A reading from the Letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus going out saw a great multitude: and he had compassion on them, because they were as sheep not having a shepherd, and he began to teach them many things.",
+        "And when the day was now far spent, his disciples came to him, saying: This is a desert place, and the hour is now past:",
+        "Send them away, that going into the next villages and towns, they may buy themselves meat to eat.",
+        "And he answering said to them: Give you them to eat. And they said to him: Let us go and buy bread for two hundred pence, and we will give them to eat.",
+        "And he saith to them: How many loaves have you? go and see. And when they knew, they say: Five, and two fishes.",
+        "And he commanded them that they should make them all sit down by companies upon the green grass.",
+        "And they sat down in ranks, by hundreds and by fifties.",
+        "And when he had taken the five loaves, and the two fishes: looking up to heaven, he blessed, and broke the loaves, and gave to his disciples to set before them: and the two fishes he divided among them all.",
+        "And they all did eat, and had their fill.",
+        "And they took up the leavings, twelve full baskets of fragments, and of the fishes.",
+        "And they that did eat, were five thousand men."
+      ],
+      "lineRefs": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:34-44",
+      "reference": "Mark 6:34-44",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Andre Bessette, Religious",
+        "key": "saintAndreBessetteReligious"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/06.html",
+    "title": "Gospel and Word of the Day - 06 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-06"
+}
