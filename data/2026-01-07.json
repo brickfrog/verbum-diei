@@ -1,0 +1,210 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0f11e61c0f7cdee6be3bfc4828df60cd7045d5ec63cde38ecdf5169c07e91fce",
+        "inputSha256": "7a42b87477698be7b27bedef736f800483b434028fb1596575bc552e53e19d4c",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2d1b015449bf0e8292ba1d6aea786c1b5ce50816a1fe8fee4855d0fbea3b44e4",
+        "inputSha256": "66ac5e31f403a84e686b927528c7230fc76085379774454f42064e55252ff9be",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1226bca009f5e07d455ec59d7b20ffaa278fb5f3af93f84fda713c178ee6d3a4",
+        "inputSha256": "06e24e95d13f18471ebade841e362de8535e57d206397f2c1ddf3667b20c20f3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-07T01:54:23.361Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John names the hidden engine of a sane life: love that disarms fear. God is not an object you can seize with the eyes; the only credible “sighting” is what happens between people when they choose costly goodwill. Love becomes proof not by argument but by inhabitation: it moves in, rearranges the inner house, and the anxious self that lives on threat starts to loosen its grip. Judgment, here, is less a courtroom than the moment you finally stand before reality without the armor of self-justification; love gives confidence because it trains you to live unprotected.\n\nMark stages the same psychology as weather. The disciples are competent, faithful, and still trapped in headwind; effort doesn’t save them from exhaustion. Jesus “would have passed by” like a theophany that doesn’t force itself—presence offered, not imposed. They misread help as a ghost because fear distorts perception; then a voice names identity, and the nervous system settles. The real rebuke is not their weakness but their dullness after the loaves: they have seen abundance and still live as if scarcity rules, so their hearts stay “blinded,” i.e., defended.\n\nTaken together, the texts insist that fear is not defeated by more control but by deeper trust embodied as love. You learn who God is by practicing a love that makes you less reactive, less suspicious, less in need of enemies. The miracle is not mainly the feet on water; it is the unhooking of the terrified imagination.\n\nSpeculation, but the same seed shows up elsewhere: Buddhism’s metta softens the fear-bound self; Stoicism’s oikeiosis widens concern beyond the private ego; Sufism’s mahabbah reads the world as held in divine tenderness; the Bhagavad Gita’s bhakti trades panic for devotion; Taoism’s wu-wei refuses the frantic grasping that multiplies dread. In each, love or alignment dissolves the inner weather that makes ghosts of ordinary help.",
+    "excursus": "John’s “perfect charity” reads like an anxiety cure that can’t admit it is one. No one has seen God; the text gives you a workaround: love each other and call that indwelling. It isn’t a vision, it’s a social practice meant to anesthetize dread. Judgment still looms, so love becomes a technology for confidence, a way to stop shaking before the cosmic verdict. The line “fear hath sin” flips the knife: if you’re afraid, your love is defective. Fear becomes evidence against you.\n\nMark stages the same mechanism as nightmare. Jesus forces them into the boat, watches from shore, then comes late, on top of the thing that can swallow them. He “would have passed by”—the cruelest detail—like the divine doesn’t owe you rescue, only spectacle. They mistake him for a ghost because that’s what help looks like when you’ve been abandoned long enough. “It is I, fear ye not” is not comfort; it’s command, and the wind obeys him, not them. They are left astonished, not relieved, because the real terror isn’t the storm; it’s that the one who can end it also chose to stage it. Their hearts are “blinded” because the lesson of the loaves and the sea is the same: dependency. Love casts out fear by replacing it with hunger.",
+    "synthesis": "God’s indwelling is verified by Spirit, confession, and enacted love, yielding confidence before judgment. Christ’s self-revelation exposes the heart’s blindness that can witness power yet fail to recognize the One who comes.",
+    "gospel": [
+      {
+        "text": "Mark arranges a three-part scene: solitary prayer, self-disclosure, and imposed calm. The mountain (2) locates Jesus’ authority outside the boat’s crisis; his \"it is I\" (6) functions as revelation rather than reassurance; the cessation of wind (7) is secondary to that disclosure. The narrative’s thrust is not rescue as such but recognition—what sort of presence has entered the boat.",
+        "lines": [
+          2,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds an epistemology: assurance is not grounded in sight but in Spirit-gift, apostolic testimony, and confession. Knowledge of God is mediated—by reception of the Spirit (3), by the sending of the Son as public claim (4), and by verbal allegiance to Jesus’ identity (5). The argument is that communion is adjudicated by these objective marks, not by private insight.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Obligation, not ornament: love is framed as debt, not mood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The invisible God gets a visible address: mutual love becomes the site of indwelling.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ontology stated baldly—\"God is charity\"—and the test becomes location: where you abide.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment is met with \"confidence,\" not evasion; likeness to Christ is asserted as present tense.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear is treated as a defect in maturation; the opposite of perfection is not vice but timidity.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He \"obliged\" them into vulnerability; the miracle begins as forced departure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Distance is staged: them in the sea’s middle, him alone on land—separation as pedagogy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He comes at the boundary hour and \"would have passed by\": a theophany that refuses control.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They misname deliverance as threat; perception collapses into superstition.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The real storm is internal: loaves unread, heart \"blinded\"—astonishment without comprehension.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "My dearest, if God hath so loved us, we also ought to love one another.",
+        "No man hath seen God at any time. If we love one another, God abideth in us: and his charity is perfected in us.",
+        "In this we know that we abide in him, and he in us: because he hath given us of his spirit.",
+        "And we have seen and do testify that the Father hath sent his Son to be the Saviour of the world.",
+        "Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God.",
+        "And we have known and have believed the charity which God hath to us. God is charity: and he that abideth in charity abideth in God, and God in him.",
+        "In this is the charity of God perfected with us, that we may have confidence in the day of judgment: because as he is, we also are in this world.",
+        "Fear is not in charity: but perfect charity casteth out fear, because fear hath sin. And he that feareth is not perfected in charity. Fear is not in charity, etc... Perfect charity, or love, banisheth human fear, that is, the fear of men; as also all perplexing fear, which makes men mistrust or despair of God's mercy; and that kind of servile fear, which makes them fear the punishment of sin more than the offence offered to God. But it no way excludes the wholesome fear of God's judgments, so often recomended in holy writ; nor that fear and trembling, with which we are told to work out our salvation. Phil. 2.12."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 4:11-18",
+      "reference": "1 John 4:11-18",
+      "heading": "A reading from the letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And immediately he obliged his disciples to go up into the ship, that they might go before him over the water to Bethsaida, whilst he dismissed the people.",
+        "And when he had dismissed them, he went up to the mountain to pray,",
+        "And when it was late, the ship was in the midst of the sea, and himself alone on the land.",
+        "And seeing them labouring in rowing, (for the wind was against them,) and about the fourth watch of the night, he cometh to them walking upon the sea, and he would have passed by them.",
+        "But they seeing him walking upon the sea, thought it was an apparition, and they cried out.",
+        "For they all saw him, and were troubled. And immediately he spoke with them, and said to them: Have a good heart, it is I, fear ye not.",
+        "And he went up to them into the ship, and the wind ceased: and they were far more astonished within themselves:",
+        "For they understood not concerning the loaves; for their heart was blinded."
+      ],
+      "lineRefs": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:45-52",
+      "reference": "Mark 6:45-52",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Raymond of Penyafort, Priest",
+        "key": "saintRaymondOfPenyafortPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/07.html",
+    "title": "Gospel and Word of the Day - 07 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-07"
+}
