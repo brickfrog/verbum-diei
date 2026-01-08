@@ -1,0 +1,195 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "111656b5bc27990f618d09a7a6b2e667861ec701f72db466f3d2f6cec4f1477b",
+        "inputSha256": "be15fea254adb6c5f91e8547f0087ac32fbef10177c7714abf985ce10c9de546",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3e17cb1b1e0b95ad1fc13b5a08bab0e87490bb9c76afce6cddc1de0801a56b1f",
+        "inputSha256": "cf529753532296f8f7ae067af8de00ce7cb224794d01acc6391564e54876cca7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8b11b670a4501f34807c88422cbf7c476fa83e8c97f94d2a085f5ffca5defb8e",
+        "inputSha256": "76ca113b52a4e43c075eea37b3d50db9371eda923f2ac89b091d90dad75d5eef",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-08T10:14:35.201Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John strips “love of God” of its perfume and makes it falsifiable. If you can’t love the brother in front of you, your God-talk is self-flattery. The unseen is tested by the seen. The psyche here is allergic to spiritual abstraction: it treats contempt as a diagnostic sign. Hatred isn’t a mere moral failure; it’s evidence the inner story is counterfeit.\n\n“Commandments are not heavy” is not sentimental. It’s a claim about desire. When you’re “born of God,” the weight shifts from white-knuckled compliance to a new appetite; the world’s seductions lose their glamour because a deeper attachment has taken root. Faith “overcomes” precisely because it is not a private opinion but a re-trained loyalty that expresses itself as concrete charity.\n\nLuke shows how that interior re-ordering turns outward. Jesus reads Isaiah as autobiography and then, with one sentence, detonates the room: the text isn’t about some later hero; it’s happening now. The poor, the captives, the bruised are not props for piety but the chosen theater of God’s action. The Nazareth line, “Is not this the son of Joseph?”, is the reflex of familiarity: we prefer the divine at a safe distance, not wearing the face we already think we understand.\n\nSpeculation: the test “love the one you see” echoes Confucian ren, where virtue is proven in relational duty, and Buddhist metta, where awakening is measured by unforced goodwill toward beings. The “light burden” of commandments resembles the Daoist sense that alignment makes action effortless. The manifesto for the poor and captive parallels the Hebrew jubilee and also the Stoic idea that philosophy’s proof is liberation, not rhetoric. Here, liberation is not escape from the world but a new way of inhabiting it, beginning with the people nearest, least impressive, and most inconvenient.",
+    "excursus": "John’s “love” reads like a loyalty test disguised as tenderness. God loved first, so you are already in debt; the interest is your brother. If you fail to love the one you can see, you are not merely cold, you are counterfeit, a liar. The text doesn’t soothe; it surveils. It presses the private claim “I love God” into public proof, as if the only way to touch the invisible is by handling the nearest body without flinching.\n\n“His commandments are not heavy” is the most chilling line. It denies your experience of weight, implying the burden is not the law but you. The world to be “overcome” is not some pagan outside; it is the ordinary resistance in you that wants love to stay abstract, clean, and uncostly. Faith wins by becoming a kind of appetite that makes obedience feel natural, even when it humiliates you.\n\nIn Nazareth, Jesus stages fulfillment like a performance of intimacy: he chooses the passage, reads it, sits, and lets their stare ripen. “This day” is desire made immediate, the poor and captive promised relief now, not later. And then the room curdles into recognition: “Is not this the son of Joseph?” They crave a savior, but not one with a hometown, not one who brings the claim too close to their faces. The gospel offers liberation, but it begins by trapping the hearer in a gaze: you wanted good news; here it is, in your ears, in your street, in someone you think you already understand.",
+    "synthesis": "God’s prior love establishes a new birth that is proven by obedient charity toward the visible brother. Christ’s proclaimed fulfillment inaugurates liberation that simultaneously constitutes judgment in the present.”",
+    "gospel": [
+      {
+        "text": "Luke frames Jesus’ mission statement as a public legal claim: anointing authorizes proclamation, proclamation creates a reordered social field (poor, captives, blind, bruised), and “today” collapses promise into event. The juxtaposition of “acceptable year” with “day of reward” binds mercy to judgment; liberation is not mere relief but the inbreaking of a reign that evaluates.",
+        "lines": [
+          5,
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage tightens the circle of belonging: faith in “Jesus is the Christ” generates a new kinship in which love is not sentiment but family-duty, verified by obedience. The inserted gloss exposes the danger the text provokes—reducing “belief” to a single proposition—and counters by reattaching justification to a full moral and theological habitus.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Love is derivative: second response, not first cause.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Brother as test-case; invisibility of God removes excuses, not obligations.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Not heavy” is an indictment of refusal, not a compliment to ease.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Victory is defined before felt: faith names the conquest it must enact.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Custom carries the Messiah; ordinary piety becomes the stage of rupture.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He “found the place”: selection masquerading as providence—intent made liturgy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sitting: the posture of authority; the room’s gaze becomes a tribunal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Grace heard, scandal follows: familiarity as a weapon against revelation.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Let us therefore love God: because God first hath loved us.",
+        "If any man say: I love God, and hateth his brother; he is a liar. For he that loveth not his brother whom he seeth, how can he love God whom he seeth not?",
+        "And this commandment we have from God, that he who loveth God love also his brother.",
+        "Whosoever believeth that Jesus is the Christ, is born of God. And every one that loveth him who begot, loveth him also who is born of him. Is born of God... That is, is justified, and become a child of God by baptism: which is also to be understood; provided the belief of this fundamental article of the Christian faith be accompanied with all the other conditions, which, by the word of God, and his appointment, are also required to justification; such as a general belief of all that God has revealed and promised: hope, love, repentance, and a sincere disposition to keep God's holy law and commandments.",
+        "In this we know that we love the children of God: when we love God and keep his commandments.",
+        "For this is the charity of God: That we keep his commandments. And his commandments are not heavy.",
+        "For whatsoever is born of God overcometh the world. And this is the victory which overcameth the world: Our faith. Our faith... Not a bare, speculative, or dead faith; but a faith that worketh by charity. Gal. 5.6"
+      ],
+      "lineRefs": [
+        "4:19",
+        "4:20",
+        "4:21",
+        "5:1",
+        "5:2",
+        "5:3",
+        "5:4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 4:19–5:4",
+      "reference": "1 John 4:19–5:4",
+      "heading": "A reeading from the Letter of 1 John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus returned in the power of the spirit, into Galilee: and the fame of him went out through the whole country.",
+        "And he taught in their synagogues and was magnified by all.",
+        "And he came to Nazareth, where he was brought up: and he went into the synagogue, according to his custom, on the sabbath day: and he rose up to read.",
+        "And the book of Isaias the prophet was delivered unto him. And as he unfolded the book, he found the place where it was written:",
+        "The spirit of the Lord is upon me. Wherefore he hath anointed me to preach the gospel to the poor, he hath sent me to heal the contrite of heart,",
+        "To preach deliverance to the captives and sight to the blind, to set at liberty them that are bruised, to preach the acceptable year of the Lord and the day of reward.",
+        "And when he had folded the book, he restored it to the minister and sat down. And the eyes of all in the synagogue were fixed on him.",
+        "And he began to say to them: This day is fulfilled this scripture in your ears.",
+        "And all gave testimony to him. And they wondered at the words of grace that proceeded from his mouth. And they said: Is not this the son of Joseph?"
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 4:14-22",
+      "reference": "Luke 4:14-22",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday after Epiphany",
+        "key": "thursdayAfterEpiphany"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/08.html",
+    "title": "Gospel and Word of the Day - 08 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-08"
+}
