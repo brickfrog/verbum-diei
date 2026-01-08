@@ -817,8 +817,13 @@ extractBookFromHeading heading =
         afterLast "of" tokens
       else
         afterLast "of" tokens
-    ordinal = findOrdinal tokens
     baseBook = normalizeBookTokens bookTokens
+    -- Don't prepend ordinal if book tokens already start with one
+    bookHasOrdinal =
+      case Array.index bookTokens 0 of
+        Just firstToken -> firstToken `Array.elem` [ "1", "2", "3", "4", "i", "ii", "iii", "iv" ]
+        Nothing -> false
+    ordinal = if bookHasOrdinal then Nothing else findOrdinal tokens
     withOrdinal =
       case ordinal of
         Just ord -> ord <> " " <> baseBook
