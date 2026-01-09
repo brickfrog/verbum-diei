@@ -1,0 +1,193 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6daafeb61442c4201da938092c46fdd35d54b6524864282e084ab469b81542bb",
+        "inputSha256": "e590f0b7bfa3beceb9cc03fb8148873a15e38884f3162ca56d6a442bc793abde",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "706c4340ea4af28f74d237ea1507daa2fd553f3c6c64c2d419ba93c3c4db91c7",
+        "inputSha256": "5442ca3bceff92707fd0735f0e1fe3212754d9a7315b4a7eeba1659aae160f2f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f2944a93b8d082278072154bc422adf88a3808eca0751abe8197c50556dbac34",
+        "inputSha256": "551cef5227dc170464590600e2a4a7d366d2aa104299f104e2f0fbb192bfeeb5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-09T01:54:39.491Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John writes like a mind trying to stabilize itself by stacking witnesses. Belief is not a soft mood; it is the act that “overcomes the world,” meaning the crush of appearances, pressure, contagion, shame. Water and blood are not tidy symbols but stubborn bodily facts: washing and wounding, initiation and cost. The self is asked to carry testimony “in himself,” to become its own courtroom where doubt is not curiosity but an accusation that corrodes trust from the inside.\n\nLuke shows what that trust looks like under skin. The leper does not argue theology; he risks approach. Jesus touches first, then speaks. The cure is immediate, but the reintegration is procedural: priest, offering, public proof. And then the strange discipline of silence, as if attention itself is a kind of disease that spreads. Power draws crowds; he retreats to the desert to keep his agency from being eaten by demand.\n\nSpeculation: the threefold witness echoes legal psychology and also older triads that bind inner conviction to outer rite and lived consequence. Hinduism’s satyam-jñānam-ānandam, Buddhism’s triple jewel, and Stoicism’s reason-nature-virtue all triangulate truth by multiple registers rather than one claim. The leper’s cleansing by touch has kinship with Buddhist karuṇā and Sufi baraka, where proximity to the holy transmits courage back into the broken body.",
+    "excursus": "John reads like a mind trying to outrun contamination by turning belief into a private organ: “the testimony…in himself.” It isn’t triumphal; it’s defensive. The world is not “overcome” by argument but by a hard narrowing of perception until only one Name is allowed to count as life. Everything else becomes death by definition, and disbelief isn’t mistaken, it’s criminal: it “makes him a liar.” The dread here is of ambiguity, of mixed signals, of a universe where water washes but blood still stains. So the letter multiplies witnesses the way an anxious person repeats a story until it feels true.\n\nLuke puts the dread on skin. The leper is “full” of it, saturated, already exiled while alive. He asks permission to be re-admitted to touch. Jesus answers with touch first, not purity; he risks becoming the thing he heals. Then comes the strangest move: silence. Don’t tell. Go to the priest. Make the cure into paperwork, a “testimony,” as if reintegration requires an institution to certify what the body already knows. Fame defeats secrecy; crowds turn healing into appetite.\n\nThe heterodox link is that “testimony” is not proof of divinity but a management of desire. People want cleansing the way they want certainty: immediate, total, socially recognized. Jesus keeps slipping away to the desert because every cure creates more hunger, and every witness creates more pressure. Water, blood, spirit: not mystical elements but the brutal trio of being human—washed, wounded, breathing—and the terror that none of it is stable unless someone authoritative calls it one.",
+    "synthesis": "God has bound eternal life to the Son by public testimony; to refuse the Son is to reject God’s own witness. Christ’s holiness purifies by contact while still ordering its fruits to lawful testimony rather than religious theater.",
+    "gospel": [
+      {
+        "text": "The narrative holds together three pressures: compassion, institutional verification, and public escalation. Jesus’ command channels the event into Israel’s authorized mechanisms (“as Moses commanded”), yet the crowd converts mercy into spectacle; the text exposes how easily healing becomes a rival liturgy.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds an evidentiary architecture: heavenly witness matched by earthly witness, then ranked over human courts, then internalized in the believer. The aim is juridical certainty (“know”) rather than mystical drift—eternal life is presented as a verdict grounded in God’s sworn testimony about the Son.",
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Overcometh” is not vigor but assent: victory reduced to belief.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Water and blood” refuses a clean religion; purification is tied to wounding.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unbelief is not ignorance but perjury: it calls God a liar.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Possession language: life is not a quality but a person held—or absent.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Leprosy is total (“full”); the petition is conditional on will, not power.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Touch precedes cure: contamination reversed; holiness is the stronger contagion.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silence plus priest: miracle routed through law; testimony without publicity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Withdrawal after power: the source refuses to be consumed by demand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?",
+        "This is he that came by water and blood, Jesus Christ: not by water only but by water and blood. And it is the Spirit which testifieth that Christ is the truth. Came by water and blood... Not only to wash away our sins by the water of baptism, but by his own blood.",
+        "And there are Three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one.",
+        "And there are three that give testimony on earth: the spirit and the water and the blood. And these three are one. The spirit, and the water, and the blood... As the Father, the Word, and the Holy Ghost, all bear witness to Christ's divinity; so the spirit, which he yielded up, crying out with a loud voice upon the cross; and the water and blood that issued from his side, bear witness to his humanity, and are one; that is, all agree in one testimony.",
+        "If we receive the testimony of men, the testimony of God is greater. For this is the testimony of God, which is greater, because he hath testified of his Son.",
+        "He that believeth in the Son of God hath the testimony of God in himself. He that believeth not the Son maketh him a liar: because he believeth not in the testimony which God hath testified of his Son. He that believeth not the Son, etc... By refusing to believe the testimonies given by the three divine persons, that Jesus was the Messias, and the true Son of God, by whom eternal life is obtained and promised to all that comply with his doctrine. In him we have also this lively confidence, that we shall obtain whatever we ask, according to his will, when we ask what is for our good, with perseverance, and in the manner we ought. And this we know, and have experience of, by having obtained the petitions that we have made.",
+        "And this is the testimony that God hath given to us eternal life. And this life is in his Son.",
+        "He that hath the Son hath life. He that hath not the Son hath not life.",
+        "These things I write to you that you may know that you have eternal life: you who believe in the name of the Son of God."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 5:5-13",
+      "reference": "1 John 5:5-13",
+      "heading": "A reading from the Letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, when he was in a certain city, behold a man full of leprosy who, seeing Jesus and falling on his face, besought him saying: Lord, if thou wilt, thou canst make me clean.",
+        "And stretching forth his hand, he touched him, saying: I will. Be thou cleansed. And immediately the leprosy departed from him.",
+        "And he charged him that he should tell no man, but: Go, shew thyself to the priest and offer for thy cleansing according as Moses commanded, for a testimony to them.",
+        "But the fame of him went abroad the more: and great multitudes came together to hear and to be healed by him of their infirmities.",
+        "And he retired into the desert; and prayed."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 5:12-16",
+      "reference": "Luke 5:12-16",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday after Epiphany",
+        "key": "fridayAfterEpiphany"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/09.html",
+    "title": "Gospel and Word of the Day - 09 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-09"
+}
