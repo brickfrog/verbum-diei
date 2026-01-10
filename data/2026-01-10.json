@@ -1,0 +1,255 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8b202e6e566f25689b4b01b3203a60e72a083b389bdbadede2b41216f3ed2ff8",
+        "inputSha256": "1536abab399fb0d2b8bd5c4522c5455fc7e6de3596bdc16350151828eace2803",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f0d23c9da6b628e95f369f6e179668a34f88af887c281ddd4b5bfecc5cc54c75",
+        "inputSha256": "cee721ec09ed64e5bd6714d5189238208707e4b96473408584a1db58fc748c3b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "06138d2d3785f7ecc8b6d1d3c75b0acd54f8e02955d6c12fc3bd35bcd85f04fc",
+        "inputSha256": "9f8cc22d4eabfcb162fb637a7ea706285b6dbb9d6566ba51ae12524e0b5fa4e2",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-10T01:54:19.272Z"
+  },
+  "commentary": {
+    "seminaVerbi": "John’s confidence in prayer is not magical leverage but alignment: ask “according to his will” and you are really asking to be tuned, not to be indulged. Psychologically it reads as a discipline of desire. The petition is granted when the asker’s inner life is brought into coherence with what is real, so that “having” the request can mean becoming the kind of person for whom the request is true.\n\nThe “sin unto death” is best read as the hardening that refuses relationship itself. Not a tally of bad acts, but a foreclosure of responsiveness, the choice to become unreachable. That is why intercession loses its clear confidence: you can ask for another’s healing, but you cannot force open a will that has trained itself to say no. “The whole world” seated in wickedness is the ambient pressure of that refusal made normal, a field that dulls perception and makes idols feel like common sense.\n\nAgainst that field John the Baptist stages a clean piece of ego-psychology. His disciples want status; he answers with gift and limits. “A man cannot receive anything unless given” cuts envy at the root by relocating worth from comparison to vocation. The bridegroom image makes desire relational rather than competitive: the friend’s joy is to hear the voice, not to possess the bride. “He must increase, I must decrease” is not self-hatred but the mature relinquishing of centrality so that reality can take the center.\n\nSpeculation: the warning against idols rhymes with Buddhist upādāna, clinging that manufactures suffering, and with Stoic prosochē, attention that refuses false goods; both name the same inward drift toward substitutes. The “sin unto death” resembles the Yogācāra idea of karmic habituation becoming a sealed pattern, and the Sufi fear of the heart’s rust, where repetition makes hearing impossible. John’s antidote is a relational reorientation: let the true voice grow louder than the crowd inside you.",
+    "excursus": "John’s “confidence” is not comfort; it is a technique for surviving dependence. Ask “according to his will” and you never have to face the humiliation of wanting the wrong thing. Prayer becomes a disciplined narrowing of desire until it matches whatever happens, and then you can call it answered.\n\nThe talk of “sin unto death” reads like triage in a crowded ward. Some failures are treatable; some people have crossed into a numbness that won’t even accept care. The dread is that death is not punishment but a chosen insulation: a will trained to refuse being moved, to refuse the risk of repentance because repentance means needing someone.\n\nThen the Gospel stages the same terror in softer clothing. John’s disciples complain like jilted friends: everyone is leaving. John answers with a theology that is also self-defense: “from heaven” means not my fault, not my loss. But his image gives him away. There is a bride, a bridegroom, and he is not either; he is the one who listens at the edge, aroused by a voice that is not meant for him.\n\n“He must increase, I must decrease” is not serene humility; it is erotic renunciation. John chooses disappearance as a way to keep joy pure, to keep desire from becoming a claim. The final warning against idols lands like a last, bleak practicality: anything you can hold, name, or keep would be easier than this—easier than a God who asks you to want and then to let go.",
+    "synthesis": "Prayer and ministry are valid only as participation in what heaven gives and wills. Fidelity to the true God requires ordered allegiance: the Son increases, idols and rivals are excluded.",
+    "gospel": [
+      {
+        "text": "Two baptizing ministries operate concurrently before John’s imprisonment, creating a deliberate overlap: continuity without equality. The narrative allows comparison, then redefines it.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The complaint “all men come to him” exposes the economy of prestige; John answers by denying ownership of outcomes. He interprets his role as commissioned precursor, dissolving competition by appeal to gift and mandate.",
+        "lines": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The bridegroom image relocates the center from ritual to covenantal possession; John positions himself as attendant to another’s union. Increase/decrease becomes the narrative logic of revelation: the forerunner must yield so the bridegroom can be recognized.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Petition is subordinated to divine willing; prayer is construed as participation in governance rather than leverage. The text’s repeated “we know” frames certainty as communal epistemology, not private assurance.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The letter sketches a boundary-policing theology: intercession has limits, sin has gradations, and the final injunction targets idolatry as the archetypal breach of allegiance. The community’s life is maintained by refusing rival cults and rival truths.",
+        "lines": [
+          3,
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Three “we know” claims stack into an identity argument: origin (born of God), location (not of the world), and content (the Son grants knowledge). Ethics follows ontology: conduct is derivative of begetting and belonging.",
+        "lines": [
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Confidence is not mood; it is alignment: “according to his will.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hearing is treated as verdict: answered before seen.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Intercession is bounded by an unnamed cliff: “unto death” sits inside the community like a void.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Born of God” is described negatively: not sinning; preservation is external custody.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A stark partition: “we” versus “whole world”; belonging is a metaphysic before it is an ethic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Knowing God comes as a gift of “understanding,” not as discovery; “true” repeats like a seal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The last word is not theory but quarantine: idols as relapse.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Much water”: sacrament meets geography; abundance serves rite.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Purification becomes rivalry; religious technique breeds comparison.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority is rationed from above; scarcity is theological, not sociological.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The friend’s joy is auditory: he “heareth”; presence is defined by voice, not status.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ministry is subtraction: decrease is not failure but vocation.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And this is the confidence which we have towards him: That, whatsoever we shall ask according to his will, he heareth us.",
+        "And we know that he heareth us whatsoever we ask: we know that we have the petitions which we request of him.",
+        "He that knoweth his brother to sin a sin which is not to death, let him ask: and life shall be given to him who sinneth not to death. There is a sin unto death. For that I say not that any man ask. A sin which is not to death, etc... It is hard to determine what St. John here calls a sin which is not to death, and a sin which is unto death. The difference can not be the same as betwixt sins that are called venial and mortal: for he says, that if a man pray for his brother, who commits a sin that is not to death, life shall be given him: therefore such a one had before lost the life of grace, and been guilty of what is commonly called a mortal sin. And when he speaks of a sin that is unto death, and adds these words, for that I say not that any man ask, it cannot be supposed that St. John would say this of every mortal sin, but only of some heinous sins, which are very seldom remitted, because such sinners very seldom repent. By a sin therefore which is unto death, interpreters commonly understand a wilfull apostasy from the faith, and from the known truth, when a sinner, hardened by his own ingratitude, becomes deaf to all admonitions, will do nothing for himself, but runs on to a final impenitence. Nor yet does St. John say, that such a sin is never remitted, or cannnot be remitted, but only has these words, for that I say not that any man ask the remission: that is, though we must pray for all sinners whatsoever, yet men can not pray for such sinners with such a confidence of obtaining always their petitions, as St. John said before, ver. 14. Whatever exposition we follow on this verse, our faith teacheth us from the holy scriptures, that God desires not the death of any sinner, but that he be converted and live, Ezech. 33.11. Though men's sins be as red as scarlet, they shall become as white as snow, Isa. 3.18. It is the will of God that every one come to the knowledge of the truth, and be saved. There is no sin so great but which God is willing to forgive, and has left a power in his church to remit the most enormous sins: so that no sinner need despair of pardon, nor will any sinner perist, but by his own fault. A sin unto death... Some understand this of final impenitence, or of dying in mortal sin; which is the only sin that never can be remitted. But, it is probable, he may also comprise under this name, the sin of apostasy from the faith, and some other such heinous sins as are seldom and hardly remitted: and therefore he gives little encouragement, to such as pray for these sinners, to expect what they ask.",
+        "All iniquity is sin. And there is a sin unto death.",
+        "We know that whosoever is born of God sinneth not: but the generation of God preserveth him and the wicked one toucheth him not.",
+        "We know that we are of God and the whole world is seated in wickedness. And the whole world is seated in wickedness... That is, a great part of the world. It may also signify, is under the wicked one, meaning the devil, who is elsewhere called the prince of this world, that is, of all the wicked. John 12.31.",
+        "And we know that the Son of God is come. And he hath given us understanding that we may know the true God and may be in his true Son. This is the true God and life eternal. And may be in his true Son. He is, or this is the true God, and life eternal... Which words are a clear proof of Christ's divinity, and as such made use of by the ancient fathers.",
+        "Little children, keep yourselves from idols. Amen. Keep yourselves from idols... An admonition to the newly converted Christians, lest conversing with heathens and idolaters, they might fall back into the sin of idolatry, which may be the sin unto death here mentioned by St. John. THE SECOND EPISTLE OF ST. JOHN THE APOSTLE The Apostle commends Electa and her family for their steadfastness in the true faith and exhorts them to persevere, lest they lose the reward of their labours. He exhorts them to love one another. But with heretics to have no society, even not to salute them. Although this Epistle is written to a particular person, yet its instructions may serve as a lesson to others, especially to those who, from their connections, situation, or condition in life, are in danger of perversion."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 John 5:14-21",
+      "reference": "1 John 5:14-21",
+      "heading": "A reading from the Letter of John",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "After these things, Jesus and his disciples came into the land of Judea: and there he abode with them and baptized.",
+        "And John also was baptizing in Ennon near Salim: because there was much water there. And they came and were baptized.",
+        "For John was not yet cast into prison.",
+        "And there arose a question between some of John's disciples and the Jews, concerning purification.",
+        "And they came to John and said to him: Rabbi, he that was with thee beyond the Jordan, to whom thou gavest testimony: behold, he baptizeth and all men come to him.",
+        "John answered and said: A man cannot receive any thing, unless it be given him from heaven.",
+        "You yourselves do bear me witness that I said that I am not Christ, but that I am sent before him.",
+        "He that hath the bride is the bridegroom: but the friend of the bridegroom, who standeth and heareth Him, rejoiceth with joy because of the bridegroom's voice. This my joy therefore is fulfilled.",
+        "He must increase: but I must decrease."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:22-30",
+      "reference": "John 3:22-30",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday after Epiphany",
+        "key": "saturdayAfterEpiphany"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/10.html",
+    "title": "Gospel and Word of the Day - 10 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-10"
+}
