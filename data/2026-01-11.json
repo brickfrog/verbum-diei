@@ -1,0 +1,203 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "53563384138831a7aa1a13782f4aea4fb6c6828c56002b35501c37571baf7b84",
+        "inputSha256": "0dc09b83a0a327f91a8b32d61632119bf0b907f5bf59b3fdeddb43939356dd46",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "89f79a45871fd2e8d828396f26ea024f0cda5a03b951c32454ac4c365629aa9c",
+        "inputSha256": "ba74dfd2c6e36acc113dae47b70f0f193bbffab788f25d71ff4e887bc97311ea",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e29e41d7b4f0155f2d9f8608aa69acac8d1ca80ee5323df28c97bdfb05746bf8",
+        "inputSha256": "3cb9fb3580314337caa8f257ddca8dbbbcdaae357dad32a799fbdca0b9102fa4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-11T01:55:02.856Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah sketches an ideal psyche in power: chosen, steady, unshowy. The servant does not win by volume or spectacle; he wins by refusing to turn force into performance. “Judgment” here is not rage in a robe but clarity that can be trusted by strangers. The bruised reed and smoking wick are the fragile parts of people, the half-working will, the almost-extinguished hope; he refuses the cheap catharsis of breaking what is already broken. He persists without becoming “troublesome,” which is a diagnosis of how moral certainty curdles into aggression.\n\nMatthew stages the same character in a rite of consent. Jesus steps into John’s baptism not from need but from solidarity, choosing the line with sinners rather than the platform with judges. “Fulfil all justice” reads as a commitment to the full shape of the human condition, including its cleansing rituals, without contempt. The opening heavens and the dove are interior language for integration: vocation, identity, and power align without coercion. The voice of pleasure is the antidote to anxious striving; belovedness precedes achievement.\n\nSemina Verbi, speculative: the servant’s nonviolent strength recalls the Bodhisattva in Mahayana Buddhism, delaying triumph to stay with the suffering. The vow to protect the fragile resembles the Jain ethic of ahimsa and the Sikh ideal of saint-soldier gentleness disciplined by justice. The descent of Spirit as confirmation after humility parallels Hindu abhisheka motifs of anointing that ratify a role through ritual submergence and emergence. The “light to the nations” has kinship with the Stoic Logos as a universal rational fire, and with the Daoist sense that the highest efficacy is quiet, not loud.",
+    "excursus": "Isaiah’s “servant” is not a conqueror but a controlled burn: chosen, upheld, and yet required to work without spectacle. He does not shout because he is not persuading; he is submitting. The tenderness—bruise not the reed, quench not the wick—reads less like kindness than like a terrifying precision: he will not grant the damaged the relief of breaking, nor the failing the mercy of going out. He keeps them smoldering until “judgment unto truth” arrives, a truth that feels less like comfort than exposure.\n\nMatthew stages that exposure as desire for abasement. Jesus walks to John not because he needs cleansing but because he wants the constraint, the public lowering, the ritual that puts him in line with the guilty. John’s protest is the last attempt to preserve hierarchy. “Fulfil all justice” is not moral bookkeeping; it is consent to the system’s demand that innocence be processed as if it were sin.\n\nThe heavens opening is not triumphal; it is surveillance. The dove is the Spirit alighting like a soft instrument of possession, and the voice—pleased—lands with dread: approval here is the seal on a life now claimed, a belovedness that functions like a sentence. The servant becomes the son at the moment he is most visibly reduced, and that is the point: the love that delights in him also insists he disappear into the role, quietly, relentlessly, until the world’s darkness is lit by a judgment it cannot escape.",
+    "synthesis": "Christ fulfils justice by voluntary submission, and the Father publicly attests him as Son while the Spirit anoints him for judgment that restores and liberates.",
+    "gospel": [
+      {
+        "text": "Matthew stages baptism as an inversion that legitimates Jesus’ public role: the superior enters the inferior’s rite to “fulfil” justice, turning a sign of repentance into a sign of consecration. The opened heavens and the voice function as courtly attestation—witness and investiture—so that the ministry begins under explicit divine authorization rather than self-assertion; the Spirit’s descent marks the transition from hidden life to commissioned action.",
+        "lines": [
+          1,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah frames the servant’s vocation as juridical and creational at once: he is commissioned to re-order the nations (“Gentiles”) by establishing right, and the mode of that re-ordering is covenantal mediation—God binds himself to a people through a representative person who carries light into the non-people. The promised effects (sight, release, exodus from darkness) portray salvation as the public restoration of capacity, not merely the cancellation of guilt.",
+        "lines": [
+          1,
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Servant” and “elect” welded: abasement carries prerogative; Spirit is not earned but placed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Power without theatrics; authority refuses the public acoustics of dominance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fragility is treated as material for repair, not proof for disposal; judgment arrives as “truth,” not force.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No haste, no collapse: patience is the method by which law reaches “islands.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hand-taken and preserved: mission is custody before it is conquest; covenant becomes a person.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Liberation is described as illumination: release begins with sight, then exit.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "John’s refusal marks a hierarchy; the rite strains under its own logic.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Now” limits the scandal: submission is tactical; justice is something to be completed, not assumed.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Epiphany after descent: opened heavens answer closed waters; Spirit’s “as a dove” softens the invasion.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The verdict precedes the work: sonship is declared, not achieved; pleasure is the Father’s sentence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Behold my servant, I will uphold him: my elect, my soul delighteth in him: I have given my spirit upon him, he shall bring forth judgment to the Gentiles. My servant... Christ, who according to his humanity, is the servant of God.",
+        "He shall not cry, nor have respect to person, neither shall his voice be heard abroad.",
+        "The bruised reed he shall not break, and smoking flax he shall not quench, he shall bring forth judgment unto truth.",
+        "He shall not be sad, nor troublesome, till he set judgment in the earth, and the islands shall wait for his law.",
+        "I the Lord have called thee in justice, and taken thee by the hand, and preserved thee. And I have given thee for a covenant of the people, for a light of the Gentiles:",
+        "That thou mightest open the eyes of the blind, and bring forth the prisoner out of prison, and them that sit in darkness out of the prison house."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 42:1-4,6-7",
+      "reference": "Isaiah 42:1-4,6-7",
+      "heading": "Areading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then cometh Jesus from Galilee to the Jordan, unto John, to be baptized by him.",
+        "But John stayed him, saying: I ought to be baptized by thee, and comest thou to me?",
+        "And Jesus answering, said to him: Suffer it to be so now. For so it becometh us to fulfil all justice. Then he suffered him.",
+        "And Jesus being baptized, forthwith came out of the water: and lo, the heavens were opened to him: and he saw the Spirit of God descending as a dove, and coming upon him.",
+        "And behold a voice from heaven saying: This is my beloved Son, in whom I am well pleased."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 3:13-17",
+      "reference": "Matthew 3:13-17",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "FEAST_OF_THE_LORD"
+        ],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "FEAST",
+        "name": "Baptism of the Lord",
+        "key": "baptismOfTheLord"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Christmas"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/11.html",
+    "title": "Gospel and Word of the Day - 11 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-11"
+}
