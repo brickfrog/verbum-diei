@@ -1,0 +1,223 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a2e912e798b0703fef7d2c5d3ac8d72749563c90d56eedccf63420cd33a85452",
+        "inputSha256": "1be8c0fd45ac5966591db7ce39f7322f2ee5776ffa5c36efe46741fa662b08a8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "500b1018e45b3fc709946c74939edf1903686b55c6e7e2ed6cf5ae33b94abb0a",
+        "inputSha256": "951550baef031b881f5ed37bde3369293a9a6ed52676cb8e3c2ea43732576a89",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8c0ed5c757dea691e119adee5214ec99ef26b51279289c59b5b2070db466a0ab",
+        "inputSha256": "b958ae5a7354c6de180836fddbb5311a6f2efd1e522f5c08a01b4ae23da14ecf",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-12T01:54:44.506Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hannah lives inside a small, cruel arithmetic: worth measured in children, love measured in portions, piety measured in annual trips. Peninnah weaponizes the one public fact that can’t be argued. The text refuses to sentimentalize infertility; it shows it as social exposure, a yearly ritual of humiliation, and a private collapse where food loses meaning. Elkanah’s tenderness lands as misattuned consolation. “Am not I better…?” is love trying to substitute itself for the one thing love cannot grant. He wants to close the wound by being the whole world to her; she needs him to name the wound as real.\n\nThen Mark snaps to motion. The kingdom arrives as an interruption, not a concept. Fishermen are seen mid-task and called without negotiation. Nets, boats, father, payroll, the whole lattice of duty is cut. Repentance here is less remorse than reorientation: a new center of gravity that makes the old life instantly feel like excess weight. The call is clean because it is absolute.\n\nTogether they sketch one psyche: longing that cannot be soothed by substitutes, and a summons that cannot be postponed without betrayal of self. Hannah’s hunger is the ache of an unlived future; the disciples’ leaving is the violence of choosing one future and killing the others.\n\nSemina Verbi: Hannah’s humiliation and steadfast longing echoes the Hindu figure of Kunti and the ache of lineage, and the Buddhist diagnosis of tanha as the engine of suffering, though that parallel is speculative because Hannah’s desire is also moral and relational, not merely grasping. The disciples’ abrupt renunciation resembles the Bhagavad Gita’s call to decisive action and the Zen motif of sudden awakening, and the Sufi idea of hijra, inner migration; speculative, but the shared note is the moment when a voice redefines reality faster than habit can argue.",
+    "excursus": "These scenes are not about faith arriving; they are about desire being conscripted.\n\nHannah is trapped in a household economy where love is a consolation prize. Elkanah’s “portion with sorrow” is the tender cruelty of a man trying to buy peace without changing the structure that is breaking her. Peninnah’s taunts are not mere malice; they are the system speaking through her, policing the one woman whose body refuses to produce proof. “The Lord had shut up her womb” reads like a pious alibi for what everyone is already doing to Hannah: turning her absence into a verdict. When Elkanah asks, “Am not I better to thee than ten children?” he is not comforting her; he is demanding that she rename her hunger as ingratitude.\n\nThen Mark turns the screw. “The time is accomplished” is not reassurance; it is a deadline. Jesus walks by working men and speaks like a recruiter: leave your nets, leave your father, come now. The seduction is the promise of a larger story, but the cost is amputative, immediate, unargued. Zebedee remains in the boat with hired men, a small detail that makes the abandonment sharper: this is not heroic poverty, it is a clean cut.\n\nPut together, the readings sketch a world where intimacy is never neutral. Home uses love to domesticate longing; the kingdom uses urgency to break loyalties. Hannah’s grief and the fishermen’s sudden departure share the same dread: your life can be renamed by someone else, and your deepest want will be used to move you.",
+    "synthesis": "God’s rule advances by dispossession: it closes wombs and empties nets, denying human control so that vocation and fruit come as gift rather than entitlement.",
+    "gospel": [
+      {
+        "text": "John’s removal clears the stage: the kingdom proclamation begins in the wake of state violence, not in ideal conditions.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "Two scenes by the water—casting and mending—show ordinary labor as the location of summons; nothing is purified beforehand, only redirected.",
+        "lines": [
+          3,
+          6
+        ]
+      },
+      {
+        "text": "The message precedes the call: proclamation of reign creates the field in which following becomes intelligible, not vice versa.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Public worship at Silo is framed as regular ascent, yet it is staffed by Heli’s sons; the narrative quietly seats domestic anguish inside compromised institutions.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "Sacrifice distributes portions outward, turning cult into household politics; piety generates a visible economy that exposes who is counted as fruitful.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "The yearly rhythm makes pain liturgical: recurrence sanctifies neither desire nor humiliation, it simply repeats it until prayer will have to break the cycle.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Genealogy as ballast: the man is introduced as a chain before he is a person.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two wives, one barren: household becomes a ledger of fruit.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“One portion with sorrow”: love without increase reads as deficit.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The rival weaponizes providence; theology becomes cruelty.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Better than ten children” is a bribe against grief; arithmetic invades affection.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fulfilled time compresses choice: repentance is treated as the only rational response.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Trade is not abolished but transposed; the verb “make” claims the craft.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Immediately”: discipleship is narrated as severance without deliberation.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Leaving father with hired men: vocation cuts along economic seams, not sentiment.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "There was a man of Ramathaimsophim, of Mount Ephraim, and his name was Elcana, the son of Jeroham, the son of Eliu, the son of Thohu, the son of Suph, an Ephraimite: An Ephraimite... He was of the tribe of Levi, 1. Par. 6.34, but is called an Ephraimite from dwelling in mount Ephraim.",
+        "And he had two wives, the name of one was Anna, and the name of the other Phenenna. Phenenna had children: but Anna had no children.",
+        "And this man went up out of his city upon the appointed days, to adore and to offer sacrifice to the Lord of hosts in Silo. And the two sons of Heli, Ophni and Phinees, were there priests of the Lord.",
+        "Now the day came, and Elcana offered sacrifice, and gave to Phenenna, his wife, and to all her sons and daughters, portions:",
+        "But to Anna he gave one portion with sorrow, because he loved Anna. And the Lord had shut up her womb.",
+        "Her rival also afflicted her, and troubled her exceedingly, insomuch that she upbraided her, that the Lord had shut up her womb:",
+        "And thus she did every year, when the time returned, that they went up to the temple of the Lord: and thus she provoked her: but Anna wept, and did not eat.",
+        "Then Elcana, her husband, said to her: Anna, why weepest thou? and why dost thou not eat? and why dost thou afflict thy heart? Am not I better to thee than ten children?"
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 1:1-8",
+      "reference": "1 Samuel 1:1-8",
+      "heading": "A reading from the First Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And after that John was delivered up, Jesus came in Galilee, preaching the gospel of the kingdom of God,",
+        "And saying: The time is accomplished and the kingdom of God is at hand. Repent and believe the gospel:",
+        "And passing by the sea of Galilee, he saw Simon and Andrew his brother, casting nets into the sea for they were fishermen.",
+        "And Jesus said to them: Come after me; and I will make you to become fishers of men.",
+        "And immediately leaving their nets, they followed him.",
+        "And going on from thence a little farther, he saw James the son of Zebedee and John his brother, who also were mending their nets in the ship:",
+        "And forthwith he called them. And leaving their father Zebedee in the ship with his hired men, they followed him."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 1:14-20",
+      "reference": "Mark 1:14-20",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 1st week of Ordinary Time",
+        "key": "mondayOfThe1stWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/12.html",
+    "title": "Gospel and Word of the Day - 12 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-12"
+}
