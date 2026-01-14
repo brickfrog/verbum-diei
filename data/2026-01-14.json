@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5f96db6513726f9777e4f750d183e4a5336607604bf3b10e9ae076cfb1222234",
+        "inputSha256": "6da5ea3bdfe04e5d327e91c8f0050d5e243b8efbda5ccace792f5e42b1429951",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "84ce8576cf8f286482b35188917ff53efca6bcbad590a985f478ed12f075233a",
+        "inputSha256": "ba8a2f0458b363a3a07adbad131f0d8ea4895d5bdf8953b0772107986cd0b9cf",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "92b63ec68f1204ebb80bb8016b2f7b9ee73eba4b31bbc22d16ed9df0f379cd12",
+        "inputSha256": "25723a0fb55460453dc00828496b2082e8c9d2b3808f1efb789583f872c1f151",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-14T01:54:41.031Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Samuel is a boy trained to serve an institution he doesn’t yet inwardly inhabit. The night is thick with absence: no visions, an old priest half-blind, a lamp about to die. The psyche hears a call but misattributes it to the nearest authority. Three times he runs to Eli, because apprenticeship teaches you that every summons comes from the human chain of command. Only when Eli names the experience does Samuel gain a language for it. The voice becomes audible when it is correctly addressed. Obedience matures into attention: “Speak… thy servant heareth” is less submission than consent to be altered.\n\nEli is the surprised midwife of someone else’s awakening. He cannot see, yet he discerns. That reversal is the story’s tenderness: the failing elder gives the younger the one instruction that matters—how to listen. Once Samuel answers from the right interior stance, the narrative grants him weight: his words don’t “fall to the ground.” Psychologically, he becomes integrated; what he says lands because it comes from the same place he hears.\n\nMark pivots from public power to private touch. The fevered woman is raised by the hand, and the first sign of healing is agency: she ministers. Cure is not spectacle but return to relation. Then the city crowds the door, need pressing into a single threshold, and Jesus refuses the publicity by muzzling the “knowing” voices. He won’t let his identity be defined by the loudest interpreters, even if they’re accurate. He keeps meaning from being hijacked.\n\nThe desert prayer is the hinge. After a night of demand, he chooses solitude, not as escape but as calibration. The disciples’ line—“All seek for thee”—is the argument of urgency, and he answers with direction: he is not owned by the crowd’s appetite. His mission is movement, speech, and the unbinding of minds; he will not be reduced to a local dispenser of fixes.\n\nTogether these texts sketch a discipline of hearing. Samuel learns to distinguish the true call from familiar voices. Jesus protects the inner source that keeps his work clean, refusing both demonic commentary and popular capture. Listening precedes speech; solitude feeds service; power is measured by whether it frees.\n\nSemina Verbi: Samuel’s mishearing and eventual right address resembles Zen’s emphasis on direct hearing beyond concepts, where a teacher’s brief cue can unlock perception; speculation, but the pattern fits. Jesus’ early rising to the desert to re-center echoes the Buddha leaving the village for the forest after encounters with suffering, and also Sufi khalwa, the retreat that purifies intention before returning to people. The refusal to let spirits speak his name parallels Hindu cautions about siddhis: powers and public acclaim can derail the path unless subordinated to liberation.",
+    "excursus": "Samuel is trained in misrecognition. In a house where vision has failed and the word is “precious” because it barely exists, the boy’s obedience has only one address: the old man in the dark. So when the call comes, he can only translate it into the familiar authority. The dread is that revelation arrives as a disturbance of routine, and the first instinct is to hand it back to the human custodian.\n\nHeli’s dim eyes are not just age; they are an institution going blind while keeping the lamp barely alive. He does not hear the voice, but he knows the pattern: something is taking the child away from him. His counsel, “Speak… for thy servant heareth,” is a ritualized surrender, a way to manage loss by scripting it. The boy’s famous availability is not innocence; it is the moment he learns to belong to an invisible demand that will outrank every bed, every father, every night.\n\nMark’s Jesus feels like that demand made flesh, and everyone wants to use it. A fever breaks and the woman “ministers”: healing flips instantly into labor, gratitude into service. By sunset the whole city crowds the door, turning a home into a clinic, a person into a public utility. The demons know him, and he silences them not out of piety but control: naming is possession, and he will not be owned by either spirits or admirers.\n\nThen he escapes to the desert, not for serenity but for refusal. “All seek for thee” is the nightmare of being needed. He answers with flight: more towns, more synagogues, more exorcisms. Purpose here is not comfort; it is compulsion. Samuel learns to say, “Speak,” and Jesus keeps moving so no one else gets to speak for him.",
+    "synthesis": "God initiates and governs his self-disclosure, raising faithful speech in barren times. Christ’s authority heals and expels, yet remains ordered to preaching rather than captivity to demand.",
+    "gospel": [
+      {
+        "text": "The narrative moves from one sick body to a mass of bodies: the private mercy generates public pressure. Mark frames Jesus as a contested center—healing attracts, exorcism exposes, and both create a crisis of access.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Disciples interpret the mission as return to the crowd (“All seek”); Jesus interprets it as expansion by proclamation. The line of travel is not driven by need alone but by the priority of the kingdom announced across multiple locales.",
+        "lines": [
+          8,
+          9,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The failing priest still functions as a hinge: he cannot receive the word, yet he can identify its source and teach the posture of reception. Institutional weakness does not prevent mediation; it becomes the occasion for it.",
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Recognition spreads geographically (“Dan to Bersabee”): the prophet is validated publicly not by charisma but by reliability. Israel’s unity is marked by a shared submission to a tested voice.",
+        "lines": [
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Revelation priced like a commodity: scarce, therefore valued.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dim eyes: priestly perception failing before the child’s begins.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Before the lamp… went out”: a narrowing margin; light almost spent.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Call and response: the whole vocation reduced to two phrases.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Obedience misdirected: he runs to the wrong authority, repeatedly.",
+      "lines": [
+        5,
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance is not rebellion; he lacks exposure, not will.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God “stood”: presence becomes localized, almost intrusive.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Words that do not “fall”: speech as act, not commentary.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "From synagogue to house: holiness relocates into the ordinary.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He touches; she serves: cure reorders the household immediately.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“All the city” at a door: need compresses into a threshold.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silenced demons: true names are controlled, not crowdsourced.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Desert after success: withdrawal as refusal of demand’s ownership.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Purpose stated, not negotiated: mission outranks popularity.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now the child Samuel ministered to the Lord before Heli, and the word of the Lord was precious in those days, there was no manifest vision. Precious... That is, rare.",
+        "And it came to pass one day when Heli lay in his place, and his eyes were grown dim, that he could not see:",
+        "Before the lamp of God went out, Samuel slept in the temple of the Lord, where the ark of God was.",
+        "And the Lord called Samuel. And he answered: Here am I.",
+        "And he ran to Heli, and said: Here am I: for thou didst call me. He said: I did not call: go back and sleep. And he went and slept.",
+        "And the Lord called Samuel again. And Samuel arose and went to Heli, and said: Here am I: for thou calledst me. He answered: I did not call thee, my son: return and sleep.",
+        "Now Samuel did not yet know the Lord, neither had the word of the Lord been revealed to him.",
+        "And the Lord called Samuel again the third time. And he arose up and went to Heli,",
+        "And said: Here am I: for thou didst call me. Then Heli understood that the Lord called the child, and he said to Samuel: Go, and sleep: and if he shall call thee any more, thou shalt say: Speak, Lord, for thy servant heareth. So Samuel went, and slept in his place.",
+        "And the Lord came, and stood, and he called, as he had called the other times, Samuel, Samuel. And Samuel said: Speak, Lord, for thy servant heareth.",
+        "And Samuel grew, and the Lord was with him, and not one of his words fell to the ground.",
+        "And all Israel, from Dan to Bersabee, knew that Samuel was a faithful prophet of the Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 3:1-10,19-20",
+      "reference": "1 Samuel 3:1-10,19-20",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And immediately going out of the synagogue they came into the house of Simon and Andrew, with James and John.",
+        "And Simon's wife's mother lay in a fit of a fever: and forthwith they tell him of her.",
+        "And coming to her, he lifted her up, taking her by the hand; and immediately the fever left her, and she ministered unto them.",
+        "And when it was evening, after sunset, they brought to him all that were ill and that were possessed with devils.",
+        "And all the city was gathered together at the door.",
+        "And he healed many that were troubled with divers diseases. And he cast out many devils: and he suffered them not to speak, because they knew him.",
+        "And rising very early, going out, he went into a desert place: and there he prayed.",
+        "And Simon and they that were with him followed after him.",
+        "And when they had found him, they said to him: All seek for thee.",
+        "And he saith to them: Let us go into the neighbouring towns and cities, that I may preach there also; for to this purpose am I come.",
+        "And he was preaching in their synagogues and in all Galilee and casting out devils."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 1:29-39",
+      "reference": "Mark 1:29-39",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 1st week of Ordinary Time",
+        "key": "wednesdayOfThe1stWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/14.html",
+    "title": "Gospel and Word of the Day - 14 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-14"
+}
