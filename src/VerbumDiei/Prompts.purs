@@ -42,4 +42,4 @@ seminaVerbiPrompt :: String
 seminaVerbiPrompt =
   auxPromptBase
     <> "\n"
-    <> "Semina Verbi: draw parallels to other traditions. Name them, be charitable, mark speculation. Keep it brief."
+    <> "Semina Verbi: draw parallels to other traditions. Name them, be charitable, mark speculation. Keep it brief. Do not summarize the readings or restate commentary; add only new parallels. No repetition or paraphrase."
