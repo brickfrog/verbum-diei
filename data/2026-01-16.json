@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "57158ed14c2b105f79b3b9320f596204558df0726046b6bcf45740cb39269fd7",
+        "inputSha256": "6c8b935c45a8273036494e1dfc61bc7e24abc7a30469d62dd474652ed4e014f7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a509789bc7b7c117f069922be9ec46fa031cb6772356cb31de6cf7572e5babab",
+        "inputSha256": "00826cbc0e30bcdd5dd71764471ab3bf5512e910f1c34ff59cd357fe5d525949",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "039c5a78f59bef4394dda958faacfa1e13e6b622fd0891fa5822b0a80f3ba060",
+        "inputSha256": "0ca3b74ffba99f6e686837d5c45c4ee8ff9746cd31775b0a2f04070aa085eb52",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-16T01:54:15.986Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Israel asks for a king because they are tired of the strain of invisible authority. They want something legible, a single face to carry the anxiety of disorder. Samuel hears it as personal rejection, then learns the deeper wound: it is a flight from intimacy. A direct, demanding God is harder than a human institution you can bargain with, blame, and eventually hate. The grim inventory Samuel recites is not policy analysis; it is a psychological prophecy. A king will not merely rule, he will take. He will convert children into instruments, land into leverage, bodies into labor, worship into tax. The people hear the cost and still prefer it, because the cost buys the illusion of being “like all nations,” the narcotic of normality.\n\nMark answers that craving with a different kind of authority. The house is packed, a miniature society pressing for access, and the paralyzed man is carried by friends who refuse the approved doorway. They tear the roof, violating propriety to reach what actually heals. Jesus does not begin with muscles. He begins with guilt, the inner paralysis that often outlives the outer one. The scribes are guardians of the system: forgiveness must stay inside sanctioned channels. Jesus reads their unspoken thoughts and then performs a double act: he claims the power that institutions reserve, and he demonstrates it by restoring motion. The man stands, not as a client of the crowd or a trophy of the experts, but as someone released, able to go home under his own agency.\n\nTogether the readings sketch one arc: people will hand themselves over to machinery for the comfort of being managed, yet what they most need is a kind of authority that gives them back to themselves. The king consolidates and extracts; Jesus absorbs accusation and returns freedom. One reign feeds on fear; the other exposes fear, forgives it, and makes the body follow.\n\nSemina Verbi: Samuel’s warning resembles Plato’s critique of tyranny in the Republic, where desire for order curdles into domination. It echoes the Dao De Jing’s suspicion that heavy rule multiplies theft and servitude. Jesus’ move from forgiveness to healing parallels Buddhist diagnosis that suffering is rooted in a deeper clinging than symptoms show, and it recalls Sufi healing stories where nearness to the Real breaks the self’s knots. Speculation: the roof-breaking friends look like the Zen refusal of polite obstacles—compassion that is willing to offend convention to reach liberation.",
+    "excursus": "Israel doesn’t ask for a king because it’s wicked; they ask because they’re tired of invisibility. An unseen ruler, an old prophet, corrupt sons, and a life governed by moods of providence—no face to bargain with, no body to blame, no standard to march behind. “Like all nations” is not mere envy; it’s the ache for something solid enough to fear. Samuel’s warning is pornographic in its precision: the king will take your children, your land, your work, your animals, your future. The people hear it and consent anyway, because dread is preferable to uncertainty. Better a predator you can name than a silence you can’t.\n\nIn the house at Capernaum the crowd performs the same hunger: they pack themselves into a room to get near power. The paralytic is lowered like an offering, and Jesus answers with the one thing more intimate than healing: forgiveness. He goes straight for the hidden wound, the shame that makes paralysis feel deserved. The scribes are not wrong to panic; this is a coup. He doesn’t petition God, doesn’t wait for a verdict, doesn’t hide behind ritual. He takes the authority everyone secretly wants someone to take.\n\nThe miracle is not kindness; it’s proof of jurisdiction. The man stands, rolls up his bed, and walks out carrying the evidence that his old identity is finished. The crowd glorifies God because they’ve seen what Israel begged for in Samuel: a reign that touches bodies. But this king doesn’t take sons and daughters; he takes the accusation in the heart and leaves you no longer able to hide behind it. The dread shifts from conscription to freedom: now you can walk, and your life is yours.",
+    "synthesis": "God’s rule is rejected when his people demand a rival visibility, yet Christ asserts God’s prerogatives without proxy by forgiving and then proving it in public fact.",
+    "gospel": [
+      {
+        "text": "The pericope is a juridical contest staged in a cramped house: the crowd blocks access, scribes render an internal verdict, and Jesus forces the criterion of legitimacy into the open by coupling an invisible claim with a visible effect. The title “Son of man” functions as the public warrant for an authority exercised “on earth,” not deferred to a distant tribunal.",
+        "lines": [
+          2,
+          3,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "Capharnaum hears a report, gathers, then becomes witness: publicity is essential to the sign. The final acclamation is not mere amazement; it records a recalibration of what divine action looks like when it arrives without the usual institutional intermediaries.",
+        "lines": [
+          1,
+          2,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative runs through an administrative chain—elders to prophet, prophet to Lord, Lord back to prophet—showing that even the turn toward monarchy is mediated by revelation. The concession is not endorsement: Israel is handed the form of governance it demands, along with the built-in pedagogy of its costs.",
+        "lines": [
+          1,
+          3,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "Samuel’s “rights” speech frames kingship as systematic extraction that reorganizes households, labor, and land. The catalogue turns public order into a rival liturgy: conscription, taxation, and court-service become the new rites by which the nation is bound.",
+        "lines": [
+          5,
+          6,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The pretext is procedural (“old…sons”); the desire is mimetic (“as all nations”).",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A political request is named as apostasy: rejection of reign, not of prophet.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The king’s verb is “take”; the people’s noun becomes “servants.”",
+      "lines": [
+        6,
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Chosen bondage yields unanswered prayer: the silence is judicial, not absent.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They outsource judgment and warfare; they want a visible proxy for providence.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith becomes architecture: they dismantle a roof to breach the crowd.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He treats paralysis as secondary; absolution precedes locomotion.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Correct premise, wrong conclusion: God alone forgives—therefore this is blasphemy.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hidden accusation is answered aloud; the courtroom moves inside the chest.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The bed changes meaning: from burden to testimony carried through the crowd.",
+      "lines": [
+        11,
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then all the ancients of Israel being assembled came to Samuel to Ramatha.",
+        "And they said to him: Behold thou art old, and thy sons walk not in thy ways: make us a king, to judge us, as all nations have.",
+        "And the word was displeasing in the eyes of Samuel, that they should say: Give us a king to judge us. And Samuel prayed to the Lord.",
+        "And the Lord said to Samuel: Hearken to the voice of the people in all that they say to thee. For they have not rejected thee, but me, that I should not reign over them. Rejected, etc... The government of Israel hitherto had been a theocracy, in which God himself immediately ruled, by laws which he had enacted, and by judges extraordinarily raised up by himself; and therefore he complains that his people rejected him, in desiring a change of government.",
+        "Then Samuel told all the words of the Lord to the people that had desired a king of him,",
+        "And said: This will be the right of the king that shall reign over you: He will take your sons, and put them in his chariots, and will make them his horsemen, and his running footmen, to run before his chariots,",
+        "And he will appoint of them to be his tribunes, and his centurions, and to plough his fields, and to reap his corn, and to make him arms and chariots.",
+        "Your daughters also he will take to make him ointments, and to be his cooks, and bakers.",
+        "And he will take your fields, and your vineyards, and your best oliveyards, and give them to his servants.",
+        "Moreover he will take the tenth of your corn, and of the revenues of your vineyards, to give to his eunuchs and servants.",
+        "Your servants also, and handmaids, and your goodliest young men, and your asses, he will take away, and put them to his work.",
+        "Your flocks also he will tithe, and you shall be his servants.",
+        "And you shall cry out in that day from the face of the king, whom you have chosen to yourselves: and the Lord will not hear you in that day, because you desired unto yourselves a king.",
+        "But the people would not hear the voice of Samuel, and they said, Nay: but there shall be a king over us,",
+        "And we also will be like all nations: and our king shall judge us, and go out before us, and fight our battles for us.",
+        "And Samuel heard all the words of the people, and rehearsed them in the ears of the Lord.",
+        "And the Lord said to Samuel: Hearken to their voice, and make them a king. And Samuel said to the men of Israel: Let every man go to his city."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 8:4-7,10-22",
+      "reference": "1 Samuel 8:4-7,10-22",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And again he entered into Capharnaum after some days.",
+        "And it was heard that he was in the house. And many came together, so that there was no room: no, not even at the door. And he spoke to them the word.",
+        "And they came to him, bringing one sick of the palsy, who was carried by four.",
+        "And when they could not offer him unto him for the multitude, they uncovered the roof where he was: and opening it, they let down the bed wherein the man sick of the palsy lay.",
+        "And when Jesus had seen their faith, he saith to the sick of the palsy: Son, thy sins are forgiven thee.",
+        "And there were some of the scribes sitting there and thinking in their hearts:",
+        "Why doth this man speak thus? He blasphemeth. Who can forgive sins, but God only?",
+        "Which Jesus presently knowing in his spirit that they so thought within themselves, saith to them: Why think you these things in your hearts?",
+        "Which is easier, to say to the sick of the palsy: Thy sins are forgiven thee; or to say: Arise, take up thy bed and walk?",
+        "But that you may know that the Son of man hath power on earth to forgive sins (he saith to the sick of the palsy):",
+        "I say to thee: Arise. Take up thy bed and go into thy house.",
+        "And immediately he arose and, taking up his bed, went his way in the sight of all: so that all wondered and glorified God, saying: We never saw the like."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 2:1-12",
+      "reference": "Mark 2:1-12",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 1st week of Ordinary Time",
+        "key": "fridayOfThe1stWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/16.html",
+    "title": "Gospel and Word of the Day - 16 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-16"
+}
