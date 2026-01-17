@@ -1,0 +1,198 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c6c64e01d0f079960b179aca4f1098338fdd6c0e31fc9cc407d7ddb16e0fa091",
+        "inputSha256": "7d6e83e89a66f89f8b839860a5c1d4e641c3f89477cfdecee9398977c7095964",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6b1c3e191926d28047cfaa9b3e931e4b9d9f14035f74639d6c24fd9c26b1f7bf",
+        "inputSha256": "646da83b080b0ed19223c5de694331d03b8b1892229eb535afac3f239333bbae",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "79a66436245042fbc9e5a9acc61d3d629465d7aa8c853c761879281866faba5b",
+        "inputSha256": "6f2733518c5274dcd30eb64ab953d42794f93c98f023979a00fe8b2bfaafc1c4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-17T01:54:05.198Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Saul is found by being lost: the trivial errand turns into a summons, as if vocation rides on misplacement. That pivot has the feel of the Daoist unplanned turning, where usefulness arrives through wandering, and of the Bhagavad Gita’s insistence that one’s work, even when mundane, can be the corridor to destiny; speculation, but the psychology matches. The oil and kiss externalize a new self-image: an identity conferred from without that reorganizes the inner life.\n\nLevi is called at the point of compromise, not after reform. The meal makes belonging precede purity, like the Buddha eating with Angulimala after the terror, or the Sufi trope of the tavern where the broken are gathered; speculation, yet the pattern is recognizably therapeutic. “Physician” frames sin as sickness: not excused, but treated, shifting shame into cure and turning community from tribunal into clinic.",
+    "excursus": "Saul enters history the way a symptom enters a life: by accident, by loss, by a petty humiliation. He goes out to find donkeys and keeps not finding them, a pilgrimage of absence that trains him for rule, because kingship here is not a prize but a compensation. He is “choice and goodly,” a body made to be looked at, and that is precisely the danger: Israel wants a figure tall enough to quiet its panic. Samuel’s line, “I will…tell thee all that is in thy heart,” is not comfort; it is exposure. The oil is a seal and a trap. The kiss is intimate, coercive. Saul is drafted into being the answer to everyone else’s dread, before he even knows what he wants.\n\nJesus does something that looks like mercy but feels like invasion. Levi is not persuaded, not improved, not argued with; he is claimed. The call is a clean cut, and then the feast is a scandal not because the guests are immoral but because the scene refuses the old bargain: purity as distance. “Physician” is not a compliment to the sick; it is a diagnosis that keeps them sick enough to need him. He gathers the compromised and makes their compromise the very doorway into belonging.\n\nPut together, the readings sketch a dark desire: to be chosen, even if choosing costs you yourself. Saul is anointed because he fits the people’s fantasy; Levi is summoned because he fits the role of the wounded. Both are pulled from ordinary shame into public meaning. And in both, the divine touch doesn’t soothe; it rearranges. To be found is to be taken.",
+    "synthesis": "God establishes rulers and disciples by authoritative call and mediated sign, not by social standing or moral credential. Christ’s kingdom advances by reclaiming the disordered through communion under his command.",
+    "gospel": [
+      {
+        "text": "Mark compresses discipleship into movement: Jesus teaches in public (1), then creates a follower by direct summons (2), then justifies his social strategy by redefining his mission as clinical intervention (5). The call is not moral vetting but reorientation: he forms a community whose boundary is his presence, not prior purity, and he asserts authority to define who counts as a proper object of divine attention.",
+        "lines": [
+          1,
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text stages election as a collision between pedigree (1), prophetic designation (5), and ritual installation (8). Benjamin supplies a plausible candidate; the Lord supplies the decisive identification; the anointing supplies the juridical transfer of authority. Kingship is mediated—God governs through sign, prophet, and rite—so the monarchy is never autonomous; it is a delegated administration over “inheritance,” not ownership.",
+        "lines": [
+          1,
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "King by height: optics mistaken for vocation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lost asses as providence’s leash: royal destiny pulled by livestock.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He seeks a house; he finds a mouth that names him.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“All that is in thy heart”: exposure before enthronement.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Oil plus kiss: tenderness welded to coercive office; “prince,” not “king.”",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A single imperative reorders a man’s economy.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Table-fellowship becomes recruitment; proximity is the net.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Objection routed through disciples: accusation seeks softer tissue.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Physician metaphor: sin treated as sickness, not merely crime.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now there was a man of Benjamin, whose name was Cis, the son of Abiel, the son of Seror, the son of Bechorath, the son of Aphia, the son of a man of Jemini, valiant and strong.",
+        "And he had a son whose name was Saul, a choice and goodly man, and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he appeared above all the people.",
+        "And the asses of Cis, Saul's father, were lost: and Cis said to his son Saul: Take one of the servants with thee, and arise, go, and seek the asses. And when they had passed through Mount Ephraim,",
+        "And through the land of Salisa, and had not found them, they passed also through the land of Salim, and they were not there: and through the land of Jemini, and found them not.",
+        "And when Samuel saw Saul, the Lord said to him: Behold the man, of whom I spoke to thee, this man shall reign over my people.",
+        "And Saul came to Samuel in the midst of the gate, and said: Tell me, I pray thee, where is the house of the seer?",
+        "And Samuel answered Saul, saying: I am the seer; go up before me to the high place, that you may eat with me to day, and I will let thee go in the morning: and tell thee all that is in thy heart.",
+        "And Samuel took a little vial of oil, and poured it upon his head, and kissed him, and said: Behold, the Lord hath anointed thee to be prince over his inheritance, and thou shalt deliver his people out of the hands of their enemies, that are round about them. And this shall be a sign unto thee, that God hath anointed thee to be prince."
+      ],
+      "lineRefs": [
+        "9:1",
+        "9:2",
+        "9:3",
+        "9:4",
+        "9:17",
+        "9:18",
+        "9:19",
+        "10:1"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 9:1-4,17-19; 10:1",
+      "reference": "1 Samuel 9:1-4,17-19; 10:1",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he went forth again to the sea side: and all the multitude came to him. And he taught them.",
+        "And when he was passing by, he saw Levi, the son of Alpheus, sitting at the receipt of custom; and he saith to him: Follow me. And rising up, he followed him.",
+        "And it came to pass as he sat at meat in his house, many Publicans and sinners sat down together with Jesus and his disciples. For they, with Jesus who also followed him. For they were many, who also followed him.",
+        "And the scribes and the Pharisees, seeing that he ate with publicans and sinners, said to his disciples: Why doth your master eat and drink with publicans and sinners?",
+        "Jesus hearing this, saith to them: They that are well have no need of a physician, but they that are sick. For I came not to call the just, but sinners."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 2:13-17",
+      "reference": "Mark 2:13-17",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Anthony of Egypt, Abbot",
+        "key": "saintAnthonyOfEgyptAbbot"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/17.html",
+    "title": "Gospel and Word of the Day - 17 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-17"
+}
