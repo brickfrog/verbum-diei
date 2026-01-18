@@ -1,0 +1,228 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0c9af96371bb1576eaf829d185fed3e2d1cd89c3fb08676f44797ce815fb4438",
+        "inputSha256": "dcfe24b70297988a3bf6bd10d497a65465abb746d7c71f3c7b5b326c6ea016f3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ec24f1592e1705e80e4a37a7b3111a725831d4ad6c7a9bb84bdfe02cc602f734",
+        "inputSha256": "2e8901034e42146db242292b66e4967c1ecdcd49e692b75cf3bd6c308fc8e5c7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6d2c873a6b08b2d19ea2f08238c6b68af76354bcee8b76df867bc54fcb762c62",
+        "inputSha256": "2a8bf6ff8f83a8a9e9207848d698e5c99564a212176699e8d757b23d70e34ecd",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-18T01:54:44.673Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s servant made “light” beyond the in-group echoes the Bodhisattva vow in Mahayana Buddhism, where awakening refuses private possession and turns outward toward the many. John’s role as the one who points away from himself toward the real center resembles the Daoist sage who “does not shine,” letting the Way be seen by not competing with it. The dove-and-descent image (speculation) rhymes with Hindu shakti as an indwelling power that “rests” and makes a person more than talent, closer to vocation as possession by a benevolent force. “Lamb” as chosen vulnerability recalls the Sufi idea of fana: the self thinned to the point that it can carry what it could not carry while defended. The widening to “the farthest part of the earth” parallels Stoic cosmopolitanism, the moral imagination that treats strangers as kin without erasing difference.",
+    "excursus": "Isaiah’s “servant” isn’t a hero; he’s a womb-made instrument drafted before consent. He is promised glory, yet his first confession is failure: Israel will not be gathered. The consolation is not success but escalation. When the intimate task collapses, God expands the project into something unmanageable—light to the nations, salvation to the ends of earth—as if bigness can anesthetize the shame of not being able to bring your own home back. Desire gets rerouted into mission, dread into destiny.\n\nJohn’s Baptist is the same psychology in a different key. He keeps saying “I knew him not,” like a man protecting himself from intimacy by turning it into a sign. He calls Jesus a lamb, not a king: an animal marked for slaughter, useful because it can carry away what others cannot bear. The dove doesn’t flutter; it remains. That word pins the scene with menace. This isn’t inspiration; it’s occupation. John’s testimony reads like relief and mourning at once: he has found the one who will take the burden, which means John’s own role dissolves. To name the Son of God is also to admit you are no longer needed.",
+    "synthesis": "God’s servant-mission culminates in the Spirit-endowed Son who removes the world’s sin and extends Israel’s calling to the nations. Christ’s identity is certified by divine sign and apostolic testimony, not by human recognition.",
+    "gospel": [
+      {
+        "text": "John’s identification of Jesus is grounded in a public sign and a prior oracle (“he who sent me said…”), not in personal access. The dove and the “remaining” authorize Jesus as the stable bearer of the Spirit, which redefines baptism from symbolic washing into Spirit-bestowal.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The narrative constructs preexistence and sonship through witness, not through Jesus’ self-assertion here. John’s role is juridical: he supplies admissible testimony that transfers attention from prophet to the one “preferred before” him.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The speaker’s identity oscillates between individual and corporate: a formed servant commissioned to “bring back” yet confronted with a stated non-gathering. The point is not prophetic optimism but divine purpose that does not depend on Israel’s immediate cohesion.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The mission expands from restoration to universal illumination, treating Israel’s repair as insufficient as an end. The servant’s vocation becomes the means by which God’s own reach—salvation—extends beyond covenant geography.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Servant named “Israel”: a single figure bearing a people’s name.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Womb-formed instrument; mission precedes consent.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Task set against failure: “Israel will not be gathered”—the servant works amid non-compliance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Raising tribes is “small”; scale recalibrated by God, not by national borders.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Dregs” converted: the remnant is not romanticized.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Light given, not achieved; radiance is assigned.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Salvation pushed to the earth’s edge: geographic universality as theological necessity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Lamb” meets “sin”: sacrifice aimed at a condition, not a list.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "After/Before: chronology inverted to assert rank.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ignorance confessed twice in the passage; witness is not built on familiarity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Spirit “remained”: not a visitation but an abiding mark.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Water versus Holy Ghost: sign versus agent; external rite versus interior act.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Testimony ends in identity: the witness yields the title he cannot manufacture.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he said to me: Thou art my servant Israel, for in thee will I glory.",
+        "And now saith the Lord, that formed me from the womb to be his servant, that I may bring back Jacob unto him, and Israel will not be gathered together: and I am glorified in the eyes of the Lord, and my God is made my strength.",
+        "And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be my salvation even to the farthest part of the earth."
+      ],
+      "lineRefs": [
+        "3",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 49:3,5-6",
+      "reference": "Isaiah 49:3,5-6",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The next day, John saw Jesus coming to him; and he saith: Behold the Lamb of God. Behold him who taketh away the sin of the world.",
+        "This is he of whom I said: After me there cometh a man, who is preferred before me: because he was before me.",
+        "And I knew him not: but that he may be made manifest in Israel, therefore am I come baptizing with water.",
+        "And John gave testimony, saying: I saw the Spirit coming down, as a dove from heaven; and he remained upon him.",
+        "And I knew him not: but he who sent me to baptize with water said to me: He upon whom thou shalt see the Spirit descending and remaining upon him, he it is that baptizeth with the Holy Ghost.",
+        "And I saw: and I gave testimony that this is the Son of God."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:29-34",
+      "reference": "John 1:29-34",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "2nd Sunday of Ordinary Time",
+        "key": "2ndSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/18.html",
+    "title": "Gospel and Word of the Day - 18 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-18"
+}
