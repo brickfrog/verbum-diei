@@ -1,0 +1,199 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "18a57ec1b60fff3bc0d62ae90517837f4492218b28f54bfde4f1be850bfc3c50",
+        "inputSha256": "c9509d0b74af9c4abc115e9aa2ce740e9fba67f9bfb6a53aa773abf57b205fc2",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0056221d01134cc78135c34f29d0b13cc02aa0f4facfdc961a38672b20332a29",
+        "inputSha256": "17efdd15e1aeb52d90183088f54cdb9aa3baf4584e45fb3aeb1f5cb1c83d8120",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f1a3d6304f749773f423be57bd61bef85fcb926addebfaae315b2761db3b9cba",
+        "inputSha256": "32b12bef0c243a00d7fedaf57557e0c370116c0ab6fd7b88fe4cbb7dbb4547da",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-19T01:54:35.734Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Saul’s tragedy is the mind’s favorite evasion: he converts a summons into a project, then launders appetite as piety. The spoil becomes “for sacrifice,” a moral narrative that protects status and self-image. Samuel punctures the story at its root: disobedience is not a mistake in procedure but a rival power, a private sovereignty dressed up as devotion. The psychology is stark: once you justify one exception, you enthrone the self as interpreter of the command, and the crown is already gone.\n\nJesus answers the fasting question by shifting from rule to presence. Forms that once disciplined longing become incoherent when the thing longed for is here; the old container cannot hold the new intensity without splitting. The point is not anti-asceticism but timing and fit: practices are vessels for desire, and desire changes shape when reality arrives. The rent and the burst bottle name what happens when identity tries to keep its old defenses while welcoming an unmanageable joy.\n\nSemina Verbi: This reads like the Bhagavad Gita’s insistence on right action over the barter of ritual, a move from transaction to alignment. It echoes Stoic assent: the decisive act is the inner “yes” to what is, not the external display of virtue. The bridegroom image has a Sufi resonance (speculation): the beloved’s nearness suspends prescribed grief, and absence turns discipline into longing made deliberate. The wine-and-skins logic parallels Zen’s suspicion of clinging to forms: when insight comes, inherited containers crack unless the self is remade to hold it.",
+    "excursus": "Samuel’s “obedience” isn’t piety; it’s a demand for clean, unshared power. Saul’s real crime is not sparing Agag but trying to translate slaughter into meaning. He wants the gore to become gift, to launder violence into worship, to keep a self that can look at itself afterward. Samuel won’t allow that alchemy. Sacrifice is not too much; it’s the wrong kind of control—Saul seizing the narrative, claiming the right to interpret the act. So the prophet attacks the one refuge a frightened ruler has: explanation. When Samuel calls rebellion “witchcraft,” he’s naming Saul’s attempt to make reality obey through ritual and story. The rejection of Saul is the rejection of a psyche that won’t stay small.\n\nIn Mark, fasting is exposed as the same anxious technology. The questioners want a visible lever: hunger as proof, discipline as ownership of time. Jesus answers with desire. While the bridegroom is present, you don’t manufacture absence; you admit you want what’s here. But he also predicts the taking-away, the coming wound. Then they will fast—not as virtue, as grief. New wine means a new container for longing: you can’t pour joy and dread into inherited forms without splitting them. The old skins are the persona that survives by performance. The new vessel is the self that can bear desire without disguising it as duty.",
+    "synthesis": "God does not accept religious performance as compensation for disobedience. The advent of Christ introduces a new economy that cannot be contained by inherited forms without rupture.",
+    "gospel": [
+      {
+        "text": "The question presumes holiness is measurable by visible abstention. Jesus answers by reframing time: practices are not timeless badges but responses to a divine event.",
+        "lines": [
+          1
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The command is totalizing—an enacted judgment that leaves no remainder to manage. Saul’s later appeal to a shared “people” splits agency to dilute guilt; the narrative treats this as a political technique, not an excuse.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The passage relocates the center of worship from offerings to submission: ritual is not a counterweight to transgression but an expression of alignment. Once will and word diverge, sacrifice becomes an attempted bribe.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Night speech: authority arrives unasked; Saul grants a hearing, not obedience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingship begins in self-smallness; elevation is pure donation, therefore pure obligation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Turned to the prey”: the war becomes a hunt; appetite edits the command.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Piety as laundering: spoils renamed “firstfruits” to make theft liturgical.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rebellion likened to occult power: disobedience seeks control; rejection begets rejection.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Presence governs practice: fasting is incoherent when joy stands embodied.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Taken away: the wound in the feast; deprivation will have its appointed time.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Patch logic: the attempt to conserve the old by a new add-on worsens the tear.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "New wine is not gentler; it destroys containers that cannot stretch.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Samuel said to Saul: Suffer me, and I will tell thee what the Lord hath said to me this night. And he said to him: Speak.",
+        "And Samuel said: When thou wast a little one in thy own eyes, wast thou not made the head of the tribes of Israel? And the Lord anointed thee to be king over Israel.",
+        "And the Lord sent thee on the way, and said: Go, and kill the sinners of Amalec, and thou shalt fight against them until thou hast utterly destroyed them.",
+        "Why then didst thou not hearken to the voice of the Lord: but hast turned to the prey, and hast done evil in the eyes of the Lord?",
+        "And Saul said to Samuel: Yea, I have hearkened to the voice of the Lord, and have walked in the way by which the Lord sent me, and have brought Agag, the king of Amalec, and Amalec I have slain.",
+        "But the people took of the spoils, sheep and oxen, as the firstfruits of those things that were slain, to offer sacrifice to the Lord their God in Galgal.",
+        "And Samuel said: Doth the Lord desire holocausts and victims, and not rather that the voice of the Lord should be obeyed? For obedience is better than sacrifices: and to hearken rather than to offer the fat or rams.",
+        "Because it is like the sin of witchcraft, to rebel: and like the crime of idolatry, to refuse to obey. Forasmuch, therefore, as thou hast rejected the word of the Lord, the Lord hath also rejected thee from being king."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 15:16-23",
+      "reference": "1 Samuel 15:16-23",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the disciples of John and the Pharisees used to fast. And they come and say to him: Why do the disciples of John and of the Pharisees fast; but thy disciples do not fast?",
+        "And Jesus saith to them: Can the children of the marriage fast, as long as the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.",
+        "But the days will come when the bridegroom shall be taken away from them: and then they shall fast in those days.",
+        "No man seweth a piece of raw cloth to an old garment: otherwise the new piecing taketh away from the old, and there is made a greater rent.",
+        "And no man putteth new wine into old bottles: otherwise the wine will burst the bottles, and both the wine will be spilled and the bottles will be lost. But new wine must be put into new bottles."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 2:18-22",
+      "reference": "Mark 2:18-22",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 2nd week of Ordinary Time",
+        "key": "mondayOfThe2ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/19.html",
+    "title": "Gospel and Word of the Day - 19 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-19"
+}
