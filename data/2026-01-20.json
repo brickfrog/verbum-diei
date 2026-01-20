@@ -1,0 +1,234 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8fd54902bf0fbd8d5ebd26b470dca4e010744210f972d8167b56cf2e74f039db",
+        "inputSha256": "891bb86e2bbc2f570a468d61a1509e99e65055884519cad8a5f35d05beadc00f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "1a9b1af77d2eaee641d220190845108b2996489a028ff3f792f03e71b27bc125",
+        "inputSha256": "55c16ffb03be9a7c3b37d0d089eab81cc1a36d156b4d938e8a30bd2464d654b7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "777455dbd129c5cd7dd018858083e490b90d0f85e761bf5683f22209cae8a47c",
+        "inputSha256": "ace56d99150909b2562148476b17b825100b200b2428d088f6913b7ef4d434de",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-20T01:54:28.730Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The anointing scene insists that the real criterion is interior, not legible on the body. That resembles the Upanishadic turn from form to the hidden self, and the Sufi suspicion of reputation in favor of the heart’s truth. It also touches a Stoic instinct: worth is not a spectacle but a disposition.\n\nThe covert tactic—arriving under the cover of sacrifice—reads like the pragmatics of survival found in the Mahabharata’s hard counsel and in rabbinic pikuach nefesh reasoning: law exists within a world of predators. The gospel’s line that the sabbath is for man lands in the same neighborhood as pikuach nefesh, and, more broadly, as the Confucian idea that rite serves human flourishing rather than consuming it.\n\nDavid as hungry outlaw taking sacred bread anticipates the Zen willingness to break a rule to keep the vow’s living spirit. Speculation: it also parallels the Islamic concept of darura, necessity loosening the forbidden, not as indulgence but as fidelity to the law’s aim.",
+    "excursus": "This is a story about holy theft.\n\nGod doesn’t replace Saul with a better man; he replaces him with a more useful appetite. Samuel is told to stop mourning and start plotting, and the divine instruction is essentially a cover story: bring a calf, say “sacrifice,” and hide the coup inside ritual. Bethlehem trembles because everyone knows how power changes hands: not with sermons, with knives. The prophet’s piety is camouflage.\n\nThe famous line about “the heart” isn’t tenderness; it’s the ruthless interior criterion that makes bodies interchangeable. One son after another is rejected like livestock at market. The family is paraded, assessed, dismissed. And then the youngest is fetched only because the ceremony refuses to sit down without him. David is chosen while still smelling of sheep, not because he is pure, but because he is unformed enough to be seized. Even the text can’t resist his beauty; desire enters as proof of election.\n\nMark picks up that thread and turns it into a principle: hunger outranks holiness. Jesus defends the disciples’ petty foraging by invoking David’s earlier sacrilege, as if anointing grants permission to break the rules that protect everyone else. The sabbath becomes a tool, and the “Lord of the sabbath” is a claim that need can legislate. Underneath the argument is dread: if the chosen can eat what is forbidden when they feel hungry, then law is merely the rationing system of the unchosen.",
+    "synthesis": "God’s election and God’s law are governed by divine purpose, not by human optics or boundary-keeping. The Son of Man possesses authority over sabbath as the Davidic Lord who orders holiness toward life.",
+    "gospel": [
+      {
+        "text": "The Pharisaic accusation assumes law is primarily a boundary-marker; Jesus answers by relocating sabbath within creation-purpose and then asserting authority to interpret that purpose. The dispute is not about permission to snack but about who has standing to define fidelity.",
+        "lines": [
+          2,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The appeal to David is a messianic insinuation: the contested act is justified by a king-in-waiting acting under necessity. Mark uses the precedent to collapse the gap between Davidic irregularity and Jesus’ present authority, tightening the identification.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Bethlehem’s elders interrogate the prophet as a public risk; holiness arrives as a potential disturbance. Samuel’s sanctification rite converts a political operation into a cultic event, showing how Israel’s governance is mediated through worship rather than separated from it.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The sequence of rejected candidates creates an anti-criterion: selection is not a reward for primogeniture or obvious fitness. David’s later description (ruddy, comely) is noted only after the divine designation, to prevent the reader from backfilling God’s choice with aesthetic inevitability.",
+        "lines": [
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Mourning is treated as resistance to a verdict already executed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Election requires cover; piety becomes operational camouflage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A reversal of evidentiary standards: appearances are admissible to man, excluded to God.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The overlooked one is absent by default; the feast is stalled until absence is corrected.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Oil outside, Spirit inside; the sign triggers the seizure.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath framed as movement and hunger, not liturgy.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Need becomes the hermeneutic key; Scripture is read under pressure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Holy bread is treated as provision, not museum-piece; priestly boundary is crossed by hunger.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Instrumental law: the ordinance is subordinated to its beneficiary.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jurisdiction claim: sabbath is not abolished but owned.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord said to Samuel: How long wilt thou mourn for Saul, whom I have rejected from reigning over Israel? fill thy horn with oil, and come, that I may send thee to Isai, the Bethlehemite: for I have provided me a king among his sons.",
+        "And Samuel said: How shall I go? for Saul will hear of it, and he will kill me. And the Lord said: Thou shalt take with thee a calf of the herd, and thou shalt say: I am come to sacrifice to the Lord.",
+        "And thou shalt call Isai to the sacrifice, and I will shew thee what thou art to do, and thou shalt anoint him whom I shall shew to thee.",
+        "Then Samuel did as the Lord had said to him. And he came to Bethlehem, and the ancients of the city wondered, and meeting him, they said: Is thy coming hither peaceable?",
+        "And he said: It is peaceable: I am come to offer sacrifice to the Lord, be ye sanctified, and come with me to the sacrifice. And he sanctified Isai and his sons, and called them to the sacrifice.",
+        "And when they were come in, he saw Eliab, and said: Is the Lord's anointed before him?",
+        "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
+        "And Isai called Abinadab, and brought him before Samuel. And he said: Neither hath the Lord chosen this,",
+        "And Isai brought Samma, and he said of him: Neither hath the Lord chosen this.",
+        "Isai therefore brought his seven sons before Samuel: and Samuel said to Isai: The Lord hath not chosen any one of these.",
+        "And Samuel said to Isai: Are here all thy sons? He answered: There remaineth yet a young one, who keepeth the sheep. And Samuel said to Isai: Send, and fetch him: for we will not sit down till he come hither.",
+        "He sent therefore and brought him. Now he was ruddy and beautiful to behold, and of a comely face. And the Lord said: Arise, and anoint him, for this is he.",
+        "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward: and Samuel rose up, and went to Ramatha."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 16:1-13",
+      "reference": "1 Samuel 16:1-13",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass again, as the Lord walked through the corn fields on the sabbath, that his disciples began to go forward and to pluck the ears of corn.",
+        "And the Pharisees said to him: Behold, why do they on the sabbath day that which is not lawful?",
+        "And he said to them: Have you never read what David did when he had need and was hungry, himself and they that were with him?",
+        "How he went into the house of God, under Abiathar the high priest, and did eat the loaves of proposition, which was not lawful to eat but for the priests, and gave to them who were with him?",
+        "And he said to them: The sabbath was made for man, and not man for the sabbath.",
+        "Therefore the Son of man is Lord of the sabbath also."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 2:23-28",
+      "reference": "Mark 2:23-28",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saints Fabian, Pope, and Sebastian, Martyrs",
+        "key": "saintsFabianPopeAndSebastianMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/20.html",
+    "title": "Gospel and Word of the Day - 20 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-20"
+}
