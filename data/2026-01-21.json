@@ -1,0 +1,260 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e4d50733b0fac7381a5fd5614838f0ef5129375368e7ffb43e411f667983d4b6",
+        "inputSha256": "e4b4bca175b785171f07981375f00894af5d9e87bae1e6300531dc0f3dcaea0d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ace94dc54acc117ca58fc1e77dccc5c8066018ba662befaec66a677cf3d970b4",
+        "inputSha256": "76f5ccb5005595c3edcd31b3f0b3d3552ddefd4fe412c1b57e541d5e36d6d784",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "be0e904be1e9c9e9778cd9f799a7de6bf233a1eb57db224a4cb027594833cae7",
+        "inputSha256": "7c52dbc9f9c233d54123e166822c85db739309be53d4ca813e4fa268d4252fd9",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-21T01:54:31.660Z"
+  },
+  "commentary": {
+    "seminaVerbi": "David’s five stones feel like the Zen insistence on “ordinary mind”: no ornate technique, only trained attention and a clean, repeatable act. Goliath’s contempt is the predictable roar of ego when it meets someone who won’t play its status game.\n\nThe healed hand in the synagogue reads like Stoic and Confucian virtue ethics converging: law exists for human flourishing, so refusing to do good when you can is already a kind of harm. The watchers’ silence is a psychological defense—moral paralysis disguised as procedural purity.\n\nSpeculation: together they echo the Bhagavad Gita’s counsel to act without being captured by the opponent’s frame. One scene defeats intimidation; the other defeats scrupulosity. Both expose how power depends on getting you to consent inwardly before anything happens outwardly.",
+    "excursus": "David isn’t the underdog of piety; he’s the first technician of sacred violence. He comes with a shepherd’s kit, intimate with tendons and skulls, and he narrates his own brutality in advance like a spell. The “name of the Lord” functions as permission to enjoy what he’s about to do. He doesn’t just win; he lingers, takes the dead man’s sword, and finishes the job with a beheading. The assembly gets a lesson about not needing weapons, delivered by a boy who immediately upgrades to the enemy’s weapon and makes a trophy of the head. Faith here is an appetite that has found an alibi.\n\nIn the synagogue, the withered hand is bait, and everyone knows it. Jesus stages the man in the center, forcing the room to watch desire collide with law. His anger isn’t holy serenity; it’s the heat of someone refusing to let rules be used as a hiding place for cruelty. He heals, and the response is not wonder but strategy: the guardians of order join hands with the political machine to kill him. Restoration triggers conspiracy.\n\nPut together, the texts confess a bleak symmetry: communities prefer a clean kill over a messy cure. They can celebrate a severed head as “God’s victory,” but a restored hand exposes their impotence, their inability to control life. Dread clings to both scenes—the dread of the giant falling, the dread of a man becoming whole—because either way someone loses power.",
+    "synthesis": "God’s sovereignty is disclosed by overturning the normal instruments of power: victory and restoration come by divine claim, not adequate weaponry or sanctioned procedure.",
+    "gospel": [
+      {
+        "text": "The synagogue is treated as a courtroom: the afflicted man is present as a living exhibit, while the true trial concerns authority—who defines the sabbath’s purpose.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "Opposition crosses party lines to secure destruction: when confronted with restorative power, rival systems unify around preserving control.",
+        "lines": [
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative stages a contest of perception: the giant’s contempt and approach are the real opening; the physical disparity is merely the surface on which pride speaks.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "Israel’s theology is publicly tested: the claim that the battle belongs to the Lord is immediately enacted by David’s forward motion; doctrine must take the field or collapse into slogan.",
+        "lines": [
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Courage is narrated as speech first; the battle begins in the mouth.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Saul argues by age and résumé: ontology by statistics.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Deliverance remembered becomes deliverance expected; memory is a weapon.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Five stones: surplus against a single enemy; confidence without theatrics.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Dog” names the mismatch: insult as attempted reclassification.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Inventory vs Name: arms enumerated, then negated by invocation.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Head taken: victory becomes a sign, not merely a survival.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No sword in his hand: the lack is part of the point.",
+      "lines": [
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He kills with the enemy’s sword: judgment turns borrowed power back on itself.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Surveillance dressed as piety; the sabbath becomes a trap.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“In the midst”: the wound is positioned as public evidence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question polarizes: neutrality is already choosing harm.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Anger and grief together: lucid wrath at willful incapacity.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sabbath keepers plot murder; legalism ripens into conspiracy.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when he was brought to Saul, he said to him. Let not any man's heart be dismayed in him: I thy servant will go, and will fight against the Philistine.",
+        "And Saul said to David: Thou art not able to withstand this Philistine, nor to fight against him: for thou art but a boy, but he is a warrior from his youth.",
+        "And David said: The Lord who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said to David: Go, and the Lord be with thee.",
+        "And he took his staff, which he had always in his hands: and chose him five smooth stones out of the brook, and put them into the shepherd's scrip, which he had with him, and he took a sling in his hand, and went forth against the Philistine.",
+        "And the Philistine came on, and drew nigh against David, and his armourbearer went before him.",
+        "And when the Philistine looked, and beheld David, he despised him. For he was a young man, ruddy, and of a comely countenance.",
+        "And the Philistine said to David: Am I a dog, that thou comest to me with a staff? And the Philistine cursed David by his gods.",
+        "And he said to David: Come to me, and I will give thy flesh to the birds of the air, and to the beasts of the earth.",
+        "And David said to the Philistine: Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, which thou hast defied.",
+        "This day, and the Lord will deliver thee into my hand, and I will slay thee, and take away thy head from thee: and I will give the carcasses of the army of the Philistines this day to the birds of the air, and to the beasts of the earth: that all the earth may know that there is a God in Israel.",
+        "And all this assembly shall know that the Lord saveth not with sword and spear: for it is his battle, and he will deliver you into our hands.",
+        "And when the Philistine arose, and was coming, and drew nigh to meet David, David made haste, and ran to the fight to meet the Philistine.",
+        "And he put his hand into his scrip, and took a stone, and cast it with the sling, and fetching it about, struck the Philistine in the forehead, and he fell on his face upon the earth.",
+        "And David prevailed over the Philistine, with a sling and a stone, and he struck, and slew the Philistine. And as David had no sword in his hand,",
+        "He ran, and stood over the Philistine, and took his sword, and drew it out of the sheath, and slew him, and cut off his head. And the Philistines seeing that their champion was dead, fled away."
+      ],
+      "lineRefs": [
+        "32",
+        "33",
+        "37",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 17:32-33,37,40-51",
+      "reference": "1 Samuel 17:32-33,37,40-51",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he entered again into the synagogue: and there was a man there who had a withered hand.",
+        "And they watched him whether he would heal on the sabbath days, that they might accuse him.",
+        "And he said to the man who had the withered hand: Stand up in the midst.",
+        "And he saith to them: Is it lawful to do good on the sabbath days, or to do evil? To save life, or to destroy? But they held their peace.",
+        "And looking round about on them with anger, being grieved for the blindness of their hearts, he saith to the man: Stretch forth thy hand. And he stretched it forth: and his hand was restored unto him.",
+        "And the Pharisees going out, immediately made a consultation with the Herodians against him, how they might destroy him."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 3:1-6",
+      "reference": "Mark 3:1-6",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Agnes, Virgin and Martyr",
+        "key": "saintAgnesVirginAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/21.html",
+    "title": "Gospel and Word of the Day - 21 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-21"
+}
