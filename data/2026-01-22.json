@@ -1,0 +1,215 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "56c13a4d43f36017393361f4e91ae18472a272511af75910d7dc36e1dd403f0f",
+        "inputSha256": "228486e7e773eb8b1de55938d8b9d95813eb83a8b0c0e5f9af5e8819072c5858",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "12c4907d7ee2b9fafe3d68d83964d3beeb7926caa6c8b647d9b60a5e4f3fc6bd",
+        "inputSha256": "3fc713f5425dd5fd1b7a055239d82851feee0611aa314386d63673bbad5a87e1",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "39bc97efa4ca967ca10f89b4d4a8ce2ba01d501f5a1dcc87e568f01ec190ddd8",
+        "inputSha256": "a50b3b5f6ba4c94eec12a6ab5a8880afffa3e72144c8ebe66d4c33aeb97bf353",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-22T01:54:39.964Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Saul’s envy is Girard’s mimetic fever before Girard names it: praise becomes contagion, desire triangulates, the rival must be erased to restore a wounded self. The women’s chant is the spark; the king’s identity collapses into comparison. In Buddhist terms, it’s taṇhā and māna—craving and conceit—turning a victory into suffering; the “kingdom” is just the next object fantasy promises will seal the crack.\n\nJonathan is the dharmic friend inside the court, the one person who can speak reality without spectacle. His intervention resembles the Confucian minister’s remonstrance, loyalty expressed as moral correction rather than flattery. It also echoes a Stoic move: he recalls Saul to what he already knows, trying to re-anchor judgment in facts instead of passion.\n\nJesus’ retreat and the waiting boat read like disciplined containment of charisma. The crowd wants contact as extraction; he manages distance so the healing doesn’t become possession. That restraint has kinship with Taoist non-grasping, and with yogic pratyāhāra, a deliberate turning of the senses away from the stampede of demand.\n\nThe silencing of the spirits feels like an antidote to premature naming, a refusal to let the deepest truth be carried by compulsive, noisy forces. Speculatively, it parallels apophatic traditions—Christian negative theology, the Upaniṣadic neti neti, even Zen’s distrust of declarative slogans—where the right word at the wrong time becomes another idol. The demons confess, but confession can be another form of control; he denies them the narrative.",
+    "excursus": "Saul’s collapse begins as a lyric. The women’s chorus doesn’t merely praise David; it edits Saul’s identity in public, reducing him to a smaller number. Envy here is not petty but annihilating: the fear that the crowd’s desire will migrate, and with it the right to be real. Saul hears arithmetic and feels a coup.\n\nJonathan’s love is the real scandal. He wants David alive not as an abstract innocent but as the object that holds his own longing together. His diplomacy is erotic in its finesse: he hides David, stages the scene, speaks “good things,” manages Saul’s gaze. The oath Saul swears is not repentance; it’s a brief remission bought by his son’s intimacy. The dread remains, dormant, waiting for the next song.\n\nJesus, by contrast, is crushed by need rather than praise. Bodies press to touch him; sickness becomes a kind of hunger that threatens to consume the healer. The unclean spirits name him correctly, and he silences them because their confession is possession. To be proclaimed is to be used, to be dragged into other people’s narratives.\n\nPut together, the readings suggest a bleak economy of acclaim. Praise makes Saul murderous; truth makes Jesus withdraw. Love negotiates a truce for David, but it cannot cure the ache beneath the crown, the terror that another will be desired more—and therefore deserve to live.",
+    "synthesis": "God’s anointed is threatened by jealous rule, while God’s Son restrains premature acclaim: the kingdom advances not by popular noise but by ordered revelation and obedience.",
+    "gospel": [
+      {
+        "text": "The geography widens to the edges—Judea, Idumea, Tyre, Sidon—signaling a messianic field larger than Israel’s internal rivalries. Yet the movement is managed: withdrawal to the sea, not enthronement in the city. Mark shows authority that draws nations while refusing the apparatus of publicity, because the meaning of sonship will be set by the cross, not by regional enthusiasm.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage pivots from public acclaim to private mediation. Jonathan functions as covenantal buffer inside the royal house, translating political paranoia into moral language (‘sin… innocent blood’) and briefly restoring administrative order (‘as… yesterday’). The narrative exposes kingship without interior obedience: the state can be stabilized by rhetoric and relationship while the underlying disorder remains unresolved.",
+        "lines": [
+          1,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Praise becomes arithmetic; glory is counted, not contemplated.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Envy reads the hymn as a title-deed: ‘more but the kingdom?’",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The eye turns into a weapon; suspicion becomes a settled gaze.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Royal command converts household and court into an instrument of murder.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love acts as intelligence: warning, concealment, timing.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "An oath can be anesthesia; it stills a moment, not a heart.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A boat prepared: distance engineered as a kind of mercy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Need collapses into touch; bodies press where words fail.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Demons prostrate; they confess while resisting.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Truth is gagged; revelation is disciplined, not crowdsourced.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now when David returned, after he slew the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet king Saul, with timbrels of joy, and cornets.",
+        "And the women sung as they played, and they said: Saul slew his thousands, and David his ten thousands.",
+        "And Saul was exceeding angry, and this word was displeasing in his eyes, and he said: They have given David ten thousands, and to me they have given but a thousand, what can he have more but the kingdom?",
+        "And Saul did not look on David with a good eye from that day and forward.",
+        "And Saul spoke to Jonathan, his son, and to all his servants, that they should kill David. But Jonathan, the son of Saul, loved David exceedingly.",
+        "And Jonathan told David, saying: Saul, my father, seeketh to kill thee: wherefore look to thyself, I beseech thee, in the morning and thou shalt abide in a secret place, and shalt be hid.",
+        "And I will go out and stand beside my father in the field where thou art: and I will speak of thee to my father, and whatsoever I shall see, I will tell thee.",
+        "And Jonathan spoke good things of David to Saul, his father: and said to him: Sin not, O king, against thy servant, David, because he hath not sinned against thee, and his works are very good towards thee.",
+        "And he put his life in his hand, and slew the Philistine, and the Lord wrought great salvation for all Israel. Thou sawest it and didst rejoice. Why therefore wilt thou sin against innocent blood, by killing David, who is without fault?",
+        "And when Saul heard this, he was appeased with the words of Jonathan, and swore: As the Lord liveth, he shall not be slain.",
+        "Then Jonathan called David, and told him all these words: and Jonathan brought in David to Saul, and he was before him, as he had been yesterday and the day before."
+      ],
+      "lineRefs": [
+        "18:6",
+        "18:7",
+        "18:8",
+        "18:9",
+        "19:1",
+        "19:2",
+        "19:3",
+        "19:4",
+        "19:5",
+        "19:6",
+        "19:7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 18:6-9; 19:1-7",
+      "reference": "1 Samuel 18:6-9; 19:1-7",
+      "heading": "A reading from the First Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But Jesus retired with his disciples to the sea; and a great multitude followed him from Galilee and Judea,",
+        "And from Jerusalem, and from Idumea and from beyond the Jordan. And they about Tyre and Sidon, a great multitude, hearing the things which he did, came to him.",
+        "And he spoke to his disciples that a small ship should wait on him, because of the multitude, lest they should throng him.",
+        "For he healed many, so that they pressed upon him for to touch him, as many as had evils.",
+        "And the unclean spirits, when they saw him, fell down before him: and they cried, saying:",
+        "Thou art the Son of God. And he strictly charged them that they should not make him known."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 3:7-12",
+      "reference": "Mark 3:7-12",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Vincent, Deacon and Martyr Or Saint Marianne Cope, Virgin",
+        "key": "saintVincentDeaconAndMartyrOrSaintMarianneCopeVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/22.html",
+    "title": "Gospel and Word of the Day - 22 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-22"
+}
