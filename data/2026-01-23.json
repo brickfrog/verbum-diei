@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "423513d02c4063cc0c81727990992db284b2baf02cebd2d3bf7f7558cbda3108",
+        "inputSha256": "2b68709e5e3b3dd677af46f4f2fcdb8b765585d036d7e592eff2c9550713512b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7adfa004f5582b6d5463e573b02bd22cbd137d3280806aa566e1a46a4eebd33e",
+        "inputSha256": "07c271f21a096cbf4fa7f14c654ff03378e22763a07a7a0378a9f532a89985f7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9c2085fdad8a03ef5e102b846ca009f9424d1e96367a461051b7d1d17066bad6",
+        "inputSha256": "b167dae5b970b05c751d461616c8e707591c63b79224af1776cbd5b04610a90c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-23T01:54:27.420Z"
+  },
+  "commentary": {
+    "seminaVerbi": "David’s restraint in the cave has the flavor of ahimsa in Jain and Hindu ethics: power proven by non-use, victory defined as self-mastery; speculation, but the “hem” reads like a token of conquered impulse rather than conquered man. Saul’s sudden weeping resembles Greek tragic anagnorisis, the moment the pursuer recognizes himself as the true threat and the hunted as the measure of justice. The mountain choosing of twelve echoes Buddhist saṅgha formation and the guru’s selective call in several yogic lineages: not a crowd-movement but a crafted vessel; the nicknames feel like Zen-style naming that frames a disciple’s temperament as both gift and hazard. Judas within the circle parallels the necessary shadow-member in Sufi and Tantric stories, where betrayal is the dark instrument that forces the teacher’s work to complete itself; speculation, but it treats failure as structurally included, not merely accidental.",
+    "excursus": "The cave is not a chapel; it’s a body. Saul enters to empty himself, kingly power reduced to a private need, and David is already inside him, hidden in the “inner part,” like the thought you can’t admit you’re thinking. The cut hem is a fetish and a threat: not mercy, but possession. David takes a piece of Saul and then calls it innocence. His heart “strikes” him because he has tasted what it feels like to dominate without being seen, and he wants that taste without the guilt.\n\nDavid refuses to kill because killing would end the erotic tension. A living Saul is the perfect witness, the perfect antagonist, the perfect father to bow before while quietly holding proof of castration. “My father” is not tenderness; it’s conquest by intimacy. He hands vengeance to God the way a careful man hands a weapon to someone else, so his hands stay clean while the outcome stays his.\n\nOn the mountain, Jesus does something colder than it sounds: he calls “whom he would.” The twelve are not chosen for virtue but for use, to be with him and then to be sent, power routed through them like current. He names them thunder, rock—roles, not selves—and he includes Judas as part of the design, the necessary fracture inside the circle. The dread here is that betrayal isn’t an accident; it’s the price of forming a body. Like Saul in the cave, the group is most vulnerable at its most human, and that vulnerability is exactly where authority is made.",
+    "synthesis": "God’s rule advances by legitimate calling and delegated authority, not by seizing power through violence. The people of God are constituted with real offices and real corruption, yet the mission proceeds under judgment reserved to God.",
+    "gospel": [
+      {
+        "text": "The mountain is not scenery; it is a new Sinai where authority is reorganized around a named company. The list is the point: particular persons are drawn into a corporate identity that will outlast individual temperaments and reputations. Renaming marks transfer of allegiance and the making of a public body.",
+        "lines": [
+          1,
+          4,
+          6
+        ]
+      },
+      {
+        "text": "The sending is constituted with an internal vulnerability: the mission is launched with a traitor inside the charter membership. The text refuses any fantasy of a pure founding; apostolic authority begins as a mixed field where fidelity and betrayal grow adjacent.",
+        "lines": [
+          2,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "David’s restraint does not end the conflict; it redefines its jurisdiction. He refuses to let political succession be achieved by sacrilege, and he stages that refusal publicly—exiting the cave to address the king under the eyes of the court-world Saul carries with him. The scene is a rehearsal for kingship as patient legitimacy rather than opportunistic seizure.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The appeal to divine judgment is not piety-as-ornament but a relocation of vengeance outside the human hand. That relocation creates time: Saul can acknowledge what he “knows” about the future without David forcing the future through murder. The narrative links a stable kingdom to a delayed grasp.",
+        "lines": [
+          11,
+          14,
+          19
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Election by number: “three thousand chosen” against one fugitive. Royal mass vs hidden remnant.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A king unmanned. The cave becomes tribunal; the pursuer becomes the exposed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “word of the Lord” is ventriloquized by servants. Providence offered as pretext. David takes only cloth.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conscience fires over a hem. The smallest violence teaches the larger.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Anointed” is a boundary marker: office immunized from private execution.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The rag becomes evidence. David litigates with fabric, not blood.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Self-abasement as strategy: dead dog, flea—disarming the paranoid imagination.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Recognition by voice. Tears: the tyrant’s momentary humanity, not conversion.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He calls “whom he would”: selection without meritocracy. A will, not a census.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two ends: presence (“be with him”) before mission (“send”). Formation precedes function.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Power is delegated, not innate; healing and exorcism name the regime being displaced.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Nicknames as prophecy: thunder harnessed, not erased.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The betrayer is listed without footnote of surprise: the Twelve include a fracture by design.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Saul, therefore, took three thousand chosen men out of all Israel, and went out to seek after David and his men, even upon the most craggy rocks, which are accessible only to wild goats.",
+        "And he came to the sheepcotes which were in his way. And there was a cave, into which Saul went, to ease nature: now David and his men lay hid in the inner part of the cave.",
+        "And the servants of David said to him: Behold the day, of which the Lord said to thee: I will deliver thy enemy unto thee, that thou mayst do to him as it shall seem good in thy eyes. Then David arose, and secretly cut off the hem of Saul's robe.",
+        "After which David's heart struck him, because he had cut off the hem of Saul's robe. Heart struck him... Viz., with remorse, as fearing he had done amiss.",
+        "And he said to his men: The Lord be merciful unto me, that I may do no such thing to my master, the Lord's anointed, as to lay my hand upon him, because he is the Lord's anointed.",
+        "And David stopped his men with his words, and suffered them not to rise against Saul: but Saul, rising up out of the cave, went on his way.",
+        "And David also rose up after him: and going out of the cave, cried after Saul, saying: My lord the king. And Saul looked behind him: and David bowing himself down to the ground, worshipped,",
+        "And said to Saul: Why dost thou hear the words of men that say: David seeketh thy hurt? 24:11 Behold this day thy eyes have seen, that the Lord hath delivered thee into my hand, in the cave, and I had a thought to kill thee, but my eye hath spared thee. For I said: I will not put out my hand against my lord, because he is the Lord's anointed. A thought to kill thee... That is, a suggestion, to which I did not consent.",
+        "",
+        "Moreover, see and know, O my father, the hem of thy robe in my hand, that when I cut off the hem of thy robe, I would not put out my hand against thee. Reflect, and see, that there is no evil in my hand, nor iniquity, neither have I sinned against thee: but thou liest in wait for my life, to take it away.",
+        "The Lord judge between me and thee and the Lord revenge me of thee: but my hand shall not be upon thee. Revenge me of thee... Or, as it is in the Hebrew, will revenge me. The meaning is, that he refers his whole cause to God, to judge and punish according to his justice: yet so as to keep himself in the mean time, from all personal hatred to Saul, or desire of gratifying his own passion, by seeking revenge. So far from it, that when Saul was afterwards slain, we find, that instead of rejoicing at his death, he mourned most bitterly for him.",
+        "As also it is said in the old proverb: From the wicked shall wickedness come forth: therefore my hand shall not be upon thee. After whom dost thou come out, O king of Israel?",
+        "After whom dost thou pursue? After a dead dog, after a flea.",
+        "Be the Lord judge, and judge between me and thee, and see, and judge my cause, and deliver me out of thy hand.",
+        "And when David had made an end of speaking these words to Saul, Saul said: Is this thy voice, my son David? And Saul lifted up his voice, and wept:",
+        "And he said to David: Thou art more just than I: for thou hast done good to me, and I have rewarded thee with evil.",
+        "And thou hast shewed this day what good things thou hast done to me: how the Lord delivered me into thy hand, and thou hast not killed me.",
+        "For who when he hath found his enemy, will let him go well away? But the Lord reward thee for this good turn, for what thou hast done to me this day.",
+        "And now as I know that thou shalt surely be king, and have the kingdom of Israel in thy hand:"
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 24:3-21",
+      "reference": "1 Samuel 24:3-21",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And going up into a mountain, he called unto him whom he would himself: and they came to him.",
+        "And he made that twelve should be with him, and that he might send them to preach.",
+        "And he gave them power to heal sicknesses, and to cast out devils.",
+        "And to Simon he gave the name Peter:",
+        "And James the son of Zebedee, and John the brother of James; and he named them Boanerges, which is, The sons of thunder.",
+        "And Andrew and Philip, and Bartholomew and Matthew, and Thomas and James of Alpheus, and Thaddeus and Simon the Cananean:",
+        "And Judas Iscariot, who also betrayed him."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 3:13-19",
+      "reference": "Mark 3:13-19",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 2nd week of Ordinary Time",
+        "key": "fridayOfThe2ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/23.html",
+    "title": "Gospel and Word of the Day - 23 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-23"
+}
