@@ -1,0 +1,209 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4a2bc475af225d7f166ca414fafc2227c2871d6d4e62edb127502d475afbc7e9",
+        "inputSha256": "46043f94c3e2adb3fad686a41beff69e401f441aec1fcef8c90e015995392edb",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a91ddb625ec10f7d829fbcee58d693dc1b8dfc9485682d994b03b6b48f0a67da",
+        "inputSha256": "2a240ea150fe5e214e491ae33d2588b135dce8e965438e4341d8a2ea9b7e9357",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4db5d654251eb20e18857fd5dbf02e5fe4bdf04b9720c6b54ae3364829c5e33d",
+        "inputSha256": "31f654effb4e57a0e354fd10911846be82e756d0c385fffd63c97c3a7fb2a43c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-25T09:13:06.134Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A borderland becomes the stage where light happens first; that has a Zen flavor, where awakening is not reserved for the polished center but breaks out in the ordinary and overlooked. The abrupt leaving of nets and father resembles the Buddhist “going forth,” not as contempt for kin but as the psychic necessity of severing old roles when a larger vocation arrives. “Fishers of men” echoes Sufi imagery of being caught by the Beloved’s hook; speculation, but the grammar is similar: desire redirected from acquisition to rescue. The mix of teaching and healing matches the bodhisattva ideal in Mahayana—wisdom expressed as concrete relief—again speculative, but close in temperament. “Darkness to light” also aligns with the Platonic cave and with Advaita’s avidya to vidya, where illumination is less new information than a change in seeing.",
+    "excursus": "This “great light” is not comfort; it is exposure. Isaiah’s brightness falls on borderlands that have already been used up, first “lightly touched,” then “heavily loaded,” as if history keeps returning to the same bruised nerve until it goes numb. The odd line—multiplied nation, not increased joy—admits what religious triumph won’t: expansion can be a kind of despair. Harvest joy here is the joy of predators dividing spoils, a nervous laughter after surviving.\n\nMatthew’s Jesus arrives not as sunrise but as fallout from an arrest. John is “delivered up,” and Jesus withdraws, choosing the margins where mixed blood and mixed loyalties churn. The kingdom comes “at hand” like a hand on the shoulder in the dark: intimate, unavoidable, and possibly dangerous. “Do penance” is not moral tidying; it is a demand to turn your whole life as if you’ve been caught.\n\nThe call scenes sharpen the dread into desire. Nets are not merely tools; they are the last honest web of meaning these men have, a daily rhythm that holds fear at bay. Jesus doesn’t offer them a better trade; he offers a hunger with a holy alibi: you will catch people. They abandon father and craft with disturbing speed because the light has found the part of them that wants to be taken, wants to belong to something fierce enough to justify leaving.\n\nHealing, then, is not sweetness but recruitment. Sickness is cleared the way brush is cleared for a road. In these texts, salvation looks like conscription by radiance: the darkness is familiar, and the light is what makes you walk out trembling, thrilled, and not entirely free.",
+    "synthesis": "God inaugurates his reign from the margins, converting judged territory into the theater of revelation. The kingdom arrives by repentance and reordering of loyalties, and it proves itself by exercised authority.",
+    "gospel": [
+      {
+        "text": "Matthew frames Jesus’ relocation as hermeneutical action: the prophet’s words are not only predicted but activated by a choice of address—Galilee becomes the interpretive key to Jesus’ public identity.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The narrative moves from proclamation to recruitment to demonstration: authority is shown to be comprehensive—over speech (teaching/preaching) and over bodies (healing)—establishing the kingdom as a regime, not a mood.",
+        "lines": [
+          7,
+          8,
+          10,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The duplicated verse functions like an echoing oracle: the text itself performs insistence, pressing the hearer to treat Zebulun/Naphtali as a theological sign rather than a mere location.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The harvest/prey images fuse abundance and violence; Israel’s future gladness is pictured with the morally ambiguous joy of victors, implying that restoration will arrive through conflict and redistribution, not serene uplift.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Lightly touched… heavily loaded”: judgment changes weight; the same geography bears a different density of meaning.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Darkness is walked, not merely suffered; light “risen” like an event, not an idea.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Arithmetic without gladness: multiplication of nation can coincide with famine of joy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The kingdom’s entrance begins with a prisoner: John’s removal makes room.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Nazareth left; borderland chosen. Center is displaced by coastline and margins.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "First imperative is not “believe” but “repent”: the doorstep of heaven is moral, not geographic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Immediately”: discipleship measured in velocity, not deliberation.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Net and father both abandoned: vocation severs economy and ancestry.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.",
+        "At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.",
+        "The people that walked in darkness, have seen a great light: to them that dwelt in the region of the shadow of death, light is risen.",
+        "Thou hast multiplied the nation, and hast not increased the joy. They shall rejoice before thee, as they that rejoice in the harvest, as conquerors rejoice after taking a prey, when they divide the spoils."
+      ],
+      "lineRefs": [
+        "8:23",
+        "9:1",
+        "9:2",
+        "9:3"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 8:23—9:3",
+      "reference": "Isaiah 8:23—9:3",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when Jesus had heard that John was delivered up, he retired into Galilee:",
+        "And leaving the city Nazareth, he came and dwelt in Capharnaum on the sea coast, in the borders of Zabulon and of Nephthalim;",
+        "That it might be fulfilled which was said by Isaias the prophet:",
+        "Land of Zabulon and land of Nephthalim, the way of the sea beyond the Jordan, Galilee of the Gentiles:",
+        "The people that sat in darkness, hath seen great light: and to them that sat in the region of the shadow of death, light is sprung up.",
+        "From that time Jesus began to preach, and to say: Do penance, for the kingdom of heaven is at hand.",
+        "And Jesus walking by the sea of Galilee, saw two brethren, Simon who is called Peter, and Andrew his brother, casting a net into the sea (for they were fishers).",
+        "And he saith to them: Come ye after me, and I will make you to be fishers of men.",
+        "And they immediately leaving their nets, followed him.",
+        "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets: and he called them.",
+        "And they forthwith left their nets and father, and followed him.",
+        "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom: and healing all manner of sickness and every infirmity, among the people."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 4:12-23",
+      "reference": "Matthew 4:12-23",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "3rd Sunday of Ordinary Time",
+        "key": "3rdSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/25.html",
+    "title": "Gospel and Word of the Day - 25 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-25"
+}
