@@ -1,3 +1,5 @@
+[![Daily generate](https://github.com/brickfrog/verbum-diei/actions/workflows/daily.yml/badge.svg?branch=master)](https://github.com/brickfrog/verbum-diei/actions/workflows/daily.yml)
+
 # verbum-diei
 
 Daily “Word of the Day” (Vatican News RSS) rendered as a static page with:
