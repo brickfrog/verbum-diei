@@ -53,10 +53,19 @@ type ChapterOffset =
   , offset :: Int
   }
 
+-- | Maps an entire chapter to a different chapter with optional verse offset
+-- | Used for cases like Joel where Vulgate 3:x = Protestant 2:(x+27)
+type ChapterRemap =
+  { fromChapter :: Int
+  , toChapter :: Int
+  , verseOffset :: Int  -- added to verse number (can be negative)
+  }
+
 type VerseMap =
   { book :: String
   , folds :: Array ChapterFold
   , offsets :: Array ChapterOffset
+  , remaps :: Array ChapterRemap
   }
 
 dataRef :: Ref.Ref (Maybe BibleData)
@@ -172,15 +181,17 @@ expandCrossChapterRefs chapters refs =
 
 lookupVerse :: Array (Array String) -> String -> VerseRef -> Either String String
 lookupVerse chapters book ref =
-  case getVerseText chapters ref.chapter ref.verse of
-    Just verse -> Right verse
+  -- Try mapping first (handles versification differences where verse exists at different location)
+  case mapVerseReference chapters book ref.chapter ref.verse of
+    Just mapped ->
+      case getVerseText chapters mapped.chapter mapped.verse of
+        Just verse -> Right verse
+        Nothing ->
+          Left ("Missing verse text for " <> book <> " " <> show ref.chapter <> ":" <> show ref.verse <> " (mapped to " <> show mapped.chapter <> ":" <> show mapped.verse <> ")")
     Nothing ->
-      case mapVerseReference chapters book ref.chapter ref.verse of
-        Just mapped ->
-          case getVerseText chapters mapped.chapter mapped.verse of
-            Just verse -> Right verse
-            Nothing ->
-              Left ("Missing verse text for " <> book <> " " <> show ref.chapter <> ":" <> show ref.verse)
+      -- No mapping applies, try direct lookup
+      case getVerseText chapters ref.chapter ref.verse of
+        Just verse -> Right verse
         Nothing ->
           Left ("Missing verse text for " <> book <> " " <> show ref.chapter <> ":" <> show ref.verse)
 
@@ -192,9 +203,15 @@ getVerseText chapters chapter verse = do
 mapVerseReference :: Array (Array String) -> String -> Int -> Int -> Maybe VerseRef
 mapVerseReference chapters book chapter verse = do
   maps <- Array.find (\m -> m.book == book) verseMaps
-  case foldMapMaybe (applyFold chapters chapter verse) maps.folds of
+  -- Check remaps first (entire chapter relocations like Joel)
+  case foldMapMaybe (applyRemap chapters chapter verse) maps.remaps of
     Just mapped -> Just mapped
-    Nothing -> foldMapMaybe (applyOffset chapters chapter verse) maps.offsets
+    Nothing ->
+      -- Then check folds (overflow verses like Isaiah 8:23 → 9:1)
+      case foldMapMaybe (applyFold chapters chapter verse) maps.folds of
+        Just mapped -> Just mapped
+        -- Finally check offsets (verse shifts within same chapter)
+        Nothing -> foldMapMaybe (applyOffset chapters chapter verse) maps.offsets
 
 applyFold :: Array (Array String) -> Int -> Int -> ChapterFold -> Maybe VerseRef
 applyFold chapters chapter verse fold =
@@ -225,6 +242,18 @@ applyOffset chapters chapter verse mapping =
     else
       Just { chapter, verse: mappedVerse }
 
+applyRemap :: Array (Array String) -> Int -> Int -> ChapterRemap -> Maybe VerseRef
+applyRemap chapters chapter verse remap =
+  if chapter /= remap.fromChapter then
+    Nothing
+  else do
+    targetArr <- Array.index chapters (remap.toChapter - 1)
+    let mappedVerse = verse + remap.verseOffset
+    if mappedVerse < 1 || mappedVerse > Array.length targetArr then
+      Nothing
+    else
+      Just { chapter: remap.toChapter, verse: mappedVerse }
+
 foldMapMaybe :: forall a b. (a -> Maybe b) -> Array a -> Maybe b
 foldMapMaybe f arr =
   Array.findMap f arr
@@ -234,10 +263,25 @@ verseMaps =
   [ { book: "Malachias"
     , folds: [ { fromChapter: 3, toChapter: 4 } ]
     , offsets: []
+    , remaps: []
     }
   , { book: "Zechariah"
     , folds: []
     , offsets: [ { chapter: 2, offset: 4 } ]
+    , remaps: []
+    }
+  , { book: "Isaiah"
+    , folds: [ { fromChapter: 8, toChapter: 9 } ]
+    , offsets: []
+    , remaps: []
+    }
+  , { book: "Joel"
+    , folds: []
+    , offsets: []
+    , remaps:
+        [ { fromChapter: 3, toChapter: 2, verseOffset: 27 }  -- Vulgate 3:x → DRA 2:(x+27)
+        , { fromChapter: 4, toChapter: 3, verseOffset: 0 }   -- Vulgate 4:x → DRA 3:x
+        ]
     }
   ]
 
