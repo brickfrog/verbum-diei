@@ -1,0 +1,207 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c1c217c8c35527cce5e0e0bba609ca9a75f2a62292e41babadb4de6801058898",
+        "inputSha256": "5eb137a50d5d6e536122bc2eb02fe03c108fc0a4ce6afa5932fa737a2282c8ab",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c1995b469bc4516843816ca46c257a39298208d21adb6f5ab54b91dab1a66675",
+        "inputSha256": "a4d2cc9dc460c0adc60dde2142bbcfebe508cad2cb90ea1900044a1b69bf3ef6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "995130af5535061cf1d9f7555dac3ba5167085bf5fce80456084d5e38741ed63",
+        "inputSha256": "06acfdcdf181a5fd80c0deaa3aefd44a515193a24dd018580b9d139945de0d89",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-26T04:24:33.435Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Both passages turn on misrecognition: fear dresses up as discernment, and envy pretends to be piety. Timothy’s “stir up” reads as psychic hygiene—keep the inner gift from congealing into timidity; the “sound mind” is not mood but trained steadiness under pressure.\n\nMark’s charge of demon-power is the classic defense against being changed: if I name the liberator as contaminant, I can keep my world intact. The “everlasting sin” is the willful foreclosure of insight—calling light darkness until the organ of seeing atrophies.\n\nSemina Verbi: The Stoics’ prohairesis resembles sobriety as inner sovereignty; shame is treated as an external, to be refused. In the Bhagavad Gita, fearlessness and steadfastness (abhaya, sthitaprajna) echo the move from tremor to power-through-love. In Zen, to “mistake the Buddha for Mara” is a known pitfall; that pattern parallels the scribes’ reversal, though this is speculative. In Sufism, the nafs can slander the medicine as poison to preserve its rule; binding the “strong man” looks like disciplining the lower self rather than fighting an outer monster.",
+    "excursus": "Paul writes like a man tightening a leash. The tenderness—tears, grandmother, mother, “my beloved son”—is not soft; it’s a net. He praises Timothy’s “unfeigned” faith because he senses it can be feigned, can slip. “Stir up the grace” is the language of a dying commander trying to ignite a recruit who wants to go numb. “Not a spirit of fear” is not reassurance; it’s an accusation: your fear is showing, and it shames me. Even “power and love and sobriety” sound like disciplines forced onto a trembling body.\n\nMark gives the psychological scene behind that pressure: the crowd’s need to name the uncanny as filthy. The scribes cannot bear an undomesticated good; so they call it demonic to make it controllable. Jesus answers with logic, but the logic is a trapdoor into dread: there is a point where the self hardens, where interpretation becomes destiny. The “everlasting sin” is not a magical exception to mercy; it is the decision to keep calling liberation possession because you prefer your cages. When you label the healing impulse as unclean, you exile it from yourself, and there is nothing left that can forgive you because you have made forgiveness look like a threat.\n\nPut together, the texts show desire as warfare. Paul urges Timothy to bind his own strong man—his fear, his wish to disappear—and plunder what it has hoarded: a life he doesn’t quite want but can’t stop longing for. The Gospel warns that you can avoid that desire by diagnosing it as evil. That is the most unforgivable move: not a scandalous act, but a scorched-earth reading of your own hunger for God.",
+    "synthesis": "Grace is transmitted and must be activated into public witness, not guarded as private feeling. To call the Spirit’s work demonic is to sever the only source of forgiveness by deliberate misrecognition.",
+    "gospel": [
+      {
+        "text": "Jesus answers a juridical charge by laying down a logic of the case: internal division signals collapse, not conquest. He then shifts from logic to judgment—there is a kind of speech that does not merely insult but misidentifies God’s act as impurity, and that misrecognition is treated as self-incurred permanence.",
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage forges a chain of transmission: divine initiative to apostolic office, then to personal bond, then to public suffering. The emotional register (tears/joy) is not sentimental padding; it is the cost of continuity when the message moves from private memory into contested testimony.",
+        "lines": [
+          2,
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Apostleship framed as decree: will, then promise; authority is teleological.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Pure conscience” is ancestral service made explicit—continuity, not novelty.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith travels by bloodline before it travels by office; household precedes hierarchy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace is not static capital; it must be rekindled, and it arrives mediated—hands.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear is named as an alien spirit; virtues are presented as counter-spirits.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They explain away deliverance by relabeling the deliverer; accusation as reversal.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A question that functions as verdict: coherence is the test of spirits.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Exorcism recast as raid: the strong man is bound before the goods are taken.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A sin defined by its object, not its intensity; it locks the door from inside.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life which is in Christ Jesus:",
+        "To Timothy, my dearly beloved son. Grace, mercy and peace, from God the Father and from Christ Jesus our Lord.",
+        "I give thanks to God, whom I serve from my forefathers, with a pure conscience, that without ceasing I have a remembrance of thee in my prayers, night and day.",
+        "Desiring to see thee, being mindful of thy tears, that I may be filled with joy:",
+        "Calling to mind that faith which is in thee unfeigned, which also dwelt first in thy grandmother Lois and in thy mother Eunice, and I am certain that in thee also.",
+        "For which cause I admonish thee that thou stir up the grace of God which is in thee by the imposition of my hands.",
+        "For God hath not given us the spirit of fear: but of power and of love and of sobriety.",
+        "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but labour with the gospel, according to the power of God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Timothy 1:1-8",
+      "reference": "2 Timothy 1:1-8",
+      "heading": "A reading from the Letter to Timothy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the scribes who were come down from Jerusalem, said: He hath Beelzebub, and by the prince of devils he casteth out devils.",
+        "And after he had called them together, he said to them in parables: How can Satan cast out Satan?",
+        "And if a kingdom be divided against itself, that kingdom cannot stand.",
+        "And if a house be divided against itself, that house cannot stand.",
+        "And if Satan be risen up against himself, he is divided, and cannot stand, but hath an end.",
+        "No man can enter into the house of a strong man and rob him of his goods, unless he first bind the strong man, and then shall he plunder his house.",
+        "Amen I say to you that all sins shall be forgiven unto the sons of men, and the blasphemies wherewith they shall blaspheme:",
+        "But he that shall blaspheme against the Holy Ghost, shall never have forgiveness, but shall be guilty of an everlasting sin.",
+        "Because they said: He hath an unclean spirit."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 3:22-30",
+      "reference": "Mark 3:22-30",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saints Timothy and Titus, Bishops",
+        "key": "saintsTimothyAndTitusBishops"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/26.html",
+    "title": "Gospel and Word of the Day - 26 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-26"
+}
