@@ -179,25 +179,42 @@ parseReadingFromParagraph paragraph = do
   let
     heading = fromMaybe "" (Array.index lines 0)
     splitResult = splitBookCitation citationLine
-    citation = normalizeCitation splitResult.citation
     headingBook = extractBookFromHeading heading
-    book = case splitResult.book of
-      Just b -> normalizeBookName b
-      Nothing -> normalizeBookName headingBook
+    -- Extract base book name (without ordinal prefix like "1 " or "2 ")
+    headingBookBase = stripOrdinalPrefix headingBook
+    headingBookBaseLower = toLowerString headingBookBase
+    -- Check if citation starts with ordinal for an ordinal-heading book
+    -- e.g., heading = "Letter to Timothy", citation = "2, 1:1-8" -> "2 Timothy" + "1:1-8"
+    { book: resolvedBook, citation: resolvedCitation } =
+      case splitResult.book of
+        Just b ->
+          { book: normalizeBookName b
+          , citation: normalizeCitation splitResult.citation
+          }
+        Nothing ->
+          case extractCitationOrdinal splitResult.citation of
+            Just { ordinal, rest } | headingBookBaseLower `Array.elem` ordinalBooks ->
+              { book: ordinal <> " " <> normalizeBookName headingBookBase
+              , citation: normalizeCitation rest
+              }
+            _ ->
+              { book: normalizeBookName headingBook
+              , citation: normalizeCitation splitResult.citation
+              }
     kind =
-      if isGospelHeading heading || isGospelBook book then
+      if isGospelHeading heading || isGospelBook resolvedBook then
         "gospel"
       else
         "first"
-    bibleApiReference = trim (book <> " " <> citation)
-  if book == "" || citation == "" then
+    bibleApiReference = trim (resolvedBook <> " " <> resolvedCitation)
+  if resolvedBook == "" || resolvedCitation == "" then
     Nothing
   else
     Just
       { kind
       , heading
-      , book
-      , citation
+      , book: resolvedBook
+      , citation: resolvedCitation
       , bibleApiReference
       }
 
@@ -215,54 +232,121 @@ checkOrdinalBookPrefix tokens = do
   -- Check if second token (lowercased) is a known ordinal book name
   let
     secondLower = toLowerString second
-    ordinalBooks =
-      [ "john", "peter", "corinthians", "thessalonians", "timothy"
-      , "samuel", "kings", "chronicles", "maccabees"
-      ]
   guard (secondLower `Array.elem` ordinalBooks)
   pure 2
+
+-- | Check for "Timothy 2, 1:1-8" format (ordinal after book name)
+-- | Returns { ordinal, bookName } if matched
+checkOrdinalBookSuffix :: Array String -> Maybe { ordinal :: String, bookName :: String }
+checkOrdinalBookSuffix tokens = do
+  first <- Array.index tokens 0
+  second <- Array.index tokens 1
+  -- Check if first token is a known ordinal book name
+  let firstLower = toLowerString first
+  guard (firstLower `Array.elem` ordinalBooks)
+  -- Check if second token starts with a numeral 1-4 (may have comma/punctuation)
+  let secondClean = Array.takeWhile isDigitChar (CodeUnits.toCharArray second)
+  guard (not (Array.null secondClean))
+  let ordinalStr = CodeUnits.fromCharArray secondClean
+  guard (ordinalStr `Array.elem` [ "1", "2", "3", "4" ])
+  pure { ordinal: ordinalStr, bookName: first }
+
+ordinalBooks :: Array String
+ordinalBooks =
+  [ "john", "peter", "corinthians", "thessalonians", "timothy"
+  , "samuel", "kings", "chronicles", "maccabees"
+  ]
+
+-- | Strip ordinal prefix from book name: "1 Timothy" -> "Timothy", "2 John" -> "John"
+stripOrdinalPrefix :: String -> String
+stripOrdinalPrefix book =
+  let trimmed = trim book
+  in case CodeUnits.uncons trimmed of
+    Just { head: c, tail: rest } | isDigitChar c ->
+      -- Skip digit and any following space
+      trim rest
+    _ -> trimmed
+
+-- | Extract ordinal prefix from citation like "2, 1:1-8" -> { ordinal: "2", rest: "1:1-8" }
+-- | Handles formats: "2, 1:1-8", "2 1:1-8", "2,1:1-8"
+extractCitationOrdinal :: String -> Maybe { ordinal :: String, rest :: String }
+extractCitationOrdinal citation = do
+  let chars = CodeUnits.toCharArray (trim citation)
+  firstChar <- Array.index chars 0
+  guard (isDigitChar firstChar)
+  -- Extract leading digits
+  let digits = Array.takeWhile isDigitChar chars
+  let ordinal = CodeUnits.fromCharArray digits
+  guard (ordinal `Array.elem` [ "1", "2", "3", "4" ])
+  -- Check what comes after the ordinal
+  let afterDigits = Array.drop (Array.length digits) chars
+  afterChar <- Array.index afterDigits 0
+  -- Must be followed by comma or space (not colon, which would indicate chapter:verse)
+  guard (afterChar == ',' || afterChar == ' ')
+  -- Skip comma/space and any following whitespace
+  let rest = CodeUnits.fromCharArray afterDigits
+        # trim
+        # \s -> case CodeUnits.uncons s of
+            Just { head: c, tail: t } | c == ',' -> trim t
+            _ -> s
+  pure { ordinal, rest }
 
 splitBookCitation :: String -> SplitCitation
 splitBookCitation line =
   let
     tokens = splitWords line
-    -- Check if line starts with an ordinal book name (e.g., "1 John 3:16")
-    maybeOrdinalBook = checkOrdinalBookPrefix tokens
+    -- Check for suffix format first: "Timothy 2, 1:1-8" -> "2 Timothy" + "1:1-8"
+    maybeOrdinalSuffix = checkOrdinalBookSuffix tokens
   in
-    case maybeOrdinalBook of
-      Just bookLength ->
-        -- Found ordinal book prefix, split after it
+    case maybeOrdinalSuffix of
+      Just { ordinal, bookName } ->
+        -- Found suffix format, construct book name and extract citation
         let
-          bookTokens = Array.take bookLength tokens
-          citationTokens = Array.drop bookLength tokens
+          book = Just (ordinal <> " " <> bookName)
+          -- Drop first two tokens (bookName and ordinal), rest is citation
+          citationTokens = Array.drop 2 tokens
           citationTokens' =
             takeWhileArray (\t -> toLowerString t /= "or") citationTokens
-          book = Just (joinWith " " bookTokens)
           citation = joinWith " " citationTokens'
         in
           { book, citation }
       Nothing ->
-        -- No ordinal book prefix, use original logic
-        let
-          idx = Array.findIndex tokenHasDigitOrColon tokens
-        in
-          case idx of
-            Nothing ->
-              { book: Nothing, citation: "" }
-            Just i ->
-              let
-                bookTokens = Array.take i tokens
-                citationTokens = Array.drop i tokens
-                citationTokens' =
-                  takeWhileArray (\t -> toLowerString t /= "or") citationTokens
-                book =
-                  if Array.null bookTokens then
-                    Nothing
-                  else
-                    Just (joinWith " " bookTokens)
-                citation = joinWith " " citationTokens'
-              in
-                { book, citation }
+        -- Check if line starts with an ordinal book name (e.g., "1 John 3:16")
+        let maybeOrdinalBook = checkOrdinalBookPrefix tokens
+        in case maybeOrdinalBook of
+          Just bookLength ->
+            -- Found ordinal book prefix, split after it
+            let
+              bookTokens = Array.take bookLength tokens
+              citationTokens = Array.drop bookLength tokens
+              citationTokens' =
+                takeWhileArray (\t -> toLowerString t /= "or") citationTokens
+              book = Just (joinWith " " bookTokens)
+              citation = joinWith " " citationTokens'
+            in
+              { book, citation }
+          Nothing ->
+            -- No ordinal book prefix, use original logic
+            let
+              idx = Array.findIndex tokenHasDigitOrColon tokens
+            in
+              case idx of
+                Nothing ->
+                  { book: Nothing, citation: "" }
+                Just i ->
+                  let
+                    bookTokens = Array.take i tokens
+                    citationTokens = Array.drop i tokens
+                    citationTokens' =
+                      takeWhileArray (\t -> toLowerString t /= "or") citationTokens
+                    book =
+                      if Array.null bookTokens then
+                        Nothing
+                      else
+                        Just (joinWith " " bookTokens)
+                    citation = joinWith " " citationTokens'
+                  in
+                    { book, citation }
 
 extractParagraphs :: String -> Array String
 extractParagraphs html =

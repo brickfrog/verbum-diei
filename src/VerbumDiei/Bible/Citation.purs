@@ -223,7 +223,18 @@ parseInt cursor =
        Left "Expected number"
      else case Int.fromString (fromCharArray parsed.digits) of
        Nothing -> Left "Invalid number"
-       Just n -> Right { value: n, cursor: parsed.cursor }
+       Just n -> Right { value: n, cursor: skipVerseSuffix parsed.cursor }
+
+-- | Skip verse suffix letters like "a", "b", "c" after verse numbers (e.g., "12b" -> skip the "b")
+skipVerseSuffix :: Cursor -> Cursor
+skipVerseSuffix cursor =
+  case peek cursor of
+    Just c | isVerseSuffixChar c -> advance cursor
+    _ -> cursor
+
+isVerseSuffixChar :: Char -> Boolean
+isVerseSuffixChar c =
+  c == 'a' || c == 'b' || c == 'c' || c == 'd'
 
 takeDigits :: Cursor -> { digits :: Array Char, cursor :: Cursor }
 takeDigits cursor =
