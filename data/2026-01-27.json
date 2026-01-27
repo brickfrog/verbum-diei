@@ -1,0 +1,185 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2defcc298e1e125cf0d5ec079f75fb4a6676152549846eea30e9461bbeb26caa",
+        "inputSha256": "c42120386aa58aff1f5e332e67540a2864ac6af1892fb7c9bf7d77453ecdb48e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f9864a152a78d027ddab356686aadbcf73ac344c9f51295b9918000b943f12b6",
+        "inputSha256": "ab4bd84a6361b82096bcd4d512c2a619487c17a95508502b0f06f5cb8b342e98",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d6c6a2229fb82459b5e9f4380ca87020dcb366d813a11f112ed328a1a0c6b5ec",
+        "inputSha256": "62b5b6d7efa8f124795e0ccb68a8a5aad3d245a5b15dd1f94260c5fe6cebed40",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-27T01:54:49.322Z"
+  },
+  "commentary": {
+    "seminaVerbi": "David’s dance before the ark reads like sanctioned ecstasy: the king drops status, takes on a ritual body, and lets reverence move through muscle. That resembles the whirling of Mevlevi Sufis, where the self is decentered into praise, and the bhakti traditions in Hinduism where devotion is proved by an unembarrassed body. Speculation: the six-step sacrifice functions like a psychological metronome, breaking ordinary time so the crowd can cross into a shared, heightened state.\n\nThe bread-and-meat distribution turns holiness outward into calories; communion becomes public welfare. That parallels the Sikh langar, where equality is enacted by feeding everyone, and the Greek idea of xenia transposed into liturgy: the sacred is verified by hospitality. \n\nMark’s redefinition of kinship is a hard pivot from blood to practice, like Stoic cosmopolitanism’s claim that virtue makes a truer city than ancestry, and like the Buddhist sangha as family by vow rather than genealogy. Speculation: it also names an interior repair—belonging earned by alignment, not by accident of birth, which relieves the anxious pressure of clan identity.",
+    "excursus": "David doesn’t bring the ark home; he stages its return as a managed crisis. Six paces, then blood. He keeps cutting into living flesh to prove the holy thing won’t cut into him. The joy is real, but it’s the joy of a man flirting with danger under the cover of music. The linen ephod is not priestly humility so much as erotic exposure: a king stripping down in public to show that power can kneel, can sweat, can look possessed, and still remain power. Then the feast: bread, meat, oil. A payout. He buys consensus with calories, turning terror into a picnic so everyone can go home believing the God he imported is safe.\n\nMark sharpens the knife. Jesus refuses the oldest claim on him: family. Not because he hates them, but because he won’t be domesticated. The circle around him replaces the household; desire reorganizes kinship. “Mother” becomes a role earned by obedience, not a bond given by blood. It’s a colder world: belonging is conditional, and the price of intimacy is submission to a will that may pull you away from every familiar door calling your name. David makes holiness portable; Jesus makes belonging unstable.",
+    "synthesis": "God’s presence founds a new social order: joy and sacrifice gather a people, and obedience to God—not blood—defines true kinship.",
+    "gospel": [
+      {
+        "text": "Mark stages two circles: the crowd seated around Jesus versus the message about those ‘without.’ Authority is reallocated from household claims to a community constituted by attention and response to his word.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative drives toward installation: the Ark is relocated, enthroned, and enclosed within a tented polity. Sound and sacrifice are not ornament but the mechanism by which divine presence is politically domiciled without being domesticated.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The blessing is juridical speech: the king acts as public liturgist, invoking the divine title that stabilizes the crowd as a people rather than a mob.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Blessing observed at a distance becomes policy: David moves the Ark once it is proven safe.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Six paces: worship measured in steps; blood marks the road before the throne advances.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "King un-kings himself—linen instead of regalia; strength spent in liturgy, not war.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The holy procession ends in rations: covenant joy becomes bread in ordinary houses.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kin stand outside; proximity is reversed—blood at the margin, listeners at the center.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A question as blade: family is cut free from biology.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Obedience manufactures relatives; the will of God is the new genealogy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it was told king David, that the Lord had blessed Obededom, and all that he had, because of the ark of God. So David went, and brought away the ark of God out of the house of Obededom into the city of David with joy. And there were with David seven choirs, and calves for victims. Choirs... Or companies of musicians.",
+        "And when they that carried the ark of the Lord had gone six paces, he sacrificed and ox and a ram:",
+        "And David danced with all his might before the Lord: and David was girded with a linen ephod.",
+        "And David and all the louse of Israel brought the ark of the covenant of the Lord with joyful shouting, and with sound of trumpet.",
+        "And they brought the ark of the Lord, and set it in its place in the midst of the tabernacle, which David had pitched for it: and David offered holocausts, and peace offerings before the Lord.",
+        "And when he had made an end of offering holocausts and peace offerings, he blessed the people in the name of the Lord of hosts.",
+        "And he distributed to all the multitude of Israel, both men and women, to every one, a cake of bread, and a piece of roasted beef, and fine flour fried with oil: and all the people departed every one to his own house."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Samuel 6:12-15,17-19",
+      "reference": "2 Samuel 6:12-15,17-19",
+      "heading": "A reading from the letter of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And his mother and his brethren came; and standing without, sent unto him, calling him.",
+        "And the multitude sat about him; and they say to him: Behold thy mother and thy brethren without seek for thee.",
+        "And answering them, he said: Who is my mother and my brethren?",
+        "And looking round about on them who sat about him, he saith: Behold my mother and my brethren.",
+        "For whosoever shall do the will of God, he is my brother, and my sister, and mother."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 3:31-35",
+      "reference": "Mark 3:31-35",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Angela Merici, Virgin",
+        "key": "saintAngelaMericiVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/27.html",
+    "title": "Gospel and Word of the Day - 27 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-27"
+}
