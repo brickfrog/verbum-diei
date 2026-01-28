@@ -1,0 +1,200 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8f3e6f53b30a1551eb3e2c32ab9d71f19a41d80491b9ab502fbdd1a05b67862d",
+        "inputSha256": "5227c9a8d8213435c8d36128531de27b8f97e798ba14c951891b51dbc9815cc1",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "63291ac392e1c50e296c3018367328050872aa6c2bdfc6edea5149733b350253",
+        "inputSha256": "4a315e7d5c622a6e8c77a0e2b9f7debe64f4a69c8e5c399935184ff037c72134",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e2eac9bffbf2bad2f0dbf10f5d8e77b773ae8990622e1697208e02ceaf5fcae6",
+        "inputSha256": "109cabc41e5d8742f2de22eed964ffa1b70c9d4b89db903f4ef6b3eb56b781e6",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-28T01:54:29.639Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The parable behaves like a diagnostic of attention. What looks like “soil” is really a portrait of how a psyche metabolizes meaning over time: distraction that never lets the message land, brittle enthusiasm that can’t survive heat, crowded desire that suffocates what it claims to value, and a rarer interior spaciousness that turns hearing into sustained practice. The yield isn’t moral scoreboard; it’s the variable productivity of an integrated self.\n\nSpeculation: Buddhism’s image of seeds ripening by conditions (karma as latent potential needing the right causes) sits close to this, with “thorns” resembling craving and “stony ground” resembling shallow concentration. Stoicism’s prohairesis—what you can actually assent to and live from—maps to the difference between a word merely heard and a word rooted. Sufism’s talk of the heart needing polishing so it can receive the Real parallels the move from surface reception to interior depth. Daoist wu-wei, as non-forcing, resembles the “good ground” as a receptive mode where growth happens without frantic self-manufacture.",
+    "excursus": "He teaches from a boat, offshore, a voice detached from the crowd’s touch. The distance matters. This is not intimacy; it’s exposure. The sea is the unconscious he won’t step into, and the people stand on the hard edge of land, wanting certainty, getting story.\n\nThe parable is not a lesson in agriculture but a portrait of a mind under siege. The “word” is an invasive thought. It lands, and immediately predators arrive, or the inner climate turns hostile, or the person’s own thicket of appetites strangles it. The point is not that listeners are lazy; it’s that reception is dangerous. To really take it in would reorganize a life, and the psyche resists reorganization with every defense it has.\n\nThen the brutal line: parables are used so outsiders won’t understand, so they won’t convert, so they won’t be forgiven. This is not mercy; it’s triage. Understanding is not offered as a right but rationed like anesthesia. Some people are kept unhealed because healing would cost too much, or because the healer refuses the responsibility of what forgiveness unleashes.\n\n“Good ground” isn’t moral superiority. It’s the rare person whose interior can be broken open without panicking, who can endure the scorched hour and the thorny long haul. Fruitfulness is not comfort but aftermath: desire redirected, dread metabolized, a life made strange enough to multiply.",
+    "synthesis": "The Word is sovereign seed: it produces fruit only where it is received with endurance, and where rival lords are refused.",
+    "gospel": [
+      {
+        "text": "The chapter splits into proclamation and controlled disclosure: public parable, private key. The parable is not chiefly a lesson in agriculture but a map of reception—word encountering rival powers, shallow selves, and crowded interiors. The ‘mystery’ is not additional information but authorized access to meaning; without it, the same sound remains opaque. Interpretation is itself an act of dominion: Jesus names the sower, the seed, and the opposing agencies, re-describing the listeners as environments under contest. The ending fixes the criterion: not contact with the word, nor initial affect, but persevering reception that becomes yield.",
+        "lines": [
+          2,
+          10,
+          11,
+          13,
+          14,
+          20
+        ]
+      }
+    ],
+    "reading": []
+  },
+  "marginalia": [
+    {
+      "text": "Teacher offshore; crowd stranded on land. Distance becomes a pulpit.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Imperative first: hearing is the gate; nothing begins without it.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Roadside seed: exposure is already loss; birds are the liturgy of theft.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Speed without depth: immediate green, immediate burn. Sun reveals the rootless.",
+      "lines": [
+        5,
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Thorns don’t kill by violence but by occupancy: space taken, breath stolen.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Good soil is not sterile; it multiplies. Measure is excess: 30/60/100.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ears are assumed; hearing is not. The command indicts the listener.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Satan is not metaphorical here: an agent who removes what was already ‘in the heart.’",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Tribulation functions as a sieve; joy is not proof, endurance is.",
+      "lines": [
+        17
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Three cords: care, wealth’s lie, desire’s sprawl. Fruitlessness is strangulation, not famine.",
+      "lines": [
+        19
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And again he began to teach by the sea side; and a great multitude was gathered together unto him, so that he went up into a ship and sat in the sea: and all the multitude was upon the land by the sea side.",
+        "And he taught them many things in parables, and said unto them in his doctrine:",
+        "Hear ye: Behold, the sower went out to sow.",
+        "And whilst he sowed, some fell by the way side, and the birds of the air came and ate it up.",
+        "And other some fell upon stony ground, where it had not much earth; and it shot up immediately, because it had no depth of earth.",
+        "And when the sun was risen, it was scorched; and because it had no root, it withered away.",
+        "And some fell among thorns; and the thorns grew up, and choked it, and it yielded no fruit.",
+        "And some fell upon good ground; and brought forth fruit that grew up, and increased and yielded, one thirty, another sixty, and another a hundred.",
+        "And he said: He that hath ears to hear, let him hear.",
+        "And when he was alone, the twelve that were with him asked him the parable.",
+        "And he said to them: To you it is given to know the mystery of the kingdom of God: but to them that are without, all things are done in parables:",
+        "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them. That seeing they may see, etc... in punishment of their wilfully shutting their eyes, (St. Matt. 13. 15,) God justly withdrew those lights and graces, which otherwise he would have given them, for their effectual conversion.",
+        "And he saith to them: Are you ignorant of this, parable? and how shall you know all parables?",
+        "He that soweth, soweth the word.",
+        "And these are they by the way side, where the word is sown, and as soon as they have heard, immediately Satan cometh and taketh away the word that was sown in their hearts.",
+        "And these likewise are they that are sown on the stony ground: who when they have heard the word, immediately receive it with joy.",
+        "And they have no root in themselves, but are only for a time: and then when tribulation and persecution ariseth for the word they are presently scandalized.",
+        "And others there are who are sown among thorns: these are they that hear the word,",
+        "And the cares of the world, and the deceitfulness of riches, and the lusts after other things entering in choke the word, and it is made fruitless.",
+        "And these are they who are sown upon the good ground, who hear the word, and receive it, and yield fruit, the one thirty, another sixty, and another a hundred."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 4:1-20",
+      "reference": "Mark 4:1-20",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Thomas Aquinas, Priest and Doctor",
+        "key": "saintThomasAquinasPriestAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/28.html",
+    "title": "Gospel and Word of the Day - 28 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-28"
+}
