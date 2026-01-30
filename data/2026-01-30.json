@@ -1,0 +1,257 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4b20f35533f76bc4d547f02592cad31e34795df59c1893d13a21da2c531d47bc",
+        "inputSha256": "a9dcdc52e306cb528649a902f8e410968b1d749f1cc05c505589766eb406e6a1",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "86af588544e7eb89d85bed67191739b9cd693ca03323dc24c562f34f9fa87572",
+        "inputSha256": "797696807d50b7a2fedc0121323a87dbdeab6ea2174ec6934f06f4dd57cdd9e9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4877a9770a6832537e942ed86bcf36be4b87f2fbc6989c41975417db2e0ccd7d",
+        "inputSha256": "d4a1ddc4ab01b070fe8ed80fccfd3de917087e252794e16762b999f5111f019a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-01-30T01:55:10.119Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: David’s rooftop gaze reads like Plato’s chariot gone slack, appetite yanking the reins while the rational part drafts memos to launder consequence; the tragedy is bureaucratic eros, desire that learns to write. Uriah becomes the Stoic exemplar of prohairesis, a will that refuses the king’s incentives and intoxication, so the ruler escalates from seduction to scapegoating, a Girardian pivot where order is preserved by sacrificing the innocent.\n\nSpeculation: Mark’s seed that grows “he knoweth not” echoes Daoist wu-wei, effective action that does not clutch at control, and the mustard seed’s smallness becoming shelter resembles the Buddhist image of karma’s tiny causes ripening into vast effects; both cut against David’s frantic management, where forced outcomes rot the soul. The harvest-sickle feels close to the Bhagavad Gita’s insistence that results arrive in their season, not by grasping, and that clinging to fruit turns agency into violence.",
+    "excursus": "David stays home. The war is outsourced, so the king’s body becomes idle, soft, available to appetite. Noon, the wrong hour to rise, and the roof turns into a private theater where he can look without being seen. Desire here isn’t romance; it’s surveillance that mistakes itself for right.\n\nBathsheba is introduced as someone else’s wife, and David’s first act is not seduction but requisition. The messenger is the real instrument: a chain of hands that lets him feel clean while he dirties everything. Even his language is hygienic—wash, purified—while he manufactures contamination.\n\nUriah is the scandal: the one man who won’t be managed. He refuses the king’s script of homecoming sex, refuses the bribe of food, refuses even drunkenness as an excuse. His loyalty is not piety; it is a stubborn integrity that makes David’s power look like impotence.\n\nThen the kingdom of God is described as something that grows while the sower sleeps, as if the real sovereignty is what happens without control. David can command armies, but he cannot command a conscience, cannot command a body to desire on schedule, cannot command consequences not to sprout. Seed goes into the ground and it rises on its own; so does guilt. The mustard tree is not a decorative miracle; it’s an invasive shelter where birds—witnesses, parasites, judgment—move in. David wanted one hidden act. He plants it, and it becomes a habitat.\n\nThe dread is that both kingdoms grow the same way: quietly, relentlessly, beyond explanation. The desire is to be the one who decides. The text answers by showing how decision curdles into compulsion, and how what is truly “of itself” will finally bring the sickle.",
+    "synthesis": "Sin is the will to control outcomes by force, even through lawful instruments. The kingdom of God advances by hidden growth under God’s timing and terminates in decisive harvest.",
+    "gospel": [
+      {
+        "text": "The kingdom is taught as comparison rather than program. The parabolic mode refuses direct possession of God’s reign, leaving hearers exposed to implication rather than instruction.",
+        "lines": [
+          1,
+          5,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Time governs the process: sowing, hidden growth, ripeness, harvest. The reign of God is an ordered becoming that cannot be coerced, yet it ends in judgment.",
+        "lines": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "David’s first move after the fact is administration: summon, inquire, stage-manage. Power treats reality as something to be edited, not repented of.",
+        "lines": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "The killing is delegated and militarized; responsibility is diffused through chain of command so that murder can masquerade as strategy.",
+        "lines": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Season for kings; the king stays home. Dereliction as prelude.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Noon-rise, rooftop gaze: leisure turns predatory; height becomes vantage for theft.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Verbs stack—sent/took/came/slept. Royal will compresses another’s person into sequence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Uriah at the gate: bodily proximity without possession; refusal as silent indictment.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Drink as policy. The king manufactures consent and still fails.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The victim carries his own death warrant. Bureaucracy makes murder portable.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Collateral casualties noted, then the named death: sin is never private; the ledger grows.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sower sleeps; the work continues without his comprehension. Kingdom refuses managerial control.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Of itself”: a quiet polemic against force. Growth has an interior law.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Immediately” the sickle: patience is not delay forever; culmination has a cut.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Smallest seed as chosen image: origin is contemptible, outcome is not.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Great branches for birds: shelter produced from insignificance; dominion as hospitality.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it came to pass at the return of the year, at the time when kings go forth to war, that David sent Joab and his servants with him, and all Israel, and they spoiled the children of Ammon, and besieged Rabba: but David remained in Jerusalem.",
+        "In the mean time it happened that David arose from his bed after noon, and walked upon the roof of the king's house: And he saw from the roof of his house a woman washing herself, over against him: and the woman was very beautiful.",
+        "And the king sent, and inquired who the woman was. And it was told him, that she was Bethsabee the daughter of Eliam, the wife of Urias the Hethite.",
+        "And David sent messengers, and took her, and she came in to him, and he slept with her: and presently she was purified from her uncleanness:",
+        "And she returned to her house having conceived. And she sent and told David, and said: I have conceived.",
+        "And David sent to Joab, saying: Send me Urias the Hethite. And Joab sent Urias to David.",
+        "And Urias came to David. And David asked how Joab did, and the people, and how the war was carried on.",
+        "And David said to Urias: Go into thy house, and wash thy feet. And Urias went out from the king's house, and there went out after him a mess of meat from the king.",
+        "But Urias slept before the gate of the king's house, with the other servants of his lord, and went not down to his own house.",
+        "And it was told David by some that said: Urias went not to his house. And David said to Urias: Didst thou not come from thy journey? why didst thou not go down to thy house?",
+        "And David called him to eat and to drink before him, and he made him drunk: and he went out in the evening, and slept on his couch with the servants of his lord, and went not down into his house.",
+        "And when the morning was come, David wrote a letter to Joab: and sent it by the hand of Urias,",
+        "Writing in the letter: Set ye Urias in the front of the battle, where the fight is strongest: and leave ye him, that he may be wounded and die.",
+        "Wherefore as Joab was besieging the city, he put Urias in the place where he knew the bravest men were.",
+        "And the men coming out of the city, fought against Joab, and there fell some of the people of the servants of David, and Urias the Hethite was killed also."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Samuel 11:1-4,5-10,13-17",
+      "reference": "2 Samuel 11:1-4,5-10,13-17",
+      "heading": "A reading from the Letter of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he said: So is the kingdom of God, as if a man should cast seed into the earth,",
+        "And should sleep, and rise, night and day, and the seed should spring, and grow up whilst he knoweth not.",
+        "For the earth of itself bringeth forth fruit, first the blade, then the ear, afterwards the full corn in the ear.",
+        "And when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.",
+        "And he said: To what shall we liken the kingdom of God? or to what parable shall we compare it?",
+        "It is as a grain of mustard seed: which when it is sown in the earth, is less than all the seeds that are in the earth:",
+        "And when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches, so that the birds of the air may dwell under the shadow thereof.",
+        "And with many such parables, he spoke to them the word, according as they were able to hear.",
+        "And without parable he did not speak unto them; but apart, he explained all things to his disciples."
+      ],
+      "lineRefs": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 4:26-34",
+      "reference": "Mark 4:26-34",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 3rd week of Ordinary Time",
+        "key": "fridayOfThe3rdWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/01/30.html",
+    "title": "Gospel and Word of the Day - 30 January 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/01/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-01-30"
+}
