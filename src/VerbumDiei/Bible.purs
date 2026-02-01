@@ -61,11 +61,20 @@ type ChapterRemap =
   , verseOffset :: Int  -- added to verse number (can be negative)
   }
 
+-- | Maps a specific verse to another verse in the same chapter
+-- | Used when DRA collapses two Nova Vulgata verses into one
+type VerseAlias =
+  { chapter :: Int
+  , fromVerse :: Int
+  , toVerse :: Int
+  }
+
 type VerseMap =
   { book :: String
   , folds :: Array ChapterFold
   , offsets :: Array ChapterOffset
   , remaps :: Array ChapterRemap
+  , aliases :: Array VerseAlias
   }
 
 dataRef :: Ref.Ref (Maybe BibleData)
@@ -210,8 +219,10 @@ mapVerseReference chapters book chapter verse = do
       -- Then check folds (overflow verses like Isaiah 8:23 → 9:1)
       case foldMapMaybe (applyFold chapters chapter verse) maps.folds of
         Just mapped -> Just mapped
-        -- Finally check offsets (verse shifts within same chapter)
-        Nothing -> foldMapMaybe (applyOffset chapters chapter verse) maps.offsets
+        Nothing ->
+          case foldMapMaybe (applyOffset chapters chapter verse) maps.offsets of
+            Just mapped -> Just mapped
+            Nothing -> foldMapMaybe (applyAlias chapter verse) maps.aliases
 
 applyFold :: Array (Array String) -> Int -> Int -> ChapterFold -> Maybe VerseRef
 applyFold chapters chapter verse fold =
@@ -254,6 +265,13 @@ applyRemap chapters chapter verse remap =
     else
       Just { chapter: remap.toChapter, verse: mappedVerse }
 
+applyAlias :: Int -> Int -> VerseAlias -> Maybe VerseRef
+applyAlias chapter verse alias =
+  if chapter == alias.chapter && verse == alias.fromVerse then
+    Just { chapter, verse: alias.toVerse }
+  else
+    Nothing
+
 foldMapMaybe :: forall a b. (a -> Maybe b) -> Array a -> Maybe b
 foldMapMaybe f arr =
   Array.findMap f arr
@@ -264,16 +282,19 @@ verseMaps =
     , folds: [ { fromChapter: 3, toChapter: 4 } ]
     , offsets: []
     , remaps: []
+    , aliases: []
     }
   , { book: "Zechariah"
     , folds: []
     , offsets: [ { chapter: 2, offset: 4 } ]
     , remaps: []
+    , aliases: []
     }
   , { book: "Isaiah"
     , folds: [ { fromChapter: 8, toChapter: 9 } ]
     , offsets: []
     , remaps: []
+    , aliases: []
     }
   , { book: "Joel"
     , folds: []
@@ -282,6 +303,13 @@ verseMaps =
         [ { fromChapter: 3, toChapter: 2, verseOffset: 27 }  -- Vulgate 3:x → DRA 2:(x+27)
         , { fromChapter: 4, toChapter: 3, verseOffset: 0 }   -- Vulgate 4:x → DRA 3:x
         ]
+    , aliases: []
+    }
+  , { book: "Mark"
+    , folds: []
+    , offsets: []
+    , remaps: []
+    , aliases: [ { chapter: 4, fromVerse: 41, toVerse: 40 } ]  -- DRA combines NV 40+41 into verse 40
     }
   ]
 
