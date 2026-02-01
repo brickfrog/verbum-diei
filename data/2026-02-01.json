@@ -1,0 +1,290 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b75114c2c59894e75f7a5cfd1a7351d669a2eacb39464c3042a333a84a88b3c5",
+        "inputSha256": "e0b088863c6a404612c07ed56d20f9539a0e1e941e4de7236761c773e8b0ee14",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "301c7cf066e1aa055922c5acf148d8cefeaacbd0481ed97e424cf97ef5c0dc64",
+        "inputSha256": "e89f77d0df52c95153ca082d239448778d935f348be3584fd0648b3307d0ea50",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "27246e52f81fc8eb92ab65033f6b54f3c95ecb029dedb4940835fa0b3a1f4a10",
+        "inputSha256": "c0dae87b610fa2ed6f7f4189542625fb13bbb872a7ca07d3ab81c40581b4f7d4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-01T12:49:22.060Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The meek inheriting the land has an uncanny twin in the Bhagavad Gita’s “established in yoga”: the person who renounces grasping doesn’t lose the world, he stops being lost to it. Speculation: both imagine possession as de-possessiveness, a geography made habitable by restraint.\n\nThe “poor and needy” remnant who lies down unafraid rhymes with Daoism’s low place: the valley that outlasts the mountain because it doesn’t compete. Speculation: the text’s political purge becomes an interior ecology where humility is not virtue-signaling but survival strategy.\n\n“Clean of heart” seeing God parallels Sufi talk of polishing the mirror of the heart until the Real is reflected without distortion. Speculation: purity here is less moral fastidiousness than freedom from self-deception, the end of the inner propaganda that makes princes into lions.\n\n“Blessed are those who mourn” recalls Buddhist dukkha not as pessimism but as the first honest perception; grief is clarity about attachment’s cost. Speculation: comfort is the psychological fruit of consenting to reality, not a prize for stoicism.\n\nThe “chosen lip” restoring speech evokes Vedic vak and also Confucian “rectification of names”: when language is healed, communal life re-coheres. Speculation: the apocalypse is partly linguistic, a detox from lying that makes violence seem normal.\n\nPersecution for justice’ sake resembles the Stoic figure who prefers exile to complicity; freedom is located where coercion can’t reach, in consent to the good. Speculation: the promised “reward” names integrity’s felt spaciousness, not a transaction.",
+    "excursus": "Zephaniah doesn’t promise rescue; he promises concealment. “Seek… if by any means you may be hid” is the spirituality of someone who knows the world is about to be burned down and wants a crack in the wall, not a crown. The meek are not heroes here. They’re survivors practicing disappearance.\n\nThe violence reads like jealousy with a map. Cities are named the way an anxious mind names threats, then fantasizes their erasure. Even Judah isn’t spared; the “redeemed city” is called a dove and then indicted for predatory leaders. The dread isn’t that enemies exist; it’s that the self is indistinguishable from them, princes as lions, judges as wolves, prophets as frauds. God is “in the midst” like an intrusive thought that won’t let you sleep.\n\nThen Matthew turns and sells the same strategy as happiness. The Beatitudes sanctify the positions that keep you safest when history turns feral: poverty of spirit, meekness, mourning, hunger. “They shall possess the land” is not conquest but inheritance after the strong have destroyed each other. Purity of heart is not innocence; it’s the refusal to lie when lying is the only currency.\n\nComfort arrives only after the nervous system accepts exile as home. The kingdom is for those who stop trying to win and start trying to endure without becoming beasts. The blessing is a way of naming dread as desire: to be hidden, to be harmless, to be unafraid.",
+    "synthesis": "God’s judgment strips pride and false worship to leave a remnant whose poverty, meekness, and purified speech constitute the true people of the kingdom. Beatitude names the citizens of that remnant and declares their inheritance against the world’s verdict.",
+    "gospel": [
+      {
+        "text": "The scene is staged as a new Sinai: ascent, sitting, and formal teaching; authority is enacted before any content is delivered.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The beatitudes describe a polity defined by inward virtues that have outward social consequences—mercy, purity, peace—marking the kingdom as an alternative public order.",
+        "lines": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The closing turns blessing into eschatological accounting: slander is interpreted through prophetic precedent, and reward is deferred upward, severing vindication from present institutions.",
+        "lines": [
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle maps geopolitical collapse into a reassignment of space: cities emptied, then repurposed for pasture; land is not neutral property but a theater of covenant reversal.",
+        "lines": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "Pride is prosecuted theologically: the judgment targets not only nations but their gods, collapsing the religious plurality into forced recognition of YHWH’s sovereignty.",
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Jerusalem is indicted as “redeemed” yet undisciplined; the text pits divine proximity against civic corruption, making nearness to God a liability when unaccompanied by obedience.",
+        "lines": [
+          14,
+          18,
+          20
+        ]
+      },
+      {
+        "text": "Restoration is framed as diaspora regathered and shame removed, but only after an internal purge; the remnant’s moral speech and security are the stated ends of history.",
+        "lines": [
+          23,
+          24,
+          26
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Seek” stacked thrice: urgency without method; hiding is offered as mercy, not cowardice.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The imperial soliloquy—“I am”—is treated as blasphemy; ontology becomes propaganda.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Predators in civic robes: lions and wolves as a theory of government.",
+      "lines": [
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Resurrection” appears as courtroom language; rising is for judgment, not sentiment.",
+      "lines": [
+        21
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A “chosen lip”: purification at the level of speech, as if liturgy repairs anthropology.",
+      "lines": [
+        22
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God “leaves” the poor: poverty as remainder after subtraction of boasting.",
+      "lines": [
+        25
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Poverty relocated from purse to spirit; the kingdom is granted where claim is absent.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Meekness inherits “land”: possession by non-assertion, an inverted conquest.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hunger for justice is treated as appetite; righteousness is not an idea but a need.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Persecution becomes a beatitude: the world’s resistance is reclassified as proof.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Seek the Lord, all ye meek of the earth, you that have wrought his judgment: seek the just, seek the meek: if by any means you may be hid in the day of the Lord's indignation.",
+        "For Gaza shall be destroyed, and Ascalon shall be a desert, they shall cast out Azotus at noonday, and Accaron shall be rooted up.",
+        "Woe to you that inhabit the sea coast, O nation of reprobates: the word of the Lord upon you, O Chanaan, the land of the Philistines, and I will destroy thee, so that there shall not be an inhabitant.",
+        "And the sea coast shall be the resting place of shepherds, and folds for cattle:",
+        "And it shall be the portion of him that shall remain of the house of Juda, there they shall feed: in the houses of Ascalon they shall rest in the evening: because the Lord their God will visit them, and bring back their captivity.",
+        "I have heard the reproach of Moab, and the blasphemies of the children of Ammon, with which they reproached my people, and have magnified themselves upon their borders.",
+        "Therefore as I live, saith the Lord of hosts the God of Israel, Moab shall be as Sodom, and the children of Ammon as Gomorrha, the dryness of thorns, and heaps of salt, and a desert even for ever: the remnant of my people shall make a spoil of them, and the residue of my nation shall possess them.",
+        "This shall befall them for their pride: because they have blasphemed, and have been magnified against the people of the Lord of hosts.",
+        "The Lord shall be terrible upon them, and shall consume all the gods of the earth: and they shall adore him every man from his own place, all the islands of the Gentiles.",
+        "You Ethiopians, also shall be slain with my sword.",
+        "And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert. The beautiful city, viz... Ninive, which was destroyed soon after this, viz., in the sixteenth year of the reign of Josias.",
+        "And flocks shall lie down in the midst thereof, all the beasts of the nations: and the bittern and the urchin shall lodge in the threshold thereof: the voice of the singing bird in the window, the raven on the upper post, for I will consume her strength.",
+        "This is the glorious city that dwelt in security: that said in her heart: I am, and there is none beside me: how is she become a desert, a place for beasts to lie down in? every one that passeth by her shall hiss, and wag his hand.",
+        "Woe to the provoking and redeemed city, the dove.",
+        "She hath not hearkened to the voice, neither hath she received discipline: she hath not trusted in the Lord, she drew not near to her God.",
+        "Her princes are in the midst of her as roaring lions: her judges are evening wolves, they left nothing for the morning.",
+        "Her prophets are senseless, men without faith: her priests have polluted the sanctuary, they have acted unjustly against the law.",
+        "The just Lord is in the midst thereof, he will not do iniquity: in the morning, in the morning he will bring his judgment to light, and it shall not be hid: but the wicked man hath not known shame.",
+        "I have destroyed the nations, and their towers are beaten down: I have made their ways desert, so that there is none that passeth by: their cities are desolate, there is not a man remaining, nor any inhabitant.",
+        "I said: Surely thou wilt fear me, thou wilt receive correction: and her dwelling shall not perish, for all things wherein I have visited her: but they rose early, and corrupted all their thoughts.",
+        "Wherefore expect me, saith the Lord, in the day of my resurrection that is to come, for my judgment is to assemble the Gentiles, and to gather the kingdoms: and to pour upon them my indignation, all my fierce anger: for with the fire of my jealousy shall all the earth be devoured.",
+        "Because then I will restore to the people a chosen lip, that all may call upon the name of the Lord, and may serve him with one shoulder.",
+        "From beyond the rivers of Ethiopia, shall my suppliants, the children of my dispersed people, bring me an offering.",
+        "In that day thou shalt not be ashamed for all thy doings, wherein thou hast transgressed against me for then I will take away out of the midst of thee thy proud boasters, and thou shalt no more be lifted up because of my holy mountain.",
+        "And I will leave in the midst of thee a poor and needy people: and they shall hope in the name of the Lord.",
+        "The remnant of Israel shall not do iniquity, nor speak lies, nor shall a deceitful tongue be found in their mouth: for they shall feed, and shall lie down, and there shall be none to make them afraid."
+      ],
+      "lineRefs": [
+        "2:3",
+        "2:4",
+        "2:5",
+        "2:6",
+        "2:7",
+        "2:8",
+        "2:9",
+        "2:10",
+        "2:11",
+        "2:12",
+        "2:13",
+        "2:14",
+        "2:15",
+        "3:1",
+        "3:2",
+        "3:3",
+        "3:4",
+        "3:5",
+        "3:6",
+        "3:7",
+        "3:8",
+        "3:9",
+        "3:10",
+        "3:11",
+        "3:12",
+        "3:13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Zephaniah 2:3; 3:12-13",
+      "reference": "Zephaniah 2:3; 3:12-13",
+      "heading": "A reading from the Book of Zephaniah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him.",
+        "And opening his mouth he taught them, saying:",
+        "Blessed are the poor in spirit: for theirs is the kingdom of heaven. The poor in spirit... That is, the humble; and they whose spirit is not set upon riches.",
+        "Blessed are the meek: for they shall possess the land.",
+        "Blessed are they that mourn: for they shall be comforted.",
+        "Blessed are they that hunger and thirst after justice: for they shall have their fill.",
+        "Blessed are the merciful: for they shall obtain mercy.",
+        "Blessed are the clean of heart: they shall see God.",
+        "Blessed are the peacemakers: for they shall be called the children of God.",
+        "Blessed are they that suffer persecution for justice' sake: for theirs is the kingdom of heaven.",
+        "Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake:",
+        "Be glad and rejoice for your reward is very great in heaven. For so they persecuted the prophets that were before you."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:1-12",
+      "reference": "Matthew 5:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "4th Sunday of Ordinary Time",
+        "key": "4thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/01.html",
+    "title": "Gospel and Word of the Day - 01 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-01"
+}
