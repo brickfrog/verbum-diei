@@ -1,0 +1,321 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3ec1ea4ee3b7a843192e7387e6b4a8976a310447a14604a3fefb3f20333866ca",
+        "inputSha256": "78b2ba9c36df24193013074af7ab6aee236714de6131e84a5aa623152a9cc37a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b2fe29c94b2a4c60157d3723fc0b52572efa728a029476ce03dd060c669fa776",
+        "inputSha256": "44572a9d97816975cb7ac2ff85852e3988b9be8b3162e76a195024006df26292",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "696d8edede1fa7389413ae1788709d1ac99b972939cc7040071f0ab9e8ba908f",
+        "inputSha256": "7d7483ea4f6c7e4a88ea9e528a22086a7aba13ef0e942953b7fe20ac89aecbd9",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-03T01:55:36.026Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Absalom hung in the oak reads like the body caught by what it tried to outrun: the son suspended between earth and heaven, neither reconciled nor fully gone. It resembles the Norse Yggdrasil image in reverse—Odin hangs to gain wisdom, Absalom hangs as the cost of pride—same tree-as-axis motif, opposite psychic direction. Speculation: the oak becomes the externalized superego, stopping flight by making the head pay.\n\nDavid’s grief that sabotages victory echoes the Mahabharata’s aftermath, where triumph curdles into dread and kin-loss, and the king’s private lament unmans the public narrative. The sorrow is not moral instruction but attachment speaking louder than statecraft: the parent chooses the beloved over the story of righteousness.\n\nThe hemorrhaging woman’s touch fits the Greek notion of miasma and katharsis but flips it: impurity does not contaminate the holy; holiness discharges into the impure. That resembles certain Tantric currents where the forbidden contact becomes the channel of transformation; speculation: the “virtue” that leaves him functions like shakti, a transmissible charge.\n\nJairus’s house is a small Orphic descent: the crowd wails like chorus, the healer enters with a few witnesses, speaks a secret word, and draws the girl back across the threshold. “Not dead but sleeping” matches the Upanishadic play with waking and dream as adjacent states; the miracle reads as a reclassification of reality by authority.\n\nThe secrecy afterward—feed her, say nothing—feels Zen: awakening is ordinary, eat your rice, don’t turn it into spectacle. The psyche is protected from the crowd’s hunger for proof, as if the most fragile resurrected thing is not the body but the family’s capacity to live without turning trauma into theater.",
+    "excursus": "Absalom dies the way a beautiful lie dies: suspended. His hair, his pride, his performed innocence, catches in the oak and leaves him hanging between heaven and earth, a son refusing gravity, a rebel refusing adulthood. Joab’s lances are not cruelty but clarity, the brutal insistence that the drama end. The real scandal is David: he prefers the child he lost to the kingdom he kept. He turns victory into grief because grief is the only place his love can stay pure; living sons demand judgment, dead sons demand only longing.\n\nMark tightens the same knot. Jesus is not a calm healer strolling through need; he is drained by touch, hunted by desire in a crowd that wants pieces of him. The bleeding woman steals health like contraband, then collapses into confession because being cured is not the same as being seen. Jairus’s daughter dies in the delay; the miracle arrives late on purpose, as if to teach the father that faith is not a tool but a surrender of timetable.\n\nBoth scenes circle the same dread: love that cannot protect. David would trade himself and still cannot save Absalom from his own theater. Jairus cannot buy time with status. The only life that returns is the one that submits to a hand and a voice, and even then Jesus demands secrecy, as if resurrection is too intimate, too erotic in its power, to become public proof. Eating at the end is the quiet insult to death: not triumph, just appetite restored.",
+    "synthesis": "Human rule is exposed when love cannot govern itself, turning victory into disorder. Christ’s power, unspent by compassion, heals impurity and wakes the dead by command.",
+    "gospel": [
+      {
+        "text": "The passage is structured as an interruption: urgent mission to a dying child is delayed by an uninvited claimant, and the delay becomes the occasion for the worst news. Jesus refuses the clock imposed by catastrophe, issuing a command that treats belief as action rather than sentiment.",
+        "lines": [
+          1,
+          4,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "A narrowing of witnesses accompanies a widening of authority: fewer see, more is done. The scene moves from public tumult to a closed chamber where a word in an alien tongue effects what crowds cannot imagine, demonstrating dominion over death without negotiation or display.",
+        "lines": [
+          17,
+          20,
+          21,
+          22
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Joab’s act forces an ending the king never authorized, and the army’s success becomes politically unusable once David’s mourning is reported. The narrative shows sovereignty undermined not by defeat but by disordered attachment: the ruler’s interior life converts a military resolution into civic shame.",
+        "lines": [
+          3,
+          10,
+          12
+        ]
+      },
+      {
+        "text": "The messenger frames events as divine judgment for the king, yet David interrogates that frame with a single concrete concern. The text pits providential rhetoric against the irreducible particular—one son—revealing how personal bonds can nullify official theology in practice.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The mule escapes; the rider is judged. Motion continues; pride is suspended.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hanging “between heaven and earth”: a parody of enthronement, a counterfeit mediation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "One witness is enough; the report recruits violence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three lances: excess as certainty. Joab does not wait for death; he manufactures it.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The king sits between gates: liminal rule, waiting for news like a beggar.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Alone” becomes a criterion of truth. Solitude is treated as credibility.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question is not victory but “safe.” Paternal vocabulary overrules political reality.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Repetition of the name: grief as litany, not argument. Love refuses proportion.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Victory turns to mourning: the public pays for the king’s private wound.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority kneels. Rank collapses into petition.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Twelve years: time is not background; it is the weight of the affliction.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Medicine drains her purse and deepens the wound: expertise without salvation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Faith reduces to contact: no speech, no merit, only reach.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Virtue goes out of him: power is not hoarded; it can be spent.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She tells “all the truth”: healing demands exposure, not secrecy.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Not dead, but sleepeth”: a redefinition that provokes ridicule and then obedience.",
+      "lines": [
+        19
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He puts them all out: noise is exiled so the act can occur.",
+      "lines": [
+        20
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Secrecy and supper: miracle is veiled, life is fed.",
+      "lines": [
+        23
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it happened that Absalom met the servants of David, riding on a mule: and as the mule went under a thick and large oak, his head stuck in the oak: and while he hung between the heaven and the earth, the mule on which he rode passed on.",
+        "And one saw this and told Joab, saying: I saw Absalom hanging upon an oak.",
+        "And Joab said: Not as thou wilt, but I will set upon him in thy sight. So he took three lances in his hand, and thrust them into the heart of Absalom: and whilst he yet panted for life, sticking on the oak,",
+        "And David sat between the two gates: and the watchman that was on the top of the gate upon the wall, lifting up his eyes, saw a man running alone.",
+        "And crying out he told the king: and the king said: If he be alone, there are good tidings in his mouth. And as he was coming apace, and drawing nearer,",
+        "And the king said to him: Pass, and stand here.",
+        "And when he had passed, and stood still, Chusai appeared and coming up he said: I bring good tidings, my lord, the king, for the Lord hath judged for thee this day from the hand of all that have risen up against thee.",
+        "And the king said to Chusai: Is the young man Absalom safe? And Chusai answering him, said: Let the enemies of my lord, the king, and all that rise against him unto evil, be as the young man is.",
+        "The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom. Would to God... David lamented the death of Absalom, because of the wretched state in which he died: and therefore would have been glad to have saved his life, even by dying for him. In which he was a figure of Christ weeping, praying and dying for his rebellious children, and even for them that crucified him.",
+        "And it was told Joab, that the king wept and mourned for his son:",
+        "And the victory that day was turned into mourning unto all the people: for the people heard say that day: The king grieveth for his son.",
+        "And the people shunned the going into the city that day as a people would do that hath turned their backs, and fled away from the battle."
+      ],
+      "lineRefs": [
+        "18:9",
+        "18:10",
+        "18:14",
+        "18:24",
+        "18:25",
+        "18:30",
+        "18:31",
+        "18:32",
+        "18:33",
+        "19:1",
+        "19:2",
+        "19:3"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Samuel 18:9-10,14,24-25,30–19:3",
+      "reference": "2 Samuel 18:9-10,14,24-25,30–19:3",
+      "heading": "A readin from the Second Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when Jesus had passed again in the ship over the strait, a great multitude assembled together unto him, and he was nigh unto the sea.",
+        "And there cometh one of the rulers of the synagogue named Jairus: and seeing him, falleth down at his feet.",
+        "And he besought him much, saying: My daughter is at the point of death, come, lay thy hand upon her, that she may be safe, and may live.",
+        "And he went with him, and a great multitude followed him, and they thronged him.",
+        "And a woman who was under an issue of blood twelve years,",
+        "And had suffered many things from many physicians; and had spent all that she had, and was nothing the better, but rather worse,",
+        "When she had heard of Jesus, came in the crowd behind him, and touched his garment.",
+        "For she said: If I shall touch but his garment, I shall be whole.",
+        "And forthwith the fountain of her blood was dried up, and she felt in her body that she was healed of the evil.",
+        "And immediately Jesus knowing in himself the virtue that had proceeded from him, turning to the multitude, said: Who hath touched my garments?",
+        "And his disciples said to him: Thou seest the multitude thronging thee, and sayest thou who hath touched me?",
+        "And he looked about to see her who had done this.",
+        "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.",
+        "And he said to her: Daughter, thy faith hath made thee whole: go in peace, and be thou whole of thy disease.",
+        "While he was yet speaking, some come from the ruler of the synagogue's house, saying: Thy daughter is dead: why dost thou trouble the master any further?",
+        "But Jesus having heard the word that was spoken, saith to the ruler of the synagogue: Fear not, only believe.",
+        "And he admitted not any man to follow him, but Peter, and James, and John the brother of James.",
+        "And they cone to the house of the ruler of the synagogue; and he seeth a tumult, and people weeping and wailing much.",
+        "And going in, he saith to them Why make you this ado, and weep? the damsel is not dead, but sleepeth.",
+        "And they laughed him to scorn. But he having put them all out, taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.",
+        "And taking the damsel by the hand, he saith to her: Talitha cumi, which is, being interpreted: Damsel (I say to thee) arise.",
+        "And immediately the damsel rose up, and walked: and she was twelve years old: and they were astonished with a great astonishment.",
+        "And he charged them strictly that no man should know it: and commanded that something should be given her to eat."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 5:21-43",
+      "reference": "Mark 5:21-43",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Blase, Bishop Martyr and Saint Ansgar, Bishop",
+        "key": "saintBlaseBishopAndMartyrSaintAnsgarBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/03.html",
+    "title": "Gospel and Word of the Day - 03 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-03"
+}
