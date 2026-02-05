@@ -1,0 +1,186 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "105d087313192663ab97d653b5bfeb452390aeb185a40dc7d88643d20ca0559f",
+        "inputSha256": "a7963df8c1cd0c9812030413dc6ccac0fa16462f15bc24dfc87e05df8891d266",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2bac909c9d998e5c17a614c2e88ff46b40cfdf2eddb80f791f9cccc595f61168",
+        "inputSha256": "435445bf30fad8ec2ebbdfc9085c15ab82d871d55f396a1ee92982d3ae583975",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "26ba473a39a8923808bf7440db955fe2bf1a21912fdc0e886d8eaa8bb2039f54",
+        "inputSha256": "049c14dabf015c4a8f2c7fa1e7dbbf6209363125d214c44b3d1c0d7444f4e1fe",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-05T01:55:13.470Z"
+  },
+  "commentary": {
+    "seminaVerbi": "David’s bedside imperative to “show thyself a man” reads like a psychological transfer of identity: the dying father compresses his scattered life into a code and presses it into the son as a spine. That resembles Confucian xiao, where continuity is moral rather than merely genetic; it also brushes the Roman mos maiorum, the ancestral pattern that steadies a regime. Speculation: the promise of an enduring throne functions like a family myth that stabilizes anxiety by turning obedience into fate.\n\nThe paired sending with near-nothing echoes the Buddhist bhikkhu’s alms-life and Jain aparigraha, poverty as a technique for unclenching the self and making attention mobile. It also has Sufi safar undertones, the road as purification by dependency. Speculation: the rule to stay put in one house is a containment practice against restless narcissism, and the dust-shaking resembles Stoic indifference and Hindu karma-yoga detachment—do the work, release the outcome.\n\nThe oil and expulsions parallel Indigenous and shamanic healing logics where illness is relational contamination and cure is enacted authority; the “unclean spirit” is a psychology of intrusion given a face so it can be addressed. Speculation: two-by-two is not only practical but anti-delusional, a built-in witness to keep power from curdling into private omnipotence.",
+    "excursus": "David’s bedside speech is not piety; it’s a last act of control. “Be a man” means become my continuator, carry my unfinished hunger for permanence. The law is invoked like a contract signed in blood: obey so the throne stays in the family. Even death is managed as succession planning. The narrator’s calm—he slept, he was buried—sounds like anesthesia over dread. A life of grasping ends in a sentence, and the only thing left that can still move is the machinery of inheritance.\n\nMark answers with the opposite inheritance: not a throne but a dangerous homelessness. The twelve are sent out stripped, two-by-two not for romance but for surveillance and mutual containment, so no one breaks ranks. Poverty here is a tactic: if you carry nothing, you cannot be accused of taking; if you depend on a house, you become a test of that house’s soul. The power over unclean spirits is the flip side of this vulnerability—authority that comes only when you’ve surrendered the usual defenses.\n\nBoth passages throb with the same desire: to outlast the body. David tries to do it by dynastic metal, Jesus by contagious emptiness. One tightens the kingdom; the other makes a kingdom that can be refused. The dust-shaking is not holy indifference but a wound turned outward: if you won’t hold us, we will leave you with your own dirt as evidence. In both, blessing feels like pressure, and mission feels like exile with a staff.",
+    "synthesis": "God sustains both throne and mission by conditioned fidelity: covenant obedience governs succession, and apostolic poverty governs proclamation.",
+    "gospel": [
+      {
+        "text": "The mission strategy assumes transient lodging and a single message: presence is temporary, speech is decisive. The house functions as a node of reception; repentance is the only program, while outcomes (welcome or rejection) are treated as judgments already in motion.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is a transfer of rule under the pressure of death: David’s final act is not conquest but instruction, and the narrative immediately seals the succession—burial, reign-length, enthronement—as if to show that political stability is liturgical before it is military.",
+        "lines": [
+          1,
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Way of all flesh”: kingship reduced to biology; courage is ordered against dissolution.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Obedience is rendered as a catalogue—ceremonies, precepts, judgments, testimonies—law as total environment, not advice.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dynasty is conditional; the throne hangs on “truth” and an undivided heart, not blood.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority is delegated, not discovered; “two and two” makes power accountable and public.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The itinerary is stripped to a staff: motion without provision, dependence without bargaining.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Dust becomes evidence; refusal is not argued with but recorded.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Oil and exorcism: the kingdom arrives as bodily repair and spiritual eviction, not theory.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the days of David drew nigh that he should die, and he charged his son Solomon, saying:",
+        "I am going the way of all flesh: take thou courage and shew thyself a man.",
+        "And keep the charge of the Lord thy God, to walk in his ways, and observe his ceremonies, and his precepts, and judgments, and testimonies, as it is written in the law of Moses: that thou mayst understand all thou dost, and whithersoever thou shalt turn thyself:",
+        "That the Lord may confirm his words, which he hath spoken of me, saying: If thy children shall take heed to their ways, and shall walk before me in truth, with all their heart, and with all their soul, there shall not be taken away from thee a man on the throne of Israel.",
+        "So David slept with his fathers, and was buried in the city of David.",
+        "And the days that David reigned in Israel, were forty years: in Hebron he reigned seven years, in Jerusalem thirty-three.",
+        "And Solomon sat upon the throne of his father David, and his kingdom was strengthened exceedingly."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 2:1-4,10-12",
+      "reference": "1 Kings 2:1-4,10-12",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he called the twelve; and began to send them two and two, and gave them power over unclean spirits.",
+        "And he commanded them that they should take nothing for the way, but a staff only; no scrip, no bread, nor money in their purse,",
+        "But to be shod with sandals, and that they should not put on two coats.",
+        "And he said to them: Wheresoever you shall enter into an house, there abide till you depart from that place.",
+        "And whosoever shall not receive you, nor hear you; going forth from thence, shake off the dust from your feet for a testimony to them.",
+        "And going forth they preached men should do penance:",
+        "And they cast out many devils, and anointed with oil many that were sick, and healed them."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:7-13",
+      "reference": "Mark 6:7-13",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Agatha, Virgin and Martyr",
+        "key": "saintAgathaVirginAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/05.html",
+    "title": "Gospel and Word of the Day - 05 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-05"
+}
