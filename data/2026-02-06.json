@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "33e3cca9b69c90386521c5c4c37dc5d7bd3435eb733b2c3971294ff3de2163b2",
+        "inputSha256": "8fd9dc9e7c2cd5f29a513d73302c7bc3b626c299ff4d5fc2a1bb7419f0dd1b1d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "95e57f032abac358702d57c32859f04fe843782f5629b8ca66a86cd298fe0b29",
+        "inputSha256": "4801c50ee057e8a459d28c97620ab83754e11a125f6a028d9774674ccb62f21f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "92c2be51218a8c47ccca1d12e049a8fb8e241a90ef00941b9d7812508902a737",
+        "inputSha256": "338e52c7fb185951f25fdd17eb99495e28e5da766d0c923ae3f8b7558eece8b7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-06T01:55:16.203Z"
+  },
+  "commentary": {
+    "seminaVerbi": "David’s lion-play and giant-killing reads like the Indo-European youth-hero pattern: Heracles throttling the Nemean beast, Bhima proving strength in the forest, Cú Chulainn entering legend through an asymmetrical feat. Speculation: the psyche keeps inventing this scene because adolescence needs a sanctioned eruption of violence that becomes protective power rather than predation.\n\nThe singers before the altar touch the Vedic and Sufi intuition that sound is not ornament but order: mantra as world-keeping, sama as heart-tuning. Speculation: praise is a technology for binding aggression to rhythm so the warrior doesn’t rot into a tyrant.\n\nHerod’s banquet is the Greek symposium turned poisonous: the ruler’s identity outsourced to the gaze of guests, the oath as social trap. It also parallels the Mahabharata’s dice hall, where public performance forces private catastrophe. Speculation: the head on a platter is the image of conscience severed and displayed as proof of belonging.\n\nJohn before power echoes the Cynic and Stoic moral witness—Diogenes unflinching before Alexander, Seneca’s doomed counsel—where truth is less argument than embodied refusal. Speculation: Herod “hearing willingly” is the addict’s flirtation with sobriety: drawn to the clean voice, unable to pay its price.",
+    "excursus": "Sirach polishes David into edible holiness: fat trimmed, enemies extirpated, music installed. The portrait is a fantasy of a clean man—violence laundered into praise, blood transmuted into melody. He “loves” the God who “made him,” but it reads like a bargain sealed in the body: strength in the right hand, a crown, a nation’s horn. Desire for innocence is satisfied by slaughter, then covered by song.\n\nMark drags that same mechanism into the banquet hall and refuses the laundering. Herod is not a villain with a plan; he is dread in a crown, aroused by a girl’s dance and trapped by his own mouth. He “hears willingly” because John’s purity becomes his stimulant, the thrill of being judged by someone he can keep chained. Herodias understands the psychology: you don’t defeat a conscience by argument, you serve it as meat.\n\nThe head on a dish is the anti-psalm. It is praise turned into spectacle, the prophet reduced to a prop that lets the powerful keep desiring without changing. David’s singers sweeten the altar; Herod’s party sweetens murder. The texts rhyme: what looks like devotion is often just the aesthetic management of guilt, and the body always pays.",
+    "synthesis": "God legitimates power only as obedience that turns outward into ordered worship, not as spectacle. Unrepented rule, trapped by oath and audience, becomes a factory for righteous blood.",
+    "gospel": [
+      {
+        "text": "Competing identifications expose a vacuum of truthful speech at court: rumor substitutes for confession, but Herod’s own formulation breaks through—he names the act and cannot unname it.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The narrative locates the state’s violence in domestic disorder: an unlawful marriage generates a political prisoner, and the palace becomes the site where private grievance recruits public force.",
+        "lines": [
+          4,
+          6
+        ]
+      },
+      {
+        "text": "Herod’s sadness is not repentance but reputational management; the conclusion belongs to the disciples’ burial act, a quiet counter-sovereignty that refuses the banquet’s definition of what matters.",
+        "lines": [
+          13,
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text frames kingship as public doxology tethered to national survival: glory language and military consolidation are fused, so that praise functions as political cement rather than private devotion.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "David’s interior posture is foregrounded as the interpretive key: gratitude and “whole heart” precede the statement of granted power, reversing the usual causal story that power produces piety.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Election rendered as butchery: the fat is removed; choice is a cutting.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Predation domesticated. The shepherd plays at dominion; nature is rewritten as liturgy.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sling is anti-armor: weakness weaponized against “boasting.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prayer is not décor; it is the transfer of agency into the hand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Violence ends in choir. Power funds melody; altar gets a soundscape.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Guilt invents resurrection; the dead return as accusation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Not lawful” cuts cleaner than any sword; law as incision into libido.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Birthday as tribunal. Banquet becomes machinery; power performs itself before it kills.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Half a kingdom promised to a dancer: sovereignty bartered in appetite and spectacle.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Immediately… with haste”: evil is efficient when it has a script.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The head circulates hand to hand like currency; shame seeks a vessel.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And as the fat taken away from the flesh, so was David chosen from among the children of Israel.",
+        "He played with lions as with lambs: and with bears he did in like manner as with the lambs of the flock, in his youth.",
+        "Did not he kill the giant, and take away reproach from his people?",
+        "In lifting up his hand, with the stone in the sling he beat down the boasting of Goliath:",
+        "For he called upon the Lord the Almighty, and he gave strength in his right hand, to take away the mighty warrior, and to set up the horn of his nation.",
+        "So in ten thousand did he glorify him, and praised him in the blessings of the Lord, in offering to him a crown of glory:",
+        "For he destroyed the enemies on every side, and extirpated the Philistines the adversaries unto this day: he broke their horn for ever.",
+        "In all his works he gave thanks to the holy one, and to the most High, with words of glory.",
+        "With his whole heart he praised the Lord, and loved God that made him: and he gave him power against his enemies:",
+        "And he set singers before the altar, and by their voices he made sweet melody."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Sirach 47:2-11",
+      "reference": "Sirach 47:2-11",
+      "heading": "A reading from the Book of Sirach",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And king Herod heard, (for his name was made manifest,) and he said: John the Baptist is risen again from dead, and therefore mighty works shew forth themselves in him.",
+        "And others said: It is Elias. But others said: It is a prophet, as one of the prophets.",
+        "Which Herod hearing, said: John whom I beheaded, he is risen again from the dead.",
+        "For Herod himself had sent and apprehended John, and bound him prison for the sake of Herodias the wife of Philip his brother, because he had married her.",
+        "For John said to Herod: It is not lawful for thee to have thy brother's wife.",
+        "Now Herodias laid snares for him: and was desirous to put him to death and could not.",
+        "For Herod feared John, knowing him to be a just and holy man: and kept him, and when he heard him, did many things: and he heard him willingly. And kept him... That is, from the designs of Herodias; and for fear of the people, would not put him to death, though she sought it; and through her daughter she effected her wish.",
+        "And when a convenient day was come, Herod made a supper for his birthday, for the princes, and tribunes, and chief men of Galilee.",
+        "And when the daughter of the same Herodias had come in, and had danced, and pleased Herod, and them that were at table with him, the king said to the damsel: Ask of me what thou wilt, and I will give it thee.",
+        "And he swore to her: Whatsoever thou shalt ask I will give thee, though it be the half of my kingdom.",
+        "Who when she was gone out, said to her mother, What shall I ask? But her mother said: The head of John the Baptist.",
+        "And when she was come in immediately with haste to the king, she asked, saying: I will that forthwith thou give me in a dish, the head of John the Baptist.",
+        "And the king was struck sad. Yet because of his oath, and because of them that were with him at table, he would not displease her:",
+        "But sending an executioner, he commanded that his head should be brought in a dish.",
+        "And he beheaded him in the prison, and brought his head in a dish: and gave to the damsel, and the damsel gave it her mother.",
+        "Which his disciples hearing came, and took his body, and laid it in a tomb."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:14-29",
+      "reference": "Mark 6:14-29",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Paul Miki and Companions, Martyrs",
+        "key": "saintPaulMikiAndCompanionsMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/06.html",
+    "title": "Gospel and Word of the Day - 06 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-06"
+}
