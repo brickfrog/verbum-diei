@@ -2,63 +2,74 @@
   "llm": {
     "calls": [
       {
-        "outputSha256": "33e3cca9b69c90386521c5c4c37dc5d7bd3435eb733b2c3971294ff3de2163b2",
+        "outputSha256": "d9f622a9531635c34c8ea77c5dbce133455b39dd342ead544af8c6e1d6dfa12d",
         "inputSha256": "8fd9dc9e7c2cd5f29a513d73302c7bc3b626c299ff4d5fc2a1bb7419f0dd1b1d",
         "model": "gpt-5.2",
         "name": "analysis"
       },
       {
-        "outputSha256": "95e57f032abac358702d57c32859f04fe843782f5629b8ca66a86cd298fe0b29",
+        "outputSha256": "abb2553108f06cb9f3e0d22649049915cabad3a89c4397b88884e8691df9c8b8",
         "inputSha256": "4801c50ee057e8a459d28c97620ab83754e11a125f6a028d9774674ccb62f21f",
         "model": "gpt-5.2",
         "name": "heterodox_reading"
       },
       {
-        "outputSha256": "92c2be51218a8c47ccca1d12e049a8fb8e241a90ef00941b9d7812508902a737",
+        "outputSha256": "532f84aca6f630e0832628a7053a3bf0ee043e22b45c4b2f4cde0616fed15120",
         "inputSha256": "338e52c7fb185951f25fdd17eb99495e28e5da766d0c923ae3f8b7558eece8b7",
         "model": "gpt-5.2",
         "name": "semina_verbi"
       }
     ],
-    "generatedAt": "2026-02-06T01:55:16.203Z"
+    "generatedAt": "2026-02-06T02:59:27.844Z"
   },
   "commentary": {
-    "seminaVerbi": "David’s lion-play and giant-killing reads like the Indo-European youth-hero pattern: Heracles throttling the Nemean beast, Bhima proving strength in the forest, Cú Chulainn entering legend through an asymmetrical feat. Speculation: the psyche keeps inventing this scene because adolescence needs a sanctioned eruption of violence that becomes protective power rather than predation.\n\nThe singers before the altar touch the Vedic and Sufi intuition that sound is not ornament but order: mantra as world-keeping, sama as heart-tuning. Speculation: praise is a technology for binding aggression to rhythm so the warrior doesn’t rot into a tyrant.\n\nHerod’s banquet is the Greek symposium turned poisonous: the ruler’s identity outsourced to the gaze of guests, the oath as social trap. It also parallels the Mahabharata’s dice hall, where public performance forces private catastrophe. Speculation: the head on a platter is the image of conscience severed and displayed as proof of belonging.\n\nJohn before power echoes the Cynic and Stoic moral witness—Diogenes unflinching before Alexander, Seneca’s doomed counsel—where truth is less argument than embodied refusal. Speculation: Herod “hearing willingly” is the addict’s flirtation with sobriety: drawn to the clean voice, unable to pay its price.",
-    "excursus": "Sirach polishes David into edible holiness: fat trimmed, enemies extirpated, music installed. The portrait is a fantasy of a clean man—violence laundered into praise, blood transmuted into melody. He “loves” the God who “made him,” but it reads like a bargain sealed in the body: strength in the right hand, a crown, a nation’s horn. Desire for innocence is satisfied by slaughter, then covered by song.\n\nMark drags that same mechanism into the banquet hall and refuses the laundering. Herod is not a villain with a plan; he is dread in a crown, aroused by a girl’s dance and trapped by his own mouth. He “hears willingly” because John’s purity becomes his stimulant, the thrill of being judged by someone he can keep chained. Herodias understands the psychology: you don’t defeat a conscience by argument, you serve it as meat.\n\nThe head on a dish is the anti-psalm. It is praise turned into spectacle, the prophet reduced to a prop that lets the powerful keep desiring without changing. David’s singers sweeten the altar; Herod’s party sweetens murder. The texts rhyme: what looks like devotion is often just the aesthetic management of guilt, and the body always pays.",
-    "synthesis": "God legitimates power only as obedience that turns outward into ordered worship, not as spectacle. Unrepented rule, trapped by oath and audience, becomes a factory for righteous blood.",
+    "seminaVerbi": "David’s lion-play and songcraft sit near the Hindu kshatriya ideal where ferocity is disciplined into dharma, and near the Bhagavad Gita’s pivot from violence to consecration: the hand that strikes is trained to offer. The singers before the altar resemble the Sufi use of sama and qawwali, where melody is not ornament but a technology of attention that tames the self into gratitude.\n\nHerod’s birthday feast is a courtroom of mirrors: desire, pride, and audience fuse into a single compulsion. That psychology matches the Greek tragic engine—Agamemnon bound by honor, Creon by public face—where a vow becomes a trapdoor and the crowd is the hidden god. Speculation: John’s severed head on a platter echoes the Buddhist warning about courtly intoxication, the “honey on the razor’s edge,” pleasure that demands blood to keep its spell.",
+    "excursus": "Sirach sells David as purified fat, a choice cut trimmed for sacred use: violence rendered hygienic by music. The text wants you to believe that killing can be transmuted into sweetness, that a sling-stone can become a hymn. Desire is recruited as liturgy; the warrior’s appetite is baptized into “thanks.” The dread is what’s omitted: the same hand that breaks horns can also take what it wants, and the singers are set before the altar like a curtain to soften the sound of conquest.\n\nMark shows the cost when violence can’t be aestheticized. Herod isn’t a monster; he’s a man split in two, aroused by a girl’s dance and haunted by a prophet’s voice. John functions as Herod’s conscience and as his fetish: he “hears him willingly,” keeps him close, like a dangerous purity he can’t stop touching. Herodias understands the psychology perfectly: you don’t defeat a ruler with argument, you corner him inside his own performance.\n\nThe banquet is the anti-psalm. An oath replaces prayer, applause replaces blessing, and the head arrives as the true centerpiece, served up to stabilize male status in front of male peers. The girl is the instrument, but the desire is Herod’s: he turns lust into law, then calls himself bound. John dies not for truth but for a room’s hunger for a clean ending. And the final dread is that everyone gets what they want: the prophet’s purity becomes an object, the king keeps his face, the mother gets her trophy, and the disciples are left with only a body—no music, no metaphor, just weight.",
+    "synthesis": "God grants rule and strength only as delegated instrumentality, and he judges rulers who convert conscience into theater. The just man’s word stands; the court’s oaths and feasts rot into murder.",
     "gospel": [
       {
-        "text": "Competing identifications expose a vacuum of truthful speech at court: rumor substitutes for confession, but Herod’s own formulation breaks through—he names the act and cannot unname it.",
+        "text": "The court’s competing identifications of Jesus function as a diagnostic: when authority lacks truth, it compensates with classifications—names standing in for repentance.",
         "lines": [
-          2,
-          3
+          2
         ]
       },
       {
-        "text": "The narrative locates the state’s violence in domestic disorder: an unlawful marriage generates a political prisoner, and the palace becomes the site where private grievance recruits public force.",
+        "text": "The imprisonment is explicitly tethered to an illicit union; the narrative locates the state’s violence in private disorder that has been enthroned.",
         "lines": [
           4,
           6
         ]
       },
       {
-        "text": "Herod’s sadness is not repentance but reputational management; the conclusion belongs to the disciples’ burial act, a quiet counter-sovereignty that refuses the banquet’s definition of what matters.",
+        "text": "A chain of mediated wills replaces judgment: pleasure prompts an oath, an oath yields to an audience, and the audience becomes the real sovereign; the prophet is killed so the ruler can remain unembarrassed.",
         "lines": [
-          13,
+          9,
+          11,
+          13
+        ]
+      },
+      {
+        "text": "The disciples’ burial is the sole act of sanity in the episode: a quiet refusal to let the regime’s spectacle be the last word.",
+        "lines": [
           16
         ]
       }
     ],
     "reading": [
       {
-        "text": "The text frames kingship as public doxology tethered to national survival: glory language and military consolidation are fused, so that praise functions as political cement rather than private devotion.",
+        "text": "David’s public glory is depicted as doxological capital: victory is immediately converted into praise, so the king’s legitimacy is framed as derivative—his renown is permitted only as it returns to the Lord.",
         "lines": [
-          6,
+          6
+        ]
+      },
+      {
+        "text": "The text treats political security (“enemies on every side”) as an achieved condition, yet it refuses to let that condition be self-grounding; it is narrated as a consequence, not a foundation.",
+        "lines": [
           7
         ]
       },
       {
-        "text": "David’s interior posture is foregrounded as the interpretive key: gratitude and “whole heart” precede the statement of granted power, reversing the usual causal story that power produces piety.",
+        "text": "Inner disposition is made the hinge of outward power: thanksgiving and whole-hearted love are presented as the grammar in which kingship can be spoken without becoming idolatry.",
         "lines": [
           8,
           9
@@ -68,77 +79,84 @@
   },
   "marginalia": [
     {
-      "text": "Election rendered as butchery: the fat is removed; choice is a cutting.",
+      "text": "Election rendered as butchery: fat trimmed, choice revealed.",
       "lines": [
         1
       ],
       "readingKind": "first"
     },
     {
-      "text": "Predation domesticated. The shepherd plays at dominion; nature is rewritten as liturgy.",
+      "text": "Predation domesticated; the shepherd toys with teeth.",
       "lines": [
         2
       ],
       "readingKind": "first"
     },
     {
-      "text": "The sling is anti-armor: weakness weaponized against “boasting.”",
+      "text": "A hand lifts; a pebble legislates against boasting.",
       "lines": [
         4
       ],
       "readingKind": "first"
     },
     {
-      "text": "Prayer is not décor; it is the transfer of agency into the hand.",
+      "text": "Prayer transfers agency; the right hand becomes an instrument, not a cause.",
       "lines": [
         5
       ],
       "readingKind": "first"
     },
     {
-      "text": "Violence ends in choir. Power funds melody; altar gets a soundscape.",
+      "text": "From slaughter to liturgy: the altar gets musicians as policy.",
       "lines": [
         10
       ],
       "readingKind": "first"
     },
     {
-      "text": "Guilt invents resurrection; the dead return as accusation.",
+      "text": "A guilty court invents resurrection to explain rumor.",
       "lines": [
         1
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "“Not lawful” cuts cleaner than any sword; law as incision into libido.",
+      "text": "The verb remembers: “I beheaded” outlives the head.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Law spoken plainly; illegality needs no ornament.",
       "lines": [
         5
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Birthday as tribunal. Banquet becomes machinery; power performs itself before it kills.",
+      "text": "“Convenient day”: the calendar conspires with appetite.",
       "lines": [
         8
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Half a kingdom promised to a dancer: sovereignty bartered in appetite and spectacle.",
+      "text": "A kingdom wagered in a room; sovereignty traded for applause.",
       "lines": [
         10
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "“Immediately… with haste”: evil is efficient when it has a script.",
+      "text": "Speed as complicity: haste makes murder administrative.",
       "lines": [
         12
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "The head circulates hand to hand like currency; shame seeks a vessel.",
+      "text": "The platter circulates; death becomes a gift economy.",
       "lines": [
         15
       ],
