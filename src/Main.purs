@@ -20,14 +20,15 @@ import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error)
 import Node.Process as Process
-import VerbumDiei.Artifact (Artifact, Commentary, Reading, ReadingKind, encodeArtifact, firstReadingKind, gospelKind)
+import VerbumDiei.Artifact (Artifact, Commentary, HourEntry, Reading, ReadingKind, encodeArtifact, firstReadingKind, gospelKind)
 import VerbumDiei.Bible (fetchBibleReading)
+import VerbumDiei.Breviarium (OfficeOption, OfficePayload, getOfficePayload)
 import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
-import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, encodeLlmOutput)
-import VerbumDiei.Prompts (heterodoxPrompt, llmInstructions, seminaVerbiPrompt)
+import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, callOpenAiTranslation, encodeLlmOutput)
+import VerbumDiei.Prompts (heterodoxPrompt, hoursTranslationPrompt, llmInstructions, seminaVerbiPrompt)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
 import VerbumDiei.Site (renderAppShellPage, renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
@@ -70,6 +71,9 @@ run = do
     openAiKeyRaw <- liftEffect $ Process.lookupEnv "OPENAI_API_KEY"
     let openAiKey = openAiKeyRaw >>= \k -> if trim k == "" then Nothing else Just k
     model <- liftEffect $ fromMaybe "gpt-5.2" <$> preferredModel
+    translateHours <- liftEffect shouldTranslateHours
+    let hoursTranslationKey = if translateHours then openAiKey else Nothing
+    hoursOfPrayer <- buildHoursOfPrayer item.date model hoursTranslationKey
 
     { marginalia, commentary, calls } <- case openAiKey of
       Nothing -> do
@@ -190,6 +194,7 @@ run = do
               }
           , observances
           , readings
+          , hoursOfPrayer
           , marginalia
           , commentary
           , llm:
@@ -199,6 +204,145 @@ run = do
           }
 
     writeOutputs artifact
+
+defaultHoursOfPrayer :: Array HourEntry
+defaultHoursOfPrayer =
+  [ { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" }
+  , { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" }
+  , { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" }
+  , { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" }
+  , { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" }
+  , { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" }
+  , { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" }
+  ]
+
+officeOptionsForKey :: OfficePayload -> String -> Array OfficeOption
+officeOptionsForKey payload = case _ of
+  "matins" -> payload.officium
+  "lauds" -> payload.laudes
+  "terce" -> payload.tertia
+  "sext" -> payload.sexta
+  "none" -> payload.nona
+  "vespers" -> payload.vesperae
+  "compline" -> payload.completorium
+  _ -> []
+
+cyclePriority :: String -> Int
+cyclePriority cycleCode =
+  let
+    cycleUpper = String.toUpper cycleCode
+  in
+    if String.contains (Pattern "MEMORY_PROPER") cycleUpper then 5
+    else if String.contains (Pattern "MEMORY") cycleUpper then 4
+    else if String.contains (Pattern "SOLEMNITY") cycleUpper then 3
+    else if String.contains (Pattern "FEAST") cycleUpper then 2
+    else if cycleUpper == "ANY" then 0
+    else 1
+
+officeOptionText :: OfficeOption -> String
+officeOptionText option =
+  let
+    finalPrayer = trim option.finalPrayer
+  in
+    if finalPrayer /= "" then finalPrayer else trim option.reading
+
+preferOfficeOption :: OfficeOption -> OfficeOption -> Boolean
+preferOfficeOption candidate incumbent =
+  let
+    candidatePriority = cyclePriority candidate.cycle
+    incumbentPriority = cyclePriority incumbent.cycle
+    candidateText = officeOptionText candidate
+    incumbentText = officeOptionText incumbent
+  in
+    if candidatePriority > incumbentPriority then true
+    else if candidatePriority < incumbentPriority then false
+    else if candidateText /= "" && incumbentText == "" then true
+    else if candidateText == "" && incumbentText /= "" then false
+    else CodeUnits.length candidateText > CodeUnits.length incumbentText
+
+choosePreferredOption :: Array OfficeOption -> Maybe OfficeOption
+choosePreferredOption options =
+  options # Array.foldl step Nothing
+  where
+  step :: Maybe OfficeOption -> OfficeOption -> Maybe OfficeOption
+  step Nothing option = Just option
+  step (Just incumbent) option =
+    if preferOfficeOption option incumbent then
+      Just option
+    else
+      Just incumbent
+
+renderTranslationInput :: String -> OfficeOption -> String -> String
+renderTranslationInput officeLabel option text =
+  String.joinWith "\n" $
+    Array.filter (_ /= "")
+      [ "Office: " <> officeLabel
+      , if option.id == "" then "" else "Breviarium id: " <> option.id
+      , if option.cycle == "" then "" else "Cycle: " <> option.cycle
+      , if option.readingRef == "" then "" else "Reference: " <> option.readingRef
+      , ""
+      , "Spanish text:"
+      , text
+      ]
+
+translateOfficePrayer
+  :: Maybe String
+  -> String
+  -> String
+  -> Maybe OfficeOption
+  -> String
+  -> Aff { prayer :: String, translated :: Boolean }
+translateOfficePrayer openAiKey model officeLabel maybeOption sourcePrayer =
+  case openAiKey of
+    Nothing -> pure { prayer: sourcePrayer, translated: false }
+    Just _ ->
+      case maybeOption of
+        Nothing -> pure { prayer: sourcePrayer, translated: false }
+        Just option -> do
+          translationResult <-
+            attempt $
+              callOpenAiTranslation
+                { model
+                , instructions: hoursTranslationPrompt
+                , input: renderTranslationInput officeLabel option sourcePrayer
+                , temperature: 0.0
+                }
+
+          case translationResult of
+            Left e -> do
+              log ("OpenAI translation failed for " <> officeLabel <> "; keeping Breviarium Spanish. " <> show e)
+              pure { prayer: sourcePrayer, translated: false }
+            Right translatedText -> do
+              let clean = trim translatedText
+              if clean == "" then
+                pure { prayer: sourcePrayer, translated: false }
+              else
+                pure { prayer: clean, translated: true }
+
+buildHoursOfPrayer :: String -> String -> Maybe String -> Aff (Array HourEntry)
+buildHoursOfPrayer dateIso model openAiKey = do
+  breviariumResult <- attempt (getOfficePayload dateIso)
+  case breviariumResult of
+    Left e -> do
+      log ("Breviarium lookup failed; using fallback hours. " <> show e)
+      pure defaultHoursOfPrayer
+    Right payload ->
+      defaultHoursOfPrayer # traverse \fallbackRow -> do
+        let
+          chosen = choosePreferredOption (officeOptionsForKey payload fallbackRow.key)
+          chosenPrayer = case chosen of
+            Nothing -> fallbackRow.prayer
+            Just option ->
+              let picked = officeOptionText option
+              in if picked == "" then fallbackRow.prayer else picked
+
+        translated <- translateOfficePrayer openAiKey model fallbackRow.label chosen chosenPrayer
+        let
+          sourceTag = case chosen of
+            Nothing -> "fallback"
+            Just _ ->
+              if translated.translated then "breviarium+openai" else "breviarium"
+        pure fallbackRow { prayer = translated.prayer, source = sourceTag }
 
 fetchReadings :: FeedItem -> Aff (Array Reading)
 fetchReadings item = do
@@ -267,6 +411,19 @@ preferredModel = do
   case explicit of
     Just m -> pure (Just m)
     Nothing -> normalize <$> Process.lookupEnv "OPENAI_MODEL"
+
+shouldTranslateHours :: Effect Boolean
+shouldTranslateHours = do
+  raw <- Process.lookupEnv "VERBUM_TRANSLATE_HOURS"
+  pure $ case raw of
+    Nothing -> true
+    Just value ->
+      let normalized = String.toLower (trim value)
+      in
+        normalized /= "0"
+          && normalized /= "false"
+          && normalized /= "no"
+          && normalized /= "off"
 
 renderPromptInput :: Array Reading -> String
 renderPromptInput readings =

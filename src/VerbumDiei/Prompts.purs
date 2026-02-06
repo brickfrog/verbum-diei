@@ -2,6 +2,7 @@ module VerbumDiei.Prompts
   ( llmInstructions
   , heterodoxPrompt
   , seminaVerbiPrompt
+  , hoursTranslationPrompt
   ) where
 
 import Prelude
@@ -43,3 +44,11 @@ seminaVerbiPrompt =
   auxPromptBase
     <> "\n"
     <> "Semina Verbi: draw parallels to other traditions. Name them, be charitable, mark speculation. Keep it brief. Do not summarize the readings or restate commentary; add only new parallels. No repetition or paraphrase."
+
+hoursTranslationPrompt :: String
+hoursTranslationPrompt =
+  String.joinWith "\n"
+    [ "Translate the provided Spanish liturgical prayer into natural English."
+    , "Keep the meaning and devotional register faithful to the source."
+    , "Return only the translation text, with no commentary, labels, or markdown."
+    ]

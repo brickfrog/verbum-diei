@@ -14,9 +14,11 @@ module VerbumDiei.Artifact
   , Translation
   , encodeArtifact
   , encodeCommentary
+  , encodeHourEntry
   , encodeMarginalNote
   , firstReadingKind
   , gospelKind
+  , HourEntry
   ) where
 
 import Prelude
@@ -74,6 +76,15 @@ type Commentary =
   , seminaVerbi :: String
   }
 
+type HourEntry =
+  { key :: String
+  , label :: String
+  , hourLocal :: Int
+  , minuteLocal :: Int
+  , prayer :: String
+  , source :: String
+  }
+
 type ObservancesMeta =
   { season :: String
   , cycle :: String
@@ -111,6 +122,7 @@ type Artifact =
   , source :: Source
   , observances :: Observances
   , readings :: Array Reading
+  , hoursOfPrayer :: Array HourEntry
   , marginalia :: Array MarginalNote
   , commentary :: Commentary
   , llm :: LlmMeta
@@ -164,6 +176,16 @@ encodeCommentary commentary =
     ~> "seminaVerbi" := commentary.seminaVerbi
     ~> jsonEmptyObject
 
+encodeHourEntry :: HourEntry -> Json
+encodeHourEntry hour =
+  "key" := hour.key
+    ~> "label" := hour.label
+    ~> "hourLocal" := hour.hourLocal
+    ~> "minuteLocal" := hour.minuteLocal
+    ~> "prayer" := hour.prayer
+    ~> "source" := hour.source
+    ~> jsonEmptyObject
+
 encodeObservancesMeta :: ObservancesMeta -> Json
 encodeObservancesMeta meta =
   "season" := meta.season
@@ -207,6 +229,7 @@ encodeArtifact artifact =
     ~> "source" := encodeSource artifact.source
     ~> "observances" := encodeObservances artifact.observances
     ~> "readings" := map encodeReading artifact.readings
+    ~> "hoursOfPrayer" := map encodeHourEntry artifact.hoursOfPrayer
     ~> "marginalia" := map encodeMarginalNote artifact.marginalia
     ~> "commentary" := encodeCommentary artifact.commentary
     ~> "llm" := encodeLlmMeta artifact.llm

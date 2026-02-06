@@ -4,6 +4,7 @@ module VerbumDiei.OpenAI
   , callOpenAiStructured
   , callOpenAiExcursus
   , callOpenAiSeminaVerbi
+  , callOpenAiTranslation
   ) where
 
 import Prelude
@@ -45,6 +46,10 @@ type ExcursusOutput =
 
 type SeminaVerbiOutput =
   { seminaVerbi :: String
+  }
+
+type TranslationOutput =
+  { translation :: String
   }
 
 encodeLlmOutput :: LlmOutput -> Json
@@ -90,6 +95,19 @@ callOpenAiSeminaVerbi { model, instructions, input, temperature } = do
   let request = buildRequest model instructions input 2000 "verbum_diei_semina_verbi" seminaVerbiSchema
   output <- callOpenAi request parseSeminaVerbiResponse
   pure output.seminaVerbi
+
+callOpenAiTranslation
+  :: { model :: String
+     , instructions :: String
+     , input :: String
+     , temperature :: Number
+     }
+  -> Aff String
+callOpenAiTranslation { model, instructions, input, temperature } = do
+  let _ = temperature
+  let request = buildRequest model instructions input 900 "verbum_diei_translation" translationSchema
+  output <- callOpenAi request parseTranslationResponse
+  pure output.translation
 
 callOpenAi :: forall a. Json -> (Json -> Either String a) -> Aff a
 callOpenAi requestJson parseResponse = do
@@ -227,6 +245,26 @@ parseSeminaVerbiResponse response = do
                   let summary = summarizeResponse response
                   in Left ("No parseable output (outputTypes=" <> show summary.outputTypes <> ", contentTypes=" <> show summary.contentTypes <> ")")
 
+parseTranslationResponse :: Json -> Either String TranslationOutput
+parseTranslationResponse response = do
+  case responseError response of
+    Just errMsg -> Left errMsg
+    Nothing ->
+      case lookupField "output_parsed" response of
+        Just parsed -> Right (normalizeTranslationOutput parsed)
+        Nothing ->
+          case extractOutputText response of
+            Just raw ->
+              case jsonParser raw of
+                Left errMsg -> Left ("Could not parse output text: " <> errMsg)
+                Right parsed -> Right (normalizeTranslationOutput parsed)
+            Nothing ->
+              case extractRefusal response of
+                Just refusal -> Left ("Model refusal: " <> refusal)
+                Nothing ->
+                  let summary = summarizeResponse response
+                  in Left ("No parseable output (outputTypes=" <> show summary.outputTypes <> ", contentTypes=" <> show summary.contentTypes <> ")")
+
 normalizeOutput :: Json -> LlmOutput
 normalizeOutput parsed =
   let
@@ -269,6 +307,13 @@ normalizeSeminaVerbiOutput parsed =
     rootObj = jsonObject parsed
   in
     { seminaVerbi: normalizedString (lookupString "seminaVerbi" rootObj) }
+
+normalizeTranslationOutput :: Json -> TranslationOutput
+normalizeTranslationOutput parsed =
+  let
+    rootObj = jsonObject parsed
+  in
+    { translation: normalizedString (lookupString "translation" rootObj) }
 
 normalizeNote :: Json -> Maybe MarginalNote
 normalizeNote value = do
@@ -563,4 +608,19 @@ seminaVerbiSchema =
             ])
         ])
     , Tuple "required" (fromArray [ fromString "seminaVerbi" ])
+    ]
+
+translationSchema :: Json
+translationSchema =
+  obj
+    [ Tuple "type" (fromString "object")
+    , Tuple "additionalProperties" (fromBoolean false)
+    , Tuple "properties" (obj
+        [ Tuple "translation" (obj
+            [ Tuple "type" (fromString "string")
+            , Tuple "minLength" (fromNumber 1.0)
+            , Tuple "maxLength" (fromNumber 2500.0)
+            ])
+        ])
+    , Tuple "required" (fromArray [ fromString "translation" ])
     ]

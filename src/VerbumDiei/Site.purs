@@ -16,7 +16,7 @@ import Flame.Html.Attribute as HA
 import Flame.Html.Element as HE
 import Flame.Renderer.String as FRS
 import Flame.Types (NodeData)
-import VerbumDiei.Artifact (Artifact, CommentNote, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
+import VerbumDiei.Artifact (Artifact, CommentNote, HourEntry, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
 
 type RenderConfig =
   { assetPrefix :: String
@@ -35,13 +35,6 @@ type AppShellConfig =
   { assetPrefix :: String
   , pageTitle :: String
   , defaultView :: String
-  }
-
-type OfficeRow =
-  { label :: String
-  , hourLocal :: Int
-  , minuteLocal :: Int
-  , prayer :: String
   }
 
 renderArtifactPage :: RenderConfig -> Artifact -> Effect String
@@ -197,23 +190,26 @@ renderObservances artifact =
         <> metaNodes
         <> [ el "ul" [ HA.class' "celebration-list" ] celebrationNodes ])
 
-officeRows :: Array OfficeRow
-officeRows =
-  [ { label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise." }
-  , { label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day." }
-  , { label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth." }
-  , { label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me." }
-  , { label: "None", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day." }
-  , { label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening." }
-  , { label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit." }
+fallbackHoursOfPrayer :: Array HourEntry
+fallbackHoursOfPrayer =
+  [ { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" }
+  , { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" }
+  , { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" }
+  , { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" }
+  , { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" }
+  , { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" }
+  , { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" }
   ]
 
 pad2 :: Int -> String
 pad2 n =
   if n < 10 then "0" <> show n else show n
 
-renderHoursOfPrayer :: forall message. Html message
-renderHoursOfPrayer =
+renderHoursOfPrayer :: forall message. Array HourEntry -> Html message
+renderHoursOfPrayer sourceRows =
+  let
+    rows = if Array.null sourceRows then fallbackHoursOfPrayer else sourceRows
+  in
   el "section" [ HA.class' "panel hours-panel", HA.id "hours-of-prayer" ]
     [ el "header" [ HA.class' "panel-header" ]
         [ el "div" [ HA.class' "panel-kicker" ] [ txt "Daily Office" ]
@@ -221,11 +217,13 @@ renderHoursOfPrayer =
         , el "div" [ HA.class' "panel-meta" ] [ txt "Times shown for your local timezone." ]
         ]
     , el "ol" [ HA.class' "hours-list" ]
-        (officeRows <#> \office ->
+        (rows <#> \office ->
           el "li"
             [ HA.class' "hour-row"
+            , HA.createAttribute "data-hour-key" office.key
             , HA.createAttribute "data-hour-local" (show office.hourLocal)
             , HA.createAttribute "data-minute-local" (show office.minuteLocal)
+            , HA.createAttribute "data-hour-source" office.source
             ]
             [ el "div" [ HA.class' "hour-name" ] [ txt office.label ]
             , el "div" [ HA.class' "hour-time" ] [ txt (pad2 office.hourLocal <> ":" <> pad2 office.minuteLocal) ]
@@ -437,27 +435,35 @@ renderCommentaryBox lineLabel hasLlm artifact =
         ]
 
     firstSupplement =
+      let
+        firstSupplementText =
+          if excursusText == "" then
+            if hasLlm then "(no heterodox reading generated)" else emptyText
+          else
+            excursusText
+        firstSupplementClass =
+          if excursusText == "" then "supplement-text" else "supplement-text dropcap-enabled"
+      in
       el "section" [ HA.class' "supplement-panel" ]
         [ el "div" [ HA.class' "panel-kicker panel-kicker-strong" ] [ txt "Heterodox Reading" ]
-        , el "div" [ HA.class' "supplement-text" ]
-            [ txt $
-                if excursusText == "" then
-                  if hasLlm then "(no heterodox reading generated)" else emptyText
-                else
-                  excursusText
-            ]
+        , el "div" [ HA.class' firstSupplementClass ]
+            [ txt firstSupplementText ]
         ]
 
     secondSupplement =
+      let
+        secondSupplementText =
+          if seminaText == "" then
+            if hasLlm then "(no semina verbi generated)" else emptyText
+          else
+            seminaText
+        secondSupplementClass =
+          if seminaText == "" then "supplement-text" else "supplement-text dropcap-enabled"
+      in
       el "section" [ HA.class' "supplement-panel" ]
         [ el "div" [ HA.class' "panel-kicker panel-kicker-strong" ] [ txt "Semina Verbi" ]
-        , el "div" [ HA.class' "supplement-text" ]
-            [ txt $
-                if seminaText == "" then
-                  if hasLlm then "(no semina verbi generated)" else emptyText
-                else
-                  seminaText
-            ]
+        , el "div" [ HA.class' secondSupplementClass ]
+            [ txt secondSupplementText ]
         ]
   in
     el "section" [ HA.class' "panel commentary-panel", HA.id "commentary" ]
@@ -503,14 +509,14 @@ artifactDocument config artifact =
           [ el "main" [ HA.class' "cathedral-layout" ]
               [ el "header" [ HA.class' "hero-panel" ]
                   [ el "div" [ HA.class' "hero-title-wrap" ]
-                      [ el "div" [ HA.class' "hero-kicker" ] [ txt "Daily Office of the Word" ]
+                      [ el "div" [ HA.class' "hero-kicker" ] [ txt "Scripture, Prayer, and Notes" ]
                       , el "h1" [ HA.class' "hero-title" ] [ txt "Verbum Diei" ]
                       , el "div" [ HA.class' "hero-date" ] [ txt artifact.date ]
                       ]
                   , el "nav" [ HA.class' "hero-nav" ] heroLinks
                   ]
               , renderObservances artifact
-              , renderHoursOfPrayer
+              , renderHoursOfPrayer artifact.hoursOfPrayer
               , el "aside" [ HA.class' "panel marginalia-panel" ]
                   [ el "header" [ HA.class' "panel-header" ]
                       [ el "div" [ HA.class' "panel-kicker" ] [ txt "Margin" ]
@@ -528,6 +534,13 @@ artifactDocument config artifact =
                       ]
                   , el "p" [ HA.class' "footer-note" ]
                       [ txt "Marginalia and glosses are generated by a language model and offered for reflection, not doctrinal instruction." ]
+                  , el "p" [ HA.class' "footer-note" ]
+                      [ txt "Liturgical calendar: "
+                      , navLink "https://github.com/romcal/romcal" "romcal"
+                      , txt ". Hours source text: "
+                      , navLink "https://github.com/DavidLara/breviarium" "breviarium"
+                      , txt "."
+                      ]
                   , el "p" [ HA.class' "footer-note" ]
                       [ txt "Source code: "
                       , navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"
@@ -572,6 +585,13 @@ archiveDocument config dates =
                   ]
               , el "footer" [ HA.class' "site-footer" ]
                   [ el "p" [ HA.class' "footer-note" ] [ txt "Generated daily." ]
+                  , el "p" [ HA.class' "footer-note" ]
+                      [ txt "Liturgical calendar: "
+                      , navLink "https://github.com/romcal/romcal" "romcal"
+                      , txt ". Hours source text: "
+                      , navLink "https://github.com/DavidLara/breviarium" "breviarium"
+                      , txt "."
+                      ]
                   , el "p" [ HA.class' "footer-note" ]
                       [ txt "Source code: "
                       , navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"

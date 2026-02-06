@@ -81,6 +81,7 @@
       hourLocal: 0,
       minuteLocal: 0,
       prayer: "Lord, open my lips, and my mouth shall declare your praise.",
+      source: "fallback",
     },
     {
       key: "lauds",
@@ -88,6 +89,7 @@
       hourLocal: 6,
       minuteLocal: 0,
       prayer: "Blessed are you, Lord, in the light of the new day.",
+      source: "fallback",
     },
     {
       key: "terce",
@@ -95,6 +97,7 @@
       hourLocal: 9,
       minuteLocal: 0,
       prayer: "Come, Holy Spirit, and lighten our work in truth.",
+      source: "fallback",
     },
     {
       key: "sext",
@@ -102,13 +105,15 @@
       hourLocal: 12,
       minuteLocal: 0,
       prayer: "God, come to my assistance. Lord, make haste to help me.",
+      source: "fallback",
     },
     {
       key: "none",
-      label: "None",
+      label: "Nones",
       hourLocal: 15,
       minuteLocal: 0,
       prayer: "Stay with us, Lord, in the heat and trial of this day.",
+      source: "fallback",
     },
     {
       key: "vespers",
@@ -116,6 +121,7 @@
       hourLocal: 18,
       minuteLocal: 0,
       prayer: "Let my prayer rise before you like incense this evening.",
+      source: "fallback",
     },
     {
       key: "compline",
@@ -123,8 +129,41 @@
       hourLocal: 21,
       minuteLocal: 0,
       prayer: "Into your hands, Lord, I commend my spirit.",
+      source: "fallback",
     },
   ];
+
+  function normalizeHoursOfPrayer(artifact) {
+    var rows = listDataOrEmpty(artifact && artifact.hoursOfPrayer);
+    var out = [];
+    for (var i = 0; i < rows.length; i += 1) {
+      var row = rows[i] || {};
+      var key = String(row.key || "");
+      var label = String(row.label || "");
+      var hourLocal = Number(row.hourLocal);
+      var minuteLocal = Number(row.minuteLocal);
+      var prayer = String(row.prayer || "");
+      var source = String(row.source || "");
+      if (!label) {
+        continue;
+      }
+      if (!Number.isFinite(hourLocal) || !Number.isFinite(minuteLocal)) {
+        continue;
+      }
+      out.push({
+        key: key || label.toLowerCase(),
+        label: label,
+        hourLocal: hourLocal,
+        minuteLocal: minuteLocal,
+        prayer: prayer,
+        source: source || "fallback",
+      });
+    }
+    if (out.length === 0) {
+      return OFFICE_SCHEDULE;
+    }
+    return out;
+  }
 
   function readTimeZone() {
     if (typeof Intl !== "undefined" && Intl.DateTimeFormat) {
@@ -577,18 +616,24 @@
 
     var excursusText =
       excursus === "" ? (hasLlm ? "(no heterodox reading generated)" : emptyText) : excursus;
+    var excursusClass = excursus === "" ? "supplement-text" : "supplement-text dropcap-enabled";
 
     var seminaText =
       seminaVerbi === "" ? (hasLlm ? "(no semina verbi generated)" : emptyText) : seminaVerbi;
+    var seminaClass = seminaVerbi === "" ? "supplement-text" : "supplement-text dropcap-enabled";
 
     return (
       '<section class="panel commentary-panel" id="commentary"><header class="panel-header"><div class="panel-kicker">Gloss</div><h2 class="panel-title">Commentary</h2></header>' +
       columns +
       synthesisNode +
-      '<section class="supplement-panel"><div class="panel-kicker panel-kicker-strong">Heterodox Reading</div><div class="supplement-text">' +
+      '<section class="supplement-panel"><div class="panel-kicker panel-kicker-strong">Heterodox Reading</div><div class="' +
+      escapeAttr(excursusClass) +
+      '">' +
       escapeHtml(excursusText) +
       "</div></section>" +
-      '<section class="supplement-panel"><div class="panel-kicker panel-kicker-strong">Semina Verbi</div><div class="supplement-text">' +
+      '<section class="supplement-panel"><div class="panel-kicker panel-kicker-strong">Semina Verbi</div><div class="' +
+      escapeAttr(seminaClass) +
+      '">' +
       escapeHtml(seminaText) +
       "</div></section></section>"
     );
@@ -627,11 +672,16 @@
 
   function renderHoursOfPrayer(artifact) {
     var timeZone = readTimeZone();
+    var schedule = normalizeHoursOfPrayer(artifact);
     var rows = "";
-    for (var i = 0; i < OFFICE_SCHEDULE.length; i += 1) {
-      var office = OFFICE_SCHEDULE[i];
+    for (var i = 0; i < schedule.length; i += 1) {
+      var office = schedule[i];
       rows +=
-        '<li class="hour-row" data-hour-local="' +
+        '<li class="hour-row" data-hour-key="' +
+        escapeAttr(String(office.key || "")) +
+        '" data-hour-source="' +
+        escapeAttr(String(office.source || "")) +
+        '" data-hour-local="' +
         escapeAttr(String(office.hourLocal)) +
         '" data-minute-local="' +
         escapeAttr(String(office.minuteLocal)) +
@@ -693,7 +743,7 @@
 
     root.className = "cathedral-layout";
     root.innerHTML =
-      '<header class="hero-panel"><div class="hero-title-wrap"><div class="hero-kicker">Daily Office of the Word</div><h1 class="hero-title">Verbum Diei</h1><div class="hero-date">' +
+      '<header class="hero-panel"><div class="hero-title-wrap"><div class="hero-kicker">Scripture, Prayer, and Notes</div><h1 class="hero-title">Verbum Diei</h1><div class="hero-date">' +
       escapeHtml(artifact.date || "") +
       "</div></div><nav class=\"hero-nav\">" +
       heroLinks +
@@ -711,7 +761,7 @@
       escapeAttr(translationHref(translation.id || "")) +
       '">' +
       escapeHtml(translationLabel) +
-      '</a> - public domain. For the official source see Vatican News above.</p><p class="footer-note">Marginalia and glosses are generated by a language model and offered for reflection, not doctrinal instruction.</p><p class="footer-note">Source code: <a class="site-link" href="https://github.com/brickfrog/verbum-diei">github.com/brickfrog/verbum-diei</a></p></footer>';
+      '</a> - public domain. For the official source see Vatican News above.</p><p class="footer-note">Marginalia and glosses are generated by a language model and offered for reflection, not doctrinal instruction.</p><p class="footer-note">Liturgical calendar: <a class="site-link" href="https://github.com/romcal/romcal">romcal</a>. Hours source text: <a class="site-link" href="https://github.com/DavidLara/breviarium">breviarium</a>.</p><p class="footer-note">Source code: <a class="site-link" href="https://github.com/brickfrog/verbum-diei">github.com/brickfrog/verbum-diei</a></p></footer>';
 
     document.title = "Verbum Diei - " + (artifact.date || "");
   }
@@ -738,7 +788,7 @@
       renderNavLink(hrefLatest(assetPrefix), "Latest") +
       '</nav></header><section class="panel archive-panel"><header class="panel-header"><div class="panel-kicker">Chronicle</div><h2 class="panel-title">Days</h2></header><ul class="archive-list">' +
       items +
-      '</ul></section><footer class="site-footer"><p class="footer-note">Generated daily from Vatican News RSS + local calendar data.</p><p class="footer-note">Source code: <a class="site-link" href="https://github.com/brickfrog/verbum-diei">github.com/brickfrog/verbum-diei</a></p></footer>';
+      '</ul></section><footer class="site-footer"><p class="footer-note">Generated daily from Vatican News RSS + local calendar data.</p><p class="footer-note">Liturgical calendar: <a class="site-link" href="https://github.com/romcal/romcal">romcal</a>. Hours source text: <a class="site-link" href="https://github.com/DavidLara/breviarium">breviarium</a>.</p><p class="footer-note">Source code: <a class="site-link" href="https://github.com/brickfrog/verbum-diei">github.com/brickfrog/verbum-diei</a></p></footer>';
 
     document.title = "Verbum Diei - Archive";
   }
