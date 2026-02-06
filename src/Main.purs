@@ -390,23 +390,23 @@ listDataDates = do
 writeOutputs :: Artifact -> Aff Unit
 writeOutputs artifact = do
   let json = stringifyPretty (encodeArtifact artifact)
-  let rootHtml =
-        renderArtifactPage
-          { assetPrefix: ""
-          , homeHref: ""
-          , archiveHref: "archive/"
-          , permalinkHref: "d/" <> artifact.date <> "/"
-          }
-          artifact
+  rootHtml <- liftEffect $
+    renderArtifactPage
+      { assetPrefix: ""
+      , homeHref: ""
+      , archiveHref: "archive/"
+      , permalinkHref: "d/" <> artifact.date <> "/"
+      }
+      artifact
 
-  let dayHtml =
-        renderArtifactPage
-          { assetPrefix: "../../"
-          , homeHref: "../../"
-          , archiveHref: "../../archive/"
-          , permalinkHref: ""
-          }
-          artifact
+  dayHtml <- liftEffect $
+    renderArtifactPage
+      { assetPrefix: "../../"
+      , homeHref: "../../"
+      , archiveHref: "../../archive/"
+      , permalinkHref: ""
+      }
+      artifact
 
   liftEffect do
     ensureDir "public"
@@ -420,13 +420,13 @@ writeOutputs artifact = do
     writeTextFile ("public/d/" <> artifact.date <> "/index.html") dayHtml
 
   dates <- liftEffect listDataDates
-  let archiveHtml =
-        renderArchivePage
-          { assetPrefix: "../"
-          , homeHref: "../"
-          , dayHrefPrefix: "../d/"
-          }
-          dates
+  archiveHtml <- liftEffect $
+    renderArchivePage
+      { assetPrefix: "../"
+      , homeHref: "../"
+      , dayHrefPrefix: "../d/"
+      }
+      dates
 
   liftEffect do
     writeTextFile "public/archive/index.html" archiveHtml

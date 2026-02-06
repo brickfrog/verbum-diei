@@ -7,8 +7,13 @@ import Prelude
 
 import Data.Array as Array
 import Data.Maybe (Maybe(..), fromMaybe)
-import Data.String (Pattern(..), Replacement(..), replaceAll)
 import Data.String as String
+import Effect (Effect)
+import Flame (Html)
+import Flame.Html.Attribute as HA
+import Flame.Html.Element as HE
+import Flame.Renderer.String as FRS
+import Flame.Types (NodeData)
 import VerbumDiei.Artifact (Artifact, CommentNote, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
 
 type RenderConfig =
@@ -24,13 +29,22 @@ type ArchiveConfig =
   , dayHrefPrefix :: String
   }
 
-escapeHtml :: String -> String
-escapeHtml =
-  replaceAll (Pattern "&") (Replacement "&amp;")
-    >>> replaceAll (Pattern "<") (Replacement "&lt;")
-    >>> replaceAll (Pattern ">") (Replacement "&gt;")
-    >>> replaceAll (Pattern "\"") (Replacement "&quot;")
-    >>> replaceAll (Pattern "'") (Replacement "&#39;")
+renderArtifactPage :: RenderConfig -> Artifact -> Effect String
+renderArtifactPage config artifact =
+  FRS.render (artifactDocument config artifact)
+
+renderArchivePage :: ArchiveConfig -> Array String -> Effect String
+renderArchivePage config dates =
+  FRS.render (archiveDocument config dates)
+
+el :: forall message. String -> Array (NodeData message) -> Array (Html message) -> Html message
+el = HE.createElement
+
+leaf :: forall message. String -> Array (NodeData message) -> Html message
+leaf = HE.createElement'
+
+txt :: forall message. String -> Html message
+txt = HE.text
 
 kindLabel :: ReadingKind -> String
 kindLabel = case _ of
@@ -61,126 +75,151 @@ lineLabelForKind readings kind n =
     Nothing -> show n
     Just r -> lineLabelForReading r n
 
-renderLine :: ReadingKind -> Int -> String -> String -> String
-renderLine kind n label text =
-  "<p class=\"scripture-line\" id=\"" <> escapeHtml (lineId kind n) <> "\">"
-    <> "<span class=\"ln\">" <> escapeHtml label <> "</span>"
-    <> "<span class=\"lt\">" <> escapeHtml text <> "</span>"
-    <> "</p>"
+noteTarget :: ReadingKind -> Array Int -> String
+noteTarget kind lines =
+  case Array.head lines of
+    Nothing -> "#"
+    Just n -> "#" <> lineId kind n
 
-renderReadingBox :: Reading -> String
-renderReadingBox reading =
-  let
-    linesHtml =
-      String.joinWith "" $
-        reading.lines # Array.mapWithIndex \i line ->
-          let
-            n = i + 1
-          in
-            renderLine reading.kind n (lineLabelForReading reading n) line
-  in
-    "<section class=\"box reading-box\">"
-      <> "<header class=\"section-header\">"
-      <> "<div class=\"section-kicker\">" <> escapeHtml (kindLabel reading.kind) <> "</div>"
-      <> "<h2 class=\"section-title\">" <> escapeHtml reading.heading <> "</h2>"
-      <> "<div class=\"section-ref\">" <> escapeHtml reading.reference <> "</div>"
-      <> "<div class=\"section-meta\">"
-      <> escapeHtml reading.translation.name <> " — " <> escapeHtml reading.translation.note
-      <> "</div>"
-      <> "</header>"
-      <> "<article class=\"scripture\">"
-      <> linesHtml
-      <> "</article>"
-      <> "</section>"
-
-renderObservances :: Artifact -> String
-renderObservances artifact =
-  let
-    meta =
-      if artifact.observances.meta.season == "" && artifact.observances.meta.cycle == "" && artifact.observances.meta.psalterWeek == "" then ""
-      else
-        "<div class=\"observances-meta\">"
-          <> "<div><span class=\"label\">Season</span> " <> escapeHtml artifact.observances.meta.season <> "</div>"
-          <> "<div><span class=\"label\">Cycle</span> " <> escapeHtml artifact.observances.meta.cycle <> "</div>"
-          <> "<div><span class=\"label\">Psalter</span> " <> escapeHtml artifact.observances.meta.psalterWeek <> "</div>"
-          <> "</div>"
-
-    celebrations =
-      String.joinWith "" $
-        artifact.observances.celebrations <#> \c ->
-          "<li class=\"celebration\">"
-            <> "<span class=\"celebration-rank\">" <> escapeHtml c.rank <> "</span>"
-            <> "<span class=\"celebration-name\">" <> escapeHtml c.name <> "</span>"
-            <> "</li>"
-  in
-    "<section class=\"box observances-box\">"
-      <> "<header class=\"section-header\">"
-      <> "<div class=\"section-kicker\">Day</div>"
-      <> "<h2 class=\"section-title\">Observances</h2>"
-      <> "</header>"
-      <> meta
-      <> "<ul class=\"celebrations\">"
-      <> celebrations
-      <> "</ul>"
-      <> "</section>"
+noteHighlights :: ReadingKind -> Array Int -> String
+noteHighlights kind lines =
+  String.joinWith " " (lines <#> \n -> lineId kind n)
 
 renderLinesLabel :: (ReadingKind -> Int -> String) -> ReadingKind -> Array Int -> String
 renderLinesLabel lineLabel kind lines =
   kindShort kind <> " " <> String.joinWith "," (lines <#> lineLabel kind)
 
-renderMarginalia :: (ReadingKind -> Int -> String) -> Boolean -> Array MarginalNote -> String
+navLink :: forall message. String -> String -> Html message
+navLink href label =
+  el "a" [ HA.class' "site-link", HA.href href ] [ txt label ]
+
+documentHead :: forall message. String -> String -> Html message
+documentHead assetPrefix pageTitle =
+  el "head" []
+    [ leaf "meta" [ HA.charset "utf-8" ]
+    , leaf "meta" [ HA.name "viewport", HA.content "width=device-width, initial-scale=1" ]
+    , el "title" [] [ txt pageTitle ]
+    , leaf "link" [ HA.rel "icon", HA.href (assetPrefix <> "favicon.ico") ]
+    , leaf "link" [ HA.rel "icon", HA.type' "image/png", HA.createAttribute "sizes" "32x32", HA.href (assetPrefix <> "favicon-32x32.png") ]
+    , leaf "link" [ HA.rel "icon", HA.type' "image/png", HA.createAttribute "sizes" "16x16", HA.href (assetPrefix <> "favicon-16x16.png") ]
+    , leaf "link" [ HA.rel "apple-touch-icon", HA.createAttribute "sizes" "180x180", HA.href (assetPrefix <> "apple-touch-icon.png") ]
+    , leaf "link" [ HA.rel "preconnect", HA.href "https://fonts.googleapis.com" ]
+    , leaf "link" [ HA.rel "preconnect", HA.href "https://fonts.gstatic.com", HA.createAttribute "crossorigin" "" ]
+    , leaf "link"
+        [ HA.rel "stylesheet"
+        , HA.href "https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap"
+        ]
+    , leaf "link" [ HA.rel "stylesheet", HA.href (assetPrefix <> "styles.css") ]
+    ]
+
+renderLine :: forall message. ReadingKind -> Int -> String -> String -> Html message
+renderLine kind n label lineText =
+  el "p" [ HA.class' "scripture-line", HA.id (lineId kind n) ]
+    [ el "span" [ HA.class' "line-label" ] [ txt label ]
+    , el "span" [ HA.class' "line-text" ] [ txt lineText ]
+    ]
+
+renderReadingBox :: forall message. Reading -> Html message
+renderReadingBox reading =
+  el "section" [ HA.class' "panel reading-panel" ]
+    [ el "header" [ HA.class' "panel-header" ]
+        [ el "div" [ HA.class' "panel-kicker" ] [ txt (kindLabel reading.kind) ]
+        , el "h2" [ HA.class' "panel-title" ] [ txt reading.heading ]
+        , el "div" [ HA.class' "panel-ref" ] [ txt reading.reference ]
+        , el "div" [ HA.class' "panel-meta" ] [ txt (reading.translation.name <> " - " <> reading.translation.note) ]
+        ]
+    , el "article" [ HA.class' "scripture-block" ]
+        (reading.lines # Array.mapWithIndex \i line ->
+          let
+            n = i + 1
+          in
+            renderLine reading.kind n (lineLabelForReading reading n) line)
+    ]
+
+renderObservances :: forall message. Artifact -> Html message
+renderObservances artifact =
+  let
+    metaNodes =
+      if artifact.observances.meta.season == "" && artifact.observances.meta.cycle == "" && artifact.observances.meta.psalterWeek == "" then
+        []
+      else
+        [ el "div" [ HA.class' "observance-meta-grid" ]
+            [ el "div" [ HA.class' "meta-cell" ]
+                [ el "span" [ HA.class' "meta-label" ] [ txt "Season" ]
+                , el "span" [ HA.class' "meta-value" ] [ txt artifact.observances.meta.season ]
+                ]
+            , el "div" [ HA.class' "meta-cell" ]
+                [ el "span" [ HA.class' "meta-label" ] [ txt "Cycle" ]
+                , el "span" [ HA.class' "meta-value" ] [ txt artifact.observances.meta.cycle ]
+                ]
+            , el "div" [ HA.class' "meta-cell" ]
+                [ el "span" [ HA.class' "meta-label" ] [ txt "Psalter" ]
+                , el "span" [ HA.class' "meta-value" ] [ txt artifact.observances.meta.psalterWeek ]
+                ]
+            ]
+        ]
+
+    celebrationNodes =
+      artifact.observances.celebrations <#> \c ->
+        el "li" [ HA.class' "celebration-item" ]
+          [ el "span" [ HA.class' "celebration-rank" ] [ txt c.rank ]
+          , el "span" [ HA.class' "celebration-name" ] [ txt c.name ]
+          ]
+  in
+    el "section" [ HA.class' "panel observances-panel" ]
+      ([ el "header" [ HA.class' "panel-header" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Day Office" ]
+          , el "h2" [ HA.class' "panel-title" ] [ txt "Observances" ]
+          ]
+       ]
+        <> metaNodes
+        <> [ el "ul" [ HA.class' "celebration-list" ] celebrationNodes ])
+
+renderMarginalia :: forall message. (ReadingKind -> Int -> String) -> Boolean -> Array MarginalNote -> Html message
 renderMarginalia lineLabel hasLlm notes =
   if Array.length notes == 0 then
-    if hasLlm then "<div class=\"empty\">(no marginalia generated)</div>"
-    else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
+    el "div" [ HA.class' "empty-note" ]
+      [ txt $
+          if hasLlm then
+            "(no marginalia generated)"
+          else
+            "LLM output unavailable. Set OPENAI_API_KEY and re-run bun run generate."
+      ]
   else
-    "<ol class=\"notes\">"
-      <> String.joinWith "" (notes <#> renderNote)
-      <> "</ol>"
+    el "ol" [ HA.class' "marginalia-list" ] (notes <#> renderNote)
   where
-  renderNote :: MarginalNote -> String
+  renderNote :: MarginalNote -> Html message
   renderNote note =
-    let
-      firstLine = Array.head note.lines
-      href = case firstLine of
-        Nothing -> "#"
-        Just n -> "#" <> lineId note.readingKind n
-      label = renderLinesLabel lineLabel note.readingKind note.lines
-      hl = String.joinWith " " (note.lines <#> \n -> lineId note.readingKind n)
-    in
-      "<li class=\"note\">"
-        <> "<a class=\"note-ref\" data-hl=\"" <> escapeHtml hl <> "\" href=\"" <> escapeHtml href <> "\">"
-        <> escapeHtml label
-        <> "</a>"
-        <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
-        <> "</li>"
+    el "li" [ HA.class' "marginalia-item" ]
+      [ el "a"
+          [ HA.class' "note-ref"
+          , HA.href (noteTarget note.readingKind note.lines)
+          , HA.createAttribute "data-hl" (noteHighlights note.readingKind note.lines)
+          ]
+          [ txt (renderLinesLabel lineLabel note.readingKind note.lines) ]
+      , el "span" [ HA.class' "note-text" ] [ txt note.text ]
+      ]
 
-renderCommentNotes :: (ReadingKind -> Int -> String) -> ReadingKind -> Array CommentNote -> String
+renderCommentNotes :: forall message. (ReadingKind -> Int -> String) -> ReadingKind -> Array CommentNote -> Html message
 renderCommentNotes lineLabel kind notes =
-  if Array.length notes == 0 then ""
+  if Array.length notes == 0 then
+    el "div" [ HA.class' "empty-note" ] [ txt "(no notes)" ]
   else
-    "<ul class=\"comment-notes\">"
-      <> String.joinWith "" (notes <#> renderOne)
-      <> "</ul>"
+    el "ul" [ HA.class' "comment-list" ] (notes <#> renderOne)
   where
-  renderOne :: CommentNote -> String
+  renderOne :: CommentNote -> Html message
   renderOne note =
-    let
-      firstLine = Array.head note.lines
-      href = case firstLine of
-        Nothing -> "#"
-        Just n -> "#" <> lineId kind n
-      label = renderLinesLabel lineLabel kind note.lines
-      hl = String.joinWith " " (note.lines <#> \n -> lineId kind n)
-    in
-      "<li class=\"comment-note\">"
-        <> "<a class=\"note-ref\" data-hl=\"" <> escapeHtml hl <> "\" href=\"" <> escapeHtml href <> "\">"
-        <> escapeHtml label
-        <> "</a>"
-        <> "<span class=\"note-text\">" <> escapeHtml note.text <> "</span>"
-        <> "</li>"
+    el "li" [ HA.class' "comment-item" ]
+      [ el "a"
+          [ HA.class' "note-ref"
+          , HA.href (noteTarget kind note.lines)
+          , HA.createAttribute "data-hl" (noteHighlights kind note.lines)
+          ]
+          [ txt (renderLinesLabel lineLabel kind note.lines) ]
+      , el "span" [ HA.class' "note-text" ] [ txt note.text ]
+      ]
 
-renderCommentaryBox :: (ReadingKind -> Int -> String) -> Boolean -> Artifact -> String
+renderCommentaryBox :: forall message. (ReadingKind -> Int -> String) -> Boolean -> Artifact -> Html message
 renderCommentaryBox lineLabel hasLlm artifact =
   let
     isEmpty =
@@ -188,214 +227,180 @@ renderCommentaryBox lineLabel hasLlm artifact =
         && Array.length artifact.commentary.gospel == 0
         && artifact.commentary.synthesis == ""
 
-    emptyMessage =
-      if hasLlm then "<div class=\"empty\">(no commentary generated)</div>"
-      else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
+    emptyText =
+      if hasLlm then
+        "(no commentary generated)"
+      else
+        "LLM output unavailable. Set OPENAI_API_KEY and re-run bun run generate."
 
     excursusText = String.trim artifact.commentary.excursus
-
-    excursusBody =
-      if excursusText == "" then
-        if hasLlm then "<div class=\"empty\">(no heterodox reading generated)</div>"
-        else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
-      else "<div class=\"excursus-text\">" <> escapeHtml excursusText <> "</div>"
-
     seminaText = String.trim artifact.commentary.seminaVerbi
 
-    seminaBody =
-      if seminaText == "" then
-        if hasLlm then "<div class=\"empty\">(no semina verbi generated)</div>"
-        else "<div class=\"empty\">LLM output unavailable. Set <code>OPENAI_API_KEY</code> and re-run <code>bun run generate</code>.</div>"
-      else "<div class=\"semina-verbi-text\">" <> escapeHtml seminaText <> "</div>"
-  in
-    "<section class=\"box commentary-box\">"
-      <> "<header class=\"section-header\">"
-      <> "<div class=\"section-kicker\">Gloss</div>"
-      <> "<h2 class=\"section-title\">Commentary</h2>"
-      <> "</header>"
-      <> (if isEmpty then emptyMessage else
-          "<div class=\"commentary-sections\">"
-            <> (if Array.length artifact.commentary.reading == 0 then "" else
-                "<div class=\"commentary-section\">"
-                  <> "<div class=\"section-kicker\">On the Reading</div>"
-                  <> renderCommentNotes lineLabel firstReadingKind artifact.commentary.reading
-                  <> "</div>")
-            <> (if Array.length artifact.commentary.gospel == 0 then "" else
-                "<div class=\"commentary-section\">"
-                  <> "<div class=\"section-kicker\">On the Gospel</div>"
-                  <> renderCommentNotes lineLabel gospelKind artifact.commentary.gospel
-                  <> "</div>")
-            <> "</div>"
-            <> (if artifact.commentary.synthesis == "" then "" else
-                "<p class=\"commentary-synthesis\">"
-                  <> "<span class=\"label\">Doctrinal</span>"
-                  <> escapeHtml artifact.commentary.synthesis
-                  <> "</p>"))
-      <> "<div class=\"excursus\">"
-      <> "<div class=\"section-kicker is-strong\">Heterodox Reading</div>"
-      <> excursusBody
-      <> "</div>"
-      <> "<div class=\"semina-verbi\">"
-      <> "<div class=\"section-kicker is-strong\">Semina Verbi</div>"
-      <> seminaBody
-      <> "</div>"
-      <> "</section>"
-
-renderArtifactPage :: RenderConfig -> Artifact -> String
-renderArtifactPage config artifact =
-  let
-    navLinks =
-      String.joinWith "" $
-        Array.catMaybes
-          [ if config.homeHref == "" then Nothing else Just (navLink config.homeHref "Latest")
-          , if config.archiveHref == "" then Nothing else Just (navLink config.archiveHref "Archive")
-          , if config.permalinkHref == "" then Nothing else Just (navLink config.permalinkHref "Permalink")
+    commentaryColumns =
+      if isEmpty then
+        el "div" [ HA.class' "empty-note" ] [ txt emptyText ]
+      else
+        el "div" [ HA.class' "commentary-columns" ]
+          [ el "section" [ HA.class' "commentary-column" ]
+              [ el "div" [ HA.class' "panel-kicker" ] [ txt "On the Reading" ]
+              , renderCommentNotes lineLabel firstReadingKind artifact.commentary.reading
+              ]
+          , el "section" [ HA.class' "commentary-column" ]
+              [ el "div" [ HA.class' "panel-kicker" ] [ txt "On the Gospel" ]
+              , renderCommentNotes lineLabel gospelKind artifact.commentary.gospel
+              ]
           ]
 
-    canonicalLink =
-      if artifact.source.itemUrl == "" then ""
-      else "<a class=\"source-link\" href=\"" <> escapeHtml artifact.source.itemUrl <> "\">"
-        <> "Vatican News"
-        <> "</a>"
+    synthesisNode =
+      if artifact.commentary.synthesis == "" then
+        []
+      else
+        [ el "p" [ HA.class' "doctrinal-synthesis" ]
+            [ el "span" [ HA.class' "meta-label" ] [ txt "Doctrinal" ]
+            , txt (" " <> artifact.commentary.synthesis)
+            ]
+        ]
 
+    firstSupplement =
+      el "section" [ HA.class' "supplement-panel" ]
+        [ el "div" [ HA.class' "panel-kicker panel-kicker-strong" ] [ txt "Heterodox Reading" ]
+        , el "div" [ HA.class' "supplement-text" ]
+            [ txt $
+                if excursusText == "" then
+                  if hasLlm then "(no heterodox reading generated)" else emptyText
+                else
+                  excursusText
+            ]
+        ]
+
+    secondSupplement =
+      el "section" [ HA.class' "supplement-panel" ]
+        [ el "div" [ HA.class' "panel-kicker panel-kicker-strong" ] [ txt "Semina Verbi" ]
+        , el "div" [ HA.class' "supplement-text" ]
+            [ txt $
+                if seminaText == "" then
+                  if hasLlm then "(no semina verbi generated)" else emptyText
+                else
+                  seminaText
+            ]
+        ]
+  in
+    el "section" [ HA.class' "panel commentary-panel" ]
+      ([ el "header" [ HA.class' "panel-header" ]
+           [ el "div" [ HA.class' "panel-kicker" ] [ txt "Gloss" ]
+           , el "h2" [ HA.class' "panel-title" ] [ txt "Commentary" ]
+           ]
+       , commentaryColumns
+       ]
+        <> synthesisNode
+        <> [ firstSupplement, secondSupplement ])
+
+artifactDocument :: RenderConfig -> Artifact -> Html Unit
+artifactDocument config artifact =
+  let
     firstReading = Array.find (\r -> r.kind == firstReadingKind) artifact.readings
     gospelReading = Array.find (\r -> r.kind == gospelKind) artifact.readings
-
-    readingHtml = case firstReading of
-      Nothing -> ""
-      Just r -> renderReadingBox r
-
-    gospelHtml = case gospelReading of
-      Nothing -> ""
-      Just r -> renderReadingBox r
-
     translationLabel = case Array.head artifact.readings of
       Nothing -> "Scripture"
       Just r -> r.translation.name <> " (" <> String.toUpper r.translation.id <> ")"
-
-    translationLink =
-      case Array.head artifact.readings of
-        Nothing -> navLink "https://www.gutenberg.org/" translationLabel
-        Just r -> navLink (translationHref r.translation.id) translationLabel
-
+    translationLink = case Array.head artifact.readings of
+      Nothing -> navLink "https://www.gutenberg.org/" translationLabel
+      Just r -> navLink (translationHref r.translation.id) translationLabel
     lineLabel = lineLabelForKind artifact.readings
-
     hasLlm = Array.length artifact.llm.calls > 0
+    heroLinks =
+      Array.catMaybes
+        [ if artifact.source.itemUrl == "" then Nothing else Just (navLink artifact.source.itemUrl "Vatican News")
+        , if config.homeHref == "" then Nothing else Just (navLink config.homeHref "Latest")
+        , if config.archiveHref == "" then Nothing else Just (navLink config.archiveHref "Archive")
+        , if config.permalinkHref == "" then Nothing else Just (navLink config.permalinkHref "Permalink")
+        ]
+
+    readingNodes =
+      Array.catMaybes
+        [ map renderReadingBox firstReading
+        , map renderReadingBox gospelReading
+        ]
   in
-    "<!doctype html>"
-      <> "<html lang=\"en\">"
-      <> "<head>"
-      <> "<meta charset=\"utf-8\" />"
-      <> "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
-      <> "<title>Verbum Diei — " <> escapeHtml artifact.date <> "</title>"
-      <> "<link rel=\"icon\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon.ico") <> "\" />"
-      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-32x32.png") <> "\" />"
-      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-16x16.png") <> "\" />"
-      <> "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"" <> escapeHtml (config.assetPrefix <> "apple-touch-icon.png") <> "\" />"
-      <> "<link rel=\"stylesheet\" href=\"" <> escapeHtml (config.assetPrefix <> "styles.css") <> "\" />"
-      <> "</head>"
-      <> "<body>"
-      <> "<main class=\"layout\">"
-      <> "<header class=\"page-header\">"
-      <> "<div class=\"page-title\">Verbum Diei</div>"
-      <> "<div class=\"page-meta\">"
-      <> "<span class=\"page-date\">" <> escapeHtml artifact.date <> "</span>"
-      <> canonicalLink
-      <> navLinks
-      <> "</div>"
-      <> "</header>"
-      <> renderObservances artifact
-      <> "<aside class=\"box marginalia-box\">"
-      <> "<header class=\"section-header\">"
-      <> "<div class=\"section-kicker\">Margin</div>"
-      <> "<h2 class=\"section-title\">Marginalia</h2>"
-      <> "</header>"
-      <> renderMarginalia lineLabel hasLlm artifact.marginalia
-      <> "</aside>"
-      <> "<div class=\"reading-area\">"
-      <> readingHtml
-      <> "</div>"
-      <> "<div class=\"gospel-area\">"
-      <> gospelHtml
-      <> "</div>"
-      <> renderCommentaryBox lineLabel hasLlm artifact
-      <> "<footer class=\"page-footer\">"
-      <> "<div class=\"footer-note\">"
-      <> "Scripture text: "
-      <> translationLink
-      <> " — public domain. Shown here for convenience, since many modern liturgical lectionary translations are copyrighted; for the official source see Vatican News above."
-      <> "</div>"
-      <> "<div class=\"footer-note\">"
-      <> "Marginalia and glosses are generated by a language model. They are offered as a prompt for reflection, not as doctrinal instruction; for authoritative teaching, consult the Church’s official sources."
-      <> "</div>"
-      <> "<div class=\"footer-note\">"
-      <> "Source code: "
-      <> navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"
-      <> "</div>"
-      <> "</footer>"
-      <> "</main>"
-      <> highlightScript
-      <> "</body>"
-      <> "</html>"
+    el "html" [ HA.lang "en" ]
+      [ documentHead config.assetPrefix ("Verbum Diei - " <> artifact.date)
+      , el "body" [ HA.class' "cathedral-body" ]
+          [ el "main" [ HA.class' "cathedral-layout" ]
+              [ el "header" [ HA.class' "hero-panel" ]
+                  [ el "div" [ HA.class' "hero-title-wrap" ]
+                      [ el "div" [ HA.class' "hero-kicker" ] [ txt "Daily Office of the Word" ]
+                      , el "h1" [ HA.class' "hero-title" ] [ txt "Verbum Diei" ]
+                      , el "div" [ HA.class' "hero-date" ] [ txt artifact.date ]
+                      ]
+                  , el "nav" [ HA.class' "hero-nav" ] heroLinks
+                  ]
+              , renderObservances artifact
+              , el "aside" [ HA.class' "panel marginalia-panel" ]
+                  [ el "header" [ HA.class' "panel-header" ]
+                      [ el "div" [ HA.class' "panel-kicker" ] [ txt "Margin" ]
+                      , el "h2" [ HA.class' "panel-title" ] [ txt "Marginalia" ]
+                      ]
+                  , renderMarginalia lineLabel hasLlm artifact.marginalia
+                  ]
+              , el "section" [ HA.class' "reading-stack" ] readingNodes
+              , renderCommentaryBox lineLabel hasLlm artifact
+              , el "footer" [ HA.class' "site-footer" ]
+                  [ el "p" [ HA.class' "footer-note" ]
+                      [ txt "Scripture text: "
+                      , translationLink
+                      , txt " - public domain. For the official source see Vatican News above."
+                      ]
+                  , el "p" [ HA.class' "footer-note" ]
+                      [ txt "Marginalia and glosses are generated by a language model and offered for reflection, not doctrinal instruction." ]
+                  , el "p" [ HA.class' "footer-note" ]
+                      [ txt "Source code: "
+                      , navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"
+                      ]
+                  ]
+              ]
+          , leaf "script" [ HA.src (config.assetPrefix <> "app.js"), HA.createAttribute "defer" "defer" ]
+          ]
+      ]
 
-navLink :: String -> String -> String
-navLink href label =
-  "<a class=\"source-link\" href=\"" <> escapeHtml href <> "\">"
-    <> escapeHtml label
-    <> "</a>"
-
-highlightScript :: String
-highlightScript =
-  "<script>(function(){const CLS='is-highlighted';let els=[];function clear(){for(const el of els){el.classList.remove(CLS);}els=[];}function apply(ids){clear();for(const id of ids){const el=document.getElementById(id);if(el){el.classList.add(CLS);els.push(el);}}}document.addEventListener('click',function(ev){const a=ev.target&&ev.target.closest?ev.target.closest('a.note-ref'):null;if(!a)return;const raw=a.getAttribute('data-hl');if(!raw)return;const ids=raw.split(/\\s+/).filter(Boolean);if(ids.length)apply(ids);},true);})();</script>"
-
-renderArchivePage :: ArchiveConfig -> Array String -> String
-renderArchivePage config dates =
+archiveDocument :: ArchiveConfig -> Array String -> Html Unit
+archiveDocument config dates =
   let
-    dateLinks =
-      String.joinWith "" $
-        dates <#> \d ->
-          "<li class=\"archive-item\">"
-            <> "<a class=\"source-link\" href=\"" <> escapeHtml (config.dayHrefPrefix <> d <> "/") <> "\">"
-            <> escapeHtml d
-            <> "</a>"
-            <> "</li>"
+    dayLinks =
+      dates <#> \d ->
+        el "li" [ HA.class' "archive-item" ]
+          [ el "a" [ HA.class' "site-link archive-link", HA.href (config.dayHrefPrefix <> d <> "/") ] [ txt d ] ]
+    archiveNavLinks =
+      if config.homeHref == "" then
+        []
+      else
+        [ navLink config.homeHref "Latest" ]
   in
-    "<!doctype html>"
-      <> "<html lang=\"en\">"
-      <> "<head>"
-      <> "<meta charset=\"utf-8\" />"
-      <> "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
-      <> "<title>Verbum Diei — Archive</title>"
-      <> "<link rel=\"icon\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon.ico") <> "\" />"
-      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-32x32.png") <> "\" />"
-      <> "<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"" <> escapeHtml (config.assetPrefix <> "favicon-16x16.png") <> "\" />"
-      <> "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"" <> escapeHtml (config.assetPrefix <> "apple-touch-icon.png") <> "\" />"
-      <> "<link rel=\"stylesheet\" href=\"" <> escapeHtml (config.assetPrefix <> "styles.css") <> "\" />"
-      <> "</head>"
-      <> "<body>"
-      <> "<main class=\"layout layout-single\">"
-      <> "<header class=\"page-header\">"
-      <> "<div class=\"page-title\">Verbum Diei</div>"
-      <> "<div class=\"page-meta\">"
-      <> "<span class=\"page-date\">Archive</span>"
-      <> (if config.homeHref == "" then "" else navLink config.homeHref "Latest")
-      <> "</div>"
-      <> "</header>"
-      <> "<section class=\"box archive-box\">"
-      <> "<header class=\"section-header\">"
-      <> "<div class=\"section-kicker\">All Days</div>"
-      <> "<h2 class=\"section-title\">Archive</h2>"
-      <> "</header>"
-      <> "<ul class=\"archive-list\">"
-      <> dateLinks
-      <> "</ul>"
-      <> "</section>"
-      <> "<footer class=\"page-footer\">"
-      <> "<div class=\"footer-note\">Generated daily.</div>"
-      <> "<div class=\"footer-note\">Source code: "
-      <> navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"
-      <> "</div>"
-      <> "</footer>"
-      <> "</main>"
-      <> "</body>"
-      <> "</html>"
+    el "html" [ HA.lang "en" ]
+      [ documentHead config.assetPrefix "Verbum Diei - Archive"
+      , el "body" [ HA.class' "cathedral-body archive-body" ]
+          [ el "main" [ HA.class' "cathedral-layout archive-layout" ]
+              [ el "header" [ HA.class' "hero-panel archive-hero" ]
+                  [ el "div" [ HA.class' "hero-title-wrap" ]
+                      [ el "div" [ HA.class' "hero-kicker" ] [ txt "All Days" ]
+                      , el "h1" [ HA.class' "hero-title" ] [ txt "Archive" ]
+                      ]
+                  , el "nav" [ HA.class' "hero-nav" ]
+                      archiveNavLinks
+                  ]
+              , el "section" [ HA.class' "panel archive-panel" ]
+                  [ el "header" [ HA.class' "panel-header" ]
+                      [ el "div" [ HA.class' "panel-kicker" ] [ txt "Chronicle" ]
+                      , el "h2" [ HA.class' "panel-title" ] [ txt "Days" ]
+                      ]
+                  , el "ul" [ HA.class' "archive-list" ] dayLinks
+                  ]
+              , el "footer" [ HA.class' "site-footer" ]
+                  [ el "p" [ HA.class' "footer-note" ] [ txt "Generated daily." ]
+                  , el "p" [ HA.class' "footer-note" ]
+                      [ txt "Source code: "
+                      , navLink "https://github.com/brickfrog/verbum-diei" "github.com/brickfrog/verbum-diei"
+                      ]
+                  ]
+              ]
+          ]
+      ]

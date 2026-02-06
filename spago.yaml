@@ -9,6 +9,7 @@ package:
     - effect
     - either
     - exceptions
+    - flame
     - foreign-object
     - foldable-traversable
     - http-methods
@@ -30,6 +31,54 @@ workspace:
   packageSet:
     registry: 68.8.1
   extraPackages:
+    argonaut-generic:
+      git: "https://github.com/purescript-contrib/purescript-argonaut-generic.git"
+      ref: "2df4080f036762df91a24b22842e389395ef0bdd"
+      dependencies:
+        - argonaut-codecs
+        - argonaut-core
+        - arrays
+        - bifunctors
+        - control
+        - either
+        - exceptions
+        - foreign-object
+        - partial
+        - prelude
+        - strings
+        - typelevel-prelude
+    flame:
+      git: "https://github.com/easafe/purescript-flame.git"
+      ref: "40567665bb2af90a3746a5f6e884bf7d33a371dc"
+      dependencies:
+        - aff
+        - argonaut-codecs
+        - argonaut-core
+        - argonaut-generic
+        - arrays
+        - bifunctors
+        - console
+        - effect
+        - either
+        - exceptions
+        - foldable-traversable
+        - foreign
+        - foreign-object
+        - maybe
+        - newtype
+        - nullable
+        - partial
+        - prelude
+        - random
+        - refs
+        - strings
+        - tuples
+        - typelevel-prelude
+        - unsafe-coerce
+        - web-dom
+        - web-events
+        - web-html
+        - web-uievents
     node-crypto:
       git: "https://github.com/purescript-node/purescript-node-crypto.git"
       ref: "7a85ec0aec47f3f3f6c530fe55c3b7ee91da6972"
