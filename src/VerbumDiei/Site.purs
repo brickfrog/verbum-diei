@@ -9,6 +9,7 @@ import Prelude
 import Data.Array as Array
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String as String
+import Data.String.CodeUnits as CodeUnits
 import Effect (Effect)
 import Flame (Html)
 import Flame.Html.Attribute as HA
@@ -34,6 +35,13 @@ type AppShellConfig =
   { assetPrefix :: String
   , pageTitle :: String
   , defaultView :: String
+  }
+
+type OfficeRow =
+  { label :: String
+  , hourLocal :: Int
+  , minuteLocal :: Int
+  , prayer :: String
   }
 
 renderArtifactPage :: RenderConfig -> Artifact -> Effect String
@@ -132,7 +140,10 @@ renderLine kind n label lineText =
 
 renderReadingBox :: forall message. Reading -> Html message
 renderReadingBox reading =
-  el "section" [ HA.class' "panel reading-panel" ]
+  let
+    panelId = if reading.kind == gospelKind then "reading-gospel" else "reading-first"
+  in
+    el "section" [ HA.class' "panel reading-panel", HA.id panelId ]
     [ el "header" [ HA.class' "panel-header" ]
         [ el "div" [ HA.class' "panel-kicker" ] [ txt (kindLabel reading.kind) ]
         , el "h2" [ HA.class' "panel-title" ] [ txt reading.heading ]
@@ -177,7 +188,7 @@ renderObservances artifact =
           , el "span" [ HA.class' "celebration-name" ] [ txt c.name ]
           ]
   in
-    el "section" [ HA.class' "panel observances-panel" ]
+    el "section" [ HA.class' "panel observances-panel", HA.id "observances" ]
       ([ el "header" [ HA.class' "panel-header" ]
           [ el "div" [ HA.class' "panel-kicker" ] [ txt "Day Office" ]
           , el "h2" [ HA.class' "panel-title" ] [ txt "Observances" ]
@@ -186,18 +197,171 @@ renderObservances artifact =
         <> metaNodes
         <> [ el "ul" [ HA.class' "celebration-list" ] celebrationNodes ])
 
-renderMarginalia :: forall message. (ReadingKind -> Int -> String) -> Boolean -> Array MarginalNote -> Html message
-renderMarginalia lineLabel hasLlm notes =
-  if Array.length notes == 0 then
-    el "div" [ HA.class' "empty-note" ]
-      [ txt $
-          if hasLlm then
-            "(no marginalia generated)"
-          else
-            "LLM output unavailable. Set OPENAI_API_KEY and re-run bun run generate."
+officeRows :: Array OfficeRow
+officeRows =
+  [ { label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise." }
+  , { label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day." }
+  , { label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth." }
+  , { label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me." }
+  , { label: "None", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day." }
+  , { label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening." }
+  , { label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit." }
+  ]
+
+pad2 :: Int -> String
+pad2 n =
+  if n < 10 then "0" <> show n else show n
+
+renderHoursOfPrayer :: forall message. Html message
+renderHoursOfPrayer =
+  el "section" [ HA.class' "panel hours-panel", HA.id "hours-of-prayer" ]
+    [ el "header" [ HA.class' "panel-header" ]
+        [ el "div" [ HA.class' "panel-kicker" ] [ txt "Daily Office" ]
+        , el "h2" [ HA.class' "panel-title" ] [ txt "Hours of Prayer" ]
+        , el "div" [ HA.class' "panel-meta" ] [ txt "Times shown for your local timezone." ]
+        ]
+    , el "ol" [ HA.class' "hours-list" ]
+        (officeRows <#> \office ->
+          el "li"
+            [ HA.class' "hour-row"
+            , HA.createAttribute "data-hour-local" (show office.hourLocal)
+            , HA.createAttribute "data-minute-local" (show office.minuteLocal)
+            ]
+            [ el "div" [ HA.class' "hour-name" ] [ txt office.label ]
+            , el "div" [ HA.class' "hour-time" ] [ txt (pad2 office.hourLocal <> ":" <> pad2 office.minuteLocal) ]
+            , el "div" [ HA.class' "hour-prayer" ] [ txt office.prayer ]
+            ])
+    ]
+
+summarizeSnippet :: String -> String -> String
+summarizeSnippet fallback raw =
+  let
+    clean = String.trim raw
+  in
+    if clean == "" then
+      fallback
+    else if CodeUnits.length clean > 190 then
+      CodeUnits.take 187 clean <> "..."
+    else
+      clean
+
+renderMarginalia :: forall message. Artifact -> (ReadingKind -> Int -> String) -> Boolean -> Html message
+renderMarginalia artifact lineLabel hasLlm =
+  let
+    notes = Array.take 8 artifact.marginalia
+    firstCelebration = Array.head artifact.observances.celebrations
+    synthesis = summarizeSnippet "" artifact.commentary.synthesis
+    fallbackSummary = case Array.head notes of
+      Nothing -> "No day summary generated."
+      Just n -> summarizeSnippet "No day summary generated." n.text
+    daySummary = if synthesis == "" then fallbackSummary else synthesis
+
+    contextNodes =
+      [ el "li" []
+          [ el "span" [ HA.class' "meta-label" ] [ txt "Season" ]
+          , txt (" " <> artifact.observances.meta.season)
+          ]
+      , el "li" []
+          [ el "span" [ HA.class' "meta-label" ] [ txt "Cycle" ]
+          , txt (" " <> artifact.observances.meta.cycle)
+          ]
+      , el "li" []
+          [ el "span" [ HA.class' "meta-label" ] [ txt "Psalter" ]
+          , txt (" " <> artifact.observances.meta.psalterWeek)
+          ]
       ]
-  else
-    el "ol" [ HA.class' "marginalia-list" ] (notes <#> renderNote)
+        <> case firstCelebration of
+            Nothing -> []
+            Just c ->
+              [ el "li" []
+                  [ el "span" [ HA.class' "meta-label" ] [ txt "Saint" ]
+                  , txt (" " <> c.name)
+                  ]
+              ]
+        <> if artifact.source.itemUrl == "" then
+            []
+          else
+            [ el "li" []
+                [ el "span" [ HA.class' "meta-label" ] [ txt "Source" ]
+                , txt " "
+                , el "a" [ HA.class' "meta-link", HA.href artifact.source.itemUrl ] [ txt "Vatican News" ]
+                ]
+            ]
+
+    readingMapNodes =
+      artifact.readings <#> \reading ->
+        let
+          target = if reading.kind == gospelKind then "#reading-gospel" else "#reading-first"
+        in
+          el "li" []
+            [ el "a" [ HA.class' "meta-link", HA.href target ]
+                [ txt (kindLabel reading.kind <> ": " <> reading.reference) ]
+            ]
+
+    signalsNode =
+      if hasLlm then
+        el "ul" [ HA.class' "marginalia-prompts" ]
+          [ el "li" []
+              [ el "span" [ HA.class' "meta-label" ] [ txt "Doctrinal" ]
+              , txt (" " <> summarizeSnippet "No doctrinal synthesis." artifact.commentary.synthesis)
+              ]
+          , el "li" []
+              [ el "span" [ HA.class' "meta-label" ] [ txt "Heterodox" ]
+              , txt (" " <> summarizeSnippet "No heterodox reading." artifact.commentary.excursus)
+              ]
+          , el "li" []
+              [ el "span" [ HA.class' "meta-label" ] [ txt "Semina" ]
+              , txt (" " <> summarizeSnippet "No semina verbi." artifact.commentary.seminaVerbi)
+              ]
+          ]
+      else
+        el "div" [ HA.class' "empty-note" ]
+          [ txt "LLM output unavailable. Set OPENAI_API_KEY and re-run bun run generate." ]
+
+    keyNotesNode =
+      if Array.length notes == 0 then
+        el "div" [ HA.class' "empty-note" ]
+          [ txt $
+              if hasLlm then
+                "(no line-level marginalia generated)"
+              else
+                "LLM output unavailable. Set OPENAI_API_KEY and re-run bun run generate."
+          ]
+      else
+        el "ol" [ HA.class' "marginalia-list" ] (notes <#> renderNote)
+  in
+    el "div" [ HA.class' "marginalia-sections" ]
+      [ el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "On This Page" ]
+          , el "ul" [ HA.class' "marginalia-links" ]
+              [ el "li" [] [ el "a" [ HA.class' "meta-link", HA.href "#observances" ] [ txt "Observances" ] ]
+              , el "li" [] [ el "a" [ HA.class' "meta-link", HA.href "#hours-of-prayer" ] [ txt "Hours of Prayer" ] ]
+              , el "li" [] [ el "a" [ HA.class' "meta-link", HA.href "#reading-first" ] [ txt "Reading" ] ]
+              , el "li" [] [ el "a" [ HA.class' "meta-link", HA.href "#reading-gospel" ] [ txt "Gospel" ] ]
+              , el "li" [] [ el "a" [ HA.class' "meta-link", HA.href "#commentary" ] [ txt "Commentary" ] ]
+              ]
+          ]
+      , el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Day Brief" ]
+          , el "p" [ HA.class' "note-text" ] [ txt daySummary ]
+          ]
+      , el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Day Context" ]
+          , el "ul" [ HA.class' "marginalia-context" ] contextNodes
+          ]
+      , el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Reading Map" ]
+          , el "ul" [ HA.class' "marginalia-context" ] readingMapNodes
+          ]
+      , el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Key Line Notes" ]
+          , keyNotesNode
+          ]
+      , el "section" [ HA.class' "marginalia-block" ]
+          [ el "div" [ HA.class' "panel-kicker" ] [ txt "Commentary Signals" ]
+          , signalsNode
+          ]
+      ]
   where
   renderNote :: MarginalNote -> Html message
   renderNote note =
@@ -296,7 +460,7 @@ renderCommentaryBox lineLabel hasLlm artifact =
             ]
         ]
   in
-    el "section" [ HA.class' "panel commentary-panel" ]
+    el "section" [ HA.class' "panel commentary-panel", HA.id "commentary" ]
       ([ el "header" [ HA.class' "panel-header" ]
            [ el "div" [ HA.class' "panel-kicker" ] [ txt "Gloss" ]
            , el "h2" [ HA.class' "panel-title" ] [ txt "Commentary" ]
@@ -346,12 +510,13 @@ artifactDocument config artifact =
                   , el "nav" [ HA.class' "hero-nav" ] heroLinks
                   ]
               , renderObservances artifact
+              , renderHoursOfPrayer
               , el "aside" [ HA.class' "panel marginalia-panel" ]
                   [ el "header" [ HA.class' "panel-header" ]
                       [ el "div" [ HA.class' "panel-kicker" ] [ txt "Margin" ]
                       , el "h2" [ HA.class' "panel-title" ] [ txt "Marginalia" ]
                       ]
-                  , renderMarginalia lineLabel hasLlm artifact.marginalia
+                  , renderMarginalia artifact lineLabel hasLlm
                   ]
               , el "section" [ HA.class' "reading-stack" ] readingNodes
               , renderCommentaryBox lineLabel hasLlm artifact

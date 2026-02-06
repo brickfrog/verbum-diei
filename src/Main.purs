@@ -29,7 +29,7 @@ import VerbumDiei.Observances (getObservances)
 import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, encodeLlmOutput)
 import VerbumDiei.Prompts (heterodoxPrompt, llmInstructions, seminaVerbiPrompt)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
-import VerbumDiei.Site (renderAppShellPage)
+import VerbumDiei.Site (renderAppShellPage, renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
 
 main :: Effect Unit
@@ -407,25 +407,70 @@ writeOutputs artifact = do
             ~> jsonEmptyObject
 
   rootHtml <- liftEffect $
-    renderAppShellPage
+    renderArtifactPage
       { assetPrefix: ""
+      , homeHref: "./"
+      , archiveHref: "archive/"
+      , permalinkHref: "d/" <> artifact.date <> "/"
+      }
+      artifact
+
+  archiveHtml <- liftEffect $
+    renderArchivePage
+      { assetPrefix: "../"
+      , homeHref: "../"
+      , dayHrefPrefix: "../"
+      }
+      dates
+
+  dayPermalinkHtmlStatic <- liftEffect $
+    renderArtifactPage
+      { assetPrefix: "../../"
+      , homeHref: "../../"
+      , archiveHref: "../../archive/"
+      , permalinkHref: "./"
+      }
+      artifact
+
+  dayLegacyHtmlStatic <- liftEffect $
+    renderArtifactPage
+      { assetPrefix: "../"
+      , homeHref: "../"
+      , archiveHref: "../archive/"
+      , permalinkHref: "../d/" <> artifact.date <> "/"
+      }
+      artifact
+
+  dayPermalinkHtmlShell <- liftEffect $
+    renderAppShellPage
+      { assetPrefix: "../../"
       , pageTitle: "Verbum Diei"
       , defaultView: "latest"
       }
 
-  archiveHtml <- liftEffect $
+  dayLegacyHtmlShell <- liftEffect $
     renderAppShellPage
       { assetPrefix: "../"
-      , pageTitle: "Verbum Diei - Archive"
-      , defaultView: "archive"
+      , pageTitle: "Verbum Diei"
+      , defaultView: "latest"
       }
 
   liftEffect do
     writeTextFile "public/data/archive.json" archiveJson
     writeTextFile "public/index.html" rootHtml
     writeTextFile "public/archive/index.html" archiveHtml
+    _ <- dates # traverse \date -> do
+      ensureDir ("public/d/" <> date)
+      ensureDir ("public/" <> date)
+      if date == artifact.date then do
+        writeTextFile ("public/d/" <> date <> "/index.html") dayPermalinkHtmlStatic
+        writeTextFile ("public/" <> date <> "/index.html") dayLegacyHtmlStatic
+      else do
+        writeTextFile ("public/d/" <> date <> "/index.html") dayPermalinkHtmlShell
+        writeTextFile ("public/" <> date <> "/index.html") dayLegacyHtmlShell
+    pure unit
 
-  log ("Wrote public/index.html, public/archive/index.html, public/data/archive.json, and public/data/" <> artifact.date <> ".json")
+  log ("Wrote static latest pages + archive, date routes, public/data/archive.json, and public/data/" <> artifact.date <> ".json")
 
 argValue :: String -> Array String -> Maybe String
 argValue key argv =
