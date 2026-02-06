@@ -2,75 +2,48 @@
   "llm": {
     "calls": [
       {
-        "outputSha256": "d9f622a9531635c34c8ea77c5dbce133455b39dd342ead544af8c6e1d6dfa12d",
+        "outputSha256": "d0de28792ed380001a5c7cd748104768bb809392e56879515874df25c7b09043",
         "inputSha256": "8fd9dc9e7c2cd5f29a513d73302c7bc3b626c299ff4d5fc2a1bb7419f0dd1b1d",
         "model": "gpt-5.2",
         "name": "analysis"
       },
       {
-        "outputSha256": "abb2553108f06cb9f3e0d22649049915cabad3a89c4397b88884e8691df9c8b8",
+        "outputSha256": "1e7260d3cbb54662e6c5c080d7fc13d93a1c67760d3fa3f595255fb9ad51f896",
         "inputSha256": "4801c50ee057e8a459d28c97620ab83754e11a125f6a028d9774674ccb62f21f",
         "model": "gpt-5.2",
         "name": "heterodox_reading"
       },
       {
-        "outputSha256": "532f84aca6f630e0832628a7053a3bf0ee043e22b45c4b2f4cde0616fed15120",
+        "outputSha256": "1a24e2998ed31fde2fbd858530d3e8d33fe9650c57a7f89fa3d3ac244c23fb8d",
         "inputSha256": "338e52c7fb185951f25fdd17eb99495e28e5da766d0c923ae3f8b7558eece8b7",
         "model": "gpt-5.2",
         "name": "semina_verbi"
       }
     ],
-    "generatedAt": "2026-02-06T02:59:27.844Z"
+    "generatedAt": "2026-02-06T17:31:32.439Z"
   },
   "commentary": {
-    "seminaVerbi": "David’s lion-play and songcraft sit near the Hindu kshatriya ideal where ferocity is disciplined into dharma, and near the Bhagavad Gita’s pivot from violence to consecration: the hand that strikes is trained to offer. The singers before the altar resemble the Sufi use of sama and qawwali, where melody is not ornament but a technology of attention that tames the self into gratitude.\n\nHerod’s birthday feast is a courtroom of mirrors: desire, pride, and audience fuse into a single compulsion. That psychology matches the Greek tragic engine—Agamemnon bound by honor, Creon by public face—where a vow becomes a trapdoor and the crowd is the hidden god. Speculation: John’s severed head on a platter echoes the Buddhist warning about courtly intoxication, the “honey on the razor’s edge,” pleasure that demands blood to keep its spell.",
-    "excursus": "Sirach sells David as purified fat, a choice cut trimmed for sacred use: violence rendered hygienic by music. The text wants you to believe that killing can be transmuted into sweetness, that a sling-stone can become a hymn. Desire is recruited as liturgy; the warrior’s appetite is baptized into “thanks.” The dread is what’s omitted: the same hand that breaks horns can also take what it wants, and the singers are set before the altar like a curtain to soften the sound of conquest.\n\nMark shows the cost when violence can’t be aestheticized. Herod isn’t a monster; he’s a man split in two, aroused by a girl’s dance and haunted by a prophet’s voice. John functions as Herod’s conscience and as his fetish: he “hears him willingly,” keeps him close, like a dangerous purity he can’t stop touching. Herodias understands the psychology perfectly: you don’t defeat a ruler with argument, you corner him inside his own performance.\n\nThe banquet is the anti-psalm. An oath replaces prayer, applause replaces blessing, and the head arrives as the true centerpiece, served up to stabilize male status in front of male peers. The girl is the instrument, but the desire is Herod’s: he turns lust into law, then calls himself bound. John dies not for truth but for a room’s hunger for a clean ending. And the final dread is that everyone gets what they want: the prophet’s purity becomes an object, the king keeps his face, the mother gets her trophy, and the disciples are left with only a body—no music, no metaphor, just weight.",
-    "synthesis": "God grants rule and strength only as delegated instrumentality, and he judges rulers who convert conscience into theater. The just man’s word stands; the court’s oaths and feasts rot into murder.",
+    "seminaVerbi": "David’s lion-play is the archetype of trained ferocity: the psyche rehearses danger until it becomes intimate, the way a Zen swordsman or a Shaolin adept makes fear into a familiar tool. It is not innocence; it is aggression disciplined into protection. The “sweet melody” before the altar turns violence into order, like Orphic song taming the underworld or the Vedic idea that right chant stabilizes the world; speculation: art here is the sublimation that keeps power from rotting into mere appetite.\n\nHerod is a study in weak will enthroned. He “fears” the just man and enjoys hearing him, yet lets his image at a banquet murder his conscience; this is Plato’s tyrant-soul, enslaved by desire and the gaze of others. The birthday feast becomes a Dionysian court where eros and spectacle write law, and the prophet’s severed head is the grisly anti-sacrament, closer to the scapegoat mechanism René Girard traces in many cultures. The oath functions like dharma misread as face-saving: a vow treated as fate, when it is only vanity hardened into destiny.",
+    "excursus": "Sirach polishes David into a usable myth: the boy who pets predators, the man who turns slaughter into song. But the music is not an afterthought; it is the technology that makes violence feel like vocation. “With his whole heart” he loves the maker who authorizes his appetite. The sweet melody is the seal over a mouth that has tasted blood.\n\nMark shows what happens when power loses the ability to sanctify itself. Herod is not a tyrant of conviction but of nerves. He “hears willingly” because John’s voice gives him the sensation of being judged, and that sensation feels like life. He keeps the prophet like a caged conscience, a dangerous pet.\n\nThen desire enters as performance: a dance, a room of watching men, a vow spoken to preserve an image. The head on a dish is not simply cruelty; it is the banquet’s true course, the price of male bravado and female resentment, the conversion of speech into meat. David’s singers make killing sound holy; Herod’s guests make it look inevitable. In both, dread and desire collaborate to turn a human throat into an instrument—either for praise or for silence.",
+    "synthesis": "God’s anointed power is ordered toward thanksgiving and worship; worldly power, ruled by appetite and audience, converts truth-telling into a trophy and calls it necessity.",
     "gospel": [
       {
-        "text": "The court’s competing identifications of Jesus function as a diagnostic: when authority lacks truth, it compensates with classifications—names standing in for repentance.",
-        "lines": [
-          2
-        ]
-      },
-      {
-        "text": "The imprisonment is explicitly tethered to an illicit union; the narrative locates the state’s violence in private disorder that has been enthroned.",
+        "text": "The narrative dissects weak authority: Herod is governed by a triangle—illicit bond, domestic resentment, public spectators. He oscillates between fascination with the holy and fear of losing face, and the banquet seals the trap: an oath spoken for an audience becomes a law stronger than conscience. The disciples’ burial is the only coherent act left; it exposes the court’s spectacle as sterile power.",
         "lines": [
           4,
-          6
-        ]
-      },
-      {
-        "text": "A chain of mediated wills replaces judgment: pleasure prompts an oath, an oath yields to an audience, and the audience becomes the real sovereign; the prophet is killed so the ruler can remain unembarrassed.",
-        "lines": [
+          6,
+          7,
           9,
-          11,
-          13
-        ]
-      },
-      {
-        "text": "The disciples’ burial is the sole act of sanity in the episode: a quiet refusal to let the regime’s spectacle be the last word.",
-        "lines": [
+          13,
           16
         ]
       }
     ],
     "reading": [
       {
-        "text": "David’s public glory is depicted as doxological capital: victory is immediately converted into praise, so the king’s legitimacy is framed as derivative—his renown is permitted only as it returns to the Lord.",
+        "text": "The passage edits kingship into doxology: the public achievements are narrated as praise-acts, so rule is legitimated by attribution. The political arc bends toward cultic order; the king’s greatness is measured by whether glory is returned upward rather than hoarded.",
         "lines": [
-          6
-        ]
-      },
-      {
-        "text": "The text treats political security (“enemies on every side”) as an achieved condition, yet it refuses to let that condition be self-grounding; it is narrated as a consequence, not a foundation.",
-        "lines": [
-          7
-        ]
-      },
-      {
-        "text": "Inner disposition is made the hinge of outward power: thanksgiving and whole-hearted love are presented as the grammar in which kingship can be spoken without becoming idolatry.",
-        "lines": [
+          6,
           8,
           9
         ]
@@ -79,88 +52,153 @@
   },
   "marginalia": [
     {
-      "text": "Election rendered as butchery: fat trimmed, choice revealed.",
+      "text": "Election rendered as butchery: the chosen is what is cut away.",
       "lines": [
         1
       ],
       "readingKind": "first"
     },
     {
-      "text": "Predation domesticated; the shepherd toys with teeth.",
+      "text": "Predation domesticated; the shepherd’s child plays at Eden with teeth still present.",
       "lines": [
         2
       ],
       "readingKind": "first"
     },
     {
-      "text": "A hand lifts; a pebble legislates against boasting.",
+      "text": "Tiny stone, huge mouth; boasting is a physical thing to be struck down.",
       "lines": [
         4
       ],
       "readingKind": "first"
     },
     {
-      "text": "Prayer transfers agency; the right hand becomes an instrument, not a cause.",
+      "text": "Invocation precedes force; the “right hand” is lent, not owned.",
       "lines": [
         5
       ],
       "readingKind": "first"
     },
     {
-      "text": "From slaughter to liturgy: the altar gets musicians as policy.",
+      "text": "Horn-language: power is treated as an animal growth that can be broken.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "After blood, liturgy: violence resolves into ordered sound.",
       "lines": [
         10
       ],
       "readingKind": "first"
     },
     {
-      "text": "A guilty court invents resurrection to explain rumor.",
+      "text": "Guilt manufactures miracles: the dead must return to explain the living.",
       "lines": [
         1
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "The verb remembers: “I beheaded” outlives the head.",
+      "text": "He names the deed plainly—“I beheaded”—and still calls it resurrection.",
       "lines": [
         3
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Law spoken plainly; illegality needs no ornament.",
+      "text": "Law is a sentence, not advice; it makes the bedroom a courtroom.",
       "lines": [
         5
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "“Convenient day”: the calendar conspires with appetite.",
+      "text": "“Convenient day”: time itself becomes an accomplice.",
       "lines": [
         8
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "A kingdom wagered in a room; sovereignty traded for applause.",
+      "text": "Half a kingdom offered to a dancer: sovereignty auctioned by impulse.",
       "lines": [
         10
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "Speed as complicity: haste makes murder administrative.",
+      "text": "Haste plus “forthwith”: desire wants speed more than reasons.",
       "lines": [
         12
       ],
       "readingKind": "gospel"
     },
     {
-      "text": "The platter circulates; death becomes a gift economy.",
+      "text": "The head circulates as a gift; murder converted into table-service.",
       "lines": [
         15
       ],
       "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, strength of all the saints, who have called Saint Paul Miki and his companions to eternal life through the cross: grant us, through their intercession, to hold fast with vigor, even unto death, the faith we profess. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, strength of all the saints, who have called Saint Paul Miki and his companions to eternal life by way of the cross, grant us, through their intercession, to keep with steadfast courage, even unto death, the faith we profess. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep over the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext mounted the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us, who, like him, confess our sins, and grant that we too, like him, may enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of all the saints, who through the Cross have called Saint Paul Miki and his companions to eternal life, grant us, through their intercession, to hold fast with courage, even unto death, to the faith we profess. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLord, almighty God: since by our rest we are going to imitate your Son, who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
     }
   ],
   "readings": [
