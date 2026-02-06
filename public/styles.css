@@ -44,6 +44,12 @@ body {
   font-family: var(--font-serif);
 }
 
+/* Legacy pages do not include cathedral-body and need a light reading surface. */
+body:not(.cathedral-body) {
+  background: linear-gradient(180deg, #f8f3e9, #f2e8d8 62%);
+  color: #20171d;
+}
+
 pre,
 code,
 kbd,
@@ -518,6 +524,223 @@ samp,
 .observances-meta .label,
 .scripture .ln {
   font-family: var(--font-sans);
+}
+
+body:not(.cathedral-body) .layout {
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 2.4rem 1.25rem 4rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 20rem;
+  grid-template-areas:
+    "header header"
+    "observances marginalia"
+    "reading marginalia"
+    "gospel marginalia"
+    "commentary marginalia"
+    "footer marginalia";
+  gap: 1rem;
+  align-items: start;
+}
+
+body:not(.cathedral-body) .layout.layout-single {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas:
+    "header"
+    "archive"
+    "footer";
+}
+
+body:not(.cathedral-body) .page-header {
+  grid-area: header;
+  padding: 0.2rem 0 0.68rem;
+  border-bottom: 1px solid rgba(62, 37, 68, 0.22);
+}
+
+body:not(.cathedral-body) .page-title {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  line-height: 1.14;
+  color: #4a1e37;
+}
+
+body:not(.cathedral-body) .page-meta {
+  margin-top: 0.56rem;
+  display: flex;
+  gap: 0.56rem;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #4d3f4f;
+}
+
+body:not(.cathedral-body) .page-date {
+  font-size: 0.9rem;
+}
+
+body:not(.cathedral-body) .box {
+  border-radius: 14px;
+  border: 1px solid rgba(71, 42, 79, 0.24);
+  background:
+    linear-gradient(175deg, rgba(255, 255, 255, 0.8), rgba(248, 240, 227, 0.95)),
+    #f7eee0;
+  box-shadow: 0 10px 24px rgba(33, 18, 38, 0.12);
+  padding: 0.92rem;
+}
+
+body:not(.cathedral-body) .observances-box {
+  grid-area: observances;
+}
+
+body:not(.cathedral-body) .marginalia-box {
+  grid-area: marginalia;
+  position: sticky;
+  top: 1rem;
+}
+
+body:not(.cathedral-body) .reading-area {
+  grid-area: reading;
+}
+
+body:not(.cathedral-body) .gospel-area {
+  grid-area: gospel;
+}
+
+body:not(.cathedral-body) .commentary-box {
+  grid-area: commentary;
+}
+
+body:not(.cathedral-body) .archive-box,
+body:not(.cathedral-body) .archive-panel {
+  grid-area: archive;
+}
+
+body:not(.cathedral-body) .section-header {
+  margin-bottom: 0.72rem;
+}
+
+body:not(.cathedral-body) .section-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.66rem;
+  color: #5f4f5d;
+}
+
+body:not(.cathedral-body) .section-title {
+  margin: 0.2rem 0 0.08rem;
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+body:not(.cathedral-body) .observances-meta {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 0.68rem;
+}
+
+body:not(.cathedral-body) .observances-meta > div {
+  border-radius: 10px;
+  border: 1px solid rgba(71, 42, 79, 0.2);
+  background: rgba(255, 255, 255, 0.55);
+  padding: 0.44rem 0.5rem;
+  display: grid;
+  gap: 0.1rem;
+}
+
+body:not(.cathedral-body) .observances-meta .label {
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  font-size: 0.62rem;
+  color: #5e2b39;
+}
+
+body:not(.cathedral-body) .celebrations {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 0.44rem;
+}
+
+body:not(.cathedral-body) .celebration {
+  border-radius: 10px;
+  border: 1px solid rgba(71, 42, 79, 0.2);
+  background: rgba(255, 255, 255, 0.55);
+  padding: 0.44rem 0.52rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.52rem;
+}
+
+body:not(.cathedral-body) .celebration-rank {
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 0.62rem;
+  color: #5a4a52;
+  background: rgba(58, 31, 68, 0.08);
+  border-radius: 999px;
+  padding: 0.16rem 0.42rem;
+}
+
+body:not(.cathedral-body) .notes,
+body:not(.cathedral-body) .comment-notes {
+  margin: 0;
+  padding-left: 1rem;
+  display: grid;
+  gap: 0.62rem;
+}
+
+body:not(.cathedral-body) .comment-notes {
+  list-style: none;
+  padding-left: 0;
+}
+
+body:not(.cathedral-body) .scripture {
+  display: grid;
+  gap: 0.42rem;
+}
+
+body:not(.cathedral-body) .scripture .ln {
+  text-align: right;
+  min-width: 2.2rem;
+  display: inline-block;
+  color: #5f4f5d;
+  font-size: 0.74rem;
+  margin-right: 0.5rem;
+}
+
+body:not(.cathedral-body) .empty {
+  color: #5f4f5d;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+body:not(.cathedral-body) .page-footer {
+  grid-area: footer;
+}
+
+@media (max-width: 1020px) {
+  body:not(.cathedral-body) .layout {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "header"
+      "observances"
+      "marginalia"
+      "reading"
+      "gospel"
+      "commentary"
+      "footer";
+  }
+
+  body:not(.cathedral-body) .marginalia-box {
+    position: static;
+  }
+
+  body:not(.cathedral-body) .observances-meta {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 .page-meta .source-link {

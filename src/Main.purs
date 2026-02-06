@@ -3,6 +3,8 @@ module Main where
 import Prelude
 
 import Control.Monad.Error.Class (throwError)
+import Data.Argonaut.Core (jsonEmptyObject)
+import Data.Argonaut.Encode ((:=), (~>))
 import Data.Array as Array
 import Data.Char as Char
 import Data.Either (Either(..))
@@ -27,7 +29,7 @@ import VerbumDiei.Observances (getObservances)
 import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, encodeLlmOutput)
 import VerbumDiei.Prompts (heterodoxPrompt, llmInstructions, seminaVerbiPrompt)
 import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
-import VerbumDiei.Site (renderArchivePage, renderArtifactPage)
+import VerbumDiei.Site (renderAppShellPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
 
 main :: Effect Unit
@@ -390,48 +392,40 @@ listDataDates = do
 writeOutputs :: Artifact -> Aff Unit
 writeOutputs artifact = do
   let json = stringifyPretty (encodeArtifact artifact)
-  rootHtml <- liftEffect $
-    renderArtifactPage
-      { assetPrefix: ""
-      , homeHref: ""
-      , archiveHref: "archive/"
-      , permalinkHref: "d/" <> artifact.date <> "/"
-      }
-      artifact
-
-  dayHtml <- liftEffect $
-    renderArtifactPage
-      { assetPrefix: "../../"
-      , homeHref: "../../"
-      , archiveHref: "../../archive/"
-      , permalinkHref: ""
-      }
-      artifact
 
   liftEffect do
     ensureDir "public"
     ensureDir "public/data"
-    ensureDir "public/d"
-    ensureDir ("public/d/" <> artifact.date)
     ensureDir "public/archive"
 
     writeTextFile ("public/data/" <> artifact.date <> ".json") json
-    writeTextFile "public/index.html" rootHtml
-    writeTextFile ("public/d/" <> artifact.date <> "/index.html") dayHtml
 
   dates <- liftEffect listDataDates
-  archiveHtml <- liftEffect $
-    renderArchivePage
-      { assetPrefix: "../"
-      , homeHref: "../"
-      , dayHrefPrefix: "../d/"
+  let archiveJson =
+        stringifyPretty $
+          "dates" := dates
+            ~> jsonEmptyObject
+
+  rootHtml <- liftEffect $
+    renderAppShellPage
+      { assetPrefix: ""
+      , pageTitle: "Verbum Diei"
+      , defaultView: "latest"
       }
-      dates
+
+  archiveHtml <- liftEffect $
+    renderAppShellPage
+      { assetPrefix: "../"
+      , pageTitle: "Verbum Diei - Archive"
+      , defaultView: "archive"
+      }
 
   liftEffect do
+    writeTextFile "public/data/archive.json" archiveJson
+    writeTextFile "public/index.html" rootHtml
     writeTextFile "public/archive/index.html" archiveHtml
 
-  log ("Wrote public/index.html, public/d/" <> artifact.date <> "/index.html, and public/archive/index.html")
+  log ("Wrote public/index.html, public/archive/index.html, public/data/archive.json, and public/data/" <> artifact.date <> ".json")
 
 argValue :: String -> Array String -> Maybe String
 argValue key argv =

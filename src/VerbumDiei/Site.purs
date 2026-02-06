@@ -1,6 +1,7 @@
 module VerbumDiei.Site
   ( renderArtifactPage
   , renderArchivePage
+  , renderAppShellPage
   ) where
 
 import Prelude
@@ -29,6 +30,12 @@ type ArchiveConfig =
   , dayHrefPrefix :: String
   }
 
+type AppShellConfig =
+  { assetPrefix :: String
+  , pageTitle :: String
+  , defaultView :: String
+  }
+
 renderArtifactPage :: RenderConfig -> Artifact -> Effect String
 renderArtifactPage config artifact =
   FRS.render (artifactDocument config artifact)
@@ -36,6 +43,10 @@ renderArtifactPage config artifact =
 renderArchivePage :: ArchiveConfig -> Array String -> Effect String
 renderArchivePage config dates =
   FRS.render (archiveDocument config dates)
+
+renderAppShellPage :: AppShellConfig -> Effect String
+renderAppShellPage config =
+  FRS.render (appShellDocument config)
 
 el :: forall message. String -> Array (NodeData message) -> Array (Html message) -> Html message
 el = HE.createElement
@@ -404,3 +415,19 @@ archiveDocument config dates =
               ]
           ]
       ]
+
+appShellDocument :: AppShellConfig -> Html Unit
+appShellDocument config =
+  el "html" [ HA.lang "en" ]
+    [ documentHead config.assetPrefix config.pageTitle
+    , el "body" [ HA.class' "cathedral-body app-shell-body" ]
+        [ el "main"
+            [ HA.id "app-root"
+            , HA.class' "cathedral-layout"
+            , HA.createAttribute "data-default-view" config.defaultView
+            , HA.createAttribute "data-asset-prefix" config.assetPrefix
+            ]
+            []
+        , leaf "script" [ HA.src (config.assetPrefix <> "app.js"), HA.createAttribute "defer" "defer" ]
+        ]
+    ]

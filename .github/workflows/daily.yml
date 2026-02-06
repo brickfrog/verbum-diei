@@ -36,14 +36,12 @@ jobs:
         run: |
           if [[ -d ".published/data" ]]; then
             echo "Restoring prior published days from gh-pages…"
-            mkdir -p public/data public/d
+            mkdir -p public/data
             rsync -a ".published/data/" "public/data/"
-            if [[ -d ".published/d" ]]; then
-              rsync -a ".published/d/" "public/d/"
-            fi
           else
             echo "No gh-pages branch yet; starting fresh."
           fi
+          rm -rf public/d
 
       - name: Generate
         env:

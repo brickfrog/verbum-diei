@@ -20,9 +20,9 @@ Daily “Word of the Day” (Vatican News RSS) rendered as a static page with:
 
 Outputs:
 - `public/index.html`
-- `public/data/YYYY-MM-DD.json`
-- `public/d/YYYY-MM-DD/index.html`
 - `public/archive/index.html`
+- `public/data/archive.json`
+- `public/data/YYYY-MM-DD.json`
 
 ## Bible text source
 
@@ -32,6 +32,8 @@ Outputs:
 ## Preview
 
 - `bun run serve` then open `http://localhost:5173`
+- specific day: `http://localhost:5173/?date=2025-12-23`
+- archive: `http://localhost:5173/archive/`
 
 ## Publish (GitHub Pages)
 
