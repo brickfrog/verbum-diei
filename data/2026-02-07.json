@@ -1,0 +1,253 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b9cb2d0393fea809cccc1ec7c52d1f958f763ddc245b89e62ac4e348beebb74e",
+        "inputSha256": "8987743945d7744164abfa00c315b9f8814983210888149f5dfaccee30acf94d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "93d1eb8712345c2c0fddd322331c4cd29d7c01ae2663c0b1081c92acef8e380c",
+        "inputSha256": "ec94961ad0719c01c8aeb64392fcb9b08c5cbd7c5aa8e282550c94a9795ca88c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "64322f20586284b22028b0869dedd7e82dd0f7da902708c6796e5953999f5975",
+        "inputSha256": "6bf3e66c4ec455bffaf3bccf56ef60100912bb97368073f1518386ff552b19c4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-07T01:55:21.199Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Solomon’s request sounds like the Confucian ideal of rulership by cultivated discernment rather than appetite: the junzi who governs by ren and li, where legitimacy is measured by moral perception. It also brushes against Plato’s philosopher-king, where the first political act is an interior reordering toward the Good; the “understanding heart” is a psyche trained to see proportion. Speculation: the dream-audience functions like an inner tribunal, akin to the Upanishadic move from external sacrifice to the subtler ask of buddhi—clarity that adjudicates desire.\n\nThe desert withdrawal and the crowd’s pursuit resembles the Buddha’s oscillation between solitude and teaching: renunciation not as escape but as the condition for clean attention. “Sheep without a shepherd” parallels Daoist suspicion of frantic striving: people stream because they are unmoored; the sage’s compassion is not sentiment but orientation, a re-centering. Speculation: the inability “to eat” reads like modern burnout; the teacher insists on a rhythm that protects the mind so it can serve without turning predatory or numb.",
+    "excursus": "Solomon buys a night’s intimacy with God by burning a thousand bodies. The “wisdom” he asks for isn’t purity; it’s management. He calls himself a child as a tactic, a way to make power look like burden, to make ambition sound like service. The dream is a contract: he requests an “understanding heart,” the organ that can feel and calculate at once, and he gets it—along with the unasked-for spoil. The text pretends this is a reward for restraint, but it reads like a seduction: virtue as a mask that lets desire take everything without admitting hunger.\n\nIn Mark, the disciples report their work like exhausted contractors, and Jesus offers a desert not as holiness but as triage: a place where the body can finally eat, where the machine can stop. The crowd ruins it. They sprint to the shoreline, refusing to let the workers become private people again. Jesus’s compassion is not soft; it’s the grim recognition that need is endless and leaderless, and it will invade every attempted silence. So he teaches—because teaching is the only feeding that can scale when the appetite is infinite. The dread underneath both scenes is the same: you can’t rule without sacrifice, and you can’t rest without abandoning someone. Desire for wisdom and desire for solitude are both answered, and both answers come with a multitude attached.",
+    "synthesis": "God approves the petition that seeks justice for others, and he equips rulers and apostles by giving wisdom and teaching rather than indulgence. True shepherding is measured by ordered judgment and doctrine, not by the multiplication of comforts.",
+    "gospel": [
+      {
+        "text": "Apostolic report (1) frames ministry as accountable work. The attempted withdrawal (3) is not failure but a contested rhythm: rest is commanded, yet the teacher re-enters the public field and answers with formation (5). The scene defines leadership as shepherding through doctrine—ordering a scattered people by speech before any other provision.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The exchange is covenantal and dynastic: Solomon appeals to Davidic mercy (3), then God interprets the request as a reordering of kingship’s aims (8). The promised “heart” is not private enlightenment but a governing organ; the superlative claim (“none like…,” 9) establishes legitimacy. The added riches/glory (10) expose a paradox: renunciation is rewarded with the very temptations renounced, so the narrative quietly sets up future judgment of how gifts are borne.",
+        "lines": [
+          3,
+          8,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "A “high place” for worship: devotion still wearing Canaanite architecture.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God’s blank check is a test, not a gift.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Child” is political speech: weakness confessed to obtain strength.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wisdom defined as discrimination—good/evil, not cleverness.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Lord is “pleased” by the object of desire; prayer is moralized.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The kingdom’s labor produces hunger; mission consumes even meals.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The crowd outpaces the boat: human need outruns strategy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Compassion becomes instruction; the remedy begins as teaching, not bread.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, radiant light and day without end, as we begin a new day once more, we ask you to visit us with the splendor of your light and thus dispel the darkness of our sins. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from all adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, inflamed with your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for in you alone has it placed its hope. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell in it and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "He went therefore to Gabaon, to sacrifice there: for that was the great high place: a thousand victims for holocausts, did Solomon offer upon that altar, in Gabaon.",
+        "And the Lord appeared to Solomon in a dream by night, saying: Ask what thou wilt that I should give thee.",
+        "And Solomon said: Thou hast shewed great mercy to thy servant David, my father, even as he walked before thee in truth, and justice, and an upright heart with thee: and thou hast kept thy great mercy for him, and hast given him a son to sit on his throne, as it is this day.",
+        "And now, O Lord God, thou hast made thy servant king instead of David, my father: and I am but a child, and know not how to go out and come in;",
+        "And thy servant is in the midst of the people which thou hast chosen, an immense people, which cannot be numbered nor counted for multitude.",
+        "Give therefore to thy servant an understanding heart, to judge thy people, and discern between good and evil. For who shall be able to judge this people, thy people, which is so numerous?",
+        "And the word was pleasing to the Lord, that Solomon had asked such a thing.",
+        "And the Lord said to Solomon: Because thou hast asked this thing, and hast not asked for thyself long life nor riches, nor the lives of thy enemies, but hast asked for thyself wisdom to discern judgment;",
+        "Behold I have done for thee according to thy words, and have given thee a wise and understanding heart, in so much that there hath been no one like thee before thee, nor shall arise after thee.",
+        "Yea, and the things also which thou didst not ask, I have given thee; to wit, riches and glory: so that no one hath been like thee among the kings in all days heretofore."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 3:4-13",
+      "reference": "1 Kings 3:4-13",
+      "heading": "A reading from the First Bok of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the apostles coming together unto Jesus, related to him all things that they had done and taught.",
+        "And he said to them: Come apart into a desert place, and rest a little. For there were many coming and going: and they had not so much as time to eat.",
+        "And going up into a ship, they went into a desert place apart.",
+        "And they saw them going away, and many knew: and they ran flocking thither foot from all the cities, and were there before them.",
+        "And Jesus going out saw a great multitude: and he had compassion on them, because they were as sheep not having a shepherd, and he began to teach them many things."
+      ],
+      "lineRefs": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:30-34",
+      "reference": "Mark 6:30-34",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 4th week of Ordinary Time",
+        "key": "saturdayOfThe4thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/07.html",
+    "title": "Gospel and Word of the Day - 07 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-07"
+}
