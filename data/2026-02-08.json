@@ -1,0 +1,220 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5bcd1eb0784c4436faf951e3425dd35be7ce28445bd64ec4e0e08eeee6fd77af",
+        "inputSha256": "16feb28a1d97fe6731e78bd0782a47b6e66b3d501df73f0f95b5b8ab7c644a1c",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "59a5898e815c9e9042ab68ec18aa2550b5cddbdfdbf744694aa193fc86324a05",
+        "inputSha256": "ddf9da613f3c805744f071e47ddba0c43299bca5886e3fd1cc5e99df3b7bc2ed",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5159140f852a193ef671b3219a18f622bafee5653ee3e79ea62da2f4902b04fd",
+        "inputSha256": "6e3e2e667928b8052f64ec86a38e5eab11976d570e03ebfd826cc6dcb3f6512f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-08T04:54:24.706Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is an anthropology of radiance: light is not a private mood but a public byproduct of unblocked mercy. The “chain,” the pointing finger, the useless talk are psychic constrictions that keep energy circling the ego; feeding and sheltering reopen the circuit, so brightness appears as consequence, not performance. Salt names a different danger: the self that tries to be agreeable to everyone becomes chemically inert, a life without bite, incapable of preserving anything, and therefore easily trampled.\n\nSpeculation: the Taoist image of de, quiet potency that becomes visible only in its effects, sits close to this non-performative shine. In Buddhism, bodhisattva compassion that turns outward in concrete relief echoes “pour out your soul,” while the warning about tasteless salt resembles the loss of vow into mere spiritual identity. In the Bhagavad Gita, karma yoga’s insistence that action purifies when offered beyond the self parallels works that draw attention past the actor. In Islam, zakat and the ethic of sheltering the vulnerable share the same psychology: generosity as a solvent of hardness. In Stoicism, oikeiosis and cosmopolitan duty mirror “despise not thy own flesh,” expanding the circle of self until care becomes rational and luminous.",
+    "excursus": "Isaiah isn’t selling kindness; he’s naming a hunger you can’t spiritualize away. “Despise not thy own flesh” is the crack in the pious mask: the poor are your body returned to you, the part you tried to exile. The command to bring the harbourless into your house is invasive on purpose. Charity is not a gesture at a distance; it is letting need contaminate your clean rooms, letting your life be rearranged by someone else’s lack. The “chain” isn’t only oppression out there; it’s the internal leash that keeps your compassion on a schedule.\n\nThe promised “light” is not serenity. It’s exposure. Light breaks forth when you stop pointing the finger because the finger was always a way to keep your own appetite unexamined. “Pour out thy soul” reads like hemorrhage: you become less intact, more porous, and only then does darkness turn into noonday—not because darkness vanished, but because you can finally look at it without anesthetic.\n\nMatthew’s salt and light are not compliments; they’re threats. Salt that loses savor is a self that has gone bland from self-protection, fit only to be stepped on because it already chose being harmless over being real. Light is publicity, and publicity is danger. A city on a hill is a target as much as a beacon. “Let your light shine” means accept being seen in your works, accept that your faith can be audited by your door and your table. The dread here is that goodness will cost you your privacy; the desire is that losing it might be the only way you become whole.",
+    "synthesis": "God binds communion with him to concrete mercy and disciplined speech, and he makes the Church’s fidelity publicly legible. The visibility of good works is ordained to terminate in the Father’s glory, not the worker’s name.",
+    "gospel": [
+      {
+        "text": "Matthew frames the disciple-community as an irreducibly public fact: like a hill-city, it cannot be made private without contradiction. The text assumes opposition and observation; concealment is treated as impossible, not merely cowardly.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah ties ethical action to eschatological visibility: light, health, justice, and \"glory\" arrive as a single procession, with justice leading and glory bringing up the rear—an ordered march, not a mood. The promise describes a life gathered into divine presence, not merely improved circumstances.",
+        "lines": [
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Bread is dealt, not donated: an act of distribution, not sentiment. \"Harbourless\" indicts the house that stays sealed. \"Despise not thy own flesh\" collapses charity into kinship.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prayer is made conditional: hearing follows surgery. The \"chain\" is internal; the \"finger\" is social violence; empty speech is treated as moral waste.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "\"Pour out thy soul\" replaces surplus-giving with self-emptying. The inversion is sharp: light rising inside darkness; noon born from what should have been night.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Salt can fail; vocation is not automatic. Uselessness ends in exposure—cast out, then trampled: public judgment, not private disappointment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Light is instrumental: it has a designed placement. The domestic image (bushel/candlestick/house) turns witness into a matter of arrangement, not intensity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Works are made visible without becoming the terminus. The gaze is redirected: seen by men, credited to the Father.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for in you alone has it placed its hope. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for in you alone it has placed its hope. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for in you alone it has placed its hope. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Keep watch, Lord, with unceasing love over your family; protect and defend it always, for in you alone has it placed its hope. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for in you alone it has placed its hope. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Keep watch, Lord, with unceasing love over your family; protect and defend it always, for only in you has it placed its hope. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Deal thy bread to the hungry, and bring the needy and the harbourless into thy house: when thou shalt see one naked, cover him, and despise not thy own flesh.",
+        "Then shall thy light break forth as the morning, and thy health shall speedily arise, and thy justice shall go before thy face, and the glory of the Lord shall gather thee up.",
+        "Then shalt thou call, and the Lord shall hear: thou shalt cry, and he shall say, Here I am. If thou wilt take away the chain out of the midst of thee, and cease to stretch out the finger, and to speak that which profiteth not.",
+        "When thou shalt pour out thy soul to the hungry, and shalt satisfy the afflicted soul, then shall thy light rise up in darkness, and thy darkness shall be as the noonday."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 58:7-10",
+      "reference": "Isaiah 58:7-10",
+      "heading": "First reading from the Book of the Prophet Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing anymore but to be cast out, and to be trodden on by men.",
+        "You are the light of the world. A city seated on a mountain cannot be hid.",
+        "Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house.",
+        "So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:13-16",
+      "reference": "Matthew 5:13-16",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "5th Sunday of Ordinary Time",
+        "key": "5thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/08.html",
+    "title": "Gospel and Word of the Day - 08 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-08"
+}
