@@ -907,7 +907,9 @@ extractBookFromHeading heading =
       case Array.index bookTokens 0 of
         Just firstToken -> firstToken `Array.elem` [ "1", "2", "3", "4", "i", "ii", "iii", "iv" ]
         Nothing -> false
-    ordinal = if bookHasOrdinal then Nothing else findOrdinal tokens
+    baseBookKey = normalizeBookKey baseBook
+    baseBookIsOrdinal = baseBookKey `Array.elem` ordinalBooks
+    ordinal = if bookHasOrdinal || not baseBookIsOrdinal then Nothing else findOrdinal tokens
     withOrdinal =
       case ordinal of
         Just ord -> ord <> " " <> baseBook
@@ -1047,6 +1049,9 @@ isStopword token =
     "gospel" -> true
     "according" -> true
     "holy" -> true
+    "prophet" -> true
+    "prophetess" -> true
+    "apostle" -> true
     _ -> false
 
 titleCase :: String -> String
