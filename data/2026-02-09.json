@@ -1,0 +1,262 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "213d09e82fb95a95daa846a63c4ffc6c23e9d076d02fc927718145db429eff66",
+        "inputSha256": "f1aa92c222f901eff56dfa2b192ca207dd178a736ee8c4b579b299bf03277d55",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "cfb1dc71776a5e480c068d66393717f4b1e827d57225f0b64b66f6606469d781",
+        "inputSha256": "9e64e9b56811a26b68d7560ee2e22f281b71385a436647eabf52e229e4a8407f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5a74d899b3e354bca38cf51766166d5c9773f6df6ffe241ae1f4baff8a5838b5",
+        "inputSha256": "8b712b2505aba905c21a7570c4b9a05d4dd887d7f855cbb7490cd76fba355260",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-09T01:55:33.445Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The ark’s arrival makes holiness tactile: law becomes a carried weight, a public center, a thing that reorganizes a people’s nervous system. The cloud that drops into the house is the psyche’s limit-experience, the moment meaning thickens beyond speech and even trained functionaries can’t keep performing. It’s not consolation; it’s overload. Solomon’s “house” is an attempt to give the ungraspable a stable address, to bind transcendence to architecture without domesticating it.\n\nIn Mark, the charge flips from place to person. The crowd wants contact, not instruction; the hem is a handle for hope. They don’t ask for a new covenantal theory, they press a body into service as the new threshold. Healing here is contagion in reverse: instead of impurity spreading, wholeness does. The garment’s edge is where fear can negotiate with desire without having to meet the face.\n\nSemina Verbi: the cloud that disables ritual echoes the apophatic “unknowing” of Pseudo-Dionysius and the via negativa in Advaita’s neti neti, where the mind’s competence collapses before the real. The portable law enthroned in a sanctum resembles the Sikh Guru Granth Sahib’s courtly installation and the Buddhist relic-stupa economy, where truth is housed, carried, and socially centered. The hem-touching resembles Hindu darshan and Islamic baraka around a saint’s cloak; speculation: the psyche uses proximity to a charged object as a bridge between helplessness and agency, making faith a somatic act before it becomes a narrative.",
+    "excursus": "Solomon stages God like a trophy. The elders, the princes, the heads of families converge to move the ark the way a state moves its crown jewels, under a blizzard of slaughter that feels less like devotion than like payment. The “holy of holies” becomes a vault, the cherubim wings a lid. And inside the ark: not presence, not voice, but two stone slabs. The center of the nation is a hard, silent contract.\n\nThen the cloud arrives and ruins the ceremony. The priests cannot stand; the professionals of access are flattened. Glory is not comfort here but overload, an atmospheric seizure that makes liturgy impossible. Solomon tries to narrate it back into order—God dwells in a cloud, therefore my house is his throne—but the text betrays him. A cloud is what you get when you cannot see what you’ve summoned.\n\nMark answers with an opposite shrine: a moving body no one can contain. People don’t wait for permission, don’t need an inner room; they drag their need into the street. They don’t ask for an audience, just friction, the hem, the smallest contact. Power leaks, indiscriminate and destabilizing, undoing hierarchy the way the cloud undid the priests. The desire is almost embarrassing: not doctrine, not speech, just touch.\n\nPut together, they read like a warning. Build a temple and you may end up worshiping your own control, guarding stones and calling it God. But the holy keeps escaping into weather and fabric, into panic-crowds and desperate hands, refusing to stay where it would make you feel safe.",
+    "synthesis": "God’s presence is not secured by human structures; it sovereignly manifests and, in Christ, becomes a communicable power that heals by contact.",
+    "gospel": [
+      {
+        "text": "The shoreline becomes a mobile sanctuary. Space is redefined by Jesus’ entry rather than by consecrated boundaries; the street replaces the inner court, and access is granted by proximity rather than pedigree.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The assembly is total—tribal, familial, sacerdotal—because the cult is being centralized. The movement of vessels and ark is a political-theological consolidation: one sanctuary, one memory, one administration.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The cloud both legitimates and relativizes the temple. It authorizes Solomon’s project, yet signals that God’s mode of dwelling is not architectural possession but sovereign self-concealment; the house is at best a conditioned site of manifestation.",
+        "lines": [
+          9,
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Ark moves from royal citadel to public cult: kingship submits to covenant.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sacrifice exceeds accounting; piety measured by waste.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The throne-room is an absence: “holy of holies” houses a chest, not an image.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Nothing else” becomes a polemic: covenant reduced to law; relics displaced to the margins.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory disables liturgy; presence interrupts priestcraft.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Recognition precedes teaching; fame outruns doctrine.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The sick are freight; charity turns bodies into cargo seeking contact.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hem-touch: power leaks through fabric; holiness becomes transmissible without speech or rite.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, its source, and always tend toward you, its end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always mindful that we are your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the owner of the vineyard and of the fields; you are the one who assigns the tasks and gives the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining about your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our humble service, Lord, proclaim your greatness; and since for our salvation you deigned to look upon the lowliness of the Virgin Mary, we beg you to exalt us by bringing us to the fullness of salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and sprout for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then all the ancients of Israel, with the princes of the tribes, and the heads of the families of the children of Israel, were assembled to king Solomon, in Jerusalem: that they might carry the ark of the covenant of the Lord, out of the city of David, that is, out of Sion.",
+        "And all Israel assembled themselves to king Solomon, on the festival day, in the month of Ethanim, the same is the seventh month.",
+        "And all the ancients of Israel came, and the priests took up the ark,",
+        "And carried the ark of the Lord, and the tabernacle of the covenant, and all the vessels of the sanctuary, that were in the tabernacle: and the priests and the Levites carried them.",
+        "And king Solomon, and all the multitude of Israel, that were assembled unto him, went with him before the ark, and they sacrificed sheep and oxen, that could not be counted or numbered.",
+        "And the priests brought in the ark of the covenant of the Lord into its place, into the oracle of the temple, into the holy of holies, under the wings of the cherubims.",
+        "For the cherubims spread forth their wings over the place of the ark, and covered the ark, and the staves thereof above.",
+        "Now in the ark there was nothing else but the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt. Nothing else, etc... There was nothing else but the tables of the law within the ark: but on the outside of the ark, or near the ark were also the rod of Aaron, and a golden urn with manna, Heb. 9.4.",
+        "And it came to pass, when the priests were come out of the sanctuary, that a cloud filled the house of the Lord,",
+        "And the priests could not stand to minister because of the cloud: for the glory of the Lord had filled the house of the Lord.",
+        "Then Solomon said: The Lord said that he would dwell in a cloud.",
+        "Building, I have built a house for thy dwelling, to be thy most firm throne for ever."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 8:1-7,9-13",
+      "reference": "1 Kings 8:1-7,9-13",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when they had passed over, they came into the land of Genezareth, and set to the shore.",
+        "And when they were gone out of the ship, immediately they knew him:",
+        "And running through that whole country, they began to carry about in beds those that were sick, where they heard he was.",
+        "And whithersoever he entered, into towns or into villages or cities, they laid the sick in the streets, and besought him that they might touch but the hem of his garment: and as many as touched him were made whole."
+      ],
+      "lineRefs": [
+        "53",
+        "54",
+        "55",
+        "56"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 6:53-56",
+      "reference": "Mark 6:53-56",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 5th week of Ordinary Time",
+        "key": "mondayOfThe5thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/09.html",
+    "title": "Gospel and Word of the Day - 09 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-09"
+}
