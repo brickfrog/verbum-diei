@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e13c84aba8341dcb4c47b0349946bd0ac220cbf1a171a627068529ea40b9e9e2",
+        "inputSha256": "e2be5e36a9b8294cc5c6cc63e284e728fca96f8db14818aad6dfb0005d9576e0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e9c4c5a9859ff4ed2e7688c55cb118b321f4406268321b788b66515ca2ab3b35",
+        "inputSha256": "b97bd8090af5fc56d2e336cd880fd8fc2bd54d293c4f2b77ea0db9c2758f15f4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "64ce8a1395a3c29ddcba12d38844922555d6a2c909dddf867b0de13601fe24b2",
+        "inputSha256": "02b3a3a585f8d9ef791bda3192e0a94ec788c28af93ebd578de1bd9a63ff29aa",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-10T01:56:23.205Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Solomon’s outstretched hands hold a paradox: the Infinite cannot be housed, yet the human needs a place to aim the heart. That tension resembles apophatic strands in Neoplatonism and Advaita Vedanta, where the Absolute exceeds all containers, while practice still uses forms as pointers; speculation: the “Name” functions like a deliberately partial handle on what cannot be handled.\n\nJesus’ attack on cleansing-as-identity echoes the Daoist suspicion of ritualized virtue and the Zen diagnosis of “attachment to forms”: purity codes become a way to feel righteous without becoming good. The Corban maneuver reads like a legalistic alchemy found anywhere institutions learn to transmute love into compliance; you can hear an austere Confucian protest in the background—filial obligation is not an idea but a debt of care—and a Buddhist warning that merit-making can be a sophisticated evasion of compassion.\n\nBoth passages converge on one psychological claim: the sacred is not secured by enclosure or procedure, but betrayed when symbols are used to dodge responsibility. Speculation: the “house” and the “washing” are the same temptation—control through visible proxies when the real demand is interior truth and concrete mercy.",
+    "excursus": "Solomon raises a building like a lure. He admits the absurdity at the center of it: the heavens can’t hold God, so the house is theater. Yet he begs for eyes on the house night and day, as if attention is the only divinity that matters. The prayer is a bargain with absence: let the emptiness feel watched, let our voices hit a ceiling that pretends to be an ear.\n\nMark drags that bargain into daylight. The Pharisees’ washings are not devotion but a technology of control, a way to make holiness visible and therefore enforceable. Jesus doesn’t replace ritual with sincerity; he exposes the libido of tradition, how rules can become a clean mask for a dirty wish: to evade obligation while looking pure. Corban is the perfect perversion—offer God a gift to withhold bread from your parents. \n\nPut together, the readings sketch a religion haunted by distance. When God won’t fit in the house, we fill the gap with procedures, and the procedures start feeding on us. Dread drives the scrubbing; desire drives the loophole. The terrifying possibility is that what we call worship is often just our most refined way of not loving anyone nearby.",
+    "synthesis": "God cannot be contained by sacred structures or managed by sacred customs; he demands a heart-bound obedience to his commandment. Wherever human tradition nullifies divine law, worship becomes vanity and mercy is obstructed.",
+    "gospel": [
+      {
+        "text": "The dispute is jurisdictional: Jerusalem emissaries prosecute over admissible practice. Jesus reframes authority by ranking sources—commandment over inherited custom—and then tests the system with a clear command (filial obligation) to show how the tradition-set can generate contradictions that protect the powerful and abandon the vulnerable.",
+        "lines": [
+          1,
+          3,
+          4,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The citation of Isaiah turns the case from etiquette to epistemology: once “precepts of men” are taught as doctrine, the community’s moral compass is outsourced. The result is a self-sealing religious culture that treats critique as impurity and calls its evasions fidelity.",
+        "lines": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Solomon’s prayer governs a paradox: covenantal nearness without spatial containment. The strategy is juridical rather than mystical—appeal to God’s covenant-keeping character, then request a standing hearing arrangement in which the earthly site functions as a litigant’s address while judgment and mercy issue from heaven.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "text": "The assembly watches a king ask to be overheard. Intercession is made public to bind the people to a single procedural channel: they will pray “in this place,” and God will respond from his true dwelling, maintaining transcendence while authorizing a national mode of access.",
+        "lines": [
+          1,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "King-priest posture: altar before people, hands toward the uncontainable.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temple built; premise denied. Architecture cannot host Infinity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“My name shall be there”: not presence captured, but attention promised.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The charge is dirt, but the real obsession is boundary.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Lips as liturgy; heart as distance. Worship measured by interior drift.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A pious label (“gift”) becomes a financial escape hatch.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Tradition here is not memory but manufacture—an engine that cancels speech.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, as we celebrate the feast of Saint Scholastica, virgin, that by imitating her example we may serve you with a pure heart and thus attain the saving fruits of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, as we celebrate the feast of Saint Scholastica, virgin, that, imitating her example, we may serve you with a pure heart and thus obtain the saving fruits of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and serve your loving plan of universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with greater dedication for the salvation of men, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, as we celebrate the feast of Saint Scholastica, virgin, that by imitating her example we may serve you with a pure heart and thus attain the saving effects of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Solomon stood before the altar of the Lord, in the sight of the assembly of Israel, and spread forth his hands towards heaven,",
+        "And said: Lord God of Israel, there is no God like thee, in heaven above, or on the earth beneath: who keepest covenant and mercy with thy servants, that have walked before thee with all their heart:",
+        "Is it then to be thought that God should indeed dwell upon earth? for if heaven, and the heavens of heavens, cannot contain thee, how much less this house which I have built?",
+        "But have regard to the prayer of thy servant, and to his supplications, O Lord, my God: hear the hymn and the prayer, which thy servant prayeth before thee this day:",
+        "That thy eyes may be open upon this house, night and day: upon the house of which thou hast said: My name shall be there: that thou mayst hearken to the prayer which thy servant prayeth, in this place to thee:",
+        "That thou mayst hearken to the supplication of thy servant, and of thy people Israel, whatsoever they shall pray for in this place, and hear them in the place of thy dwelling in heaven; and when thou hearest, shew them mercy."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 8:22-23,27-30",
+      "reference": "1 Kings 8:22-23,27-30",
+      "heading": "A reading from the Fisrt Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there assembled together unto him the Pharisees and some of the scribes, coming from Jerusalem.",
+        "And when they had seen some of his disciples eat bread with common, that is, with unwashed hands, they found fault.",
+        "For the Pharisees and all the Jews eat not without often washing their hands, holding the tradition of the ancients.",
+        "And when they come from the market, unless they be washed, they eat not: and many other things there are that have been delivered to them to observe, the washings of cups and of pots and of brazen vessels and of beds.",
+        "And the Pharisees and scribes asked him: Why do not thy disciples walk according to the tradition of the ancients, but they eat bread with common hands?",
+        "But he answering, said to them: Well did Isaias prophesy of you hypocrites, as it is written: This people honoureth me with their lips, but their heart is far from me.",
+        "And in vain do they worship me, teaching doctrines and precepts of men. Doctrines and precepts of men... See the annotations, Matt. 15. 9, 11.",
+        "For leaving the commandment of God, you hold the tradition of men, the washing of pots and of cups: and many other things you do like to these.",
+        "And he said to them: Well do you make void the commandment of God, that you may keep your own tradition.",
+        "For Moses said: Honour thy father and thy mother. And He that shall curse father or mother, dying let him die.",
+        "But you say: If a man shall say to his father or mother, Corban (which is a gift) whatsoever is from me shall profit thee.",
+        "And further you suffer him not to do any thing for his father or mother,",
+        "Making void the word of God by your own tradition, which you have given forth. And many other such like things you do."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 7:1-13",
+      "reference": "Mark 7:1-13",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Scholastica, Virgin",
+        "key": "saintScholasticaVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/10.html",
+    "title": "Gospel and Word of the Day - 10 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-10"
+}
