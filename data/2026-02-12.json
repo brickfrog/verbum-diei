@@ -1,0 +1,263 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ac43ac6693a816369f5d99645899ad57707160ba3346bac1c1dce05165eb372d",
+        "inputSha256": "2eb8c4775d62ffe2c84a9646b52701bffcaebd17c98a7692de4b33bbde706376",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5e43ba99eadaf56bb8826b8392ef0b9fba95d57234cadfadf5602a9c01fa2310",
+        "inputSha256": "3927ae45f7cacea0620ee67cac23be40450e4da800022ce4fff8704652855223",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "41e3352c78874de86a3d78dee3b4c08d2aa605130e3dc5b49c052532f29f4a9c",
+        "inputSha256": "33b10b13484e263b8123052d367828c2229501fd110fa2976eca3d51940b09e1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-12T01:55:43.610Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Solomon’s drift reads like psychic decentralization: the king who once held contradictions in a single, luminous mind now lets desire subcontract his conscience. The “strange gods” are less foreign theology than foreign centers of gravity, little altars where craving asks to be legitimized. The punishment is structural, not petty: a self that will not remain one cannot govern as one; the kingdom fractures because the king has.\n\nThe Syrophoenician scene inverts that failure. She is an outsider who refuses the fantasy of entitlement yet refuses erasure; she negotiates from humility without collapsing into shame. Her retort is not cleverness but clear-sighted insistence that abundance can spill without being stolen. He yields because she speaks from reality rather than from status.\n\nSpeculation: this resembles the Bhagavad Gita’s warning that the mind dragged by the senses loses its steadiness, while disciplined attention restores wholeness. It also brushes against Stoic apatheia as inner sovereignty against seduction by externals. The woman’s stance echoes Zen’s “beginner’s mind” and Sufi adab: reverent boldness that makes room for mercy without demanding it.",
+    "excursus": "Solomon’s “foreign women” are the alibi. The text wants to save the fantasy that wisdom can stay pure, that a king can contain desire without being rearranged by it. But Solomon’s real apostasy is boredom with the single voice that once thundered at him twice. He builds altars because he cannot bear one God’s monopoly on his interior life. The kingdom splits not as punishment but as diagnosis: the self that tries to host every god becomes ungovernable, and what looks like political catastrophe is psychic inevitability.\n\nMark puts Jesus in the same contaminated geography, Tyre and Sidon, the old neighborhood of Astarte. He goes there to be hidden, to rest, to be no one for a moment. The Syrophoenician woman refuses to let him. His harsh line about children and dogs is not a lesson to her; it is the reflex of a boundary he is trying to keep intact. She answers with desire that will not be shamed, and with a logic sharper than his retreat: crumbs are still bread, and need is a kind of right.\n\nIn Kings, foreign worship fractures Israel; in Mark, a foreign woman fractures a mission. One story fears contamination; the other reveals that “purity” was always a cover for control. The dread is that God can be moved by the outsider’s hunger. The desire is that he will be.",
+    "synthesis": "Idolatry fractures the kingdom because covenant infidelity corrodes public order. The Messiah’s authority is so plenary that even the crumbs of Israel’s bread expel demons among the nations.",
+    "gospel": [
+      {
+        "text": "A Gentile petitioner forces the mission’s perimeter to show its permeability: her approach is bodily (falling at feet) and her need is domestic (a daughter), and the result is verified in the ordinary scene of a bed. Authority over the unclean is displayed as sheer command, crossing ethnic borders without moving the patient.",
+        "lines": [
+          2,
+          3,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The indictment is covenantal, not romantic: he violates a commanded exclusion, and the consequence is political amputation executed across generations. Yet judgment is buffered by prior election—David and Jerusalem function as stabilizing anchors that keep the collapse partial rather than total.",
+        "lines": [
+          7,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Old age: not mellowing but loosening. The heart “turned” is a hinge, not a fall.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Names as inventory: foreign divinities listed like acquired luxuries.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temple-building misused: the architect of wisdom becomes a contractor for abominations, facing Jerusalem like a taunt.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wrath is judicial here: anger calibrated to revelation—“appeared… twice” raises the tariff.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rending language: the kingdom treated as cloth; sovereignty can be torn without bloodshed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He seeks concealment in Gentile territory; secrecy fails as a law of contact.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Bread/dogs: a boundary stated in domestic metaphor; insult framed as order of feeding.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She accepts the hierarchy and exploits its excess: crumbs imply superabundance, not scarcity.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“For this saying”: victory by speech; deliverance granted at a distance, no ritual, no touch.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Keep watch, Lord, with unceasing love over your family; protect and defend it always, for only in you has it placed its hope. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we humbly come to you at the beginning of the day, at midday, and at evening, to ask that, driving from us the darkness of sin, you may bring us to the true light, who is Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of that Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family in prayer, Lord, and grant that, by imitating the examples of patience of your Son, it may never falter in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who illumine the night and make the light dawn again after the darkness, grant that, during the night that now begins, we may be free from every fault, and that, as the new day breaks, we may once more gather in your presence to give you thanks again. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that will restore our strength, now worn out by the day’s work; thus, strengthened by your help, we will always serve you with all our body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when he was now old, his heart was turned away by women to follow strange gods: and his heart was not perfect with the Lord his God, as was the heart of David, his father.",
+        "But Solomon worshipped Astarthe, the goddess of the Sidonians, and Moloch, the idol of the Ammonites.",
+        "And Solomon did that which was not pleasing before the Lord, and did not fully follow the Lord, as David, his father.",
+        "Then Solomon built a temple for Chamos, the idol of Moab, on the hill that is over against Jerusalem, and for Moloch, the idol of the children of Ammon.",
+        "And he did in this manner for all his wives that were strangers, who burnt incense, and offered sacrifice to their gods.",
+        "And the Lord was angry with Solomon, because his mind was turned away from the Lord, the God of Israel, who had appeared to him twice;",
+        "And had commanded him concerning this thing, that he should not follow strange gods: but he kept not the things which the Lord commanded him.",
+        "The Lord therefore said to Solomon: Because thou hast done this, and hast not kept my covenant, and my precepts, which I have commanded thee, I will divide and rend thy kingdom, and will give it to thy servant.",
+        "Nevertheless, in thy days I will not do it, for David thy father's sake: but I will rend it out of the hand of thy son.",
+        "Neither will I take away the whole kingdom; but I will give one tribe to thy son, for the sake of David, my servant, and Jerusalem, which I have chosen. One tribe... Besides that of Juda, his own native tribe."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 11:4-13",
+      "reference": "1 Kings 11:4-13",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And rising from thence he went into the coasts of Tyre and Sidon: and entering into a house, he would that no man should know it. And he could not be hid.",
+        "For a woman as soon as she heard of him, whose daughter had an unclean spirit, came in and fell down at his feet.",
+        "For the woman was a Gentile, a Syrophenician born. And she besought him that he would cast forth the devil out of her daughter.",
+        "Who said to her: suffer first the children to be filled: for it is not good to take the bread of the children and cast it to the dogs.",
+        "But she answered and said to him: Yea, Lord; for the whelps also eat under the table of the crumbs of the children.",
+        "And he said to her: For this saying, go thy way. The devil is gone out of thy daughter.",
+        "And when she was come into her house, she found the girl lying upon the bed and that the devil was gone out."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 7:24-30",
+      "reference": "Mark 7:24-30",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 5th week of Ordinary Time",
+        "key": "thursdayOfThe5thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/12.html",
+    "title": "Gospel and Word of the Day - 12 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-12"
+}
