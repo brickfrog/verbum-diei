@@ -1,0 +1,338 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ff17385099019296081093ad57ce90b3e6ace1c3c5ad3760ad96b2015edbdbaf",
+        "inputSha256": "ab5f83177ebb52c515160a71382289f016c51a774785f9b041f0920c5d380387",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0ce88199a5006c8f60340c2bc97d77369bde8deb85ea3918e84f2f654795929f",
+        "inputSha256": "9fef2b70eb091fb5b303a5c57077ffb793e6c4d1154e20cb96b8ec41f2018048",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b893866f012d468bb86a781b13369f3d155b8b9399b97c6a505853fac300dfac",
+        "inputSha256": "9e6e103935e3b982770df556a56d51df35ad24727564e5d1b13d2beed3334591",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-13T01:55:50.303Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The torn cloak echoes Dionysus dismembered and reassembled in Orphic myth: a polity made from rags of charisma, then stitched into a new cult. It also resembles the Hindu Purusha hymn, society parceled from a sacrificed body, except here the cutting is punishment and the pieces are tribes. Speculation: the scene reads like a psychological ritual of authorization, a controlled wound that converts private resentment into public destiny.\n\nRehoboam’s “scorpions” is the Mahabharata’s Duryodhana speaking with the same brittle overcompensation: youth mistaking cruelty for strength, confusing dominance with legitimacy. It’s also close to Confucian warnings that harshness breaks the Mandate of Heaven; the revolt is not mere politics but the social psyche refusing an abusive father.\n\nEphpheta parallels the Upanishadic motif of “opening” the inner ear to sruti, and the Buddhist curing of impediments that block right speech, though Mark’s touch and spit keep it insistently embodied. Speculation: the secrecy charge functions like the Taoist suspicion of loud virtue—power that advertises itself becomes counterfeit—yet the healed mouth can’t help becoming proclamation.",
+    "excursus": "Ahias stages the future as theater: a new garment torn in a field, two men alone, power handed over as fabric and omen. The “word of the Lord” reads less like moral bookkeeping than like an authorization for desire. Jeroboam is told he will reign over all that his soul desires, and the promise is baited with conditionals that feel like an afterthought. The kingdom splits because someone wants it to split, and everyone involved can call that wanting “judgment.”\n\nRehoboam’s cruelty is not a mistake; it is the necessary performance that makes revolt feel righteous. The young men give him a script of phallic bravado—little finger, whips, scorpions—because kingship here is anxiety in armor. Israel’s break is framed as political maturity, but it’s also a relief fantasy: a people shedding the father’s house, stoning the taxman like killing the bad superego, and calling it freedom.\n\nMark’s healing answers this dread with something disturbingly intimate. Jesus doesn’t fix the man with proclamations; he removes him from the crowd, penetrates the ears with fingers, coats the scene with spit, touches tongue to tongue by proxy. Then a groan, not a sermon: the sound of effort, or disgust, or desire held back. “Be opened” is less miracle than command to the body to stop defending itself.\n\nAnd the command to silence fails because opening creates appetite. Once the blocked channels are unsealed, speech becomes contagion. In Kings, mouths are full of slogans that justify a fracture already wished for; in Mark, the mouth finally speaks “right,” but the crowd immediately speaks too much. Either way, language spills. The texts ache with the same suspicion: we don’t really want peace, we want release, and release always makes noise.",
+    "synthesis": "God judges kings by rending kingdoms, yet preserves his covenantal lamp for his Name’s sake. Christ’s word opens what is closed, and his restoration spills beyond intended silence.",
+    "gospel": [
+      {
+        "text": "The itinerary through Gentile borderlands and the Decapolis places the act in a mixed world: the healer is not confined to Israel’s interior. The cure is described as functional restoration—he “spoke right”—and the crowd’s verdict (“all things well”) echoes creation-language: restoration is framed as a re-ordering of what was impeded.",
+        "lines": [
+          1,
+          2,
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative distinguishes covenantal continuity from political continuity: David’s line is cut down yet not extinguished, because election is tied to Jerusalem and the Name, not to Solomon’s competence. The division is presented as judgment that still preserves a liturgical center, and the future of both houses is framed as disciplinary—affliction with an endpoint.",
+        "lines": [
+          4,
+          6,
+          7,
+          11
+        ]
+      },
+      {
+        "text": "The crisis is mediated through counsel and reception. Rehoboam inherits an administrative problem and chooses a social class to hear: elders who understand the people versus peers who understand dominance. The text then assigns the hardening a theological direction (“to make good his word”), so political folly becomes the instrument by which earlier prophecy is executed.",
+        "lines": [
+          16,
+          21,
+          22,
+          23,
+          28,
+          30
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "New garment: authority still untested; prophetic sign needs cloth, not argument.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Twelve becomes inventory; unity can be handled, torn, apportioned.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ten pieces: schism quantified; divine judgment expressed as arithmetic.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A “lamp” survives by being small; the remnant is not merit but oath.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conditional dynasty: the promise can be replicated, but only by obedience, not blood.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Little finger”: masculinity as policy; body-part bravado replaces kingship.",
+      "lines": [
+        25
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Whips/scorpions: rule reimagined as cruelty technology; escalation as principle.",
+      "lines": [
+        26
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The tribute officer dies first; taxation is the regime made visible.",
+      "lines": [
+        33
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands, spit, touch: grace arrives as invasion of the senses, not distant decree.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Groan + command: power without theatrics; pity with imperative.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Secrecy fails by design of human mouths; prohibition multiplies speech.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Watch over your family, Lord, with unceasing love; protect and defend it always, for it has placed its hope in you alone. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have enlightened the darkness of our ignorance with the light of your Word: increase in us the faith which you yourself have given; may no temptation ever destroy the fervor of faith and charity that your grace has kindled in our spirit. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the Cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, gave the eternal kingdom to the repentant thief, look upon us who, like him, confess our faults, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that we who have been instructed by the examples of the Passion of your Son may always be ready to take upon ourselves his easy yoke and his light burden. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "So it came to pass at that time, that Jeroboam went out of Jerusalem, and the prophet Ahias, the Silonite, clad with a new garment, found him in the way: and they two were alone in the field.",
+        "And Ahias taking his new garment, wherewith he was clad, divided it into twelve parts:",
+        "And he said to Jeroboam: Take to thee ten pieces: for thus saith the Lord, the God of Israel: Behold, I will rend the kingdom out of the hand of Solomon, and will give thee ten tribes.",
+        "But one tribe shall remain to him for the sake of my servant, David, and Jerusalem, the city which I have chosen out of all the tribes of Israel:",
+        "Because he hath forsaken me, and hath adored Astarthe, the goddess of the Sidonians, and Chamos, the god of Moab, and Moloch, the god of the children of Ammon: and hath not walked in my ways, to do justice before me, and to keep my precepts, and judgments, as did David, his father.",
+        "Yet I will not take away all the kingdom out of his hand, but I will make him prince all the days of his life, for David my servant's sake, whom I chose, who kept my commandments, and my precepts.",
+        "But I will take away the kingdom out of his son's hand, and will give thee ten tribes:",
+        "And to his son I will give one tribe, that there may remain a lamp for my servant, David, before me always in Jerusalem, the city which I have chosen, that my name might be there.",
+        "And I will take thee, and thou shalt reign over all that thy soul desireth, and thou shalt be king over Israel.",
+        "If then thou wilt hearken to all that I shall command thee, and wilt walk in my ways, and do what is right before me, keeping my commandments and my precepts, as David, my servant, did: I will be with thee, and will build thee up a faithful house, as I built a house for David, and I will deliver Israel to thee:",
+        "And I will for this afflict the seed of David, but yet not for ever.",
+        "Solomon, therefore, sought to kill Jeroboam: but he arose, and fled into Egypt, to Sesac, the king of Egypt, and was in Egypt till the death of Solomon.",
+        "And the rest of the words of Solomon, and all that he did and his wisdom: behold they are all written in the book of the words of the days of Solomon. The book of the words, etc... This book is lost, with divers others mentioned in holy writ.",
+        "And the days that Solomon reigned in Jerusalem, over all Israel, were forty years.",
+        "And Solomon slept with his fathers, and was buried in the city of David, his father; and Roboam, his son, reigned in his stead. Solomon slept, etc... That is, died. He was then about fifty-eight years of age, having reigned forty years.",
+        "And Roboam went to Sichem: for thither were all Israel come together to make him king.",
+        "But Jeroboam, the son of Nabat, who was yet in Egypt, a fugitive from the face of king Solomon, hearing of his death, returned out of Egypt.",
+        "And they sent and called him: and Jeroboam came, and all the multitude of Israel, and they spoke to Roboam, saying:",
+        "Thy father laid a grievous yoke upon us: now, therefore, do thou take off a little of the grievous service of thy father, and of his most heavy yoke, which he put upon us, and we will serve thee.",
+        "And he said to them: Go till the third day, and come to me again. And when the people was gone,",
+        "King Roboam took counsel with the old men, that stood before Solomon, his father, while he yet lived, and he said: What counsel do you give me, that I may answer this people?",
+        "They said to him: If thou wilt yield to this people to day, and condescend to them, and grant their petition, and wilt speak gentle words to them, they will be thy servants always.",
+        "But he left the counsel of the old men, which they had given him, and consulted with the young men that had been brought up with him, and stood before him.",
+        "And he said to them: What counsel do you give me, that I may answer this people, who have said to me: Make the yoke, which thy father put upon us, lighter?",
+        "And the young men that had been brought up with him, said: Thus shalt thou speak to this people, who have spoken to thee, saying: Thy father made our yoke heavy, do thou ease us. Thou shalt say to them: My little finger is thicker than the back of my father.",
+        "And now my father put a heavy yoke upon you, but I will add to your yoke: my father beat you with whips, but I will beat you with scorpions.",
+        "So Jeroboam, and all the people, came to Roboam the third day, as the king had appointed, saying: Come to me again the third day.",
+        "And the king answered the people roughly, leaving the counsel of the old men, which they had given him,",
+        "And he spoke to them according to the counsel of the young men, saying: My father made your yoke heavy, but I will add to your yoke: My father beat you with whips, but I will beat you with scorpions.",
+        "And the king condescended not to the people: for the Lord was turned away from him, to make good his word, which he had spoken in the hand of Ahias, the Silonite, to Jeroboam, the son of Nabat.",
+        "Then the people, seeing that the king would not hearken to them, answered him, saying: What portion have we in David? or what inheritance in the son of Isai? Go home to thy dwellings, O Israel: now, David, look to thy own house. So Israel departed to their dwellings.",
+        "But as for all the children of Israel that dwelt in the cities of Juda, Roboam reigned over them.",
+        "Then king Roboam sent Aduram, who was over the tribute: and all Israel stoned him, and he died. Wherefore king Roboam made haste to get him up into his chariot, and he fled to Jerusalem:",
+        "And Israel revolted from the house of David, unto this day."
+      ],
+      "lineRefs": [
+        "11:29",
+        "11:30",
+        "11:31",
+        "11:32",
+        "11:33",
+        "11:34",
+        "11:35",
+        "11:36",
+        "11:37",
+        "11:38",
+        "11:39",
+        "11:40",
+        "11:41",
+        "11:42",
+        "11:43",
+        "12:1",
+        "12:2",
+        "12:3",
+        "12:4",
+        "12:5",
+        "12:6",
+        "12:7",
+        "12:8",
+        "12:9",
+        "12:10",
+        "12:11",
+        "12:12",
+        "12:13",
+        "12:14",
+        "12:15",
+        "12:16",
+        "12:17",
+        "12:18",
+        "12:19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 11:29-32; 12:19",
+      "reference": "1 Kings 11:29-32; 12:19",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And again going out of the coasts of Tyre, he came by Sidon to the sea of Galilee, through the midst the of the coasts of Decapolis.",
+        "And they bring to him one deaf and dumb: and they besought him that he would lay his hand upon him.",
+        "And taking him from the multitude apart, he put his fingers into his ears: and spitting, he touched his tongue.",
+        "And looking up to heaven, he groaned and said to him: Ephpheta, which is, Be thou opened.",
+        "And immediately his ears were opened and the string of his tongue was loosed and he spoke right.",
+        "And he charged them that they should tell no man. But the more he charged them, so much the more a great deal did they publish it.",
+        "And so much the more did they wonder, saying: He hath done all things well. He hath made both the deaf to hear and the dumb to speak."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 7:31-37",
+      "reference": "Mark 7:31-37",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 5th week of Ordinary Time",
+        "key": "fridayOfThe5thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/13.html",
+    "title": "Gospel and Word of the Day - 13 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-13"
+}
