@@ -1,0 +1,313 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5fef6c8277578a7c78c1382b0489ee651162d852def68034d8a44f1500f08797",
+        "inputSha256": "0c241efcbe3afb7871c6f52519ca9248f1c2e94b899e3e22df243b378fc10ddc",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ad2ba0ec8e1bf753770a7f0bb49c63a0949961b3171ce6c3ee5de67f32f3d100",
+        "inputSha256": "a0c7939327f0f464f7d5b72adfab1e2087477a56b8d298f85235f40d69407412",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "85edb03a583395de082bc71585419850418d899ac213a59c26db3599d2da7927",
+        "inputSha256": "2dff7b4a6b2a835ca2751c0ef1d58a6c80491a98af627ffa64ed067631422b75",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-15T01:55:41.620Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Sirach’s water and fire feels like Aristotle’s prohairesis: character is forged where appetite meets choice, and the field is not abstract but immediate. Speculation: the “set before you” resembles the Bhagavad Gita’s stark crossroads of dharma and self-deception, where vision is clear and action is still yours.\n\nMatthew’s move from deed to motive matches the Stoic claim that the moral act is in the assent, not the event; anger and contempt are already a fracture in the ruling faculty. Speculation: it also echoes Buddhist karma as intention, where the heart’s formation is the real causality.\n\nReconciliation before offering sounds like Confucian li purified by ren: ritual without repaired relation is theatrical, not ethical. The ban on oath-swelling pushes toward Quaker plain speech and Zen’s suspicion of ornamental language, as if truth needs fewer handles, not more.\n\nThe violent metaphors of plucking and cutting track with yogic pratyahara and monastic renunciation: not self-hatred but strategic subtraction, removing the cue that hijacks the mind. Speculation: this is also close to modern behavioral extinction—alter the environment, not your slogans.",
+    "excursus": "Sirach sells freedom like a menu: water or fire, life or death. But the pitch is rigged. The choice happens under a stare that “sees all men without ceasing,” so the will is staged inside surveillance. Desire is permitted only as a test you cannot stop taking.\n\nMatthew sharpens the trap. Jesus doesn’t relax the law; he internalizes it, moves the courtroom into the bloodstream. Murder becomes anger, adultery becomes looking, perjury becomes ordinary speech. The point isn’t moral polish; it’s the production of dread so constant it feels like God’s wisdom.\n\nReconciliation, plucking out eyes, cutting off hands: these are not heroic counsels but the logic of compulsion. If the fault is in the heart, you will always find a limb to blame. The demand for “yea, yea” and “no, no” reads like a fantasy of clean words in a mind that can’t be clean, a desperate desire to end the endless inner trial by making language so simple it can’t betray you—yet even that “over and above” is already evil, already there.",
+    "synthesis": "God’s law binds down to intention and speech because God sees without ceasing. Human choice is real and returns as recompense: life or death, justified or condemned.",
+    "gospel": [
+      {
+        "text": "Jesus reorders status: greatness is keyed to doing+teaching, and “justice” must surpass professional piety; the kingdom is entered by internal surplus, not institutional compliance.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Worship is subordinated to reconciliation, and reconciliation is treated as time-sensitive legal risk: the altar yields to the road, and the road already resembles court.",
+        "lines": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "Divorce is recast from permitted procedure to moral injury that propagates sin across persons; legality is not exculpatory when it manufactures guilt.",
+        "lines": [
+          15,
+          16
+        ]
+      },
+      {
+        "text": "Oaths are dismantled by a theology of total divine ownership: heaven/earth/city/body cannot be used as neutral collateral, so speech must stand without props.",
+        "lines": [
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Commandments are framed as preservative, not decorative: fidelity is durable only as enacted continuity, not episodic intent.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "“Eyes… towards them that fear him” links fear with being seen; the text locates piety in accountable visibility rather than self-esteem.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Water/fire: not moral abstraction but touchable peril; choice burns or refreshes.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Given back what is chosen: judgment as echo, not surprise.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Omniscience stated to prevent alibis; power closes loopholes.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fulfilment is not relaxation; it tightens what “law” can mean.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jot/tittle: God litigates over atoms; minimalism is condemned.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Anger prosecuted as homicide’s seed; contempt escalates to Gehenna.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Desire is treated as act; privacy provides no refuge.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Amputation rhetoric: survival over wholeness; mercy to the body by violence to a member.",
+      "lines": [
+        13,
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Extra words betray an evil surplus; verbosity as moral leak.",
+      "lines": [
+        21
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight to dwell in the upright and the simple of heart, grant that by your grace we may live in such a way as to be worthy to have you always with us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who take delight in dwelling in the upright and the simple of heart, grant that we may live by your grace in such a way that we may be worthy to have you always with us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight to dwell in the upright and the simple of heart, grant that we may live by your grace in such a way that we may be worthy to have you always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight in dwelling in the upright and simple of heart, grant that we may live by your grace in such a way that we may deserve to have you always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight to dwell in the upright and the simple of heart, grant that by your grace we may live in such a way as to deserve to have you always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight in dwelling in the upright and the simple of heart, grant that we may live by your grace in such a way that we may be worthy to have you always with us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without fear in your peace, and tomorrow rise joyfully to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "He added his commandments and precepts.",
+        "If thou wilt keep the commandments and perform acceptable fidelity for ever, they shall preserve thee.",
+        "He hath set water and fire before thee: stretch forth thy hand to which thou wilt.",
+        "Before man is life and death, good and evil, that which he shall choose shall be given him:",
+        "For the wisdom of God is great, and he is strong in power, seeing all men without ceasing.",
+        "The eyes of the Lord are towards them that fear him, and he knoweth al the work of man."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Sirach 15:15-20",
+      "reference": "Sirach 15:15-20",
+      "heading": "A reading from the Book of Sirach",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfil. To fulfil... By accomplishing all the figures and prophecies; and perfecting all that was imperfect.",
+        "For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled. Amen... That is, assuredly of a truth... This Hebrew word, amen, is here retained by the example and authority of all the four Evangelists. It is used by our Lord as a strong asseveration, and affirmation of the truth.",
+        "He therefore that shall break one of these least commandments, and shall so teach men shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.",
+        "For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven. The scribes and Pharisees... The scribes were the doctors of the law of Moses: the Pharisees were a precise set of men, making profession of a more exact observance of the law: and upon that account greatly esteemed among the people.",
+        "You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill, shall be in danger of the judgment. Shall be in danger of the judgment... That is, shall deserve to be punished by that lesser tribunal among the Jews, called the Judgment, which took cognizance of such crimes.",
+        "But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou fool, shall be in danger of hell fire. Raca... A word expressing great indignation or contempt. Shall be in danger of the council... That is, shall deserve to be punished by the highest court of judicature, called the Council, or Sanhedrim, consisting of seventy-two persons, where the highest causes were tried and judged, which was at Jerusalem. Thou fool... This was then looked upon as a heinous injury, when uttered with contempt, spite, or malice: and therefore is here so severely condemned. Shall be in danger of hell fire... literally, according to the Greek, shall deserve to be cast into the Gehenna of fire. Which words our Saviour made use of to express the fire and punishments of hell.",
+        "If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath anything against thee;",
+        "Leave there thy offering before the altar, and go first to be reconciled to thy brother, and then coming thou shalt offer thy gift.",
+        "Be at agreement with thy adversary betimes, whilst thou art in the way with him: lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+        "Amen I say to thee, thou shalt not go out from thence till thou repay the last farthing.",
+        "You have heard that it was said to them of old: Thou shalt not commit adultery.",
+        "But I say to you, that whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.",
+        "And if thy right eye scandalize thee, pluck it out and cast it from thee. For it is expedient for thee that one of thy members should perish, rather than thy whole body be cast into hell. Scandalize thee... That is, if it be a stumblingblock, or occasion of sin to thee. By which we are taught to fly the immediate occasions of sin, though they be as dear to us, or as necessary as a hand or an eye.",
+        "And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy members should perish, rather than that thy whole body go into hell.",
+        "And it hath been said, Whosoever shall put away his wife, let him give her a bill of divorce.",
+        "But I say to you, that whosoever shall put away his wife, excepting the cause of fornication, maketh her to commit adultery: and he that shall marry her that is put away, committeth adultery.",
+        "Again you have heard that it was said to them of old, thou shalt not forswear thyself: but thou shalt perform thy oaths to the Lord.",
+        "But I say to you not to swear at all, neither by heaven for it is the throne of God: Not to swear at all... It is not forbid to swear in truth, justice and judgment; to the honour of God, or our own or neighbour's just defence: but only to swear rashly, or profanely, in common discourse, and without necessity.",
+        "Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great king:",
+        "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+        "But let your speech be yea, yea: no, no: and that which is over and above these, is of evil."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:17-37",
+      "reference": "Matthew 5:17-37",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "6th Sunday of Ordinary Time",
+        "key": "6thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/15.html",
+    "title": "Gospel and Word of the Day - 15 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-15"
+}
