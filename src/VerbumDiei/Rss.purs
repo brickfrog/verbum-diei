@@ -1008,7 +1008,71 @@ lookupAlias key =
 
 bookAliases :: Array { key :: String, value :: String }
 bookAliases =
-  [ { key: "mt", value: "Matthew" }
+  [ { key: "gen", value: "Genesis" }
+  , { key: "ex", value: "Exodus" }
+  , { key: "exod", value: "Exodus" }
+  , { key: "lev", value: "Leviticus" }
+  , { key: "lv", value: "Leviticus" }
+  , { key: "num", value: "Numbers" }
+  , { key: "nm", value: "Numbers" }
+  , { key: "deut", value: "Deuteronomy" }
+  , { key: "dt", value: "Deuteronomy" }
+  , { key: "jos", value: "Joshua" }
+  , { key: "josh", value: "Joshua" }
+  , { key: "judg", value: "Judges" }
+  , { key: "jgs", value: "Judges" }
+  , { key: "jdg", value: "Judges" }
+  , { key: "sam", value: "Samuel" }
+  , { key: "kgs", value: "Kings" }
+  , { key: "chr", value: "Chronicles" }
+  , { key: "chron", value: "Chronicles" }
+  , { key: "ezr", value: "Ezra" }
+  , { key: "neh", value: "Nehemiah" }
+  , { key: "tob", value: "Tobit" }
+  , { key: "jdt", value: "Judith" }
+  , { key: "est", value: "Esther" }
+  , { key: "esth", value: "Esther" }
+  , { key: "ps", value: "Psalms" }
+  , { key: "pss", value: "Psalms" }
+  , { key: "prov", value: "Proverbs" }
+  , { key: "prv", value: "Proverbs" }
+  , { key: "eccl", value: "Ecclesiastes" }
+  , { key: "qoh", value: "Ecclesiastes" }
+  , { key: "song", value: "Song of Songs" }
+  , { key: "sg", value: "Song of Songs" }
+  , { key: "cant", value: "Song of Songs" }
+  , { key: "wis", value: "Wisdom" }
+  , { key: "sir", value: "Sirach" }
+  , { key: "is", value: "Isaiah" }
+  , { key: "isa", value: "Isaiah" }
+  , { key: "jer", value: "Jeremiah" }
+  , { key: "lam", value: "Lamentations" }
+  , { key: "bar", value: "Baruch" }
+  , { key: "ezek", value: "Ezekiel" }
+  , { key: "ez", value: "Ezekiel" }
+  , { key: "dan", value: "Daniel" }
+  , { key: "dn", value: "Daniel" }
+  , { key: "hos", value: "Hosea" }
+  , { key: "jl", value: "Joel" }
+  , { key: "am", value: "Amos" }
+  , { key: "ob", value: "Obadiah" }
+  , { key: "obad", value: "Obadiah" }
+  , { key: "jon", value: "Jonah" }
+  , { key: "mic", value: "Micah" }
+  , { key: "mi", value: "Micah" }
+  , { key: "nah", value: "Nahum" }
+  , { key: "na", value: "Nahum" }
+  , { key: "hab", value: "Habakkuk" }
+  , { key: "zeph", value: "Zephaniah" }
+  , { key: "zep", value: "Zephaniah" }
+  , { key: "hag", value: "Haggai" }
+  , { key: "hg", value: "Haggai" }
+  , { key: "zech", value: "Zechariah" }
+  , { key: "zec", value: "Zechariah" }
+  , { key: "mal", value: "Malachias" }
+  , { key: "macc", value: "Maccabees" }
+  , { key: "mac", value: "Maccabees" }
+  , { key: "mt", value: "Matthew" }
   , { key: "matt", value: "Matthew" }
   , { key: "mk", value: "Mark" }
   , { key: "mrk", value: "Mark" }
@@ -1017,6 +1081,24 @@ bookAliases =
   , { key: "jn", value: "John" }
   , { key: "jhn", value: "John" }
   , { key: "joh", value: "John" }
+  , { key: "rom", value: "Romans" }
+  , { key: "cor", value: "Corinthians" }
+  , { key: "gal", value: "Galatians" }
+  , { key: "eph", value: "Ephesians" }
+  , { key: "phil", value: "Philippians" }
+  , { key: "col", value: "Colossians" }
+  , { key: "thess", value: "Thessalonians" }
+  , { key: "thes", value: "Thessalonians" }
+  , { key: "tim", value: "Timothy" }
+  , { key: "tit", value: "Titus" }
+  , { key: "phlm", value: "Philemon" }
+  , { key: "philem", value: "Philemon" }
+  , { key: "heb", value: "Hebrews" }
+  , { key: "jas", value: "James" }
+  , { key: "pet", value: "Peter" }
+  , { key: "pt", value: "Peter" }
+  , { key: "rev", value: "Revelation" }
+  , { key: "rv", value: "Revelation" }
   ]
 
 isGospelHeading :: String -> Boolean
