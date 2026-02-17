@@ -1,0 +1,261 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "48a00c13ad06c6d2deec50ece552973b34c069c0e1ee45fb753efb482ee3c80a",
+        "inputSha256": "bb1fa2fbe57ff294281cf701b6ec52d9bca9c50a8aa20d6925f76a7c2acc6e64",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3c31ec5c8b6cc29c8a9b40127a9f7c472293f6b69b0071dc449a15a72018e235",
+        "inputSha256": "4b6905c81987d3bf73d997b86a9271993df2a241c5d18bfa7ca2108ffbc28ce1",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "499289fec81f2142f54ffcbf87a91044827b1c440c154cf4f13b37bedc39e578",
+        "inputSha256": "529c5f96ab6a05286416f83718f35403b50577a05c77f2d187d88f98ee071b54",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-17T01:55:24.608Z"
+  },
+  "commentary": {
+    "seminaVerbi": "James’s inner mechanics of desire—lure, conception, birth—fits the Buddhist chain of dependent origination where craving conditions grasping and becomes suffering; the difference is tonal, not structural: James treats it as moral pregnancy, Buddhism as causal momentum. It also echoes Stoic psychology: impressions arrive, assent makes them yours; what ruins you is not the world but the mind’s consent. Speculation: the “Father of lights” with no shadow feels like Plato’s sun of the Good, an image for an unwarped source that doesn’t flicker with our moods.\n\nMark’s bread-anxiety is a parable of scarcity consciousness: the psyche clings to what it can count and misses what it has already lived through. “Leaven” matches the rabbinic yetzer hara as a small ferment that spreads through the whole person, and it resembles Hindu samskara: subtle residues that flavor perception until the self can’t taste anything else. Speculation: the repeated numbers act like Zen koans—memory as a doorway to trust—yet the disciples keep choosing accountancy over presence.",
+    "excursus": "James pretends to absolve God—“he tempteth no man”—but the absolution is the wound. If God is pure light with no shadow, then all shadow gets quarantined inside you. Desire becomes your private culprit, concupiscence the hidden engine that drags and allures, and you are forced to watch your own body conceive against you. The crown of life is dangled like a prize for surviving yourself, but the cost is a new interior police: you must call your hungers the enemy, then endure them without blaming the cosmos.\n\nMark stages the same trap in comic dread. They have one loaf and panic, and Jesus treats their scarcity-think as blindness. “Beware leaven” is not a warning about doctrine; it’s a warning about the mind’s ferment, the sour swelling that turns lack into a whole worldview. The disciples want bread because bread is nameable; what he offers is the humiliating memory of abundance that doesn’t stick. He keeps asking for numbers—twelve, seven—as if salvation is arithmetic drilled into a resistant psyche. Their failure is not ignorance; it is desire misreading itself, clutching the loaf because it cannot tolerate a gift that arrives without permission.\n\nTogether the texts describe a terrifying freedom: the tempter is inside, the giver is above, and between them you are the boat, forgetting provisions, inventing explanations, incubating death from cravings that feel like life. The only “word of truth” that begets you is the one that strips your excuses and leaves you alone with your want.",
+    "synthesis": "Temptation originates in disordered desire, not in God, and its end is death unless a new begetting by the word of truth intervenes. Christ exposes that spiritual blindness turns divine warning and provision into mere accounting.",
+    "gospel": [
+      {
+        "text": "Mark stages a contest over interpretation: Jesus’ saying about leaven demands discernment, but the disciples’ framework cannot rise above material lack. The remembered feedings are not proofs of competence but exhibits in a trial of comprehension; the rebuke presses that misunderstanding is culpable, not merely slow.",
+        "lines": [
+          2,
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage turns from etiology to imperative: error is intellectual and moral, and correction is filial—God’s initiative “begets” a new kind of creature through truth, not through impulse. The horizon is not self-improvement but a new origin that reorders causality.",
+        "lines": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Beatitude attaches to endurance, not avoidance; proof precedes coronation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refuses the convenient theology of blame: God not cast as accomplice of appetite.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Desire is bait and womb: lure → conception → birth; the lineage runs to death.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Father of lights” denies flicker; no cosmic mood-swings, no shifting shadow.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "One loaf in the boat: scarcity felt, presence ignored.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Leaven named twice: religious rigor and political power both ferment corruption.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They translate warning into inventory; moral discourse reduced to logistics.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A catalogue of failures: reason without understanding, sight without seeing, memory erased.",
+      "lines": [
+        4,
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Numbers remain, meaning does not; arithmetic without recognition.",
+      "lines": [
+        6,
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who delight to dwell in the upright and the simple of heart, grant us to live by your grace in such a way that we may be worthy to have you always with us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, true light who enlightens every man and shows him the way of salvation, grant us the abundance of your strength, that we may prepare before you ways of justice and peace. You who live and reign with the Father in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that, before all people, we may always bear faithful witness to that love which you have willed to be the distinctive mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your plan of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, Lord of day and night, we humbly ask you that the light of Christ, the true Sun of righteousness, may always illumine our lives, so that we may one day merit to enjoy that light in which you dwell forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us restful sleep; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Blessed is the man that endureth temptation: for, when he hath been proved, he shall receive the crown of life which God hath promised to them that love him.",
+        "Let no man, when he is tempted, say that he is tempted by God. For God is not a tempter of evils: and he tempteth no man.",
+        "But every man is tempted by his own concupiscence, being drawn away and allured.",
+        "Then, when concupiscence hath conceived, it bringeth forth sin. But sin, when it is completed, begetteth death.",
+        "Do not err, therefore, my dearest brethren.",
+        "Every best gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no change nor shadow of alteration.",
+        "For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creature. Some beginning... That is, a kind of first fruits of his creatures."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "James 1:12-18",
+      "reference": "James 1:12-18",
+      "heading": "A reading from the letter of James",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they forgot to take bread: and they had but one loaf with them in the ship.",
+        "And he charged them saying: Take heed and beware of the leaven of the Pharisees and of the leaven of Herod.",
+        "And they reasoned among themselves, saying: Because we have no bread.",
+        "Which Jesus knowing, saith to them: Why do you reason, because you have no bread? Do you not yet know nor understand? Have you still your heart blinded?",
+        "Having eyes, see you not? And having ears, hear you not? Neither do you remember?",
+        "When I broke the five loves among five thousand, how many baskets full of fragments took you up? They say to him: Twelve.",
+        "When also the seven loaves among four thousand, how many baskets of fragments took you up? And they say to him: Seven.",
+        "And he said to them: How do you not yet understand?"
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 8:14-21",
+      "reference": "Mark 8:14-21",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Seven Holy Founders of the Servite Order",
+        "key": "sevenHolyFoundersOfTheServiteOrder"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/17.html",
+    "title": "Gospel and Word of the Day - 17 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-17"
+}
