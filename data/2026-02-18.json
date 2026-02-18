@@ -1,0 +1,268 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "91b785e7d94624784b5b54787fad68f2665f753757ffef51cc4c80fe5a57faab",
+        "inputSha256": "3e68cf394021eca7222f4e66559421857ff583d2393bf6261b27867df76bd009",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "532969146087f7d9062a7415944c84756a197baf5b614948dabffb99c3201926",
+        "inputSha256": "0f8321a70b259dbab9a98ab8c400bbe4453aef6dfb740c325dccdb526b82e95b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1d9bbc8cd51896c322a63298f66d2818d92e3cc97db23b23d659943369dff692",
+        "inputSha256": "668944f5c89e3a10e5c19152edc4031732d07b92c3245c141c6a989e74e1e4a9",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-18T01:55:37.721Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Joel’s demand to tear the heart, not the costume, meets the Upanishadic turn inward where the real sacrifice is interior and the gods are not bribed but mirrored; the “return” of blessing reads like the psyche’s rebound when denial stops and grief is metabolized. The trumpet and assembly resemble a communal reset akin to Yom Kippur, yet the thrust is less legal repair than a shared nervous-system regulation: even bride and infant are pulled into coherence.\n\nMatthew’s secrecy is Zen’s suspicion of “gaining mind,” practice performed for applause; it is also Sufi riya’s opposite, deeds stripped of spectators so the self cannot feed on its own reflection. “Left hand not knowing” sounds like nonattachment to self-narration, as in Bhagavad Gita karma-yoga: action without egoic bookkeeping. Speculation: the promised “repayment” is not a transaction but the quiet reinforcement that comes when the superego’s theater closes and the deeper self can finally consent to change.",
+    "excursus": "Joel is not calling for piety but for theater that finally admits it is theater. The trumpet, the assembly, the priests staged between porch and altar: a community performing its own panic to coax the sky into changing its mind. “Rend your hearts, not your garments” reads like a refinement, but it is also a demand for a deeper wound, a more credible self-violence. Even mercy is pitched as leverage: God is “ready to repent of the evil,” as if disaster is his first impulse and kindness a reversal he can be shamed into. The people beg not for truth but for reputation: don’t let the nations ask, “Where is their God?” Dread wants an answer that looks like grain, wine, oil.\n\nMatthew tightens the screw. Joel says blow a trumpet; Matthew says never blow it for yourself. The danger is not sin but appetite for being seen suffering well. The hypocrite is not the impious man; it is the man who needs witnesses. So the gospel turns devotion into an erotic secrecy: shut the door, hide the alms, wash your face, keep your hunger glossy. The Father who “sees in secret” becomes the only acceptable voyeur, the only gaze that can repay without corrupting. Lent, then, is a relocation of desire from public approval to a darker audience, where you learn whether you can bear your own need without applause.",
+    "synthesis": "True penitence is interior and God-facing, and therefore it refuses the economy of human applause. God answers such turning with covenant mercy that restores both worship and public standing.",
+    "gospel": [
+      {
+        "text": "A single principle governs three practices: the Father’s hidden sight establishes the only valid court of evaluation, and human recognition cancels the claim. The repeated verdict—“they have received their reward”—treats reputation as a closed account: immediate payment, no remainder.",
+        "lines": [
+          4,
+          5,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from summons to public rite to divine reply: repentance is not a private mood but a national re-ordering that culminates in restored standing among the nations. The resolution is concrete—land, produce, honor—showing that covenant breach and covenant repair register in history, not merely in conscience.",
+        "lines": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Conversion is total: heart enlisted; body enlisted as instrument.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tear the interior; the exterior tear is cheap theater.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hope is framed as ignorance: mercy cannot be extorted.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No exemptions: nursing child and newlywed drafted into penitence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Liturgical geography: porch-to-altar becomes a corridor of intercession.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The audience corrupts the act; visibility is the competing god.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Trumpet-alms: charity as self-advertisement; applause as wage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Self-opacity: even the doer must not savor the deed.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Shut door: prayer stripped of spectators, left with God and need.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fasting disguised as ordinary life: affliction without performance.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help at the beginning of Lent, that we may persevere in a spirit of conversion; may the penitential austerity of these days assist us in the Christian struggle against the forces of evil. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help as we begin Lent, that we may persevere in a spirit of conversion; may the penitential austerity of these days aid us in the Christian struggle against the forces of evil. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help as we begin Lent, that we may remain in a spirit of conversion; may the penitential austerity of these days aid us in the Christian struggle against the forces of evil. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help as we begin Lent, that we may persevere in a spirit of conversion; may the penitential austerity of these days assist us in the Christian struggle against the forces of evil. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help at the beginning of Lent, that we may remain in a spirit of conversion; may the penitential austerity of these days help us in the Christian struggle against the powers of evil. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, strengthen us with your help as we begin Lent, that we may persevere in a spirit of conversion; may the penitential austerity of these days help us in the Christian struggle against the forces of evil. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLord Jesus Christ, meek and humble of heart, who offer to those who come to you a gentle yoke and a light burden, be pleased to accept the desires and the deeds of the day now ended; grant that we may rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now, therefore, saith the Lord. Be converted to me with all your heart, in fasting, and in weeping, and mourning.",
+        "And rend your hearts, and not your garments and turn to the Lord your God: for he is gracious and merciful, patient and rich in mercy, and ready to repent of the evil.",
+        "Who knoweth but he will return, and forgive, and leave a blessing behind him, sacrifice and libation to the Lord your God?",
+        "Blow the trumpet in Sion, sanctify a fast, call a solemn assembly,",
+        "Gather together the people, sanctify the church, assemble the ancients, gather together the little ones, and them that suck at the breasts: let the bridegroom go forth from his bed, and the bride out of her bridal chamber.",
+        "Between the porch and the altar the priests, the Lord's ministers, shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathens should rule over them. Why should they say among the nations: Where is their God?",
+        "The Lord hath been zealous for his land, and hath spared his people. 2:19 And the Lord answered, and said to his people: Behold I will send you corn, and wine, and oil, and you shall be filled with them: and I will no more make you a reproach among the nations."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Joel 2:12-18",
+      "reference": "Joel 2:12-18",
+      "heading": "A reading from the Book of Joel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Take heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven. Your justice... that is, works of justice; viz., fasting, prayer, and almsdeeds; which ought to be performed not out of ostentation, or a view to please men, but solely to please God.",
+        "Therefore when thou dost an alms-deed, sound not a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may be honoured by men. Amen I say to you, they have received their reward.",
+        "But when thou dost alms, let not thy left hand know what thy right hand doth.",
+        "That thy alms may be in secret, and thy Father who seeth in secret will repay thee.",
+        "And when ye pray, you shall not be as the hypocrites, that love to stand and pray in the synagogues and corners of the streets, that they may be seen by men: Amen I say to you, they have received their reward.",
+        "But thou when thou shalt pray, enter into thy chamber, and having shut the door, pray to thy Father in secret, and thy father who seeth in secret will repay thee.",
+        "And when you fast, be not as the hypocrites, sad. For they disfigure their faces, that they may appear unto men to fast. Amen I say to you, they have received their reward.",
+        "But thou, when thou fastest anoint thy head, and wash thy face;",
+        "That thou appear not to men to fast, but to thy Father who is in secret: and thy Father who seeth in secret, will repay thee."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 6:1-6,16-18",
+      "reference": "Matthew 6:1-6,16-18",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "c",
+        "rank": "FERIA",
+        "name": "Ash Wednesday",
+        "key": "ashWednesday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/18.html",
+    "title": "Gospel and Word of the Day - 18 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-18"
+}
