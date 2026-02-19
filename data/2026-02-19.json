@@ -1,0 +1,226 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "993c447d342e9edac16fd4b4126edac94e0ae635d90a8638a94739ce03da1526",
+        "inputSha256": "327d08447d548bcc7323d8a8f429afdbf2c4846c8873f822fa78af87862e10ef",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5dfca1943be2d9f8f33c3ebd1d997eb1fe595843721ef8f52f7e34d8b433535a",
+        "inputSha256": "e2632f0cbe719dae3b11a73151a0d02e3f9f36cd4207f014aab8cb4854c04006",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "926f12282c24b93b408e0b51ad56bce258a00d54ea1629036605d279df10cba2",
+        "inputSha256": "8548ae84673204b5b25f38fdb62212f79aec7de3b1112c88821c977e7ddbda91",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-19T01:55:31.683Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Deuteronomy stages choice as an existential fork, not an abstract ethic: life is adhesion, death is drift. The psyche hears it as a courtroom inside the self—desire arguing against belonging—where “heaven and earth” are the body and the world watching what you actually do.\n\nLuke sharpens the same fork into a paradox of identity: the self that clings to itself is the self that evaporates. “Cross daily” reads as disciplined consent to humiliation, loss of status, and the pruning of compulsions; the reward is not comfort but coherence.\n\nSemina Verbi: the Bhagavad Gita’s karma-yoga (action without grasping at its fruit) parallels losing life to save it. Stoicism’s prohairesis and Epictetus’ indifference to externals echoes gaining the world yet forfeiting oneself. In Buddhism, non-attachment and anatta rhyme with the critique of self-preservation as self-loss. Speculation: Sufism’s fana (passing away of the ego) and Taoism’s wu-wei (yielding that proves stronger) mirror the text’s wager that surrender can be the only durable form of life.",
+    "excursus": "Deuteronomy stages a freedom that isn’t free. “Choose life” arrives with heaven and earth as hostile witnesses, and the land as bait: love, obey, adhere, and you get to stay. Desire is conscripted into policy. The “strange gods” aren’t simply idols; they are any rival attachment that would let the heart turn private, ungoverned, unmonitored. The text dreams of loyalty so total it becomes a geography: life is a border regime.\n\nLuke makes the bargain explicit by breaking it. The point is not to preserve life in the land but to abandon the instinct to preserve at all. “Daily” turns the cross into a habit, a practiced erosion of the self that Deuteronomy tries to secure. The horror is that both texts want the same thing: a person remade by fear and longing, choosing what feels like life while being led toward loss. To gain the world is to become a world-owner with no inner tenant; to save the soul is to consent to being emptied. The dread is not death; it is the possibility that the only way to live is to consent to being undone.",
+    "synthesis": "God sets a true alternative before man: adhesion to Him that yields life, or self-directed worship that yields death. In Christ, life is secured only by losing it for His sake, because the self is saved only by surrender.",
+    "gospel": [
+      {
+        "text": "Jesus places necessity (“must”) at the center of messiahship: rejection and death are not interruptions but the appointed route to vindication. The pattern reframes power as passage through judgment rather than avoidance of it.",
+        "lines": [
+          1
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage binds ethics to geography: love and obedience are oriented toward inheritance, while apostasy results in eviction. The land is not a backdrop but a covenantal instrument that registers fidelity in history.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Not a spectrum but a bifurcation: “set before” as public placement, not private mood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A turned heart becomes a deaf ear; idolatry is described as misperception before it is rebellion.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Courtroom rhetoric: creation subpoenaed; choice framed as verdict, not advice.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Discipleship defined by negations: deny, take, follow—identity rebuilt by subtraction.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The verb “save” flips: self-preservation is the mechanism of loss; loss becomes the only conservation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Profit-language collapses: “gain” is exposed as a bad arithmetic when the self is the stake.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as to its end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as its end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as to its end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as to its end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you as its source and always tend toward you as its end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as to its end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with all our body and our spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Consider that I have set before thee this day life and good, and on the other hand death and evil:",
+        "That thou mayst love the Lord thy God, and walk in his ways, and keep his commandments and ceremonies and judgments, and bless thee in the land, which thou shalt go in to possess.",
+        "But if thy heart be turned away, so that thou wilt not hear, and being deceived with error thou adore strange gods, and serve them:",
+        "I foretell thee this day that thou shalt perish, and shalt remain but a short time in the land, to which thou shalt pass over the Jordan, and shalt go in to possess it.",
+        "I call heaven and earth to witness this day, that I have set before you life and death, blessing and cursing. Choose therefore life, that both thou and thy seed may live:",
+        "And that thou mayst love the Lord thy God, and obey his voice, and adhere to him (for he is thy life, and the length of thy days,) that thou mayst dwell in the land, for which the Lord swore to thy fathers Abraham, Isaac, and Jacob that he would give it them."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Deuteronomy 30:15-20",
+      "reference": "Deuteronomy 30:15-20",
+      "heading": "A reading from the Book of Deuteronomy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Saying: The Son of man must suffer many things and be rejected by the ancients and chief priests and scribes and be killed and the third day rise again.",
+        "And he said to all: If any man will come after me, let him deny himself and take up his cross daily and follow me.",
+        "For whosoever will save his life shall lose it: for he that shall lose his life for my sake shall save it.",
+        "For what is a man advantaged, if he gain the whole world and lose himself and cast away himself?"
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:22-25",
+      "reference": "Luke 9:22-25",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday after Ash Wednesday",
+        "key": "thursdayAfterAshWednesday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/19.html",
+    "title": "Gospel and Word of the Day - 19 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-19"
+}
