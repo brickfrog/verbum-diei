@@ -1,0 +1,246 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5fef3c4141f5a0fe1c9a64eae112ce3bef3a938a2f9728b63c3df041376e4d38",
+        "inputSha256": "3f956202afc76b030cfe12a3b93475c9bda2de92760de68f9e994cdaf0eb3369",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0ccbff50d62d671d905382e10c1762da3fdc43012ddc221a8b2a95b93175ab18",
+        "inputSha256": "11e3785af7d91272e18aed75928c370ac6960f532ec4384688ca5ebfc845f0d7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b4d286679156cd60c6d42ae63e5b97fd70cf8061ef744d3eba5df393c9138652",
+        "inputSha256": "e4528af2972d7acd4833a839ebcae907e5d520c56fe9301678db902aaffd3355",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-21T01:55:03.520Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s “light in darkness” earned by feeding the hungry echoes the Mahayana bodhisattva vow: compassion as the generator of clarity, not the reward for it. Speculation: “your darkness as noonday” matches Zen’s insistence that awakening is not escape from the dark but illumination within it.\n\n“Take away the chain… cease to stretch out the finger” sounds like Stoic discipline of judgment and speech, and like the Taoist suspicion of moralizing talk that performs virtue instead of doing it. Speculation: the “repairer of fences” is the Confucian junzi restoring social rites by quiet, material care.\n\nSabbath as delighted restraint parallels yogic pratyahara and Buddhist uposatha: a chosen boundary that reorders desire and makes room for attention. Speculation: calling the day “delightful” resembles Sufi adab, where reverence is trained until it becomes pleasure.\n\nLevi’s abrupt leaving and the feast with the disreputable resembles the Dionysian reversal in Greek tragedy: the polluted becomes the site of renewal when welcomed rather than expelled. Jesus as physician tracks the shamanic healer across traditions, and also the psychotherapeutic frame: the symptom is not a moral stain but a signal inviting contact; the cure begins with shared table rather than surveillance. Speculation: the scandal of eating with “sinners” is akin to tantra’s deliberate refusal of purity games when they block compassion.",
+    "excursus": "Isaiah promises light on condition you stop pointing, stop talking that “profiteth not,” and surrender your own will even in your own mouth. It’s not charity as sweetness; it’s charity as self-erasure. The hungry and afflicted are not ornaments for virtue but a hunger inside you that has to be fed by pouring yourself out until the accusatory finger disappears. The reward is eerie: brightness in the bones, a watered garden, repairs to ancient ruins. The psyche gets rebuilt when the compulsive need to judge and perform finally breaks.\n\nLuke sharpens it. Levi doesn’t repent first; he throws a feast. Jesus enters through appetite and bad company, as if health is a lie told by the clean. The Pharisees’ disgust is their real sickness: they need the boundary to feel alive. Jesus acts like a physician who prefers infection because that’s where the body admits it has wounds. “Penance” here is not moral bookkeeping; it’s consent to be seen as sick, to let the old identity die at the table with everyone watching.",
+    "synthesis": "God binds hearing to justice and rest to submission: worship that does not reorder appetite and speech is void. Christ’s call creates a penitent society by drawing the compromised into his table and remaking them.",
+    "gospel": [
+      {
+        "text": "The dispute frames the scene as a contest over boundary-marking: table-fellowship is treated as contamination, but Jesus treats it as mission. “Penance” is the telos of the meal; the community formed around him is defined not by prior purity but by being summoned into a changed life.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle moves from personal piety to civic reconstruction: the healed worshiper becomes a builder of generational continuities, then is publicly renamed for repair. The climax is covenantal elevation and inheritance—rest is not private tranquility but participation in Israel’s promised order under a speaking God.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prayer has a social hinge: unchain, stop the accusatory finger, stop noise masquerading as speech.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Light is not manufactured; it rises when the hungry are fed. Darkness is not denied; it is transfigured.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Salvation is anatomical: bones delivered. Grace irrigates; it does not merely forgive.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath is warfare against “my own will.” Even words are policed; piety is a leash on the tongue.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The call interrupts commerce at the desk; discipleship begins as an order, not an argument.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Conversion is subtraction: leaving all. No inventory, no transition plan.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The old trade becomes a table; money’s house is repurposed into hospitality.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Christ refuses the moralist’s categories and uses a clinical one: sick/whole. Mercy speaks diagnostic truth.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, look with compassion upon our weakness and stretch forth your mighty hand over us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, look with compassion upon our weakness and stretch forth over us your mighty hand. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, look with compassion upon our weakness and stretch out over us your mighty hand. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, look with compassion upon our weakness and stretch out over us your mighty hand. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, look with compassion on our weakness and stretch out over us your mighty hand. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to grow in understanding of the mystery of Christ and to live it in its fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this dwelling; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain with us always. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then shalt thou call, and the Lord shall hear: thou shalt cry, and he shall say, Here I am. If thou wilt take away the chain out of the midst of thee, and cease to stretch out the finger, and to speak that which profiteth not.",
+        "When thou shalt pour out thy soul to the hungry, and shalt satisfy the afflicted soul, then shall thy light rise up in darkness, and thy darkness shall be as the noonday.",
+        "And the Lord will give thee rest continually, and will fill thy soul with brightness, and deliver thy bones, and thou shalt be like a watered garden, and like a fountain of water whose waters shall not fail.",
+        "And the places that have been desolate for ages shall be built in thee: thou shalt raise up the foundation of generation and generation: and thou shalt be called the repairer of the fences, turning the paths into rest.",
+        "If thou turn away thy foot from the sabbath, from doing thy own will in my holy day, and call the sabbath delightful, and the holy of the Lord glorious, and glorify him, while thou dost not thy own ways, and thy own will is not found, to speak a word:",
+        "Then shalt thou be delighted in the Lord, and I will lift thee up above the high places of the earth, and will feed thee with the inheritance of Jacob thy father. For the mouth of the Lord hath spoken it."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 58:9-14",
+      "reference": "Isaiah 58:9-14",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And after these things, he went forth and saw a publican named Levi, sitting at the receipt of custom: and he said to him: Follow me.",
+        "And leaving all things, he rose up and followed him.",
+        "And Levi made him a great feast in his own house: And there was a great company of publicans and of others that were at table with them.",
+        "But the Pharisees and scribes murmured, saying to his disciples: Why do you eat and drink with publicans and sinners?",
+        "And Jesus answering, said to them: They that are whole need not the physician: but they that are sick.",
+        "I came not to call the just, but sinners to penance."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 5:27-32",
+      "reference": "Luke 5:27-32",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Peter Damian, Bishop and Doctor of the Church",
+        "key": "saintPeterDamianBishopAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/21.html",
+    "title": "Gospel and Word of the Day - 21 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-21"
+}
