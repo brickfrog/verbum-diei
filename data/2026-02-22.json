@@ -1,0 +1,307 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "848e145d54b3667bb50f2036469e339d302ff223db434a5fd18fc3f5ba5a053d",
+        "inputSha256": "c06b9eaa4e3ee4d99860781b6145a89c8359edfde5d2969fa5a4a3e0cbe8a552",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "314943e0c8231ba247f24f153df8beb06d59d35f9da4aeb7c5606cb007c43f4b",
+        "inputSha256": "623f58fbf7beb57f3a3f10a454f2ae2459b8bd660733146abf2b56942d8f8024",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e913e4718ea608ada4aa82cdb3ef0deda99ee056a08c25a91cd8a1a7a579beaf",
+        "inputSha256": "f9dccea5b0b1ece03638e0b5d313f58931189691668d7cb2d573e20f7fb3cfc4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-22T01:55:20.924Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: the garden scene reads like a study in mimetic desire; the serpent performs what Girard later names, not inventing hunger but redirecting it into rivalry with the divine image. That turn echoes the Buddhist account of taṇhā: craving dressed as awakening, where “eyes opened” is not illumination but the birth of self-conscious comparison and the anxiety of exposure. The fig leaf is proto-persona, close to Jung’s shadow moment: the instant the psyche splits into what is shown and what is managed.\n\nSpeculation: the desert trial resembles the yogic and Stoic discipline of refusing false goods. Stones-to-bread is the Epicurean temptation to collapse the whole self into appetite; the leap is the urge to coerce reality into spectacle, a Taoist warning against forcing the Way; the kingdoms are the classic kṣatriya seduction of power Krishna relativizes in the Gita. The through-line is interior freedom: desire is not killed but re-ordered, so the self stops bargaining with emptiness for control.",
+    "excursus": "Eden is not a nursery; it is a terrarium. The breath in the face is animation, not intimacy, and the “paradise of pleasure” reads like a controlled experiment: abundance ringed around two obsessive centers, one promising endless maintenance, one forbidden precisely because it would make desire self-aware. The serpent doesn’t introduce rebellion so much as language. The first question is therapy in a hiss: what, exactly, is your prohibition? Eve’s “lest perhaps we die” gives away the real condition—uncertainty already lives in them. The fruit is “delightful to behold” because it offers a new kind of pleasure: the pleasure of seeing oneself seeing. Their eyes open and immediately they manufacture clothing; knowledge arrives as panic, as the sudden discovery that a body can be looked at and therefore judged. Shame is the first technology.\n\nIn the desert the drama flips. Jesus is not the obedient child refusing candy; he is the human who refuses to be managed by appetite, spectacle, and achievement. The temptations are not sins so much as identities on offer: provider, miracle, emperor. Each would dissolve hunger for a moment and replace it with a role everyone can recognize. He answers with quotations, which is a colder move than it sounds: he stays inside language without letting language become a deal. Where Adam and Eve reach for experience to end ambiguity, Jesus tolerates the ache. The devil offers bread, angels, kingdoms—ways to stop feeling contingent. Jesus chooses contingency itself, the dread of being hungry and unproven, and in that refusal desire is purified into something sharper than pleasure: a will that cannot be bought.",
+    "synthesis": "Sin is the attempt to seize godlike autonomy by distrusting God’s word; Christ reverses it by subordinating need, safety, and power to worshipful obedience.",
+    "gospel": [
+      {
+        "text": "The temptations escalate from necessity to spectacle to dominion; each is answered by appeal to a higher order than circumstance. The victory is not miraculous display but interpretive fidelity—Scripture read as obedience rather than leverage—ending with a restoration of proper service (ministering angels) without self-assertion.",
+        "lines": [
+          2,
+          4,
+          7,
+          11
+        ]
+      },
+      {
+        "text": "Movement to city and mountain frames a counterfeit liturgy: sacred height and worldly height used to induce false worship. The geography dramatizes that temptation seeks platforms—religious and political—where compromise can be called strategy.",
+        "lines": [
+          5,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is ordered gift (placement, permission) followed by disordered acquisition (taking, giving). Authority is mediated through command; the rupture is not appetite but jurisdiction—who defines good and evil, and by what right.",
+        "lines": [
+          2,
+          5,
+          9
+        ]
+      },
+      {
+        "text": "Humanity’s dignity is received (breath) and lost experientially (nakedness). The narrative treats sin less as rule-breaking than as a catastrophic change of condition: from unselfconscious communion to self-surveillance.",
+        "lines": [
+          1,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Earth + breath: the creature is animated dust, not self-originating.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two trees in the center: immortality offered, discernment bounded.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temptation begins as a question about God’s speech, not fruit.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The command dilates: from “eat” to “touch.” Scruple breeds vulnerability.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Flat contradiction: the lie is simple, not sophisticated.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Be as Gods”: autonomy marketed as enlightenment.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Opening of eyes yields clothing, not glory; knowledge arrives as shame.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Spirit leads into combat; trial is not an accident.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Stones-to-bread: sonship pressed into self-provision.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Scripture weaponized: piety becomes a pretext for presumption.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kingdoms offered without cross: worship redirected, rule detached from obedience.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A single imperative breaks the bargain: God alone is non-negotiable.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to advance in understanding the mystery of Christ and to live it in its fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to grow in understanding of the mystery of Christ and to live it in its fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to advance in understanding the mystery of Christ and to live it in its fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to advance in understanding of the mystery of Christ and to live it in its fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to advance in understanding the mystery of Christ and to live it in its fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we celebrate once more the holy season of Lent, grant us, almighty God, to grow in understanding of the mystery of Christ and to live it in its fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that, after celebrating this day the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord God formed man of the slime of the earth: and breathed into his face the breath of life, and man became a living soul.",
+        "And the Lord God had planted a paradise of pleasure from the beginning: wherein he placed man whom he had formed.",
+        "And the Lord God brought forth of the ground all manner of trees, fair to behold, and pleasant to eat of: the tree of life also in the midst of paradise: and the tree of knowledge of good and evil. The tree of life... So called because it had that quality, that by eating of the fruit of it, man would have been preserved in a constant state of health, vigour, and strength, and would not have died at all. The tree of knowledge... To which the deceitful serpent falsely attributed the power of imparting a superior kind of knowledge, beyond that which God was pleased to give.",
+        "Now the serpent was more subtle than any of the beasts of the earth which the Lord God had made. And he said to the woman: Why hath God commanded you, that you should not eat of every tree of paradise?",
+        "And the woman answered him, saying: Of the fruit of the trees that are in paradise we do eat:",
+        "But of the fruit of the tree which is in the midst of paradise, God hath commanded us that we should not eat; and that we should not touch it, lest perhaps we die.",
+        "And the serpent said to the woman: No, you shall not die the death.",
+        "For God doth know that in what day soever you shall eat thereof, your eyes shall be opened: and you shall be as Gods, knowing good and evil.",
+        "And the woman saw that the tree was good to eat, and fair to the eyes, and delightful to behold: and she took of the fruit thereof, and did eat, and gave to her husband, who did eat.",
+        "And the eyes of them both were opened: and when they perceived themselves to be naked, they sewed together fig leaves, and made themselves aprons. And the eyes, etc... Not that they were blind before, (for the woman saw that the tree was fair to the eyes, ver. 6.) nor yet that their eyes were opened to any more perfect knowledge of good; but only to the unhappy experience of having lost the good of original grace and innocence, and incurred the dreadful evil of sin. From whence followed a shame of their being naked; which they minded not before; because being now stript of original grace, they quickly began to be subject to the shameful rebellions of the flesh."
+      ],
+      "lineRefs": [
+        "2:7",
+        "2:8",
+        "2:9",
+        "3:1",
+        "3:2",
+        "3:3",
+        "3:4",
+        "3:5",
+        "3:6",
+        "3:7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Genesis 2:7-9; 3:1-7",
+      "reference": "Genesis 2:7-9; 3:1-7",
+      "heading": "A readign from the Book of Genesis",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then Jesus was led by the spirit into the desert, to be tempted by the devil.",
+        "And when he had fasted forty days and forty nights, afterwards he was hungry.",
+        "And the tempter coming said to him: If thou be the Son of God, command that these stones be made bread.",
+        "Who answered and said: It is written, Not in bread alone doth man live, but in every word that proceedeth from the mouth of God.",
+        "Then the devil took him up into the holy city, and set him upon the pinnacle of the temple,",
+        "And said to him: If thou be the Son of God, cast thyself down, for it is written: That he hath given his angels charge over thee, and in their hands shall they bear thee up, lest perhaps thou dash thy foot against a stone.",
+        "Jesus said to him: It is written again: Thou shalt not tempt the Lord thy God.",
+        "Again the devil took him up into a very high mountain, and shewed him all the kingdoms of the world, and the glory of them, Shewed him, etc... That is, pointed out to him where each kingdom lay; and set forth in words what was most glorious and admirable in each of them. Or also set before his eyes, as it were in a large map, a lively representation of all those kingdoms.",
+        "And said to him: All these will I give thee, if falling down thou wilt adore me.",
+        "Then Jesus saith to him: Begone, Satan: for it is written: The Lord thy God shalt thou adore, and him only shalt thou serve.",
+        "Then the devil left him; and behold angels came and ministered to him."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 4:1-11",
+      "reference": "Matthew 4:1-11",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "1st Sunday of Lent",
+        "key": "1stSundayOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/22.html",
+    "title": "Gospel and Word of the Day - 22 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-22"
+}
