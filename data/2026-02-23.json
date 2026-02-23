@@ -1,0 +1,308 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6fb02e0a6f4f0153c7d6678ff61afa538bc42327ef168441a0ce7d9867c9fa01",
+        "inputSha256": "a448c0ec2d616aa1fd42e98350b88c0fc7685cd64ed4d49f7d71e5d6536df038",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d87c97b31d1f31ef955c97a952ae92661b25d11bd4ddb9dd7d9fd8806a3e625b",
+        "inputSha256": "a7fd85c22929f7c838efb669e5aa4b2ff25175385f9b1273bdc74c0f9a6c6b5f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ef4ae0d338c72e7e3a35b49431e8d2e277f50f2b1a3ceda004ec41b2b87f8bb0",
+        "inputSha256": "748f662c078ea2be9f194bf96772bc40d4c03fd704be265617177789340cab52",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-23T01:55:39.839Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This moral vision treats holiness as a kind of perceptual discipline: you become like the sacred not by ecstasy but by training attention toward the vulnerable and the unseen. The “least” function as a psychological mirror: what you do when no status is at stake reveals what actually rules you.\n\nSpeculation: the identification of the divine with the hungry and imprisoned echoes Mahayana Buddhism’s bodhisattva who refuses liberation until others are carried across, and Avalokiteśvara’s vow to hear the world’s suffering. It also resembles the Hindu idea of sevā offered to Nārāyaṇa present in every person, and the Sikh insistence that langar is worship because the One is served in the stranger. In Islam, zakat and the warning that neglect of the orphan and poor is practical disbelief sit close to this logic: judgment is enacted through concrete mercy. Stoic oikeiōsis and Confucian ren extending outward likewise share the claim that virtue is proven in ordinary acts, especially toward those you could ignore without consequence.",
+    "excursus": "“Be holy” lands like a surveillance command, not a compliment. Leviticus isn’t teaching virtue; it is tightening the net around ordinary life until even private feeling becomes prosecutable. Don’t hate in your heart—because the heart is where the real crime incubates. “Reprove him openly” reads less like healthy honesty than coerced confession: love is mandated as an external performance, a public hygiene ritual that keeps the community from rotting.\n\nMatthew completes the anxiety by turning kindness into an identity test you can fail without knowing you were taking it. The sheep are not saints; they’re simply people whose reflexes happened to align with the King’s hidden presence. The goats aren’t moustache-twirling villains; they’re the decent, busy, self-protective ones who missed the disguised God because they treated need as noise.\n\nDesire is the engine here: the craving to be clean, to be on the right side, to be seen as merciful. Dread is the price: the terror that the stranger at the door is not just a person but the Judge in costume, and that your smallest evasions have already written your sentence.",
+    "synthesis": "God’s holiness binds itself to neighbor-love, and Christ receives that love as done to himself. Final judgment turns on whether mercy was enacted, especially toward the least, with omission counted as guilt.",
+    "gospel": [
+      {
+        "text": "The scene frames the Son of Man as king and shepherd, binding sovereignty to concrete criteria. The repeated catalog of needs functions as evidence, not advice: mercy is treated as a public record that either exists or does not.",
+        "lines": [
+          1,
+          5,
+          6,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "The condemned appeal to ignorance, but the court treats blindness as culpable: the failure is not epistemic but moral—refusal to recognize what counts.",
+        "lines": [
+          14
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage alternates address and signature: command, then the divine name as seal. The decalogue-like negatives culminate in a social vision where justice, reputation, and life (“blood”) are covenantal matters, not merely interpersonal etiquette.",
+        "lines": [
+          1,
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Impartial judgment and open reproof place community order above both pity-bias and power-bias. The text refuses two easy corruptions: favoritism toward weakness and deference toward strength.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Holiness is not mood but imitation: the divine adjective becomes an imperative.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The moral law touches payroll: injustice is timed in hours, not theories.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The vulnerable are protected by prohibiting weaponized speech and engineered environments.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hatred can be silent; correction is commanded to prevent private vice from posing as peace.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is defined against revenge and bookkeeping; the self becomes the measure.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Humanity is sorted like livestock: final judgment is ordinary, not esoteric.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The kingdom is older than the recipients; inheritance precedes performance.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The righteous are surprised; true mercy forgets itself, and Christ claims the recipient.",
+      "lines": [
+        7,
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hell is pre-built for rebellion; the curse is exclusion, not mere pain.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Omission convicts; eternity is not symmetrical sentiment but two termini.",
+      "lines": [
+        15,
+        16
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, O God our Savior; enlighten us with the light of your word, so that the celebration of this Lent may yield its best fruits in us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, O God our Savior; enlighten us with the light of your word, that the celebration of this Lent may bear its best fruits in us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, our saving God; enlighten us with the light of your word, so that the observance of this Lent may bear in us its best fruits. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, O God our Savior; enlighten us with the light of your word, that the observance of this Lent may yield its richest fruits in us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, God our Savior; enlighten us with the light of your word, so that the observance of this Lent may bear its best fruits in us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Convert us to you, our saving God; enlighten us with the light of your word, so that the observance of this Lent may bear its best fruits in us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the Kingdom that with our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The Lord spoke to Moses, saying:",
+        "Speak to all the congregation of the children of Israel. And thou shalt say to them: Be ye holy, because I the Lord your God am holy.",
+        "You shall not steal. You shall not lie: neither shall any man deceive his neighbour.",
+        "Thou shalt not swear falsely by my name, nor profane the name of thy God. I am the Lord.",
+        "Thou shalt not calumniate thy neighbour, nor oppress him by violence. The wages of him that hath been hired by thee shall not abide with thee until the morning.",
+        "Thou shalt not speak evil of the deaf, nor put a stumbling block before the blind: but thou shalt fear the Lord thy God, because I am the Lord.",
+        "Thou shalt not do that which is unjust, nor judge unjustly. Respect not the person of the poor: nor honour the countenance of the mighty. But judge thy neighbour according to justice.",
+        "Thou shalt not be a detractor nor a whisperer among the people. Thou shalt not stand against the blood of thy neighbour. I am the Lord.",
+        "Thou shalt not hate thy brother in thy heart: But reprove him openly, lest thou incur sin through him.",
+        "Seek not revenge, nor be mindful of the injury of thy citizens. Thou shalt love thy friend as thyself. I am the Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Leviticus 19:1-2,11-18",
+      "reference": "Leviticus 19:1-2,11-18",
+      "heading": "A reading from the Book of Leviticus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when the Son of man shall come in his majesty, and all the angels with him, then shall he sit upon the seat of his majesty.",
+        "And all nations shall be gathered together before him: and he shall separate them one from another, as the shepherd separateth the sheep from the goats:",
+        "And he shall set the sheep on his right hand, but the goats on his left.",
+        "Then shall the king say to them that shall be on his right hand: Come, ye blessed of my Father, possess you the kingdom prepared for you from the foundation of the world.",
+        "For I was hungry, and you gave me to eat: I was thirsty, and you gave me to drink: I was a stranger, and you took me in:",
+        "Naked, and you covered me: sick, and you visited me: I was in prison, and you came to me.",
+        "Then shall the just answer him, saying: Lord, when did we see thee hungry and fed thee: thirsty and gave thee drink?",
+        "Or when did we see thee a stranger and took thee in? Or naked and covered thee?",
+        "Or when did we see thee sick or in prison and came to thee?",
+        "And the king answering shall say to them: Amen I say to you, as long as you did it to one of these my least brethren, you did it to me.",
+        "Then he shall say to them also that shall be on his left hand: Depart from me, you cursed, into everlasting fire, which was prepared for the devil and his angels.",
+        "For I was hungry and you gave me not to eat: I was thirsty and you gave me not to drink.",
+        "I was a stranger and you took me not in: naked and you covered me not: sick and in prison and you did not visit me.",
+        "Then they also shall answer him, saying: Lord, when did we see thee hungry or thirsty or a stranger or naked or sick or in prison and did not minister to thee?",
+        "Then he shall answer them, saying: Amen: I say to you, as long as you did it not to one of these least, neither did you do it to me.",
+        "And these shall go into everlasting punishment: but the just, into life everlasting."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 25:31-46",
+      "reference": "Matthew 25:31-46",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Polycarp, Bishop and Martyr",
+        "key": "saintPolycarpBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/23.html",
+    "title": "Gospel and Word of the Day - 23 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-23"
+}
