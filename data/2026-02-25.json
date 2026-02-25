@@ -1,0 +1,296 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e896750471891317911a4cdb6872a473288edd29adbf0ff31d0b4f44456fe5a5",
+        "inputSha256": "171cbe75c1c2e44a2b5eb4a3947da38668133cb52b38c0023ea0da9d9c49024f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "12f12374dfd2889b11683b53d908573dd2d3bc2a7235e3b92205ccadbd3ff130",
+        "inputSha256": "ee731a6182eb198c06bb0991a46a169415e2050e9c641fa9e79d0272b858df88",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4a791b69dd68d07b905f6cd4673fd90ede42e325505a7a343d6ed565aa850379",
+        "inputSha256": "49e859ee342377a6db6c695aa629be7953359ee00cdc88025bcbd6e4cfcacebe",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-25T01:55:40.141Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Nineveh’s mass fasting looks like a civic-scale technologies of remorse: the body is made an instrument for re-patterning the will. That resembles the Buddhist Uposatha and the Jain Paryushana, where restraint is not payment but reorientation, a communal re-entry into sanity.\n\nThe king stepping down into ashes echoes the Hindu motif of the ruler who renounces status to regain dharma, and the Stoic practice of voluntary discomfort; power is treated as a costume that can be removed when it obstructs moral sight.\n\nThe “no sign but Jonah” move parallels Zen’s refusal of miracles as proof and the Sufi suspicion of karamat as distraction: the demanded spectacle is a defense against being changed. Speculation: the “sign” is not information but exposure—an encounter that forces the conscience to decide.\n\nThe Queen of the South reads like the Confucian pilgrim to virtue and the Platonic eros for wisdom: distance traveled becomes a measure of desire, and desire becomes the indictment of those who stay near truth yet won’t move.\n\n“More than Jonah” functions like the Mahayana claim that the bodhisattva surpasses the arhat, or the Islamic insistence on the Seal: not a new trick, but a deeper embodiment that makes refusal psychologically starker.",
+    "excursus": "Jonah doesn’t bring good news to Nineveh; he brings a deadline. “Forty days” is the purest form of power: a clock you can’t bribe, only absorb. The city’s conversion reads like panic wearing virtue’s clothes. They fast not because they love goodness but because dread finally organizes them. Even the animals are drafted into the performance, as if innocence must be made to suffer to convince the sky.\n\nGod’s “mercy” is not tenderness; it is a reversal that keeps everyone unstable. The threat works, then vanishes, leaving Jonah’s words both effective and false. The people learn that terror can purchase reprieve, and that reprieve can arrive without certainty. “Who can tell” is the real theology here: a politics of maybe, where survival depends on acting as though the verdict is already descending.\n\nJesus turns this into indictment: a generation addicted to spectacle wants a sign, meaning a guarantee. He refuses. The only sign is Jonah himself, the unwilling messenger whose body and voice carry catastrophe. The queen and the Ninevites become witnesses not because they were holier, but because they were hungry enough to move without proof. Judgment is portrayed as envy: outsiders who responded to a thin, ugly warning will condemn those who demanded a cleaner miracle.\n\nDesire hides inside repentance. Nineveh doesn’t seek God; it seeks to keep existing. And that, in these readings, is the awkward secret: the soul’s deepest turn often begins not in love, but in fear of annihilation, and God answers not by clarifying, but by letting the fear work.",
+    "synthesis": "God’s word is itself the sign that judges and saves: it condemns refusal and it relents at repentance. Greater revelation increases culpability when it is met with demands instead of conversion.",
+    "gospel": [
+      {
+        "text": "Jesus refuses a new evidentiary regime; he defines the only sign as Jonah-shaped—prophetic confrontation that forces a decision. The generation’s problem is not lack of data but moral resistance to being addressed by God.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Two outsiders—the queen and Nineveh—are installed as eschatological witnesses against insiders. The argument is comparative: lesser light produced motion and penance; greater light produces demands for entertainment, so condemnation is self-incurred.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative stresses scale—“great city,” measured in days—to make the response disproportionate: a single envoy with a single sentence meets an empire’s reversal. The point is not Jonah’s technique but God’s capacity to bind vast publics to a word.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The king legislates repentance as civic policy, extending it beyond humans to the economy and the fields. Sin is treated as a public contagion, and penitence as a comprehensive reordering of life, not an interior sentiment.",
+        "lines": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Divine “mercy” is narrated as a real change in announced outcome: the threatened future is not fate but warning. The text makes repentance intelligible by showing that judgment is meant to be averted, not merely executed.",
+        "lines": [
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Second summons: mercy repeats itself; the prophet does not.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imperative piled on imperative; the message is not his to edit.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A countdown without a reason given: threat as pure decree.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They believe God, not the preacher; the word outruns the mouth.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Throne emptied into ashes; authority performs its own humiliation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Penance goes feral: animals drafted into repentance; hunger becomes liturgy.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Who can tell” — repentance acts without contractual assurance.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God “repents” the announced evil; judgment is conditional, not impotent.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sign-demand is named wickedness: curiosity dressed as piety.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The “sign” is a person, not a spectacle: presence as verdict.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Distance indicts: she traveled for wisdom; they will not cross the room.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Converted pagans become prosecutors; the healed condemn the untouched.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people who long to devote themselves to you with a holy life; and those who discipline their bodies by penance, transform inwardly through the fruit of good works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people, who desire to dedicate themselves to you with a holy life; and those who master their bodies by penance, transform inwardly through the fruit of good works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people, who desire to give themselves to you in a holy life; and those who discipline their bodies with penance, transform inwardly through the fruit of good works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people who desire to give themselves to you by a holy life; and those who master their bodies by penance, transform inwardly through the fruit of good works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people who long to devote themselves to you in a holy life; and those who discipline their bodies with penance, transform inwardly through the fruit of good works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, look with favor upon your people who desire to devote themselves to you with a holy life; and those who master their bodies by penance, transform inwardly through the fruit of good works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are gentle and humble of heart, and you offer those who come to you a yoke that is easy and a burden that is light: graciously accept the desires and the deeds of the day we have now completed. Grant that we may rest through the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to Jonas the second time saying:",
+        "Arise, and go to Ninive, the great city: and preach in it the preaching that I bid thee.",
+        "And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey. Of three days' journey... By the computation of some ancient historians, Ninive was about fifty miles round: so that to go through all the chief streets and public places was three days' journey.",
+        "And Jonas began to enter into the city one day's journey: and he cried and said: Yet forty days and Ninive shall be destroyed.",
+        "And the men of Ninive believed in God: and they proclaimed a fast, and put on sackcloth from the greatest to the least.",
+        "And the word came to the king of Ninive: and he rose up out of his throne, and cast away his robe from him, and was clothed in sackcloth, and sat in ashes.",
+        "And he caused it to be proclaimed and published in Ninive, from the mouth of the king and of his princes, saying: Let neither men nor beasts, oxen, nor sheep taste anything: let them not feed, nor drink water.",
+        "And let men and beasts be covered with sackcloth, and cry to the Lord with all their strength, and let them turn every one from his evil way, and from the iniquity that is in their hands.",
+        "Who can tell if God will turn, and forgive: and will turn away from his fierce anger, and we shall not perish?",
+        "And God saw their works, that they were turned from their evil way: and God had mercy with regard to the evil which he had said that he would do to them, and he did it not."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jonah 3:1-10",
+      "reference": "Jonah 3:1-10",
+      "heading": "A reading from the Book of Jonah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the multitudes running together, he began to say: This generation is a wicked generation. It asketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.",
+        "For as Jonas was a sign to the Ninivites; so shall the Son of man also be to this generation.",
+        "The queen of the south shall rise in the judgment with the men of this generation and shall condemn them: because she came from the ends of the earth to hear the wisdom of Solomon. And behold more than Solomon here.",
+        "The men of Ninive shall rise in the judgment with this generation and shall condemn it; Because they did penance at the preaching of Jonas. And behold more than Jonas here."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:29-32",
+      "reference": "Luke 11:29-32",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 1st week of Lent",
+        "key": "wednesdayOfThe1stWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/25.html",
+    "title": "Gospel and Word of the Day - 25 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-25"
+}
