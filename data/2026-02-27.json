@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "20b1c5d0c7396f17cb68a997c6028eb3d3f064ef205f1682fd03e2476e874dca",
+        "inputSha256": "3ecddf345bd6af0912158743be3f27906ec41f3958214819c665b506191456ad",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "17e361fd940afb8e0edf2280654e62f59f977aa8ad4f4c5ba4550d9e1975279c",
+        "inputSha256": "4dca61f1f3c8050311926a65131fe4af12a4d8833f67e55f9a84160748c64a37",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4608ce5ab23471c3707a176e1684f618814fae0615dbcc1e78482f60acb01cc5",
+        "inputSha256": "df30c1aa18aed05070d2fd9a635f055415c6f7a25292c624f11d5866baef328a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-02-27T01:55:18.281Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Ezekiel’s reversal of fate by a real turn resembles the Stoic idea that the moral life is always available in the present, no matter the past, and the Yogācāra/Buddhist emphasis that a mind-stream can be reoriented by sustained intention; not magic, but practice that changes what “you” are.\n\nSpeculation: Matthew’s escalation from murder to contempt tracks the Buddhist account of harm beginning as mental poison, and the Jain care with speech as karmically weighty; the insult is treated as a small act of violence that rehearses larger ones.\n\nSpeculation: The demand to reconcile before offering parallels Confucian li as hollow without restored relationship, and Hindu prāyaścitta where ritual is secondary to repair; the sacred act is vetoed by an unhealed social wound.\n\nSpeculation: “Settle on the way” echoes Roman and Greek prudence ethics and Daoist yielding: early concession is not cowardice but realism about cascading consequences once the machinery of judgment starts moving.",
+    "excursus": "Ezekiel’s bargain is not mercy; it is amnesia with teeth. The self is treated as a ledger that can be wiped clean or suddenly re-audited, and the terror is that nothing you “were” protects you. The righteous are not secure; their goodness is a balance that can be revoked in an instant, which makes virtue feel less like character and more like a fragile performance under surveillance.\n\nJesus tightens the vise: the crime is not murder but the first heat of contempt, the small word that turns a person into an object. “More than the scribes” means not more rule-keeping but more internal policing, a justice that reaches into the throat before speech is born. Reconciliation isn’t lofty; it’s triage. Settle on the road because time is running, because the system will take your anger and convert it into a sentence, and you will pay for every private pleasure you took in despising someone, down to the last farthing.",
+    "synthesis": "God judges persons by their present conversion as evidenced in enacted justice, not by accumulated moral capital. Christ intensifies the Law by exposing contempt as culpable and by subordinating worship to reconciled relations.",
+    "gospel": [
+      {
+        "text": "Jesus relocates the commandment from the forensic surface (“kill”) to the interior tribunal that generates acts, then drags that interiority back into concrete, time-bound repair: remember, leave, go, agree “betimes.” The escalation from local court to prison sketches a moral physics: unresolved hostility tends toward captivity.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage dismantles fatalism by locating judgment in conversion’s direction: God’s stated preference is life, yet life arrives through a real turning that reorders conduct. The symmetry is deliberate—wicked-to-just and just-to-wicked—so neither despair nor presumption can claim divine backing.",
+        "lines": [
+          3,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Penance is not mood but practice: commandments, judgment, justice.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Divine amnesia is judicial, not therapeutic: “not remember” cancels the docket.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Past righteousness is not a pension; it can be voided by later treason.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They indict God’s math; God indicts their scales.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The gate is narrower than reputations: surplus justice, not public exactness.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Murder begins as contempt; the tongue rehearses the hand.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Worship pauses for settlement; liturgy will not launder grievance.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The “last farthing” makes mercy costly: debt is counted, not waved away.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, in preparation for the Easter feast, devote themselves to the Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, in preparation for the feasts of Easter, devote themselves to Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, as a preparation for the feasts of Easter, devote themselves to Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, as a preparation for the feasts of Easter, devote themselves to Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, in preparation for the feasts of Easter, devote themselves to Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, as a preparation for the Easter feasts, devote themselves to Lenten penances, and may our communal austerity serve for the spiritual renewal of your faithful. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But if the wicked do penance for all his sins which he hath committed, and keep all my commandments, and do judgment, and justice, living he shall live, and shall not die.",
+        "I will not remember all his iniquities that he hath done: in his justice which he hath wrought, he shall live.",
+        "Is it my will that a sinner should die, saith the Lord God, and not that he should be converted from his ways, and live?",
+        "But if the just man turn himself away from his justice, and do iniquity according to all the abominations which the wicked man useth to work, shall he live? all his justices which he hath done, shall not be remembered: in the prevarication, by which he hath prevaricated, and in his sin, which he hath committed, in them he shall die.",
+        "And you have said: The way of the Lord is not right. Hear ye, therefore, O house of Israel: Is it my way that is not right, and are not rather your ways perverse?",
+        "For when the just turneth himself away from his justice, and comitteth iniquity, he shall die therein: in the injustice that he hath wrought he shall die.",
+        "And when the wicked turneth himself away from his wickedness, which he hath wrought, and doeth judgment, and justice: he shall save his soul alive.",
+        "Because he considereth and turneth away himself from all his iniquities which he hath wrought, he shall surely live, and not die."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 18:21-28",
+      "reference": "Ezekiel 18:21-28",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven. The scribes and Pharisees... The scribes were the doctors of the law of Moses: the Pharisees were a precise set of men, making profession of a more exact observance of the law: and upon that account greatly esteemed among the people.",
+        "You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill, shall be in danger of the judgment. Shall be in danger of the judgment... That is, shall deserve to be punished by that lesser tribunal among the Jews, called the Judgment, which took cognizance of such crimes.",
+        "But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou fool, shall be in danger of hell fire. Raca... A word expressing great indignation or contempt. Shall be in danger of the council... That is, shall deserve to be punished by the highest court of judicature, called the Council, or Sanhedrim, consisting of seventy-two persons, where the highest causes were tried and judged, which was at Jerusalem. Thou fool... This was then looked upon as a heinous injury, when uttered with contempt, spite, or malice: and therefore is here so severely condemned. Shall be in danger of hell fire... literally, according to the Greek, shall deserve to be cast into the Gehenna of fire. Which words our Saviour made use of to express the fire and punishments of hell.",
+        "If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath anything against thee;",
+        "Leave there thy offering before the altar, and go first to be reconciled to thy brother, and then coming thou shalt offer thy gift.",
+        "Be at agreement with thy adversary betimes, whilst thou art in the way with him: lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+        "Amen I say to thee, thou shalt not go out from thence till thou repay the last farthing."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:20-26",
+      "reference": "Matthew 5:20-26",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 1st week of Lent",
+        "key": "fridayOfThe1stWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/02/27.html",
+    "title": "Gospel and Word of the Day - 27 February 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/02/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-02-27"
+}
