@@ -1,0 +1,266 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1159474ed0cd955f2459c4ae4cec40f456bb8cc340292d9a3a601e9c53b5a30c",
+        "inputSha256": "ced2cd0b9feb1d894b98858bd0dd11d03ed1bce3523bd1d679e7f7e7d0a34612",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "cf433ebb6ead458df61dbe07f7e9f31d2e25467a203f1d80e8e093c272994c26",
+        "inputSha256": "67ffdf35320fe3b4a036b089f12582f417c0a9e3531c971df6802a8781720d61",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "86faacf36ff6bec9db163fc84584ae221568f30104931158171a9261aefcfceb",
+        "inputSha256": "23497ad4b32469198064fb22675f9239a983c46a016d321274fed8d6dd61e933",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-03T01:55:17.428Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s “wash yourselves” is the psyche refusing cosmetic virtue and demanding a change in the motor habits that produce harm; the clean/unclean polarity is really about perception and agency, a re-training of attention toward the widow and the orphan as the true mirror of the self. The whitened scarlet is not amnesty but a re-written identity: guilt metabolized into a new capacity for care, the way a trauma narrative can be integrated without being erased.\n\nMatthew’s target is status-theater: authority used to outsource conscience, ritual used to advertise belonging, burdening used to secure rank. The “chair” is institutional legitimacy, granted even when the person is hollow; the cure is not anarchic but interior: refuse the addiction to titles, practice service as the only non-delusional greatness. Humility here is not low self-esteem but freedom from the audience.\n\nSemina Verbi: the call to cleanse the heart through justice echoes the Upanishadic and Vedantic turn from outer rite to inner purification, and the Bhagavad Gita’s karma-yoga where right action without self-display dissolves stain. The critique of performative piety parallels the Dhammapada’s preference for lived ethics over robes and recitation, and the Tao Te Ching’s suspicion of named virtue that seeks applause. The demotion of titles into brotherhood resembles Stoic cosmopolitanism and Marcus Aurelius’s insistence that rank is costume; speculation: even Confucius’s rectification of names can be read as the opposite move, yet aimed at the same pathology—words that float free of lived responsibility.",
+    "excursus": "Isaiah isn’t pleading for gentleness; he’s staging a courtroom where God dares the accused to prosecute him. “Come, accuse me” is a provocation: test whether the moral universe is real, whether cleansing is possible, whether the stain is fate. The offer of snow-white isn’t comfort, it’s threat—your identity as scarlet can be rewritten, which means you have no safe self to hide in. Consent is the hinge: “If you be willing.” Desire, not doctrine, decides whether the land feeds you or the sword does.\n\nMatthew turns the knife by refusing the easy solution of replacing bad leaders with good ones. Jesus orders obedience to the seat of Moses while exposing the performers who occupy it, trapping the crowd in the daily misery of having to live under voices that don’t believe themselves. The burden isn’t just the law; it’s being managed by people who use holiness as a costume and then resent anyone who notices the seams.\n\n“Call no man father” reads like an attempt to break the addictive romance with authority. Titles are erotic; they promise protection, belonging, a name. Jesus strips the pet names away so the group has to face the dread of equality: “all you are brethren.” Greatness becomes service not as virtue but as therapy, a forced descent from the stage where hypocrisy is born. If you still crave the first chair, the text promises humiliation—not as punishment, but as the only cure.",
+    "synthesis": "God condemns religious authority that performs righteousness while neglecting justice, and he binds his people to a single vertical allegiance that expresses itself in humble service rather than status.",
+    "gospel": [
+      {
+        "text": "Jesus publicly dismantles a prestige economy: the crowd is taught to distinguish Torah from its vainglorious managers, while disciples are prohibited from building a parallel clerical caste through honorifics. The inversion in the closing line is not etiquette but a rule of the kingdom’s governance: self-exaltation triggers divine demotion.",
+        "lines": [
+          1,
+          5,
+          8,
+          9,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from social repair to political consequence: justice to the vulnerable is the test of repentance, and the land’s “good things” are framed as covenantal gift contingent on listening. The horizon is not private piety but public order under God’s scrutiny.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Sodom/Gomorrha as mirror, not archaeology: covenant speech addressed to the damned.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purity is ethical, not ceremonial; God refuses to “see” contrived evil.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Scarlet/crimson named, not minimized; cleansing is unilateral metamorphosis.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two mouths: provocation answers with steel; judgment is verbalized inevitability.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority acknowledged as seat, not sanctity; office without virtue.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Obedience split from imitation: hear the law, refuse the performer.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The yoke is theirs but not borne by them; cruelty masked as pedagogy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Titles as narcotic: “Rabbi” traded for the currency of deference.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Greatness redefined as downward motion; rank converted into service.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, watch with unceasing love over your Church; and since without your help what is founded on human weakness cannot endure, protect your Church in danger and keep her on the path of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep watch with unceasing love over your Church; and since without your help what is founded on human frailty cannot endure, protect your Church in danger and keep her on the path of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, watch over your Church with constant love, and since without your help what is founded on human frailty cannot endure, protect your Church in danger and keep her on the path of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, watch with unceasing love over your Church, and since without your help what is founded on human weakness cannot endure, protect your Church in danger and keep her on the path of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, watch with unceasing love over your Church; and since, without your help, what is founded on human frailty cannot endure, protect your Church in danger and keep her on the path of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep watch with unceasing love over your Church; and since without your help what is founded on human weakness cannot endure, protect your Church in danger and keep her on the way of salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Hear the word of the Lord, ye rulers of Sodom, give ear to the law of our God, ye people of Gomorrha.",
+        "Wash yourselves, be clean, take away the evil of your devices from my eyes, cease to do perversely,",
+        "Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow.",
+        "And then come, and accuse me, saith the Lord: if your sins be as scarlet, they shall be made as white as snow: and if they be red as crimson, they shall be white as wool.",
+        "If you be willing, and will hearken to me, you shall eat the good things of the land.",
+        "But if you will not, and will provoke me to wrath: the sword shall devour you because the mouth of the Lord hath spoken it."
+      ],
+      "lineRefs": [
+        "10",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 1:10,16-20",
+      "reference": "Isaiah 1:10,16-20",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then Jesus spoke to the multitudes and to his disciples,",
+        "Saying: The scribes and the Pharisees have sitten on the chair of Moses.",
+        "All things therefore whatsoever they shall say to you, observe and do: but according to their works do ye not. For they say, and do not.",
+        "For they bind heavy and insupportable burdens and lay them on men's shoulders: but with a finger of their own they will not move them.",
+        "And all their works they do for to be seen of men. For they make their phylacteries broad and enlarge their fringes. Phylacteries... that is, parchments, on which they wrote the ten commandments, and carried them on their foreheads before their eyes: which the Pharisees affected to wear broader than other men; so to seem more zealous for the law.",
+        "And they love the first places at feasts and the first chairs in the synagogues,",
+        "And salutations in the market place, and to be called by men, Rabbi.",
+        "But be not you called Rabbi. For one is your master: and all you are brethren.",
+        "And call none your father upon earth; for one is your father, who is in heaven. Call none your father--Neither be ye called masters, etc... The meaning is that our Father in heaven is incomparably more to be regarded, than any father upon earth: and no master to be followed, who would lead us away from Christ. But this does not hinder but that we are by the law of God to have a due respect both for our parents and spiritual fathers, (1 Cor. 4. 23:15,) and for our masters and teachers.",
+        "Neither be ye called masters: for one is your master, Christ.",
+        "He that is the greatest among you shall be your servant.",
+        "And whosoever shall exalt himself shall be humbled: and he that shall humble himself shall be exalted."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 23:1-12",
+      "reference": "Matthew 23:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "n",
+        "rank": "COMMEMORATION",
+        "name": "Saint Katharine Drexel, Virgin",
+        "key": "saintKatharineDrexelVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/03.html",
+    "title": "Gospel and Word of the Day - 03 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-03"
+}
