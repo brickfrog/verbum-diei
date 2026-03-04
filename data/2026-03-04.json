@@ -1,0 +1,284 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c042f6a8807c346bcb46f1fe2fd3fc1013b5021b632b3afcd3dc00809232fd98",
+        "inputSha256": "3fb16dfefb03142151494e731969791a511c7e0f6a51ec3ff01a8b3299afee07",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f25f203129eb7d2f375b136856c2445ef0c586db8b9321b892087fc5d9c39f5d",
+        "inputSha256": "5fb7b2bac034c5d9fcf8198b089251acdc8db510017c14d0b9a51e4862da149f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c4873040a95f7b32c07699df89f67b94c733fae5b412ef8773de35a7b90b0f4a",
+        "inputSha256": "fab90b148630decdf7a398d4fb275a6e9e75324a33f265629f7d52cf51ea3017",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-04T01:55:16.606Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The prophet’s enemies protect their status by claiming the institutions will survive without him; it is the psychology of gatekeeping dressed as piety. In Confucian terms it resembles the court that invokes li and tradition to silence the remonstrating minister, treating criticism as disorder rather than loyalty.\n\n“Strike him with the tongue” is social execution: rumor as weapon, belonging as cudgel. This parallels the Athenian dynamic around Socrates, where the city defends its self-image by prosecuting the irritant who names its contradictions.\n\nThe request for thrones beside the doomed king is ambition clinging to a fantasy of victory, a family’s understandable attempt to translate love into leverage. In Buddhist terms it echoes the subtle grasping for spiritual rank; the craving survives even in the presence of mortality.\n\nGreatness redefined as service aligns with the Bhagavad Gita’s karma-yoga: action without grasping at the fruit, authority expressed as duty rather than entitlement. Speculation: the “cup” functions like the Stoic lot—what must be borne—accepted not as romance but as the price of integrity.\n\nRansom language touches a widespread intuition: a life can be spent to free others from fear and debt. One can hear an analogue in the bodhisattva vow, where liberation is pursued by taking on the weight of others, not escaping it.",
+    "excursus": "Jeremiah’s enemies aren’t defending truth; they’re defending the system that makes truth unnecessary. “The law shall not perish… nor counsel… nor the word…” is the smug creed of a culture that can survive without listening. If the priest still has law and the wise still have counsel, then the prophet is surplus. So they “strike him with the tongue”: assassination by speech, the clean violence of reputations, the pit dug for the soul. Jeremiah’s plea isn’t pious; it’s the wounded insistence of someone who tried to save people who now need him silenced to keep their conscience intact.\n\nJesus walks toward Jerusalem with the script of his own humiliation already spoken aloud, and right after that prophecy comes the rawest human impulse in the room: a mother bargaining for proximity to power. The kingdom is imagined as a throne room, not a grave. Her desire is not abnormal; it’s the honest form of what the others are thinking, proven by their indignation. They’re not scandalized by ambition; they’re jealous of its audacity.\n\nThe “chalice” is not a metaphor for generic hardship; it is the taste of being used, spat out, and publicly erased. They say, “We can,” because desire always overestimates its courage. Jesus doesn’t romanticize them or reject them; he predicts they will indeed drink it, as if the only way to cure their hunger for status is to let them discover how bitter it is.\n\nAnd his alternative to domination is not sweetness but dread: serve, be last, be spent. The ransom line lands like an unasked-for diagnosis: the world runs on exchange, blood for freedom, bodies turned into payment. The good news, here, is also the terrible news: the only authority that won’t corrupt you is the kind that feels like losing everything.",
+    "synthesis": "God’s kingdom overturns status by rooting authority in sacrificial service, and it exposes religious violence as the attempt to preserve office by silencing the mediator. The Church is ordered by the chalice: participation in Christ’s suffering, not proximity to prestige.",
+    "gospel": [
+      {
+        "text": "The ascent to Jerusalem frames two orders of will: human plotting and divine preparation. Jesus locates betrayal, condemnation, and Gentile cruelty inside a providential itinerary, and then refuses to treat “places” as spoils, assigning them to the Father’s prior appointment.",
+        "lines": [
+          1,
+          2,
+          3,
+          7
+        ]
+      },
+      {
+        "text": "The contrast with Gentile rule is not merely ethical advice; it is ecclesial constitution. The community that follows the crucified Messiah must organize power around ministry because its founder’s act is substitutionary self-gift, not domination.",
+        "lines": [
+          9,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prophet appeals over the heads of the crowd to the only competent judge; the case is not rhetorical but juridical—witness, adversary, verdict.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "Jeremiah’s scene establishes the pattern: the community claims continuity (“law… counsel… word”) while silencing the living word; the result is a counterfeit tradition that preserves offices by eliminating interruption.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Institutional piety invoked as alibi for murder: priest/wise/prophet as a chorus against the prophet.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Strike him with the tongue”: bloodless violence, reputational crucifixion.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Good returned with a pit: intercession answered by entrapment.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Turn away thy indignation” becomes the charge against him: the mediator is treated as traitor.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Passion is narrated in the future tense: foreknown, not forestalled.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Adoration paired with ambition: kneeling as leverage.",
+      "lines": [
+        4,
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The chalice question: glory is priced in suffering, not proximity.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Indignation is rivalry with a moral mask.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rank inverted into service; “first” redefined as lowest.",
+      "lines": [
+        10,
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority grounded in self-donation: life spent as “redemption,” not display.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of goodness that you have shown it, and grant that, protected by your hand in its temporal needs, it may with greater freedom seek after eternal goods. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of good that you have shown them, and grant that, protected by your hand in their temporal needs, they may strive with greater freedom for eternal goods. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of goodness that you have shown them, and grant that, protected by your hand in their temporal needs, they may with greater freedom aspire to eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of good that you have shown it, and grant that, protected by your hand in its temporal needs, it may strive with greater freedom for eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of good that you have shown it, and grant that, protected by your hand in its temporal needs, it may with greater freedom strive for eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, keep your family on the path of good that you have shown it, and grant that, protected by your hand in its temporal needs, it may strive with greater freedom toward eternal goods. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, meek and humble of heart, who offer those who come to you a gentle yoke and a light burden, deign, then, to accept the desires and the deeds of the day we have completed; grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfast in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And they said: Come, and let us invent devices against Jeremias: for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet: come, and let us strike him with the tongue, and let us give no heed to all his words.",
+        "Give heed to me, O Lord, and hear the voice of my adversaries.",
+        "Shall evil be rendered for good, because they have digged a pit for my soul? Remember that I have stood in thy sight, to speak good for them, and to turn away thy indignation from them. Remember, etc... This is spoken in the person of Christ, persecuted by the Jews, and prophetically denouncing the evils that should fall upon them in punishment of their crimes."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 18:18-20",
+      "reference": "Jeremiah 18:18-20",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus going up to Jerusalem, took the twelve disciples apart and said to them:",
+        "Behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief priests and the scribes: and they shall condemn him to death.",
+        "And shall deliver him to the Gentiles to be mocked and scourged and crucified: and the third day he shall rise again.",
+        "Then came to him the mother of the sons of Zebedee with her sons, adoring and asking something of him.",
+        "Who said to her: What wilt thou? She saith to him: say that these my two sons may sit, the one on thy right hand, and the other on thy left, in thy kingdom.",
+        "And Jesus answering, said: You know not what you ask. Can you drink the chalice that I shall drink? They say to him: We can.",
+        "He saith to them: My chalice indeed you shall drink; but to sit on my right or left hand is not mine to give to you, but to them for whom it is prepared by my Father.",
+        "And the ten, hearing it, were moved with indignation against the two brethren.",
+        "But Jesus called them to him and said: You know that the princes of the Gentiles lord it over them; and that they that are the greater, exercise power upon them.",
+        "It shall not be so among you: but whosoever is the greater among you, let him be your minister.",
+        "And he that will be first among you shall be your servant.",
+        "Even as the Son of man is not come to be ministered unto, but to minister and to give his life a redemption for many."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 20:17-28",
+      "reference": "Matthew 20:17-28",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Casimir",
+        "key": "saintCasimir"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/04.html",
+    "title": "Gospel and Word of the Day - 04 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-04"
+}
