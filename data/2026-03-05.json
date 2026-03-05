@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7a017a60bbd489edbdbee1fa0d9b76f68356cbe800dfefab3b8b8250b5e4de8d",
+        "inputSha256": "3cdda89d5d032fe138099380dd67c2dac65eb5c5a04155918f4767b9caa5df01",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "12d900d42d799cc7ade057cddeeb6abb1c24ac5db0c16ec877e5ccceb68c39d6",
+        "inputSha256": "d3a7355dbad7ac8e5ca75473e00dcd53ff42b90b7e3eede088c94a19de3964b3",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "bc7105125950ffc052b55083e8070f1881e13ad3dc5b376f3fdd0fccb0092a09",
+        "inputSha256": "3267152e3f384d3462befc03b5b0a3e9ac25a99427223415e6f96acc0bcc1ee2",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-05T01:55:17.873Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Jeremiah’s “trust in flesh” reads like the Bhagavad Gita’s warning against anchoring the self in the perishing gunas; the rooted tree resembles yoga as steadied attention that doesn’t wither in heat. The unsearchable heart parallels the Daoist sense that the true center can’t be grasped by cleverness, only traced by a larger Way.\n\nThe rich man and Lazarus echo Buddhist karma as habituated perception: comfort becomes anesthesia, suffering becomes clarity, and death simply reveals what craving trained. The “great chasm” feels like the Platonic gap between soul-shapes formed by desire; once the psyche is congealed, argument and spectacle can’t melt it.\n\n“If they won’t hear, they won’t believe” matches a Zen suspicion of miracles: a mind that won’t submit to the ordinary discipline of hearing can turn even resurrection into another passing sensation.",
+    "excursus": "Jeremiah’s curse is not about atheism; it’s about outsourcing your inner life. “Trusting in man” is letting another body, another appetite, another consensus do your willing for you. That is why the image is botanical and humiliating: a scrub in salt, alive but starved, unable to recognize good when it arrives because it has trained itself to read only heat and threat. The “perverse” heart is not wicked so much as labyrinthine, brilliant at self-justification, rehearsing freedom while living on borrowed nerves.\n\nThe rich man is the perfected version of that curse: a man who has made flesh his arm until even his compassion is delegated. Lazarus lies at his gate like a conscience turned into scenery. The dogs do what the rich man will not: they approach the wound. Desire is everywhere in the story, but it has been displaced into safe forms—purple, linen, daily feasts—so the only remaining desire that can break through is thirst.\n\nHell here is not a sentence imposed from outside; it is the final privacy of a life spent refusing contact. The “great chaos” is the rich man’s old gate, made cosmic. He still speaks the language of hierarchy—send Lazarus, dip a finger, run an errand—because even in pain he cannot imagine relation without control. Abraham’s reply is cold bookkeeping, almost cruel: you had your consolations. That chill is the point. Comfort can be a narcotic so complete it anesthetizes reality, and when it wears off the world is suddenly unbridgeable.\n\nThe last twist is psychological: the rich man wants a miracle as an excuse to feel. Abraham says no. Not because miracles don’t happen, but because the problem is not evidence; it is attention. Moses and the prophets are not information, they are a training of perception, a way to see Lazarus at the gate before the gate hardens into an abyss. Resurrection won’t save the person who has practiced not seeing.",
+    "synthesis": "God alone is the object of trust because he alone judges the hidden heart and repays truly. Refusal to hear Moses and the prophets hardens into an irreversible separation that no postmortem sign can undo.",
+    "gospel": [
+      {
+        "text": "The parable turns on reversals with no third act: death locks in what daily habits have already shaped. The rich man’s plea for a messenger concedes the authority of revelation while attempting to bypass it; Abraham insists that Scripture already performs the warning, and refusal of it is the real damnation.",
+        "lines": [
+          4,
+          7,
+          9,
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Jeremiah sets two economies: confidence as covenantal posture, and recompense as measured disclosure of what a “way” produces. The divine search is not curiosity but adjudication; inner secrecy is treated as evidence, not refuge.",
+        "lines": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Trust in man: liturgy of self-reliance. “Flesh” promoted to weapon; heart demotes God.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Punishment as perception-loss: “shall not see when good shall come.” Sterility first, then solitude.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Roots make their own weather. Heat arrives, but fear does not; drought becomes a non-event.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The heart: not merely weak, but a labyrinth. The question is a verdict.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purple and linen: virtue-signaling in textiles. “Every day” makes excess into rhythm.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Named poor man, unnamed rich man: memory keeps the wounded, forgets the satisfied.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Crumbs denied; dogs supply the only liturgy of mercy. The gate is a moral border.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He still assigns Lazarus tasks. A fingertip of water requested by a man who never gave a crumb.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Fixed” chaos: not distance but law. Afterward is not negotiable.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Miracle fails where obedience is refused. Resurrection becomes noise to a closed ear.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them ablaze with the fire of your Spirit, that we may remain steadfast in faith and effective in doing good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them ablaze with the fire of your Spirit, so that we may remain steadfast in faith and effective in doing good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them ablaze with the fire of your Spirit, so that we may remain steadfast in faith and effective in doing good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them aflame with the fire of your Spirit, that we may remain steadfast in faith and effective in doing good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them ablaze with the fire of your Spirit, that we may remain steadfast in faith and effective in doing good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who love innocence and restore it to those who have lost it, draw our hearts to yourself and set them ablaze with the fire of your Spirit, so that we may remain steadfast in faith and effective in doing good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Thus saith the Lord: Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.",
+        "For he shall be like tamaric in the desert, and he shall not see when good shall come: but he shall dwell in dryness in the desert in a salt land, and not inhabited. Tamaric... A barren shrub that grows in the driest parts of the wilderness.",
+        "Blessed be the man that trusteth in the Lord, and the Lord shall be his confidence.",
+        "And he shall be as a tree that is planted by the waters, that spreadeth out its roots towards moisture: and it shall not fear when the heat cometh. And the leaf thereof shall be green, and in the time of drought it shall not be solicitous, neither shall it cease at any time to bring forth fruit.",
+        "The heart is perverse above all things, and unsearchable, who can know it?",
+        "I am the Lord who search the heart, and prove the reins: who give to every one according to his way, and according to the fruit of his devices."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 17:5-10",
+      "reference": "Jeremiah 17:5-10",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "There was a certain rich man who was clothed in purple and fine linen and feasted sumptuously every day.",
+        "And there was a certain beggar, named Lazarus, who lay at his gate, full of sores,",
+        "Desiring to be filled with the crumbs that fell from the rich man's table. And no one did give him: moreover the dogs came and licked his sores.",
+        "And it came to pass that the beggar died and was carried by the angels into Abraham's bosom. And the rich man also died: and he was buried in hell. Abraham's bosom... The place of rest, where the souls of the saints resided, till Christ had opened heaven by his death.",
+        "And lifting up his eyes when he was in torments, he saw Abraham afar off and Lazarus in his bosom:",
+        "And he cried and said: Father Abraham, have mercy on me and send Lazarus, that he may dip the tip of his finger in water to cool my tongue: for I am tormented in this flame.",
+        "And Abraham said to him: Son, remember that thou didst receive good things in thy lifetime, and likewise Lazarus evil things: but now he is comforted and thou art tormented.",
+        "And besides all this, between us and you, there is fixed a great chaos: so that they who would pass from hence to you cannot, nor from thence come hither.",
+        "And he said: Then, father, I beseech thee that thou wouldst send him to my father's house, for I have five brethren,",
+        "That he may testify unto them, lest they also come into this place of torments.",
+        "And Abraham said to him: They have Moses and the prophets. Let them hear them.",
+        "But he said: No, father Abraham: but if one went to them from the dead, they will do penance.",
+        "And he said to him: If they hear not Moses and the prophets, neither will they believe, if one rise again from the dead."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 16:19-31",
+      "reference": "Luke 16:19-31",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 2nd week of Lent",
+        "key": "thursdayOfThe2ndWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/05.html",
+    "title": "Gospel and Word of the Day - 05 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-05"
+}
