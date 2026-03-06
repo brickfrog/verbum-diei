@@ -1,0 +1,346 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "21d8b539b89742ec36ed993c12ded64b9dbb7f3fcf1bf7fc111c418dddc4e960",
+        "inputSha256": "7466c01488964d03c398002403d13a22ecdc9f45208d0b81c0ba6cbe6159d176",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a81e5c2ef36aa4da2c6baa7d9bc5972ed3f085154bc5b085baf44a1a3ff1f30e",
+        "inputSha256": "aec7d513b49fea987920989354bcbd562b066b813d6a11a6330bb05430a0e37e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "798f8c86a9f422d62d46fd345a15bfd9107b38576c2d4f145624eba881858159",
+        "inputSha256": "658cb5a0c326e440bb41af3e17d1ac5d37077416ee7eebd99b6d6329403c5cd6",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-06T01:55:28.452Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The brothers’ cruelty and the tenants’ murder share one psychic engine: envy turned into jurisdiction. In both, the group feels dispossessed by a figure who represents a future they cannot control, so they convert vulnerability into “justice,” pretending the elimination is merely management of risk. The pit and the vineyard are both staged spaces where the victim is made into an object, first stripped of color, then cast outside the boundary; exclusion is the prelude to erasure.\n\nSpeculation: this resembles the scapegoat mechanism René Girard traces across myth, where communal anxiety is stabilized by unanimous violence, later moralized as necessity. You can also hear the Mahābhārata’s fraternal rivalry and attempted stripping as a parallel wound: kinship becomes the most intimate theater for status terror. In Buddhist terms, it reads like dosa and māna congealing into collective karma; in Stoic language, the tenants’ “inheritance” fantasy is a passion born from false ownership. Even in the Daoist critique of grasping, the tragedy is the same: trying to seize what cannot be possessed turns order into self-destruction.",
+    "excursus": "Joseph isn’t innocent; he is the family’s wound given a face. The coat is not a gift but a provocation, a wearable verdict that the father has already chosen an heir in his own mind. Joseph goes looking for the brothers as if hunger for recognition outweighs instinct for survival. The “dreamer” arrives like a narcotic and an irritant: he makes their own obscurity unbearable. So they strip the coat first, because the garment is the offense; the body can wait. The pit is a rehearsal of disappearance, an emptying-out where they can eat bread beside the soundless fact of him. Their dread is not of murder but of being insignificant.\n\nReuben’s mercy is managerial, not tender: postpone the killing, keep options open, preserve the father’s fantasy. Judah’s “profit” is the real theology here, a cleansing of conscience through transaction. They sell their brother so they can keep a story in which they are not killers. Desire for clean hands is more violent than rage; it invents systems.\n\nThe vineyard parable turns the screw: the tenants aren’t monsters, they’re workers who have lived too long inside someone else’s property and start to feel the owner’s absence as permission. The son is not revered because he’s good; he’s hated because he is the embodiment of a claim that never stops arriving. “This is the heir” is naked envy: kill him and the anxiety ends, the future becomes theirs. But the punchline is bleak. The owner doesn’t fix the vineyard; he replaces the people. The rejected stone becomes cornerstone not as consolation but as threat: what you throw away returns as structure. And the priests’ fear of the crowd is the same old calculus—no repentance, only risk management. The texts don’t soothe; they expose how quickly families and institutions prefer bloodless language, lawful transfers, respectable fear, anything but the terror of being seen and found wanting.",
+    "synthesis": "God’s envoys are rejected not by ignorance but by a deliberate will to possess without rendering fruit. The rejected one becomes the structural cornerstone by divine act, and stewardship is transferred to those who yield what is owed.",
+    "gospel": [
+      {
+        "text": "The parable escalates by missions and responses: servants, more servants, then the son; violence intensifies as accountability approaches. The crowd’s answer in lines 8–9 pronounces judgment that rebounds on them, making the hearers co-authors of their own sentence.",
+        "lines": [
+          2,
+          3,
+          4,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Recognition does not produce repentance but strategy: they “knew” and then moved to arrest, checked only by fear of the multitude. The narrative isolates a politics of perception—authority constrained not by truth but by public estimation.",
+        "lines": [
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The episode is arranged as a dispatch: the father sends, the son searches, the meeting occurs under misrecognition. The journey language (send/find) frames Joseph as an obedient envoy whose vulnerability is created by the family’s own pastoral economy.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Two “saves” compete: Ruben’s procedural restraint and Juda’s utilitarian calculus. The text shows how moral language (“hands not defiled,” “our flesh”) can be recruited to secure a preferred outcome—removal of the brother—while claiming innocence.",
+        "lines": [
+          9,
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Love made textile: favoritism stitched into a public sign.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hatred begins as a refusal of speech: no “peaceable” word, no shared world.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They name him by gift: “dreamer” as accusation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Murder drafted as a narrative: fabricate the beast, litigate the dreams.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ruben chooses bloodless violence: innocence preserved by technique.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The coat is removed before the body: symbolic dethroning precedes disposal.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A pit without water: a grave that delays.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bread beside the pit: appetite untroubled by proximity to the victim.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Twenty pieces: a brother priced; Egypt as the destination of commodified flesh.",
+      "lines": [
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The owner supplies everything, then withdraws: stewardship tested by absence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“They will reverence my son”: trust stated as if it could bind the violent.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Inheritance theology inverted: kill the heir to seize what cannot be seized.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cast out, then kill: expulsion before execution—purity theater.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rejected stone becomes cornerstone: the builders’ verdict is not final.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kingdom as transfer: fruitfulness, not tenure, legitimates possession.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter cleansed from sin. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter cleansed from sin. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter cleansed from sin. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter cleansed from sin. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter free from sin. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, that, purified by Lenten penance, we may come to the feasts of Easter free from sin. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty, since by our rest we are to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to newness of life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now Israel loved Joseph above all his sons, because he had him in his old age: and he made him a coat of divers colours.",
+        "And his brethren seeing that he was loved by his father, more than all his sons, hated hem, and could not speak peaceably to him.",
+        "And when his brethren abode in Sechem, feeding their father's flocks,",
+        "Israel said to him: Thy brethren feed the sheep in Sichem: come, I will send thee to them. And when he answered:",
+        "And the man said to him: They are departed from this place: for I heard them say: Let us go to Dothain. And Joseph went forward after his brethren, and found them in Dothain.",
+        "And when they saw him afar off, before he came nigh them, they thought to kill him:",
+        "And said one to another: Behold the dreamer cometh.",
+        "Come, let us kill him, and cast him into some old pit: and we will say: Some evil beast hath devoured him: and then it shall appear what his dreams avail him:",
+        "And Ruben hearing this, endeavoured to deliver him out of their hands, and said:",
+        "Do not take away his life, nor shed his blood: but cast him into this pit, that is in the wilderness, and keep your hands harmless: now he said this, being desirous to deliver him out of their hands and to restore him to his father.",
+        "And as soon as he came to his brethren, they forthwith stript him of his outside coat, that was of divers colours:",
+        "And cast him into an old pit where there was not water.",
+        "And sitting down to eat bread, they saw some Ismaelites on their way coming from Galaad, with their camels, carrying spices, and balm, and myrrh to Egypt.",
+        "And Juda said to his brethren: What will it profit us to kill our brother, and conceal his blood?",
+        "It is better that he be sold to the Ismaelites, and that our hands be not defiled: for he is our brother and our flesh. His brethren agreed to his words.",
+        "And when the Madianite merchants passed by, they drew him out of the pit, and sold him to the Ismaelites, for twenty pieces of silver: and they led him into Egypt."
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "12",
+        "13",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Genesis 37:3-4,12-13,17-28",
+      "reference": "Genesis 37:3-4,12-13,17-28",
+      "heading": "A reading from the Book of Genesis",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Hear ye another parable. There was a man, an householder, who planted a vineyard and made a hedge round about it and dug in it a press and built a tower and let it out to husbandmen and went into a strange country.",
+        "And when the time of the fruits drew nigh, he sent his servants to the husbandmen that they might receive the fruits thereof.",
+        "And the husbandmen laying hands on his servants, beat one and killed another and stoned another.",
+        "Again he sent other servants, more than the former; and they did to them in like manner.",
+        "And last of all he sent to them his son, saying: They will reverence my son.",
+        "But the husbandmen seeing the son, said among themselves: This is the heir: come, let us kill him, and we shall have his inheritance.",
+        "And taking him, they cast him forth out of the vineyard and killed him.",
+        "When therefore the lord of the vineyard shall come, what will he do to those husbandmen?",
+        "They say to him: He will bring those evil men to an evil end and let out his vineyard to other husbandmen that shall render him the fruit in due season.",
+        "Jesus saith to them: Have you never read in the Scriptures: The stone which the builders rejected, the same is become the head of the corner? By the Lord this has been done; and it is wonderful in our eyes.",
+        "Therefore I say to you that the kingdom of God shall be taken from you and shall be given to a nation yielding the fruits thereof.",
+        "And when the chief priests and Pharisees had heard his parables, they knew that he spoke of them.",
+        "And seeking to lay hands on him, they feared the multitudes, because they held him as a prophet."
+      ],
+      "lineRefs": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "45",
+        "46"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 21:33-43,45-46",
+      "reference": "Matthew 21:33-43,45-46",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 2nd week of Lent",
+        "key": "fridayOfThe2ndWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/06.html",
+    "title": "Gospel and Word of the Day - 06 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-06"
+}
