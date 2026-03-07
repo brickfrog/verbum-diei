@@ -1,0 +1,362 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "41dafe2bc4f2f29d3d462125783a07e4a2d60bc346e0d9ed74ecdf655814917d",
+        "inputSha256": "8d978a960d42799401b21e7ecc7e0bed35efb5c0e16818b8f7b000d1fa73acde",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "47453def884a29a88998614b85c55b7a65bd890c55f75a133689bd8b327c841b",
+        "inputSha256": "aa76c2f04de1dab3b9f5b3cbc78b9a8195af6f6dff320e2c506a749ab672ae38",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d5d897c525fbac68c2a517b7d6c5a8870d7338af091b102f97eea99d97599541",
+        "inputSha256": "e53fb7ca479a2ffb325ba11cad4631fb7f4f9ea5e32bf71e1d96d5b99bfad273",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-07T01:55:03.252Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Micah’s mercy that buries guilt in the sea has an Indian cousin in the Ganges’ imagined power to carry stain away; both picture moral residue as something that can be submerged, not argued into submission. The father running to the ruined son echoes the bodhisattva ideal in Mahayana Buddhism, compassion moving first toward the broken before any proof of reform; speculative, but the emotional grammar matches. The elder brother’s cold bookkeeping resembles the Bhagavad Gita’s warning that clinging to merit corrodes devotion, and also the Stoic temptation to turn virtue into status. The “returning to himself” moment feels like Platonic anamnesis and the Sufi tawba: not self-invention but a wake-up into what one already knows, a homecoming of the mind. The feast that re-seats the son parallels Japan’s Naikan practice’s aim of restoring relational belonging through gratitude rather than legal balance; speculative, but it shares the insistence that reconciliation is enacted, not merely declared.",
+    "excursus": "Micah’s “mercy” is not softness; it is disposal. God is pictured as a handler with a rod, pushing a skittish flock out of lonely forest into older pastures, then taking the community’s rot and throwing it where no one can retrieve it: the sea’s bottom. Forgiveness is an act of violence against memory, a drowning of the evidence so the story can keep going.\n\nLuke’s father does the same thing, and it is terrifying. The younger son returns not from enlightenment but from hunger, with a rehearsed speech designed to secure a minimum wage and survive. The father interrupts the script with costume and meat, not to reward virtue but to rewrite reality in public before the household can fix blame. The kiss is a gag; the robe is a verdict.\n\nThe elder son is the only honest one. He names the erotic waste, the unfairness, the way “mercy” humiliates the dutiful by making their endurance invisible. The father’s line, “all I have is thine,” is not comfort but a trap: you already own the estate, so you cannot leave without becoming the kind of son who takes and runs. The party is coercion. Either enter and consent to the new narrative, or stand outside with your righteousness and starve on it.\n\nBoth texts confess the same desire: not justice, but erasure. The miracle is not that the lost are found; it’s that everyone is forced to live as if the loss never happened.",
+    "synthesis": "God’s mercy is covenantal restoration: he removes sin to recover sons, not to ratify their bargains. Refusal of the feast is refusal of the Father’s definition of life.",
+    "gospel": [
+      {
+        "text": "Luke positions the parable as an answer to a dispute about boundaries. The story’s hinge is not the younger son’s collapse but the father’s declaration of death-to-life: he redefines reality, then demands the household accept that definition.",
+        "lines": [
+          3,
+          4,
+          17
+        ]
+      },
+      {
+        "text": "The elder son functions as the mirror of the Pharisaic complaint: he refuses participation in the father’s economy of gift. The resolution is not an argument about fairness but a summons to share the father’s joy as the proper expression of sonship.",
+        "lines": [
+          18,
+          24,
+          25
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Micah frames restoration as covenant administration: a flock, a remnant, and a sworn history. The logic is juridical—God’s uniqueness is displayed not in raw power but in the way judgment is restrained to preserve an inheritance.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The Exodus allusion sets the horizon: deliverance is an act that creates a people and then continually re-creates them. Forgiveness is depicted as an objective removal that makes future communion possible rather than mere emotional leniency.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Shepherding by a rod: care that also strikes. Inheritance pictured as feral solitude.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exodus recalled as a template: salvation is precedent, not novelty.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rhetorical incomparability of God grounded in a scandal: He “passes by” sin.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Violence redirected: sins, not sinners, are drowned—obliteration by disposal.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy and truth are not moods but oaths; the past binds the present.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The draw is auditory: they come to hear before they are cleaned.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Table fellowship becomes the indictment; proximity is treated as contamination.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Inheritance demanded as if the father were already dead: premature possession.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Far country” is theology: distance monetized, then liquefied.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He “cleaves” to a stranger: counterfeit belonging purchased by servitude.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Conversion described as self-return, not self-invention.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He negotiates downward: from sonship to wage; repentance as contract offer.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The father runs—undignified speed—while the son is still “a great way off.”",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Robe, ring, shoes: restoration is public, total, and irreversible.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The father goes out twice: mercy interrupts both vice and virtue.",
+      "lines": [
+        21
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Obedience weaponized into a wage-claim; “serve” replaces “son.”",
+      "lines": [
+        22
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“All I have is thine”: resentment reveals ignorance of abundance.",
+      "lines": [
+        24
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who through the sacraments allow us, even in this mortal life, to share in the goods of your kingdom, guide us yourself along the path of life, that we may come to attain the light in which you dwell with your saints. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, our God, who through the sacraments allow us to share in the goods of your kingdom even in our mortal life, lead us yourself along the way of life, that we may come to attain the light in which you dwell with your saints. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who through the sacraments allow us to share in the goods of your kingdom even in this mortal life, guide us yourself along the way of life, so that we may come to attain the light in which you dwell with your saints. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who through the sacraments allow us to share in the blessings of your kingdom even in this mortal life, guide us yourself along the way of life, so that we may come to attain the light in which you dwell with your saints. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who through the sacraments allow us to share in the blessings of your kingdom even in this mortal life, guide us yourself along the path of life, that we may come to attain the light in which you dwell with your saints. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercies and source of every good, you who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people and, in your mercy, restore us who are crushed beneath the weight of our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday, or of solemnities that fall on a Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on a Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and let your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Feed thy people with thy rod, the flock of thy inheritance, them that dwell alone in the forest, in the midst of Carmel: they shall feed in Basan and Galaad, according to the days of old.",
+        "According to the days of thy coming out of the land of Egypt, I will shew him wonders.",
+        "Who is a God like to thee, who takest away iniquity, and passest by the sin of the remnant of thy inheritance? he will send his fury in no more, because he delighteth in mercy.",
+        "He will turn again, and have mercy on us: he will put away our iniquities: and he will cast all our sins into the bottom of the sea.",
+        "Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old. THE PROPHECY OF NAHUM NAHUM, whose name signifies A COMFORTER, was a native of Elcese, or Elcesai, supposed to be a little town in Galilee. He prophesied, after the ten tribes were carried into captivity, and foretold the utter destruction of Ninive, by the Babylonians and Medes: which happened in the reign of JOSIAS."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Micah 7:14-15,18-20",
+      "reference": "Micah 7:14-15,18-20",
+      "heading": "A reading from the Book of Micah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now the publicans and sinners drew near unto him to hear him.",
+        "And the Pharisees and the scribes murmured, saying: This man receiveth sinners and eateth with them.",
+        "And he spoke to them this parable, saying:",
+        "And he said: A certain man had two sons.",
+        "And the younger of them said to his father: Father, give me the portion of substance that falleth to me. And he divided unto them his substance.",
+        "And not many days after, the younger son, gathering all together, went abroad into a far country: and there wasted his substance, living riotously.",
+        "And after he had spent all, there came a mighty famine in that country: and he began to be in want.",
+        "And he went and cleaved to one of the citizens of that country. And he sent him into his farm to feed swine.",
+        "And he would fain have filled his belly with the husks the swine did eat: and no man gave unto him.",
+        "And returning to himself, he said: How many hired servants in my father's house abound with bread, and I here perish with hunger!",
+        "I will arise and will go to my father and say to him: Father, I have sinned against heaven and before thee.",
+        "I am not worthy to be called thy son: make me as one of thy hired servants.",
+        "And rising up, he came to his father. And when he was yet a great way off, his father saw him and was moved with compassion and running to him fell upon his neck and kissed him.",
+        "And the son said to him: Father: I have sinned against heaven and before thee I am not now worthy to be called thy son.",
+        "And the father said to his servants: Bring forth quickly the first robe and put it on him: and put a ring on his hand and shoes on his feet.",
+        "And bring hither the fatted calf, and kill it: and let us eat and make merry:",
+        "Because this my son was dead and is come to life again, was lost and is found. And they began to be merry.",
+        "Now his elder son was in the field and when he came and drew nigh to the house, he heard music and dancing.",
+        "And he called one of the servants, and asked what these things meant.",
+        "And he said to him: Thy brother is come and thy father hath killed the fatted calf, because he hath received him safe.",
+        "And he was angry and would not go in. His father therefore coming out began to entreat him.",
+        "And he answering, said to his father: Behold, for so many years do I serve thee and I have never transgressed thy commandment: and yet thou hast never given me a kid to make merry with my friends.",
+        "But as soon as this thy son is come, who hath devoured his substance with harlots, thou hast killed for him the fatted calf.",
+        "But he said to him: Son, thou art always with me; and all I have is thine.",
+        "But it was fit that we should make merry and be glad: for this thy brother was dead and is come to life again; he was lost, and is found."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 15:1-3,11-32",
+      "reference": "Luke 15:1-3,11-32",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saints Perpetua and Felicity, Martyrs",
+        "key": "saintsPerpetuaAndFelicityMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/07.html",
+    "title": "Gospel and Word of the Day - 07 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-07"
+}
