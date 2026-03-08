@@ -1,0 +1,376 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "645dd9d7fd4198f2a069903fdedb2336e22410b4f818a037bea8cf6dc9189f6a",
+        "inputSha256": "52cca1ebd51512ed868aff9b49fd1855493fced88b28035c359ac757a7c62f54",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d6ae3300bff0f4f6f18f1960a7b033bc05dc8b66a518a2f0fd5e70c91a78ae3d",
+        "inputSha256": "877d32fd8bf1df97c286e761a86fbbae07d275d5c70f662d8eac90c4848f5120",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a78b1759271c2d6f113ffcc3bacbd98260a6959d5bb1ce252c4394d4cb3b6a1a",
+        "inputSha256": "51c133a85893848a0414303aec6681f44699723d39f66f60086453976d2f1c1e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-08T01:55:30.621Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The rock that releases water when struck has kin in the Vedic image of Indra splitting Vṛtra to free the waters: a blocked life-force opened by a violent, decisive act that serves the whole camp rather than the hero. In Zen and Daoist idioms, the shift from quarrel over the right mountain to “spirit and truth” resembles a move from sacred geography to immediacy, where the real shrine is attention and the real rite is alignment. The Samaritan woman leaving the waterpot echoes renunciant gestures across traditions—Buddhist “going forth,” Jain aparigraha, Sufi zuhd—dropping the instrument of old craving once a deeper thirst is named; this is speculation, but the psychology fits. The exposure of her intimate history as a doorway rather than a verdict parallels therapeutic confession and the Upanishadic turn from outer wells to the inner source: knowledge that first burns, then irrigates. The harvest language, where one sows and another reaps, has a clear Buddhist resonance in dependent origination and karmic inheritance: lives and communities drink from work they did not perform, and the ethical demand is gratitude rather than ownership.",
+    "excursus": "These scenes are not about faith rewarded but about control negotiated through thirst. In Exodus the people’s desire is political: water is the currency that decides whether liberation was worth it. Moses panics because he knows a leader is only as sacred as the last drink he provided. God’s “presence” on the rock reads like a performance staged to stop a revolt; the rod that once assaulted Egypt now assaults stone. The miracle is less tenderness than containment, and the place is named for the ugly truth: the question “Is the Lord amongst us?” is really “Are we being managed or abandoned?”\n\nAt the well, Jesus begins not as a dispenser but as a beggar, tired and needing. He uses that need as a key. The woman arrives with a daily burden and a guarded life; he answers her practical skepticism with a promise that sounds like seduction, a thirstless body, a self-sustaining spring. Then he turns the eroticized offer into exposure: call your husband. “Living water” comes with surveillance. He gives her the thrill of being known and the dread of being read.\n\nHer five husbands are not a moral lesson so much as a history of attachments that failed to hold. She wants a place, a mountain, a system that will stabilize desire. He dissolves the geography and leaves her with something more frightening: worship without coordinates, spirit and truth as an interior arena where there is nowhere to hide and no shrine to blame.\n\nShe drops the waterpot because the old task is suddenly unbearable; the jar is her role. She runs to the city not as a purified saint but as an addict of disclosure, recruiting witnesses to the gaze that pierced her. The town’s final line is cruel in its way: they outgrow her testimony and take the voice for themselves. In both readings, the crowd drinks, calms, believes—and the one who first carried the need is left standing by the rock, by the well, still marked by what it cost to make others certain.",
+    "synthesis": "God answers human thirst by giving himself, not merely supplies: his presence becomes the source within and the criterion of true worship. Christ’s self-disclosure creates a people formed by direct hearing and sustained by obedience to the Father’s will.",
+    "gospel": [
+      {
+        "text": "The scene relocates holiness: from contested sites and ethnic custodianship to worship consonant with God’s own mode of being. The argument is not that place is irrelevant, but that the Father’s seeking establishes a new criterion—spirit-and-truth—by which all cultic claims are judged.",
+        "lines": [
+          1,
+          17,
+          19,
+          20
+        ]
+      },
+      {
+        "text": "Mission unfolds as harvest logic: present readiness, inherited labor, and delegated reaping. The two-day stay among Samaritans performs the scope implied by “Saviour of the world,” showing faith expanding from mediated report to direct reception of his word.",
+        "lines": [
+          31,
+          34,
+          36,
+          37
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative binds exodus-power to desert-provision: the same enacted authority that once dismantled Egypt now sustains Israel. Provision is not a new god or new technique; it is continuity of the Lord’s acted rule, carried forward through the appointed mediator and publicly confirmed before the elders.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The crisis exposes the real issue as covenantal trust. The people prosecute God’s deliverance by re-trying it under scarcity, converting necessity into a theological referendum on divine accompaniment.",
+        "lines": [
+          1,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Thirst becomes an accusation; liberation reinterpreted as attempted murder.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The mediator is trapped between miracle-demand and mob-violence; leadership is proximity to stoning.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The rod is a memory of judgment repurposed as provision.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God takes the place of the struck rock; the sign is given under witness, not in secret.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Place-name as indictment: the question is not about water but about Presence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Weariness sits at the well: omnipotence consenting to need.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He asks to drink to open the exchange where he will give.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She leads with boundary-law (Jew/Samaritan, man/woman); he crosses without argument.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Gift” precedes “ask”: ignorance is the true poverty.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Natural water repeats thirst; given water becomes an interior spring—source relocated into the person.",
+      "lines": [
+        9,
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He routes the conversation through her history: worship talk is evasive until the life is named.",
+      "lines": [
+        12,
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No riddle, no delay: identity delivered as direct speech—“I am.”",
+      "lines": [
+        22
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She leaves the waterpot: the old instrument of need is abandoned mid-task.",
+      "lines": [
+        24
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Food becomes metaphor of obedience; appetite is subordinated to mission.",
+      "lines": [
+        28,
+        30
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Testimony yields to encounter: borrowed belief is replaced by hearing for themselves.",
+      "lines": [
+        38
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercy and source of every good, you who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people and, in your mercy, restore those of us who are bowed down under the weight of our guilt. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercy and source of all good, who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people and, in your mercy, restore those of us who are bowed down under the weight of our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercy and source of every good, you who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people, and in your mercy restore those of us who are sunk beneath the weight of our guilt. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercy and source of every good, you accept fasting, prayer, and almsgiving as a remedy for our sins; look with love upon your penitent people and, in your mercy, restore those of us who are bowed down under the weight of our faults. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercy and source of every good, you who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people, and in your mercy restore those of us who are crushed beneath the weight of our guilt. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, Father of mercies and source of every good, you who accept fasting, prayer, and almsgiving as a remedy for our sins, look with love upon your penitent people and, in your mercy, restore us who are crushed beneath the weight of our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we beg you, Lord, that after we have celebrated this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and rise tomorrow with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this dwelling; drive far from it the snares of the enemy. May your holy angels dwell within it and keep us in peace, and may your blessing remain always upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "So the people were thirsty there for want of water, and murmured against Moses, saying: Why didst thou make us go forth out of Egypt, to kill us and our children, and our beasts with thirst?",
+        "And Moses cried to the Lord, saying: What shall I do to this people? Yet a little more and they will stone me.",
+        "And the Lord said to Moses: Go before the people, and take with thee of the ancients of Israel: and take in thy hand the rod wherewith thou didst strike the river, and go.",
+        "Behold I will stand there before thee, upon the rock Horeb, and thou shalt strike the rock, and water shall come out of it that the people may drink. Moses did so before the ancients of Israel:",
+        "And he called the name of that place Temptation, because of the chiding of the children of Israel, and for that they tempted the Lord, saying: Is the Lord amongst us or not?"
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Exodus 17:3-7",
+      "reference": "Exodus 17:3-7",
+      "heading": "A reading from the Book of Exodus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "He cometh therefore to a city of Samaria, which is called Sichar, near the land which Jacob gave to his son Joseph.",
+        "Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well. It was about the sixth hour.",
+        "There cometh a woman of Samaria, to draw water. Jesus saith to her: Give me to drink.",
+        "For his disciples were gone into the city to buy meats.",
+        "Then that Samaritan woman saith to him: How dost thou, being a Jew; ask of me to drink, who am a Samaritan woman? For the Jews do not communicate with the Samaritans.",
+        "Jesus answered and said to her: If thou didst know the gift of God and who he is that saith to thee: Give me to drink; thou perhaps wouldst have asked of him, and he would have given thee living water.",
+        "The woman saith to him: Sir, thou hast nothing wherein to draw, and the well is deep. From whence then hast thou living water?",
+        "Art thou greater than our father Jacob, who gave us the well and drank thereof, himself and his children and his cattle?",
+        "Jesus answered and said to her: Whosoever drinketh of this water shall thirst again: but he that shall drink of the water that I will give him shall not thirst for ever.",
+        "But the water that I will give him shall become in him a fountain of water, springing up into life everlasting.",
+        "The woman said to him: Sir, give me this water, that I may not thirst, nor come hither to draw.",
+        "Jesus saith to her: Go, call thy husband, and come hither.",
+        "The woman answered and said: I have no husband. Jesus said to her: Thou hast said well: I have no husband.",
+        "For thou hast had five husbands: and he whom thou now hast is not thy husband. This, thou hast said truly.",
+        "The woman saith to him: Sir, I perceive that thou art a prophet.",
+        "Our fathers adored on this mountain: and you say that at Jerusalem is the place where men must adore. This mountain... Garizim, where the Samaritans had their schismatical temple.",
+        "Jesus saith to her: Woman, believe me that the hour cometh, when you shall neither on this mountain, nor in Jerusalem, adore the Father.",
+        "You adore that which you know not: we adore that which we know. For salvation is of the Jews.",
+        "But the hour cometh and now is, when the true adorers shall adore the Father in spirit and in truth. For the Father also seeketh such to adore him.",
+        "God is a spirit: and they that adore him must adore him in spirit and in truth.",
+        "The woman saith to him: I know that the Messias cometh (who is called Christ): therefore, when he is come, he will tell us all things.",
+        "Jesus saith to her: I am he, who am speaking with thee.",
+        "And immediately his disciples came. And they wondered that he talked with the woman. Yet no man said: What seekest thou? Or: Why talkest thou with her?",
+        "The woman therefore left her waterpot and went her way into the city and saith to the men there:",
+        "Come, and see a man who has told me all things whatsoever I have done. Is not he the Christ?",
+        "They went therefore out of the city and came unto him.",
+        "In the mean time, the disciples prayed him, saying: Rabbi, eat.",
+        "But he said to them: I have meat to eat which you know not.",
+        "The disciples therefore said one to another: Hath any man brought him to eat?",
+        "Jesus saith to them: My meat is to do the will of him that sent me, that I may perfect his work.",
+        "Do not you say: There are yet four months, and then the harvest cometh? Behold, I say to you, lift up your eyes, and see the countries. For they are white already to harvest.",
+        "And he that reapeth receiveth wages and gathereth fruit unto life everlasting: that both he that soweth and he that reapeth may rejoice together.",
+        "For in this is the saying true: That it is one man that soweth, and it is another that reapeth.",
+        "I have sent you to reap that in which you did not labour. Others have laboured: and you have entered into their labours.",
+        "Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony: He told me all things whatsoever I have done.",
+        "So when the Samaritans were come to him, they desired that he would tarry there. And he abode there two days.",
+        "And many more believed in him, because of his own word.",
+        "And they said to the woman: We now believe, not for thy saying: for we ourselves have heard him and know that this is indeed the Saviour of the world."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 4:5-42",
+      "reference": "John 4:5-42",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "3rd Sunday of Lent",
+        "key": "3rdSundayOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/08.html",
+    "title": "Gospel and Word of the Day - 08 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-08"
+}
