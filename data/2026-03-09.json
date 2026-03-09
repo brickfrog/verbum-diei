@@ -1,0 +1,300 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "108610ba4e4fb090509e2a607f55af1ebb368bdad98a8d80219d8971436676d3",
+        "inputSha256": "4bdcb31b76f2d933a0d0c1a1d6ff27cb74b2a8b51e993edae62a044f6d7aef5b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "79f0a23fb44d91e58a75f69f7b4f9e9958fdbb7389daa516dbc8ab0a52de70cf",
+        "inputSha256": "310b252746d6aee5f0a45e071567e10beb134e5a0252c26e933763934060cb83",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "90930e0053b49055fa14436b534095d920e3ef79d6d045a7d9d29af0b11778b1",
+        "inputSha256": "7c7d8be5a6f82cb8397f9b8a4ba0552f74a63cd3a4e74efd6ff30905acbe219c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-09T01:55:28.577Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Naaman’s cure turns on a psychological humiliation: the strong man is saved by submitting to a small, repeatable act prescribed by someone who refuses to stage-manage his dignity. That arc rhymes with Zen’s distrust of spectacle and its insistence on ordinary, bodily practice over “great things.” It also echoes Taoist reversals where softness defeats hardness and the lowly river outdoes the proud canals.\n\nThe captive girl functions like the “holy fool” or marginal truth-teller: powerless, uninvested, and therefore precise. That has kinship with the Upanishadic child-sage trope and with Sufi stories where the slave or beggar becomes the corridor of grace. Speculation: the story’s moral energy depends on the insult of receiving life from beneath you.\n\nThe refusal of payment reads as an attack on transactional religion, close to the Bhagavad Gita’s critique of bargaining piety and to Buddhist dana as non-purchase. The demand to wash seven times has the feel of ritual repetition as re-patterning of the self, akin to mantra japa or misogi in Shinto: not magic, but consent drilled into the body.\n\nIn the synagogue scene, the rage is tribal narcissism pierced: salvation crossing borders feels like theft to those who think it is property. That resembles Jonah’s resentment at Nineveh, but also the Greek tragic motif where the polis cannot bear the stranger’s truth, and the Buddhist warning that attachment to identity turns teaching into offense.",
+    "excursus": "Naaman is not healed because he is worthy but because he is useful: the story needs an enemy to be rewritten. The captive girl is the real prophet here, a stolen body forced into domestic silence who drops one sentence like a blade. Her knowledge moves upward through the house, through the king, through money and letters and panic. The whole machine of power starts turning because a nobody speaks.\n\nEliseus refuses the theater Naaman craves. No handshake, no incantation, no respectful awe before rank. Just an order delivered by proxy: go wash in our muddy border river. Naaman’s rage is wounded desire—he wants to be cured without being reduced, cleansed without being humbled, touched as a hero not handled like a patient. The Jordan is not medicine; it is a demotion. Seven times is not ritual piety; it is enforced repetition until the ego breaks.\n\n“Flesh like a little child” is not innocence; it is dependency. He comes back clean and immediately tries to pay, to buy the meaning of what happened, to turn grace into transaction, to keep mastery by calling it a gift. The dread is that he cannot. Something in him has been taken without price.\n\nIn Luke, Jesus weaponizes this story against hometown hunger. He says God’s attention has always been promiscuous, sliding past the insiders to the foreign widow, the Syrian leper, the wrong people. The synagogue’s anger is not theology; it is sexual jealousy of the chosen. They try to throw him off a cliff because he exposes the secret: belonging is not protection, and God’s desire does not stay at home. He walks through them, not triumphant, just unreachable, leaving them with the shame of wanting a god who will love only us.",
+    "synthesis": "God’s saving action is not bound to ethnic or political privilege but is granted by sovereign mercy to those who submit to his word. Faith is measured by obedient reception, not by status, payment, or proximity.",
+    "gospel": [
+      {
+        "text": "Jesus reads the tradition as a judgment on entitlement: famine and leprosy become proof that covenant privilege does not guarantee prophetic attention. The synagogue’s rage is not mere insult; it is a revolt against a God who reserves freedom to give outside their boundary.",
+        "lines": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "The saying about the prophet’s hometown frames the attempted lynching: rejection is the native response to unmanageable grace. His unimpeded departure enacts the theme—prophetic mission is not hostage to local approval.",
+        "lines": [
+          1,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The king’s panic names the real issue: only God “kill and give life.” Elisha’s summons is a jurisdictional transfer—Israel is not a healing-state; it is a site where the living God speaks and acts, independently of throne and treaty.",
+        "lines": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "The narrative turns on obedience to a word rather than access to a person. The cleansing is staged as re-creation (“little child”) and then immediately tested by economics: can the healed man learn worship without purchase, or will he reinstall patronage under pious vocabulary?",
+        "lines": [
+          10,
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Deliverance credited to the LORD for Syria; election embarrasses borders. Glory and rot share one sentence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A captive child becomes the missionary; Israel’s loss becomes Syria’s clue. The cure arrives as a wish, not an order.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gold and garments attempt to purchase what is commanded. Kings speak as if healing were a bureaucratic function.",
+      "lines": [
+        5,
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Chariots at a door; the prophet answers with absence. Cleansing by descent into a small river, not by spectacle.",
+      "lines": [
+        9,
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Offense at unperformed ritual; pride scripts its own liturgy. “Better rivers” is nationalism dressed as hygiene.",
+      "lines": [
+        11,
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Servants catechize the master: greatness is his idol, simplicity his stumbling block. Seven immersions grind arrogance down to skin.",
+      "lines": [
+        13,
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Confession follows flesh, then the old economy returns: a “blessing” meaning payment. Gratitude still speaks in tribute.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A proverb with teeth: familiarity is the first form of contempt.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two scandals: mercy exported to Sidon; cleansing granted to Syria. Israel’s insiders become the empty set.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They try to throw him down; he refuses their ending. Sovereignty is shown as simple exit.",
+      "lines": [
+        6,
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, in your continual mercy purify and protect your Church; and since without your help she cannot remain unharmed, may your protection always direct her and sustain her. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, purify and protect your Church with unceasing mercy; and since without your help she cannot remain unharmed, may your protection always guide and uphold her. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, purify and protect your Church with unceasing mercy; and since without your help she cannot remain unhurt, may your protection always guide and uphold her. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, cleanse and protect your Church with unceasing mercy, and since without your help she cannot remain unharmed, may your protection guide her and sustain her always. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, cleanse and protect your Church with unceasing mercy, and, since without your help she cannot remain unshaken, may your protection always guide and sustain her. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, cleanse and protect your Church with unceasing mercy; and since without your help she cannot remain unharmed, may your protection always guide and uphold her. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the Kingdom that we have sown today by our work grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Naaman, general of the army, of the king of Syria, was a great man with his master, and honourable: for by him the Lord gave deliverance to Syria: and he was a valiant man, and rich, but a leper.",
+        "Now there had gone out robbers from Syria, and had led away captive out of the land of Israel, a little maid, and she waited upon Naaman's wife.",
+        "And she said to her mistress: I wish my master had been with the prophet that is in Samaria: he would certainly have healed him of the leprosy which he hath.",
+        "Then Naaman went in to his lord, and told him, saying: Thus and thus said the girl from the land of Israel.",
+        "And the king of Syria said to him: Go; and I will send a letter to the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment;",
+        "And brought the letter to the king of Israel, in these words: When thou shalt receive this letter, know that I have sent to thee Naaman, my servant, that thou mayst heal him of his leprosy.",
+        "And when the king of Israel had read the letter, he rent his garments, and said: Am I God, to be able to kill and give life, that this man hath sent to me to heal a man of his leprosy? mark, and see how he seeketh occasions against me.",
+        "And when Eliseus, the man of God, had heard this, to wit, that the king of Israel had rent his garments, he sent to him, saying: Why hast thou rent thy garments? let him come to me, and let him know that there is a prophet in Israel.",
+        "So Naaman came with his horses and chariots, and stood at the door of the house of Eliseus:",
+        "And Eliseus sent a messenger to him, saying: Go, and wash seven times in the Jordan, and thy flesh shall recover health, and thou shalt be clean.",
+        "Naaman was angry, and went away, saying: I thought he would have come out to me, and standing, would have invoked the name of the Lord his God, and touched with his hand the place of the leprosy, and healed me.",
+        "Are not the Abana, and the Pharphar, rivers of Damascus, better than all the waters of Israel, that I may wash in them, and be made clean? So as he turned, and was going away with indignation,",
+        "His servants came to him, and said to him: Father, if the prophet had bid thee do some great thing, surely thou shouldst have done it: how much rather what he now hath said to thee: Wash, and thou shalt be clean?",
+        "Then he went down, and washed in the Jordan seven times, according to the word of the man of God; and his flesh was restored, like the flesh of a little child: and he was made clean.",
+        "And returning to the man of God, with all his train, he came, and stood before him, and said: In truth, I know there is no other God, in all the earth, but only in Israel: I beseech thee, therefore, take a blessing of thy servant. A blessing... a present."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Kings 5:1-15b",
+      "reference": "2 Kings 5:1-15b",
+      "heading": "A reading from the Second Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he said: Amen I say to you that no prophet is accepted in his own country.",
+        "In truth I say to You, there were many widows in the days of Elias in Israel, when heaven was shut up three years and six months, when there was a great famine throughout all the earth.",
+        "And to none of them was Elias sent, but to Sarepta of Sidon, to a widow woman.",
+        "And there were many lepers in Israel in the time of Eliseus the prophet: and none of them was cleansed but Naaman the Syrian.",
+        "And all they in the synagogue, hearing these things, were filled with anger.",
+        "And they rose up and thrust him out of the city: and they brought him to the brow of the hill whereon their city was built, that they might cast him down headlong.",
+        "But he passing through the midst of them, went his way."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 4:24-30",
+      "reference": "Luke 4:24-30",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Frances of Rome, Religious",
+        "key": "saintFrancesOfRomeReligious"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/09.html",
+    "title": "Gospel and Word of the Day - 09 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-09"
+}
