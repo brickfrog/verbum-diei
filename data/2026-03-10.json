@@ -1,0 +1,320 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "12909d343a8cd8c685ef797ace77afbe36e83412237bc026ede5e65e543dc32d",
+        "inputSha256": "dc49896ac5cc6902fb4d8ff79c6c91470b9e3acccde009ead7dfd46f95becc6b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "de8b0028ec4a516823b629010947c0a8694b610450645ccb3cb6aa9f47aa37fc",
+        "inputSha256": "d2e189e18b02ff0d887e00c411992359c4ad4c9e11302e1025afe6ebe8d5cf86",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "22870dcdddf508d5b714a486f9caf95323bb7eb46c3c38ad08cb7aa2e3fa266a",
+        "inputSha256": "da01d19b7f01277ec53d3f1bcca89b3aadb7e71618c599886dbce1b5768cc21b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-10T01:55:12.163Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Azarias prays inside the furnace as if the only altar left is the self: contrition becomes liturgy when institutions are ash. That move resembles the Bhagavad Gita’s inward sacrifice of ego, and Stoic piety that relocates worship into assent under pressure. Speculation: the fire reads like trauma—an environment that strips bargaining power and forces a language of dependence.\n\nThe unforgiving servant is a study in moral amnesia: mercy received but not metabolized. It parallels the Buddhist critique of grasping after insight without compassion, and the Qur’anic insistence that those forgiven must become forgiving. Speculation: the “ten thousand” is psychic magnitude—shame so large it can only be released, never repaid—while the small debt is the daily grievance the ego can still weaponize.\n\n“From the heart” is not a feeling but a rewiring of reflex: the nervous system trained to reenact what it knows—domination—until it chooses imitation of pity instead. This is close to Hindu and Jain karma as patterning, and to Confucian ren as practiced reciprocity rather than sentiment.",
+    "excursus": "Azarias prays in the furnace like a man bargaining with the only power left, not out of serene faith but out of stripped-down need. The old apparatus is gone: no prince, no prophet, no altar, no incense. What remains is a body in heat and a voice trying to turn humiliation into currency. “Let us be accepted” is not piety; it’s the naked wish to still matter when every public sign of meaning has been burned away.\n\nThe gospel parable answers that furnace with a colder fire. The king’s mercy isn’t a soft blanket; it’s a terrifying cancellation that leaves the servant unmoored. A debt so vast it should define his life vanishes, and instead of gratitude he feels exposure: if nothing is owed, nothing protects him. So he recreates the lost structure by grabbing a smaller throat. He needs someone beneath him to make the world feel legible again.\n\n“Seventy times seven” is not a sentimental command; it’s the demand to live without the narcotic of settling accounts. Forgiveness becomes the refusal to rebuild the prison you just escaped. And the ending admits the dread we avoid: if you insist on keeping score, you will get the universe you crave—an exacting universe with torturers, where the books never close and the fire never goes out.",
+    "synthesis": "God’s mercy is real cancellation, and it binds the forgiven to enact the same mercy toward others. Refusal to forgive reactivates judgment under the measure one has chosen.",
+    "gospel": [
+      {
+        "text": "Peter’s question is answered by shifting from casuistry to governance: the king’s audit establishes moral reality, witnesses report the refusal of mercy, and the verdict is rendered as public justice, not private sentiment.",
+        "lines": [
+          1,
+          3,
+          5,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Both pleas are verbally identical, exposing the point: the difference is not in the debtor’s rhetoric but in the creditor’s memory; forgetting one’s forgivenness produces carceral ethics.",
+        "lines": [
+          6,
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prayer argues from ancestry and promise, then immediately concedes national diminishment and sin: election is not treated as immunity but as a claim that survives judgment.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The movement is from seeking the face to demanding God’s glory; deliverance is requested as doxology, not as mere self-preservation.",
+        "lines": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prayer is said aloud inside the furnace: speech as resistance, not escape.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Appeal is tethered to the Name; covenant invoked as the only leverage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Total cultic absence listed like inventory: no mediating machinery left.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Contrition is offered as substitute-liturygy; interior becomes altar.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imagined abundance (“thousands”) replaces what cannot be done; faith supplies the missing temple.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They ask for “meekness” from the Judge: mercy framed as God’s own style.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The number is detonated into impossibility: forgiveness becomes a posture, not a quota.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Debt is hyperbolic, unpayable by design: guilt quantified to show infinity.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Release precedes restitution: pardon is not a payment plan.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Having been absolved, he “throttled”: mercy not received becomes violence.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Torturers” answer to refused mercy: punishment mirrors the man’s own hard terms.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The condition is internal (“from your hearts”): external correctness is irrelevant.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace never abandon us, so that, wholly devoted to your service, we may feel your constant protection upon us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace not abandon us, so that, wholly devoted to your service, we may experience your constant protection over us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace not abandon us, so that, wholly devoted to your service, we may feel your constant protection upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace never abandon us, so that, given wholly to your service, we may feel your constant protection over us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace not abandon us, so that, fully devoted to your service, we may experience your constant protection upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace never abandon us, so that, wholly given over to your service, we may feel your continual protection upon us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLight our night, Lord, and grant us peaceful rest; may we rise in your name tomorrow and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then Azarias standing up, prayed in this manner, and opening his mouth in the midst of the fire, he said:",
+        "Deliver us not up for ever, we beseech thee, for thy name's sake, and abolish not thy covenant.",
+        "And take not away thy mercy from us, for the sake of Abraham, thy beloved, and Isaac, thy servant, and Israel, thy holy one:",
+        "To whom thou hast spoken, promising that thou wouldst multiply their seed as the stars of heaven, and as the sand that is on the sea shore.",
+        "For we, O Lord, are diminished more than any nation, and are brought low in all the earth this day for our sins.",
+        "Neither is there at this time prince, or leader, or prophet, or holocaust, or sacrifice, or oblation, or incense, or place of first fruits before thee,",
+        "That we may find thy mercy: nevertheless, in a contrite heart and humble spirit let us be accepted.",
+        "As in holocausts of rams, and bullocks, and as in thousands of fat lambs: so let our sacrifice be made in thy sight this day, that it may please thee: for there is no confusion to them that trust in thee.",
+        "And now we follow thee with all our heart, and we fear thee, and seek thy face.",
+        "Put us not to confusion, but deal with us according to thy meekness, and according to the multitude of thy mercies.",
+        "And deliver us, according to thy wonderful works, and give glory to thy name, O Lord:"
+      ],
+      "lineRefs": [
+        "25",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Daniel 3:25,34-43",
+      "reference": "Daniel 3:25,34-43",
+      "heading": "A reading from the Book of Daniel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then came Peter unto him and said: Lord, how often shall my brother offend against me, and I forgive him? till seven times?",
+        "Jesus saith to him: I say not to thee, till seven times; but till seventy times seven times.",
+        "Therefore is the kingdom of heaven likened to a king, who would take an account of his servants.",
+        "And when he had begun to take the account, one as brought to him, that owed him ten thousand talents. Talents... A talent was seven hundred and fifty ounces of silver, which at the rate of five shillings to the ounce is a hundred and eighty-seven pounds ten shillings sterling.",
+        "And as he had not wherewith to pay it, his lord commanded that he should be sold, and his wife and children, and all that he had, and payment to be made.",
+        "But that servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And the lord of that servant being moved with pity, let him go and forgave him the debt.",
+        "But when that servant was gone out, he found one of his fellow- servants that owed him an hundred pence: and laying hold of him, he throttled him, saying: Pay what thou owest. Pence... The Roman penny was the eighth part of an ounce, that is, about sevenpence half-penny English.",
+        "And his fellow-servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And he would not: but went and cast him into prison, till he paid the debt.",
+        "Now his fellow servants seeing what was done, were very much grieved, and they came, and told their lord all that was done.",
+        "Then his lord called him: and said to him: Thou wicked servant, I forgave thee all the debt, because thou besoughtest me:",
+        "Shouldst not thou then have had compassion also on thy fellow servant, even as I had compassion on thee?",
+        "And his lord being angry, delivered him to the torturers until he paid all the debt.",
+        "So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:21-35",
+      "reference": "Matthew 18:21-35",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 3rd week of Lent",
+        "key": "tuesdayOfThe3rdWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/10.html",
+    "title": "Gospel and Word of the Day - 10 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-10"
+}
