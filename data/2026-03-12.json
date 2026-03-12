@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d62ac7908ff84cd922a795b42d0acd1e5760fc8820f4621f0cf1c46ab6b2ffb5",
+        "inputSha256": "223d20aa9852038168154e3b61efb016e8cac661a2132497bc0b0f98a57747d5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5ecad8d93d92cd17cff750505bb5b7b4f5613e47a3057a474183bb426e1fac0f",
+        "inputSha256": "0d9a00c74aea1f34d880577a60a8a39bf2edef7b02bb759edff7bb015985259b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "20ce2f90dd2184ec6590b9978fcb10719a914d038d9be0428c09ef08e000b31e",
+        "inputSha256": "55675d6651a5603c1043a8c128b482db4aec3c6f8990bd1627d0c6d275909635",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-12T03:43:16.197Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s “hardened neck” reads like the Buddha’s diagnosis of clinging: the will that grips its own story until it becomes suffering’s posture. The prophets “rising early” resemble the bodhisattva vow’s stubborn return to a world that will not listen, not as moral scolding but as compassion that keeps knocking.\n\nLuke’s exorcism dispute mirrors the Bhagavad Gita’s insistence that clarity is proven by its fruits, not by pedigree: if the act unbinds, it belongs to the higher order. The “strong man armed” toppled by the stronger evokes Daoist wu-wei as the greater power that wins by not mirroring violence; speculation: the “finger of God” lands like Zen’s sudden pointing, a minimal touch that collapses an entire fortress of delusion.\n\n“He that is not with me is against me” matches the Yoga Sutra’s psychological realism: the mind is either gathered or scattered; there is no stable middle between integration and fragmentation. It is less a threat than a description of attention’s physics.",
+    "excursus": "Jeremiah isn’t lamenting innocent disobedience; he’s exposing a people addicted to the private thrill of refusing. “Hearken… and it may be well with you” reads like an exhausted offer, not a thunderclap. The real horror is repetition: prophets sent “from day to day,” a relentless knocking that only hardens the neck. Their sin is not ignorance but practiced deafness, a cultivated interior where no word can land. When “faith is lost” it’s not theology failing; it’s language failing. The mouth no longer carries anything that binds.\n\nLuke sharpens that dread into a psychological scene. A man is freed from muteness and the crowd cannot bear the clean fact of it, so they invent a darker author. They prefer a universe where healing must be corrupt, because that lets them keep their suspicion intact. Jesus doesn’t argue them into belief; he corners their divided mind. A house splits because it wants to. The request for “a sign from heaven” is the same refusal Jeremiah names: endless auditioning, never consenting.\n\nThe “strong man armed” is not Satan out there; it’s the self as fortress, stocked with explanations, guarded by cynicism, at peace only because nothing new is allowed in. The stronger one arrives not as comfort but as invasion, stripping the armor we trusted, redistributing the spoils of our certainties. “Not with me is against me” lands like a diagnosis: there is no safe spectator seat. You either let your guarded kingdom be taken, or you keep it—and keep the dumbness, even while you speak.",
+    "synthesis": "God’s reign is recognized by obedience to his voice and by the expulsion of what silences. To refuse that recognition is not neutrality but active opposition to the kingdom’s advance.",
+    "gospel": [
+      {
+        "text": "Jesus forces a fork in explanation: either his act coheres with Satan’s interests (and thus should appear in their own exorcists) or it exposes a different sovereignty altogether. Their own practices become the courtroom that convicts their charge as inconsistent.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The demand for “a sign from heaven” is answered by an invasion already underway: not spectacle but jurisdictional change. The kingdom arrives as enforcement, not as entertainment.",
+        "lines": [
+          3,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a legal futility: the witness is ordered to speak though the verdict—nonresponse—is already known. The charge is not ignorance but trained resistance, escalating beyond ancestral precedent.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Covenant reduced to an acoustic test: hear → belong → live.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Autonomy named as regression: “backward and not forward.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophetic persistence is daily, almost menial; refusal is chronic.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A nation’s faith goes missing first in speech: truth evaporates from the mouth.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The demon’s signature is muteness; exorcism restores language.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They interpret liberation as collusion; accusation is a refusal to see.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Division is self-judgment: collapse is built into internal war.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Finger of God” is minimal force, maximal authority; arrival, not argument.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace is possession’s lullaby; the stronger one turns security into spoil.",
+      "lines": [
+        8,
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No neutral ground: nonparticipation counts as sabotage.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly ask you, Lord, that as the feast of our salvation draws near, our dedication may grow ever more intense, so that we may worthily celebrate the Paschal mystery. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly ask you, Lord, that as the feast of our salvation draws near, our commitment may grow ever stronger, so that we may celebrate the Paschal Mystery worthily. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly ask you, Lord, that as the feast of our salvation draws near, our dedication may grow ever more fervent, so that we may worthily celebrate the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly beseech you, Lord, that as the feast of our salvation draws near, our dedication may grow ever more intense, so that we may worthily celebrate the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly ask you, Lord, that as the feast of our salvation draws near, our self-offering may grow ever more fervent, so that we may worthily celebrate the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We humbly ask you, Lord, that as the feast of our salvation draws near, our commitment may grow ever deeper, so that we may worthily celebrate the Paschal mystery. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn out by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But this thing I commanded them, saying: Hearken to my voice, and I will be your God, and you shall be my people: and walk ye in all the way that I have commanded you, that it may be well with you.",
+        "But they hearkened not, nor inclined their ear: but walked in their own will, and in the perversity of their wicked heart: and went backward and not forward,",
+        "From the day that their fathers came out of the land of Egypt, even to this day. And I have sent to you all my servants the prophets, from day to day, rising up early and sending.",
+        "And they have not hearkened to me: nor inclined their ear: but have hardened their neck, and have done worse than their fathers.",
+        "And thou shalt speak to them all these words, but they will not hearken to thee: and thou shalt call them, but they will not answer thee.",
+        "And thou shalt say to them: This is a nation which hath not hearkened to the voice of the Lord their God, nor received instruction: faith is lost, and is taken away out of their mouth."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 7:23-28",
+      "reference": "Jeremiah 7:23-28",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he was casting out a devil: and the same was dumb. And when he had cast out the devil, the dumb spoke: and the multitudes, were in admiration at it.",
+        "But some of them said: He casteth out devils by Beelzebub, the prince of devils.",
+        "And others tempting, asked of him a sign from heaven.",
+        "But he seeing their thoughts, said to them: Every kingdom divided against itself shall be brought to desolation; and house upon house shall fall.",
+        "And if Satan also be divided against himself, how shall his kingdom stand? Because you say that through Beelzebub I cast out devils.",
+        "Now if I cast out devils by Beelzebub, by whom do your children cast them out? Therefore, they shall be your judges.",
+        "But if I by the finger of God cast out devils, doubtless the kingdom of God is come upon you.",
+        "When a strong man armed keepeth his court, those things are in peace which he possesseth.",
+        "But if a stronger than he come upon him and overcome him, he will take away all his armour wherein he trusted and will distribute his spoils.",
+        "He that is not with me is against me; and he that gathereth not with me scattereth."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:14-23",
+      "reference": "Luke 11:14-23",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 3rd week of Lent",
+        "key": "thursdayOfThe3rdWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/12.html",
+    "title": "Gospel and Word of the Day - 12 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-12"
+}
