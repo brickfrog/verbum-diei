@@ -1,0 +1,291 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "60419dd6ad97b4e6110623a0fde57209257391d9b3f45a90f34e0fd64543c114",
+        "inputSha256": "74492c3148c083c28ec0ff2ba57c8eb4187c6f36355b509f4acb5be5cd51ac77",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a4aabbadb886f764d988b9eacae377ca69f1a0e2f43f41dfcb6b2e2960b68d01",
+        "inputSha256": "b5baaddd8e2dbc1c9aabb5f2037e21e61a5ec7c75d1e7e44e02703dc7669180f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9deb3e16a88bbf0abf8b59eb04b3b794343b1f96ef5648a549b8a2e90b296819",
+        "inputSha256": "dcf159f32efdc6f9326509e16abf4a4e40298a2dadc9feecc52a3fe3a842c8b4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-13T01:55:13.898Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s “take with you words” feels like a move from barter to honesty: the psyche stops paying off guilt with externals and starts speaking it. That shift resembles the Hindu bhakti critique of ritual-as-transaction in the Bhagavad Gita, where devotion and surrender replace anxious offerings, and the Taoist suspicion of performative piety when the Tao is lost and virtue becomes staged.\n\n“Assyria shall not save us… the works of our hands are our gods” is the unmasking of protective fictions: empire, horsepower, and self-made idols as defense mechanisms. Buddhist refuge language runs parallel here, turning from false shelters to a truer ground; Stoic internal sovereignty also rhymes, refusing to outsource safety to power and circumstance.\n\nThe dew and the cedars imagine repair as quiet, noncoercive nourishment: not conquest but growth. That aligns with Zen’s image of awakening as ordinary rain on ordinary grass, and with Sufi fanā’ and baqā’ as a gentling that leaves fruit where ego once strained.\n\nIn Mark, monotheism isn’t a theorem but a unification of desire: one center, therefore an undivided heart. The command to love with whole heart and mind echoes Plato’s integration of the soul’s parts and, speculatively, the yogic aim of ekāgratā, one-pointedness.\n\n“Love your neighbor as yourself” makes ethics the proof of worship and downgrades sacrifice to symbolism. Confucian ren, the Jain vow of ahimsa, and the Buddhist brahmavihāras all converge on this: the sacred measured by how little harm your life leaks into the lives around you.",
+    "excursus": "Hosea stages repentance as a negotiated surrender. “Take with you words” is the giveaway: speech replaces livestock, a barter of language for pardon. Israel is told to renounce Assyria, horses, handmade gods, not because these were silly, but because they were effective comforts. The text is less about belief than about addiction: stop reaching for what works, and throw yourself on the one attachment that cannot be controlled.\n\nThen comes the seduction. God turns from wrath to dew, from judge to climate, offering growth, scent, wine, shade. It reads like an erotic promise of being made fertile again, but with a catch: “from me is thy fruit found.” Even your flourishing is repossessed. The idol is not smashed so much as replaced by a more total claim, a love that calls itself free while ensuring you can’t locate any desire that isn’t sourced in it.\n\nIn Mark, the scribe tries to reduce this hunger to a clean hierarchy of commandments. Jesus agrees, and the agreement is the trap: total love for God, then love of neighbor as self. It sounds humane, but it is an impossible concentration of attention, a demand that colonizes every faculty. The scribe’s insight that love outranks sacrifice feels liberating, yet Jesus replies with a chill: “not far.” Nearness becomes its own torment, the almost-converted state where you can see the door and cannot walk through without losing your last private refuge.\n\nTogether they sketch the same psychic drama: the self wants rescue without surrender, virtue without dispossession. The God who heals also monopolizes. The kingdom is approached through an answer that is correct, and correctness is precisely what keeps you at the threshold.",
+    "synthesis": "God’s mercy restores by reordering love: renunciation of idols and powers yields a life whose fruit comes from God. The kingdom is approached by total love of the one God expressed in concrete love of neighbor, which outranks sacrificial display.",
+    "gospel": [
+      {
+        "text": "A professional examiner becomes a witness: the scribe moves from testing Jesus to affirming “in truth,” shifting the scene from debate to confession.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Jesus binds Deuteronomy’s God-love to Leviticus’s neighbor-love as a single hierarchy: one God implies an undivided claim on the self that necessarily extends horizontally.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The kingdom is treated as a threshold reality: discernible, near, but requiring more than acuity—implied conversion, not merely correct prioritization.",
+        "lines": [
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage begins with collapse (“fallen”) and ends by sorting humanity into walkers and fallers; the same “ways” function as road for the just and stumbling-block for transgressors.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "The promised restoration is described as a new ecology—branches, shade, wheat, vine—Israel reconstituted as habitat, not merely as pardoned defendant.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Wisdom is framed as recognition of the moral geometry of God’s “right” ways; understanding is not speculation but alignment under an objective order.",
+        "lines": [
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Repentance is verbalized: “take with you words.” Liturgy replaces livestock.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three renunciations: empire, cavalry, manufacture. Salvation unhooks from geopolitics and technology and artifice.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Love…freely”: mercy without a price-tag. Wrath is not denied; it is turned.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dew: nonviolent causality. Life arrives without spectacle.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Idols end not by argument but by disgust: “What have I to do…?” Fruit is outsourced upward: “from me.”",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Monotheism is not an axiom; it is a command to listen: “Hear, O Israel.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Totalizing love with fourfold inventory. Nothing left unclaimed: affect, life-breath, intellect, power.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Second is “like”: neighbor-love is not sequel but analogue—same form, different object.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sacrifice is demoted by a comparative: “greater than.” Cult is judged by ethics.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Not far”: proximity without entry. Right answers can remain outside.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace into our hearts, so that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, and is God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace into our hearts, that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, your grace into our hearts, that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace into our hearts, that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace into our hearts, that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour, Lord, your grace into our hearts, that we may know how to master our selfishness and follow the inspirations that come to us from heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray.\n\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Return, O Israel, to the Lord thy God: for thou hast fallen down by thy iniquity.",
+        "Take with you words, and return to the Lord, and say to him: Take away all iniquity, and receive the good: and we will render the calves of our lips.",
+        "Assyria shall not save us, we will not ride upon horses, neither will we say any more: The works of our hands are our gods: for thou wilt have mercy on the fatherless that is in thee.",
+        "I will heal their breaches, I will love them freely: for my wrath is turned away from them.",
+        "I will be as the dew, Israel shall spring as the lily, and his root shall shoot forth as that of Libanus.",
+        "His branches shall spread, and his glory shall be as the olive tree: and his smell as that of Libanus.",
+        "They shall be converted that sit under his shadow: they shall live upon wheat, and they shall blossom as a vine: his memorial shall be as the wine of Libanus.",
+        "Ephraim shall say, What have I to do any more with idols? I will hear him, and I will make him flourish like a green fir tree: from me is thy fruit found.",
+        "Who is wise, and he shall understand these things? prudent, and he shall know these things? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall in them. THE PROPHECY OF JOEL JOEL, whose name, according to ST. JEROME, signifies THE LORD GOD: or, as others say, THE COMING DOWN OF GOD: prophesied about the same time in the kingdom of Judea, as OSEE did in the kingdom of Israel. He foretells under figure the great evils that were coming upon the people for their sins: earnestly exhorts them to repentance: and comforts them with the promise of a TEACHER OF JUSTICE, viz., CHRIST JESUS OUR LORD, and of the coming down of his holy SPIRIT."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 14:2-10",
+      "reference": "Hosea 14:2-10",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there came one of the scribes that had heard them reasoning together, and seeing that he had answered them well, asked him which was the first commandment of all.",
+        "And Jesus answered him: The first commandment of all is, Hear, O Israel: the Lord thy God is one God.",
+        "And thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with thy whole mind and with thy whole strength. This is the first commandment.",
+        "And the second is like to it: Thou shalt love thy neighbour as thyself. There is no other commandment greater than these.",
+        "And the scribe said to him: Well, Master, thou hast said in truth that there is one God and there is no other besides him.",
+        "And that he should be loved with the whole heart and with the whole understanding and with the whole soul and with the whole strength. And to love one's neighbour as one's self is a greater thing than all holocausts and sacrifices.",
+        "And Jesus seeing that he had answered wisely, said to him: Thou art not far from the kingdom of God. And no man after that durst ask him any question."
+      ],
+      "lineRefs": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 12:28-34",
+      "reference": "Mark 12:28-34",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 3rd week of Lent",
+        "key": "fridayOfThe3rdWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/13.html",
+    "title": "Gospel and Word of the Day - 13 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-13"
+}
