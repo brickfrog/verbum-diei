@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d844ce69ce0193ef3e71972c16e18346fda65fe14a4e70a437ec05572a514f1e",
+        "inputSha256": "5be25b5a38cbe55baad617022401b2de41e920372213a0208a9f06d57831ed12",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "32a284eb09ae5ad306366ac08b5e64ea9cf243f47300a9fd0bb9363df9fa5d30",
+        "inputSha256": "f639604d1d9cc580b0bec41343629c8ed72f3ac2581f0461719020a015213a5f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6f869bcbb9d62ca4545159b2fd93dbcb580247c5f9c006302bdf1136de4c15f8",
+        "inputSha256": "6aa518722a54af922bb003c3f70d205bd7731c7dd1bc7eb7f4f94289f1153252",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-14T01:55:02.554Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Hosea’s hunger for mercy over sacrifice rhymes with Isaiah’s inner critique, but also with the Upanishadic turn from external rite to direct knowing, and with Zen’s suspicion of merit-making when it hardens into a self. The Pharisee’s inventory of virtue resembles the Stoic temptation to convert discipline into superiority; the publican’s naked plea is closer to the Buddhist confession of dukkha and the Sufi collapse of the ego before the Real. The “third day” revival echoes the archetype of descent-and-return found in Inanna and Osiris: psyche broken, then reassembled, not by performance but by surrender to a truth that cuts and heals.",
+    "excursus": "Hosea sketches a god who wounds in order to be needed. Affliction is the alarm clock that makes them “rise early” and call it return; the piety is reflex, not love. “He hath taken us” reads like abduction dressed up as medicine: strike, then cure, so the bruised body confuses relief with intimacy. The promised “third day” isn’t comfort so much as a timetable for dependence, morning light and rain arriving on schedule like a reliable captor. Then the divine voice turns impatient: your mercy is vapor, your devotion evaporates as soon as the pain stops. So the prophets become blades, words that “slay,” judgment presented as clarity. “I desired mercy, not sacrifice” lands less like tenderness than like disgust at transactional religion: stop paying me off; let me into the bloodstream.\n\nLuke’s temple scene is the same addiction to being right. The Pharisee’s prayer is self-administered anesthesia, gratitude used to numb dread and keep distance from the contaminating other. The publican’s shame, by contrast, is raw and erotic in its honesty: he won’t look up, he strikes his body, he asks for mercy like someone asking to be touched without being exposed. He goes home “justified” not because humility is a virtue, but because he stops bargaining; he offers need, not résumé. The scandal is that the text rewards the one who admits he can’t control the relationship. The desire underneath both readings is to be held after harm, and the dread is that without the wound we’d never return.",
+    "synthesis": "God justifies by mercy received, not by cultic or moral self-certification. True knowledge of God is covenantal submission to his judgment and healing, not the maintenance of religious appearance.",
+    "gospel": [
+      {
+        "text": "The parable targets a social theology: self-trust generates contempt, and worship becomes a stage for ranking rather than communion.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Both enter the same temple and perform “prayer,” but the narrative separates them by their relation to God’s judgment—one assuming acquittal, the other requesting mercy; the closing maxim universalizes the reversal as a rule of the kingdom.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The summons to “return” presumes rupture, not mere neglect; the passage frames repentance as re-entry into a covenant God actively administers, not a self-improvement program.",
+        "lines": [
+          1,
+          6
+        ]
+      },
+      {
+        "text": "The sequence of reviving/raising locates Israel’s hope in divine initiative that outlasts affliction; knowledge of the Lord is presented as pursuit shaped by God’s reliable advent, not by Israel’s consistency.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "God’s question—“What shall I do?”—signals not indecision but a lawsuit: ephemeral loyalty necessitates prophetic intervention that exposes, sentences, and clarifies the divine standard.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Wound and remedy share a hand; the striker claims the cure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Time is liturgical: two days of delay, a third-day reversal; resurrection logic inside return.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Their “mercy” evaporates; piety as weather, not covenant.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophetic speech is violence: hewing, slaying—words as instruments of judgment.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cult is demoted; God wants recognition, not transaction.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prayer becomes comparison; thanksgiving is weaponized into contempt.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Merit is itemized; virtue turned into an inventory.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Distance and downward eyes: the body confesses before the mouth does.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Justification contradicts optics; the verdict favors abasement over performance.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Filled with joy, as we celebrate once more the season of Lent, we ask you, Lord, to live the paschal sacraments and to feel within us the joy of their saving power. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Filled with joy as we celebrate Lent once again, we ask you, Lord, to live the paschal sacraments and to feel within us the joy of their saving power. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Filled with joy, as we celebrate once more the season of Lent, we ask you, Lord, to grant that we may live the paschal sacraments and feel within ourselves the joy of their power. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Filled with joy as we celebrate another year of Lent, we ask you, Lord, to live the Paschal sacraments and to feel within us the joy of their saving power. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Filled with joy, as we celebrate once more the season of Lent, we ask you, Lord, to live the paschal sacraments and to feel within us the joy of their efficacy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who reconcile men to yourself through your Word made flesh, grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming Paschal feast. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and let your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In their affliction they will rise early to me: Come, and let us return to the Lord.",
+        "For he hath taken us, and he will heal us: he will strike, and he will cure us.",
+        "He will revive us after two days: on the third day he will raise us up, and we shall live in his sight. We shall know, and we shall follow on, that we may know the Lord. His going forth is prepared as the morning light, and he will come to us as the early and the latter rain to the earth.",
+        "What shall I do to thee, O Ephraim? what shall I do to thee, O Juda? your mercy is as a morning cloud, and as the dew that goeth away in the morning.",
+        "For this reason have I hewed them by the prophets, I have slain them by the words of my mouth: and thy judgments shall go forth as the light.",
+        "For I desired mercy, and not sacrifice: and the knowledge of God more than holocausts."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 6:1-6",
+      "reference": "Hosea 6:1-6",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And to some who trusted in themselves as just and despised others, he spoke also this parable:",
+        "Two men went up into the temple to pray: the one a Pharisee and the other a publican.",
+        "The Pharisee standing, prayed thus with himself: O God, I give thee thanks that I am not as the rest of men, extortioners, unjust, adulterers, as also is this publican.",
+        "I fast twice in a week: I give tithes of all that I possess.",
+        "And the publican, standing afar off, would not so much as lift up his eyes towards heaven; but struck his breast, saying: O God, be merciful to me a sinner.",
+        "I say to you, this man went down into his house justified rather than the other: because every one that exalteth himself shall be humbled: and he that humbleth himself shall be exalted."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 18:9-14",
+      "reference": "Luke 18:9-14",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 3rd week of Lent",
+        "key": "saturdayOfThe3rdWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/14.html",
+    "title": "Gospel and Word of the Day - 14 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-14"
+}
