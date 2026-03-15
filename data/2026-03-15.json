@@ -1,0 +1,344 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "11f8cba9817ab3c92a60dc3a410baeeee0b0eaab1b8fc00882fd500b1ca14299",
+        "inputSha256": "c9fffd6e635bedb6fedccc13fc896d1490987a0e6442498d8c0232c0ba0ecc0e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5666b6c227e23369fbae26679ecca25d8326ad1c890b623817707397d721b082",
+        "inputSha256": "77a5b4fbbc2950bd16729d9899aa7b29c8d440c2cf4e41803a3ff8647d20f3cd",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d6bac78168950a11f25f930e13a17850959e1fe2d5dbae38352202afc087c9ab",
+        "inputSha256": "99186eb7e6101bcc5d63cdc907ff567dc45835bc1a30e98194efe69d650c02a4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-15T01:55:42.626Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: David’s selection echoes Daoist valuation of the uncarved block, where plainness outranks stature, and Zen’s distrust of “knowing” that hardens into self-certainty. The heart as the real measure also brushes Sufi adab and basira, an inner seeing that can be truer than social rank.\n\nSpeculation: the clay on the eyes reads like Ayurveda’s and Tibetan medicine’s intimacy with earth-elements as carriers of healing, and like alchemical nigredo: sight born from mud, not from abstraction. The man’s blunt “I was blind, now I see” resembles the Upanishadic turn from argument to direct apprehension, while the authorities’ fixation on procedure resembles Confucian ritualism when li loses ren.\n\nSpeculation: being cast out for a new sight has kinship with the shamanic initiation motif in Siberian and Mongolic traditions: disruption, exile, then a sanctioned vision. The reversal—those who claim to see becoming blind—rhymes with Greek tragedy’s Tiresias logic: insight often arrives through acknowledged limitation, and hubris is a kind of darkness.",
+    "excursus": "Samuel is ordered to stop mourning, not because grief is wrong, but because grief is unproductive attachment. Saul is a lost object; the prophet must sever the bond and redirect desire to a replacement. The selection scene is not a celebration of interiority but a lesson in God’s cold freedom: faces are tried on and discarded. “The heart” is not sentimental depth; it is the hidden mechanism of appetite and violence that will serve the throne. David is fetched from the margins, not because the margins are holy, but because power likes what it can surprise and possess. The oil is a claim staked on a body in front of brothers who must now swallow envy.\n\nJohn’s miracle is the same pattern, made intimate and cruel. Blindness is not punished sin; it is a stage property, an affliction conserved until the right actor arrives. Jesus uses spit and dirt like a maker using cheap materials, then sends the man to wash: obedience is the price of getting a self. Once he sees, everyone panics because vision destabilizes identity. The neighbors hedge, the parents betray, the authorities prosecute; the healed man becomes intolerable precisely because he is simple and certain.\n\nThe dread is that illumination doesn’t reconcile; it isolates. The man gains sight and loses belonging. The Pharisees keep belonging and lose sight. Desire runs through both readings as a transfer of loyalty: from Saul to David, from synagogue to the expelled Christ. The “light” is not comfort; it is judgment that creates a new hierarchy by ruining the old one.",
+    "synthesis": "God elects and illumines by sovereign initiative, not by human appraisal or institutional credential. Persisting in self-certified “sight” against God’s act is the condition of remaining sin.",
+    "gospel": [
+      {
+        "text": "The narrative is built as a trial that Jesus does not attend: others interrogate, split, subpoena, and threaten. Jesus frames time as limited (day/night) and his presence as illumination; the Sabbath detail functions as the procedural pretext by which the authorities convert a sign into an indictment, culminating in institutional coercion (expulsion) as their chosen epistemology.",
+        "lines": [
+          3,
+          4,
+          5,
+          14,
+          16,
+          22
+        ]
+      },
+      {
+        "text": "After exclusion comes recognition: Jesus seeks the cast-out, solicits belief, and identifies himself not by argument but by encounter—\"he that talketh with thee.\" Worship follows, and the closing exchange sets culpability on claimed competence: the decisive fault is not lack of data but the refusal to relinquish the posture of sight.",
+        "lines": [
+          35,
+          37,
+          38,
+          41
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene runs as a controlled misrecognition: Samuel’s first inference fails, the full set of candidates is exhausted, and only then does the rite occur publicly. Kingship is installed as a divine interruption of normal succession logic, then sealed by a transfer of agency: the Spirit comes \"from that day forward,\" eclipsing the human anointer.",
+        "lines": [
+          2,
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Grief is rebuked as delay: mourning becomes disobedience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The eye is downgraded; the heart is the battleground of election.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The missing son is the chosen son; absence masks appointment.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Even the chosen is described by surfaces—then overruled by the fiat: \"this is he.\"",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They demand a culprit; theology reduced to bookkeeping.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Spittle and dirt: creation repeated in contemptible materials.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sight is given through obedience to a command and a name: \"Sent.\"",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "\"I am he\": a bare self-identification that disrupts the crowd’s doubt.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Testimony without theory: one fact shames the experts.",
+      "lines": [
+        25
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They retreat to insult—sin as a weapon to protect status.",
+      "lines": [
+        34
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you reconcile men to yourself through your Word made flesh; grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming Paschal feasts. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, who reconcile men to yourself through your Word made flesh, grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming Paschal feasts. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who reconcile men to yourself by your Word made flesh, grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming paschal feasts. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you reconcile mankind to yourself through your Word made flesh; grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming Paschal feasts. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you reconcile men to yourself through your Word made flesh; grant that the Christian people may hasten, with living faith and generous self-surrender, to celebrate the coming paschal feasts. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, who reconcile men to yourself through your Word made flesh, grant that the Christian people may hasten, with living faith and generous self-giving, to celebrate the coming Paschal feasts. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on a Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once more. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on a Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. May your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord said to Samuel: How long wilt thou mourn for Saul, whom I have rejected from reigning over Israel? fill thy horn with oil, and come, that I may send thee to Isai, the Bethlehemite: for I have provided me a king among his sons.",
+        "And when they were come in, he saw Eliab, and said: Is the Lord's anointed before him?",
+        "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
+        "Isai therefore brought his seven sons before Samuel: and Samuel said to Isai: The Lord hath not chosen any one of these.",
+        "And Samuel said to Isai: Are here all thy sons? He answered: There remaineth yet a young one, who keepeth the sheep. And Samuel said to Isai: Send, and fetch him: for we will not sit down till he come hither.",
+        "He sent therefore and brought him. Now he was ruddy and beautiful to behold, and of a comely face. And the Lord said: Arise, and anoint him, for this is he.",
+        "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward: and Samuel rose up, and went to Ramatha."
+      ],
+      "lineRefs": [
+        "1",
+        "6",
+        "7",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Samuel 16:1,6-7,10-13",
+      "reference": "1 Samuel 16:1,6-7,10-13",
+      "heading": "A reading from the Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus passing by, saw a man who was blind from his birth.",
+        "And his disciples asked him: Rabbi, who hath sinned, this man or his parents, that he should be born blind?",
+        "Jesus answered: Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him.",
+        "I must work the works of him that sent me, whilst it is day: the night cometh, when no man can work.",
+        "As long as I am in the world, I am the light of the world.",
+        "When he had said these things, he spat on the ground and made clay of the spittle and spread the clay upon his eyes,",
+        "And said to him: Go, wash in the pool of Siloe, which is interpreted, Sent. He went therefore and washed: and he came seeing.",
+        "The neighbours, therefore, and they who had seen him before that he was a beggar, said: Is not this he that sat and begged? Some said: This is he.",
+        "But others said: No, but he is like him. But he said: I am he.",
+        "They said therefore to him: How were thy eyes opened?",
+        "He answered: That man that is called Jesus made clay and anointed my eyes and said to me: Go to the pool of Siloe and wash. And I went: I washed: and I see.",
+        "And they said to him: Where is he? He saith: I know not.",
+        "They bring him that had been blind to the Pharisees.",
+        "Now it was the sabbath, when Jesus made the clay and opened his eyes.",
+        "Again therefore the Pharisees asked him how he had received his sight. But he said to them: He put clay upon my eyes: and I washed: and I see.",
+        "Some therefore of the Pharisees said: This man is not of God, who keepeth not the sabbath. But others said: How can a man that is a sinner do such miracles? And there was a division among them.",
+        "They say therefore to the blind man again: What sayest thou of him that hath opened thy eyes? And he said: He is a prophet.",
+        "The Jews then did not believe concerning him, that he had been blind and had received his sight, until they called the parents of him that had received his sight,",
+        "And asked them, saying: Is this your son, who you say was born blind? How then doth he now see?",
+        "His parents answered them and said: We know that this is our son and that he was born blind:",
+        "But how he now seeth, we know not: or who hath opened his eyes, we know not. Ask himself: he is of age: Let him speak for himself.",
+        "These things his parents said, because they feared the Jews: for the Jews had already agreed among themselves that if any man should confess him to be Christ, he should be put out of the synagogue.",
+        "Therefore did his parents say: He is of age. Ask himself.",
+        "They therefore called the man again that had been blind and said to him: Give glory to God. We know that this man is a sinner.",
+        "He said therefore to them: If he be a sinner, I know not. One thing I know, that whereas I was blind, now I see.",
+        "They said then to him: What did he to thee? How did he open thy eyes?",
+        "He answered them: I have told you already, and you have heard. Why would you hear it again? Will you also become his disciples?",
+        "They reviled him therefore and said: Be thou his disciple; but we are the disciples of Moses.",
+        "We know that God spoke to Moses: but as to this man, we know not from whence he is.",
+        "The man answered and said to them: why, herein is a wonderful thing, that you know not from whence he is, and he hath opened my eyes.",
+        "Now we know that God doth not hear sinners: but if a man be a server of God and doth his, will, him he heareth.",
+        "From the beginning of the world it hath not been heard, that any man hath opened the eyes of one born blind.",
+        "Unless this man were of God, he could not do anything.",
+        "They answered and said to him: Thou wast wholly born in sins; and dost thou teach us? And they cast him out.",
+        "Jesus heard that they had cast him out. And when he had found him, he said to him: Dost thou believe in the Son of God?",
+        "He answered, and said: Who is he, Lord, that I may believe in him?",
+        "And Jesus said to him: Thou hast both seen him; and it is he that talketh with thee.",
+        "And he said: I believe, Lord. And falling down, he adored him.",
+        "And Jesus said: For judgment I am come into this world: that they who see not may see; and they who see may become blind. I am come, etc... Not that Christ came for that end, that any one should be made blind: but that the Jews, by the abuse of his coming, and by their not receiving him, brought upon themselves this judgment of blindness.",
+        "And some of the Pharisees, who were with him, heard: and they said unto him: Are we also blind?",
+        "Jesus said to them: If you were blind, you should not have sin: but now you say: We see. Your sin remaineth. If you were blind, etc... If you were invincibly ignorant, and had neither read the scriptures, nor seen my miracles, you would not be guilty of the sin of infidelity: but now, as you boast of your knowledge of the scriptures, you are inexcusable."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 9:1-41",
+      "reference": "John 9:1-41",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "ROSE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "4th Sunday of Lent",
+        "key": "4thSundayOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/15.html",
+    "title": "Gospel and Word of the Day - 15 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-15"
+}
