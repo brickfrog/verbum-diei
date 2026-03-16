@@ -1,0 +1,261 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b81a13a833a66da447e3b7cc146b415e41f55b57b9d9ac29c01e41fbf1e3dd89",
+        "inputSha256": "eea746c33e55d310a809ab862160b1a3a242c4076c627507ca2c76928b05a2c4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "48757c36499e5c153f86fdedccf2b91be609bc3f777fdcd5d7218201bf05e132",
+        "inputSha256": "d388282e23a3983cc1ec4e2c06fb476ff721ac22776ce1ed1c230c8a110c8440",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4ccfbf35c008bcfdbf19a2342a11f26b04fc1a82937f4be9d64944edbc6c1c23",
+        "inputSha256": "f375cf8dc2d3d721c27d26be2c047b9b7a1817bcf4f1e3f5a2d9d998d21cfc4e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-16T01:55:55.855Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s “new heavens and new earth” is psyche-work: a future that heals by erasing the compulsive replay of injury. It is not mere consolation; it is a reconditioning of memory so grief stops running the body. That resembles the Buddhist move from clinging to a re-made world into non-attachment, and the Stoic reordering of impressions so old harms no longer seize the heart—speculation, but close in emotional mechanics.\n\nJohn’s healing at a distance makes faith a disciplined trust in speech rather than in spectacle. The father’s anxiety demands presence and proof; he is refused the drug of immediacy and given a sentence to carry home. That is remarkably like Sufi tawakkul, reliance that walks on a word, and like the Taoist confidence in efficacy without grasping at control—speculation, but the shared pivot is letting the visible lag behind the true.",
+    "excursus": "Isaiah’s “new heavens” isn’t a gentle upgrade; it’s a forced amnesia. The former things won’t be remembered because remembering would indict the architect. The promise of no weeping comes with a chill clause: the child can still die, just later, and the “sinner” is branded even at a hundred. Utopia keeps a gallows in the backyard. Houses and vineyards read like therapy after catastrophe, domestic labor as a spell against the return of loss.\n\nJohn stages desire as humiliation. The father begs, and Jesus snaps: you people only believe if dazzled. It’s cruelty with a purpose: to strip the man down to naked need, to make him swallow a word without a scene. “Go” is the real miracle—permission to leave the pleading posture. The healing happens at a distance, like power refusing intimacy, like love that will not come down.\n\nPut together, the texts confess the same dread: a world remade by decree and a child saved by command both require submission to an absent authority. Joy is promised, but it’s joy on conditions—forget, obey, build your small life where you’re told, and call it faith when the terror finally loosens its grip.",
+    "synthesis": "God’s renewal is not cosmetic but ontological: he re-creates the world by reordering memory, sorrow, and ordinary life. Christ’s word effects what it names, and faith is measured by adherence to that word rather than by witnessed spectacle.",
+    "gospel": [
+      {
+        "text": "The narrative turns on misrecognition: they “receive” him on the basis of festival marvels, yet the evangelist counts the act as a “second miracle,” pressing a shift from notoriety to authority—what matters is not that power occurs, but that it is bound to the speaker’s identity and can be trusted without proximity.",
+        "lines": [
+          3,
+          4,
+          12
+        ]
+      },
+      {
+        "text": "The father’s trajectory is from demand for presence to reliance on utterance; belief is narrated as expanding outward—first personal, then domestic—making the household the first unit of incorporation into the sign’s meaning.",
+        "lines": [
+          7,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "God’s own affect is repositioned: divine “rejoicing” is attached to a people, so the end is not mere repair of conditions but a reconstitution of covenantal relation in which sorrow has no public voice.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Creation by subtraction: memory itself is unmade.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Joy is fabricated, not discovered; the city becomes an emotion.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Longevity without innocence: death deferred, curse retained.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eschatology in domestic verbs—build, inhabit, plant, eat.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The proverb frames the scene: reception is not honor.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rebuke to a culture of proofs; faith treated as a hostage to spectacle.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Distance collapses into a sentence; life delivered as speech.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Time-stamp theology: the cure is audited to the hour.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant to your Church the help of these heavenly aids, and let her not lack what is needful on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant your Church the help of these heavenly aids, without lacking what is needed on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant your Church the help of these heavenly aids, that she may not lack what is necessary on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant your Church the help of these heavenly aids, and let her not lack what is needful on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant your Church the help of these heavenly aids, and may she not lack what is needed on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who renew the world through divine sacraments, grant your Church the help of these heavenly aids, so that she may not lack what is necessary on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that we have sown today by our work grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For behold I create new heavens, and a new earth: and the former things shall not be in remembrance, and they shall not come upon the heart.",
+        "But you shall be glad and rejoice for ever in these things, which I create: for behold I create Jerusalem a rejoicing, and the people thereof joy.",
+        "And I will rejoice in Jerusalem, and joy in my people, and the voice of weeping shall no more be heard in her, nor the voice of crying.",
+        "There shall no more be an infant of days there, nor an old man that shall not fill up his days: for the child shall die a hundred years old, and the sinner being a hundred years old shall be accursed.",
+        "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruits of them."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 65:17-21",
+      "reference": "Isaiah 65:17-21",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now after two days, he departed thence and went into Galilee.",
+        "For Jesus himself gave testimony that a prophet hath no honour in his own country.",
+        "And when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day: for they also went to the festival day.",
+        "He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.",
+        "He having heard that Jesus was come from Judea into Galilee, sent to him and prayed him to come down and heal his son: for he was at the point of death.",
+        "Jesus therefore said to him: Unless you see signs and wonders, you believe not.",
+        "The ruler saith to him: Lord, come down before that my son die.",
+        "Jesus saith to him: Go thy way. Thy son liveth. The man believed the word which Jesus said to him and went his way.",
+        "And as he was going down, his servants met him: and they brought word, saying, that his son lived.",
+        "He asked therefore of them the hour wherein he grew better. And they said to him: Yesterday at the seventh hour, the fever left him.",
+        "The father therefore knew that it was at the same hour that Jesus said to him: Thy son liveth. And himself believed, and his whole house.",
+        "This is again the second miracle that Jesus did, when he was come out of Judea into Galilee."
+      ],
+      "lineRefs": [
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 4:43-54",
+      "reference": "John 4:43-54",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 4th week of Lent",
+        "key": "mondayOfThe4thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/16.html",
+    "title": "Gospel and Word of the Day - 16 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-16"
+}
