@@ -1,0 +1,326 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7edb9253ae77d5f2623cce652d22bf2da8823973c3b815d4804a2cddd555d783",
+        "inputSha256": "d98cfb51c35fa9e070f729d08cbe3dfa8113ad66b2f57ef7ddf3e65b32ec5ceb",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e95db1cecf50437d1328e41b0e1bfb9b8f7b37cd72e1a0ded5eff680ef27a114",
+        "inputSha256": "13b21bb80a5a4be13ec86e7a3b6325c148e4b4cdb029ddb23cc6f33e5ce61cab",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "74f7ac51cdfa14789985df556b95ebdc10789c1b6fa80d9fca3839ef31c0776e",
+        "inputSha256": "db6e11aba8a9e7d796114f834634c1359aa9aaa7f105ef69c1c2de2b80d29941",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-17T01:55:35.642Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s water reads like the psyche’s leak from the holy of holies: what is most central cannot stay contained, and health begins when the center overflows into the wasteland. That has a close feel to Taoism’s Dao as a generative flow that revives what is dry without argument, and to Stoicism’s pneuma as an organizing current that makes a cosmos living rather than inert. Speculation: the measured deepening—ankle, knee, loins, unfordable—resembles Sufi accounts of unfolding fana, where surrender is staged until the current becomes too strong for the old self to cross by its own power.\n\nJohn’s pool is the anxious economy of scarcity: one cure, one winner, the rest watching the clock and each other. Jesus breaks the spell by refusing the rule of the mechanism and addressing will and agency directly, closer to Zen’s suspicion of waiting for special conditions and its preference for an unmediated turn. The command to carry the bed externalizes recovery as responsibility, not relief; it recalls Hindu karma-yoga in which liberation is proved in action, not in exemption. Speculation: the sabbath conflict frames neurosis versus life—law as a protective ritual that becomes a jealous idol, like Freud’s superego punishing vitality when it moves without permission.",
+    "excursus": "Ezekiel dreams of purity as a flood that won’t stay inside its borders. It starts as a polite leak from under the threshold, then becomes a torrent you can’t cross. The sanctuary doesn’t just soothe; it swells. Life proliferates along its banks—trees, fruit, medicine—but the image is claustrophobic: the water claims everything it touches, and “healing” reads like conquest. Desire here is for an overflow that excuses you from choice, a force so absolute you can call surrender salvation.\n\nJohn puts that same desire into a shameful queue. Bethesda is a market of miracles where the strong get there first and the weak rehearse their abandonment. The sick man’s real paralysis is social: “I have no man.” Jesus bypasses the rigged water and issues a command that is almost violent—get up, carry the evidence, walk into public. Healing becomes exposure.\n\nThen comes the sting: “sin no more, lest something worse happen.” The cure is not kindness; it’s conscription into responsibility. You’re not saved from the system; you’re made fit to be judged by it. The man responds like an addict to authority, naming Jesus to his persecutors. The dread in both texts is the same: the water that restores you also takes away your alibis, and the life it gives arrives with a new, harsher way to be blamed.",
+    "synthesis": "God’s life issues from sanctity outward and cannot be domesticated by ritual economies. Christ heals by sovereign command and judges the healed into obedience, not into complacency.",
+    "gospel": [
+      {
+        "text": "A feast frames the episode: public religion is in session when the private work of Christ detonates its assumptions.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "The command creates the capacity it requires; immediacy exposes how much of the man’s delay was imposed by the system around the pool.",
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Authority is inferred from effect, but interrogated as illegitimate; they ask for the name, not the reason.",
+        "lines": [
+          11,
+          12
+        ]
+      },
+      {
+        "text": "Jesus withdraws, then is identified secondhand; persecution follows not from failure of proof but from threat to institutional time (the sabbath).",
+        "lines": [
+          13,
+          15,
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "He is led out and made to turn: the vision educates by displacement; understanding requires leaving the familiar gatekeeping of the “house.”",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "“Surely thou hast seen”: the prophet is treated as a witness, then stationed on the bank among trees—life appears where one stops trying to control the current.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Universality is the point: the torrent animates “whithersoever,” replacing boundary-holiness with expansion-holiness.",
+        "lines": [
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Water from under the threshold: life leaks from the holy place, not from human plumbing.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Measured grace: not static, but apportioned, then exceeding measure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "From wadeable to impassable: the gift becomes mastery; you do not cross it, it carries you.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sea is not condemned; it is treated. Healing runs downstream.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Perpetual yield: fruit without seasonality, medicine without depletion.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Five porches: architecture for waiting, not for curing.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Single-winner mercy: a cruel economy attached to a holy rumor.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question targets consent, not capacity: will precedes cure.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "His theology is logistics: salvation reduced to having “a man.”",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Law polices the evidence: the bed becomes the scandal, not the healing.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Healing is not acquittal; sin remains actionable, and consequences can worsen.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may prepare the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may prepare the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may dispose the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may dispose the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may dispose the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the holy practices of this Lent may dispose the hearts of your faithful to celebrate worthily the Paschal mystery and to proclaim to all people the greatness of your salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he brought me again to the gate of the house, and behold waters issued out from under the threshold of the house toward the east: for the forefront of the house looked toward the east: but the waters came down to the right side of the temple to the south part of the altar. Waters... These waters are not to be understood literally (for there were none such that flowed from the temple); but mystically, of the baptism of Christ, and of his doctrine and his grace: the trees that grow on the banks are Christian virtues: the fishes are Christians, that spiritually live in and by these holy waters, the fishermen are the apostles, and apostolic preachers: the fenny places, where there is no health, are such as by being out of the church are separated from these waters of life.",
+        "And he led me out by the way of the north gate, and he caused me to turn to the way without the outward gate to the way that looked toward the east: and behold there ran out waters on the right side.",
+        "And when the man that had the line in his hand went out towards the east, he measured a thousand cubits: and he brought me through the water up to the ankles.",
+        "And again he measured a thousand, and he brought me through the water up to the knees.",
+        "And he measured a thousand, and he brought me through the water up to the loins. And he measured a thousand, and it was a torrent, which I could not pass over: for the waters were risen so as to make a deep torrent, which could not be passed over.",
+        "And he said to me: Surely thou hast seen, O son of man. And he brought me out, and he caused me to turn to the bank of the torrent.",
+        "And when I had turned myself, behold on the bank of the torrent were very many trees on both sides.",
+        "And he said to me: These waters that issue forth toward the hillocks of sand to the east, and go down to the plains of the desert, shall go into the sea, and shall go out, and the waters shall be healed.",
+        "And every living creature that creepeth whithersoever the torrent shall come, shall live: and there shall be fishes in abundance after these waters shall come thither, and they shall be healed, and all things shall live to which the torrent shall come.",
+        "And by the torrent on the banks thereof on both sides shall grow all trees that bear fruit: their leaf shall not fall off, and their fruit shall not fail: every month shall they bring forth firstfruits, because the waters thereof shall issue out of the sanctuary: and the fruits thereof shall be for food, and the leaves thereof for medicine."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 47:1-9,12",
+      "reference": "Ezekiel 47:1-9,12",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "After these things was a festival day of the Jews: and Jesus went up to Jerusalem.",
+        "Now there is at Jerusalem a pond, called Probatica, which in Hebrew is named Bethsaida, having five porches. Probatica... That is, the sheep pond; either so called, because the sheep were washed therein, that were to be offered up in sacrifice in the temple, or because it was near the sheep gate. That this was a pond where miracles were wrought is evident from the sacred text; and also that the water had no natural virtue to heal, as one only of those put in after the motion of the water was restored to health; for if the water had the healing quality, the others would have the like benefit, being put into it about the same time.",
+        "In these lay a great multitude of sick, of blind, of lame, of withered: waiting for the moving of the water.",
+        "And an angel of the Lord descended at certain times into the pond and the water was moved. And he that went down first into the pond after the motion of the water was made whole of whatsoever infirmity he lay under.",
+        "And there was a certain man there that had been eight and thirty years under his infirmity.",
+        "Him when Jesus had seen lying, and knew that he had been now a long time, he saith to him: Wilt thou be made whole?",
+        "The infirm man answered him: Sir, I have no man, when the water is troubled, to put me into the pond. For whilst I am coming, another goeth down before me.",
+        "Jesus saith to him: Arise, take up thy bed and walk.",
+        "And immediately the man was made whole: and he took up his bed and walked. And it was the sabbath that day.",
+        "The Jews therefore said to him that was healed: It is the sabbath. It is not lawful for thee to take up thy bed.",
+        "He answered them: He that made me whole, he said to me: Take up thy bed and walk.",
+        "They asked him therefore: Who is that man who said to thee: Take up thy bed and walk?",
+        "But he who was healed knew not who it was: for Jesus went aside from the multitude standing in the place.",
+        "Afterwards, Jesus findeth him in the temple and saith to him: Behold thou art made whole: sin no more, lest some worse thing happen to thee.",
+        "The man went his way and told the Jews that it was Jesus who had made him whole.",
+        "Therefore did the Jews persecute Jesus, because he did these things on the sabbath."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 5:1-16",
+      "reference": "John 5:1-16",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Patrick, Bishop",
+        "key": "saintPatrickBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/17.html",
+    "title": "Gospel and Word of the Day - 17 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-17"
+}
