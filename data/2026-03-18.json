@@ -1,0 +1,297 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "202108dff1f3698a6780f878ffe13cbdae63db9c36f9878ed569996d32602c9d",
+        "inputSha256": "0695aa287bbb839584c055ed6586555f9a21a394eb49afff9874a872127cf87a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "1e8d09795cd85c46d4b8309a05944bb38a5e322622ffd9dd107bd8c38f61b3f5",
+        "inputSha256": "53d244e40aa3daecf74b95c717f94555374a998f319243bae3ed6a41e746a42d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "bf3d90ce7b13d3f013a1da1ca8f3f7b75e27f50accf89d2a270d5bed42d32f4e",
+        "inputSha256": "7bdc8a8c7e916e624cf70795f0ba778a29aa353657e70cd8e0600ca4e61455e9",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-18T01:55:38.207Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Isaiah’s maternal refusal to forget echoes Guanyin’s vow to hear the cries of the world in Mahayana Buddhism, compassion as a kind of metaphysical memory that keeps the abandoned from falling out of being. The “come forth” to those bound and in darkness resembles the Orphic and Eleusinian imagination of descent-and-return, where liberation is a summons that rewires identity rather than a mere change of circumstance.\n\nJohn’s insistence that the Son does nothing “of himself,” only what he sees the Father doing, has a sharp nondual flavor: like Advaita’s claim that the apparent agent is transparent to the real Self, action without self-assertion. The voice that raises the dead parallels the Hindu notion of nada-brahman, creative sound as the carrier of life, and the Qur’anic kun, the performative word that brings forth existence; in each, judgment is less courtroom than exposure, the self made audible to what is real.",
+    "excursus": "Isaiah stages consolation as a power move. The voice that claims to have “heard” and “helped” also “preserves” and “gives” the servant as a covenant, a living instrument, and then turns mountains into roads, bodies into traffic, hunger into administration. Even mercy is logistics: sheep, fountains, paths exalted. When Zion blurts the truth—forsaken, forgotten—the reply is not tenderness but a rhetorical trap: mother-love invoked to silence protest. “Even if she forget” is the chill in the sentence: forgetting is imaginable, but the speaker insists on being the one memory you cannot escape.\n\nJohn makes the same structure explicit: intimacy used to authorize dominion. The Son’s desire is to be perfectly aligned, to do only what he “sees,” a devotion so total it erases his own will and yet grants him the most invasive prerogative—judgment. Love becomes surveillance; inheritance becomes adjudication. The dead will hear a voice and rise, not into freedom but into sorting, resurrection as subpoena. The scandal isn’t that he works on the sabbath; it’s that he can’t stop working, because the world is a case file and salvation is a verdict delivered by the one who says he is not acting for himself.",
+    "synthesis": "God’s mercy is not mere consolation but sovereign action that remakes a people’s world. The Father’s life and judgment are exercised in and through the Son, so honoring Christ is the only true honor of God.",
+    "gospel": [
+      {
+        "text": "The conflict turns on ontology and jurisdiction: the charge of equality, the transfer of judgment, the possession of self-contained life, and the title “Son of man.” John stacks claims so that authority is not delegated like a task but shared as capacity; the Son exercises functions proper to God—life and judgment—without collapsing into a second principle.",
+        "lines": [
+          2,
+          6,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "The text splits “hour” into present and future: a current passage from death to life through hearing, and an eventual universal summons from the graves. The same voice that creates faith now will later sort history, making response to the word the hinge between two resurrections.",
+        "lines": [
+          8,
+          9,
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage maps a return not merely to land but to a re-engineered geography: mountains turned into roads, paths elevated, exiles converging from every compass point. Restoration is portrayed as infrastructural sovereignty—God rearranges space so the dispersed can move, and the very directions become a litany of regained belonging.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Cosmic summons (“heavens…earth…mountains”) frames consolation as a public act with witnesses. Mercy is not an inner sentiment but a verdict announced to creation, pulling the poor into the center of what the universe is told to celebrate.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“acceptable time” is not mood but decree; salvation is calendared. Covenant is handed over as a person, not a document.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imperatives to prisoners: liberation begins as speech. “Shew yourselves” turns concealment into indictment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Negations stack—no hunger, no thirst, no striking sun—creation demilitarized. Mercy becomes governance: shepherding as policy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Zion’s theology is affect: abandonment asserted as fact. The complaint is the city speaking against its own election.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Maternal image offered, then revoked as insufficient: even if she forgets. Divine memory is made absolute by imagining the worst.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath is redefined by continuous labor; rest is not God’s mode. Jesus stakes his work inside the Father’s ongoing action.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Inability is declared to establish equality: dependence without inferiority. The Son’s “cannot” is perfect correspondence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Life is not distributed evenly but “to whom he will.” Resurrection is personal prerogative, not natural process.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Honor is a zero-sum test: refuse the Son and you forfeit the Father. Mission (“sent”) becomes the criterion of worship.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Justice is grounded in obedience, not autonomy. Judgment is legitimate because it is borrowed will, not private interest.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, our God, who grant to the just the reward of their merits and forgive the sins of sinners who do penance, have mercy on us and grant us, through the humble confession of our faults, your peace and your pardon. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, our God, who grant the just the reward of their merits, and forgive the sins of sinners who do penance, have mercy on us and, through the humble confession of our faults, give us your peace and your forgiveness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you grant the just the reward of their merits, and you forgive the sins of sinners who do penance; have mercy on us and, through the humble confession of our faults, give us your peace and your forgiveness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you grant the just the reward of their merits, and you forgive the sins of sinners who do penance; have mercy on us and, through the humble confession of our faults, grant us your peace and your pardon. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you grant the just the reward of their merits, and you forgive the sins of sinners who do penance; have mercy on us and grant us, through the humble confession of our faults, your peace and your pardon. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who grant the righteous the reward of their merits and forgive the sins of sinners who do penance, have mercy on us and, through the humble confession of our faults, give us your peace and your pardon. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a gentle yoke and a light burden; deign, then, to accept the desires and actions of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Thus saith the Lord: In an acceptable time I have heard thee, and in the day of salvation I have helped thee: and I have preserved thee, and given thee to be a covenant of the people, that thou mightest raise up the earth, and possess the inheritances that were destroyed:",
+        "That thou mightest say to them that are bound: Come forth: and to them that are in darkness: Shew yourselves. They shall feed in the ways, and their pastures shall be in every plain.",
+        "They shall not hunger, nor thirst, neither shall the heat nor the sun strike them: for he that is merciful to them, shall be their shepherd, and at the fountains of waters he shall give them drink.",
+        "And I will make all my mountains a way, and my paths shall be exalted.",
+        "Behold these shall come from afar, and behold these from the north and from the sea, and these from the south country.",
+        "Give praise, O ye heavens, and rejoice, O earth, ye mountains, give praise with jubilation: because the Lord hath comforted his people, and will have mercy on his poor ones.",
+        "And Sion said: The Lord hath forsaken me, and the Lord hath forgotten me.",
+        "Can a woman forget her infant, so as not to have pity on the son of her womb? and if she should forget, yet will not I forget thee."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 49:8-15",
+      "reference": "Isaiah 49:8-15",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But Jesus answered them: My Father worketh until now; and I work.",
+        "Hereupon therefore the Jews sought the more to kill him, because he did not only break the sabbath but also said God was his Father, making himself equal to God.",
+        "Then Jesus answered and said to them: Amen, amen, I say unto you, the Son cannot do any thing of himself, but what he seeth the Father doing: for what things soever he doth, these the Son also doth in like manner.",
+        "For the Father loveth the Son and sheweth him all things which himself doth: and greater works than these will he shew him, that you may wonder.",
+        "For as the Father raiseth up the dead and giveth life: so the Son also giveth life to whom he will.",
+        "For neither does the Father judge any man: but hath given all judgment to the Son.",
+        "That all men may honour the Son, as they honour the Father. He who honoureth not the Son honoureth not the Father who hath sent him.",
+        "Amen, amen, I say unto you that he who heareth my word and believeth him that sent me hath life everlasting: and cometh not into judgment, but is passed from death to life.",
+        "Amen, amen, I say unto you, that the hour cometh, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.",
+        "For as the Father hath life in himself, so he hath given to the Son also to have life in himself.",
+        "And he hath given him power to do judgment, because he is the Son of man.",
+        "Wonder not at this: for the hour cometh wherein all that are in the graves shall hear the voice of the Son of God.",
+        "And they that have done good things shall come forth unto the resurrection of life: but they that have done evil, unto the resurrection of judgment. Unto the resurrection of judgment... That is, condemnation.",
+        "I cannot of myself do any thing. As I hear, so I judge. And my judgment is just: because I seek not my own will, but the will of him that sent me."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 5:17-30",
+      "reference": "John 5:17-30",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Cyril of Jerusalem, Bishop and Doctor",
+        "key": "saintCyrilOfJerusalemBishopAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/18.html",
+    "title": "Gospel and Word of the Day - 18 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-18"
+}
