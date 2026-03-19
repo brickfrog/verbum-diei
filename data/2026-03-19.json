@@ -1,0 +1,232 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b919774de8cb5e27b9dc1175b54795ddb44a249d1fdfba3dad6fe564b19a504e",
+        "inputSha256": "b2f16fa884cc5aaffae899c5cfe06dda8e8fcc496838da0e144db198a64ce7a4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2ab8b02a2042df56d3ad1d01c66bb99b28eca37f8b4bde5b24542ff4fa004690",
+        "inputSha256": "dcbbc02c39f3092f817d4bb0f898df5308b19575aa87d7d72f8a14ca683909de",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "17df5e9f9fa0eb651bad6788b32f470ff71129424dc2becc1fecd67e6d25bdd4",
+        "inputSha256": "b76ebda244ec455473ac0ee97de7667207dec8a54a17d3f54645143a436f8646",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-19T01:55:23.096Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A lineage promised as an indestructible “house” behaves like a psychic container: the ego wants to build a shrine to domesticate the holy, but the holy answers by building a future inside the ego’s bloodline instead. That reversal matches the Daoist instinct that the Way cannot be housed, only borne; any attempt to “construct” it becomes vanity, while the real work is being shaped by what exceeds you.\n\nJoseph’s justice is restraint, the strength to refuse public righteousness in favor of quiet mercy. That has a clean parallel in Confucian ren, where moral clarity is proved not by display but by protection of another’s dignity, and in Islamic adab, where the honorable act is often the one that spares scandal. The dream-angel functions like the Upanishadic inner teacher, a voice that authorizes an obedience deeper than social scripts; speculation: it is the psyche’s way of letting vocation override shame without denying reality.\n\n“Father and son” here is less biology than adoption into purpose, like the Roman idea of filiation by naming and inheritance, or Hindu diksha where a teacher confers a new identity and task. The promised throne “forever” reads psychologically as the longing for a stable center that survives death; Buddhism would challenge the metaphysics of permanence, yet it still recognizes the craving for an unbroken seat, redirecting it into an awakened continuity of compassion rather than dynasty.\n\nThe child named as savior from sins aligns with the old cross-cultural insight that the deepest captivity is moral and interior. Greek tragedy calls it miasma; Judaism calls it iniquity; in the Bhagavad Gita it is bondage to action’s distortion. The novelty is that salvation arrives through ordinary domestic consent: a man wakes, accepts the scandal, and the future is secured by a yes.",
+    "excursus": "David wants to build God a house, the classic move of a man trying to nail down what frightens him. He’s king now; he craves a stable shrine the way he craves a stable self. The refusal is not piety but domination: God won’t be contained, won’t be made grateful, won’t live inside David’s architecture. Instead God builds David, turns the king into raw material for a dynasty. The promise feels like a gift and reads like a trap: your “house” will last forever, and you’ll never be free of it.\n\nThe line about correction is the tell. Father and son, yes, but also rod and stripes: intimacy as discipline, love that reserves the right to hurt. This isn’t comfort; it’s consent to a future in which the family name becomes a yoke and the throne becomes a sentence.\n\nMatthew sharpens the dread by making the “seed” arrive through a man who doesn’t plant it. Joseph gets the genealogy and none of the power. He is called “son of David” precisely when his masculinity is punctured, when the story needs his legal body more than his desire. The angel comes in sleep, where obedience is easiest and humiliation can be repackaged as vocation.\n\nJesus is installed as heir by a reluctant witness who must swallow scandal to keep the line unbroken. Salvation is announced, but the first salvation is social: Mary is spared exposure, Joseph is spared disgrace, the dynasty is spared interruption. The holy arrives as an intrusion into a household, and the cost is that everyone must live inside a narrative they didn’t choose.",
+    "synthesis": "God founds an eternal Davidic kingship and temple not by human construction but by divine generation and legal adoption. Christ is David’s son by covenantal title and saves by dealing with sin, the real exile.",
+    "gospel": [
+      {
+        "text": "Matthew constructs legitimacy by legal paternity: Joseph’s acts—refusal to shame, acceptance, naming—are the juridical instruments by which Jesus is installed into David’s line. The narrative treats obedience as the mechanism that converts a scandal into public continuity.",
+        "lines": [
+          1,
+          3,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle begins in interruption (night speech), then reverses agency: God commissions the builder and defines the house as a royal-temple complex that is simultaneously political and liturgical. The refrain of “for ever” is not optimism but a theological claim that kingship can be stabilized only by divine decree, not by architecture or succession management.",
+        "lines": [
+          1,
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The question unmakes the project: a house for God is a category error.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dynasty passes through death; promise is routed through a grave.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sonship is adopted, not earned; correction is built into covenant.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Espoused, not cohabiting: the hinge is a non-act.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Son of David” addresses legal lineage, not biology.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Name is mission: salvation defined as sin’s removal, not Rome’s.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of the salvation of mankind to the faithful guardianship of Saint Joseph, grant that, through his intercession, the Church may faithfully preserve them and bring them to fulfillment in her saving mission. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of the salvation of mankind to the faithful keeping of Saint Joseph, grant that, through his intercession, the Church may faithfully preserve them and bring them to fulfillment in her saving mission. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of the salvation of men to the faithful guardianship of Saint Joseph, grant that, through his intercession, the Church may preserve them faithfully and bring them to fulfillment in her saving mission. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of the salvation of mankind to the faithful guardianship of Saint Joseph, grant that, through his intercession, the Church may faithfully preserve them and bring them to fulfillment in her saving mission. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of human salvation to the faithful guardianship of Saint Joseph, grant that, through his intercession, the Church may faithfully preserve them and bring them to fulfillment in her saving mission. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who entrusted the first mysteries of the salvation of mankind to the faithful guardianship of Saint Joseph, grant that, by his intercession, the Church may preserve them faithfully and bring them to fulfillment in her saving mission. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But it came to pass that night, that the word of the Lord came to Nathan, saying:",
+        "Go, and say to my servant David: Thus saith the Lord: Shalt thou build me a house to dwell in?",
+        "And when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I will raise up thy seed after thee, which shall proceed out of the bowels, and I will establish his kingdom. I will establish his kingdom... This prophecy partly relateth to Solomon: but much more to Christ, who is called the son of David in scripture, and who is the builder of the true temple, which is the church, his everlasting kingdom, which shall never fail.",
+        "He shall build a house to my name, and I will establish the throne of his kingdom fore ever.",
+        "I will be to him a father, and he shall be to me a son: and if he commit any iniquity, I will correct him with the rod of men, and with the stripes of the children of men.",
+        "And thy house shall be faithful, and thy kingdom for ever before thy face, and thy throne shall be firm for ever."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Samuel 7:4-5,12-14,16",
+      "reference": "2 Samuel 7:4-5,12-14,16",
+      "heading": "A reading from the Second Book of Samuel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ. The husband of Mary... The Evangelist gives us rather the pedigree of St. Joseph, than that of the blessed Virgin, to conform to the custom of the Hebrews, who in their genealogies took no notice of women; but as they were near akin, the pedigree of the one sheweth that of the other.",
+        "Now the generation of Christ was in this wise. When as his mother Mary was espoused to Joseph, before they came together, she was found with child, of the Holy Ghost.",
+        "Whereupon Joseph her husband, being a just man, and not willing publicly to expose her, was minded to put her away privately.",
+        "But while he thought on these things, behold the Angel of the Lord appeared to him in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.",
+        "And she shall bring forth a son: and thou shalt call his name Jesus. For he shall save his people from their sins.",
+        "And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife."
+      ],
+      "lineRefs": [
+        "16",
+        "18",
+        "19",
+        "20",
+        "21",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 1:16,18-21,24",
+      "reference": "Matthew 1:16,18-21,24",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Joseph, Husband of Mary",
+        "key": "josephHusbandOfMary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/19.html",
+    "title": "Gospel and Word of the Day - 19 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-19"
+}
