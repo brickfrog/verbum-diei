@@ -1,0 +1,328 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "218f1bb52dad5e51fa826f9740dd8e7c4074ee4ae378c8798df6551450e0b07d",
+        "inputSha256": "debda35b7dd2999abf2473f4d08cfe3bf1787510449650d945752ec1ca574cee",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "890c39f837445bb63c6216f9c31eae0e8f8c02d6ef685f205d65d08c6c3a84d8",
+        "inputSha256": "652c4027e500ca5e37cf90ef9b193496ab6d4f3bb4d4887df95a0aa0e808a8fc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "40308e36f6630f2fbd34ea704aea5874907972bd007c362031c7d1f48e968040",
+        "inputSha256": "310ae40d7116f90e1f1866991c66d4c1c54418e318cb7e461e58544725b04db0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-20T01:55:20.337Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “lie in wait for the just” mechanism reads like Girard’s scapegoat logic: a community stabilizes itself by hunting the one whose difference exposes its disorder. The irritant is not his argument but his mere existence as an accusing mirror, the superego made flesh, so the group converts shame into prosecution.\n\nTheir test—“if he is favored, let reality rescue him”—matches Job’s friends and, speculatively, the Qur’anic taunt scenes where opponents demand a sign as a pretext to dismiss the speaker. It also echoes Stoic and Buddhist motifs where the patient one is “proved” by torment, yet the tormentors mistake equanimity for defeat.\n\nThe secrecy and “hour” in John feels like Taoist wu-wei and Bhagavad Gita noncompulsion: agency that moves without advertising itself, timing that is moral rather than tactical. Their insistence on knowing his “whence” parallels Zen’s suspicion of pedigree and Hindu avatāra myths in reverse: the crowd thinks origin should be either fully mundane or utterly unknowable, and can’t tolerate a presence that is both locally familiar and inwardly unplaceable.\n\nMalice as blindness has close kin in Plato’s cave and in the kleshas of Yoga and Buddhism: not ignorance as lack of data but as a motivated mis-seeing. Speculatively, it also resembles Freud’s defense mechanisms—projection and reaction-formation—where the persecutors punish in him what they cannot bear to name in themselves.",
+    "excursus": "Wisdom admits what piety prefers to hide: the “just” is intolerable not because he is cruel, but because he is clean. His difference is an accusation you can’t answer, only silence with force. The mob’s philosophy is thin but honest—life is short, nothing comes back, so crush the witness and reclaim the room. Torture becomes a laboratory: if he’s real, let reality save him. It’s less hatred of God than hatred of the shame his existence awakens.\n\nJohn stages the same sickness as political theater. Jesus doesn’t stride into danger; he slips in, testing the temperature of the crowd, letting desire and dread ferment. They want a Messiah who arrives like a rumor, originless, so no one has to revise their story. But he stands there with a known hometown and an unknown source, and that split—familiar body, alien authority—drives them mad. “His hour was not yet come” isn’t cosmic scheduling; it’s the crowd not yet unanimous. They can’t arrest him until they can agree on what, exactly, they are trying to kill: a man they recognize, or the judgment he carries into the open.",
+    "synthesis": "The righteous are hated because they reveal God, and the wicked attempt to turn providence into a manipulable test. Christ’s mission proceeds under threat, yet no violence can act beyond the Father’s appointed hour.",
+    "gospel": [
+      {
+        "text": "Tabernacles frames the dispute as one about presence: God “dwelling” with his people versus a Messiah reduced to an identification puzzle. The crowd’s categories cannot hold a presence that is both visible and sent.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "text": "Public teaching under threat exposes a split between official authority and popular speculation; the real issue is not whether he can be labeled, but whether God can be encountered outside their control.",
+        "lines": [
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The narrative asserts an ordering principle over political force: history is not ruled by the strongest hands but by a fixed “hour.” Human plots operate, but they do not set the final conditions.",
+        "lines": [
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text makes the persecutors confess the real provocation: the just man exposes interior life. Hatred begins as surveillance of thought, then seeks a body to break.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The proposed “proof” is a theology of coercion: if God is real, he must validate the righteous by immediate rescue. When providence refuses their timetable, they call it falsification and proceed to sentence.",
+        "lines": [
+          7,
+          10
+        ]
+      },
+      {
+        "text": "Ignorance here is eschatological: loss of hope collapses moral imagination. Without the horizon of recompense, holiness becomes irrational and therefore intolerable.",
+        "lines": [
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Bad metaphysics births bad ethics: no return, therefore no restraint.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The just is a rebuke by mere existence; contradiction felt as insult.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Son of God” is not argued against—only punished.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purity reads as contempt; filthiness is named by the abstainer.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They draft a test that forces God to perform on schedule.",
+      "lines": [
+        7,
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Torture posed as epistemology; shame deployed as refutation.",
+      "lines": [
+        9,
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blindness is self-inflicted: malice disables knowledge of “secrets” and wages.",
+      "lines": [
+        11,
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Murder sets the itinerary; prudence under threat is not cowardice.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hidden ascent: secrecy as strategy, not denial.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Power’s silence becomes evidence in the crowd’s courtroom.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They weaponize a folklore criterion: Messiah must be untraceable.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Known origin / unknown Sender: the scandal relocates from geography to God.",
+      "lines": [
+        7,
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Arrest fails on a clock: violence waits for permission it cannot see.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow on us and show it forth in our own lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow on us and show it forth in our own lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow on us and show it forth in our own lives. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow on us and show it forth in our own lives. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow upon us and show it forth in our own life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in our frailty help us with abundant means, grant that we may receive with joy the salvation you bestow on us and show it forth in our own lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty: since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For they have said, reasoning with themselves, but not right: The time of our life is short and tedious, and in the end of a man there is no remedy, and no man hath been known to have returned from hell:",
+        "Let us, therefore, lie in wait for the just, because he is not for our turn, and he is contrary to our doings, and upbraideth us with transgressions of the law, and divulgeth against us the sins of our way of life.",
+        "He boasteth that he hath the knowledge of God, and calleth himself the son of God.",
+        "He is become a censurer of our thoughts.",
+        "He is grievous unto us, even to behold: for his life is not like other men's, and his ways are very different.",
+        "We are esteemed by him as triflers, and he abstaineth from our ways as from filthiness, and he preferreth the latter end of the just, and glorieth that he hath God for his father.",
+        "Let us see then if his words be true, and let us prove what shall happen to him, and we shall know what his end shall be.",
+        "For if he be the true son of God, he will defend him, and will deliver him from the hands of his enemies.",
+        "Let us examine him by outrages and tortures, that we may know his meekness, and try his patience.",
+        "Let us condemn him to a most shameful death: for there shall be respect had unto him by his words.",
+        "These things they thought, and were deceived: for their own malice blinded them.",
+        "And they knew not the secrets of God, nor hoped for the wages of justice, nor esteemed the honour of holy souls."
+      ],
+      "lineRefs": [
+        "1",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Wisdom 2:1,12-22",
+      "reference": "Wisdom 2:1,12-22",
+      "heading": "A reading from the Book of Wisdom",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "After these things, Jesus walked in Galilee: for he would not walk in Judea, because the Jews sought to kill him.",
+        "Now the Jews feast of tabernacles was at hand.",
+        "But after his brethren were gone up, then he also went up to the feast, not openly, but, as it were, in secret.",
+        "Some therefore of Jerusalem said: Is not this he whom they seek to kill?",
+        "And behold, he speaketh openly: and they say nothing to him. Have the rulers known for a truth that this is the Christ?",
+        "But we know this man, whence he is: but when the Christ cometh, no man knoweth, whence he is.",
+        "Jesus therefore cried out in the temple, teaching and saying: You both know me, and you know whence I am. And I am not come of myself: but he that sent me is true, whom you know not.",
+        "I know him, because I am from him: and he hath sent me.",
+        "They sought therefore to apprehend him: and no man laid hands on him, because his hour was not yet come."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "10",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 7:1-2,10,25-30",
+      "reference": "John 7:1-2,10,25-30",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 4th week of Lent",
+        "key": "fridayOfThe4thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/20.html",
+    "title": "Gospel and Word of the Day - 20 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-20"
+}
