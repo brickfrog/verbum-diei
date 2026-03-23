@@ -1,0 +1,369 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4d311fa7429be93b1b4885701fef989a48d75cf77f708f6b3711ed4f21b9fcb3",
+        "inputSha256": "38aa88d5283057257d4b476a341421bad7dd39e092ab7ecc60732c9c369c633b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "db77e28b8234add3a44ae2f98a370774e12c5965b1b5c0179633b1602ca429d4",
+        "inputSha256": "99dd8eab87f83700c7bd8db00550b2932de5426c7b29bd322885dc0ad61eb0d2",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "29cdc534dd579ed4e9d031f8d107c0d5d0df09394b26edf7c0920d0e237170a7",
+        "inputSha256": "4a3861e6a6ebb10c6902b4bce6c2fcde6a5df791e8732f94a22705de1a2ae11d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-23T01:55:38.810Z"
+  },
+  "commentary": {
+    "seminaVerbi": "These scenes turn justice into theater and then break the spell. Authority weaponizes sexuality because it’s a shortcut to public disgust; disgust does the work of evidence. The elders and the accusers outsource their conscience to procedure, hoping law will launder their desire, their fear, their envy. Susanna’s refusal is not prudishness but psychic coherence: she will not buy life at the price of self-betrayal. Daniel and Jesus don’t “defend a woman” so much as puncture the crowd’s trance, returning each person to solitary responsibility.\n\nSpeculation: the exposure of corrupt judges echoes the Egyptian Weighing of the Heart, where the hidden interior, not the public story, decides fate. The dissolving of the mob by confronting each accuser’s stain resembles the Buddhist emphasis on individual karma over collective scapegoating, and the Jain refusal to harm when one’s own impurity is seen. The testing-by-question that splits a false narrative has kinship with Socratic elenchus and with Confucian rectification of names: when words stop fitting reality, violence rushes in. The silent writing in the dust feels Taoist—action that disarms by not joining the contest—letting the aggressors’ momentum collapse under its own weight.",
+    "excursus": "These stories are not about chastity rewarded; they are about male desire laundering itself as law. Susanna’s orchard is a stage where power watches, hungers, and then—when refused—creates a pornographic fiction of her body and calls it testimony. The elders don’t only lust for her; they lust for the right to name what happened, to make their craving into public fact. Her dread is the trap of reputation: whatever she chooses, men will author her.\n\nDaniel’s brilliance is not holiness but technique. He saves her by making language collapse under its own pretense: two trees, two stories, one cracked mask. Yet the crowd’s innocence is uglier than the elders’ lust. They were ready to kill on hearsay because they wanted the pleasure of a clean execution, a sanctioned outlet for their own secret heat.\n\nIn John the mechanism repeats, only subtler. The woman is bait, a prop to catch Jesus; her body is a legal riddle. Jesus writes on the ground like someone refusing to enter their script, delaying the moment when desire becomes a verdict. “Let the sinless throw first” doesn’t absolve her; it exposes the intimacy between accusation and appetite. The eldest leave first because their self-knowledge is oldest: they recognize their own stake in the spectacle.\n\nNeither scene ends in comfort. Susanna is saved, the other woman is released, but the real subject is the crowd’s hunger to punish and the authorities’ need to turn that hunger into order. Desire remains, only redirected: from her flesh to their righteousness, from sex to blood. “Go and sin no more” lands less like mercy than like the last claim on her life—freedom granted, but only under surveillance.",
+    "synthesis": "God dismantles corrupt judgment by exposing lies and disarming accusers, then reasserts the law’s aim: the protection of the innocent and the conversion of the guilty. Mercy is exercised as sovereign authority over condemnation, not as permission to persist in sin.",
+    "gospel": [
+      {
+        "text": "The woman is staged “in the midst” as bait; the real target is Jesus’ interpretive authority over Moses. The charge functions as a jurisdictional trap: either reject the law or endorse their use of it.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Jesus’ final words separate acquittal from absolution: he withholds condemnation while issuing a command that assumes moral reality. Mercy is not denial of sin but the creation of a future not governed by the accusers’ court.",
+        "lines": [
+          10,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative relocates authority from office to truth-tested procedure: the crowd’s credulity condemns, but God’s hearing installs an unexpected agent who reopens the case. Daniel’s method is not charisma but a reset of process—separation, examination, contradiction—exposing how communal honor can function as a weapon when unexamined.",
+        "lines": [
+          33,
+          36,
+          37,
+          43
+        ]
+      },
+      {
+        "text": "The reversal is not mere comeuppance; it is legal symmetry (“as they had maliciously dealt”) presented as fidelity to Moses, so the text frames justice as restoration of the law’s intention rather than innovation. Innocent blood is treated as a public liability that must be averted, not a private tragedy.",
+        "lines": [
+          53,
+          54
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Babylon exports iniquity as jurisprudence; rot wears a robe.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Averted eyes: not modesty but strategic atheism.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The trap is framed as bodily survival vs divine sight; she chooses visibility.",
+      "lines": [
+        16,
+        17
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands on the head: counterfeit liturgy; her gaze reassigns the court.",
+      "lines": [
+        26,
+        27
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two trees, two stories: creation itself becomes cross-examination.",
+      "lines": [
+        46,
+        50
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The finger in dust refuses their script; judgment is delayed by silence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The only qualified executioner declines to name himself.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The eldest leave first: seniority in sin recognizes the verdict quickest.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, leaving behind the corruption of the old man, we may prepare ourselves, as new men, to share in the glory of your kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, putting aside the corruption of the old self, we may prepare ourselves, as new men, to share in the glory of your Kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, abandoning the corruption of the old self, we may prepare ourselves, as new men and women, to share in the glory of your kingdom. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, abandoning the corruption of the old man, we may prepare ourselves, as new men, to share in the glory of your kingdom. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, putting aside the corruption of the old man, we may prepare ourselves, as new men, to share in the glory of your kingdom. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, whose boundless love enriches us with every blessing, grant that, leaving behind the corruption of the old self, we may prepare ourselves, as new men and women, to share in the glory of your kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom which by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now there was a man that dwelt in Babylon, and his name was Joakim:",
+        "And he took a wife, whose name was Susanna, the daughter of Helcias, a very beautiful woman, and one that feared God.",
+        "For her parents being just, had instructed their daughter according to the law of Moses.",
+        "Now Joakim was very rich, and had an orchard near his house: and the Jews resorted to him, because he was the most honourable of them all.",
+        "And there were two of the ancients of the people appointed judges that year, of whom the Lord said: That iniquity came out from Babylon, from the ancient judges, that seemed to govern the people.",
+        "These men frequented the house of Joakim, and all that hand any matters of judgment came to them.",
+        "And when the people departed away at noon, Susanna went in, and walked in her husband's orchard.",
+        "And the old men saw her going in every day, and walking: and they were inflamed with lust towards her:",
+        "And they perverted their own mind, and turned away their eyes, that they might not look unto heaven, nor remember just judgments.",
+        "And it fell out, as they watched a fit day, she went in on a time, as yesterday and the day before, with two maids only, and was desirous to wash herself in the orchard: for it was hot weather.",
+        "And there was nobody there, but the two old men that had hid themselves, and were beholding her.",
+        "So she said to the maids: Bring me oil, and washing balls, and shut the doors of the orchard, that I may wash me.",
+        "Now when the maids were gone forth, the two elders arose, and ran to her, and said:",
+        "Behold the doors of the orchard are shut, and nobody seeth us, and we are in love with thee: wherefore consent to us, and lie with us.",
+        "But if thou wilt not, we will bear witness against thee, that a young man was with thee, and therefore thou didst send away thy maids form thee.",
+        "Susanna sighed, and said: I am straitened on every side: for if I do this thing, it is death to me: and if I do it not, I shall not escape your hands.",
+        "But it is better for me to fall into your hands without doing it, than to sin in the sight of the Lord.",
+        "With that Susanna cried out with a loud voice: and the elders also cried out against her.",
+        "And one of them ran to the door of the orchard, and opened it.",
+        "So when the servants of the house heard the cry in the orchard, they rushed in by the back door, to see what was the matter.",
+        "But after the old men had spoken, the servants were greatly ashamed: for never had there been any such word said of Susanna. And on the next day,",
+        "When the people were come to Joakim, her husband, the two elders also came full of wicked device against Susanna, to put her to death.",
+        "And they said before the people: Send to Susanna, daughter of Helcias, the wife of Joakim. And presently they sent.",
+        "And she came with her parents, and children and all her kindred.",
+        "Therefore her friends, and all her acquaintance wept.",
+        "But the two elders rising up in the midst of the people, laid their hands upon her head.",
+        "And she weeping, looked up to heaven, for her heart had confidence in the Lord.",
+        "And the elders said: As we walked in the orchard alone, this woman came in with two maids, and shut the doors of the orchard, ans sent away the maids from her.",
+        "Then a young man that was there hid came to her, and lay with her.",
+        "But we that were in a corner of the orchard, seeing this wickedness, ran up to them, and we saw them lie together.",
+        "And him indeed we could not take, because he was stronger than us, and opening the doors, he leaped out:",
+        "But having taken this woman, we asked who the young man was, but she would not tell us: of this thing we are witnesses.",
+        "The multitude believed them, as being the elders, and the judges of the people, and they condemned her to death.",
+        "Then Susanna cried out with a loud voice, and said: O eternal God, who knowest hidden things, who knowest all things before they come to pass,",
+        "Thou knowest that they have borne false witness against me: and behold I must die, whereas I have done none of these things, which these men have maliciously forged against me.",
+        "And the Lord heard her voice.",
+        "And when she was led to be put to death, the Lord raised up the holy spirit of a young boy, whose name was Daniel:",
+        "And he cried out with a loud voice: I am clear from the blood of this woman.",
+        "Then all the people turning themselves towards him, said: What meaneth this word that thou hast spoken?",
+        "But he standing in the midst of them, said: Are ye so foolish, ye children of Israel, that without examination or knowledge of the truth, you have condemned a daughter of Israel?",
+        "Return to judgment, for they have borne false witness against her.",
+        "So all the people turned again in haste, and the old men said to him: Come, and sit thou down among us, and shew it us: seeing God hath given thee the honour of old age.",
+        "And Daniel said to the people: Separate these two far from one another, and I will examine them.",
+        "So when they were put asunder one from the other, he called one of them, and said to him: O thou that art grown old in evil days, now are thy sins come out, which thou hast committed before:",
+        "In judging unjust judgments, oppressing the innocent, and letting the guilty to go free, whereas the Lord saith: The innocent and the just thou shalt not kill.",
+        "Now then if thou sawest her, tell me under what tree thou sawest them conversing together: He said: Under a mastic tree.",
+        "And Daniel said: Well hast thou lied against thy own head: for behold the angel of God having received the sentence of him, shall cut thee in two.",
+        "And having put him aside, he commanded that the other should come, and he said to him: O thou seed of Chanaan, and not of Juda, beauty hath deceived tee, and lust hath perverted thy heart:",
+        "Thus did you do to the daughters of Israel, and they for fear conversed with you: but a daughter of Juda would not abide your wickedness.",
+        "Now, therefore, tell me, under what tree didst thou take them conversing together. And he answered: Under a holm tree.",
+        "And Daniel said to him: Well hast thou also lied against thy own head: for the angel of the Lord waiteth with a sword to cut thee in two, and to destroy you.",
+        "With that all the assembly cried out with a loud voice, and they blessed God, who saveth them that trust in him.",
+        "And they rose up against the two elders, (for Daniel had convicted them of false witness by their own mouth) and they did to them as they had maliciously dealt against their neighbour,",
+        "To fulfil the law of Moses: and they put them to death, and innocent blood was saved in that day."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "15",
+        "16",
+        "17",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Daniel 13:1-9,15-17,19-30,33-62",
+      "reference": "Daniel 13:1-9,15-17,19-30,33-62",
+      "heading": "A reading from the Book of Daniel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus went unto mount Olivet.",
+        "And early in the morning he came again into the temple: and all the people came to him. And sitting down he taught them.",
+        "And the scribes and Pharisees bring unto him a woman taken in adultery: and they set her in the midst,",
+        "And said to him: Master, this woman was even now taken in adultery.",
+        "Now Moses in the law commanded us to stone such a one. But what sayest thou?",
+        "And this they said tempting him, that they might accuse him. But Jesus bowing himself down, wrote with his finger on the ground.",
+        "When therefore they continued asking him, he lifted up himself and said to them: He that is without sin among you, let him first cast a stone at her.",
+        "And again stooping down, he wrote on the ground.",
+        "But they hearing this, went out one by one, beginning at the eldest. And Jesus alone remained, and the woman standing in the midst.",
+        "Then Jesus lifting up himself, said to her: Woman, where are they that accused thee? Hath no man condemned thee?",
+        "Who said: No man, Lord. And Jesus said: Neither will I condemn thee. Go, and now sin no more."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 8:1-11",
+      "reference": "John 8:1-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "g",
+        "rank": "COMMEMORATION",
+        "name": "Saint Turibius of Mogrovejo, Bishop",
+        "key": "saintTuribiusOfMogrovejoBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/23.html",
+    "title": "Gospel and Word of the Day - 23 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-23"
+}
