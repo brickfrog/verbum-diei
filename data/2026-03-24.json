@@ -1,0 +1,279 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e9dc9e10c14009b30e2d8c04d4cdb48aecdd6716cd7cd82bdee8ee07e4d5b801",
+        "inputSha256": "4f129de7492fb6b1d6856b1daed083f88637869ed8b4e645ca66f32d2bad1579",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d8b1db852ca87a8d27de8cf0114e5e9e10ea639e69a9e0b467e4cddef7b51936",
+        "inputSha256": "1dd412c56e20147cc848bea28cee873716daed000acedfe675faf20f52b1b723",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d271cd571eaaebee0cdf0dde9bc2406ba475e74f17d6e5a5579420c9e9ec587a",
+        "inputSha256": "d15290fdc2e0341be87b02200d18e9d4aad1202ac90ab523bc97c4a1c93f4b54",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-24T01:55:13.949Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The cure arrives by fixing attention on the image of what is killing you. That logic lives outside this text. In Greek medicine the pharmakon can be poison and remedy at once; the serpent, emblem of venom, is also the sign of healing in the Asklepian tradition. In Jung’s terms the saving gaze is the ego consenting to contemplate the shadow without flinching, letting consciousness metabolize what was previously instinct and panic.\n\nThe wilderness complaint is spiritual anorexia: satiated by “light food,” they interpret nourishment as insult because it doesn’t match craving. Buddhism names a similar revolt as taṇhā: thirst that turns even adequate provision into humiliation; the mind calls what is sufficient “nothing.” The “from beneath/from above” divide reads like a vertical psychology: two levels of desire, one fixated on immediate relief, one aligned with a larger order. Speculation: it also resembles the Vedāntic contrast between avidyā’s cramped identity and a self understood as coming from beyond the world’s bargaining.\n\n“Lifted up” binds revelation to exposure: truth arrives when the rejected figure is publicly raised, made unavoidable. That resembles the scapegoat mechanism René Girard describes, where collective violence produces a strange clarity after the victim is displayed; here, the clarity is inverted into recognition rather than self-justification. In Sufism, the insistence that the speaker “does nothing of himself” echoes fanā: the dissolving of private will into obedience, not as passivity but as a single, unfractured intention.\n\nBelief, here, is less an opinion than a relocation of the gaze: away from muttering appetite toward the lifted sign, away from the claustrophobic self toward an origin “from above.” In Stoicism you might call it assent to reality as it is; in Yoga, dhāraṇā: attention steady enough to transform pain without denying it.",
+    "excursus": "Numbers stages a sick bargain: the people are punished for telling the truth about desire. They are tired, disgusted, and honest—manna has become weightless, unreal, an insult to a body that wants heft. The “fiery serpents” arrive like the symptom that finally matches the complaint: heat, pain, urgency. God doesn’t remove the toxin; he aestheticizes it. He turns terror into an object, a polished image on a pole, and healing comes by consenting to look. Salvation is not innocence restored but attention trained—fixating on the wound until the wound becomes manageable.\n\nJohn takes that mechanism and hardens it into dread. Jesus speaks like someone already leaving, making absence the knife: you will look for me and not reach me. “From beneath” is not a geography but an addiction to the immediate—grasping, misunderstanding, joking about suicide because the real thing is unbearable. The promised recognition comes only “when you have lifted up the Son of Man”: truth is legible only through an execution, through the public display of what everyone wants to avert their eyes from. Belief is not comfort; it is the moment you realize the cure has the shape of the sickness, and you choose to stare anyway.",
+    "synthesis": "God heals by appointing a lifted sign that demands believing gaze, and Christ fulfills that sign in his being lifted up, so that refusal to believe leaves sin intact unto death.",
+    "gospel": [
+      {
+        "text": "The interlocutors misread him through their own categories—suicide, biography, misunderstanding of Fatherhood—so the dialogue exposes epistemic captivity: they cannot even frame the right question.",
+        "lines": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "He speaks as commissioned witness and judge, not as independent sage; belief arises not from novelty but from contact with truthful sending—authority is derivative, and that derivation is the claim.",
+        "lines": [
+          6,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Confession does not negotiate terms; it requests intercession. The mediator remains Moses, and the people’s agency is reduced to repentance and reception.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "God institutes a public instrument, not a private remedy: a sacramental economy where life is attached to a visible ordinance, binding the community to a single focal point.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Liberation does not cancel geography: the long way breeds complaint.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They prefer Egypt’s chains to manna’s insult; contempt calls gift “light.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment arrives as the image of their speech: poison answering blasphemy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The cure is not removal but a gaze: life mediated through a sign of death.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bronze serpent: the enemy’s form made medicinal; healing by looking, not by touching.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Absence becomes verdict: seeking without access ends in sin’s grave.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two origins, two realms; their inability is ontological before it is moral.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The hinge is “I am he”: unbelief is the active agent of death.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge comes at the “lifting up”: recognition is cruciform, not speculative.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Perfect obedience is his aloneness reversed: never abandoned because never deviating.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people devoted to your service may grow in holiness and in number. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people dedicated to your service may grow in holiness and in number. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people devoted to your service may grow in holiness and in number. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people dedicated to your service may grow in holiness and in number. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people devoted to your service may grow in holiness and in number. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, to persevere in the faithful fulfillment of your holy will, so that in our days the people devoted to your service may grow in holiness and in number. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a restful sleep; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And they marched from mount Hor, by the way that leadeth to the Red Sea, to compass the land of Edom. And the people began to be weary of their journey and labour:",
+        "And speaking against God and Moses, they said: Why didst thou bring us out of Egypt, to die in the wilderness? There is no bread, nor have we any waters: our soul now loatheth this very light food. Very light food... So they call the heavenly manna: thus worldlings loathe the things of heaven, for which they have no relish.",
+        "Wherefore the Lord sent among the people fiery serpents, which bit them and killed many of them. Fiery serpents... They are so called, because they that were bitten by them were burnt with a violent heat.",
+        "Upon which they came to Moses, and said; We have sinned, because we have spoken against the Lord and thee: pray that he may take away these serpents from us. And Moses prayed for the people.",
+        "And the Lord said to him: Make a brazen serpent, and set it up for a sign: whosoever being struck shall look on it, shall live.",
+        "Moses therefore made a brazen serpent, and set it up for a sign: which when they that were bitten looked upon, they were healed. A brazen serpent... This was a figure of Christ crucified, and of the efficacy of a lively faith in him, against the bites of the hellish serpent. John 3.14."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Numbers 21:4-9",
+      "reference": "Numbers 21:4-9",
+      "heading": "A reading from the Book of Numbers",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Again therefore Jesus said to them: I go: and you shall seek me. And you shall die in your sin. Whither I go, you cannot come.",
+        "The Jews therefore said: Will he kill himself, because he said: Whither I go you cannot come?",
+        "And he said to them: You are from beneath: I am from above. You are of this world: I am not of this world.",
+        "Therefore I said to you that you shall die in your sins. For if you believe not that I am he, you shall die in your sin.",
+        "They said therefore to him: Who art thou? Jesus said to them: The beginning, who also speak unto you.",
+        "Many things I have to speak and to judge of you. But he that sent me, is true: and the things I have heard of him, these same I speak in the world.",
+        "And they understood not that he called God his Father.",
+        "Jesus therefore said to them: When you shall have lifted up, the Son of man, then shall you know that I am he and that I do nothing of myself. But as the Father hath taught me, these things I speak.",
+        "And he that sent me is with me: and he hath not left me alone. For I do always the things that please him.",
+        "When he spoke these things, many believed in him."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 8:21-30",
+      "reference": "John 8:21-30",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 5th week of Lent",
+        "key": "tuesdayOfThe5thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/24.html",
+    "title": "Gospel and Word of the Day - 24 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-24"
+}
