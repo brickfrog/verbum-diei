@@ -1,0 +1,173 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b406a7a5f6d1ad297f54ab171d47f3f25590ab68fcbd61dbd92dfc313ff78d41",
+        "inputSha256": "68be2b92df41180019c2df65960db005fac66bcce09ef44f6130ebf1e0ca8b3c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "612f0344fbcfb7baff3c36d537d17bf661b731c2b32e93eac926c2cca63ef751",
+        "inputSha256": "12d1e921934e85e75b08dddabec5ed0aeee9203666046d8be7b842438ff8905f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-26T01:55:26.890Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A name-change that seals a covenant reads like an archetypal re-forging of identity: the self is revised by an address from beyond the ego, and the new name becomes a task. That has close kinship with the Hindu diksha that confers a new name and life-orientation, and with Zen ordination names that mark a vowed self; I’m speculating, but the psychological mechanism is similar: identity is stabilized by belonging to a transpersonal promise.\n\n“I AM” functions like a shock to ordinary time, not a fact-claim but an intrusion of sheer being into a debate about pedigree. It resembles the Advaita Vedanta pointer to sat, and the Sufi insistence on al-Haqq as reality that precedes all narratives; speculative again, yet the same disruptive move appears: the ground of identity is not ancestry or achievement but immediacy.\n\nThe crowd’s stones mirror what happens when a group’s coherence depends on a shared story and someone speaks from beneath the story’s floorboards. There’s a Taoist parallel in the way the Dao that can be named provokes hostility from the named world; charitable to both, the conflict is less about doctrine than about the psyche defending its map when faced with the unmap.",
+    "excursus": "Abram falls on his face because the voice doesn’t argue; it renames. The covenant is not comfort but annexation: your body, your future, your children, even your syllables are drafted into a story that will outlive you. “Father of many nations” is desire disguised as destiny, a promise that seduces by inflating the self while quietly erasing it. To be made Abraham is to be made useful.\n\nJohn’s scene is the psychological cost of that bargain. The descendants cling to Abraham’s death as proof that limits are real, that no one gets to speak over the grave. Jesus answers by claiming the name that did the original taking: I AM. It is less revelation than an act of possession, an insistence that the power behind the covenant is not a memory but a present voice. The stones rise because everyone hears what’s happening: the old patriarchal contract is being rewritten in the first person.\n\nImmortality here is not endless breath; it is being kept inside a word that won’t let you go. “Keep my word” means submit to the narrative that names you, and death becomes irrelevant only because your life has been converted into meaning. The dread is that the promise works. The desire is to be claimed so completely that even dying cannot cancel you.",
+    "synthesis": "",
+    "gospel": [],
+    "reading": []
+  },
+  "marginalia": [],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them from all their sins, so that they may persevere in a holy life and thus come to inherit your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them from all their sins, so that they may persevere in a holy life and thus come to inherit your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them of all their sins, that they may persevere in a holy life and so come to inherit your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them from all their sins, so that they may persevere in a holy life and thus come to inherit your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them from all their sins, that they may persevere in a holy life and thus come to inherit your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear our supplications, Lord, and look with love upon those who have placed their hope in your mercy; cleanse them from all their sins, that they may persevere in a holy life and thus come to inherit your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that restores our strength, now worn out by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Abram fell flat on his face.",
+        "And God said to him: I am, and my covenant is with thee, and thou shalt be a father of many nations.",
+        "Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations. Abram... in the Hebrew, signifies a high father: but Abraham, the father of the multitude; Sarai signifies my Lady, but Sara absolutely Lady.",
+        "And I will make thee increase exceedingly, and I will make nations of thee, and kings shall come out of thee.",
+        "And I will establish my covenant between me and thee, and between thy seed after thee in their generations, by a perpetual covenant: to be a God to thee, and to thy seed after thee.",
+        "And I will give to thee, and to thy seed, the land of thy sojournment, all the land of Chanaan, for a perpetual possession, and I will be their God.",
+        "Again God said to Abraham: And thou therefore shalt keep my covenant, and thy seed after thee in their generations."
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Genesis 17:3-9",
+      "reference": "Genesis 17:3-9",
+      "heading": "A reading from the Book of Genesis",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Amen, amen, I say to you: If any man keep my word, he shall not see death for ever.",
+        "The Jews therefore said: Now we know that thou hast a devil. Abraham is dead, and the prophets: and thou sayest: If any man keep my word, he shall not taste death for ever.",
+        "Art thou greater than our father Abraham who is dead? And the prophets are dead. Whom dost thou make thyself?",
+        "Jesus answered: If I glorify myself, my glory is nothing. It is my Father that glorifieth me, of whom you say that he is your God.",
+        "And you have not known him: but I know him. And if I shall say that I know him not, I shall be like to you, a liar. But I do know him and do keep his word.",
+        "Abraham your father rejoiced that he might see my day: he saw it and was glad.",
+        "The Jews therefore said to him: Thou art not yet fifty years old. And hast thou seen Abraham?",
+        "Jesus said to them: Amen, amen, I say to you, before Abraham was made, I AM.",
+        "They took up stones therefore to cast at him. But Jesus hid himself and went out of the temple."
+      ],
+      "lineRefs": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 8:51-59",
+      "reference": "John 8:51-59",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 5th week of Lent",
+        "key": "thursdayOfThe5thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/26.html",
+    "title": "Gospel and Word of the Day - 26 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-26"
+}
