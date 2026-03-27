@@ -1,0 +1,261 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "823ba400e1d252d0fd2a64aede7bbb498a90a48e8359ab2e9264c81b91b4c6d8",
+        "inputSha256": "63215c28c53680113ad097ae0985fccb947792aa7982ae2b8c17e3d024719cc5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7ecf9c54a1af93f47cc102e4214addb2fadc24803b3c3f0b42f4b15471f893b4",
+        "inputSha256": "87ba699378e1a849f1f17e7932aeb8d5027bae6ad2c527ea8476a728ff4888d7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "743e0375abf6220783395ec2ed7dbc01c423a8e13ad163b7e97b3025cfaa0cf6",
+        "inputSha256": "4b9636970d7f7b106fd64cd814f16541777f5c4db033346bb6191ba18524d178",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-27T01:55:47.427Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s “terror on every side” is the social psychology of scapegoating: the circle tightens, intimates turn informant, and the victim becomes the community’s disinfectant. You can hear René Girard’s mimetic crisis (speculation), but also the Bhagavad Gita’s insistence that action be stripped of personal rancor: vengeance is framed as impersonal justice rather than private satisfaction, like karma returning through a lawful order rather than a bruised ego.\n\nJohn’s scene turns on a familiar riddle across traditions: the human being accused of overreaching into the divine, then defended by pointing to a deeper anthropology. The “you are gods” move resembles the Upanishadic shock that Atman is not-other than Brahman (speculation), and it rhymes with Sufi language of annihilation and subsistence, where “I” thins until only the Real acts. The appeal to “believe the works” also echoes Zen’s distrust of metaphysical argument: don’t debate the moon, watch the hand that actually heals.",
+    "excursus": "Jeremiah isn’t a saint serenely persecuted; he’s a man addicted to being right. He hears “terror on every side” and it thrills him, because it proves he matters. The betrayal of “familiars” is the real wound: intimacy curdled into surveillance. God as “strong warrior” is less comfort than borrowed muscle, a way to transmute humiliation into victory. And the rawest line is the request to watch vengeance happen. He wants the world to hurt back, and calls it justice to keep his self-image clean.\n\nJohn’s scene is the same drama in a cooler key. The crowd isn’t outraged by goodness; they’re outraged by the collapse of distance. “Being a man, makest thyself God” is the panic of ordinary people hearing their hierarchy dissolve. Jesus replies by widening the scandal: if scripture can name humans “gods,” then the charge is not impiety but envy. He doesn’t retreat into innocence; he presses the wound, making belief hinge on works rather than permission.\n\nThen the strangest move: he escapes. Not triumphant martyrdom, but tactical disappearance. Desire remains unsatisfied—no final clash, no cathartic verdict—only retreat beyond the Jordan, back to the place of beginnings, where testimony without spectacle is enough. The faithful gather there not because certainty has won, but because the tension has: a man who refuses both capture and closure, leaving his opponents with stones in their hands and no body to end the story.",
+    "synthesis": "God’s vindication is not a mood but a judgment enacted in history. Christ’s claim stands or falls with the Father’s works and word, and those works expose unbelief as willful, not evidential.",
+    "gospel": [
+      {
+        "text": "The scene is a juridical collision: they prosecute a man for claiming divinity, and he reframes the charge in terms of consecration and mission—identity grounded in the Father’s act, not self-assertion.",
+        "lines": [
+          1,
+          3,
+          6
+        ]
+      },
+      {
+        "text": "Withdrawal beyond the Jordan is strategic: the narrative returns to John’s original site so testimony, not spectacle, becomes the basis of faith; the absence of “sign” highlights the sufficiency of truthful witness.",
+        "lines": [
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage pivots from surveillance and threat to liturgy: deliverance is declared publicly, not merely endured privately.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "Jeremiah’s conflict is a contest of interpretation: enemies presume he can be “deceived,” while the Lord’s presence exposes their misreading and makes their victory structurally impossible.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The conspiracy is intimate: “familiars” become informants; terror is social before it is physical.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Strength is not sentiment but a combat title: God as “warrior” reassigns shame to the accusers.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet opens his “cause” and asks for vengeance; piety here is forensic, not gentle.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He answers stones with works; the question forces them to name the real offense.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He shelters under Scripture’s language—“you are gods”—then locks it: “cannot be broken.”",
+      "lines": [
+        4,
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "If they reject the speaker, let the deeds testify; knowledge is driven through action into belief.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Escape is not defeat; the hour is governed, not seized by the mob.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and your goodness set us free from the power of sin, to which our weakness has subjected us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and your goodness set us free from the power of sin, to which our weakness has subjected us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and your goodness free us from the power of sin, to which our weakness has subjected us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and goodness set us free from the power of sin, to which our weakness has subjected us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and goodness set us free from the power of sin, to which our weakness has subjected us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Forgive the sins of your people, Lord, and may your love and your goodness set us free from the power of sin, to which our weakness has subjected us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty: since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For I heard the reproaches of many, and terror on every side: Persecute him, and let us persecute him: from all the men that were my familiars, and continued at my side: if by any means he may be deceived, and we may prevail against him, and be revenged on him.",
+        "But the Lord is with me as a strong warrior: therefore they that persecute me shall fall, and shall be weak: they shall be greatly confounded, because they have not understood the everlasting reproach, which never shall be effaced.",
+        "And thou, O Lord of hosts, prover of the just, who seest the reins and the heart: let me see, I beseech thee, thy vengeance on them: for to thee I have laid open my cause. Let me see, etc... This prayer proceeded not from hatred or ill will, but zeal of justice.",
+        "Sing ye to the Lord, praise the Lord: because he hath delivered the soul of the poor out of the hand of the wicked."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 20:10-13",
+      "reference": "Jeremiah 20:10-13",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The Jews then took up stones to stone him.",
+        "Jesus answered them: Many good works I have shewed you from my Father. For which of those works do you stone me?",
+        "The Jews answered him: For a good work we stone thee not, but for blasphemy: and because that thou, being a man, makest thyself God.",
+        "Jesus answered them: Is it not written in your law: I said, you are gods?",
+        "If he called them gods to whom the word of God was spoken; and the scripture cannot be broken:",
+        "Do you say of him whom the Father hath sanctified and sent into the world: Thou blasphemest; because I said: I am the Son of God?",
+        "If I do not the works of my Father, believe me not.",
+        "But if I do, though you will not believe me, believe the works: that you may know and believe that the Father is in me and I in the Father.",
+        "They sought therefore to take him: and he escaped out of their hands.",
+        "And he went again beyond the Jordan, into that place where John was baptizing first. And there he abode.",
+        "And many resorted to him: and they said: John indeed did no sign.",
+        "But all things whatsoever John said of this man were true. And many believed n him."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 10:31-42",
+      "reference": "John 10:31-42",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 5th week of Lent",
+        "key": "fridayOfThe5thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/27.html",
+    "title": "Gospel and Word of the Day - 27 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-27"
+}
