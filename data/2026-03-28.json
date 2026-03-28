@@ -1,0 +1,277 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7dde27af3cb2eefaa26c96f11f7e02f94625733434ecaced403dc6d81489bb97",
+        "inputSha256": "288848f35da75c4bf30e22db84747d86b9cccbb3c989902bd66aea6f97b98cd2",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "907c050b798187596c5f904263458ff6c224f6d4b7be4f8c9483835f494d2d59",
+        "inputSha256": "01540c5c9d0eae3007797e0e9239a3bc9dcf533f7b5568fdda0631c0fe92c960",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f9d837865e7f768957cba89357c43b383e94009bee14d21eda8bf891ad932de4",
+        "inputSha256": "6d5ebc3fc4d370192f5ae8347371e2c5bd48d95eed2eecf5eb00e9d963bc710c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-28T01:55:19.316Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hinduism’s Purusha Sukta carries a stark kinship: the social body is knit together through a single sacrificial victim, unity purchased by dismemberment; speculation, but Caiaphas’ cold calculus rhymes with that archaic intuition that cohesion requires blood.\n\nGreek tragedy offers the pharmakos, the scapegoat expelled or killed to cleanse the city; the council’s fear of Rome sounds like a polis managing contagion, turning a living person into a public remedy.\n\nBuddhism’s sangha ideal and Ashoka’s edicts echo the dream of a dispersed people gathered into one disciplined community, yet without a throne; the “one shepherd” becomes, by analogy, a rule of life rather than a dynasty.\n\nDaoism’s notion of de as an ordering presence resembles a sanctuary “in the midst” not as architecture but as a field that harmonizes; speculation, but the text’s center feels less like a building than an atmosphere that makes division psychologically harder.\n\nSufism’s language of the qutb, the spiritual pole around whom hearts align, parallels the longing for a single center that sanctifies; the danger, shared across traditions, is mistaking institutional survival for holiness and calling it peace.",
+    "excursus": "Ezekiel’s dream of unity is not tenderness; it is consolidation. The scattered are gathered like filings to a magnet, cleaned of their “abominations,” and fused into one body with one shepherd. Peace arrives as surveillance: sanctuary in the middle, tabernacle pitched inside the psyche, the holy as an occupying force that promises forever by abolishing exit.\n\nJohn shows the same mechanism without the incense. The council’s fear is naked: belief is a political contagion, Rome the looming punishment. Caiaphas speaks the logic everyone tries not to say: kill the singular to save the collective, sacrifice as public health. His “prophecy” is not divine poetry but institutional reflex, the priesthood’s talent for turning murder into necessity.\n\nThe dread is that both texts want the same thing: one nation, one center, one story, one body. Desire for wholeness demands a victim, and the victim becomes the glue. Jesus withdraws into the desert not as mystic escape but as prey learning the map; meanwhile the temple crowd hunts for absence, needing him to appear so they can complete the unity that requires his removal.",
+    "synthesis": "God unifies his people by installing his presence and shepherd-king; that unity is achieved in history through the death of the one man who gathers the dispersed into one.",
+    "gospel": [
+      {
+        "text": "Belief produces a counter-movement of reporting; witness becomes evidence for prosecution. The council scene formalizes resistance: miracles are treated as a governance problem, not a revelation.",
+        "lines": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "text": "John frames the coming death as the mechanism of a new unity—gathering the dispersed—while the narrative immediately tightens into pursuit and festival anticipation. Passover purification and the hunt for Jesus run in parallel, exposing a cultic system preparing itself while preparing to kill its true Pasch.",
+        "lines": [
+          8,
+          9,
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The restoration is cast as a revived monarchy under “David,” yet the horizon is “for ever,” pressing beyond any historical Davidide. The text binds land, law, and ruler into a single regime ordered to permanence, implying a messianic administration rather than a temporary repair.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The climax is missional: the sanctuary’s indwelling functions as public proof, converting Israel’s holiness into an international sign. God’s self-identification (“sanctifier”) is validated not by argument but by presence.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Exile is assumed; return is performed by fiat, not by merit.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is political theology: one king cancels schism.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cleansing precedes belonging; “my people” is downstream of purification.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Covenant of peace” is not détente but sanctuary-installation: God moves in.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They fear Rome more than God; “place and nation” are their idol.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sacrifice is framed as management: murder rebranded as prudence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Office speaks truer than the man: prophecy leaks through corruption.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Word withdraws; visibility becomes a tactical question.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you unceasingly accomplish the salvation of mankind and, in these days of Lent, grant your people more abundant graces; deign to look with love upon your chosen ones and grant your protecting help to the catechumens and to the baptized. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who unceasingly accomplish the salvation of mankind and grant your people, in these days of Lent, more abundant graces, deign to look with love upon your chosen ones and grant your protecting help to the catechumens and the baptized. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who unceasingly accomplish the salvation of mankind and grant your people, in these days of Lent, more abundant graces, deign to look with love upon your chosen ones and grant your protecting help to the catechumens and the baptized. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who unceasingly accomplish the salvation of mankind and grant your people more abundant graces in the days of Lent, deign to look with love upon your chosen ones and grant your protecting help to the catechumens and to the baptized. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who unceasingly accomplish the salvation of mankind and grant your people, in these days of Lent, more abundant graces, deign to look with love upon your chosen ones and grant your protecting help to the catechumens and to the baptized. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die upon the cross, to show the human race the example of a life obedient to your will; grant that the lessons of his Passion may bear witness within us, and that one day we may share in his glorious Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son, who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And thou shalt say to them: Thus saith the Lord God: Behold, I will take of the children of Israel from the midst of the nations whither they are gone: and I will gather them on every side, and will bring them to their own land.",
+        "And I will make them one nation in the land on the mountains of Israel, and one king shall be king over them all: and they shall no more be two nations, neither shall they be divided any more into two kingdoms.",
+        "Nor shall they be defiled any more with their idols, nor with their abominations, nor with all their iniquities: and I will save them out of all the places in which they have sinned, and I will cleanse them: and they shall be my people, and I will be their God.",
+        "And my servant David shall be king over them, and they shall have one shepherd: they shall walk in my judgments, and shall keep my commandments, and shall do them.",
+        "And they shall dwell in the land which I gave to my servant Jacob, wherein your fathers dwelt, and they shall dwell in it, they and their children, and their children's children, for ever: and David my servant shall be their prince for ever.",
+        "And I will make a covenant of peace with them, it shall be an everlasting covenant with them: and I will establish them, and will multiply them, and will set my sanctuary in the midst of them for ever.",
+        "And my tabernacle shall be with them: and I will be their God, and they shall be my people.",
+        "And the nations shall know that I am the Lord the sanctifier of Israel, when my sanctuary shall be in the midst of them for ever."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 37:21-28",
+      "reference": "Ezekiel 37:21-28",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Many therefore of the Jews, who were come to Mary and Martha and had seen the things that Jesus did, believed in him.",
+        "But some of them went to the Pharisees and told them the things that Jesus had done.",
+        "The chief priests, therefore, and the Pharisees gathered a council and said: What do we, for this man doth many miracles?",
+        "If we let him alone so, all will believe in him; and the Romans will come, and take away our place and nation.",
+        "But one of them, named Caiphas, being the high priest that year, said to them: You know nothing.",
+        "Neither do you consider that it is expedient for you that one man should die for the people and that the whole nation perish not.",
+        "And this he spoke not of himself: but being the high priest of that year, he prophesied that Jesus should die for the nation.",
+        "And not only for the nation, but to gather together in one the children of God that were dispersed.",
+        "From that day therefore they devised to put him to death.",
+        "Wherefore Jesus walked no more openly among the Jews: but he went into a country near the desert, unto a city that is called Ephrem. And there he abode with his disciples.",
+        "And the pasch of the Jews was at hand: and many from the country went up to Jerusalem, before the pasch, to purify themselves.",
+        "They sought therefore for Jesus; and they discoursed one with another, standing in the temple: What think you that he is not come to the festival day? And the chief priests and Pharisees had given a commandment that, if any man knew where he was, he should tell, that they might apprehend him."
+      ],
+      "lineRefs": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 11:45-56",
+      "reference": "John 11:45-56",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 5th week of Lent",
+        "key": "saturdayOfThe5thWeekOfLent"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Lent"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/28.html",
+    "title": "Gospel and Word of the Day - 28 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-28"
+}
