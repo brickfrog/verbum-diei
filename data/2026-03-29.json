@@ -1,0 +1,569 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1ce5bfb14e498d89a11e24b80cc7ddd20272754a3fcc08c42eb220883bb8e352",
+        "inputSha256": "d88537b6c87e685931adb50f496077f89204aab5434e3649bb353e0aa66bf620",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ec39666290cc5f2a425bcdf165314a482621977b96791fddb67311a5846962c7",
+        "inputSha256": "2ef81df277b4a7451568450102b5c7f39a2a61f92135aa53c2948ccf53704dc2",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1ba7f70a365c52a16d8850616ed8964327604e2a6a6a28743de3eb042fe258c0",
+        "inputSha256": "afb88eeccf9b1821c0e19ccd4a1d9b68c370748ab14eaf609a5b5b37c288c7db",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-29T01:55:42.757Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s “learned tongue” that steadies the weary and the ear trained at dawn echoes Buddhist right speech yoked to compassion and Zen’s morning discipline; speculation: the “opened ear” reads like śravaṇa, listening as the first gate of awakening. The face set like rock under spittle resembles Stoic apatheia and Epictetus’s insistence that insult lands only if the self consents.\n\nThe kiss that betrays has a close twin in the Bhagavad Gita’s portrait of the divided agent, knowing the good yet serving craving; speculation: Judas is the psyche’s bargain with relief, purchasing a quick end to intolerable ambiguity. Peter’s triple denial and bitter weeping matches Confucian shame as moral reset and the Sufi cycle of lapse and tawba where the wound becomes the entrance.\n\nGethsemane’s “not my will” belongs to the same interior terrain as Islamic rida (consent to the decree) and the Taoist yielding that doesn’t break; speculation: the repeated sleeping of friends is the universal failure of witness, the lonely core of suffering that no community quite reaches.\n\nThe mocked king with crown of thorns rhymes with the Roman Saturnalia inversion and with Hindu lila where majesty wears disguise; speculation: the spectacle exposes how crowds manage anxiety by turning complexity into scapegoat. The temple veil tearing and the shaken earth recall apocalyptic motifs shared with Zoroastrian frashokereti and Norse Ragnarok: the old order cracking so a new moral imagination can breathe.",
+    "excursus": "Isaiah’s “learned tongue” is not consolation; it is training in how to make pain speak. Morning after morning the ear is opened like a wound, and the servant offers his body as curriculum. The hard face is not courage but dissociation, a chosen numbness that lets humiliation become vocation.\n\nMatthew stages the same psychology at full length: a community that can only cohere by selecting a scapegoat. Judas is not an alien villain but the one honest enough to price what everyone else wants without admitting it: a clean transfer of dread into a single body. The kiss is intimacy turned into procedure.\n\nAt the table the “this is my body” is less miracle than consent: he converts impending violence into something ingestible, so they can keep loving him while they abandon him. Gethsemane is the crack where the performance almost fails; desire for escape speaks once, then is swallowed into “thy will,” the language of obedience that doubles as self-erasure.\n\nPeter’s denial is the group’s secret repeated aloud: survival requires amnesia. Pilate’s handwashing is the fantasy that guilt can be rinsed off like dirt. Even the guards at the tomb are fear’s last erotic gesture, sealing the stone as if to keep the story from changing them again.",
+    "synthesis": "The Servant and the Son submit to suffering by obedience, not impotence, and God publicly vindicates that obedience. In the Passion, human authority condemns the Innocent, and God answers by opening access and eliciting confession.",
+    "gospel": [
+      {
+        "text": "The narrative turns on timing and sovereignty: “my time is near,” the meal, the hymn, the exit. Passion is not an accident in motion; it is scheduled liturgy leading into arrest.",
+        "lines": [
+          4,
+          5,
+          16,
+          17
+        ]
+      },
+      {
+        "text": "Scripture functions as the spine of events: scattering, denial, flight are not merely failures but part of a pattern Christ names in advance, thereby stripping them of surprise while leaving their guilt intact.",
+        "lines": [
+          18,
+          19,
+          21,
+          43
+        ]
+      },
+      {
+        "text": "Matthew stages competing jurisdictions—council, governor, crowd—each seeking a clean mechanism to eliminate Jesus. The outcome reveals how authority disintegrates into managed violence when it is untethered from truth.",
+        "lines": [
+          73,
+          76,
+          77,
+          83,
+          88
+        ]
+      },
+      {
+        "text": "Creation and Gentile witness answer what Israel’s leaders refuse: darkness and earthquake are not decoration but cosmic testimony, culminating in a confession from the watching execution detail.",
+        "lines": [
+          107,
+          112,
+          116
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah’s speaker is formed by a regimen: instruction precedes mission, and endurance is framed not as stoicism but as forensic vindication—“not confounded” is the courtroom term that drives the passage.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "The movement is from receptive discipline to public humiliation: the servant’s credibility is not established by dominance but by submitted suffering that paradoxically authorizes his word to the weary.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The tongue is \"learned\" only because the ear is drilled daily; speech is derivative, not native.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Opened ear; unresisting body. Obedience is described as non-retreat.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Voluntary exposure: cheeks, face—organs of honor—handed over to degradation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Helper does not remove blows; he removes shame. The face becomes geology.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Betrayal begins as pricing: a person reduced to a wage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question spreads contagiously—guilt imagined by the innocent.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He says \"Rabbi,\" not \"Lord\"; betrayal keeps a teacher, refuses a sovereign.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The \"chalice\" names necessity; will is bent, not erased.",
+      "lines": [
+        26
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A kiss made into a signal: intimacy weaponized for identification.",
+      "lines": [
+        35
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silence under adjuration: truth will not be extracted by courtroom ritual.",
+      "lines": [
+        50
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Denial escalates into self-curse; fear recruits theology.",
+      "lines": [
+        61
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Washed hands, unwashed verdict: procedural innocence as moral fiction.",
+      "lines": [
+        86
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "\"He saved others\" becomes an accusation: salvation reinterpreted as incompetence.",
+      "lines": [
+        104
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The veil tears top-down: access is granted, not seized.",
+      "lines": [
+        113
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seal and guard: the state tries to close what God means to open.",
+      "lines": [
+        128
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die on the cross, to show the human race the example of a life obedient to your will; grant that the teachings of his passion may be a witness for us, and that one day we may share in his glorious resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die on the cross, to show the human race the example of a life obedient to your will; grant that the teachings of his Passion may serve as our witness, and that one day we may share in his glorious Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die on the cross, to show the human race the example of a life obedient to your will; grant that the lessons of his Passion may be a witness to us, and that one day we may share in his glorious resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die upon the cross, to show the human race the example of a life obedient to your will; grant that the teachings of his Passion may be our testimony, and that one day we may share in his glorious Resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die on the cross, to show the human race the example of a life obedient to your will; grant that the teachings of his Passion may be for us a witness, and that one day we may share in his glorious Resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that our Savior should become man and die on the cross, to show the human race the example of a life obedient to your will; grant that the teachings of his Passion may bear witness for us, and that one day we may share in his glorious Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating today the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. May your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary: he wakeneth in the morning, in the morning he wakeneth my ear, that I may hear him as a master.",
+        "The Lord God hath opened my ear, and I do not resist: I have not gone back.",
+        "I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.",
+        "The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 50:4-7",
+      "reference": "Isaiah 50:4-7",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then went one of the twelve, who was called Judas Iscariot, to the chief priests.",
+        "And said to them: What will you give me, and I will deliver him unto you? But they appointed him thirty pieces of silver.",
+        "And from thenceforth he sought opportunity to betray him.",
+        "And on the first day of the Azymes, the disciples came to Jesus, saying: Where wilt thou that we prepare for thee to eat the pasch? Azymes... Feast of the unleavened bread. Pasch... The paschal lamb.",
+        "But Jesus said: Go ye into the city to a certain man and say to him: The master saith, My time is near at hand. With thee I make the pasch with my disciples.",
+        "And the disciples did as Jesus appointed to them: and they prepared the pasch.",
+        "But when it was evening, he sat down with his twelve disciples.",
+        "And whilst they were eating, he said: Amen I say to you that one of you is about to betray me.",
+        "And they being very much troubled began every one to say: Is it I, Lord?",
+        "But he answering said: He that dippeth his hand with me in the dish, he shall betray me.",
+        "The Son of man indeed goeth, as it is written of him. But woe to that man by whom the Son of man shall be betrayed. It were better for him, if that man had not been born.",
+        "And Judas that betrayed him answering, said: Is it I, Rabbi? He saith to him: Thou hast said it.",
+        "And whilst they were at supper, Jesus took bread and blessed and broke and gave to his disciples and said: Take ye and eat. This is my body. This is my body... He does not say, This is the figure of my body--but This is my body. (2 Council of Nice, Act. 6.) Neither does he say in this, or with this is my body; but absolutely, This is my body: which plainly implies transubstantiation.",
+        "And taking the chalice, he gave thanks and gave to them, saying: Drink ye all of this. Drink ye all of this... This was spoken to the twelve apostles; who were the all then present; and they all drank of it, says St. Mark 14. 23. But it no ways follows from these words spoken to the apostles, that all the faithful are here commanded to drink of the chalice; any more than that all the faithful are commanded to consecrate, offer and administer this sacrament; because Christ upon this same occasion, and at the same time, bid the apostles do so; in these words, St. Luke 22. 19, Do this for a commemoration of me.",
+        "For this is my blood of the new testament, which shall be shed for many unto remission of sins. Blood of the new testament... As the old testament was dedicated with the blood of victims, by Moses, in these words: This is the blood of the testament, etc., Heb. 9. 20; so here is the dedication and institution of the new testament, in the blood of Christ, here mystically shed by these words: This is the blood of the new testament, etc.",
+        "And I say to you, I will not drink from henceforth of this fruit of the vine until that day when I shall drink it with you new in the kingdom of my Father. Fruit of the vine... These words, by the account of St. Luke 26:22. 18, were not spoken of the sacramental cup, but of the wine that was drunk with the paschal lamb. Though the sacramental cup might also be called the fruit of the vine, because it was consecrated from wine, and retains the likeness, and all the accidents or qualities of wine.",
+        "And a hymn being said, they went out unto mount Olivet.",
+        "Then Jesus saith to them: All you shall be scandalized in me this night. For it is written: I will strike the shepherd: and the sheep of the flock shall be dispersed. Scandalized in me, etc... Forasmuch as my being apprehended shall make you all run away and forsake me.",
+        "But after I shall be risen again, I will go before you into Galilee.",
+        "And Peter answering, said to him: Although all shall be scandalized in thee, I will never be scandalized.",
+        "Jesus said to him: Amen I say to thee that in this night before the cock crow, thou wilt deny me thrice.",
+        "Peter saith to him: Yea, though I should die with thee, I will not deny thee. And in like manner said all the disciples.",
+        "Then Jesus came with them into a country place which is called Gethsemani. And he said to his disciples: Sit you here, till I go yonder and pray.",
+        "And taking with him Peter and the two sons of Zebedee, he began to grow sorrowful and to be sad.",
+        "Then he saith to them: My soul is sorrowful even unto death. Stay you here and watch with me.",
+        "And going a little further, he fell upon his face, praying and saying: My Father, if it be possible, let this chalice pass from me. Nevertheless, not as I will but as thou wilt.",
+        "And he cometh to his disciples and findeth them asleep. And he saith to Peter: What? Could you not watch one hour with me?",
+        "Watch ye: and pray that ye enter not into temptation. The spirit indeed is willing, but the flesh is weak.",
+        "Again the second time, he went and prayed, saying: My Father, if this chalice may not pass away, but I must drink it, thy will be done.",
+        "And he cometh again and findeth them sleeping: for their eyes were heavy.",
+        "And leaving them, he went again: and he prayed the third time, saying the selfsame word.",
+        "Then he cometh to his disciples and said to them: Sleep ye now and take your rest. Behold the hour is at hand: and the Son of man shall be betrayed into the hands of sinners.",
+        "Rise: let us go. Behold he is at hand that will betray me.",
+        "As he yet spoke, behold Judas, one of the twelve, came, and with him a great multitude with swords and clubs, sent from the chief priests and the ancients of the people.",
+        "And he that betrayed him gave them a sign, saying: Whomsoever I shall kiss, that is he. Hold him fast.",
+        "And forthwith coming to Jesus, he said: Hail, Rabbi. And he kissed him.",
+        "And Jesus said to him: Friend, whereto art thou come? Then they came up and laid hands on Jesus and held him.",
+        "And behold one of them that were with Jesus, stretching forth his hand, drew out his sword: and striking the servant of the high priest, cut off his ear.",
+        "Then Jesus saith to him: Put up again thy sword into its place: for all that take the sword shall perish with the sword.",
+        "Thinkest thou that I cannot ask my Father, and he will give me presently more than twelve legions of angels?",
+        "How then shall the scriptures be fulfilled, that so it must be done?",
+        "In that same hour, Jesus said to the multitudes: You are come out, as it were to a robber, with swords and clubs to apprehend me. I sat daily with you, teaching in the temple: and you laid not hands on me.",
+        "Now all this was done that the scriptures of the prophets might be fulfilled. Then the disciples, all leaving him, fled.",
+        "But they holding Jesus led him to Caiphas the high priest, where the scribes and the ancients were assembled.",
+        "And Peter followed him afar off, even to the court of the high priest, And going in, he sat with the servants, that he might see the end.",
+        "And the chief priests and the whole council sought false witness against Jesus, that they might put him to death.",
+        "And they found not, whereas many false witnesses had come in. And last of all there came two false witnesses:",
+        "And they said: This man said, I am able to destroy the temple of God and after three days to rebuild it.",
+        "And the high priest rising up, said to him: Answerest thou nothing to the things which these witness against thee?",
+        "But Jesus held his peace. And the high priest said to him: I adjure thee by the living God, that thou tell us if thou be the Christ the Son of God.",
+        "Jesus saith to him: Thou hast said it. Nevertheless I say to you, hereafter you shall see the Son of man sitting on the right hand of the power of God and coming in the clouds of heaven.",
+        "Then the high priest rent his garments, saying: He hath blasphemed: What further need have we of witnesses? Behold, now you have heard the blasphemy.",
+        "What think you? But they answering, said: He is guilty of death.",
+        "Then did they spit in his face and buffeted him. And others struck his face with the palms of their hands,",
+        "Saying: Prophesy unto us, O Christ. Who is he that struck thee?",
+        "But Peter sat without in the court. And there came to him a servant maid, saying: Thou also wast with Jesus the Galilean.",
+        "But he denied before them all, saying: I know not what thou sayest.",
+        "And as he went out of the gate, another maid saw him; and she saith to them that were there: This man also was with Jesus of Nazareth.",
+        "And again he denied with an oath: I know not the man.",
+        "And after a little while, they came that stood by and said to Peter: Surely thou also art one of them. For even thy speech doth discover thee.",
+        "Then he began to curse and to swear that he knew not the man. And immediately the cock crew.",
+        "And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly.",
+        "And when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death.",
+        "And they brought him bound and delivered him to Pontius Pilate the governor.",
+        "Then Judas, who betrayed him, seeing that he was condemned, repenting himself, brought back the thirty pieces of silver to the chief priests and ancients,",
+        "Saying: I have sinned in betraying innocent blood. But they said: What is that to us? Look thou to it.",
+        "And casting down the pieces of silver in the temple, he departed and went and hanged himself with an halter.",
+        "But the chief priests having taken the pieces of silver, said: It is not lawful to put them into the corbona, because it is the price of blood. Corbona... A place in the temple where the people put in their gifts or offerings.",
+        "And after they had consulted together, they bought with them the potter's field, to be a burying place for strangers.",
+        "For this cause that field was called Haceldama, that is, the field of blood, even to this day.",
+        "Then was fulfilled that which was spoken by Jeremias the prophet, saying: And they took the thirty pieces of silver, the price of him that was prized, whom they prized of the children of Israel.",
+        "And they gave them unto the potter's field, as the Lord appointed to me.",
+        "And Jesus stood before the governor, and the governor asked him, saying: Art thou the king of the Jews? Jesus saith to him: Thou sayest it.",
+        "And when he was accused by the chief priests and ancients, he answered nothing.",
+        "Then Pilate saith to him: Dost not thou hear how great testimonies they allege against thee?",
+        "And he answered him to never a word, so that the governor wondered exceedingly.",
+        "Now upon the solemn day the governor was accustomed to release to the people one prisoner, whom they would.",
+        "And he had then a notorious prisoner that was called Barabbas.",
+        "They therefore being gathered together, Pilate said: Whom will you that I release to You: Barabbas, or Jesus that is called Christ?",
+        "For he knew that for envy they had delivered him.",
+        "And as he was sitting in the place of judgment, his wife sent to him, saying: Have thou nothing to do with that just man; for I have suffered many things this day in a dream because of him.",
+        "But the chief priests and ancients persuaded the people that they should ask Barabbas and make Jesus away.",
+        "And the governor answering, said to them: Whether will you of the two to be released unto you? But they said: Barabbas.",
+        "Pilate saith to them: What shall I do then with Jesus that is called Christ? They say all: Let him be crucified.",
+        "The governor said to them: Why, what evil hath he done? But they cried out the more, saying: Let him be crucified.",
+        "And Pilate seeing that he prevailed nothing, but that rather a tumult was made, taking water washed his hands before the people, saying: I am innocent of the blood of this just man. Look you to it.",
+        "And the whole people answering, said: His blood be upon us and upon our children.",
+        "Then he released to them Barabbas: and having scourged Jesus, delivered him unto them to be crucified.",
+        "Then the soldiers of the governor, taking Jesus into the hall, gathered together unto him the whole band.",
+        "And stripping him, they put a scarlet cloak about him.",
+        "And platting a crown of thorns, they put it upon his head, and a reed in his right hand. And bowing the knee before him, they mocked him, saying: Hail, King of the Jews.",
+        "And spitting upon him, they took the reed and struck his head.",
+        "And after they had mocked him, they took off the cloak from him and put on him his own garments and led him away to crucify him.",
+        "And going out, they found a man of Cyrene, named Simon: him they forced to take up his cross.",
+        "And they came to the place that is called Golgotha, which is the place of Calvary.",
+        "And they gave him wine to drink mingled with gall. And when he had tasted, he would not drink.",
+        "And after they had crucified him, they divided his garments, casting lots; that it might be fulfilled which was spoken by the prophet, saying: They divided my garments among them; and upon my vesture they cast lots.",
+        "And they sat and watched him.",
+        "And they put over his head his cause written: THIS IS JESUS THE KING OF THE JEWS.",
+        "Then were crucified with him two thieves: one on the right hand and one on the left.",
+        "And they that passed by blasphemed him, wagging their heads,",
+        "And saying: Vah, thou that destroyest the temple of God and in three days dost rebuild it: save thy own self. If thou be the Son of God, come down from the cross.",
+        "In like manner also the chief priests, with the scribes and ancients, mocking said:",
+        "He saved others: himself he cannot save. If he be the king of Israel, let him now come down from the cross: and we will believe him.",
+        "He trusted in God: let him now deliver him if he will have him. For he said: I am the Son of God.",
+        "And the selfsame thing the thieves also that were crucified with him reproached him with.",
+        "Now from the sixth hour, there was darkness over the whole earth, until the ninth hour.",
+        "And about the ninth hour, Jesus cried with a loud voice, saying: Eli, Eli, lamma sabacthani? That is, My God, My God, why hast thou forsaken me?",
+        "And some that stood there and heard said: This man calleth Elias.",
+        "And immediately one of them running took a sponge and filled it with vinegar and put it on a reed and gave him to drink.",
+        "And the others said: Let be. Let us see whether Elias will come to deliver him.",
+        "And Jesus again crying with a loud voice, yielded up the ghost.",
+        "And behold the veil of the temple was rent in two from the top even to the bottom: and the earth quaked and the rocks were rent.",
+        "And the graves were opened: and many bodies of the saints that had slept arose,",
+        "And coming out of the tombs after his resurrection, came into the holy city and appeared to many.",
+        "Now the centurion and they that were with him watching Jesus, having seen the earthquake and the things that were done, were sore afraid, saying: Indeed this was the Son of God.",
+        "And there were there many women afar off, who had followed Jesus from Galilee, ministering unto him:",
+        "Among whom was Mary Magdalen and Mary the mother of James and Joseph and the mother of the sons of Zebedee.",
+        "And when it was evening, there came a certain rich man of Arimathea, named Joseph, who also himself was a disciple of Jesus.",
+        "He went to Pilate and asked the body of Jesus. Then Pilate commanded that the body should be delivered.",
+        "And Joseph taking the body wrapped it up in a clean linen cloth:",
+        "And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument and went his way.",
+        "And there was there Mary Magdalen and the other Mary, sitting over against the sepulchre.",
+        "And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate, The day of preparation... The eve of the sabbath; so called, because on that day they prepared all things necessary; not being allowed so much as to dress their meat on the sabbath day.",
+        "Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.",
+        "Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away and say to the people: He is risen from the dead. And the last error shall be worse than the first.",
+        "Pilate saith to them: You have a guard. Go, guard it as you know.",
+        "And they departing, made the sepulchre sure, sealing the stone and setting guards."
+      ],
+      "lineRefs": [
+        "26:14",
+        "26:15",
+        "26:16",
+        "26:17",
+        "26:18",
+        "26:19",
+        "26:20",
+        "26:21",
+        "26:22",
+        "26:23",
+        "26:24",
+        "26:25",
+        "26:26",
+        "26:27",
+        "26:28",
+        "26:29",
+        "26:30",
+        "26:31",
+        "26:32",
+        "26:33",
+        "26:34",
+        "26:35",
+        "26:36",
+        "26:37",
+        "26:38",
+        "26:39",
+        "26:40",
+        "26:41",
+        "26:42",
+        "26:43",
+        "26:44",
+        "26:45",
+        "26:46",
+        "26:47",
+        "26:48",
+        "26:49",
+        "26:50",
+        "26:51",
+        "26:52",
+        "26:53",
+        "26:54",
+        "26:55",
+        "26:56",
+        "26:57",
+        "26:58",
+        "26:59",
+        "26:60",
+        "26:61",
+        "26:62",
+        "26:63",
+        "26:64",
+        "26:65",
+        "26:66",
+        "26:67",
+        "26:68",
+        "26:69",
+        "26:70",
+        "26:71",
+        "26:72",
+        "26:73",
+        "26:74",
+        "26:75",
+        "27:1",
+        "27:2",
+        "27:3",
+        "27:4",
+        "27:5",
+        "27:6",
+        "27:7",
+        "27:8",
+        "27:9",
+        "27:10",
+        "27:11",
+        "27:12",
+        "27:13",
+        "27:14",
+        "27:15",
+        "27:16",
+        "27:17",
+        "27:18",
+        "27:19",
+        "27:20",
+        "27:21",
+        "27:22",
+        "27:23",
+        "27:24",
+        "27:25",
+        "27:26",
+        "27:27",
+        "27:28",
+        "27:29",
+        "27:30",
+        "27:31",
+        "27:32",
+        "27:33",
+        "27:34",
+        "27:35",
+        "27:36",
+        "27:37",
+        "27:38",
+        "27:39",
+        "27:40",
+        "27:41",
+        "27:42",
+        "27:43",
+        "27:44",
+        "27:45",
+        "27:46",
+        "27:47",
+        "27:48",
+        "27:49",
+        "27:50",
+        "27:51",
+        "27:52",
+        "27:53",
+        "27:54",
+        "27:55",
+        "27:56",
+        "27:57",
+        "27:58",
+        "27:59",
+        "27:60",
+        "27:61",
+        "27:62",
+        "27:63",
+        "27:64",
+        "27:65",
+        "27:66"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 26:14—27:66",
+      "reference": "Matthew 26:14—27:66",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "RED",
+        "source": "c",
+        "rank": "SUNDAY",
+        "name": "Palm Sunday",
+        "key": "palmSunday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/29.html",
+    "title": "Gospel and Word of the Day - 29 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-29"
+}
