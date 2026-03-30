@@ -1,0 +1,248 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "406ef8209264586a26b143a0f287c000f565b69757003864b418a4e3c6c26991",
+        "inputSha256": "dc183f11e1a99a2698cbbf0683322663ba468507ecb32706a86c0f7dcc03fb6b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "30a20261229052dd60a80f436393e5699e86fba5ba7258b8a2ce54cbd6f8fd9a",
+        "inputSha256": "6d4026ebc5dbe5223a3e81c9570257613f1c7175e9492e374d5575f77b0d4a5b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d1889250cd53f9507fbcbcbb83270ad5515765c4d3e58a633afc0e8e01fc615c",
+        "inputSha256": "18519b4718f6e9645dab9025837a85bfe9bcd786e3c5030592c936ae4148ae29",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-30T01:56:14.409Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Isaiah’s gentle servant who refuses spectacle and heals without crushing what’s already bruised has close kinship with the Taoist sage who acts by non-coercion and lets virtue work quietly, and with the Buddhist bodhisattva whose power is expressed as restraint and mercy rather than dominance. The “light to the nations” that opens blind eyes parallels the Yogācāra image of turning consciousness from distortion to seeing-as-it-is, and the Upanishadic move from avidyā to sight.\n\nJohn’s nard poured out as pure, costly attention—wasteful to accountants, fitting to lovers—resembles bhakti offerings in Hindu practice where fragrance and expense are the point because the gift is the self. Judas’s moralizing thrift reads like the Zen warning about “compassion talk” used to protect ego and appetite. The desire to kill Lazarus because his living body is evidence echoes the Socratic pattern: when a life becomes an argument, institutions try to silence the argument by destroying the life.",
+    "excursus": "Isaiah sells a fantasy of power without noise: the perfect agent who doesn’t raise his voice, doesn’t bruise what’s already bruised, and yet somehow installs judgment everywhere. It reads like an advertisement for painless domination. The dread is that this “gentle” servant is still an instrument, upheld, gripped by the hand, preserved for a purpose. Breath is given, then claimed.\n\nJohn stages the same conquest as a scent. Mary spends a fortune on a body that is already marked for disposal, flooding the room with an odor that won’t wash out. It’s not charity; it’s possession, devotion as tactile hunger. Judas’s complaint is vulgar because it’s plausible: money could have changed hands, soothed consciences, managed need. Jesus refuses the moral accounting and blesses waste, because the point is not relief but burial.\n\nLazarus sits there as living evidence, and that’s precisely why they want him dead. Resurrection becomes a threat to the system of scarcity and control; it produces surplus belief. The “light to the Gentiles” is not comfort but exposure. Open eyes, open cells, and the prison responds the only way it knows: with a second murder to restore the dark.",
+    "synthesis": "God’s chosen servant rules by gentleness and truth, and his nearness provokes both worship and murderous rejection. Christ himself is the covenant: the light that frees captives and draws a separating judgment.",
+    "gospel": [
+      {
+        "text": "The scene stages Passover’s approach: a meal beside a resurrected man becomes a public referendum on Jesus. The burial note fixes the act in the logic of impending death, while the crowd’s curiosity turns into belief—producing the political backlash that escalates toward the cross.",
+        "lines": [
+          1,
+          2,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The portrait is an anti-conqueror whose rule advances without coercive acoustics; creation-language (heavens stretched, breath given) grounds his commission so that liberation of prisoners is not mere policy but an act consonant with how the world was made.",
+        "lines": [
+          2,
+          4,
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Servant-language: majesty chooses the grammar of obedience; election is named without explaining it.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Power refuses the theatrics of power: the fragile is handled as evidence, not waste.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Covenant is personed: not terms but a man; “light” is assigned, not discovered.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Excess as confession: value poured out where utility would count it; fragrance becomes argument.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vice weaponizes charity-talk: theft dressed in moral arithmetic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Resurrection creates liabilities: to erase the sign, they target the living proof.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our weak hope by the power of the Passion of your Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our weak hope by the power of the Passion of your Son. Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our weak hope by the power of the Passion of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our feeble hope by the power of the Passion of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our weak hope by the power of the Passion of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, look upon the frailty of our nature, and raise up our weak hope by the strength of the Passion of your Son. Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and sprout for the harvest of eternal life. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Behold my servant, I will uphold him: my elect, my soul delighteth in him: I have given my spirit upon him, he shall bring forth judgment to the Gentiles. My servant... Christ, who according to his humanity, is the servant of God.",
+        "He shall not cry, nor have respect to person, neither shall his voice be heard abroad.",
+        "The bruised reed he shall not break, and smoking flax he shall not quench, he shall bring forth judgment unto truth.",
+        "He shall not be sad, nor troublesome, till he set judgment in the earth, and the islands shall wait for his law.",
+        "Thus saith the Lord God that created the heavens, and stretched them out: that established the earth, and the things that spring out of it: that giveth breath to the people upon it, and spirit to them that tread thereon.",
+        "I the Lord have called thee in justice, and taken thee by the hand, and preserved thee. And I have given thee for a covenant of the people, for a light of the Gentiles:",
+        "That thou mightest open the eyes of the blind, and bring forth the prisoner out of prison, and them that sit in darkness out of the prison house."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 42:1-7",
+      "reference": "Isaiah 42:1-7",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Jesus therefore, six days before the pasch, came to Bethania, where Lazarus had been dead, whom Jesus raised to life.",
+        "And they made him a supper there: and Martha served. But Lazarus was one of them that were at table with him.",
+        "Mary therefore took a pound of ointment of right spikenard, of great price, and anointed the feet of Jesus and wiped his feet with her hair. And the house was filled with the odour of the ointment.",
+        "Then one of his disciples, Judas Iscariot, he that was about to betray him, said:",
+        "Why was not this ointment sold for three hundred pence and given to the poor?",
+        "Now he said this not because he cared for the poor; but because he was a thief and, having the purse, carried the things that were put therein.",
+        "Jesus therefore said: Let her alone, that she may keep it against the day of my burial.",
+        "For the poor you have always with you: but me you have not always. See the annotation of St. Matt. 26. 11.",
+        "A great multitude therefore of the Jews knew that he was there; and they came, not for Jesus' sake only, but that they might see Lazarus, whom he had raised from the dead.",
+        "But the chief priests thought to kill Lazarus also:",
+        "Because many of the Jews, by reason of him, went away and believed in Jesus."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 12:1-11",
+      "reference": "John 12:1-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "HOLY_WEEK",
+        "name": "Monday of Holy Week",
+        "key": "mondayOfHolyWeek"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/30.html",
+    "title": "Gospel and Word of the Day - 30 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-30"
+}
