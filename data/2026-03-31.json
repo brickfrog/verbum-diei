@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0d6d30c234291e11a7f2b7d0780acb003135e260ec5522d63852cb3086783bbc",
+        "inputSha256": "81e5887e5b58d4fbef5d8cd32b8e18dc65af77977cadd327ca04a7bb3a08829d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f4c9e7fba2ef6d6ddb6fa6106c933e0cfcdec3b6ea6c74363fbce09a08004b0f",
+        "inputSha256": "a51601310b9736a9d4898e0a5463f98de6602a19be60ba58a143c5a96678e139",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8f906a27ef4b7eb2947190418ef836f1496349b84c8cfce333d51b9a20eb88a1",
+        "inputSha256": "c5c8b951f37f5859824e47370f73c3f8d0101ebdc2d83ae6bf10790a4eb6d43e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-03-31T01:55:41.207Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “called from the womb” voice has kinship with the Hindu sense of svadharma: a life-task that precedes choice and still burns through disappointment; the “sharp sword” mouth matches the Bhagavad Gita’s unflinching speech that cuts illusion (speculation). “Hidden in the quiver” feels like Taoist wu-wei: power kept sheathed, timed, conserved, acting by season rather than impulse (speculation).\n\n“Light to the Gentiles” resonates with Mahayana bodhisattva vows to turn outward beyond one’s own clan and toward all beings, not by conquest but by radiance; the widening of mission after felt futility also echoes the Zen pattern where failure breaks the small self and opens the larger one (speculation).\n\nThe dipped bread handed to the betrayer has a parallel in Sufi readings of intimacy as ordeal: nearness intensifies what is already in the heart, so love can become either surrender or revolt; Judas is not tempted from outside so much as disclosed from within (speculation). “It was night” aligns with the Dark Night in St. John of the Cross and with the Buddhist image of ignorance as darkness, where the decisive act is made under diminished sight.\n\nPeter’s vow and collapse resemble the Stoic discovery that intention is not yet virtue; willpower breaks at the first real pressure, and only training makes steadiness. The threefold denial recalls the three poisons in Buddhism—grasping, aversion, delusion—cycling through the same fear in different masks (speculation).",
+    "excursus": "Isaiah’s servant is not a hero but a weapon that has been kept in the dark too long. Called from the womb, named before consent, he is honed into a mouth that cuts, an arrow that waits. His first honest speech is exhaustion: I have laboured in vain. The grand vocation feels like wasted life, a performance for a glory that isn’t his. Then the task expands obscenely—Israel isn’t even gathered, so he’s pushed outward to strangers, a light for people who never asked for him. Salvation here is not comfort; it is overexposure, the self drafted into a project too large to be lived without resentment.\n\nJohn stages the same dread at a table. Jesus is “troubled in spirit” because he knows love cannot be kept clean. The sign of intimacy is a dipped morsel placed directly into Judas, and the result is possession: Satan enters. Betrayal is not outside the circle; it is fed by the hand that blesses. “Do quickly” is not strategy but desire for the wound to open, for the suspense to end. Night falls the moment Judas leaves because the community needs someone to carry its forbidden will.\n\nPeter’s devotion is the other face of betrayal. He wants to follow now, to turn love into spectacle, to make the story about his courage. Jesus refuses him not as a moralist but as a diagnostician: you cannot bear what you claim to want. The cockcrow is the sound of the self snapping back into survival. These readings press one insight: being chosen means being used, and the ache underneath holiness is the craving to be free of the role—even if freedom arrives only through failure.",
+    "synthesis": "God’s glory advances through a servant whose mission exceeds Israel and through a Messiah who neither is surprised by betrayal nor derailed by it. Salvation is enacted as deliberate divine self-manifestation in and through human failure.",
+    "gospel": [
+      {
+        "text": "The narrative stages a controlled disclosure: the community cannot read the sign, misinterprets motives, and so remains blind while the plot advances. Only after separation does Jesus interpret events as “glory,” relocating meaning from betrayal’s psychology to the Father-Son economy; the address “little children” marks a new pedagogical moment formed by imminent absence.",
+        "lines": [
+          2,
+          8,
+          9,
+          11,
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The servant is named “Israel” yet tasked to recover Israel; the figure concentrates the people into one representative who bears their vocation and their failure. The paradox (“Israel will not be gathered”) places success in divine glorification rather than communal response, reframing mission as God’s self-display through a contested instrument.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The horizon widens: islands, afar; vocation spoken before self-awareness—name precedes achievement.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech weaponized: mouth as sword; the servant is both projectile and concealed ordnance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A holy accusation: “in vain” said twice; faith is lodged not in outcomes but in tribunal—judgment deferred to God.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The assignment outgrows the nation: Jacob is “small”; salvation is pushed to earth’s edge, not Israel’s center.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Trouble and testimony: the betrayer is announced as fact, not discovered as surprise.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A liturgical sign turned forensic: bread becomes identification, communion becomes exposure.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Agency splits: Judas acts, Satan enters; “do quickly” accelerates the passion without baptizing the crime.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Exit equals night: moral geography—outside the table is darkness.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The boast meets the clock: denial measured, foretold, and numbered—three.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may take part so deeply in the celebrations of the Lord’s Passion that we may obtain your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may share so deeply in the celebrations of the Lord’s Passion that we may attain your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may share so deeply in the celebrations of the Lord’s Passion that we may obtain your forgiveness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may share so deeply in the celebrations of the Lord’s Passion that we may obtain your forgiveness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may share so deeply in the celebrations of the Lord’s Passion that we may obtain your forgiveness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may take part so deeply in the celebrations of the Lord’s Passion that we may obtain your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Give ear, ye islands, and hearken, ye people from afar. The Lord hath called me from the womb, from the bowels of my mother he hath been mindful of my name.",
+        "And he hath made my mouth like a sharp sword: in the shadow of his hand he hath protected me, and hath made me as a chosen arrow: in his quiver he hath hidden me.",
+        "And he said to me: Thou art my servant Israel, for in thee will I glory.",
+        "And I said: I have laboured in vain, I have spent my strength without cause and in vain: therefore my judgment is with the Lord, and my work with my God.",
+        "And now saith the Lord, that formed me from the womb to be his servant, that I may bring back Jacob unto him, and Israel will not be gathered together: and I am glorified in the eyes of the Lord, and my God is made my strength.",
+        "And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be my salvation even to the farthest part of the earth."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 49:1-6",
+      "reference": "Isaiah 49:1-6",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "When Jesus had said these things, he was troubled in spirit; and he testified, and said: Amen, amen, I say to you, one of you shall betray me.",
+        "The disciples therefore looked one upon another, doubting of whom he spoke.",
+        "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.",
+        "Simon Peter therefore beckoned to him and said to him: Who is it of whom he speaketh?",
+        "He therefore, leaning on the breast of Jesus, saith to him: Lord, who is it?",
+        "Jesus answered: He it is to whom I shall reach bread dipped. And when he had dipped the bread, he gave it to Judas Iscariot, the son of Simon.",
+        "And after the morsel, Satan entered into him. And Jesus said to him: That which thou dost, do quickly. That which thou dost, do quickly... It is not a license, much less a command, to go about his treason: but a signification to him that Christ would not hinder or resist what he was about, do it as soon as he pleased: but was both ready and desirous to suffer for our redemption.",
+        "Now no man at the table knew to what purpose he said this unto him.",
+        "For some thought, because Judas had the purse, that Jesus had said to him: Buy those things which we have need of for the festival day: or that he should give something to the poor.",
+        "He therefore, having received the morsel, went out immediately. And it was night.",
+        "When he therefore was gone out, Jesus said: Now is the Son of man glorified; and God is glorified in him.",
+        "If God be glorified in him, God also will glorify him in himself: and immediately will he glorify him.",
+        "Little children, yet a little while I am with you. You shall seek me. And as I said to the Jews: Whither I go you cannot come; so I say to you now.",
+        "Simon Peter saith to him: Lord, whither goest thou? Jesus answered: Whither I go, thou canst not follow me now: but thou shalt follow hereafter.",
+        "Peter saith to him: Why cannot I follow thee now? I will lay down my life for thee.",
+        "Jesus answered him: Wilt thou lay down thy life for me? Amen, amen, I say to thee, the cock shall not crow, till thou deny me thrice."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "36",
+        "37",
+        "38"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 13:21-33,36-38",
+      "reference": "John 13:21-33,36-38",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "HOLY_WEEK",
+        "name": "Tuesday of Holy Week",
+        "key": "tuesdayOfHolyWeek"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/03/31.html",
+    "title": "Gospel and Word of the Day - 31 March 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/03/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-03-31"
+}
