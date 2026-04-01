@@ -1,0 +1,273 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "25e75475b1e3cf834eba5a6da2608a324a9b80fb54e894ed051a3faf2a96f228",
+        "inputSha256": "96a1a6351df5fe8728fca63457aa3de259e4386acf2a450b0bea51db7eb002d9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "913e1d3a1a0233a1bc7fcef4a2b5ae49f07680563d7d84406c4e6cfbf5fec84c",
+        "inputSha256": "c513e0eb31e5ddd23458dcaf9293cdeba126e5034f360cebb98e5f02000a7dcf",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c30f29b050ff4ddb940848b3c739910b353f47cee93c833b28e80ebebb05f116",
+        "inputSha256": "925ca9240965eab7a7ebab331608c5a182ad0d55b6d4e8a4cf5bc8e96a76ec1f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-01T01:56:09.350Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s trained tongue and morning-wakened ear resemble the Hindu vāg-yoga of disciplined speech and the Upaniṣadic idea of śruti: a hearing that is not mere audition but alignment to what is real; speculation: the “opened ear” reads like a practiced receptivity rather than a miracle, closer to Zen’s cultivated attention than to command. The offered cheek and steady face echo the Jain vow of ahiṃsā and the bodhisattva’s patience (kṣānti), where dignity is preserved by refusing the aggressor’s terms; speculation: “set my face” is the psychological posture of unbreakable intention, like Stoic prohairesis, an inner assent no blow can reach.\n\nMatthew’s betrayal-for-silver sits with the Buddhist warning about taṇhā turning relationship into transaction, and with the Daoist suspicion that profit fractures the natural bond; the number is less accounting than a price tag taped to intimacy. The table scene feels like Greek tragedy’s recognition moment: the group’s “Is it I?” is conscience discovering its own capacity, the shadow shared by all; speculation: Judas’s “Rabbi” instead of “Lord” is the subtle distancing move of someone already converting a person into a role, a defense against tenderness before he cashes it in.",
+    "excursus": "Isaiah’s speaker is not a saint polishing patience; he is a man who has learned how power works. The “learned tongue” is a weapon disguised as comfort, the morning lesson a daily drilling in how to endure without flinching. He offers his back and cheeks not out of purity but out of control: if he chooses the terms of his humiliation, the blows cannot own him. “I set my face as hard rock” is the psychology of someone who survives by turning himself into an object, unfeeling, unshameable, and therefore untouchable. Help comes less as rescue than as a cold inner witness that says: they can strike, but they cannot name me.\n\nMatthew tightens the dread: betrayal is not an accident but a transaction that clarifies desire. Judas asks for a price because he needs the ache of ambiguity to become a number; silver is how he makes his envy speak. The meal is intimacy staged like a trap, shared dish and shared guilt, and the question “Is it I?” is the room admitting what it wants: someone else to carry the violence everyone feels. Jesus’ calm naming of the betrayer is not merely foreknowledge; it is an insistence that the wound be brought into the open, where it can’t pretend to be fate. Judas’ “Rabbi” is the final distance—polite, correct, and dead; he wants to be seen and forgiven without surrendering. “Thou hast said it” lands like consent to the knife: the betrayal is chosen, but it is also the one choice that lets the hidden hunger finally act.",
+    "synthesis": "God’s servant is vindicated not by escape from injury but by divine adjudication that outlasts every human sentence. Christ’s Passion is neither surprise nor mere conspiracy: it is foreknown obedience that exposes betrayal at the heart of communion.",
+    "gospel": [
+      {
+        "text": "Two currents run simultaneously: human plotting and a timetable. Judas moves by calculation and opportunity (1,3), while Jesus speaks in terms of “my time” and gives logistical directives that are obeyed without comprehension (5–7). The disciples’ self-suspicion (9) shows a community destabilized: betrayal is not merely an external threat but a revelation that the heart is opaque even to itself.",
+        "lines": [
+          1,
+          3,
+          5,
+          6,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The speaker shifts from endurance to litigation. The challenge—“who will contend?”—frames suffering as a contested verdict, with God positioned as the proximate advocate; the scene is a courtroom where the accusers must approach and be unmasked by their inability to sustain a case.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Speech is issued for the weary; the ear is trained before the tongue is trusted.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Obedience is described as non-resistance, not as enthusiasm.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The body is handed over in advance; violence is received as liturgy, not accident.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Face as rock”: interior verdict cancels exterior shame.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Condemnation rots like cloth; time itself becomes judgment (moth-work).",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A price is named; betrayal is rendered in cash, not in reasons.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Unleavened bread: haste without fermentation—purity that can still host treachery.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The traitor is announced at table; intimacy is the crime scene.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Shared dish, shared guilt: proximity is the identifier, not proof.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Rabbi” not “Lord”: the title chosen reveals the distance already taken.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who, to deliver us from the power of the enemy, willed that your Son should die on the cross, grant that we may attain the grace of the resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who, to deliver us from the power of the enemy, willed that your Son should die on the cross, grant that we may attain the grace of the resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who, to deliver us from the power of the enemy, willed that your Son should die on the cross, grant that we may attain the grace of the resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who, to deliver us from the power of the enemy, willed that your Son should die on the cross, grant that we may attain the grace of the resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who to deliver us from the power of the enemy willed that your Son should die on the cross, grant us to attain the grace of the resurrection. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who, to deliver us from the power of the enemy, willed that your Son should die upon the cross, grant that we may attain the grace of the resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, who are meek and humble of heart and offer those who come to you an easy yoke and a light burden, deign, then, to accept the desires and the deeds of the day we have now ended; grant that we may rest through the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The Lord hath given me a learned tongue, that I should know how to uphold by word him that is weary: he wakeneth in the morning, in the morning he wakeneth my ear, that I may hear him as a master.",
+        "The Lord God hath opened my ear, and I do not resist: I have not gone back.",
+        "I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.",
+        "The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded.",
+        "He is near that justifieth me, who will contend with me? let us stand together, who is my adversary? let him come near to me.",
+        "Behold the Lord God is my helper: who is he that shall condemn me? Lo, they shall all be destroyed as a garment, the moth shall eat them up."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 50:4-9",
+      "reference": "Isaiah 50:4-9",
+      "heading": "A reading from the book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then went one of the twelve, who was called Judas Iscariot, to the chief priests.",
+        "And said to them: What will you give me, and I will deliver him unto you? But they appointed him thirty pieces of silver.",
+        "And from thenceforth he sought opportunity to betray him.",
+        "And on the first day of the Azymes, the disciples came to Jesus, saying: Where wilt thou that we prepare for thee to eat the pasch? Azymes... Feast of the unleavened bread. Pasch... The paschal lamb.",
+        "But Jesus said: Go ye into the city to a certain man and say to him: The master saith, My time is near at hand. With thee I make the pasch with my disciples.",
+        "And the disciples did as Jesus appointed to them: and they prepared the pasch.",
+        "But when it was evening, he sat down with his twelve disciples.",
+        "And whilst they were eating, he said: Amen I say to you that one of you is about to betray me.",
+        "And they being very much troubled began every one to say: Is it I, Lord?",
+        "But he answering said: He that dippeth his hand with me in the dish, he shall betray me.",
+        "The Son of man indeed goeth, as it is written of him. But woe to that man by whom the Son of man shall be betrayed. It were better for him, if that man had not been born.",
+        "And Judas that betrayed him answering, said: Is it I, Rabbi? He saith to him: Thou hast said it."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 26:14-25",
+      "reference": "Matthew 26:14-25",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "PURPLE",
+        "source": "l",
+        "rank": "HOLY_WEEK",
+        "name": "Wednesday of Holy Week",
+        "key": "wednesdayOfHolyWeek"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/01.html",
+    "title": "Gospel and Word of the Day - 01 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-01"
+}
