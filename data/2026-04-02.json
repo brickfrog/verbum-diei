@@ -1,0 +1,286 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "cfc997dd5c103ec82d0e10a9e74c0d291773406f9561a1bcfce7f415845bef40",
+        "inputSha256": "ce093cda35702ad3d3b3a3d5ff4969a291bd25a59b74e0c126aa046c558f46c8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7b29db1f874ddac1709a7e35643e47e0bd6f60f6f81af5e11b1f0ec443e318d6",
+        "inputSha256": "6ced718e971bd9995b9d8f9e31dfc6dc6c709c1eef58c9918ac18510479583c2",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "934ee3271f37eef4969f23b0e175f8bf47b76f73e01d7f5a38d1a39a168319ca",
+        "inputSha256": "6fce58e411ee36052ee17144d3d0741b7f30840fa548cb21f2ecc4d731e7fef0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-02T01:55:38.949Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This scene fuses two human technologies for defeating panic: ritual repetition and enacted humility. The meal-word makes grief portable; you can carry the loss forward without dissolving into it. The foot-washing makes power inhabitable; authority sheds its costume, touches what is socially low, and proves it can descend without ceasing to be itself. Together they form a psyche where belonging is not secured by purity displays but by consenting to be handled, cleansed, and then sent to do the same.\n\nSpeculation: the “do this” cadence resembles the Jewish Passover’s anamnesis and the Haggadah’s insistence that memory becomes participation, not nostalgia. The basin gesture echoes Hindu and Buddhist guru seva and the washing of guests’ feet in ancient hospitality codes, where reverence is shown through service rather than flattery. The clean/not-all-clean tension has kinship with Stoic prohairesis and Buddhist karma: outward proximity to the good does not guarantee inward alignment. The vow-like refusal and reversal in Peter recalls Zen’s pedagogical shock and Sufi adab, where the disciple’s pride must be tenderly broken to enter the circle.",
+    "excursus": "This is not a love story that calms. It is a controlled descent. The night is named by betrayal first, and everything tender is staged inside that fact. Bread and cup are not consolations; they are a method for keeping the wound open. “Do this” means repeat the loss until it becomes your language. You don’t remember him; you rehearse his death, publicly, compulsively, “until he come,” an ending that never arrives inside the ritual. Desire is trained to circle an absence.\n\nJohn’s scene sharpens the dread. The one who “has all things into his hands” uses those hands to touch the dirty, intimate parts people hide. The towel is a kind of leash; the basin a silent verdict on the body. Peter’s refusal is shame speaking: don’t cross that boundary. Jesus answers like a lover and a threat: let me humiliate you or you have no part in me. Peter swings to excess, begging for total washing, because partial intimacy is unbearable.\n\n“You are clean, but not all” is the cruel line. Cleanliness is not purity; it is belonging, and it is granted while the betrayer is still in the room. The community is founded with an infection included. The example is not sentimental service; it is the replication of power’s strangest move: to own others by kneeling, to bind them by lowering oneself, to make them indebted to tenderness. The command to wash each other’s feet is the command to repeat that uncomfortable intimacy—again and again—until love and dread are indistinguishable.",
+    "synthesis": "Christ institutes communion with himself through covenantal signs that both proclaim his death and bind his disciples into a commanded pattern of humble service. Participation is conditional on receiving his cleansing, and that cleansing obligates imitation under his lordship.",
+    "gospel": [
+      {
+        "text": "John stages the footwashing as a deliberate sign-act inside Jesus’ self-knowledge: he acts from origin and destination (“came from God… goeth to God”), so abasement is not loss but disclosure of divine power. The question in line 12 turns the event into instruction: imitation is commanded, yet grounded in asymmetry—Lord remains Lord while kneeling, establishing a hierarchy that obligates service rather than dissolving rank.",
+        "lines": [
+          1,
+          3,
+          12,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "The scene is contested pedagogy: Judas is already in motion; Peter oscillates between resistance and excess. Jesus governs the timing of understanding (“not now… hereafter”), implying that participation precedes comprehension and that discipleship is learned by undergoing, not by negotiating terms.",
+        "lines": [
+          2,
+          6,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames the Eucharist as an entrusted deposit that makes the community public: repetition is not private devotion but the Church’s standing testimony in history. The horizon “until he come” makes every celebration eschatological—an interim regime ordered to return, not completion.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "The actions and words bind body and blood to a juridical-act: “new testament” is not metaphor but enactment. The community’s identity is constituted by a covenantal performance, not by shared sentiment.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Tradition as receipt: received, then delivered; betrayal sets the table.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Thanksgiving precedes fracture; gift arrives as breakage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Covenant moved into a cup; law rewritten as blood-memory.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rite is proclamation: you “show” a death, and time is stretched by “until”.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority undresses; sovereignty chooses a towel.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal is exclusion: no washing, no share.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Clean, yet unfinished: the feet remain the recurring problem.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Impurity is personal; betrayal has a name even when unstated.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Titles conceded, then weaponized against pride.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our salvation, Lord, is to love you and cherish you; grant us the abundance of your gifts, and as through the death of your Son we hope to attain what our faith promises us, through his glorious resurrection grant that we may obtain what our heart desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our salvation, Lord, is to love you and cherish you; grant us the abundance of your gifts, and just as through the death of your Son we hope to attain what our faith promises, so by his glorious resurrection grant us to obtain what our heart desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our salvation, Lord, is to love you and to cherish you; grant us the abundance of your gifts, and, just as through the death of your Son we hope to attain what our faith promises, through his glorious resurrection grant us to obtain what our heart desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our salvation, Lord, is to love you and cherish you; grant us the abundance of your gifts, and, just as through the death of your Son we hope to attain what our faith promises us, so by his glorious resurrection grant us to obtain what our heart desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our salvation, Lord, is to love you and cherish you; grant us in abundance your gifts, and as through the death of your Son we hope to attain what our faith promises us, so by his glorious resurrection grant us to obtain what our heart desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who for your glory and the salvation of mankind appointed Christ the supreme and eternal High Priest, grant that the Christian people, won for you by the precious blood of your Son, may receive in the Eucharist, the memorial of the Lord, the fruit of the Passion and Resurrection of Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For I have received of the Lord that which also I delivered unto you, that the Lord Jesus, the same night in which he was betrayed, took bread,",
+        "And giving thanks, broke and said: Take ye and eat: This is my body, which shall be delivered for you. This do for the commemoration of me.",
+        "In like manner also the chalice, after he had supped, saying: This chalice is the new testament in my blood. This do ye, as often as you shall drink, for the commemoration of me.",
+        "For as often as you shall eat this bread and drink the chalice, you shall shew the death of the Lord, until he come."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 11:23-26",
+      "reference": "1 Corinthians 11:23-26",
+      "heading": "A reading from the Letter of St. Paul to the Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Before the festival day of the pasch, Jesus knowing that his hour was come, that he should pass out of this world to the Father: having loved his own who were in the world, he loved them unto the end. Before the festival day of the pasch... This was the fourth and last pasch of the ministry of Christ, and according to the common computation, was in the thirty-third year of our Lord: and in the year of the world 4036. Some chronologers are of opinion that our Saviour suffered in the thirty-seventh year of his age: but these different opinions on this subject are of no consequence.",
+        "And when supper was done (the devil having now put into the heart of Judas Iscariot, the son of Simon, to betray him),",
+        "Knowing that the Father had given him all things into his hands and that he came from God and goeth to God,",
+        "He riseth from supper and layeth aside his garments and, having taken a towel, girded himself.",
+        "After that, he putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith he was girded.",
+        "He cometh therefore to Simon Peter. And Peter saith to him: Lord, dost thou wash my feet?",
+        "Jesus answered and said to him: What I do, thou knowest not now; but thou shalt know hereafter.",
+        "Peter saith to him: Thou shalt never wash my feet, Jesus answered him: If I wash thee not, thou shalt have no part with me.",
+        "Simon Peter saith to him: Lord, not only my feet, but also my hands and my head.",
+        "Jesus saith to him: He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all.",
+        "For he knew who he was that would betray him; therefore he said: You are not all clean.",
+        "Then after he had washed their feet and taken his garments, being set down again, he said to them: Know you what I have done to you?",
+        "You call me Master and Lord. And you say well: for so I am.",
+        "If then I being your Lord and Master, have washed your feet; you also ought to wash one another's feet.",
+        "For I have given you an example, that as I have done to you, so you do also."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 13:1-15",
+      "reference": "John 13:1-15",
+      "heading": "From thw Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "TRIDUUM"
+        ],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "TRIDUUM",
+        "name": "Holy Thursday",
+        "key": "holyThursday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/02.html",
+    "title": "Gospel and Word of the Day - 02 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-02"
+}
