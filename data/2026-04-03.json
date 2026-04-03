@@ -1,0 +1,523 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bf0eadc574d8036227a195fe384eb8d465aca2eb705a109b5361025cf2a0bbe7",
+        "inputSha256": "8e0ec1746dd363df72cdae4a141680a9ff50d098b049ef159c727b44b95e42f6",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "cfdd0dc24b40b89e3ae87c696873e98a4d62c3f51479623dfd82c391ac7132c4",
+        "inputSha256": "b9e910a5e8f5dd89422388fea9e03382e68245146bede0053cbbe9fde31d2b9f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c2c33a7ff23092941cf7e3bc8ebebed18f7308baae7057567504d13b829d6ea3",
+        "inputSha256": "999a76fadecc53ca8c61f6d9c1c136a98c41ae030b4424d88e53f57d10eb1a65",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-03T01:55:33.915Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: the Servant’s disfigurement and quiet consent echoes the Bodhisattva ideal in Mahayana, where compassion accepts injury without retaliation, and the Jataka tales where a life is spent to spare others. The “man of sorrows” also resembles the Hindu motif of the world-bearer—Shiva as the one who drinks poison for the cosmos—less as payment, more as metabolizing what would kill the many.\n\nSpeculation: John’s “I am” that knocks armed men backward has kinship with the Bhagavad Gita’s theophany, a flash of absolute presence that makes power buckle, and with Sufi fana, where the ego collapses before the Real. Pilate’s “What is truth?” feels like the koan tradition in Zen: not cynicism but the mind’s last defense against a truth that cannot be managed.\n\nSpeculation: the refusal of the sword and the chosen cup parallels Stoic assent to fate and the Taoist wu-wei of yielding that outlasts force, while the pierced side pouring blood and water recalls Dionysian and Orphic images of life poured out to remake a community—violent, yet transfiguring in its psychic effect.",
+    "excursus": "Isaiah’s servant is not a savior offered to satisfy heaven; he is the perfect instrument for a community that cannot bear its own guilt without making it visible. They need a body to hold what they feel but refuse to name, so they choose the one with “no beauty,” the one already easy to ignore, and then call their violence healing. The line that should chill you is not that he suffers, but that “the Lord was pleased to bruise him”: the sacred becomes the community’s permission slip, the metaphysical stamp that turns cruelty into meaning.\n\nJohn stages the same psychology with colder precision. Jesus does not get dragged to death; he walks into it, knowing, speaking, and the armed men fall backward as if his consent is the true force in the scene. His silence is not meekness; it is control. Peter’s denials by the coal fire are the ordinary heart’s instinct: stay warm, stay safe, let someone else be the cost.\n\nThe dread is that the cross works because everyone needs it to work. Pilate wants innocence without responsibility, the priests want purity without mercy, the crowd wants a king they can hate, the disciples want love without risk. “It is consummated” lands like the closing of a transaction: the world finally gets the victim it has been craving, and calls the relief redemption.",
+    "synthesis": "The Servant’s abasement is the chosen instrument of divine rule, whereby guilt is transferred and many are justified. In the Passion, Jesus remains sovereign even in surrender, and his death completes Scripture as a deliberate act.",
+    "gospel": [
+      {
+        "text": "John narrates control through concession: Jesus yields himself while actively delimiting the arrest’s reach (“let these go”), and fulfillment language turns contingency into design. The Passion is portrayed less as tragedy than as execution of a prior word.",
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Legal theater dominates: purity scruples outside the hall coexist with a push for death they cannot legally perform. Responsibility is dispersed across jurisdictions, yet the text keeps dragging it back to the revealed shape of Jesus’ own death as the governing explanation.",
+        "lines": [
+          28,
+          31,
+          32
+        ]
+      },
+      {
+        "text": "The charge escalates from politics to theology (“Son of God”), and Jesus answers political power with a doctrine of delegated authority. The narrative assigns comparative guilt without dissolving any agent into fate: degrees of sin exist inside a providential frame.",
+        "lines": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "Scripture fulfillment is attached to mundane acts—garment division, unbroken bones, a pierced body—so that material details become textual signals. The crucified body is treated as a site where Israel’s writings find their literal completion.",
+        "lines": [
+          63,
+          64,
+          76,
+          77
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from spectacle to mission: the servant’s work spills past Israel toward “many nations,” and the reaction of kings is not devotion but speechlessness. The narrative assumes history will be instructed after the fact, by an event no audience initially requested.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The text insists on a misreading built into religious perception: affliction is interpreted as divine curse. That false inference becomes part of the mechanism by which the servant is rejected and yet effective.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Two logics are held together: removal by “judgment” and the later justification of “many.” The servant’s efficacy is not rhetorical persuasion but a transfer enacted through suffering; knowledge here is not information but the servant’s enacted competence to set others right.",
+        "lines": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Exaltation announced before humiliation narrated: glory as thesis, suffering as proof.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Visage ruined: the scandal is aesthetic before it is moral.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation measured by disbelief; “arm” appears as weakness.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Root in dry ground: life without tribute from the world.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peace purchased by chastisement; healing by bruises: commerce of opposites.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Collective drift, singular burden: many roads, one scapegoat.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Silence is not defeat but liturgy: the lamb refuses self-justification.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Assigned the wicked, paired with the rich: burial contradicts the verdict.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Lord “pleased” to bruise: sovereignty stated without sentimentality.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Spoils to the dead: victory described in the grammar of war after surrender.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Garden begun, garden ended: the Passion framed as cultivated ground.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I am”: identification becomes the trigger; Judas stands inside the answer.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Arresting force collapses at a word: authority is inverted before it is bound.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sword forbidden; chalice accepted: violence displaced by vocation.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peter’s “I am not” against Christ’s “I am”: a negation as self-preservation.",
+      "lines": [
+        17
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fire of coals: warmth bought with proximity to betrayal.",
+      "lines": [
+        18
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kingship defined as testimony: sovereignty recast as speech under trial.",
+      "lines": [
+        37
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Behold the Man”: enthronement as exposure; humanity as the charge.",
+      "lines": [
+        45
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look, O Lord, in your goodness, upon your holy family, for whom Jesus Christ our Lord accepted the torment of the cross, giving himself over to his own enemies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look with kindness, Lord, upon your holy family, for whom Jesus Christ our Lord accepted the torment of the cross, surrendering himself to his own enemies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look with kindness, Lord, upon your holy family, for whom Jesus Christ our Lord accepted the torment of the cross, handing himself over to his own enemies. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look, Lord, in your goodness, upon your holy family, for whom Jesus Christ, our Lord, accepted the torment of the cross, surrendering himself into the hands of his own enemies. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look, Lord in your goodness, upon your holy family, for whom Jesus Christ our Lord accepted the torment of the cross, handing himself over to his own enemies. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look with kindness, Lord, upon your holy family, for whom Jesus Christ our Lord accepted the torment of the cross, giving himself over to his own enemies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may imitate him also by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Behold my servant shall understand, he shall be exalted, and extolled, and shall be exceeding high.",
+        "As many have been astonished at thee, so shall his visage be inglorious among men, and his form among the sons of men.",
+        "He shall sprinkle many nations, kings shall shut their mouth at him: for they to whom it was not told of him, have seen: and they that heard not, have beheld.",
+        "Who a hath believed our report? and to whom is the arm of the Lord revealed?",
+        "And he shall grow up as a tender plant before him, and as a root out of a thirsty ground: there is no beauty in him, nor comeliness: and we have seen him, and there was no sightliness, that we should be desirous of him:",
+        "Despised, and the most abject of men, a man of sorrows, and acquainted with infirmity: and his look was as it were hidden and despised, whereupon we esteemed him not.",
+        "Surely he hath borne our infirmities and carried our sorrows: and we have thought him as it were a leper, and as one struck by God and afflicted.",
+        "But he was wounded for our iniquities, he was bruised for our sins: the chastisement of our peace was upon him, and by his bruises we are healed.",
+        "All we like sheep have gone astray, every one hath turned aside into his own way: and the Lord hath laid on him the iniquity of us all.",
+        "He was offered because it was his own will, and he opened not his mouth: he shall be led as a sheep to the slaughter, and shall be dumb as a lamb before his shearer, and he shall not open his mouth.",
+        "He was taken away from distress, and from judgment: who shall declare his generation? because he is cut off out of the land of the living: for the wickedness of my people have I struck him.",
+        "And he shall give the ungodly for his burial, and the rich for his death: because he hath done no iniquity, neither was there deceit in his mouth.",
+        "And the Lord was pleased to bruise him in infirmity: if he shall lay down his life for sin, he shall see a longlived seed, and the will of the Lord shall be prosperous in his hand.",
+        "Because his soul hath laboured, he shall see and be filled: by his knowledge shall this my just servant justify many, and he shall bear their iniquities.",
+        "Therefore will I distribute to him very many, and he shall divide the spoils of the strong, because he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors."
+      ],
+      "lineRefs": [
+        "52:13",
+        "52:14",
+        "52:15",
+        "53:1",
+        "53:2",
+        "53:3",
+        "53:4",
+        "53:5",
+        "53:6",
+        "53:7",
+        "53:8",
+        "53:9",
+        "53:10",
+        "53:11",
+        "53:12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 52:13—53:12",
+      "reference": "Isaiah 52:13—53:12",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "When Jesus had said these things, he went forth with his disciples over the brook Cedron, where there was a garden, into which he entered with his disciples.",
+        "And Judas also, who betrayed him, knew the place: because Jesus had often resorted thither together with his disciples.",
+        "Judas therefore having received a band of soldiers and servants from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons.",
+        "Jesus therefore, knowing all things that should come upon him, went forth and said to them: Whom seek ye?",
+        "They answered him: Jesus of Nazareth. Jesus saith to them: I am he. And Judas also, who betrayed him, stood with them.",
+        "As soon therefore as he had said to them: I am he; they went backward and fell to the ground.",
+        "Again therefore he asked them: Whom seek ye? And they said: Jesus of Nazareth.",
+        "Jesus answered: I have told you that I am he. If therefore you seek me, let these go their way,",
+        "That the word might be fulfilled which he said: Of them whom thou hast given me, I have not lost any one.",
+        "Then Simon Peter, having a sword, drew it and struck the servant of the high priest and cut off his right ear. And the name of thee servant was Malchus.",
+        "Jesus therefore said to Peter: Put up thy sword into the scabbard. The chalice which my father hath given me, shall I not drink it?",
+        "Then the band and the tribune and the servants of the Jews took Jesus and bound him.",
+        "And they led him away to Annas first, for he was father-in-law to Caiphas, who was the high priest of that year.",
+        "Now Caiphas was he who had given the counsel to the Jews: That it was expedient that one man should die for the people.",
+        "And Simon Peter followed Jesus: and so did another disciple. And that disciple was known to the high priest and went in with Jesus into the court of the high priest.",
+        "But Peter stood at the door without. The other disciple therefore, who was known to the high priest, went out and spoke to the portress and brought in Peter.",
+        "The maid therefore that was portress saith to Peter: Art not thou also one of this man's disciple? He saith I am not.",
+        "Now the servants and ministers stood at a fire of coals, because it was cold, and warmed themselves. And with them was Peter also, standing and warming himself.",
+        "The high priest therefore asked Jesus of his disciples and of his doctrine.",
+        "Jesus answered him: I have spoken openly to the world. I have always taught in the synagogue and in the temple, whither all the Jews resort: and in secret I have spoken nothing.",
+        "Why askest thou me? Ask them who have heard what I have spoken unto them. Behold they know what things I have said.",
+        "And when he had said these things, one of the servants standing by gave Jesus a blow, saying: Answerest thou the high priest so?",
+        "Jesus answered him: If I have spoken evil, give testimony of the evil; but if well, why strikest thou me?",
+        "And Annas sent him bound to Caiphas the high priest.",
+        "And Simon Peter was standing and warming himself. They said therefore to him: Art not thou also one of his disciples? He denied it and said: I am not.",
+        "One of the servants of the high priest (a kinsman to him whose ear Peter cut off) saith to him: Did not I see thee in the garden with him?",
+        "Again therefore Peter denied: and immediately the cock crew.",
+        "Then they led Jesus from Caiphas to the governor's hall. And it was morning: and they went not into the hall, that they might not be defiled, but that they might eat the pasch.",
+        "Pilate therefore went out to them, and said: What accusation bring you against this man?",
+        "They answered and said to him: If he were not a malefactor, we would not have delivered him up to thee.",
+        "Pilate therefore said to them: Take him you, and judge him according to your law. The Jews therefore said to him: It is not lawful for us to put any man to death.",
+        "That the word of Jesus might be fulfilled, which he said, signifying what death he should die.",
+        "Pilate therefore went into the hall again and called Jesus and said to him: Art thou the king of the Jews?",
+        "Jesus answered: Sayest thou this thing of thyself, or have others told it thee of me?",
+        "Pilate answered: Am I a Jew? Thy own nation and the chief priests have delivered thee up to me. What hast thou done?",
+        "Jesus answered: My kingdom is not of this world. If my kingdom were of this world, my servants would certainly strive that I should not be delivered to the Jews: but now my kingdom is not from hence.",
+        "Pilate therefore said to him: Art thou a king then? Jesus answered: Thou sayest that I am a king. For this was I born, and for this came I into the world; that I should give testimony to the truth. Every one that is of the truth heareth my voice.",
+        "Pilate saith to him: What is truth? And when he said this, he went out again to the Jews and saith to them: I find no cause in him.",
+        "But you have a custom that I should release one unto you at the Pasch. Will you, therefore, that I release unto you the king of the Jews?",
+        "Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber.",
+        "Then therefore Pilate took Jesus and scourged him.",
+        "And the soldiers platting a crown of thorns, put it upon his head: and they put on him a purple garment.",
+        "And they came to him and said: Hail, king of the Jews. And they gave him blows.",
+        "Pilate therefore went forth again and saith to them: Behold, I bring him forth unto you, that you may know that I find no cause in him.",
+        "(Jesus therefore came forth, bearing the crown of thorns and the purple garment.) And he saith to them: Behold the Man.",
+        "When the chief priests, therefore, and the servants had seen him, they cried out, saying: Crucify him, Crucify him. Pilate saith to them: Take him you, and crucify him: for I find no cause in him.",
+        "The Jews answered him: We have a law; and according to the law he ought to die, because he made himself the Son of God.",
+        "When Pilate therefore had heard this saying, he feared the more.",
+        "And he entered into the hall again; and he said to Jesus: Whence art thou? But Jesus gave him no answer.",
+        "Pilate therefore saith to him: Speakest thou not to me? Knowest thou not that I have power to crucify thee, and I have power to release thee?",
+        "Jesus answered: Thou shouldst not have any power against me, unless it were given thee from above. Therefore, he that hath delivered me to thee hath the greater sin.",
+        "And from henceforth Pilate sought to release him. But the Jews cried out, saying: If thou release this man, thou art not Caesar's friend. For whosoever maketh himself a king speaketh against Caesar.",
+        "Now when Pilate had heard these words, he brought Jesus forth and sat down in the judgment seat, in the place that is called Lithostrotos, and in Hebrew Gabbatha.",
+        "And it was the parasceve of the pasch, about the sixth hour: and he saith to the Jews: Behold your king. The parasceve of the pasch... That is, the day before the paschal sabbath. The eve of every sabbath was called the parasceve, or day of preparation. But this was the eve of a high sabbath, viz., that which fell in the paschal week.",
+        "But they cried out: Away with him: Away with him: Crucify him. Pilate saith to them: shall I crucify your king? The chief priests answered: We have no king but Caesar.",
+        "Then therefore he delivered him to them to be crucified. And they took Jesus and led him forth.",
+        "And bearing his own cross, he went forth to the place which is called Calvary, but in Hebrew Golgotha.",
+        "Where they crucified him, and with him two others, one on each side, and Jesus in the midst.",
+        "And Pilate wrote a title also: and he put it upon the cross. And the writing was: JESUS OF NAZARETH, THE KING OF THE JEWS.",
+        "This title therefore many of the Jews did read: because the place where Jesus was crucified was nigh to the city. And it was written in Hebrew, in Greek, and in Latin.",
+        "Then the chief priests of the Jews said to Pilate: Write not: The King of the Jews. But that he said: I am the King of the Jews.",
+        "Pilate answered: What I have written, I have written.",
+        "The soldiers therefore, when they had crucified him, took his garments, (and they made four parts, to every soldier a part) and also his coat. Now the coat was without seam, woven from the top throughout.",
+        "They said then one to another: Let us not cut it but let us cast lots for it, whose it shall be; that the scripture might be fulfilled, saying: They have parted my garments among them, and upon my vesture they have cast lots. And the soldiers indeed did these things.",
+        "Now there stood by the cross of Jesus, his mother and his mother's sister, Mary of Cleophas, and Mary Magdalen.",
+        "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother: Woman, behold thy son.",
+        "After that, he saith to the disciple: Behold thy mother. And from that hour, the disciple took her to his own.",
+        "Afterwards, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, said: I thirst.",
+        "Now there was a vessel set there, full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to his mouth.",
+        "Jesus therefore, when he had taken the vinegar, said: It is consummated. And bowing his head, he gave up the ghost.",
+        "Then the Jews (because it was the parasceve), that the bodies might not remain upon the cross on the sabbath day (for that was a great sabbath day), besought Pilate that their legs might be broken: and that they might be taken away.",
+        "The soldiers therefore came: and they broke the legs of the first, and of the other that was crucified with him.",
+        "But after they were come to Jesus, when they saw that he was already dead, they did not break his legs.",
+        "But one of the soldiers with a spear opened his side: and immediately there came out blood and water.",
+        "And he that saw it hath given testimony: and his testimony is true. And he knoweth that he saith true: that you also may believe.",
+        "For these things were done that the scripture might be fulfilled: You shall not break a bone of him.",
+        "And again another scripture saith: They shall look on him whom they pierced.",
+        "And after these things, Joseph of Arimathea (because he was a disciple of Jesus, but secretly for fear of the Jews), besought Pilate that he might take away the body of Jesus. And Pilate gave leave. He came therefore and took away the body of Jesus.",
+        "And Nicodemus also came (he who at the first came to Jesus by night), bringing a mixture of myrrh and aloes, about an hundred pound weight.",
+        "They took therefore the body of Jesus and bound it in linen cloths, with the spices, as the manner of the Jews is to bury.",
+        "Now there was in the place where he was crucified a garden: and in the garden a new sepulchre, wherein no man yet had been laid.",
+        "There, therefore, because of the parasceve of the Jews, they laid Jesus: because the sepulchre was nigh at hand."
+      ],
+      "lineRefs": [
+        "18:1",
+        "18:2",
+        "18:3",
+        "18:4",
+        "18:5",
+        "18:6",
+        "18:7",
+        "18:8",
+        "18:9",
+        "18:10",
+        "18:11",
+        "18:12",
+        "18:13",
+        "18:14",
+        "18:15",
+        "18:16",
+        "18:17",
+        "18:18",
+        "18:19",
+        "18:20",
+        "18:21",
+        "18:22",
+        "18:23",
+        "18:24",
+        "18:25",
+        "18:26",
+        "18:27",
+        "18:28",
+        "18:29",
+        "18:30",
+        "18:31",
+        "18:32",
+        "18:33",
+        "18:34",
+        "18:35",
+        "18:36",
+        "18:37",
+        "18:38",
+        "18:39",
+        "18:40",
+        "19:1",
+        "19:2",
+        "19:3",
+        "19:4",
+        "19:5",
+        "19:6",
+        "19:7",
+        "19:8",
+        "19:9",
+        "19:10",
+        "19:11",
+        "19:12",
+        "19:13",
+        "19:14",
+        "19:15",
+        "19:16",
+        "19:17",
+        "19:18",
+        "19:19",
+        "19:20",
+        "19:21",
+        "19:22",
+        "19:23",
+        "19:24",
+        "19:25",
+        "19:26",
+        "19:27",
+        "19:28",
+        "19:29",
+        "19:30",
+        "19:31",
+        "19:32",
+        "19:33",
+        "19:34",
+        "19:35",
+        "19:36",
+        "19:37",
+        "19:38",
+        "19:39",
+        "19:40",
+        "19:41",
+        "19:42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 18:1—19:42",
+      "reference": "John 18:1—19:42",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "TRIDUUM"
+        ],
+        "color": "RED",
+        "source": "c",
+        "rank": "TRIDUUM",
+        "name": "Good Friday",
+        "key": "goodFriday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/03.html",
+    "title": "Gospel and Word of the Day - 03 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-03"
+}
