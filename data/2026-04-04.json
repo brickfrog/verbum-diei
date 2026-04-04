@@ -1,0 +1,206 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ccd1e44295533463822bf80e17bfc151dea1d21077c57c58da312440c0fbf471",
+        "inputSha256": "3e108814230359bc5fa642b7a8f5e69f39337c1bdd9b8d5494205bd844f0ace9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "09d7aa13b08bd527e1a7a936b840d0f4c3435af6d3fdbcc36d87414a35ea998c",
+        "inputSha256": "f533145853a696fb22c49122c9ce124c71a5884e8f337c1e20d82f5beb710278",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f56db3ba7bee367e3662f48995157d70649216448f76a3d2b03bd4f7569ce5a3",
+        "inputSha256": "c3f6de2d387b20288313ac009243d38b6d91cf9e68305f87407bc5e5e8d3447d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-04T01:55:26.804Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A sealed tomb is the psyche’s attempt to make meaning tamper-proof. Authority thinks it can end a story by controlling the body and controlling the narrative. The stone is the fantasy of finality; the seal is bureaucracy as magic.\n\nThe two Marys keep vigil without leverage. They model a different kind of knowing: staying with absence until it changes you. Their stillness is the counterforce to the officials’ anxious motion.\n\nThe leaders’ fear is intimate: they remember his claim and can’t stop rehearsing it. Their “guard” is projection—if something unsettling happens, it must be theft, not transformation. The need to preempt wonder is a confession that the possibility has already entered them.\n\nSemina Verbi: this watch at the threshold echoes the Egyptian vigil over Osiris, where dismemberment and sealing try to prevent return; speculation, but the same dread of reanimation. It rhymes with Hindu Shiva as Mahakala, time that swallows bodies yet cannot be contained by ritual closures. It touches Buddhist guard-the-gate mind: the ego posting sentries at the “door” of emptiness to stop the undoing of the self. It also recalls the Jewish practice of shmirah, keeping watch with the dead—not to control truth, but to accompany it.",
+    "excursus": "This is a story about how power deals with desire it cannot admit. Joseph buys himself a clean tomb and lends it to a man executed as filth; he tries to domesticate the scandal with architecture. The huge stone is not just closure but management: make death orderly, make the end final, make the body stay put.\n\nThe two Marys sit opposite the sealed mouth like witnesses at an interrogation that never ends. They do nothing, because there is nothing allowed to be done; their stillness is the only remaining agency. They stare at absence as if absence were a presence, and their vigil is a kind of erotic fidelity stripped of touch.\n\nThe priests and Pharisees are the true believers here, in the most perverse sense: they remember his promise more vividly than the friends. Calling him “seducer” gives away the fear. Seduction means he moved people without permission, and that movement might continue even after death. Their anxiety is not about truth but contagion; the “last error” is simply that desire might outlive punishment.\n\nSo the state and the temple collaborate to harden the world against surprise. Seal the stone, post the guards: the fantasy of total control, of making meaning stay where they put it. The dread is that the story will escape the tomb; the deeper dread is that they themselves will be caught wanting it to. The guard is there to protect the rulers from their own secret hope that something irrepressible is still at work.",
+    "synthesis": "God makes the instruments of denial—seal, guard, and official memory—serve as witnesses to the resurrection. The kingdom is not secured by power but judged by it.",
+    "gospel": [
+      {
+        "text": "The charge of \"seducer\" is paired with an accurate citation of the timetable. The narrative exposes a paradox: opposition understands the claim well enough to take precautions, thereby preparing the conditions for a public refutation of their own suspicion.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Two women remain as unarmed continuity while institutions mobilize hardware. The contrast sets up the later reversal: the custodians of the tomb will not be the custodians of the truth.",
+        "lines": [
+          2,
+          7
+        ]
+      }
+    ],
+    "reading": []
+  },
+  "marginalia": [
+    {
+      "text": "A \"new\" tomb: unused stone receives the used-up body; private wealth conscripted into public scandal.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The great stone is rhetoric in limestone: closure performed, not achieved.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They do not act; they watch. Witness without leverage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Enemies become archivists of the promise: \"we have remembered\" what disciples will forget.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fear of theft confesses a fragile legitimacy: truth must be policed, or it leaks.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seal and guard: the state’s liturgy against resurrection—bureaucracy at the mouth of death.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only Begotten Son descended to the place of the dead and came forth victorious from the tomb, we ask you to grant that all your faithful, buried with Christ in baptism, may also rise with him to eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only-begotten Son descended to the realm of the dead and came forth victorious from the tomb, we ask you to grant that all your faithful, buried with Christ in baptism, may also rise with him to eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only-begotten descended to the realm of the dead and came forth victorious from the tomb, we ask you to grant that all your faithful, buried with Christ through baptism, may also rise with him to eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only Begotten Son descended to the place of the dead and came forth victorious from the tomb, we beseech you to grant that all your faithful, buried with Christ in baptism, may also rise with him to eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only-begotten Son descended to the place of the dead and came forth victorious from the tomb, we ask you to grant that all your faithful, buried with Christ through baptism, may also rise with him to eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty Lord, whose Only-begotten Son descended to the place of the dead and came forth victorious from the tomb, we pray that you grant that all your faithful, buried with Christ through Baptism, may also rise with him to eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, as we sleep this night, and grant that, at the dawning of the new day, the celebration of Sunday may fill us with the joy of the Resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, we beseech you, Lord, this dwelling, and drive far from it all the snares of the enemy; let your holy angels dwell herein and keep us in peace, and let your blessing be always upon us. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument and went his way.",
+        "And there was there Mary Magdalen and the other Mary, sitting over against the sepulchre.",
+        "And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate, The day of preparation... The eve of the sabbath; so called, because on that day they prepared all things necessary; not being allowed so much as to dress their meat on the sabbath day.",
+        "Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.",
+        "Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away and say to the people: He is risen from the dead. And the last error shall be worse than the first.",
+        "Pilate saith to them: You have a guard. Go, guard it as you know.",
+        "And they departing, made the sepulchre sure, sealing the stone and setting guards."
+      ],
+      "lineRefs": [
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 27:60-66",
+      "reference": "Matthew 27:60-66",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "TRIDUUM"
+        ],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "TRIDUUM",
+        "name": "Holy Saturday/Easter Vigil",
+        "key": "holySaturday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Holy Week"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/04.html",
+    "title": "Gospel and Word of the Day - 04 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-04"
+}
