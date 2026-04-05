@@ -1,0 +1,276 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "38cb2dbfac11ec1529cb098bec5bf3f54419d860c2f0932dd1217930ef8c5592",
+        "inputSha256": "f716c6594dc7d5dfd68ad6b1da90cf430fdd8b51c664df212ce97daaaa2b9753",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bf96e5f93e37f711cdb7100c1c25b8bd7da27bac1c84e16fb6eeed694c9abac2",
+        "inputSha256": "cf2ff587cdadffeb249ccbb329a0c8e39c85b0290cdee48a72f831a087319c10",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "49cafd87080420d5515c2809b6af3789e8c0437834949d08f16263e97291b6d9",
+        "inputSha256": "b21130f3dba0a7cba93c05b31aea1094971d64a416dbeb1c599e8ba9b7971394",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-05T01:56:00.567Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A god “not a respecter of persons” is the psychological break from tribal favoritism toward a moral universe where status cannot buy verdict. That turn has close kin in Stoic cosmopolitanism, where reason levels citizen and slave, and in the Bhagavad Gita’s claim that the divine meets all who approach, whatever their station.\n\nThe insistence on witnesses who “did eat and drink” after death reads like a refusal of private ecstasy in favor of shared, bodily verification. That has parallels, speculative but suggestive, with Zen’s distrust of merely interior illumination and with Indigenous traditions where communal memory and enacted ritual, not solitary vision, authorize what is real.\n\nMary coming “while it was yet dark” and misreading absence as theft is a recognizable mind-move: grief defaults to conspiracy because it cannot yet imagine transformation. The empty tomb becomes an aperture for new meaning only after running, looking, and daring to enter; it resembles the Sufi motif of bewilderment (hayra) as the doorway to recognition, and the Tibetan Buddhist bardo image, where disorientation is not failure but the first texture of awakening.\n\nThe folded cloths carry an oddly domestic calm: not chaos, but order after rupture, as if death has been handled and set aside. That quiet detail echoes, speculatively, the Egyptian “opening of the mouth” logic of restored life through careful rites, and the Hindu sense of samskara, where the smallest ordering gestures mark passage from one state to another.\n\n“Judge of the living and the dead” frames existence as answerable, not merely ephemeral; it is close to the Persian Chinvat Bridge and the Buddhist karma courts, with a key difference: here judgment is attached to a person known in meals and streets, not to an abstract ledger.",
+    "excursus": "Peter’s speech pretends to universality while tightening control. “Not a respecter of persons” lands like a promise, but the risen man is “made manifest” only to preapproved witnesses who ate and drank with him, an intimacy turned into credential. The resurrection becomes a proprietary experience that licenses them to speak for everyone, and the sweetness of remission is stapled to submission: believe, and the Judge will be merciful.\n\nJohn gives the rawer psychology. Mary arrives “when it was yet dark” and reads absence as theft. Desire does that: it cannot bear a body that refuses to stay put, so it invents an enemy. The men sprint, rivalry dressed as devotion; the beloved disciple wins the race and still hesitates at the threshold, as if the empty place is too charged to enter.\n\nInside, the detail is uncanny: cloths lying, the head-napkin neatly folded apart. Not chaos but arrangement, like someone taking time. That order doesn’t comfort; it chills. It suggests intent, a will that can slip the grave and then leave you with evidence instead of presence. The beloved disciple “saw and believed” before understanding, which is to say he surrendered to the seduction of a sign. Faith here is not clarity; it is the relief of choosing a story when the dark won’t lift.",
+    "synthesis": "God vindicated the crucified Jesus by raising him, appointing him universal judge. Forgiveness is granted in his name to believers, on the basis of witnessed resurrection rather than private speculation.",
+    "gospel": [
+      {
+        "text": "The narrative stages rival competencies: speed, access, and inspection. John’s detail about running and entry creates a controlled comparison—love arrives first, office enters first—yet both are drawn into the same evidentiary scene.",
+        "lines": [
+          3,
+          4,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "“He saw and believed” is belief triggered by signs rather than exegesis; the empty tomb operates as a rude fact that forces assent before a coherent biblical theory is in place.",
+        "lines": [
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter frames the case as public history: a message disseminated, a ministry empowered, a conflict with “the devil” treated as real agency. The anointing is divine authorization for a campaign, not an interior experience.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The sequence is juridical: God makes the executed man manifest, installs him as the hinge of judgment, and attaches remission of sins to his name. The prophets function as a prior chain of custody for this claim.",
+        "lines": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Impartiality is not sentiment; it is a verdict against tribal religion.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Tree”: the cross named as curse; the murder described without piety.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection certified by table-talk; faith tied to appetite and memory.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The risen one is not mascot but judge; proclamation is summons, not therapy.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "First light arrives in darkness; absence is the first datum of Easter.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She assumes theft; the mind defaults to ordinary causes.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seeing without entering: reverence, fear, or mere hesitation—threshold theology.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The folded cloth is order inside rupture; calm within the emptied tomb.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Belief outruns comprehension; Scripture lags behind the shock of fact.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened for us the gates of life through your Son, conqueror of death, grant that we who celebrate the solemnity of the resurrection of Jesus Christ may be renewed by your Spirit, so as to rise in the kingdom of light and life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened for us the gates of life through your Son, conqueror of death, grant that we who celebrate the solemnity of the resurrection of Jesus Christ may be renewed by your Spirit, so as to rise again in the kingdom of light and life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened for us the gates of life through your Son, conqueror of death, grant that we who celebrate the solemnity of the resurrection of Jesus Christ may be renewed by your Spirit, so as to rise in the kingdom of light and of life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened for us the gates of life through your Son, conqueror of death, grant that we who celebrate the solemnity of the Resurrection of Jesus Christ may be renewed by your Spirit, to rise again in the kingdom of light and of life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened to us the gates of life through your Son, the conqueror of death, grant that we who celebrate the solemnity of the Resurrection of Jesus Christ may be renewed by your Spirit, so as to rise in the kingdom of light and life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who on this day have opened for us the gates of life through your Son, conqueror of death, grant that we who celebrate the solemnity of the Resurrection of Jesus Christ may be renewed by your Spirit, so as to rise again in the kingdom of light and life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we beg you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without fear in your peace, and rise tomorrow with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Peter opening his mouth, said: in very deed I perceive that God is not a respecter of persons.",
+        "You know the word which hath been published through all Judea: for it began from Galilee, after the baptism which John preached.",
+        "Jesus of Nazareth: how God anointed him with the Holy Ghost and with power, who went about doing good and healing all that were oppressed by the devil, for God was with him.",
+        "And we are witnesses of all things that he did in the land of the Jews and in Jerusalem: whom they killed, hanging him upon a tree.",
+        "Him God raised up the third day and gave him to be made manifest,",
+        "Not to all the people, but to witnesses preordained by God, even to us, who did eat and drink with him, after he arose again from the dead.",
+        "And he commanded us to preach to the people and to testify that it is he who was appointed by God to be judge of the living and of the dead.",
+        "To him all the prophets give testimony, that by his name all receive remission of sins, who believe in him."
+      ],
+      "lineRefs": [
+        "34",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 10:34,37-43",
+      "reference": "Acts 10:34,37-43",
+      "heading": "A reading from the  Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre: and she saw the stone taken away from the sepulchre.",
+        "She ran therefore and cometh to Simon Peter and to the other disciple whom Jesus loved and saith to them: They have taken away the Lord out of the sepulchre: and we know not where they have laid him.",
+        "Peter therefore went out, and the other disciple: and they came to the sepulchre.",
+        "And they both ran together: and that other disciple did outrun Peter and came first to the sepulchre.",
+        "And when he stooped down, he saw the linen cloths lying: but yet he went not in.",
+        "Then cometh Simon Peter, following him, and went into the sepulchre: and saw the linen cloths lying,",
+        "And the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place.",
+        "Then that other disciple also went in, who came first to the sepulchre: and he saw and believed.",
+        "For as yet they knew not the scripture, that he must rise again from the dead."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 20:1-9",
+      "reference": "John 20:1-9",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Easter Sunday",
+        "key": "easter"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/05.html",
+    "title": "Gospel and Word of the Day - 05 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-05"
+}
