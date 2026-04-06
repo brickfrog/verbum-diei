@@ -1,0 +1,304 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a7a2edca781065cb31ee77abc801598bad099aad0fad7e1ba6523545c3c2e7e8",
+        "inputSha256": "326353262fc9058e2010338e1d1abbf42e4db749aca17bae0ffb503d82fd3f30",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7cad048a63ef2747c77c90eed20fc940af11185a841951ad9df53bee740f4791",
+        "inputSha256": "f927cf7e8dec29f2e4ea9bbecf44a38ef89087e8ee013e19cf19c3b92514f133",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "58b1b3dd48526f5eca5c33e3de1e7a7c3a55a6a3511b7896ca772411f2ad7837",
+        "inputSha256": "049b2002d49247a7040098714c26acc88fc469c5b2f1ccfe386564aecf78809d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-06T01:55:53.488Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A dead man returning is less a magic trick than a psychic verdict: reality is not finally owned by the apparatus that kills. The women clutching his feet enact the mind’s need for contact with what would otherwise dissolve into rumor; it is grief refusing to be gaslit by absence, fear transmuted into attachment. Peter’s rhetoric performs the other half of the psyche: it makes a public narrative sturdy enough to hold private shock, and it does so by turning the crowd’s complicity into a place where conscience can wake without collapsing into despair.\n\nThe bribed story is the shadow-lit twin of proclamation. Institutions don’t only punish; they narrate. Money buys not merely silence but an alternate memory, a counterfeit continuity that protects status from the disruptive fact. The text treats denial as a social technology: a coordinated lie that keeps the old map intact by making witnesses suspect and the impossible “explained.”\n\nSemina Verbi: the risen figure who cannot be kept by death brushes against Osiris in Egyptian tradition and Dionysus’s dismemberment-return in Greek myth (speculation), not as equivalents but as recurring human intuition that life presses back through the wound. The public “witness” that stabilizes a new world resembles Buddhist sangha testimony around awakening and the Upanishadic claim of the deathless self glimpsed beyond decay. The paid counter-narrative has kinship with Maya in Hindu thought and with Plato’s cave: power prefers a managed appearance to a liberating disturbance.",
+    "excursus": "Peter’s sermon is not comfort but conquest. He stands up and speaks like a man trying to seize the narrative before it hardens against him. “You did it” and “God planned it” are welded together, not to solve a paradox, but to trap the listener in a net of complicity: your hands are wicked, yet your wickedness has been conscripted. The resurrection is then framed as an escape from a grip that should have been final. “Impossible that he should be holden” reads like whistling past the graveyard; the insistence betrays the dread it denies.\n\nMatthew makes the dread explicit. The women run on adrenaline: fear and great joy, the body vibrating between panic and desire. They grab his feet. It’s not a refined vision but an animal verification: weight, skin, the scandal of contact. “Fear not” is not a greeting; it’s a command to stop recoiling from what they most want.\n\nThen the shadow story arrives: the guards, the money, the coached lie. Authority doesn’t argue; it purchases an alternate reality and calls it peace. The bribe is the true counter-resurrection: a dead man kept dead by speech. Between the women’s grip and the priests’ cash sits the same human need—to make the world stable again—either by clinging to the living impossible, or by paying to restore the old, manageable corpse.",
+    "synthesis": "God publicly vindicates the crucified Jesus by raising and exalting him, and the Spirit’s outpouring is the present sign of that enthronement. The resurrection generates two rival traditions—apostolic witness and purchased denial—and judges both.",
+    "gospel": [
+      {
+        "text": "Two assemblies mirror each other: women commissioned without leverage, priests convening with leverage. One produces proclamation; the other manufactures cover.",
+        "lines": [
+          4,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "Galilee functions as a reset location: away from Jerusalem’s courts and narratives, the movement is re-gathered on different ground.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The counter-narrative is institutional: money, coaching, and political insulation. Denial is organized, not spontaneous.",
+        "lines": [
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter frames Jesus as publicly verified within Israel’s own field of knowledge, then forces a verdict: the same deeds that should have authenticated him become the ground of culpability.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The speech treats Scripture not as ornament but as juridical proof: David’s psalm is read through the oath to David, and the textual “Holy One” is detached from David’s own biography and reassigned to the anointed heir.",
+        "lines": [
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "Eyewitness is placed alongside exegesis; the apostolic claim is that text and testimony converge on a single event.",
+        "lines": [
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Voice lifted; the witness is public, not private.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Foreknowledge and murder collide; permission is not authorship.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection as jailbreak: bonds named “sorrows,” not merely “death.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The tomb as an argument: local geography against pious evasion.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exaltation becomes evidence: what you “see and hear” is Christ’s reign made sensible.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear and joy braided; the message runs on mixed motives.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Feet grasped: the risen is not a thought but weight and contact.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Brethren” after betrayal; reconstitution before instruction.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A story built on self-incrimination: asleep witnesses cannot testify.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A purchased tradition with long half-life; money funds memory.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through baptism cause your Church to grow, ever giving her new children, grant that all who have been reborn in the baptismal font may always live in accordance with the faith they professed. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through Baptism make your Church grow by always giving her new children, grant that all who have been reborn at the baptismal font may always live in accordance with the faith they professed. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through baptism make your Church grow by always giving her new children, grant that all who have been reborn in the baptismal font may always live in accordance with the faith they professed. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through baptism cause your Church to grow, ever giving her new children, grant that all who have been reborn in the baptismal font may always live in accordance with the faith they professed. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through Baptism cause your Church to grow, ever giving her new children, grant that all who have been reborn in the baptismal font may always live in accordance with the faith they professed. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who through Baptism cause your Church to grow, ever giving her new children, grant that all who have been reborn in the baptismal font may always live in accordance with the faith they professed. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and bring it about that the seed of the kingdom which by our work we have sown today may grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But Peter standing up with the eleven, lifted up his voice, and spoke to them: Ye men of Judea, and all you that dwell in Jerusalem, be this known to you and with your ears receive my words.",
+        "Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him, in the midst of you, as you also know:",
+        "This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain. By the determinate, etc... God delivered up his Son; and his Son delivered up himself, for the love of us, and for the sake of our salvation; and so Christ's being delivered up was holy, and was God's own determination. But they who betrayed and crucified him, did wickedly, following therein their own malice and the instigation of the devil; not the will and determination of God, who was by no means the author of their wickedness; though he permitted it; because he could, and did draw out of it so great a good, viz., the salvation of man.",
+        "Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it. Having loosed the sorrow, etc... Having overcome the grievous pains of death and all the power of hell.",
+        "For David saith concerning him: I foresaw the Lord before my face: because he is at my right hand, that I may not be moved.",
+        "For this my heart hath been glad, and my tongue hath rejoiced: moreover my flesh also shall rest in hope.",
+        "Because thou wilt not leave my soul in hell: nor suffer thy Holy One to see corruption.",
+        "Thou hast made known to me the ways of life: thou shalt make me full of joy with thy countenance.",
+        "Ye men, brethren, let me freely speak to you of the patriarch David: that he died and was buried; and his sepulchre is with us to this present say.",
+        "Whereas therefore he was a prophet and knew that God hath sworn to him with an oath, that of the fruit of his loins one should sit upon his throne.",
+        "Foreseeing this, he spoke of the resurrection of Christ. For neither was he left in hell: neither did his flesh see corruption.",
+        "This Jesus hath God raised again, whereof all we are witnesses.",
+        "Being exalted therefore by the right hand of God and having received of the Father the promise of the Holy Ghost, he hath poured forth this which you see and hear."
+      ],
+      "lineRefs": [
+        "14",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 2:14,22-33",
+      "reference": "Acts 2:14,22-33",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they went out quickly from the sepulchre with fear and great joy, running to tell his disciples.",
+        "And behold, Jesus met them, saying: All hail. But they came up and took hold of his feet and adored him.",
+        "Then Jesus said to them: Fear not. Go, tell my brethren that they go into Galilee. There they shall see me.",
+        "Who when they were departed, behold, some of the guards came into the city and told the chief priests all things that had been done.",
+        "And they being assembled together with the ancients, taking counsel, gave a great sum of money to the soldiers,",
+        "Saying: Say you, His disciples came by night and stole him away when we were asleep.",
+        "And if the governor shall hear of this, we will persuade him and secure you.",
+        "So they taking the money, did as they were taught: and this word was spread abroad among the Jews even unto this day."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 28:8-15",
+      "reference": "Matthew 28:8-15",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SOLEMNITY",
+        "name": "Easter Monday",
+        "key": "easterMonday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/06.html",
+    "title": "Gospel and Word of the Day - 06 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-06"
+}
