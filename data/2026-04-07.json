@@ -1,0 +1,300 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "92cc64ad3bd171d058b17ef41aac5bc6c1a879354d3c9896841922dc23133063",
+        "inputSha256": "a111da3aeaf8b147f8a5ff8860ae9e74e582057cf0f7db333caf8990c841efb2",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7178cff267f91bd0750623ab31a7921ecd435ba50df39108b6a9ee3a56f350c3",
+        "inputSha256": "38b9df800cab209442197dbd9a0e9c21d210c01f05241675234b895bad8587e8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b20e0c0f758b422b5a11ef99e6d84d5b7c4f646f812e1dba0e2f2e2ace140889",
+        "inputSha256": "b66144ca2126b503383b3c9a0ae53b9ff8f9abc37afe69b50fdfbc4a623bfd99",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-07T01:55:43.832Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The crowd’s sudden compunction in Acts has the clean snap of a psyche that can no longer outsource blame: the accusation lands, and with it the first honest question, “What shall we do?” That move from stunned hearing to enacted repair resembles Buddhist karmic turning in confession rites and the Hindu prāyaścitta instinct: wrongdoing is not debated, it is metabolized through a concrete practice that rebinds the self to a truer order.\n\nMary’s misrecognition in the garden reads like grief’s perceptual tunnel: she sees what her attachment allows, a caretaker, not the beloved returned. Then a single spoken name breaks the spell. That naming-as-awakening has close kin in Sufi dhikr, where the Name changes the knower, and in Zen’s sudden kenshō stories where one ordinary sound reorients the whole field.\n\n“Do not touch me” sketches a boundary that protects a new mode of relation: desire reaches for possession, but the real demand is transmission. The refusal is not rejection; it is a rerouting from grasping to witness. (Speculation.) That feels like the Bhagavad Gītā’s disciplined non-attachment and the Stoic training to love without clinging, where contact becomes fidelity to what exceeds you.\n\nThe promise extending to “those far off” echoes the Mahāyāna bodhisattva horizon and Islam’s sense of a call that can find the distant heart: the circle of belonging is not ethnic, not local, but summoned. In both scenes, the sign of contact with the real is not private ecstasy but entry into a changed communal grammar.",
+    "excursus": "Acts is not a victory speech; it is a managed panic. Peter weaponizes their complicity—“whom you have crucified”—to crack open a wound that can’t be denied. Compunction is not piety but vertigo: the crowd suddenly feels itself capable of anything, even murder-by-consensus. Baptism and “penance” read like an emergency ritual of belonging, a way to launder terror into order. “Save yourselves from this perverse generation” is not moral advice; it’s a recruitment line for people who now hate the air they breathe. Three thousand souls is a stampede.\n\nJohn gives the same mechanism in miniature, but with erotic grief instead of public guilt. Mary wants a body, a location, something she can carry. She mistakes him for the gardener because desire always chooses the nearest plausible caretaker of loss. Then a single word—her name—reconstitutes her. But the recognition is immediately frustrated: “Do not touch me.” The resurrected one is not a returned lover; he is an absence that speaks. He turns her from mourner into messenger, because the new intimacy is not contact but dispatch. The dread is that what you most want to hold is precisely what must not be held, and the only proof you’re given is a voice that knows your name.",
+    "synthesis": "The risen Christ cannot be possessed; he must be received on his own terms and confessed as Lord. Repentance and baptism are the concrete transfer into his rule, sealed by the Spirit and expressed in witness.",
+    "gospel": [
+      {
+        "text": "John stages recognition as a problem of presence: angels can be seen without comprehension, and Jesus can be seen without being known. The turning points are not visual proofs but commanded relations—first the address that identifies, then the restriction that prevents reducing the risen Jesus to a retrievable object.",
+        "lines": [
+          2,
+          4,
+          7
+        ]
+      },
+      {
+        "text": "Mary’s movement runs from solitary mourning to authorized proclamation. The narrative installs her as a messenger whose authority rests on encounter and mandate, shifting the disciples’ knowledge from loss-management to report of ascent and new filial address.",
+        "lines": [
+          1,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter’s claim is juridical and royal: God’s act (“made…Lord and Christ”) reverses the court’s verdict on Jesus. The demanded response is entry into that new jurisdiction by enacted allegiance (penance/baptism), and the Spirit is presented as the covenantal seal of the regime change rather than a private consolation.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The passage traces a pipeline from pierced conscience to communal reconstitution: question → summons → separation from the age → accession of a people. The rhetoric is not therapeutic but apocalyptic: a generation is judged, and a new body is assembled in its stead.",
+        "lines": [
+          2,
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Covenant kin indicted: “house of Israel” addressed as executioners; enthronement stated over a nailed body.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The wound moves inward: accusation becomes “compunction,” and guilt turns into inquiry.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imperatives stack: penance then baptism; remission is named; the Spirit is not a mood but a “gift.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Promise stretches by concentric circles—you, children, far off—yet ends in a hard edge: “whomsoever…shall call.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Salvation framed as escape: not self-improvement but rupture with a “perverse generation.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Counting souls: the word produces a census; incorporation is public and measurable.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "She stays outside and weeps; she bends to look—grief still searches.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two whites mark an absence: head and feet flank the vacancy like a liturgy around nothing.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“My Lord” is possessive and mistaken: she loves a missing corpse.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She misnames him “gardener” and offers strength to carry him—devotion imagines control.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One word re-creates her world: her name; recognition is summoned, not inferred.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prohibition with a timetable: not yet; relationship re-ordered by ascent, not by grasping.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Witness replaces holding: she brings a sentence—“I have seen”—and a commission’s content.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the paschal mystery, continue to favor your people with heavenly gifts, so that they may attain true freedom and may enjoy the joy of heaven, which they have already begun to taste on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the paschal mystery, continue to favor your people with heavenly gifts, so that they may attain true freedom and enjoy the joy of heaven, which they have already begun to taste on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the paschal mystery, continue to favor your people with heavenly gifts, so that they may attain true freedom and may enjoy the joy of heaven, which they have already begun to taste on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the Paschal Mystery, continue to bestow heavenly gifts upon your people, so that they may attain true freedom and enjoy the joy of heaven, which they have already begun to taste on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the paschal mystery, continue to bestow heavenly gifts upon your people, so that they may attain true freedom and rejoice in the joy of heaven, which they have already begun to taste on earth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who have saved us through the paschal mystery, continue to bestow heavenly gifts upon your people, so that they may attain true freedom and may enjoy the joy of heaven, which they have already begun to taste on earth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Therefore let all the house of Israel know most certainly that God hath made both Lord and Christ, this same Jesus, whom you have crucified.",
+        "Now when they had heard these things, they had compunction in their heart and said to Peter and to the rest of the apostles: What shall we do, men and brethren?",
+        "But Peter said to them: Do penance: and be baptized every one of you in the name of Jesus Christ, for the remission of your sins. And you shall receive the gift of the Holy Ghost.",
+        "For the promise is to you and to your children and to all that are far off, whomsoever the Lord our God shall call.",
+        "And with very many other words did he testify and exhort them, saying: Save yourselves from this perverse generation.",
+        "They therefore that received his word were baptized: and there were added in that day about three thousand souls."
+      ],
+      "lineRefs": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 2:36-41",
+      "reference": "Acts 2:36-41",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down and looked into the sepulchre,",
+        "And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid.",
+        "They say to her: Woman, why weepest thou? She saith to them: Because they have taken away my Lord: and I know not where they have laid him.",
+        "When she had thus said, she turned herself back and saw Jesus standing: and she knew not that it was Jesus.",
+        "Jesus saith to her: Woman, why weepest thou? Whom seekest thou? She, thinking that it was the gardener, saith to him: Sir, if thou hast taken him hence, tell me where thou hast laid him: and I will take him away.",
+        "Jesus saith to her: Mary. She turning, saith to him: Rabboni (which is to say, Master).",
+        "Jesus saith to her: Do not touch me: for I am not yet ascended to my Father. But go to my brethren and say to them: I ascend to my Father and to your Father, to my God and to your God.",
+        "Mary Magdalen cometh and telleth the disciples: I have seen the Lord; and these things he said to me."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 20:11-18",
+      "reference": "John 20:11-18",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SOLEMNITY",
+        "name": "Easter Tuesday",
+        "key": "easterTuesday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/07.html",
+    "title": "Gospel and Word of the Day - 07 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-07"
+}
