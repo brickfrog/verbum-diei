@@ -1,0 +1,324 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "abc07c7a778dfd034ab0b30d47ec76edf8d71ec0543b4f99382fdf662bbee7d6",
+        "inputSha256": "5c0f6e8acea38d8da6512acc5dbfd1e20c698fea517417436635fd71b4e7986f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3882bc99acf69a354849deeab9bb7d1405f52fc5f34238a341b3ec7a3bb3f560",
+        "inputSha256": "ce0395d3a5f10aaedb11868af3e6e153b9fa22508cc5f77f99e44a6e13d4404b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f00b6503d2d3ea702e9a450f25520e1db5ddbf8887ed499b85e6490482ccf971",
+        "inputSha256": "705ac97f87907c94838d0af84e108917fb1abd385ca7399ab7bf8007e4c8faaa",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-08T01:55:40.830Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The Beautiful Gate feels like a mandala threshold: the excluded body stationed at the edge of holiness, turned into an entrance once strength arrives. There’s a Zen koan edge to “silver and gold I have none”; the gift is not a thing but a naming that reorganizes perception and posture, like a sudden satori that shows the legs were always possible. Speculation: the right-hand grasp reads like qigong or Reiki, not as technique but as enacted permission—touch that authorizes the nervous system to risk standing.\n\nEmmaus runs on the psychology of grief’s tunnel vision: the mind can host the beloved and not recognize him. The long walk resembles the Platonic ascent by dialogue, then the recognition comes not by argument but by shared meal, close to Vedic hospitality where the guest reveals himself as divine, and to Sufi sohbet where companionship warms the heart into knowing. Speculation: “he vanished” is the inner teacher withdrawing once the students can carry the fire without the figure.",
+    "excursus": "These scenes run on control disguised as consolation. The lame man is staged at the Beautiful gate like an approved form of misery, useful, legible, sanctioned. Peter’s first miracle is not healing but capture: “Look upon us.” The gaze is a leash. He offers no money because money would let the man remain himself; instead he gives him a new identity, a new story, a new dependence. The handclasp is a takeover. The man’s leaping is not pure joy; it’s the jitter of a body abruptly drafted into spectacle, recruited to validate someone else’s name.\n\nEmmaus is the same strategy refined. The stranger joins two men bleeding disappointment, then withholds recognition, letting them confess their failed desire: “we hoped.” He plays ignorant to draw out their grief, then reprimands them, rewrites their trauma as necessity, and heats their nerves with interpretation until they mistake agitation for meaning. At the inn he performs intimacy—bread, blessing, a practiced gesture—and the instant they “know,” he disappears. Desire is sparked, satisfied for a second, then yanked away, leaving them compelled to run back and report.\n\nBoth texts show power working through absence and substitution. No silver, no body, no steady presence—only the name and the story. You don’t get what you asked for; you get what makes you useful. Wonder and burning hearts are the afterglow of coercion: dread converted into praise, loss converted into mission.",
+    "synthesis": "Christ mediates himself through Name and sacrament, replacing alms and spectacle with a new economy of communion. Faith is the recalibration of interpretation and desire under the governance of the risen Lord.",
+    "gospel": [
+      {
+        "text": "The narrative moves from distance to interpretation: the road is a hermeneutical corridor. Scripture is not appended to events; it is the field in which events become intelligible.",
+        "lines": [
+          1,
+          2,
+          15
+        ]
+      },
+      {
+        "text": "Table-action and return-action form a liturgical loop: blessing and breaking generate testimony, and testimony drives re-entry into the apostolic assembly. The risen Christ is located by a pattern, not by a lingering visual.",
+        "lines": [
+          18,
+          20,
+          21,
+          23
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The beggar’s economy is expectation management: he asks, he watches, he calculates “something.” The apostolic act interrupts the marketplace at the temple with an alternate currency that cannot be stored or audited.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The crowd’s knowledge hinges on continuity of identity: they “knew him” as fixture. The sign works socially by collapsing a public stereotype; amazement is the fracture of a stable category.",
+        "lines": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prayer-hour: the miracle is scheduled, not improvised.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Beautiful” gate: irony—beauty as threshold to deformity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Fastening his eyes”: attention as command; the gaze precedes the gift.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No money; a Name instead. Poverty becomes jurisdiction.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Right hand: transfer of strength by contact; grace is not abstract.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He enters what he was posted outside. Healing is admission.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Held eyes: ignorance is permitted, even engineered.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“We hoped”: hope misfiled as politics; grief as failed program.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rebuke before comfort: diagnosis prior to disclosure.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He feigns departure: desire must be elicited, not assumed.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Recognition triggers absence: presence is not possession.",
+      "lines": [
+        19
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s Resurrection, grant that, through the celebration of these feasts, we may one day attain eternal joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s Resurrection, grant that through the celebration of these feasts we may one day attain eternal joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s Resurrection, grant that, through the celebration of these feasts, we may one day come to eternal joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s Resurrection, grant that through the celebration of these feasts we may one day come to eternal joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s Resurrection, grant that, through the celebration of these feasts, we may one day come to eternal joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who each year gladden us with the solemnity of the Lord’s resurrection, grant that, through the celebration of these feasts, we may one day attain eternal joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a gentle yoke and a light burden; graciously accept the desires and the deeds of this day now ended. Grant that we may rest during the night so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now Peter and John went up into the temple at the ninth hour of prayer.",
+        "And a certain man who was lame from his mother's womb was carried: whom they laid every day at the gate of the temple, which is called Beautiful, that he might ask alms of them that went into the temple.",
+        "He, when he had seen Peter and John, about to go into the temple, asked to receive an alms.",
+        "But Peter with John, fastening his eyes upon him, said: Look upon us.",
+        "But he looked earnestly upon them, hoping that he should receive something of them.",
+        "But Peter said: Silver and gold I have none; but what I have, I give thee. In the name of Jesus Christ of Nazareth, arise and walk.",
+        "And taking him by the right hand, he lifted him up: and forthwith his feet and soles received strength.",
+        "And he leaping up, stood and walked and went in with them into the temple, walking and leaping and praising God.",
+        "And all the people saw him walking and praising God.",
+        "And they knew him, that it was he who sat begging alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 3:1-10",
+      "reference": "Acts 3:1-10",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And behold, two of them went, the same day, to a town which was sixty furlongs from Jerusalem, named Emmaus.",
+        "And they talked together of all these things which had happened.",
+        "And it came to pass that while they talked and reasoned with themselves, Jesus himself also, drawing near, went with them.",
+        "But their eyes were held, that they should not know him.",
+        "And he said to them: What are these discourses that you hold one with another as you walk and are sad?",
+        "And the one of them, whose name was Cleophas, answering, said to him: Art thou only a stranger in Jerusalem, and hast not known the things that have been done there in these days?",
+        "To whom he said: What things? And they said: Concerning Jesus of Nazareth, who was a prophet, mighty in work and word before God and all the people.",
+        "And how our chief priests and princes delivered him to be condemned to death and crucified him.",
+        "But we hoped that it was he that should have redeemed Israel. And now besides all this, to-day is the third day since these things were done.",
+        "Yea and certain women also of our company affrighted us who, before it was light, were at the sepulchre,",
+        "And not finding his body, came, saying that they had all seen a vision of angels, who say that he is alive.",
+        "And some of our people went to the sepulchre and found it so as the women had said: but him they found not.",
+        "Then he said to them: O foolish and slow of heart to believe in all things, Which the prophets have spoken.",
+        "Ought not Christ to have suffered these things and so, to enter into his glory?",
+        "And beginning at Moses and all the prophets, he expounded to them in all the scriptures the things that were concerning him.",
+        "And they drew nigh to the town whither they were going: and he made as though he would go farther.",
+        "But they constrained him, saying: Stay with us, because it is towards evening and the day is now far spent. And he went in with them.",
+        "And it came to pass, whilst he was at table with them, he took bread and blessed and brake and gave to them.",
+        "And their eyes were opened: and they knew him. And he vanished out of their sight.",
+        "And they said one to the other: Was not our heart burning within us, whilst he spoke in the way and opened to us the scriptures?",
+        "And rising up, the same hour, they went back to Jerusalem: and they found the eleven gathered together, and those that were with them,",
+        "Saying: The Lord is risen indeed and hath appeared to Simon.",
+        "And they told what things were done in the way: and how they knew him in the breaking of bread."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 24:13-35",
+      "reference": "Luke 24:13-35",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SOLEMNITY",
+        "name": "Easter Wednesday",
+        "key": "easterWednesday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/08.html",
+    "title": "Gospel and Word of the Day - 08 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-08"
+}
