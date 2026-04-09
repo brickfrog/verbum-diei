@@ -1,0 +1,358 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "9b5e2a76169d87cd7da8b1742bd6dc627c3872fb666447b2f00005d01296f9b1",
+        "inputSha256": "ce813e1c31078afcda494a1f6b4105142bbabe7d1335d05caa0045451bcbae77",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a4dfaeac40817d13d712ddb3c9e2e496b89fc01cae729624a6fefc6a23b16c9e",
+        "inputSha256": "3d3713c7d022d7022ef07cc6a1f0678224e9c8470bd3196377828e2a3896565d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ffe86d2b096f1e3f1db2404de5695c48c0a3d055d1ac27fb30e1ac77e281d978",
+        "inputSha256": "da143f00c36a89033ae91e66014dfd48f75d30a0fc1d16a29de3a754d55a0dff",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-09T01:55:40.144Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The insistence on flesh, bones, and eating reads like an exorcism of dissociation: grief wants a ghost because a ghost preserves loss; the narrative forces contact, touch, appetite, the humiliating simplicity of matter. Zen’s “chop wood, carry water” and the Buddha’s rejection of metaphysical escape routes run parallel in spirit, though the object differs; the cure is concreteness. Speculation: the fish functions like a grounding technique, the holy reduced to chewable proof.\n\nPeter’s speech treats violence as misrecognition before it treats it as malice: ignorance, then reversal, then a demanded turn. That resembles the Socratic claim that wrongdoing is a kind of not-knowing, and the Platonic turn of the soul as reorientation rather than mere rule-keeping. In Mahayana, avidyā as root-error also fits, though their remedy is insight into emptiness rather than allegiance to a raised life; still, the psychological move is the same: name the error, then pivot the desire.\n\n“Restitution of all things” presses beyond private forgiveness into cosmic repair. That has a close cousin in the Stoic apokatastasis of cyclical renewal and in Zoroastrian frashokereti, the final making-fresh of the world; speculation: the text borrows the emotional power of those hopes while fastening it to a single wounded body that returns not as symbol but as presence.\n\nThe “prophet like Moses” demand to hear him echoes the Qur’anic pattern of sign, denial, and a call back to the straightening of life; charitable parallel: both imagine history as moral pedagogy with witnesses as the hinge. The witness motif itself recalls legal cultures broadly: in Roman law and in rabbinic emphasis on testimony, truth is not a private insight but a public responsibility, with the self put on the line.\n\nThe blessing promised to “all kindreds” looks like a spiritual version of the Abrahamic hospitality ethic and like the Buddhist bodhisattva vow’s widening radius; speculation: universalism here is not abstract benevolence but the expansion of a local shock—Jerusalem’s refusal—into a medicine intended for everyone, including the refusers.",
+    "excursus": "The miracle is bait. A healed body drags a crowd into a spectacle, and Peter yanks the gaze away from the apostles only to pin it to their guilt. He calls them “brethren” and then names their secret preference: given a choice, they desired a murderer. Not a mistake, a wish. The community’s moral imagination leans toward clean violence, the kind that ends a story fast, rather than the author of life who keeps insisting on time, patience, conversion.\n\n“I know you did it through ignorance” isn’t mercy; it’s diagnosis. Ignorance is the anesthesia that lets a people do what they want without feeling that they want it. Repentance becomes less apology than waking up, because the real threat isn’t punishment but the return of desire in full awareness.\n\nIn Luke, the risen Jesus breaks in with “Peace,” and they answer with terror, because what they fear is not a ghost but the collapse of their alibi. A spirit could be filed under hallucination; flesh and bones can’t. He forces contact—handle, see—and then asks for food, chewing in front of them like an accusation. Resurrection is not an idea; it is appetite. He eats their fish and honey and leaves them with the remains, the way you leave evidence on a table.\n\nHe “opens their understanding” the way a surgeon opens a body: to show that suffering was always in the script, and therefore their betrayal was never merely an error but participation in a story that uses human hunger for scapegoats as its engine. They are made witnesses not because they are pure, but because they are compromised: the ones who ran are the only ones who can tell the truth about how love returns to the room you fled and asks, calmly, to be fed.",
+    "synthesis": "The risen Christ is bodily and enthroned, and his name alone mediates both healing and remission. Repentance is the covenantal condition by which Israel and the nations enter the promised restoration.",
+    "gospel": [
+      {
+        "text": "The scene is juridical: greeting, interrogation of inner turmoil, then public demonstration “before them.” The resurrection is introduced as a fact that must displace their internal narratives; peace is not mood but the new order imposed by the living Christ.",
+        "lines": [
+          2,
+          4,
+          9
+        ]
+      },
+      {
+        "text": "Jesus supplies the rule of proclamation: suffering-and-rising as the core, then penance and remission as its effect, then universal mission as its range. “Witness” is the bridge from event to nations—history generates testimony, and testimony becomes mandate.",
+        "lines": [
+          12,
+          13,
+          14
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter frames the scandal as continuity: suffering and exaltation are not improvisations but the long logic of prophecy, with Moses as the interpretive hinge and Abraham as the scope clause. The indictment is set inside election: the very people who violated the Holy One are still addressed as heirs, making repentance covenantal return rather than generic moral reform.",
+        "lines": [
+          8,
+          12,
+          14,
+          15
+        ]
+      },
+      {
+        "text": "Time is staged: “refreshment,” “sending,” and “restitution” order expectation and prevent a purely realized triumphalism. The church stands between ascension and restoration with a message calibrated to delay—urgent conversion now, cosmic repair later.",
+        "lines": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The healed man clings; the crowd runs. Wonder has gravity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peter kills the cult of charisma: no “power” attached to the apostles.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The trial is relitigated: “Holy One” exchanged for a murderer—moral inversion made public.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Author of life” is the title; “you killed” is the verdict. Resurrection is God’s counter-sentence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The name does the work; faith is the instrument, not the cause.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance is named without acquittal; it explains, it does not cleanse.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Repentance is surgical: sins “blotted out,” not merely regretted.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Heaven holds him; history waits. Absence is a governed interval.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal to hear is self-excision: destruction as covenantal consequence.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blessing arrives as conversion from wickedness; grace has a direction.",
+      "lines": [
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Recognition is liturgical: he is “known” in broken bread, not in analysis.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace enters; they answer with panic. The risen one meets them as fear expects a ghost.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Proof is tactile and edible: flesh, bones, fish. Resurrection refuses to be an idea.",
+      "lines": [
+        5,
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fulfillment is totalizing: Law, Prophets, Psalms pressed into one referent.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Understanding is opened, not achieved. Illumination is an act done to them.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The message has a trajectory—Jerusalem outward—and the witnesses are drafted, not consulted.",
+      "lines": [
+        13,
+        14
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have gathered diverse peoples into the confession of your name, grant that those who have been reborn from the baptismal font may have one faith in their hearts and one charity in their lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have gathered diverse peoples in the confession of your name, grant that those who have been reborn from the baptismal font may have one faith in their spirit and one charity in their life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have brought together diverse peoples in the confession of your name, grant that those reborn from the baptismal font may have one faith in their hearts and one charity in their lives. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have brought together diverse peoples in the confession of your name, grant that those who have been reborn from the font of Baptism may have one and the same faith in their spirit and one and the same charity in their life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have brought together diverse peoples in the confession of your name, grant that those who have been reborn from the font of Baptism may have one and the same faith in their spirit and one and the same charity in their life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have gathered diverse peoples in the confession of your name, grant to those who have been reborn from the baptismal font the same faith in their spirit and the same charity in their life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And as he held Peter and John, all the people ran to them, to the porch which is called Solomon's, greatly wondering.",
+        "But Peter seeing, made answer to the people: Ye men of Israel, why wonder you at this? Or why look you upon us, as if by our strength or power we had made this man to walk?",
+        "The God of Abraham and the God of Isaac and the God of Jacob, the God of our fathers, hath glorified his Son Jesus, whom you indeed delivered up and denied before the face of Pilate, when he judged he should be released.",
+        "But you denied the Holy One and the Just: and desired a murderer to be granted unto you.",
+        "But the author of life you killed, whom God hath raised from the dead: of which we are witnesses.",
+        "And in the faith of his name, this man, whom you have seen and known, hath his name strengthened. And the faith which is by him hath given this perfect soundness in the sight of you all.",
+        "And now, brethren, I know that you did it through ignorance: as did also your rulers.",
+        "But those things which God before had shewed by the mouth of all the prophets, that his Christ should suffer, he hath so fulfilled.",
+        "Be penitent, therefore, and be converted, that your sins may be blotted out.",
+        "That when the times of refreshment shall come from the presence of the Lord, and he shall send him who hath been preached unto you, Jesus Christ.",
+        "Whom heaven indeed must receive, until the times of the restitution of all things, which God hath spoken by the mouth of his holy prophets, from the beginning of the world.",
+        "For Moses said: A prophet shall the Lord your God raise up unto you of your brethren, like unto me: him you shall hear according to all things whatsoever he shall speak to you.",
+        "And it shall be, that every soul which will not hear that prophet shall be destroyed from among the people.",
+        "And all the prophets, from Samuel and afterwards, who have spoken, have told of these days.",
+        "You are the children of the prophets and of the testament which God made to our fathers, saying to Abraham: And in thy seed shall all the kindreds of the earth be blessed.",
+        "To you first, God, raising up his Son, hath sent him to bless you: that every one may convert himself from his wickedness."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 3:11-26",
+      "reference": "Acts 3:11-26",
+      "heading": "A reading from the Book of  the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they told what things were done in the way: and how they knew him in the breaking of bread.",
+        "Now, whilst they were speaking these things, Jesus stood in the midst of them and saith to them: Peace be to you. It is I: Fear not.",
+        "But they being troubled and frightened, supposed that they saw a spirit.",
+        "And he said to them: Why are you troubled, and why do thoughts arise in your hearts?",
+        "See my hands and feet, that it is I myself. Handle, and see: for a spirit hath not flesh and bones, as you see me to have.",
+        "And when he had said this, he shewed them his hands and feet.",
+        "But while they yet believed not and wondered for joy, he said: Have you here any thing to eat?",
+        "And they offered him a piece of a broiled fish and a honeycomb.",
+        "And when he had eaten before them, taking the remains, he gave to them.",
+        "And he said to them: These are the words which I spoke to you while I was yet with you, that all things must needs be fulfilled which are written in the law of Moses and in the prophets and in the psalms, concerning me.",
+        "Then he opened their understanding, that they might understand the scriptures.",
+        "And he said to them: Thus it is written, and thus it behoved Christ to suffer and to rise again from the dead, the third day:",
+        "And that penance and remission of sins should be preached in his name, unto all nations, beginning at Jerusalem.",
+        "And you are witnesses of these things."
+      ],
+      "lineRefs": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 24:35-48",
+      "reference": "Luke 24:35-48",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SOLEMNITY",
+        "name": "Easter Thursday",
+        "key": "easterThursday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/09.html",
+    "title": "Gospel and Word of the Day - 09 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-09"
+}
