@@ -1,0 +1,229 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "53202b1ed62384a20da3fa889f46fc8c34e6efedd809eb90c87a0d5b18a8223b",
+        "inputSha256": "82214f3351c153210be29c77632e2d69aa668140ec654cc58281fea0777bea6e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "892268cb09d1571c24a52191852a77fc3ca70d5a0ed30d4c1d3b86f3c82bd54a",
+        "inputSha256": "9e7ebcc5ff5ff3fb34494e9e9dda903567f17a592caed854be888de45112c8f6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "fd978bdfd45491e280e344850fc00dc3e1b289bae31fd22f2aa97101b8569a11",
+        "inputSha256": "8a7520e2c751976e948f7676afcc177230a055748834eb8472aec42706212f50",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-10T01:56:05.683Z"
+  },
+  "commentary": {
+    "seminaVerbi": "What’s at stake here is not a metaphysical slogan but jurisdiction over meaning. The authorities ask for the credential that authorizes a healing and a teaching; Peter answers by refusing to let power stay abstract. He pins it to a name, to a public wound, to an execution the court can’t un-know, and to a reversal they cannot administer. The “name” functions like a psychological counter-sovereignty: a single, repeatable word that gathers a scattered crowd into a new allegiance and turns interrogation into indictment.\n\nThe rejected-stone image reads as the return of what a system has expelled to keep itself coherent. Builders maintain order by excluding the unfit; the excluded returns as the corner that holds the structure together. It is scapegoat logic inverted: the victim is not simply mourned but becomes the organizing principle that exposes the builders’ blindness. The healed man, standing there, is the body as evidence; the regime can dispute ideas, but it cannot easily erase a legible wholeness.\n\nSemina Verbi: the insistence on a single saving name speculatively parallels dhikr in Sufism, where repetition of the Name re-centers the self and reorders desire; the name is less label than practice. It also echoes the Hindu idea of nāma as a vehicle of presence, where utterance is participation rather than description. The rejected cornerstone has a charitable kinship with the Daoist sense that what is cast off or “useless” becomes indispensable, and with the Buddhist trope of the despised or broken becoming the site of awakening—speculation, but the shared move is reversal as revelation. The courtroom scene resembles Socrates before the polis: speech that treats judgment as a chance to relocate authority from institution to truth-telling.",
+    "excursus": "This scene is a custody dispute over reality. The priests and Sadducees aren’t “grieved” by a miracle; they’re nauseated by a story that refuses to stay buried. Resurrection is a hostile takeover of the world’s bookkeeping: it cancels the finality that keeps power tidy.\n\nPeter is not arguing; he’s naming. “By what power or by what name” is the court’s attempt to reduce the event to a license. Peter answers with the one thing institutions fear most: an origin that doesn’t need their authorization. The healed man is bait and evidence at once, a body that embarrasses the system by being whole in the wrong jurisdiction.\n\n“You crucified” is less accusation than exposure of desire. They wanted a death that would seal the ledger, and instead it becomes the signature on a counter-document. The rejected stone is their own suppressed remainder returning as architecture.\n\n“No other name” reads like zealotry until you hear it as panic translated into certainty. When the world you trusted is cracking, you cling to a single syllable like a doorframe in an earthquake. Salvation here is not moral improvement; it’s rescue from the unbearable freedom of a universe where death doesn’t obey orders.",
+    "synthesis": "God has constituted Jesus Christ as the sole mediating Name by which human beings are saved, overturning the verdicts of religious authority by resurrection power.",
+    "gospel": [],
+    "reading": [
+      {
+        "text": "The scene is a jurisdictional convergence: cultic officers, aristocratic Sadducees, and the high-priestly network assemble as a single tribunal. Acts frames opposition as institutional, not merely personal—an ecosystem defending its continuity.",
+        "lines": [
+          1,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "Peter’s reply functions as forensic inversion: the hearing meant to judge an unauthorized act becomes an interrogation of the judges’ moral competence. The charge pivots on a “good deed,” forcing the court to appear hostile to mercy in public.",
+        "lines": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The argument is christological and covenantal at once: the rulers’ prior verdict (crucifixion) is treated as a failed assessment of Israel’s cornerstone. Scripture is deployed as an interpretive weapon that reclassifies their decision as rebellion against God’s construction project.",
+        "lines": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "They can tolerate teaching; they cannot tolerate resurrection attached to a Name.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Evening buys time for authority; custody as liturgy of control.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Arithmetic of belief embarrasses the jailers: confinement breeds multiplication.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Power and name: the two currencies of rule; both demanded, neither owned.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Nazareth named; crucifixion assigned; resurrection asserted; the healed body is the exhibit.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Builders reject; God re-architects. The corner is made from refuse.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exclusivity stated without ornament: one Name, one rescue, no surplus exits.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the Paschal mystery have restored your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the Paschal Mystery have renewed your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the paschal mystery have restored your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the Paschal Mystery have restored your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the Paschal mystery have renewed your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who through the paschal mystery have restored your covenant with mankind, grant that we may carry out in our lives what we celebrate in faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty, since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And as they were speaking to the people the priests and the officer of the temple and the Sadducees came upon them,",
+        "Being grieved that they taught the people and preached in Jesus the resurrection from the dead:",
+        "And they laid hands upon them and put them in hold till the next day: for it was now evening.",
+        "But many of them who had heard the word believed: and the number of the men was made five thousand.",
+        "And it came to pass on the morrow, that their princes and ancients and scribes were gathered together in Jerusalem.",
+        "And Annas the high priest and Caiphas and John and Alexander: and as many as were of the kindred of the high priest.",
+        "And setting them in the midst, they asked: By what power or by what name, have you done this?",
+        "Then Peter, filled with the Holy Ghost, said to them: Ye princes of the people and ancients, hear.",
+        "If we this day are examined concerning the good deed done to the infirm man, by what means he hath been made whole:",
+        "Be it known to you all and to all the people of Israel, that by the name of our Lord Jesus Christ of Nazareth, whom you crucified, whom God hath raised from the dead, even by him, this man standeth here before you, whole.",
+        "This is the stone which was rejected by you the builders, which is become the head of the corner.",
+        "Neither is there salvation in any other. For there is no other name under heaven given to men, whereby we must be saved."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 4:1-12",
+      "reference": "Acts 4:1-12",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SOLEMNITY",
+        "name": "Easter Friday",
+        "key": "easterFriday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/10.html",
+    "title": "Gospel and Word of the Day - 10 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-10"
+}
