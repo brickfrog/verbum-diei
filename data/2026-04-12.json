@@ -1,0 +1,295 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "87ada79eb0ce62349aad21123053e4ebfb32ecffa37b90ada8ef7cdaab1a2703",
+        "inputSha256": "7920c639ab13c0df5e34f0913587d50badf619ba716180f438c0c83bb3fdfb92",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "273b2565cb3099b57b4a0d57ed7c81ffbfae5bb8a0aec096c1bbd9deefc05869",
+        "inputSha256": "5f99db0b1b38b20c7d3df7e06a209868de66135ab82798af9ae1f55853f5b791",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "89d9c7508e18a9ad6b1c8bcafb8564107f8c3adc5733f700e946b81d8f277f50",
+        "inputSha256": "c260d1c3b1db3f54498a2d7fb7bc9bf62c73d82f6ebc964515e2ce0a8eb8b661",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-12T01:55:51.078Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A community hardens into a body when fear is metabolized into rhythm: shared words, shared table, shared time. That cadence functions like a nervous system, turning private panic into collective steadiness, then into generosity that feels less like virtue than like pressure equalizing.\n\nThe closed room and the greeting of peace read like trauma care: the feared world is outside, the wound is inside, and the first medicine is presence that does not force itself by argument. Breath given to the group is a new interiority, a shift from scattered selves to a single organism capable of repair.\n\nThe power to loose and bind sins is the psychology of reintegration: naming harm, receiving release, refusing denial. It is boundary-making for the sake of communion, not control for its own sake.\n\nThomas is the patron of embodied knowledge. He cannot be shamed out of his need for contact; he is converted by consent to touch the wound, and his confession arrives when skepticism is allowed to complete its circuit rather than be bullied into compliance.\n\nSemina Verbi: the common life echoes the Buddhist Sangha’s discipline and the Jain vow of aparigraha (non-possessiveness), not as negation but as freedom from hoarding; speculation, but the same psychic relief is in play. The breath of empowerment resembles Hindu prana and the yogic sense of transmitted life-force, charitably understood as a metaphor for enacted solidarity. The loosening of guilt parallels the Jewish practice of teshuvah and Yom Kippur’s communal repair, where forgiveness is both moral and social. Thomas’s demand for contact rhymes with Zen’s insistence on direct seeing and Sufi emphasis on tasted knowledge (dhawq); speculation, yet the shared instinct is that reality must be encountered, not merely asserted.",
+    "excursus": "Acts sells you an idyll, but it’s a panic economy. “Fear came upon every soul” is not a decorative awe; it’s the engine. The common life is a controlled burn: property liquidated, needs assessed, bodies fed, days synchronized. Gladness and simplicity read like the clean face of a group that has discovered how terror can be metabolized into order. They keep breaking bread because stopping would mean listening to themselves.\n\nJohn stages the same psychology in a sealed room. The doors are shut, the air is thick with threat, and then the dead man appears and says “Peace,” twice, like a sedative. He shows wounds not to prove doctrine but to hook their desire to something touchable; trauma becomes the credential. Then comes the most dangerous gift: authority over guilt. Forgive, retain—control the inner life of the frightened. The community’s warmth in Acts is backed by this jurisdiction.\n\nThomas is the honest symptom. He won’t accept a story that asks him to live on borrowed certainty. He wants contact, the obscene intimacy of finger to nail-print, hand to rib-gap, because only that can compete with dread. Jesus yields, and the surrender is the pivot: belief is born not from purity but from allowed touch. “Blessed are they that have not seen” is not praise but recruitment—an invitation into a life where the wound is no longer visible, yet the system of peace, fear, and supervised forgiveness remains.",
+    "synthesis": "The risen Christ establishes a peace that becomes commission and juridical power in the Church, and this gift produces a concrete communion ordered by need. Faith rests on apostolic witness rather than sight, and that faith is the means of life in his name.",
+    "gospel": [
+      {
+        "text": "John frames the resurrection appearances as a controlled disclosure: repeated entry into the same enclosed setting, then a pivot to textual mediation—“written, that you may believe.” The chapter relocates access to Christ from physical immediacy to authorized witness, making the reader’s belief the intended endpoint of the scene.",
+        "lines": [
+          8,
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Acts depicts a community whose unity is maintained by recurring practices rather than by a single founding event: awe, shared worship rhythms, and divine agency in expansion. The narrative refuses to treat social cohesion as a technique; it is presented as the outward shape of a prior attachment to God’s action.",
+        "lines": [
+          2,
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Perseverance before productivity: doctrine, table, prayers—three anchors.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear arrives as consequence, not obstacle; awe is the church’s first atmosphere.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Together” precedes “common”: communion generates economics.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Need, not equality, is the measure; liquidation becomes liturgy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temple and house: public rite and domestic bread; one accord across spaces.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Growth is attributed upward; salvation is counted as addition, not acclaim.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Locked doors name the world; “Peace” names the new regime entering anyway.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sending follows peace: mission is not bravado but delegated calm.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Breath is transfer, not metaphor: the life of the Risen becomes office.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Forgive/retain: authority that can bind is made explicit, therefore accountable.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Thomas demands contact with wounds; unbelief wants the cost, not the claim.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The highest confession comes from the latest persuaded.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Blessedness is reassigned from sight to trust; faith is the new sensory organ.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who renew the faith of your people by the yearly return of the paschal feasts, increase in us the gifts of your grace, so that we may better understand the inestimable riches of the Baptism that has cleansed us, of the Spirit who has made us be born again, and of the Blood that has redeemed us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who revive the faith of your people with the yearly return of the paschal feasts, increase in us the gifts of your grace, that we may better understand the inestimable riches of the baptism that has cleansed us, of the Spirit who has made us be born again, and of the blood that has redeemed us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who rekindle the faith of your people with the yearly return of the paschal feasts, increase in us the gifts of your grace, that we may better understand the inestimable riches of the Baptism that has cleansed us, of the Spirit who has made us new-born, and of the Blood that has redeemed us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who renew the faith of your people by the annual return of the Paschal feasts, increase in us the gifts of your grace, that we may better understand the inestimable riches of the Baptism that has cleansed us, of the Spirit who has given us new birth, and of the Blood that has redeemed us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who renew the faith of your people with the yearly return of the paschal feasts, increase in us the gifts of your grace, that we may better understand the inestimable riches of the Baptism that has cleansed us, of the Spirit who has made us new-born, and of the Blood that has redeemed us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of infinite mercy, who renew the faith of your people with the annual return of the paschal feasts, increase in us the gifts of your grace, so that we may better understand the inestimable riches of the Baptism that has cleansed us, of the Spirit who has made us be born again, and of the Blood that has redeemed us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday, or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that, after celebrating this day the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises once again. Through Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this dwelling: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And they were persevering in the doctrine of the apostles and in the communication of the breaking of bread and in prayers.",
+        "And fear came upon every soul. Many wonders also and signs were done by the apostles in Jerusalem: and there was great fervor in all.",
+        "And all they that believed were together and had all things common.",
+        "Their possessions and goods they sold and divided them to all, according as every one had need.",
+        "And continuing daily with one accord in the temple and breaking bread from house to house, they took their meat with gladness and simplicity of heart:",
+        "Praising God and having favour with all the people. And the Lord increased daily together such as should be saved."
+      ],
+      "lineRefs": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 2:42-47",
+      "reference": "Acts 2:42-47",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now when it was late the same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst and said to them: Peace be to you. The doors were shut... The same power which could bring Christ's whole body, entire in all its dimensions, through the doors, can without the least question make the same body really present in the sacrament; though both the one and the other be above our comprehension.",
+        "And when he had said this, he shewed them his hands and his side. The disciples therefore were glad, when they saw the Lord.",
+        "He said therefore to them again: Peace be to you. As the Father hath sent me, I also send you.",
+        "When he had said this, he breathed on them; and he said to them: Receive ye the Holy Ghost.",
+        "Whose sins you shall forgive, they are forgiven them: and whose sins you shall retain, they are retained. Whose sins, etc... See here the commission, stamped by the broad seal of heaven, by virtue of which the pastors of Christ's church absolve repenting sinners upon their confession.",
+        "Now Thomas, one of the twelve, who is called Didymus, was not with them when Jesus came.",
+        "The other disciples therefore said to him: We have seen the Lord. But he said to them: Except I shall see in his hands the print of the nails and put my finger into the place of the nails and put my hand into his side, I will not believe.",
+        "And after eight days, again his disciples were within, and Thomas with them. Jesus cometh, the doors being shut, and stood in the midst and said: Peace be to you.",
+        "Then he said to Thomas: Put in thy finger hither and see my hands. And bring hither the hand and put it into my side. And be not faithless, but believing.",
+        "Thomas answered and said to him: My Lord and my God.",
+        "Jesus saith to him: Because thou hast seen me, Thomas, thou hast believed: blessed are they that have not seen and have believed.",
+        "Many other signs also did Jesus in the sight of his disciples, which are not written in this book.",
+        "But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 20:19-31",
+      "reference": "John 20:19-31",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Divine Mercy Sunday",
+        "key": "divineMercySunday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Easter",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/12.html",
+    "title": "Gospel and Word of the Day - 12 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-12"
+}
