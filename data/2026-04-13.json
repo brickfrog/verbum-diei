@@ -1,0 +1,287 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "efc82d359f41bc2d16d63afaed4094af5562a8c1aadc396fecc7d5a25d078fad",
+        "inputSha256": "0d8ff13474f79439f4d023077445b9de9494381dc22a9637d33c3b6e9f03e3e5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "46de4195f4d24a1317de1fc69a098cd8796c9d631d0f3329690a6d5e102bc875",
+        "inputSha256": "45fa6b76c591bc63ce6969e8660593850010a70694ec3725bcd3270da43d7747",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "855147f595b8540b4c616a21e9e6ef98f6914606b6cf5ce0acdd195db9cd9086",
+        "inputSha256": "0e078ade82fb5d39e79e2593e3095fcc3de25c2a7e2ba25558105d8b2ebd8050",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-13T01:56:24.149Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A small, threatened circle turns fear into a single voice, and the room answers back; that resembles the Sikh sangat facing empire and finding courage in collective ardas, and the Quaker meeting where a gathered stillness becomes a force that makes people speak plainly. Speculation: the “place was moved” reads like the somatic shock some Sufi orders describe in dhikr, when remembrance becomes felt as tremor and enlargement.\n\nNicodemus comes by night like a mind split between status and longing; the demand for a second birth echoes Zen’s kenshō, a break in continuity where the old self cannot be tweaked but must be seen through. “Water and Spirit” parallels Hindu dīkṣā and purificatory rites where a teacher’s transmission is not information but a new mode of being. “The Spirit breathes where it will” matches Daoism’s ziran and the qi’s ungraspable movement: you can notice its effects, never command its source. Speculation: it also fits modern depth psychology’s account of transformation arriving as an autonomous eruption, not a moral decision.",
+    "excursus": "They pray like people who have discovered a terrible comfort: history is scripted. The threat is real, but the deeper thrill is that the threat proves the plot. Herod and Pilate and “the people” are not mistakes; they are ingredients. So the community can stop bargaining with reality and start craving impact. They don’t ask for safety. They ask for a louder mouth and a stronger hand, for the kind of signs that make enemies necessary.\n\nNicodemus comes at night because daylight would force him to keep his old face. He offers Jesus a compliment, a credential, a manageable admiration. Jesus refuses the bargain. “Born again” is not moral improvement; it is humiliation, the collapse of the self that knows how to survive. Nicodemus wants technique; Jesus demands a second origin.\n\nThe wind image is not soothing. It is an assault on control. You hear it, you cannot hold it, and it will rearrange your loyalties. In Acts the room shakes; in John the soul shakes. The same desire runs through both: to be carried by something stronger than prudence, even if it costs you your name.",
+    "synthesis": "God’s kingdom is accessed only by Spirit-wrought rebirth, and God’s witnesses are sustained by Spirit-wrought boldness; both are acts of divine sovereignty that subordinate human power and procedure.",
+    "gospel": [
+      {
+        "text": "Nicodemus arrives with credential and inference, but Jesus relocates the discussion from signs to access: the kingdom is not decoded but entered through a birth effected by water and the Holy Ghost, which reconstitutes the person rather than informing him.",
+        "lines": [
+          1,
+          3,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The final image refuses domestication: the Spirit’s action is discerned by its effects yet remains sovereign in origin and destination, making the new birth a divine act that defeats both ritualism and mere rational assent.",
+        "lines": [
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The community responds to a legal-religious squeeze by re-identifying the conflict as opposition to \"the Christ\" rather than to themselves; the prayer converts local intimidation into an instance of the universal pattern of rulers versus the Anointed.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "The petition aims at continuation of apostolic testimony, and the outcome is not policy change but Pentecostal reinforcement: the narrative measures divine favor by empowered proclamation, not by reduced hostility.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "They begin with cosmology, not complaint: the threat is framed inside creation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Psalm as forensic exhibit: Scripture supplies the vocabulary of opposition.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conspiracy reduced to instrument: decree swallows malice without excusing it.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They ask for speech, not safety; power is requested as corroboration, not spectacle.",
+      "lines": [
+        7,
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Architecture reacts to prayer; the shaken room answers the unshaken voice.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Night discipleship: confession hedged by darkness and the plural \"we\".",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "\"See\" before \"enter\": perception is gated by birth, not by argument.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He literalizes the metaphor; age becomes an alibi for unbelief.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Flesh yields only its own kind; the Spirit is not an upgrade but a new source.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Wind/Spirit: audible effects, hidden origin; regeneration resists administrative control.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as your children, that we may be found worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as children, that we may be worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we can call Father, increase in our hearts the spirit of sonship, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of sonship, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we can call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as sons, that we may be found worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the Kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And being let go, they came to their own company and related all that the chief priests and ancients had said to them.",
+        "Who having heard it, with one accord lifted up their voice to God and said: Lord, thou art he that didst make heaven and earth, the sea and all things that are in them.",
+        "Who, by the Holy Ghost, by the mouth of our father David, thy servant, hast said: Why did the Gentiles rage: and the people meditate vain things?",
+        "The kings of the earth stood up: and the princes assembled together against the Lord and his Christ.",
+        "For of a truth there assembled together in this city against thy holy child Jesus, whom thou hast anointed, Herod, and Pontius Pilate, with the Gentiles and the people of Israel,",
+        "To do what thy hand and thy counsel decreed to be done.",
+        "And now, Lord, behold their threatenings: and grant unto thy servants that with all confidence they may speak thy word,",
+        "By stretching forth thy hand to cures and signs and wonders, to be done by the name of thy holy Son, Jesus.",
+        "And when they had prayed, the place was moved wherein they were assembled: and they were all filled with the Holy Ghost: and they spoke the word of God with confidence."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 4:23-31",
+      "reference": "Acts 4:23-31",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there was a man of the Pharisees, named Nicodemus, a ruler of the Jews.",
+        "This man came to Jesus by night and said to him: Rabbi, we know that thou art come a teacher from God; for no man can do these signs which thou dost, unless God be with him.",
+        "Jesus answered and said to him: Amen, amen, I say to thee, unless a man be born again, he cannot see the kingdom of God.",
+        "Nicodemus saith to him: How can a man be born when he is old? Can he enter a second time into his mother's womb and be born again?",
+        "Jesus answered: Amen, amen, I say to thee, unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God. Unless a man be born again, etc... By these words our Saviour hath declared the necessity of baptism; and by the word water it is evident that the application of it is necessary with the words. Matt. 28. 19.",
+        "That which is born of the flesh is flesh: and that which is born of the Spirit is spirit.",
+        "Wonder not that I said to thee: You must be born again.",
+        "The Spirit breatheth where he will and thou hearest his voice: but thou knowest not whence he cometh and whither he goeth. So is every one that is born of the Spirit."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:1-8",
+      "reference": "John 3:1-8",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Martin I, Pope and Martyr",
+        "key": "saintMartinIPopeAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/13.html",
+    "title": "Gospel and Word of the Day - 13 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-13"
+}
