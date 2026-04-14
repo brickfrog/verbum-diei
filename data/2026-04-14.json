@@ -1,0 +1,253 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6e840f1ca6c53d0022b03e3354a6609e15ae041f51166cb9f02e1f4055bbdf60",
+        "inputSha256": "a7a847f2694c709f6ff44d6d0a2d2be013caaa55ef8fe1d21304724ad5c7da1a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e448803c766e1aa24834f8f0468a3a1baf618c22c31a8b901ebb286ceaacf011",
+        "inputSha256": "f532ca6eb4f5a9e71a0eaa38af781b3477194b266d21446f6a16c2c354e6a286",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0da799c2d35c4f9a89eb94e1502f1ed669902bb625a66a1f48baecf4bdd2ccd7",
+        "inputSha256": "b8f57e75925fcef14190ceff553783bcff8a28bda8119aa5c15cae347b7a3d02",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-14T01:55:54.679Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This pair of scenes turns life inside out: inward rebirth makes ownership feel unreal, and a new kind of perception makes fear of loss loosen its grip.\n\nThe common purse reads like the Buddhist sangha’s renunciation turned outward into social design, and like Jain aparigraha as practiced compassion rather than private asceticism. Speculation: it also resembles the Sikh langar ethic extended from meal to marketplace, a refusal to let hierarchy metabolize scarcity.\n\n“Born again” as a wind you can’t command echoes Daoist ziran and wuwei, the self receding until life moves through it without strain. It also touches Sufi fanā: the old identity dissolves, and what remains acts with a strangely clean generosity.\n\nThe lifted serpent as healing-through-gaze has kinship with the Greek pharmakon idea and with Hindu darshan, where seeing is not passive but curative. Speculation: it even rhymes with tantric transformations in which the very symbol of poison is transmuted into remedy.\n\nNicodemus’ bafflement is the psyche’s insistence on mechanics; the text answers with a tradition-wide move: the decisive change is not engineered, it is undergone, and the proof is an altered relationship to risk, status, and possession.",
+    "excursus": "Acts sells you a dream of pure unanimity, but it reads like the afterglow of a crisis: one heart, one soul, because anything less would splinter. Property isn’t shared because everyone suddenly became gentle; it’s surrendered because possession has become suspicious, a rival loyalty. The money is laid at the apostles’ feet like tribute—an erotic submission disguised as charity. “No one needy” is the community’s victory slogan, and Barnabas’s consoling generosity is also a bid to be seen, to be named, to be safe inside the circle.\n\nJohn strips the romance off belonging and calls it birth: not joining, not improving, but being remade by a wind you can’t manage. Nicodemus wants a method; Jesus offers dread. The Spirit’s freedom is not comforting; it means you can be taken. Testimony is power here too—“we speak what we know”—and the refusal to believe is framed as a failure of desire, not intellect. The serpent lifted up is the shock: salvation comes through staring at what terrifies you, the image of venom raised into public view. The community in Acts tries to eliminate lack; John insists lack is the doorway, and the only cure is to be undone by what you cannot control.",
+    "synthesis": "The Spirit generates a new birth that reorders knowledge and ownership under apostolic and Christic authority. Salvation and communion come by received testimony, not by ascent, expertise, or private claim.",
+    "gospel": [
+      {
+        "text": "The dialogue turns on epistemic reversal: Nicodemus demands mechanism, Jesus offers testimony and insists that disbelief is the real incapacity. Earthly/heavenly is not a change of subject but of jurisdiction—life is received by believing the lifted Son, not by mastering an explanation of rebirth.",
+        "lines": [
+          1,
+          3,
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a transfer of security from real estate to an administered common life. The apostles function as a juridical center: assets are liquefied, then reallocated; Barnabas serves as an exemplar showing that the new community is not an ideal but a practiced procedure.",
+        "lines": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Unity is internal first (“heart…soul”), property second. Possession is demoted to speech: “say…his own.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection testimony is presented as the engine of the economy; power precedes philanthropy.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Money placed at “feet”: voluntary surrender becomes visible hierarchy; need, not merit, is the metric.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A man renamed by the Church: identity is reissued as office—“consolation” attached to a seller.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Freedom of the Spirit is not chaos but opacity: heard, not traced; known by effect, not origin.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Expertise indicted: “master” without new birth is credentialed ignorance.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vertical monopoly: only the one who descends can speak of ascent; revelation is not a human climb.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Healing by scandalous instrument: the cure is to look at what should repel—elevation as judgment and remedy.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, make us able to proclaim the victory of Christ risen from the dead; and since in it you have given us the pledge of the gifts to come, grant that one day we may possess them in their fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, make us able to proclaim the victory of the risen Christ; and since in it you have given us the pledge of gifts to come, grant that one day we may possess them in their fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, make us able to proclaim the victory of the risen Christ, and since in it you have given us the pledge of the gifts to come, grant that one day we may possess them in their fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, to make us able to proclaim the victory of the risen Christ; and since in it you have given us the pledge of the gifts to come, grant that one day we may possess them in their fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, make us able to proclaim the victory of Christ risen from the dead, and since in it you have given us the pledge of the gifts to come, grant that one day we may possess them in their fullness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, make us able to proclaim the victory of the risen Christ; and since in it you have given us the pledge of the gifts to come, grant that one day we may possess them in fullness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the multitude of believers had but one heart and one soul. Neither did any one say that aught of the things which he possessed was his own: but all things were common unto them.",
+        "And with great power did the Apostles give testimony of the resurrection of Jesus Christ our Lord: and great grace was in them all.",
+        "For neither was there any one needy among them. For as many as were owners of lands or houses sold them and brought the price of the things they sold,",
+        "And laid it down before the feet of the apostles. And distribution was made to every one, according as he had need.",
+        "And Joseph, who, by the apostles, was surnamed Barnabas (which is, by interpretation, The son of consolation), a Levite, a Cyprian born,",
+        "Having land, sold it and brought the price and laid it at the feet of the Apostles."
+      ],
+      "lineRefs": [
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 4:32-37",
+      "reference": "Acts 4:32-37",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Wonder not that I said to thee: You must be born again.",
+        "The Spirit breatheth where he will and thou hearest his voice: but thou knowest not whence he cometh and whither he goeth. So is every one that is born of the Spirit.",
+        "Nicodemus answered and said to him: How can these things be done?",
+        "Jesus answered and said to him: Art thou a master in Israel, and knowest not these things?",
+        "Amen, amen, I say to thee that we speak what we know and we testify what we have seen: and you receive not our testimony.",
+        "If I have spoken to you earthly things, and you believe not: how will you believe, if I shall speak to you heavenly things?",
+        "And no man hath ascended into heaven, but he that descended from heaven, the Son of man who is in heaven.",
+        "And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up:",
+        "That whosoever believeth in him may not perish, but may have life everlasting."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:7-15",
+      "reference": "John 3:7-15",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 2nd week of Easter",
+        "key": "tuesdayOfThe2ndWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/14.html",
+    "title": "Gospel and Word of the Day - 14 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-14"
+}
