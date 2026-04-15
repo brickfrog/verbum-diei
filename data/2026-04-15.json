@@ -1,0 +1,268 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "65033d9880021ffcf023b3f323474a2a66a3f39c460f48bfd8441e037c2b63a2",
+        "inputSha256": "e474630de80640a7c0bd3b080c0818d320f486b27ced72d8bba3e5cb7b57eb7e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "49cad7d2daeae201d68691f9812752e21ddc34dbbd4aa87b2d9d1969f47aaf6d",
+        "inputSha256": "b964f59cb8764d35feb87af46c7dd806862726226f6d271737b3cae70b834b67",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "849e603214f1b2d80c6b4464fc78057a2a496bb3526f8f51d57bfc7a548b04d4",
+        "inputSha256": "31bea01c9e450ad42fd422a398c5735b821650666a2d93b078e1c77c37011f87",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-15T01:55:48.820Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The jailbreak has the feel of a psyche refusing to be domesticated: when authority is fueled by envy, it clutches bodies, but it can’t hold a message that has become interior necessity. The doors are “opened” at night, the hour of fear and secrecy, as if the unconscious itself makes an exit for what conscience won’t let die. Then the command is not “hide” but “stand” and speak in the most public place. That is the tell: the point is not survival but visibility.\n\nJohn’s light-and-darkness is not metaphysics but moral psychology. “Judgment” is exposure. People don’t reject light because it is false, but because it is accurate. To come into the light is to consent to being read. Salvation is framed as the end of evasions, not the settling of accounts.\n\nSemina Verbi: Plato’s cave (speculation) catches the same violence of illumination, where turning toward the real feels like attack. In Buddhism, avidyā and the reluctance to see dukkha parallels the love of darkness that protects habitual action. In the Bhagavad Gita, doing one’s dharma without concealment resembles “doing truth” as lived alignment rather than mere assent. In Sufism, the unveiling (kashf) resonates with works “made manifest,” not for display but because the self can no longer bear the lie.",
+    "excursus": "This isn’t a morality play about villains hating virtue. It’s a story about custody and exposure. The priestly party is “filled with envy” because the apostles have become ungovernable: a rival channel of meaning inside the temple economy. Prison is not punishment; it’s an attempt to make the new speech private, to return it to the darkness where power can manage it.\n\nThe angel functions less like a miracle vending machine and more like the pressure of reality that keeps breaking containment. Doors stay locked, guards keep their posts, and yet the message is already back in public, as if the institution’s technologies of control are suddenly useless. The dread in the authorities is practical: not “what does God mean?” but “what happens next?” They are in doubt because they can’t predict the crowd. They arrest without violence not from mercy but from fear. The people have become a second court.\n\nJohn’s “light” then reads like an interrogation lamp. Love is not gentle; it is invasive. God “so loved the world” that he refused to leave it alone. The offer of life arrives as exposure, and that’s why people prefer darkness: darkness isn’t just evil, it’s cover, plausible deniability, the ability to keep desire and damage unexamined. Judgment is not a later sentence; it’s the immediate self-condemnation of refusing to be seen.\n\nTo “believe” here is to step into visibility and accept the loss of control. The apostles are the ones who can’t stay hidden even when locked up; they embody the erotic violence of truth: it escapes, it returns to the temple, it speaks again. The saving act is not that you are spared scrutiny, but that you are drawn into it, where your works are made manifest and you discover whether you can bear the light.",
+    "synthesis": "God’s saving gift in the Son is itself the judgment: the Light’s presence divides humanity by what it loves. Divine authority breaks false confinements and re-establishes public witness where God wills.",
+    "gospel": [
+      {
+        "text": "John frames judgment not as a later courtroom scene but as a present state created by relation to the Son’s name (3). The κρίσις is disclosed as self-incurred orientation—love of darkness over light (4). Thus salvation and judgment are not rival divine moods; they are two outcomes produced by one advent: the Light’s arrival makes neutrality impossible and renders unbelief a settled stance rather than mere ignorance.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative pits institutional consolidation against divinely ordered publicity. Arrest (2) is meant to relocate speech from temple to prison; the council’s convening (5) presumes control of the public meaning of events. The failure is epistemic before it is tactical: officials move from command to perplexity (8), because reality will not stay inside their procedure. The report (9) re-centers the apostles exactly where authority tried to dislodge them, exposing that the true contest is over where “teaching” is allowed to occur.",
+        "lines": [
+          2,
+          5,
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Envy dressed as orthodoxy; “heresy” names the faction, not the motive.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Night rescue: authority enters where locks pretend to be final.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“All the words of this life”: not advice, not theory—life as a message with content.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Maximum security, minimum presence; the system intact, its purpose missing.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They avoid violence from piety? No—public opinion becomes the leash.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love measured as giving; the gift is a Son, not a sentiment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not “judge” but “save”: the mission precedes the verdict.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Condemnation is preference: darkness chosen, not merely suffered.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Evil is allergic to exposure; it calls concealment “privacy.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Truth is done, not only thought; manifestation is the consequence of obedience.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive once more this year the Paschal mystery, in which humanity regains its lost dignity and receives the hope of the future resurrection, we ask you, Lord of mercy, that the mystery celebrated in faith may always be made present in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive once again this year the Paschal mystery, in which humanity regains its lost dignity and receives the hope of the resurrection to come, we ask you, Lord of mercy, that the mystery we celebrate in faith may always be made present in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive once more this year the paschal mystery, in which humanity regains its lost dignity and receives the hope of the resurrection to come, we ask you, Lord of mercy, that the mystery celebrated in faith may always be made present in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive once again this year the Paschal mystery, in which humanity regains its lost dignity and receives the hope of the future resurrection, we ask you, Lord of mercy, that the mystery celebrated in faith may always be made present in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive once again this year the paschal mystery, in which humanity regains its lost dignity and receives the hope of the resurrection to come, we ask you, Lord of mercy, that the mystery celebrated in faith may always be made present in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we relive anew this year the Paschal mystery, in which humanity regains its lost dignity and receives the hope of the resurrection to come, we beseech you, Lord of mercy, that the mystery celebrated in faith may always be made present in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart, and you offer to those who come to you a gentle yoke and a light burden; deign, then, to accept the desires and the deeds of the day we have ended. Grant that we may rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then the high priest rising up, and all they that were with him (which is the heresy of the Sadducees) were filled with envy.",
+        "And they laid hands on the apostles and put them in the common prison.",
+        "But an angel of the Lord by night, opening the doors of the prison and leading them out, said:",
+        "Go, and standing speak in the temple to the people all the words of this life.",
+        "Who having heard this, early in the morning, entered into the temple and taught. And the high priest coming, and they that were with him, called together the council and all the ancients of the children of Israel: and they sent to the prison to have them brought.",
+        "But when the ministers came and opening the prison found them not there, they returned and told,",
+        "Saying: The prison indeed we found shut with all diligence, and the keepers standing before the door: but opening it, we found no man within.",
+        "Now when the officer of the temple and the chief priests heard these words, they were in doubt concerning them, what would come to pass.",
+        "But one came and told them: Behold, the men whom you put in prison are in the temple, standing and teaching the people.",
+        "Then went the officer with the ministers and brought them without violence: for they feared the people, lest they should be stoned."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 5:17-26",
+      "reference": "Acts 5:17-26",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "For God so loved the world, as to give his only begotten Son: that whosoever believeth in him may not perish, but may have life everlasting.",
+        "For God sent not his Son into the world, to judge the world: but that the world may be saved by him.",
+        "He that believeth in him is not judged. But he that doth not believe is already judged: because he believeth not in the name of the only begotten Son of God. Is not judged... He that believeth, viz., by a faith working through charity, is not judged, that is, is not condemned; but the obstinate unbeliever is judged, that is, condemned already, by retrenching himself from the society of Christ and his church.",
+        "And this is the judgment: Because the light is come into the world and men loved darkness rather than the light: for their works were evil. The judgment... That is, the cause of his comdemnation.",
+        "For every one that doth evil hateth the light and cometh not to the light, that his works may not be reproved.",
+        "But he that doth truth cometh to the light, that his works may be made manifest: because they are done in God. He that doth truth... that is, he that acteth according to truth, which here signifies the Law of God. Thy law is truth. Psa. 118. 142."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:16-21",
+      "reference": "John 3:16-21",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 2nd week of Easter",
+        "key": "wednesdayOfThe2ndWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/15.html",
+    "title": "Gospel and Word of the Day - 15 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-15"
+}
