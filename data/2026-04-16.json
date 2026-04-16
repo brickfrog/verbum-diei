@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "fb97b3e8a3ff6c4bbaf9ff3d690c6d547beb7247ad1ec5f7805395fff7b06fb0",
+        "inputSha256": "fead69eb4e09a38b01a24f8054d41de14e68c7db274d522606d7b4436a995c19",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "1c278208fb20744f57908482fef296361cbd2482e334f6be8796a19267bae67a",
+        "inputSha256": "a08097fa64fa73942c442fc200ee93ed6d7b91257462756874274bc7e3a5c76b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "670ebf3de93a7bbc9e54477634ed9cbfc3f5395b2ce12f979092f2da639a34e5",
+        "inputSha256": "7357da0e5bf7fe3262edd8e3a99bc91c2e9e5f71c3f43870974f0c54006d48bc",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-16T01:56:17.131Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is a psychology of authority under threat. The council’s fear is not doctrinal error but exposure: “you mean to bring blood upon us” is the anxious reflex of institutions that sense their moral account coming due. Peter’s line cleaves the human order in two, not as piety but as a re-ranking of loyalties: conscience as obedience to the highest known good, even when power calls it insubordination. The result is predictable: truth-telling produces not persuasion but injury, because it forces the listener to choose between repentance and self-justification.\n\nJohn sharpens the same fracture with vertical language: above and below, heaven and earth. It reads like an anatomy of reception. Testimony from “above” is not rejected because it is unintelligible, but because it is total; it asks for a seal, a public consent that redefines reality. “Spirit without measure” is the unbearable abundance of meaning that cannot be domesticated into manageable reform. Refusal hardens into a continuing condition, wrath as the inner weather of resistance, the lived consequence of clinging to the lower story.\n\nSemina Verbi: Peter’s “obey God rather than men” parallels Socrates before Athens in Plato’s Apology, where fidelity to a divine commission outranks civic command. The council’s “cut to the heart” echoes the Buddhist account of kleshas: painful contact with truth triggering aversion rather than awakening. John’s “from above” and “from below” resembles Plato’s cave and the ascent to the Good, with the returned witness met by hostility. Speculation: the “Spirit not by measure” has kinship with Daoist ziran, an unmetered spontaneity that resists bureaucratic control, and with Sufi fanā’, where the self’s cramped calculations dissolve before an overwhelming Real.",
+    "excursus": "Acts is not a triumph of courage; it is a scene of mutual panic. The council is terrified of contamination and of blame—“you mean to bring the blood…upon us”—as if guilt were a plague carried by words. Peter answers with a higher jurisdiction not because he is serene, but because he needs a lever strong enough to pry himself free of their gaze. “We are witnesses” is less testimony than compulsion: once you have seen the executed one reappear as meaning, you cannot stop talking without collapsing back into the old fear. The Holy Ghost functions as the alibi of obsession: we didn’t choose this; it chose us.\n\nJohn sharpens the dread by turning it cosmic. “From above” is not comforting; it is an invasion, a voice that claims absolute altitude and reduces everyone else to earth-speech. The bleak line is that “no man receiveth his testimony,” which reads like a diagnosis of human immunity against the real. Belief, then, is not virtue but susceptibility; you let the foreign element in. The Father’s love gives “all things into his hand,” and desire takes the form of totalization: one figure becomes the single hinge of life.\n\nWrath “abideth” not as punishment later, but as the background weather of refusal now. The council’s impulse to kill is the obvious version of that refusal: if the witness can be silenced, the infection of meaning stops. But the text’s perversity is that the threat is also the lure. To believe is to step into a life that is everlasting because it cannot be shut up; to disbelieve is to keep your earth intact, and live under the pressure of what you had to deny to do so.",
+    "synthesis": "God’s authority, mediated by the exalted Son and attested by the Spirit, overrules every human tribunal. Refusal of that testimony leaves guilt and wrath in place; reception yields repentance, remission, and life.",
+    "gospel": [
+      {
+        "text": "The passage grounds epistemology in mission: reception of the Son’s testimony functions as a seal upon God’s truthfulness. The Father’s love is expressed not sentimentally but as total delegation—“all things”—establishing the Son as final mediator of knowledge and rule.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Spirit and hand belong together: unmeasured Spirit authorizes speech; all things in the Son’s hand authorizes judgment. The text binds revelation to sovereignty; to hear is already to stand under reign.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is juridical theater: the council stages control, but the outcome is not deliberation; it is escalation. Official power meets a claim it cannot domesticate, so the only remaining move is elimination.",
+        "lines": [
+          1,
+          7
+        ]
+      },
+      {
+        "text": "The apostolic speech runs as a compact kerygma: human judgment executed Jesus; divine judgment reverses it by raising and enthroning him, with concrete effects aimed at Israel—repentance and remission. The council is forced to hear its own act reclassified under God’s plan.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The charge about “blood” exposes the real conflict: not public order but culpability. Their “cut to the heart” is not conversion but wounded authority, producing a death-plot rather than confession.",
+        "lines": [
+          2,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "They fear liability more than truth: “bring the blood… upon us.” Conscience recast as accusation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hierarchy inverted: God over men. The only stated rule of action.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Tree” makes the execution a curse-text; their verdict becomes God’s instrument.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exaltation answers humiliation; “Prince and Saviour” names sovereignty and rescue in one breath.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Twofold attestation: apostolic witness plus Spirit given to obedience—evidence tied to submission.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Vertical ontology: above/earth decides authority before any argument begins.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation collides with refusal: testimony offered, reception rare—truth is not self-executing.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No rationed Spirit: the messenger speaks God’s words because God is not stingy with breath.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Faith is not opinion but threshold: life now, wrath remaining—neutrality denied.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the gifts received at this Easter may bear abundant fruit throughout our lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, that the gifts we have received this Easter may bear abundant fruit throughout our lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the gifts received at this Easter may bear abundant fruit throughout our whole life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the gifts we have received in this Easter season may bear abundant fruit throughout our whole life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the gifts received in this Easter season may bear abundant fruit throughout our lives. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the gifts received at this Easter may bear abundant fruit throughout our whole life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with all our body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when they had brought them, they set them before the council. And the high priest asked them,",
+        "Saying: Commanding, we commanded you that you should not teach in this name. And behold, you have filled Jerusalem with your doctrine: and you have a mind to bring the blood of this man upon us.",
+        "But Peter and the apostles answering, said: We ought to obey God rather than men.",
+        "The God of our fathers hath raised up Jesus, whom you put to death, hanging him upon a tree.",
+        "Him hath God exalted with his right hand, to be Prince and Saviour, to give repentance to Israel and remission of sins.",
+        "And we are witnesses of these things: and the Holy Ghost, whom God hath given to all that obey him.",
+        "When they had heard these things, they were cut to the heart: and they thought to put them to death."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 5:27-33",
+      "reference": "Acts 5:27-33",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "He that cometh from above is above all. He that is of the earth, of the earth he is, and of the earth he speaketh. He that cometh from heaven is above all.",
+        "And what he hath seen and heard, that he testifieth: and no man receiveth his testimony.",
+        "He that hath received his testimony hath set to his seal that God is true.",
+        "For he whom God hath sent speaketh the words of God: for God doth not give the Spirit by measure.",
+        "The Father loveth the Son: and he hath given all things into his hand.",
+        "He that believeth in the Son hath life everlasting: but he that believeth not the Son shall not see life: but the wrath of God abideth on him."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:31-36",
+      "reference": "John 3:31-36",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 2nd week of Easter",
+        "key": "thursdayOfThe2ndWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/16.html",
+    "title": "Gospel and Word of the Day - 16 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-16"
+}
