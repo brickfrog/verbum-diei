@@ -1,0 +1,260 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "748fdf13936b4b3f37b3e6f897bad3f29915b61cfcb6df3d2f7f27ff45210b07",
+        "inputSha256": "06f744e6f2e8fba522b446591d15c96d21d24b7896d447f1cea8e837eec2abd3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e5884442813944f203ebede1e146cd217c04791903bcf2ee93faa245130f2607",
+        "inputSha256": "73d91540c0552d4f0996ced8ab21d5323d5173b8ec0e1e623273c0e74fb46af5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0d39871262c3e7e7429cbc32a933920b20b7bc609940db22c572ad69c1728ff6",
+        "inputSha256": "9fb343c5344d1f7f5f6bb1bbd1ed17b017d6a85c49ff071e5dd11bcbc4bbfc9c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-18T01:55:31.443Z"
+  },
+  "commentary": {
+    "seminaVerbi": "A growing body discovers its first fracture along a cultural seam: the Hellenists feel unseen, and the complaint is not heresy but hunger. The psychological move is mature: don’t romanticize unity, redistribute attention. “Serve tables” is not demeaned, it is professionalized; charisma is protected from burnout by structure. The laying on of hands is a transfer of trust, a ritual way of making an invisible contract legible, so resentment doesn’t become a theology of grievance.\n\nThe sea scene is the interior of panic: darkness, wind, effort that goes nowhere. The figure on the water is the intrusion of meaning into raw threat; terror spikes because help arrives in an impossible form. “It is I” lands like a name spoken in a dissociative moment, reuniting the mind around a voice. The sudden arrival reads like the phenomenology of relief: time collapses when fear breaks.\n\nSpeculation: the administrative delegation has kinship with the Confucian ideal of role-differentiation for harmony, and with rabbinic later instincts toward communal officers for tzedakah distribution. The storm-epiphany echoes Stoic ataraxia practices of re-centering under duress, and the Bhagavad Gita’s motif of a divine voice steadying the trembling agent amid chaos. The “walking on water” image also brushes Zen’s use of impossible scenes to rupture ordinary fear-based perception, not as magic but as a shock that loosens the grip of the literal.",
+    "excursus": "Growth doesn’t sanctify; it irritates. The community swells and immediately splits along language, lineage, and hunger. The “murmuring” is the real liturgy: the widows are the body that keeps score, and the score is neglect. The apostles’ solution is not compassion but triage. They refuse the tables, elevate “the word,” and outsource the mess to seven men with respectable faces and ecstatic credentials. It’s a brilliant bureaucratic move: turn grievance into office, make care a department, and call the reorganization Spirit.\n\nStephen is chosen not because the widows need him but because the leaders need distance. Hands are laid, authority is transmitted, and the machine runs smoother. The final line about multiplying converts, even priests, reads like the reward for clean administration: when distribution is stabilized, belief becomes scalable.\n\nOn the sea, the same pattern turns intimate. Darkness, absence, wind: the disciples are doing the work, rowing into resistance, and the one they want most is late. When he arrives, he doesn’t still the storm; he steps on it. The fear isn’t just the uncanny; it’s the dread of a presence that won’t share the labor, only overrides it. “It is I” is not reassurance so much as claim: I am the event that makes your effort irrelevant. They take him in, and the trip is suddenly over. Desire gets what it asked for—arrival without struggle—and discovers the cost: your rowing no longer matters.",
+    "synthesis": "Christ’s presence masters chaos, and his Church grows by ordered ministries that protect the primacy of word and prayer.",
+    "gospel": [
+      {
+        "text": "The narrative compresses causality: departure, hostile elements, immediate arrival. The point is not seamanship but lordship—nature and time stop being obstacles once his presence is received.",
+        "lines": [
+          1,
+          3,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The Twelve refuse role-confusion: proclamation and prayer are treated as non-transferable, while material care is made stable by an appointed layer. This is not a demotion of service but a governance move that keeps the word from being throttled by success.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The outcome is expansion into an unlikely demographic—priests—signaling that internal order is evangelistically consequential: credibility travels through structure.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Growth breeds friction; the first schism is logistical, not doctrinal.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Serve tables” is not shameful; it is simply not their office.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Administration requires pneuma and prudence: charisma conscripted for chores.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The list is mostly Greek—complaint answered by representation; Nicholas singled out as convert.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands turn a task into a ministry; delegation becomes ordination.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Darkness plus absence: the scene is structured as lack.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They measure progress; he ignores distance—authority arrives by contradiction.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The formula “I am” halts fear more than it explains the miracle.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Consent precedes arrival; the crossing ends without further rowing.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a Father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, ever exult as they see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and let your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And in those days, the number of the disciples increasing, there arose a murmuring of the Greeks against the Hebrews, for that their widows were neglected in the daily ministration. Greeks... So they called the Jews that were born and brought up in Greece.",
+        "Then the twelve, calling together the multitude of the disciples, said: It is not reason that we should leave the word of God and serve tables.",
+        "Wherefore, brethren, look ye out among you seven men of good reputation, full of the Holy Ghost and wisdom, whom we may appoint over this business.",
+        "But we will give ourselves continually to prayer and to the ministry of the word.",
+        "And the saying was liked by all the multitude. And they chose Stephen, a man full of faith and of the Holy Ghost, and Philip and Prochorus and Nicanor, and Timon and Parmenas and Nicolas, a proselyte of Antioch.",
+        "These they set before the apostles: and they praying, imposed hands upon them.",
+        "And the word of the Lord increased: and the number of the disciples was multiplied in Jerusalem exceedingly. A great multitude also of the priests obeyed the faith."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 6:1-7",
+      "reference": "Acts 6:1-7",
+      "heading": "A reading from the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when evening was come, his disciples went down to the sea.",
+        "And when they had gone up into a ship, they went over the sea to Capharnaum. And it was now dark: and Jesus was not come unto them.",
+        "And the sea arose, by reason of a great wind that blew.",
+        "When they had rowed therefore about five and twenty or thirty furlongs, they see Jesus walking upon the sea and drawing nigh to the ship. And they were afraid.",
+        "But he saith to them: It is I. Be not afraid.",
+        "They were willing therefore to take him into the ship. And presently the ship was at the land to which they were going."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:16-21",
+      "reference": "John 6:16-21",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 2nd week of Easter",
+        "key": "saturdayOfThe2ndWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/18.html",
+    "title": "Gospel and Word of the Day - 18 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-18"
+}
