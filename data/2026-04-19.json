@@ -1,0 +1,338 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6c7ead639af54f4a993ab49475c2fcd249f9eae254ad741d720aa52c694eeba3",
+        "inputSha256": "7a251529043d35e1c1348e3cb0f9e4f4e8c09b457df3755878f0b9bbffe7fe33",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "470b71e12535c619fa7daf06c97f18114387722a131f0d639283befc3678befa",
+        "inputSha256": "7126ef1a0602d8a95d34e42cc9beaade3b9ee991f4b6caae7f2f191217bf5bc4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0ec2453c62f7234e3766b3a85c8eec657dc239b9bbe541ad2360201fe2130176",
+        "inputSha256": "f339248fc9569dfe9d9a8c37e06dc957682c3d819f13ebe431b2728b8b1229f1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-19T01:56:06.296Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: the hidden companion on the road reads like the Zen motif of the ordinary stranger who is already the teacher, recognized only when the mind drops its project and receives what is given; kenshō arrives as a mundane disclosure.\n\nThe belated recognition at a shared meal parallels the Greek xenia stories where the god travels incognito and is “known” through hospitality, and also the Sufi figure of Khiḍr who instructs through baffling proximity rather than spectacle.\n\nThe “burning heart” as cognition-by-affect has kinship with bhakti’s felt certitude and with yogic tapas as inner heat that signals alignment; knowledge that is first tasted, then formulated.\n\nPeter’s insistence that human malice can be taken up into a larger healing purpose resembles the Bhagavad Gītā’s tension between agency and a wider order, and the Stoic sense of providence transmuting injury into meaning—an interpretation that risks cruelty if it forgets the victim, but as literature it names how trauma is metabolized into narrative.\n\nThe return to Jerusalem after recognition matches the bodhisattva turn back into the world: insight is authenticated not by private rapture but by rejoining the community with a new, steadier speech.",
+    "excursus": "Peter’s sermon is not comfort; it is an indictment disguised as theology. He binds the crowd to a double chain: you killed him, and God wanted it. The phrase “determinate counsel” is a way of forcing the listeners to inhabit a world where their violence is both freely theirs and already metabolized into meaning. Guilt becomes inevitability, and inevitability becomes permission to go on living. The resurrection, then, is not a reward for virtue but the state’s failed attempt at erasure: the corpse will not stay managed.\n\nEmmaus is the same psychic maneuver, played smaller and more intimate. The disciples don’t recognize him because recognition would collapse their story of loss; the stranger lets them rehearse it, lets them savor the wound. He needles them—“What things?”—not from ignorance but to draw out their desire: they wanted redemption, they got a disappearance. He seduces them with interpretation, with scripture as a slow hypnosis, until longing becomes heat. The dread is that nothing happened; the desire is that everything happened; the text offers a third option: meaning happens when you are fed.\n\nThe “breaking of bread” is not a pious sign but a trigger. In the moment the body should be present, it vanishes. He gives himself only as an interruption: a flash of recognition followed by absence, like an addiction trained into holiness. They are left with burning hearts and empty hands, compelled to run back to the group and repeat the experience until it becomes communal fact. Resurrection here is not a stable presence; it is a technique for keeping love alive by refusing to be possessed.",
+    "synthesis": "God ordains the crucifixion without authoring the sin, and he overturns it by raising and exalting Jesus. The risen Christ is known by Scripture and the breaking of bread, and his exaltation is certified by the gift of the Spirit and apostolic witness.",
+    "gospel": [
+      {
+        "text": "The scene is an epistemology of the resurrection: the disciples’ report is accurate yet mis-framed; Jesus forces them to state it, then re-frames it by a total-scripture reading that makes suffering a necessity rather than a scandal.",
+        "lines": [
+          5,
+          7,
+          12,
+          15
+        ]
+      },
+      {
+        "text": "Emmaus ends in rapid ecclesial reintegration: the private encounter is immediately subordinated to the apostolic center at Jerusalem, where testimony converges and becomes common proclamation.",
+        "lines": [
+          21,
+          22,
+          23
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter argues by enthronement logic: David’s Psalm cannot terminate in David because David’s tomb is still occupied; the oath requires a living heir whose reign is not interrupted by death.",
+        "lines": [
+          5,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The proof moves from text to event to gift: resurrection fulfills Scripture, exaltation yields the Spirit, and the Spirit’s outpouring functions as the present-tense verification of the exalted Christ.",
+        "lines": [
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The apostolic voice is corporate: one mouth, eleven bodies.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Approved… by miracles”: public credentials, not private sentiment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two agencies forced into one sentence: God’s counsel; your murder.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection as jailbreak: death cannot keep custody.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Corruption” is the final indignity; denied here.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Witnesses replace speculation; the claim is forensic.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance is imposed: sight withheld before it is healed.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hope is narrated in the past tense: “we hoped.”",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The rebuke targets tempo: slowness to believe, not lack of data.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He feigns departure to draw out desire; grace solicits consent.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Recognition comes liturgically: identity disclosed in an action.",
+      "lines": [
+        18
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Presence is not possession: known, then withdrawn.",
+      "lines": [
+        19
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice as they are renewed and made young again in spirit, and may the joy of having regained the adoption of sons strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, ever exult as they see themselves renewed and made young again in spirit, and may the joy of having regained adoption as your children strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and made young again in spirit, and may the joy of having regained the grace of filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and rejuvenated in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always exult as they see themselves renewed and made young again in spirit, and may the joy of having regained the grace of filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, ever exult, as they see themselves renewed and made young again in spirit; and may the joy of having regained adoption as your children strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing once more your praises. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell in it and keep us in peace, and may your blessing remain with us always. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But Peter standing up with the eleven, lifted up his voice, and spoke to them: Ye men of Judea, and all you that dwell in Jerusalem, be this known to you and with your ears receive my words.",
+        "Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him, in the midst of you, as you also know:",
+        "This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain. By the determinate, etc... God delivered up his Son; and his Son delivered up himself, for the love of us, and for the sake of our salvation; and so Christ's being delivered up was holy, and was God's own determination. But they who betrayed and crucified him, did wickedly, following therein their own malice and the instigation of the devil; not the will and determination of God, who was by no means the author of their wickedness; though he permitted it; because he could, and did draw out of it so great a good, viz., the salvation of man.",
+        "Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it. Having loosed the sorrow, etc... Having overcome the grievous pains of death and all the power of hell.",
+        "For David saith concerning him: I foresaw the Lord before my face: because he is at my right hand, that I may not be moved.",
+        "For this my heart hath been glad, and my tongue hath rejoiced: moreover my flesh also shall rest in hope.",
+        "Because thou wilt not leave my soul in hell: nor suffer thy Holy One to see corruption.",
+        "Thou hast made known to me the ways of life: thou shalt make me full of joy with thy countenance.",
+        "Ye men, brethren, let me freely speak to you of the patriarch David: that he died and was buried; and his sepulchre is with us to this present say.",
+        "Whereas therefore he was a prophet and knew that God hath sworn to him with an oath, that of the fruit of his loins one should sit upon his throne.",
+        "Foreseeing this, he spoke of the resurrection of Christ. For neither was he left in hell: neither did his flesh see corruption.",
+        "This Jesus hath God raised again, whereof all we are witnesses.",
+        "Being exalted therefore by the right hand of God and having received of the Father the promise of the Holy Ghost, he hath poured forth this which you see and hear."
+      ],
+      "lineRefs": [
+        "14",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 2:14,22-33",
+      "reference": "Acts 2:14,22-33",
+      "heading": "A reading from the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And behold, two of them went, the same day, to a town which was sixty furlongs from Jerusalem, named Emmaus.",
+        "And they talked together of all these things which had happened.",
+        "And it came to pass that while they talked and reasoned with themselves, Jesus himself also, drawing near, went with them.",
+        "But their eyes were held, that they should not know him.",
+        "And he said to them: What are these discourses that you hold one with another as you walk and are sad?",
+        "And the one of them, whose name was Cleophas, answering, said to him: Art thou only a stranger in Jerusalem, and hast not known the things that have been done there in these days?",
+        "To whom he said: What things? And they said: Concerning Jesus of Nazareth, who was a prophet, mighty in work and word before God and all the people.",
+        "And how our chief priests and princes delivered him to be condemned to death and crucified him.",
+        "But we hoped that it was he that should have redeemed Israel. And now besides all this, to-day is the third day since these things were done.",
+        "Yea and certain women also of our company affrighted us who, before it was light, were at the sepulchre,",
+        "And not finding his body, came, saying that they had all seen a vision of angels, who say that he is alive.",
+        "And some of our people went to the sepulchre and found it so as the women had said: but him they found not.",
+        "Then he said to them: O foolish and slow of heart to believe in all things, Which the prophets have spoken.",
+        "Ought not Christ to have suffered these things and so, to enter into his glory?",
+        "And beginning at Moses and all the prophets, he expounded to them in all the scriptures the things that were concerning him.",
+        "And they drew nigh to the town whither they were going: and he made as though he would go farther.",
+        "But they constrained him, saying: Stay with us, because it is towards evening and the day is now far spent. And he went in with them.",
+        "And it came to pass, whilst he was at table with them, he took bread and blessed and brake and gave to them.",
+        "And their eyes were opened: and they knew him. And he vanished out of their sight.",
+        "And they said one to the other: Was not our heart burning within us, whilst he spoke in the way and opened to us the scriptures?",
+        "And rising up, the same hour, they went back to Jerusalem: and they found the eleven gathered together, and those that were with them,",
+        "Saying: The Lord is risen indeed and hath appeared to Simon.",
+        "And they told what things were done in the way: and how they knew him in the breaking of bread."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 24:13-35",
+      "reference": "Luke 24:13-35",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "3rd Sunday of Easter",
+        "key": "3rdSundayOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/19.html",
+    "title": "Gospel and Word of the Day - 19 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-19"
+}
