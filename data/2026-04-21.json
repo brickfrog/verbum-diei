@@ -1,0 +1,259 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "9ce98adbab6cb1cafb26a535e64847a938411bd523615d08165d1d1bbc2feaa5",
+        "inputSha256": "74ff5cf94b16bfbb9c10c21753aea9337d6b975b6ae327520938398f1fc38383",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "81d1e521549cfe403b583248cf6a97de7d173df678a734c86e36ea405fc20231",
+        "inputSha256": "a735e4da6ba32c7644236f54e1dd56832c3c0c2962ebf7b04c1f902c625b775e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "cd8f873e9ecdf249d12102c3b92b9b968f298792b1eb5c3ca7d84cd219c98d0e",
+        "inputSha256": "c3081538026a7ca37a33fba0c5c1ceb290c1b0cf5fea4e4422de5b59e9d7ed09",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-21T01:56:10.798Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Resistance here looks less like ignorance than threatened identity: the ego’s neck stiffens when a demand arrives that would re-order its loyalties, so it asks for “signs” not to learn but to keep control. In that light the persecution functions like a psychic defense that backfires: pressure meant to crush the new life scatters it into wider circulation, the way repression can export the very conflict it tries to contain.\n\nThe “bread” image has close cousins. In Mahayana Buddhism, the bodhisattva’s vow feeds the world by refusing private nirvana; hunger is met by a person-shaped nourishment rather than a commodity. In the Bhagavad Gita, Krishna as the sustaining reality behind offerings parallels a life-giving source that is not reducible to inherited ritual. In Sufism, the Beloved as the only food of the heart mirrors desire redirected from proof to presence. Speculation: even the Zen suspicion of “signs” can be read as kin to the refusal to let miracles become a bargaining chip, insisting that what is given is a mode of being, not a spectacle.",
+    "excursus": "Stephen’s insult lands like a diagnosis delivered in rage: stiffnecked, blocked ears, an inward circumcision that never happened. It is not theology; it is psychology under pressure. The crowd cannot bear being read so plainly. “Resisting the Spirit” is simply the refusal to be changed when change is demanded. So they do what every threatened body does: they turn insight into an emergency and purge the source. The persecution is not a mistake in the story; it is the story’s motor. Truth doesn’t gather people; it scatters them. Jerusalem cannot contain what it has heard, so it expels it into Judea and Samaria like a fever breaking.\n\nIn John the demand for a sign is hunger pretending to be skepticism. They want proof, but what they really want is the old arrangement: bread without surrender, manna without intimacy, a God who feeds and then leaves. Jesus refuses the transaction. He answers their craving with himself, which is precisely what they don’t want: not a product, a person; not an event, a dependence. “I am the bread” is a threat to autonomy, a promise that feels like dread. They ask for “always” because they want control of supply; he offers a hungerless life that begins by stripping them of the right to manage their own emptiness.\n\nPut together, the readings say the same ugly thing: we prefer persecution to conversion, and we prefer miracles to communion. The Spirit presses on the tender place, and we call it violence. The bread comes down, and we ask for a receipt.",
+    "synthesis": "Resistance to the Spirit fractures the old center and drives the Gospel outward. Christ himself is the Father’s true bread, and faith is adherence to his person rather than demand for proofs.",
+    "gospel": [
+      {
+        "text": "The dispute is over mediation: whether God is approached through remembered provision (manna, Moses) or through the immediate agency of the Father in the Son. Jesus shifts the category from commodity to communion; “bread” is no longer a thing to be procured by proof but a life-source that redefines what faith is responding to.",
+        "lines": [
+          3,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative turns accusation into history: resistance does not merely reject a message; it reorganizes the Church’s geography. Jerusalem’s cohesion breaks, not as defeat but as compelled expansion, and the apostolic office functions as an anchor point while the body learns movement.",
+        "lines": [
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Stiffnecked”: posture as theology—refusal to bend becomes identity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Uncircumcised “in heart and ears”: covenant mark relocated inward, then weaponized.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Always resist”: not ignorance but habit; the Spirit meets a practiced counter-will.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Persecution as centrifuge: violence becomes distribution.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostles remain while others scatter—center holds as mission moves.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“That we may see and may believe”: belief hired out to spectacle.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They cite manna as leverage: scripture used to set terms for God.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Double “Amen” against nostalgia: Moses demoted; the Giver named.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Bread defined by descent and effect: from heaven, for life, for the world.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Always”: appetite seeks an endless ration, not a Person.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I am” replaces “it is written”: hunger and thirst recoded as Christological.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the door of your kingdom to those who have been reborn of water and the Holy Spirit, increase the grace you have given to your children, that, now cleansed from their sins, they may attain all your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the gate of your kingdom to those who have been reborn of water and the Spirit, increase the grace you have given to your children, that, now purified from their sins, they may attain all your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the gate of your kingdom to those reborn of water and the Spirit, increase the grace you have given to your children, so that, now purified from their sins, they may attain all your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the door of your kingdom to those who have been reborn of water and the Spirit, increase the grace you have given to your children, so that, now purified of their sins, they may attain all your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the door of your kingdom to those who have been reborn of water and the Spirit, increase the grace you have given to your children, so that, now purified from their sins, they may attain all your promises. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who open the gate of your kingdom to those reborn of water and the Spirit, increase the grace you have given to your children, so that, now purified from their sins, they may attain all your promises. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nEnlighten, Lord, our night and grant us restful sleep; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "You stiffnecked and uncircumcised in heart and ears, you always resist the Holy Ghost. As your fathers did, so do you also.",
+        "And at that time, there was raised a great persecution against the church which was at Jerusalem. And they were all dispersed through the countries of Judea, and Samaria, except the apostles."
+      ],
+      "lineRefs": [
+        "7:51",
+        "8:1"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 7:51—8:1",
+      "reference": "Acts 7:51—8:1",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "They said therefore to him: What sign therefore dost thou shew that we may see and may believe thee? What dost thou work?",
+        "Our fathers did eat manna in the desert, as it is written: He gave them bread from heaven to eat.",
+        "Then Jesus said to them: Amen, amen, I say to you; Moses gave you not bread from heaven, but my Father giveth you the true bread from heaven.",
+        "For the bread of God is that which cometh down from heaven and giveth life to the world.",
+        "They said therefore unto him: Lord, give us always this bread.",
+        "And Jesus said to them: I am the bread of life. He that cometh to me shall not hunger: and he that believeth in me shall never thirst."
+      ],
+      "lineRefs": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:30-35",
+      "reference": "John 6:30-35",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Anselm of Canterbury, Bishop and Doctor of the Church",
+        "key": "saintAnselmOfCanterburyBishopAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/21.html",
+    "title": "Gospel and Word of the Day - 21 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-21"
+}
