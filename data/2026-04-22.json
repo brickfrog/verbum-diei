@@ -1,0 +1,269 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4c8c42dec67da5bf72785c53b225f1295692867dddff6e101e8b492427e6389d",
+        "inputSha256": "55fc35130af25dc64ec617ad969fb213761e8b05f357dfc524acc1c5d376c7dc",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e79d92ac9ef5f553751bfa9ba66c7ee0091c49aba3a84958946a60d52ee788e8",
+        "inputSha256": "d53efb2b1cf88d9060fb53c35727b1fd202d11cffc31c45274ac9b33e1fd8be6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "16b9b14c87ec376477a4e05b70f8fdad3c8634f3fd52eff17fa06c4a9107f24c",
+        "inputSha256": "b4398bedc0cacf5b6fffda0df1fcd58fffa394ca3c2de8836e3d1bc94892feee",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-22T01:55:55.285Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Exile becomes the engine. Persecution doesn’t just scatter bodies; it breaks the parochial shell and forces speech into the open road. Saul’s house-to-house violence is the anxious state policing intimacy; the response is not counter-violence but contagious narration. Philip in Samaria is the psyche’s border-crossing: the despised region becomes the place where blocked life returns as voice, movement, coordination. “Unclean spirits” read as social and inner scripts that seize the throat; their loud exit is the moment repression fails and the person gets their breath back.\n\n“Bread of life” is not doctrine but appetite transfigured. Hunger and thirst name the basic human economy of lack; Jesus claims to be a nourishment that ends frantic acquisition. The refusal—seeing without believing—exposes how spectacle doesn’t heal cynicism. The promise “I will not cast out” is attachment language: a secure bond offered to the chronically rejected self. “Not lose anything” is the opposite of trauma’s fragmentation; it imagines a gathering strong enough to carry every splintered part through time.\n\nSemina Verbi: Buddhism’s bodhisattva vow to not abandon beings parallels “not cast out,” a mercy that refuses disposal. Stoicism’s Logos in exile, with virtue portable under persecution, echoes the scattered preaching; speculation, but the same portability of meaning. In Sikh langar, communal bread as leveling sustenance rhymes with “bread of life,” nourishment as belonging rather than reward. Sufism’s fana and baqa, the surrender of private will into the Beloved’s will, parallels “not to do my own will,” a psychology of consent that paradoxically steadies the self. In Judaism’s Shekhinah accompanying diaspora, the holy traveling with the dispersed mirrors the word that moves with the refugees rather than staying at the center.",
+    "excursus": "The church is born not in comfort but in panic. Stephen’s corpse is the first liturgy, and the “devout men” are not heroes so much as mourners trying to keep grief from spilling into madness. Saul’s house-to-house dragging is the true engine of mission: violence as forced migration, faith as a refugee skill. The word of God travels the way trauma travels, lodged in bodies, carried on foot, spreading because it cannot stay put.\n\nSamaria doesn’t receive a tidy message; it receives a pressure release. “Unclean spirits” scream because the crowd is finally allowed to externalize what has been choking them. Healing looks like exorcism because the real sickness is paralysis of fear, the stuckness that persecution produces. Philip’s miracles are less proof than relief: a public permission to unfreeze.\n\nJesus’ bread speech turns that same dread inward. “You have seen me, and you believe not” is not an accusation; it’s a diagnosis of appetite. Seeing isn’t enough when desire is conflicted, when hunger is safer than satisfaction because hunger keeps you moving, searching, alive. “All that the Father giveth me” sounds like comfort, but it’s also a kind of capture: you are gathered, claimed, enrolled in someone else’s will.\n\nThe promise “I will not cast out” carries its shadow: you are not expelled because you are not quite free to leave. The Father’s will is inventory—lose nothing—like a shepherd, like an accountant, like a lover who refuses to accept abandonment. Resurrection is presented as retention, the final refusal of loss. These texts press a hard consolation: your flight, your doubt, your screaming spirits are not obstacles to being held; they are the very routes by which you are taken in.",
+    "synthesis": "God advances the gospel by scattering the Church and by drawing persons to the Son. Christ’s will is to lose none given to him, but to raise them bodily at the last day.",
+    "gospel": [
+      {
+        "text": "The passage argues that salvation is custodial and eschatological: the Son’s task is not merely to attract followers now but to preserve what is entrusted to him and to complete it in resurrection.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The inner logic is Trinitarian mission: the Father’s giving, the Son’s coming, and the human coming are coordinated without collapse—agency is real, but it is framed by sending and keeping.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Stephen’s burial and “great mourning” mark the hinge where martyrdom becomes institutional memory; the community learns to interpret loss without surrendering its message.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "Samaria functions as the first serious breach of Jerusalem’s enclosure: proclamation crosses a hostile boundary and is authenticated publicly, not by pedigree but by effects that reorder a city’s attention.",
+        "lines": [
+          5,
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Persecution as engine: the church is scattered, not erased.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostles stay put; the body moves without its head.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“House to house” turns domestic space into a hunting ground.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dispersion becomes distribution: the word travels on fugitives.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The demon exits loudly; liberation is not polite.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bread relocates need: hunger and thirst redefined as Christ-shaped.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seeing is indicted; evidence does not compel assent.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Double motion: given by the Father, yet “cometh” by the person.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Descent is obedience: heaven’s bread arrives under command.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your family, and grant that all of us who have received the gift of faith may share in the eternal inheritance of your risen Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your family, and grant that all of us who have received the gift of faith may share in the eternal inheritance of your risen Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the help of your family, and grant that all of us who have received the gift of faith may share in the eternal inheritance of your risen Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the help of your family, and grant that all of us who have received the gift of faith may share in the eternal inheritance of your risen Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the help of your family, and grant that all of us who have received the gift of faith may share in the eternal inheritance of your risen Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the help of your family, and grant that all of us who have received the gift of faith may have a share in the eternal inheritance of your risen Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light: deign, then, to accept the desires and the deeds of the day that has ended; grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And at that time, there was raised a great persecution against the church which was at Jerusalem. And they were all dispersed through the countries of Judea, and Samaria, except the apostles.",
+        "And devout men took order for Stephen's funeral and made great mourning over him.",
+        "But Saul made havock of the church, entering in from house to house: and dragging away men and women, committed them to prison.",
+        "They therefore that were dispersed went about preaching the word of God.",
+        "And Philip, going down to the city of Samaria, preached Christ unto them.",
+        "And the people with one accord were attentive to those things which were said by Philip, hearing, and seeing the miracles which he did.",
+        "For many of them who had unclean spirits, crying with a loud voice, went out.",
+        "And many, taken with the palsy, and that were lame, were healed."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 8:1-8",
+      "reference": "Acts 8:1-8",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus said to them: I am the bread of life. He that cometh to me shall not hunger: and he that believeth in me shall never thirst.",
+        "But I said unto you that you also have seen me, and you believe not.",
+        "All that the Father giveth to me shall come to me: and him that cometh to me, I will not cast out.",
+        "Because I came down from heaven, not to do my own will but the will of him that sent me.",
+        "Now this is the will of the Father who sent me: that of all that he hath given me, I should lose nothing; but should raise it up again in the last day.",
+        "And this is the will of my Father that sent me: that every one who seeth the Son and believeth in him may have life everlasting. And I will raise him up in the last day."
+      ],
+      "lineRefs": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:35-40",
+      "reference": "John 6:35-40",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 3rd week of Easter",
+        "key": "wednesdayOfThe3rdWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/22.html",
+    "title": "Gospel and Word of the Day - 22 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-22"
+}
