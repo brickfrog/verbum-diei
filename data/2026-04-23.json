@@ -1,0 +1,306 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "49e8ca09b31accb8a1fefd681d6c1820f19175b35dbd8541cb6cbb85a2130e6a",
+        "inputSha256": "4034ef41f270377c61abff35e5e3595887a14abbde112ef60ec45bb7bb6af55b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "9a854fd0f60fb6ffa03332cb785fcc4d48f7810805847c458c29b421239b9c92",
+        "inputSha256": "f184492735662d1655b4d2c07ded89006add29313d9b7f7e9a6cca74adda4b60",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6fcf3735c515bd2d0323df2d958a0aba31616c9c73a523799f0fa482417d664a",
+        "inputSha256": "f74668130b580306745075e015c664468d426ee5e041bd20863662365e6a695c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-23T01:56:12.576Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The eunuch’s hunger is textual before it is doctrinal: a body made socially “incomplete” leans on a scroll to name his own suffering, then asks for a human voice to risk a meaning. That move—private reading hitting a wall, then opening to a guide—resembles the rabbinic havruta and midrashic tradition, where scripture is not consumed alone but unlocked by a living interlocutor. Speculation: Philip’s sudden disappearance functions like a Zen finger pointing at the moon; once direct seeing happens, the teacher must vanish so the student can walk.\n\n“Draw him” is eros without coercion, an inward magnetism that makes consent feel inevitable while remaining free. That psychological texture has close cousins in Sufi notions of jadhb, the attraction by the Real that seizes the heart, and in Plotinus’ ascent where the Good pulls rather than pushes. The “bread” image lands like an Upanishadic food-metaphysic—anna as life and consciousness—yet here the nourishment is personal presence, closer to bhakti: not an idea you grasp but a beloved you ingest.\n\nWater on the roadside is the archetype of threshold: a liminal act that rewrites shame into belonging. It recalls the mikveh as boundary-crossing, and also the purificatory river motifs in Hindu and Buddhist practice, where immersion marks a new social and inner identity. Speculation: the eunuch’s joy reads like the relief of someone finally authorized to desire God without apologizing for his body, and the narrative’s speed honors that—no long probation, just the plunge.",
+    "excursus": "This isn’t a story about inclusion. It’s a story about appetite and recruitment in the open glare of the desert, where nobody can pretend it was an accident.\n\nThe eunuch is a man of rank and lack, carrying treasure and carrying absence in his body. He reads a text about a life taken from the earth and a “generation” that cannot be declared, and it hits the sore spot: lineage denied, future sealed. Philip doesn’t answer the question so much as redirect the hunger. He hears a man choking on scripture and offers him a body to attach it to.\n\n“Draw him,” says Jesus, and the word is erotic before it is pious. The Father pulls, the Son feeds; the soul is not argued into belief, it is lured. Bread replaces manna, but the logic is the same: you eat, you live. The eunuch’s urgency at the water is the urgency of someone who feels the hook set. What hinders me? Nothing, if you’ll let yourself be taken.\n\nThen the intimacy is cut. They go down together; they come up, and Philip is snatched away like a dream that vanishes at waking. The convert is left with wet skin, a new allegiance, and no teacher to cling to. He rejoices, yes, but the rejoicing has dread inside it: desire satisfied only by being made dependent on an invisible feeder who promises life and keeps disappearing.",
+    "synthesis": "Grace initiates faith by divine drawing, and that drawn faith is made concrete through apostolic proclamation and sacramental participation in the life that comes down from heaven.",
+    "gospel": [
+      {
+        "text": "John binds epistemology, life, and Eucharistic identity: seeing the Father is restricted, yet life is granted through believing; the bread claim then supplies the mode by which divine life becomes communicable without collapsing Creator into creature. The discourse replaces lineage-pride (“your fathers”) with a new kind of continuity: participation in the one who comes down.",
+        "lines": [
+          3,
+          4,
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The episode stages an apostolic hermeneutic: a public text becomes a christological proclamation, not by private ingenuity but by apostolic speech that names the subject (“Jesus”) and thereby reorders the reader’s world. The narrative treats understanding as ecclesial: the prophet is legible where the apostle speaks.",
+        "lines": [
+          3,
+          10
+        ]
+      },
+      {
+        "text": "The rite is tethered to confession and immediately propels mission. Initiation is not an endpoint but an incorporation into a moving gospel that continues past the convert; the Church’s agent is redistributed (“Azotus… Caesarea”) rather than stationed as a personal chaplain.",
+        "lines": [
+          12,
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Guidance begins with geography: “south,” “down,” “desert.” Salvation routed through emptiness.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A man marked by lack (eunuch) holds surplus (treasures). Power without posterity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Spirit issues not a thesis but an instruction: proximity. Revelation via contact.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Philip runs; the reader rides. The Church hurries; the seeker coasts on privilege.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The text he reads is a voiceless victim; the reader himself is socially voiceless. Scripture mirrors the hearer.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The decisive question is referent: self or other. Interpretation turns on identity.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He spots water before he is told to. Desire outpaces instruction; urgency hunts a sacrament.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Baptism yields separation: the minister vanishes, joy remains. No dependency cultivated.",
+      "lines": [
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Draw” is the verb of grace: attraction, not coercion; motion without violence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Taught of God: instruction relocates from scroll to Father. Pedagogy becomes participation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Manna fed and failed. A miracle can still terminate in death.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Living bread” is not metaphorical nutrition but imported life—downward motion, upward effect.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these days of Easter have revealed your love more clearly to us and have enabled us to know it more deeply, grant that those whom you have delivered from the darkness of error may adhere firmly to the teachings of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these days of Easter have revealed your love to us more clearly and have enabled us to know it more deeply, grant that those whom you have freed from the darkness of error may cling firmly to the teachings of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these Easter days have revealed your love to us more clearly and have allowed us to know it more deeply, grant that those whom you have delivered from the darkness of error may cling firmly to the teachings of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these Easter days have revealed your love to us more clearly and have allowed us to know it more deeply, grant that those whom you have delivered from the darkness of error may adhere firmly to the teachings of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these days of Easter have revealed your love to us more clearly and have allowed us to know it more deeply, grant that those whom you have delivered from the darkness of error may hold fast to the teachings of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in these Easter days have revealed your love more clearly and have allowed us to know it more deeply, grant that those whom you have delivered from the darkness of error may adhere firmly to the teachings of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that will restore our strength, now worn down by the work of the day; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now an angel of the Lord spoke to Philip, saying: Arise, go towards the south, to the way that goeth down from Jerusalem into Gaza: this is desert.",
+        "And rising up, he went. And behold, a man of Ethiopia, an eunuch, of great authority under Candace the queen of the Ethiopians, who had charge over all her treasures, had come to Jerusalem to adore.",
+        "And he was returning, sitting in his chariot and reading Isaias the prophet.",
+        "And the Spirit said to Philip: Go near and join thyself to this chariot.",
+        "And Philip running thither, heard him reading the prophet Isaias. And he said: Thinkest thou that thou understandest what thou readest?",
+        "Who said: And how can I, unless some man shew me? And he desired Philip that he would come up and sit with him.",
+        "And the place of the scripture which he was reading was this: He was led as a sheep to the slaughter: and like a lamb without voice before his shearer, so openeth he not his mouth.",
+        "In humility his judgment was taken away. His generation who shall declare, for his life shall be taken from the earth?",
+        "And the eunuch answering Philip, said: I beseech thee, of whom doth the prophet speak this? Of himself, or of some other man?",
+        "Then Philip, opening his mouth and beginning at this scripture, preached unto him Jesus.",
+        "And as they went on their way, they came to a certain water. And the eunuch said: See, here is water: What doth hinder me from being baptized?",
+        "And Philip said: If thou believest with all thy heart, thou mayest. And he answering, said: I believe that Jesus Christ is the Son of God. If thou believest with all thy heart... The scripture many times mentions only one disposition, as here belief, when others equally necessary are not expressed, viz., a sorrow for sins, a firm hope, and the love of God. Moreover, believing with the whole heart signifies a belief of every thing necessary for salvation.",
+        "And he commanded the chariot to stand still. And they went down into the water, both Philip and the eunuch. And he baptized him.",
+        "And when they were come up out of the water, the Spirit of the Lord took away Philip: and the eunuch saw him no more. And he went on his way rejoicing.",
+        "But Philip was found in Azotus: and passing through, he preached the gospel to all the cities, till he came to Caesarea."
+      ],
+      "lineRefs": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 8:26-40",
+      "reference": "Acts 8:26-40",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "No man can come to me, except the Father, who hath sent me, draw him. And I will raise him up in the last day. Draw him... Not by compulsion, nor by laying the free will under any necessity, but by the strong and sweet motions of his heavenly grace.",
+        "It is written in the prophets: And they shall all be taught of God. Every one that hath heard of the Father and hath learned cometh forth me.",
+        "Not that any man hath seen the Father: but he who is of God, he hath seen the Father.",
+        "Amen, amen, I say unto you: He that believeth in me hath everlasting life.",
+        "I am the bread of life.",
+        "Your fathers did eat manna in the desert: and are dead.",
+        "This is the bread which cometh down from heaven: that if any man eat of it, he may not die.",
+        "I am the living bread which came down from heaven."
+      ],
+      "lineRefs": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:44-51",
+      "reference": "John 6:44-51",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint George, Martyr/Saint Adalbert, Bishop and Martyr",
+        "key": "saintGeorgeMartyrSaintAdalbertBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/23.html",
+    "title": "Gospel and Word of the Day - 23 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-23"
+}
