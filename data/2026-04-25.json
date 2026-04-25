@@ -1,0 +1,260 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a7d9fe53ac8dbdb3474c1d9de16cf1a80c1a8093a580a11865a9bcc5b39ff374",
+        "inputSha256": "1ce82563c886c46b122e960a6681d97c6f27b57cfeb5695c022746e516e058bd",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "89ddacd734b2a21b9f5925bbaad74748d7f858fe4f5b84593cac0c9b0df5d88e",
+        "inputSha256": "4c69b5d0266d13023e4becf9371bce729c3d95fb27bcc3adf3d6bc599650271e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "dfa593f38d55970887ab85484e5e52dd710c73a716185ef12b7a3b681804a6dd",
+        "inputSha256": "589814f25cd60740404d2381fde83a2ae467820401644444439438dc39461a18",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-25T01:55:46.589Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Humility as an actual technology of perception shows up in Stoicism’s prosoche and Epictetus’ suspicion of self-importance: pride makes you porous to disturbance; lowered self makes you harder to hook. The “roaring lion” reads like Buddhism’s Mara or the Yogacara account of kleśas: not a cartoon enemy but the mind’s predatory loop that feeds on agitation; “be sober and watch” is mindful vigilance under another name. Casting cares onto a larger care resembles the Bhagavad Gita’s nishkama karma and surrender to Ishvara, and also Sufi tawakkul: the self relaxes its grip and discovers it is held. The communal “holy kiss” has a close cousin in the Islamic salam and the Jewish shalom: a bodily ritual that trains the nervous system toward peace, not just an idea. The commission to speak to “every creature” brushes against Mahayana bodhisattva vows and Ashoka’s edicts of dharma: a universal address that assumes the good news is not a tribal possession. The “new tongues” can be read, speculatively, as the psyche’s sudden access to unowned speech—akin to shamanic glossolalia or the Dionysian in Greek religion—where language exceeds the ego and becomes instrument rather than trophy. The serpents and poison evoke Indian nāga motifs and the alchemical theme that what kills can be transmuted; psychologically, the image is of handling danger without becoming it. Healing by touch parallels Reiki-like laying on of hands and ancient medical-temple practice; the deeper rhyme is that embodied attention can restore what isolation disorders. Ascension to the “right hand” has an analogue in apotheosis stories and Daoist transcendence; read as literature, it is the narrative claim that the human life can be taken up into a larger order without being erased.",
+    "excursus": "This is not comfort; it is discipline dressed as tenderness. “Cast all your care upon him” sounds like relief, but it’s also a demand to surrender interior life to an authority so vast it can call its pressure “grace.” Humility isn’t a virtue here so much as a survival technique: submit to the elders, submit to the “mighty hand,” keep your head low so the machinery of the group doesn’t crush you. Even Babylon gets folded into it, the exile turned into a mailing address.\n\nThe lion and the devil externalize the real threat: being eaten by fear, by rivalry, by the impulse to defect. The text names dread, then gives you one permitted use for it: vigilance. “Be sober and watch” is an order to live as if you’re always being hunted, and then to call that huntedness holiness. Suffering becomes the entrance fee, and the promise—“after you have suffered a little”—keeps desire on a leash, postponing relief into a future “visitation” that never arrives on your timetable.\n\nMark’s ending turns that pressure outward. If you believe, your body must become proof. New tongues, serpents, poison, healed sick: the community’s anxiety is converted into spectacle, an escalation where doubt is not argued with but outperformed. The missionary command isn’t romance; it’s compulsion—go everywhere, convert everything, or be condemned. Ascension doesn’t remove Jesus; it relocates him into surveillance and validation, “confirming the word with signs,” making faith a public wager where the cost of failure is both spiritual and social.\n\nEven the “holy kiss” lands like a seal: intimacy conscripted. Tenderness becomes enforcement. You are told you are cared for, and then required to demonstrate that care by risking yourself, by submitting, by becoming a sign.",
+    "synthesis": "God grants grace to the humbled and authorizes a world-wide proclamation whose truth is publicly confirmed by His reigning power.",
+    "gospel": [
+      {
+        "text": "The commission is paired with a regime of verification: the message advances with phenomena that assault the borders between speech and spirit (“new tongues,” exorcism). The ascension (“taken up… right hand”) is not withdrawal but enthronement; the narrator frames mission as the earthly extension of a reigning authority.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from abasement to stabilization: calling into “eternal glory” is followed by a deliberate sequence—perfecting, confirming, establishing—so endurance is treated as construction. The author then grounds exhortation in witness and transmission (“By Sylvanus… written briefly”), ending with concrete ecclesial practice (“holy kiss”), because perseverance is not private heroism but a maintained order.",
+        "lines": [
+          6,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Humility is not mood but mutual clothing; pride meets resistance, not debate.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “mighty hand” lowers before it lifts; exaltation is scheduled, not seized.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The devil is not subtle here but loud; predation prefers the inattentive.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resistance is a posture (“strong in faith”), not a counterattack; suffering is standardized across the world.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Babylon” names exile without explanation; election persists under hostile geography.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The mandate ignores boundaries and dignity (“every creature”); proclamation is indiscriminate.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Salvation is tied to belief and baptism; unbelief is self-incriminating.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Immunity and healing are listed as aftermath, not bait; danger is assumed, not denied.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Agency is doubled: they preach, the Lord confirms; efficacy is delegated yet supervised.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you exalted your evangelist Saint Mark with the ministry of preaching the Gospel; grant that we may profit from his teachings in such a way that we may always follow faithfully in the footsteps of Christ. Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the waters of baptism have renewed those who believe in you, grant your help to those reborn in Christ, that they may overcome the snares of evil and remain always faithful to the gifts they have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you who exalted your evangelist Saint Mark with the ministry of preaching the Gospel, grant that we may so profit from his teaching that we may always follow faithfully in the footsteps of Christ. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who raised up your evangelist Saint Mark to the ministry of preaching the Gospel, grant that we may so profit from his teaching that we may always faithfully follow in the footsteps of Christ. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who exalted your Evangelist Saint Mark with the ministry of preaching the Gospel, grant that we may so profit from his teaching that we may always faithfully follow in the footsteps of Christ. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have given your Church the immense joy of the resurrection of Jesus Christ, grant us also the everlasting joy of the kingdom of your chosen ones, so that the frail flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In like manner, ye young men, be subject to the ancients. And do you all insinuate humility one to another: for God resisteth the proud, but to the humble he giveth grace.",
+        "Be you humbled therefore under the mighty hand of God, that he may exalt you in the time of visitation:",
+        "Casting all your care upon him, for he hath care of you.",
+        "Be sober and watch: because your adversary the devil, as a roaring lion, goeth about seeking whom he may devour.",
+        "Whom resist ye, strong in faith: knowing that the same affliction befalls, your brethren who are in the world.",
+        "But the God of all grace, who hath called us unto his eternal glory in Christ Jesus, after you have suffered a little, will himself perfect you and confirm you and establish you.",
+        "To him be glory and empire, for ever and ever. Amen.",
+        "By Sylvanus, a faithful brother unto you, as I think, I have written briefly: beseeching and testifying that this is the true grace of God, wherein you stand.",
+        "The church that is in Babylon, elected together with you, saluteth you. And so doth my son, Mark.",
+        "Salute one another with a holy kiss. Grace be to all you who are in Christ Jesus. Amen. THE SECOND EPISTLE OF ST. PETER THE APOSTLE In this Epistle St. Peter says (chap, 3): Behold this second Epistle I write to you: and before (chap. 1,): Being assured that the laying away of this my tabernacle is at hand. This shews, that it was written a very short time before his martyrdom, which was about thirty-five years after our Lord's Ascension. In this Epistle he admonishes the faithful to be mindful of the great gifts they received from God and to join all other virtues with their faith. He warns them against false teachers, by describing their practices and foretelling their punishments. He describes the dissolution of this world by fire and the day of judgment."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Peter 5:5-14",
+      "reference": "1 Peter 5:5-14",
+      "heading": "A Reading from the First Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he said to them: Go ye into the whole world and preach the gospel to every creature.",
+        "He that believeth and is baptized shall be saved: but he that believeth not shall he condemned.",
+        "And these signs shall follow them that believe: In my name they shall cast out devils. They shall speak with new tongues.",
+        "They shall take up serpents: and if they shall drink any deadly thing, it shall not hurt them. They shall lay their hand upon the sick: and they shall recover.",
+        "And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God.",
+        "But they going forth preached every where: the Lord working withal, and confirming the word with signs that followed. THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. LUKE St. Luke was a native of Antioch, the capital of Syria. He was by profession a physician; and some ancient writers say, that he was very skillful in painting. He was converted by St. Paul and became his disciple and companion in his travels, and fellow-labourer in the ministry of the Gospel. He wrote in Greek, about twenty-four years after our Lord's Ascension."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 16:15-20",
+      "reference": "Mark 16:15-20",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Mark the Evangelist",
+        "key": "saintMarkTheEvangelist"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/25.html",
+    "title": "Gospel and Word of the Day - 25 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-25"
+}
