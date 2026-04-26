@@ -1,0 +1,277 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "81e39c2c03116ab1ed69aa0f8b5e97bb9fab2025d5c11896b2642e32bce4d1c8",
+        "inputSha256": "1dbd2657091b3346ff1c1b8398ae5632d27f1a8f660f2f8e288f073cfea23f71",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7d9a0fae6bbc61862ac8af7b644607e733535658acbaa3fc68df75d02ce41e79",
+        "inputSha256": "9a683ef9fe692c3f600ce179b7693fe156e4817a54f775b4ae098c9993e84120",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6a9ef48271d18680813d395efb525c0a083eb324e65a5e646a0a199e693d27b4",
+        "inputSha256": "599d509e69b4d99f89970ad759fea1288eb3b7feb7037e9e37ae150905b36163",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-26T01:56:08.391Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Peter’s demand for a decisive turn, sealed in water and a new name, rhymes with the Eleusinian and other mystery initiations where confession, washing, and an enacted threshold reframe the self; speculation: the crowd’s “cut to the heart” reads like the classic rupture-before-belonging that rites engineer to make a new identity stick. \n\nThe “door” that legitimates entry into safety and pasture parallels the Tao as a “gate” in the Tao Te Ching and the Zen image of the gateless gate: not a wall to keep people out, but a criterion that exposes grasping shortcuts as self-deception; speculation: the thief is less a villain than the psyche’s impulse to bypass slow transformation. \n\nThe sheep recognizing a voice by name echoes the Hindu guru-disciple dynamic and the Sufi sheikh’s call, where discernment is auditory and relational rather than merely doctrinal, and false guides are judged by the inner taste their words leave. \n\n“Life more abundant” sits close to Buddhist talk of liberation as an increase of capacity—less constriction, more unobstructed movement—while refusing mere survival as the goal; speculation: abundance here is psychological spaciousness, the opposite of the cramped, predatory inner economy the text calls theft.",
+    "excursus": "Acts stages conversion as a mass panic attack that gets branded as salvation. Peter doesn’t persuade; he indicts. “Whom you have crucified” is not theology but a weaponized mirror, a way to make a crowd feel blood on its hands so it will beg for instructions. Compunction becomes social leverage: guilt sharpened into a single permissible exit. Baptism reads like a public surrender, a washing that is also a count, three thousand bodies processed into a new order. “Save yourselves from this perverse generation” is less rescue than secession, the thrill of leaving the contaminated many to join the pure few.\n\nJohn’s shepherd scene is the same mechanism, stripped to its psychological core. The voice is not evidence; it is a trigger. The sheep “know” because they have been trained to know, and what they call discernment is really obedience that feels intimate. Then the twist: the shepherd is not merely guide but gate. He is not pointing to freedom; he is the condition for movement itself. “Go in and go out” sounds like liberty, yet every passage must touch him. Abundant life is offered as enclosure with better grass.\n\nBoth readings eroticize exclusivity. Desire is routed through a single door, and dread is aimed outward at thieves, strangers, perverse generations. The community is born not from love of truth but from fear of being outside and the relief of hearing a voice that says your name while narrowing the world.",
+    "synthesis": "God establishes Jesus as the sole lawful access to salvation, and he gathers his people through public preaching into repentance, baptism, and the gift of the Spirit. Outside this door are only thieves whose work terminates in death, not life.",
+    "gospel": [
+      {
+        "text": "The passage distinguishes true shepherding from counterfeits by authorized entry and by intelligibility to the flock, yet comprehension lags (“they understood not”), requiring reiteration. Jesus resolves the proverb by identifying himself as the singular point of lawful access and salvation; movement “in and out” signals ordered freedom under protection rather than enclosure as an end.",
+        "lines": [
+          2,
+          6,
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Peter’s claim is juridical and cultic: Jesus is installed as “Lord and Christ,” and the hearers are placed under verdict; the prescribed response is incorporation “in the name” with an attached remission and Spirit. The scope of the promise extends outward by divine calling, not by ethnic boundary or human initiative.",
+        "lines": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The narrative counts bodies—“about three thousand”—to show the word’s public efficacy: proclamation creates a people, not merely individual resolutions.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "He stands with the eleven: speech is not private inspiration but public office.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The indictment is second-person: enthronement declared over against their violence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Compunction is the wound that makes counsel possible.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Command, then promise: penance and baptism as the only exit from guilt.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Save yourselves” is urgency inside grace; the generation is named perverse, not merely confused.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Illegitimate access defines the thief: entry without the door is already predation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Voice precedes vision; naming is possession without coercion.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Discernment is acoustic: the flock’s refusal is as decisive as its following.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The metaphor tightens: not only guide but threshold—Christ as access itself.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two intentions: theft and slaughter versus surplus life; motives unmask identities.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you have granted your Church the immeasurable joy of the resurrection of Jesus Christ; grant us also the everlasting joy of the kingdom of your chosen ones, so that the weak flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have granted your Church the immense joy of the Resurrection of Jesus Christ, grant us also the everlasting joy of the kingdom of your chosen ones, so that the frail flock of your Son may share in the admirable victory of its Shepherd. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have granted your Church the immense joy of the resurrection of Jesus Christ, grant us also the eternal joy of the kingdom of your chosen ones, so that the frail flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have given your Church the immense joy of the resurrection of Jesus Christ, grant us also the everlasting joy of the kingdom of your chosen ones, so that the weak flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have granted your Church the immense joy of the resurrection of Jesus Christ, grant us also the everlasting joy of the kingdom of your elect, so that the weak flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have granted your Church the immense joy of the resurrection of Jesus Christ, grant us also the everlasting joy of the kingdom of your chosen ones, so that the weak flock of your Son may share in the wondrous victory of its Shepherd. Who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and in the morning rise joyfully to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell in it and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But Peter standing up with the eleven, lifted up his voice, and spoke to them: Ye men of Judea, and all you that dwell in Jerusalem, be this known to you and with your ears receive my words.",
+        "Therefore let all the house of Israel know most certainly that God hath made both Lord and Christ, this same Jesus, whom you have crucified.",
+        "Now when they had heard these things, they had compunction in their heart and said to Peter and to the rest of the apostles: What shall we do, men and brethren?",
+        "But Peter said to them: Do penance: and be baptized every one of you in the name of Jesus Christ, for the remission of your sins. And you shall receive the gift of the Holy Ghost.",
+        "For the promise is to you and to your children and to all that are far off, whomsoever the Lord our God shall call.",
+        "And with very many other words did he testify and exhort them, saying: Save yourselves from this perverse generation.",
+        "They therefore that received his word were baptized: and there were added in that day about three thousand souls."
+      ],
+      "lineRefs": [
+        "14",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 2:14,36-41",
+      "reference": "Acts 2:14,36-41",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Amen, amen, I say to you: He that entereth not by the door into the sheepfold but climbeth up another way, the same is a thief and a robber.",
+        "But he that entereth in by the door is the shepherd of the sheep.",
+        "To him the porter openeth: and the sheep hear his voice. And he calleth his own sheep by name and leadeth them out.",
+        "And when he hath let out his own sheep, he goeth before them: and the sheep follow him, because they know his voice.",
+        "But a stranger they follow not, but fly from him, because they know not the voice of strangers.",
+        "This proverb Jesus spoke to them. But they understood not what he spoke.",
+        "Jesus therefore said to them again: Amen, amen, I say to you, I am the door of the sheep.",
+        "All others, as many as have come, are thieves and robbers: and the sheep heard them not.",
+        "I am the door. By me, if any man enter in, he shall be saved: and he shall go in and go out, and shall find pastures.",
+        "The thief cometh not, but for to steal and to kill and to destroy. I am come that they may have life and may have it more abundantly."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 10:1-10",
+      "reference": "John 10:1-10",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "4th Sunday of Easter",
+        "key": "4thSundayOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/26.html",
+    "title": "Gospel and Word of the Day - 26 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-26"
+}
