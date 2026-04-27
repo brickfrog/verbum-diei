@@ -1,4 +1,0 @@
-- [Project Overview](project_overview.md) — Daily Scripture devotional site with liturgical calendar, RSS feeds, optional LLM marginalia
-- [Suggested Commands](suggested_commands.md) — bun run build/generate/serve, date-specific generation, env vars for LLM
-- [Code Style & Conventions](code_style_and_conventions.md) — PureScript+Flame, vanilla JS graceful degradation, CSS Grid + data palettes
-- [Project Structure](project_structure.md) — src/ (PureScript), public/ (generated HTML/CSS/JS), assets/ (bible data), spago+tsc build
