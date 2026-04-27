@@ -1,0 +1,355 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4dc2778f62177fe9d9d6e8449f75884baa5c925c37de8525a663f45e5521f8ad",
+        "inputSha256": "f310c268f964c0dbf178c1e435c6b2631b2f6828729dba371ed23b465b5e8243",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f05c1fd54af14bce96320369585bc76ad0db9b3b2d4219770d78f8dfa2568b0e",
+        "inputSha256": "c899f4ac5438d7ab6d2b6a14b460db4302ab81535443715a0d16d980a62f9296",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "77bf376fb22f617e6ba32791fcdf9f1b382424c0e2805dd320dacc8fe2307503",
+        "inputSha256": "6d3e8f3e03349038041a618a188e8419a49e649712e94c6d18a91e5a71d0d345",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-27T01:56:17.743Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Peter’s sheet is a psyche-image of boundary collapse: the mind’s old purity map protests, then yields to an authority deeper than habit. That arc resembles Zen’s break with discriminating mind in kenshō, and Advaita’s neti-neti stripping of inherited categories; speculation: the thrice-repeated command functions like a ritual battering-ram against obsessive scruple. The shock isn’t novelty but reclassification—what was “unclean” becomes legible as kin.\n\nThe Gentile household receiving Spirit before permission reads like Daoist spontaneity (ziran) humiliating rule-bound virtue: the living current arrives first, the institutions catch up. It also echoes Sufi futuwwa, where hospitality to the outsider reveals who actually serves God; speculation: Peter’s defense is less argument than testimony of being overruled by a larger Self.\n\nThe good shepherd is the anti-hireling archetype: eros as obligation, not transaction. In Mahāyāna, the bodhisattva who stays with suffering beings rather than seeking private safety has the same moral contour. In Plato’s true statesman versus demagogue, and in Confucian ren (benevolent governance), legitimacy is proven by willingness to bear cost for the flock.\n\n“Other sheep” gestures toward a unity not enforced by sameness but by voice-recognition. That is close to the Sikh insistence on one Light in many names, and to Stoic cosmopolis; speculation: the “one fold” is a healed attention, where fear no longer needs an out-group to stay coherent.",
+    "excursus": "These readings aren’t about inclusion; they’re about control disguised as mercy. Peter’s vision arrives like an invasion of appetite: a sheet of crawling life lowered into his prayer, a demand to swallow what disgusts him. He calls it “ecstasy,” but it reads like the psyche cracking under pressure, the old purity system collapsing into a new mandate. Three times the voice drills it in, not because Peter is stupid, but because revulsion is durable. God’s “clean” is less a moral upgrade than a new sovereign declaration: the power to rename bodies.\n\nWhen Peter returns, the circumcision party doesn’t argue doctrine; they protest intimacy: you went in, you ate. The scandal is proximity. Peter defends himself like someone caught in a compromised desire, rehearsing the story “in order,” as if chronology could disinfect hunger. The Spirit’s instruction—go “nothing doubting”—sounds like coercion: don’t think too hard, don’t feel the nausea, just cross the threshold. Even the six brethren function as witnesses, a chaperoned transgression.\n\nThen the Holy Ghost falls on the Gentiles, and it’s not tender; it’s a coup. The community’s identity is rerouted without consent, and the final “glorified God” has the dull ring of capitulation: they held their peace. Repentance unto life is granted like a passport stamped by a regime that just annexed your borders.\n\nIn the Gospel, the “good shepherd” is not a pastoral scene; it’s a man insisting on absolute ownership of violence. He speaks against the hireling to shame ordinary self-preservation, then declares his own death as strategy: I lay it down, I take it again. The wolf is useful; it justifies the shepherd’s monopoly on fear. “Other sheep” aren’t invited; they are claimed. One fold, one shepherd: the dream of unity that always carries the dread of being gathered, sorted, and made to recognize one voice as the only safe sound.\n\nPut together, the texts confess a hard desire: to break taboo, to cross into the forbidden house, and then to sanctify the crossing by calling it God. They also confess the cost: once the voice can rename unclean as clean, it can rename anything. The sheep are saved, yes, but they are also seized.",
+    "synthesis": "God himself constitutes the Church’s boundaries by cleansing and calling, and no human scruple may veto his gift. Christ’s one shepherding gathers one flock by the authoritative self-offering that he freely obeys and overcomes in resurrection.",
+    "gospel": [
+      {
+        "text": "The shepherd’s self-offering is patterned on intra-Trinitarian knowledge and love: pastoral action is an extension of divine relations, not a managerial role.",
+        "lines": [
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The “must bring” establishes mission as divine necessity grounded in the shepherd’s identity; the boundaries of the fold are set by his voice, not by the fold’s gatekeepers.",
+        "lines": [
+          6
+        ]
+      },
+      {
+        "text": "Resurrection authority is presented as obedient power: sovereignty and commandment coincide, so the cross is neither accident nor coercion but enacted mandate.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The controversy is adjudicated by narration: apostolic authority submits its case to a sequence of divine initiatives, not to argument from status.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The repeated “three” and the counted witnesses (“three men,” “six brethren”) build a juridical scaffold: revelation is not private enthusiasm but publicly verifiable direction.",
+        "lines": [
+          11,
+          12
+        ]
+      },
+      {
+        "text": "Salvation arrives by appointed speech; angel and Spirit do not bypass preaching but arrange it, binding grace to proclamation while retaining divine freedom.",
+        "lines": [
+          13,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "The community’s conclusion is not mere toleration but doxology: ecclesial peace is achieved when God’s act is named as God’s act.",
+        "lines": [
+          18
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The Word crosses borders faster than the brethren’s consent.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Table-fellowship is the real scandal; doctrine follows diet.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A sheet from heaven: the altar-cloth becomes a net.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Kill and eat”: permission framed as command.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Not so, Lord”: piety refusing its own Lord.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God cleans; man only labels. The correction is surgical.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three times: the lesson is hammered into the resistant conscience.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Spirit falls before credentials; heaven outruns procedure.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The decisive argument: you cannot litigate against God.",
+      "lines": [
+        17
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Goodness here is measurable: life spent.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Wolf and hireling: danger reveals ownership.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mutual knowledge: not surveillance, recognition.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Other sheep”: inclusion announced as necessity, not courtesy.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One fold, one shepherd: unity without multiple masters.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Life is not taken; it is offered. Authority shows itself in surrender.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, that those who have been freed from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, that those who have been set free from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been delivered from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom, which by our work we have sown today, grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the apostles and brethren, who were in Judea, heard that the Gentiles also had received the word of God.",
+        "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,",
+        "Saying: Why didst thou go in to men uncircumcised and didst eat with them?",
+        "But Peter began and declared to them the matter in order, saying:",
+        "I was in the city of Joppe praying: and I saw in an ecstasy of mind a vision, a certain vessel descending, as it were a great sheet let down from heaven by four corners. And it came even unto me.",
+        "Into which looking, I considered and saw fourfooted creatures of the earth and beasts and creeping things and fowls of the air.",
+        "And I heard also a voice saying to me: Arise, Peter. Kill and eat.",
+        "And I said: Not so, Lord: for nothing common or unclean hath ever entered into my mouth.",
+        "And the voice answered again from heaven: What God hath made clean, do not thou call common.",
+        "And this was done three times. And all were taken up again into heaven.",
+        "And behold, immediately there were three men come to the house wherein I was, sent to me from Caesarea.",
+        "And the Spirit said to me that I should go with them, nothing doubting. And these six brethren went with me also: and we entered into the man's house.",
+        "And he told us how he had seen an angel in his house, standing and saying to him: Send to Joppe and call hither Simon, who is surnamed Peter,",
+        "Who shall speak to thee words whereby thou shalt be saved, and all thy house.",
+        "And when I had begun to speak, the Holy Ghost fell upon them, as upon us also in the beginning.",
+        "And I remembered the word of the Lord, how that he said: John indeed baptized with water but you shall be baptized with the Holy Ghost.",
+        "If then God gave them the same grace as to us also who believed in the Lord Jesus Christ: who was I, that could withstand God?",
+        "Having heard these things, they held their peace and glorified God, saying: God then hath also to the Gentiles given repentance, unto life."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 11:1-18",
+      "reference": "Acts 11:1-18",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "I am the good shepherd. The good shepherd giveth his life for his sheep.",
+        "But the hireling and he that is not the shepherd, whose own the sheep are not, seeth the wolf coming and leaveth the sheep and flieth: and the wolf casteth and scattereth the sheep,",
+        "And the hireling flieth, because he is a hireling: and he hath no care for the sheep.",
+        "I am the good shepherd: and I know mine, and mine know me.",
+        "As the Father knoweth me, and I know the Father: and I lay down my life for my sheep.",
+        "And other sheep I have that are not of this fold: them also I must bring. And they shall hear my voice: And there shall be one fold and one shepherd.",
+        "Therefore doth the Father love me: because I lay down my life, that I may take it again.",
+        "No man taketh it away from me: but I lay it down of myself. And I have power to lay it down: and I have power to take it up again. This commandment have I received of my Father."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 10:11-18",
+      "reference": "John 10:11-18",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 4th week of Easter",
+        "key": "mondayOfThe4thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/27.html",
+    "title": "Gospel and Word of the Day - 27 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-27"
+}
