@@ -29,7 +29,7 @@ package:
     dependencies: []
 workspace:
   packageSet:
-    registry: 68.8.1
+    registry: 76.1.1
   extraPackages:
     argonaut-generic:
       git: "https://github.com/purescript-contrib/purescript-argonaut-generic.git"

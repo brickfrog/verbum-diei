@@ -13,6 +13,7 @@ output
 /public/archive/
 /public/d/
 /public/data/
+/public/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
 /scripts/dra1899.source.txt
 
 # PureScript / Spago
