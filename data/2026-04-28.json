@@ -1,0 +1,297 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6d7bc2d2ecdc773c09cfea1ca3f569ed6e9261c53079efbe6e67ae81619c86cd",
+        "inputSha256": "c2f48e2012bc950e7e3c8815f98488edd0affb9af070a16426d836147af726f0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ea40ffac6811a737663d7043d64e43b5efb4a8d812e58999e87ccd3509c6804f",
+        "inputSha256": "de7795fdf9b36fea16b7b84a46f7ddd9842abb1ebf095698f9c04ae89d20d471",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6973860dd7044db24b2094efefaff09e3d2c1c4a5a2cc3fde6568a415a8ea031",
+        "inputSha256": "cc333a2e5b4f682b36012ae00115301ee2f28cffe317857e1ec12fd5cfc95bfb",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-28T01:56:46.644Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Antioch is where a bruised minority becomes a portable identity: pressure scatters bodies, and the scatter becomes distribution. A name is coined not as a badge of certainty but as a social skin; it holds a mixed crowd together when bloodline and temple can’t. Barnabas functions like a clinician of communities: he doesn’t interrogate origins, he recognizes vitality, then stabilizes it with durable teaching and a steady alliance.\n\nThe sheep image is blunt psychology: belonging is not solved by more data but by recognition. The demand for “plainly” is a demand for control; Jesus refuses the bait and points to a different epistemology—trust formed by lived encounter, not by a verbal contract. “No one can snatch” is attachment language: the self becomes coherent when it experiences a grip stronger than its own anxieties, and that security generates follow-through.\n\nSemina Verbi: the scattering that seeds new centers resembles the Buddhist account of Dharma transmission along trade routes, where persecution and patronage both accidentally spread a path. The “voice” that the true ones recognize echoes Sufi samaʿ and the idea of an inward audition that gathers the disciple to the Shaykh; speculation: the text is describing a phenomenology of being-addressed more than an argument. The unpluckable hand parallels the Bhagavad Gita’s assurance of being held within a larger keeping (yoga-kṣema), and also Stoic providence, where what is truly one’s own cannot be taken; speculation: “one” functions here like nondual language without collapsing persons, closer to certain Vedantic intuitions yet insisting on relational distinction.",
+    "excursus": "Acts is a story of infection, not enlightenment. A mob tries to cauterize Stephen’s blaze, and the scattered bodies carry the fever outward. At first they keep it in the family, speaking “to the Jews only,” as if containment were still possible. Then a few cross the line and speak to Greeks, and the text rushes to cover the breach with piety: “the hand of the Lord was with them.” But what we’re watching is a movement learning it can survive by mutating. Jerusalem hears and dispatches Barnabas like a humane inspector to bless what can no longer be stopped. He “rejoices,” but it reads like relief: better to sanctify the spill than admit loss of control. He fetches Saul, the former enforcer, because every new crowd needs a disciplined conscience. In Antioch they get a name—“Christians”—not as a crown but as a label others can throw, a way to make the strange manageable.\n\nJohn places Jesus in winter, in a colonnade, pinned by a question that isn’t curiosity but hunger for an end to ambiguity: say it plainly, stop suspending our souls. Jesus refuses the clean disclosure they crave. He offers belonging instead: sheep and voice, recognition without argument. It’s seduction and threat at once. If you don’t believe, it’s not because the case is weak; it’s because you’re not his. Identity precedes choice, and the dread is that your deepest freedom has already been sorted. The promise—no one can snatch them—sounds like tenderness, but it’s also captivity: held so tightly even you can’t wriggle out. “I and the Father are one” lands like a slammed door. The same force that drives the message across borders in Acts now claims a total unity that makes dissent feel not merely wrong but unreal. Desire wants the safety of that hand; dread knows the cost is being named, gathered, and kept.",
+    "synthesis": "Christ’s flock exists by the Father’s gift and the Son’s grasp, and its faith is the effect of belonging. The Church’s outward expansion and inward naming are the historical form of that prior divine act.",
+    "gospel": [
+      {
+        "text": "The scene is public and institutional (temple precinct), yet the decisive relation is personal (voice/knowledge/following); covenant is relocated from site to recognition.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "Jesus refuses to reduce messiahship to a slogan; he appeals to enacted testimony “in the name of my Father,” binding his identity to the Father’s authority.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "The sequence—hearing, being known, following—marks election as relational and ongoing, not a single intellectual assent.",
+        "lines": [
+          6
+        ]
+      },
+      {
+        "text": "The Father’s gift-language establishes the flock as granted, not achieved; the Son’s keeping is grounded in the Father’s supremacy.",
+        "lines": [
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Jerusalem responds by inspection and delegation; the center tests the frontier, then legitimizes it by sending a recognized figure.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "Character is narrated as pneumatic: “good” is defined by Spirit-and-faith, not temperament; numerical increase is framed as divine addition, not human scaling.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Persecution becomes geography; scattering is mission by force.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A breach in the ethnic firewall: the message crosses the language line.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Hand” as agency: growth is attributed, not congratulated.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace is treated as visible; exhortation targets the will (“purpose of heart”).",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Barnabas hunts the missing instrument; leadership is recruitment.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A year of speech produces a name; identity congeals around catechesis.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dedication and winter: liturgy plus cold light—no sentimental setting.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They demand “plainly”; unbelief disguises itself as a request for clarity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Causality reversed: not belief → belonging, but belonging → belief.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two “hands,” one grip: security stated as possession, not mere protection.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Unity without collapse: oneness of nature, distinction of persons.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing that we are saved. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing that we are saved. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing that we have been saved. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing that we are saved. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing that we are saved. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, almighty Lord, that the celebration of the feasts of the risen Christ may increase in us the joy of knowing ourselves to be saved. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us restful sleep; that tomorrow we may rise in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now they who had been dispersed by the persecution that arose on occasion of Stephen went about as far as Phenice and Cyprus and Antioch, speaking the word to none, but to the Jews only.",
+        "But some of them were men of Cyprus and Cyrene, who, when they were entered into Antioch, spoke also to the Greeks, preaching the Lord Jesus.",
+        "And the hand of he Lord was with them: and a great number believing, were converted to the Lord.",
+        "And the tidings came to the ears of the church that was at Jerusalem, touching these things: and they sent Barnabas as far as Antioch.",
+        "Who, when he was come and had seen the grace of God, rejoiced. And he exhorted them all with purpose of heart to continue in the Lord.",
+        "For he was a good man and full of the Holy Ghost and of faith. And a great multitude was added to the Lord.",
+        "And Barnabas went to Tarsus to seek Saul: whom, when he had found, he brought to Antioch.",
+        "And they conversed there in the church a whole year: and they taught a great multitude, so that at Antioch the disciples were first named Christians."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 11:19-26",
+      "reference": "Acts 11:19-26",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it was the feast of the dedication at Jerusalem: and it was winter.",
+        "And Jesus walked in the temple, in Solomon's porch.",
+        "The Jews therefore came round about him and said to him: How long dost thou hold our souls in suspense? If thou be the Christ, tell us plainly.",
+        "Jesus answered them: I speak to you, and you believe not: the works that I do in the name of my Father, they give testimony of me.",
+        "But you do not believe, because you are not of my sheep.",
+        "My sheep hear my voice. And I know them: and they follow me.",
+        "And I give them life everlasting: and they shall not perish for ever. And no man shall pluck them out of my hand.",
+        "That which my Father hath given me is greater than all: and no one can snatch them out of the hand of my Father.",
+        "I and the Father are one. I and the Father are one... That is, one divine nature, but two distinct persons."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 10:22-30",
+      "reference": "John 10:22-30",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest",
+        "key": "saintPeterChanelPriestAndMartyrSaintLouisGrignonDeMontfortPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/28.html",
+    "title": "Gospel and Word of the Day - 28 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-28"
+}
