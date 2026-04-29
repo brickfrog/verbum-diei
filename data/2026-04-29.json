@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "10097548cd836cb04f44d4eefcdb0689c39da44b566f73cc4515338a1c590a0c",
+        "inputSha256": "07c9a8758fda543e34d4147375c2aa9c2132e9a9389849013e6a35ef387571e9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "74e83ff5b452bd520e5e4a8c886192a2cc938594af67ae6d84a82a6bbf45d51c",
+        "inputSha256": "66d99c24508f091c97516a09aafe43984fb32a4d8b8165fb3fb51cadb7162d3f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f7d788a1fd202840b4323993ba1748342a46c223fc177c67e9551cbe1b1db35e",
+        "inputSha256": "b1f6df12c5a513ba0408009057364ff794759040e8db4c12c1e4e37146dbfc05",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-29T01:56:22.893Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Antioch’s mixed circle, fasting until a call cuts through, looks like the yogic and monastic intuition that vocation ripens in voluntary emptiness: Hindu sannyasa and Buddhist uposatha days treat hunger as a lever that loosens the self and makes a larger directive audible. Speculation: the “Separate me” functions psychologically like an inner summons given a communal voice, akin to Quaker clearness committees where a group helps distinguish desire from leading.\n\nThe laying on of hands reads as a technology of transmission: not magic, but the body authorizing the body, as in Zen shiho (dharma transmission) and Sufi bay‘a, both insisting that authority is relational, conferred, and risky. Speculation: it also externalizes commitment so the psyche can stop negotiating and start obeying.\n\nJohn’s “light” that does not coerce resembles the Bhagavad Gita’s insistence on disclosure without compulsion, and the Mahayana image of the bodhisattva who illuminates without forcing; the refusal to judge is pedagogical restraint, not indifference. The paradox that the word does not judge now yet judges later parallels the Stoic logos as an impersonal standard: you are not condemned by a temper, but by reality’s structure when you collide with it.\n\n“He that seeth me seeth him that sent me” has a clear analog in Hindu darshan and in icon-veneration logic: the visible trains the heart toward the invisible. Speculation: psychologically it names the way a human face can carry an archetype so densely that encountering the person reorganizes your sense of the real.\n\nPreaching first in synagogues matches the rabbinic instinct that renewal begins inside inherited language; comparable to how Confucian reformers argue within the classics rather than against them. Even departure is staged as fidelity to a grammar already shared.",
+    "excursus": "The “word” is the real protagonist here, a self-propagating force that uses people the way fire uses oxygen. Antioch looks like a calm workshop of fasting and prayer, but it is also a recruitment room: names, pedigrees, proximity to power, the foster-brother of Herod sitting beside the hunted Saul. The Spirit’s command does not comfort; it splits. “Separate me” sounds like possession. Community becomes a launching mechanism, laying hands not to bless but to relinquish, to consent to being diminished so the word can travel.\n\nJohn’s Jesus intensifies the same unease. He cries out, not to invite intimacy, but to redirect attention away from himself, as if individuality is a distraction from the Sender’s program. He claims not to judge, yet installs a delayed judgment that is worse: the word itself will judge, impersonally, later, when you cannot argue back. Light is offered like rescue, but it behaves like exposure; belief is less a warm assent than a submission to being seen through.\n\nTogether they sketch desire as captivity. The word promises “life everlasting,” but it also demands transit, separation, and surrender of self-authorship. You are saved, yes, but saved into a network where speech outlives you and returns at the end to read you aloud.",
+    "synthesis": "God’s saving rule comes through commissioned speech: the Son speaks the Father, and the Spirit sends the church to publish that word, which will finally judge those who refuse it.",
+    "gospel": [
+      {
+        "text": "John binds seeing, speaking, and eternal life into a single chain of mediation: to encounter Jesus is to encounter the Father’s self-disclosure; to hear him is to stand before a commandment that is itself life. The discourse turns revelation into an objective crisis: one’s relation to the uttered word fixes one’s eschatological standing.",
+        "lines": [
+          2,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Acts frames apostolic expansion as administrative clarity: tasks completed, companions chosen, routes named. The narrative insists that mission is not vagueness but ordered movement under a prior claim—“taken” before they go, “sent” before they act.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The Word behaves like life: it reproduces; it does not merely circulate.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Antioch’s roll-call breaks pedigree: blackened name, foreign city, court-bred insider, ex-persecutor—one table.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Liturgy births mission; fasting becomes a listening instrument. The Spirit speaks in the imperative: “Separate.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands confer no private upgrade; they authorize departure. The community’s act is a sending, not a keeping.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They begin inside the synagogue: the gospel first enters by existing doors, then remakes the house.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith in Christ is a refusal of isolation: belief terminates in the Sender.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Light is not decoration but evacuation: it is aimed at “not remain.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Suspended judgment is not moral indifference but a chosen posture of rescue.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The rejected word becomes the judge; condemnation is self-incurred by contact and refusal.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Christ’s speech is commissioned speech; revelation arrives as obedience, not improvisation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, you made Saint Catherine of Siena burn with divine love as she contemplated the passion of your Son and gave herself to the service of the Church; grant, through her intercession, that we may live united to the mystery of Christ, so that we may be filled with joy at the manifestation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who made Saint Catherine of Siena burn with divine love in contemplating the Passion of your Son and in giving herself to the service of the Church, grant, through her intercession, that we may live united to the mystery of Christ, so that we may be filled with joy at the revelation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who made Saint Catherine of Siena burn with divine love in contemplating the Passion of your Son and in giving herself to the service of the Church, grant us, through her intercession, to live united to the mystery of Christ, so that we may be filled with joy at the revelation of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, you made Saint Catherine of Siena burn with divine love as she contemplated the passion of your Son and gave herself to the service of the Church; grant us, through her intercession, to live in union with the mystery of Christ, so that we may be filled with joy at the revelation of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, you made Saint Catherine of Siena burn with divine love in contemplating the Passion of your Son and in giving herself to the service of the Church; grant us, through her intercession, to live united with the mystery of Christ, so that we may be filled with joy at the manifestation of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who made Saint Catherine of Siena burn with divine love in contemplating the passion of your Son and in dedicating herself to the service of the Church, grant, through her intercession, that, sharing in the mystery of Christ, we may be filled with joy at the revelation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLord Jesus Christ, you are gentle and humble of heart, and you offer those who come to you a yoke that is easy and a burden light: graciously accept the desires and the deeds of the day now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But the word of the Lord increased and multiplied.",
+        "And Barnabas and Saul, returned from Jerusalem, having fulfilled their ministry, taking with them John who was surnamed Mark.",
+        "Now there were in the church which was at Antioch prophets and doctors, among whom was Barnabas and Simon who was called Niger, and Lucius of Cyrene and Manahen who was the foster brother of Herod the tetrarch, and Saul.",
+        "And as they were ministering to the Lord and fasting, the Holy Ghost said to them: Separate me Saul and Barnabas, for the work whereunto I have taken them.",
+        "Then they fasting and praying and imposing their hands upon them, sent them away.",
+        "So they, being sent by the Holy Ghost, went to Seleucia: and from thence they sailed to Cyprus.",
+        "And when they were come to Salamina, they preached the word of God in the synagogues of the Jews. And they had John also in the ministry."
+      ],
+      "lineRefs": [
+        "12:24",
+        "12:25",
+        "13:1",
+        "13:2",
+        "13:3",
+        "13:4",
+        "13:5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 12:24—13:5",
+      "reference": "Acts 12:24—13:5",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But Jesus cried and said: He that believeth in me doth not believe in me, but in him that sent me.",
+        "And he that seeth me, seeth him that sent me.",
+        "I am come, a light into the world, that whosoever believeth in me may not remain in darkness.",
+        "And if any man hear my words and keep them not, I do not judge him for I came not to judge the world, but to save the world.",
+        "He that despiseth me and receiveth not my words hath one that judgeth him. The word that I have spoken, the same shall judge him in the last day.",
+        "For I have not spoken of myself: but the Father who sent me, he gave me commandment what I should say and what I should speak.",
+        "And I know that his commandment is life everlasting. The things therefore that I speak, even as the Father said unto me, so do I speak."
+      ],
+      "lineRefs": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 12:44-50",
+      "reference": "John 12:44-50",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "PATRON_OF_EUROPE",
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe",
+        "key": "saintCatherineOfSienaVirginAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/29.html",
+    "title": "Gospel and Word of the Day - 29 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-29"
+}
