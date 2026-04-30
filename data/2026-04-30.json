@@ -1,0 +1,280 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "295a46e6ad82582efe1bea35efa39c23f0017ebbec155fcb53174e7def0b224d",
+        "inputSha256": "4919801ef63ea68e64e6d603e3bd8c09b804e9667238636395004553390524dc",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "22c7e9ff493ff16b326916999fc6f6ebde0a6eb94e6b589ee18f8e6b2a5f9dd2",
+        "inputSha256": "fa8e8132587ae2137af78bb4b926c2c94a0f3b0da6befef08c25799e34b84e6f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d80a246abc0af16f4d07466718877625addc391b4155acc839d516d00c41904c",
+        "inputSha256": "7ad5be32346fa0df15cbdcf94fdc1343ffc61be913eaa4674127719ba7feba0e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-04-30T01:56:36.435Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s speech works like a crafted lineage: identity is made by narrating a people through chosen humiliations, setbacks, and reversals until a single figure can bear the weight of the whole story. That psychological move resembles Virgil’s Rome making itself by retrospectively stitching wanderings into destiny; it also resembles the Mahabharata’s habit of reading a nation through its catastrophes, where the meaning of “now” is always borrowed from an older wound.\n\nThe Gospel’s chain of sending—receive the envoy, receive the source—has a close cousin in Confucian political psychology: authority is validated by proper representation, and loyalty to the messenger becomes loyalty to the order behind him. Speculation: Zen’s “mind-to-mind transmission” intensifies the same dynamic inwardly; the “sender” is not just a superior but the real that stands behind appearances, and betrayal becomes the reflex to kick away what feeds you.\n\nJohn’s self-erasure, refusing the role others project, echoes the Taoist suspicion of titles and the Buddhist discipline of non-appropriation: power is safest when it declines to be possessed. Speculation: the Sufi idea of fanā’ can sound similar—identity thinned so something truer can speak through it—though the emotional register differs, more love than austerity.",
+    "excursus": "Paul’s sermon is an anxiety-management ritual: stitch the crowd into a single, continuous story so nobody has to feel the raw contingency of the present. He recites rescue, endurance, conquest, kingship—God as a force that keeps selecting, moving pieces, excusing the mess as providence. But the seams show. “Endured their manners” is not triumph; it’s divine irritation tolerated. “They desired a king” is not faith; it’s craving for a visible father. Saul arrives like a concession, then gets “removed” with bureaucratic coldness. The promise is less romance than control: history is narrated so the listeners can be owned by it.\n\nJohn’s scene is the nightmare inside that narrative. The servant is not greater, yes—but the line is also a warning: you will be made small on purpose. The blessing is conditional on doing, not understanding, because understanding won’t keep you from betrayal. The chosen circle is already split; intimacy is the doorway the traitor uses. Bread is shared, heel is lifted. Jesus speaks “before it come to pass” not to comfort them, but to pre-empt their panic with prediction, to trap their future disbelief inside his script.\n\nTogether they suggest a harsher psychology of vocation: the mission isn’t powered by purity but by managed dread. Paul promises a Saviour; Jesus predicts a traitor. Desire wants a king; truth arrives as a sender who makes you a servant and calls it blessed. The church is born not from certainty but from being forced to carry a story that keeps breaking, while pretending the breaking was foretold.",
+    "synthesis": "God’s saving rule advances through sent servants whose authority is real only in delegated obedience. To receive the one sent by Christ is to receive Christ and, in him, the Father.",
+    "gospel": [
+      {
+        "text": "The unit ties beatitude to enactment and then grounds apostolic mission in a chain of reception that terminates in God. The community’s ethics and its authority are fused: obedience is the criterion of blessedness, and hospitality to the envoy is the concrete site where the divine claim is encountered.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul enters Israel’s liturgical sequence—Law, Prophets, then exhortation—and inserts the gospel as the next lawful step. The synagogue’s invitation functions as a procedural opening: the claim about Jesus is framed as public reasoning inside Israel’s own reading-habits, not as a private revelation.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The speech builds a compressed genealogy of governance: Exodus, settlement, judges, king, replacement, then “Saviour.” Political desire (“they desired a king”) is neither denied nor endorsed; it is taken up and redirected into promise. John’s baptism appears as the hinge: a national summons to penitence that makes the promised figure legible as deliverer rather than mere successor.",
+        "lines": [
+          5,
+          8,
+          9,
+          11,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Mission advances; a companion retreats. The story keeps moving without him.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A raised hand: authority borrowed, not owned. Silence is requisitioned for a claim.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God “endures” them: covenant narrated as patience, not romance.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gift arrives by ruin; inheritance is parceled out like property after conquest.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "David praised for compliance: “do all my wills.” Heart measured by obedience.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "John empties his own office: identity defined by refusal, greatness by untying shoes.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rank is abolished at the top: lordship sets the ceiling for servants and envoys alike.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Table-fellowship becomes evidence; betrayal is domestic, not distant.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prediction is not spectacle; it is a scaffold for belief under shock.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reception is metaphysics in social form: to take the sent is to take the Sender.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original condition, do not forget your ineffable designs of love, and preserve in those who have been reborn through baptism the gifts they have so generously received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original condition, do not forget your ineffable designs of love, and preserve in those who have been reborn through baptism the gifts they have so generously received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original state, do not forget your ineffable designs of love, and preserve in those who have been reborn through Baptism the gifts they have so generously received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original condition, forget not your ineffable designs of love, and preserve in those who have been reborn through Baptism the gifts they have so generously received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original condition, do not forget your ineffable designs of love, and preserve in those who have been reborn through Baptism the gifts they have so generously received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have restored human nature by raising it above its original condition, do not forget your ineffable designs of love, and preserve in those who have been reborn through baptism the gifts they have so generously received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now when Paul and they that were with him had sailed from Paphos, they came to Perge in Pamphylia. And John departing from them, returned to Jerusalem.",
+        "But they, passing through Perge, came to Antioch in Pisidia: and, entering into the Synagogue on the sabbath day, they sat down.",
+        "And after the reading of the law and the prophets, the rulers of the synagogue sent to them, saying: Ye men, brethren, if you have any word of exhortation to make to the people, speak.",
+        "Then Paul rising up and with his hand bespeaking silence, said: Ye men of Israel and you that fear God, give ear.",
+        "The God of the people of Israel chose our fathers and exalted the people when they were sojourners in the land of Egypt: And with an high arm brought them out from thence:",
+        "And for the space of forty years endured their manners in the desert:",
+        "And, destroying seven nations in the land of Chaanan, divided their land among them by lot.",
+        "As it were, after four hundred and fifty years. And after these things, he gave unto them judges, until Samuel the prophet.",
+        "And after that they desired a king: and God gave them Saul the son of Cis, a man of the tribe of Benjamin, forty years.",
+        "And when he had removed him, he raised them up David to be king: to whom giving testimony, he said: I have found David, the son of Jesse, a man according to my own heart, who shall do all my wills.",
+        "Of this man's seed, God, according to his promise, hath raised up to Israel a Saviour Jesus:",
+        "John first preaching, before his coming, the baptism of penance to all the people of Israel.",
+        "And when John was fulfilling his course, he said: I am not he whom you think me to be. But behold, there cometh one after me, whose shoes of his feet I am not worthy to loose."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 13:13-25",
+      "reference": "Acts 13:13-25",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Amen, amen, I say to you: The servant is not greater than his lord: neither is the apostle greater than he that sent him.",
+        "If you know these things, you shall be blessed if you do them.",
+        "I speak not of you all: I know whom I have chosen. But that the scripture may be fulfilled: He that eateth bread with me shall lift up his heel against me,",
+        "At present I tell you, before it come to pass: that when it shall come to pass, you may believe that I am he.",
+        "Amen, amen, I say to you, he that receiveth whomsoever I send receiveth me: and he that receiveth me receiveth him that sent me."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 13:16-20",
+      "reference": "John 13:16-20",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Pius V, Pope",
+        "key": "saintPiusVPope"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/04/30.html",
+    "title": "Gospel and Word of the Day - 30 April 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/04/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-04-30"
+}
