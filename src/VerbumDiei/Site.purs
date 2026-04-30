@@ -642,8 +642,8 @@ renderGutterRail artifact =
           , el "ul" [ HA.class' "meta-list" ] contextItems
           ])
 
-renderCalPeek :: forall message. Html message
-renderCalPeek =
+renderCalPeek :: forall message. String -> Html message
+renderCalPeek archiveHref =
   el "div"
     [ HA.id "cal-peek"
     , HA.class' "cal-peek is-closed"
@@ -652,7 +652,7 @@ renderCalPeek =
     [ el "h5" [] [ txt "Calendarium" ]
     , el "ul" [ HA.id "cal-peek-list" ] []
     , el "div" [ HA.class' "cal-foot" ]
-        [ el "a" [ HA.href "archive/" ] [ txt "All Days →" ] ]
+        [ el "a" [ HA.href archiveHref ] [ txt "All Days →" ] ]
     ]
 
 renderCalToggle :: forall message. Html message
@@ -736,7 +736,7 @@ artifactDocument config artifact =
       [ documentHead config.assetPrefix ("Verbum Diei · " <> artifact.date)
       , el "body" [ HA.class' "codex-body" ]
           [ renderCalToggle
-          , renderCalPeek
+          , renderCalPeek config.archiveHref
           , el "main" [ HA.class' "codex" ]
               [ el "article" [ HA.class' "codex-page" ]
                   ([ fleuronSvg "tl"
