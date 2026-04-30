@@ -66,8 +66,7 @@ callOpenAiStructured
      }
   -> Aff LlmOutput
 callOpenAiStructured { model, instructions, input, temperature } = do
-  let _ = temperature
-  let request = buildRequest model instructions input 1200 "verbum_diei_analysis" verbumSchema
+  let request = buildRequest model instructions input temperature 1200 "verbum_diei_analysis" verbumSchema
   callOpenAi request parseStructuredResponse
 
 callOpenAiExcursus
@@ -78,8 +77,7 @@ callOpenAiExcursus
      }
   -> Aff String
 callOpenAiExcursus { model, instructions, input, temperature } = do
-  let _ = temperature
-  let request = buildRequest model instructions input 2000 "verbum_diei_excursus" excursusSchema
+  let request = buildRequest model instructions input temperature 2000 "verbum_diei_excursus" excursusSchema
   output <- callOpenAi request parseExcursusResponse
   pure output.excursus
 
@@ -91,8 +89,7 @@ callOpenAiSeminaVerbi
      }
   -> Aff String
 callOpenAiSeminaVerbi { model, instructions, input, temperature } = do
-  let _ = temperature
-  let request = buildRequest model instructions input 2000 "verbum_diei_semina_verbi" seminaVerbiSchema
+  let request = buildRequest model instructions input temperature 2000 "verbum_diei_semina_verbi" seminaVerbiSchema
   output <- callOpenAi request parseSeminaVerbiResponse
   pure output.seminaVerbi
 
@@ -104,8 +101,7 @@ callOpenAiTranslation
      }
   -> Aff String
 callOpenAiTranslation { model, instructions, input, temperature } = do
-  let _ = temperature
-  let request = buildRequest model instructions input 900 "verbum_diei_translation" translationSchema
+  let request = buildRequest model instructions input temperature 900 "verbum_diei_translation" translationSchema
   output <- callOpenAi request parseTranslationResponse
   pure output.translation
 
@@ -126,12 +122,13 @@ callOpenAi requestJson parseResponse = do
             Left errMsg -> throwError (error errMsg)
             Right value -> pure value
 
-buildRequest :: String -> String -> String -> Int -> String -> Json -> Json
-buildRequest model instructions input maxTokens schemaName schema =
+buildRequest :: String -> String -> String -> Number -> Int -> String -> Json -> Json
+buildRequest model instructions input temperature maxTokens schemaName schema =
   obj
     [ Tuple "model" (fromString model)
     , Tuple "instructions" (fromString instructions)
     , Tuple "input" (fromString input)
+    , Tuple "temperature" (fromNumber temperature)
     , Tuple "max_output_tokens" (fromNumber (Int.toNumber maxTokens))
     , Tuple "text" (obj
         [ Tuple "verbosity" (fromString "low")
