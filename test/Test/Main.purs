@@ -27,6 +27,16 @@ main = do
       reading <- fetchBibleReading "John 20:1,21:1-2"
       assertEqual "lineRefs" [ "20:1", "21:1", "21:2" ] reading.lineRefs
 
+    test "keeps comma-separated cross-chapter citations separate" do
+      reading <- fetchBibleReading "John 20:1,21:2"
+      assertEqual "lineRefs" [ "20:1", "21:2" ] reading.lineRefs
+      assertEqual "lines length" 2 (Array.length reading.lines)
+
+    test "keeps semicolon-separated cross-chapter citations separate" do
+      reading <- fetchBibleReading "John 20:1;21:2"
+      assertEqual "lineRefs" [ "20:1", "21:2" ] reading.lineRefs
+      assertEqual "lines length" 2 (Array.length reading.lines)
+
     test "parses ordinal book references" do
       reading <- fetchBibleReading "1 John 1:1-4"
       assertEqual "lineRefs" [ "1", "2", "3", "4" ] reading.lineRefs

@@ -1,5 +1,6 @@
 module VerbumDiei.Bible.Citation
   ( ChapterSegment
+  , CitationRef(..)
   , VersePart(..)
   , VerseRef
   , expandCitation
@@ -21,6 +22,10 @@ type VerseRef =
   { chapter :: Int
   , verse :: Int
   }
+
+data CitationRef
+  = Verse VerseRef
+  | ExplicitCrossChapterRange VerseRef VerseRef
 
 data VersePart
   = Single Int
@@ -79,23 +84,23 @@ parseCitation citation = do
   else
     Left ("Could not parse citation: " <> citation)
 
-expandCitation :: Array ChapterSegment -> Array VerseRef
+expandCitation :: Array ChapterSegment -> Array CitationRef
 expandCitation segments =
   segments >>= \seg ->
     seg.parts >>= expandPart seg.chapter
 
-expandPart :: Int -> VersePart -> Array VerseRef
+expandPart :: Int -> VersePart -> Array CitationRef
 expandPart chapter part =
   case part of
-    Single v -> [ { chapter, verse: v } ]
+    Single v -> [ Verse { chapter, verse: v } ]
     Range start end ->
       let lo = min start end
           hi = max start end
-      in Array.range lo hi <#> \v -> { chapter, verse: v }
+      in Array.range lo hi <#> \v -> Verse { chapter, verse: v }
     CrossChapterRange { startVerse, endChapter, endVerse } ->
-      -- Return endpoint markers only; Bible.purs will expand the full range
-      [ { chapter, verse: startVerse }
-      , { chapter: endChapter, verse: endVerse }
+      [ ExplicitCrossChapterRange
+          { chapter, verse: startVerse }
+          { chapter: endChapter, verse: endVerse }
       ]
 
 mkCursor :: String -> Cursor

@@ -28,7 +28,7 @@ import Node.FS.Sync as FS
 import Node.Path as Path
 import Node.Process as Process
 import VerbumDiei.Artifact (Translation)
-import VerbumDiei.Bible.Citation (VerseRef, expandCitation, parseCitation, parseReference)
+import VerbumDiei.Bible.Citation (CitationRef(..), VerseRef, expandCitation, parseCitation, parseReference)
 
 type BibleReading =
   { reference :: String
@@ -90,17 +90,17 @@ fetchBibleReading reference = do
         Left errMsg ->
           throwError (error errMsg)
         Right segments -> do
-          let refs = expandCitation segments
-          if Array.null refs then
+          let citationRefs = expandCitation segments
+          if Array.null citationRefs then
             throwError (error ("Could not parse citation: " <> citation))
           else do
-            result <- liftEffect $ fetchBibleReadingFromData book citation refs
+            result <- liftEffect $ fetchBibleReadingFromData book citation citationRefs
             case result of
               Left errMsg -> throwError (error errMsg)
               Right reading -> pure reading
 
-fetchBibleReadingFromData :: String -> String -> Array VerseRef -> Effect (Either String BibleReading)
-fetchBibleReadingFromData bookRaw citation refs = do
+fetchBibleReadingFromData :: String -> String -> Array CitationRef -> Effect (Either String BibleReading)
+fetchBibleReadingFromData bookRaw citation citationRefs = do
   data' <- loadData
   case resolveBookNameIn data'.bookByKey bookRaw of
     Nothing ->
@@ -109,8 +109,7 @@ fetchBibleReadingFromData bookRaw citation refs = do
       case FO.lookup book data'.books of
         Nothing -> pure (Left ("Unknown book: " <> book))
         Just chapters -> do
-          -- Expand cross-chapter ranges by filling in all intermediate verses
-          let expandedRefs = expandCrossChapterRefs chapters refs
+          let expandedRefs = expandCitationRefs chapters citationRefs
           let
             sameChapter = case Array.head expandedRefs of
               Nothing -> true
@@ -131,33 +130,16 @@ fetchBibleReadingFromData bookRaw citation refs = do
                   , lines
                   })
 
-expandCrossChapterRefs :: Array (Array String) -> Array VerseRef -> Array VerseRef
-expandCrossChapterRefs chapters refs =
-  case refs of
-    [] -> []
-    [single] -> [single]
-    _ -> expandPairs 0 refs
+expandCitationRefs :: Array (Array String) -> Array CitationRef -> Array VerseRef
+expandCitationRefs chapters refs =
+  refs >>= \ref ->
+    case ref of
+      Verse verseRef -> [ verseRef ]
+      ExplicitCrossChapterRange start end ->
+        [ start ] <> generateCrossChapterGap start end <> [ end ]
   where
-  expandPairs idx refsArray =
-    case Array.index refsArray idx, Array.index refsArray (idx + 1) of
-      Just curr, Just next ->
-        if next.chapter > curr.chapter && next.verse > 1 then
-          -- Cross-chapter range detected (next verse is not at chapter start)
-          -- This distinguishes "2:29–3:6" from "20:1,21:1"
-          let gap = generateGap curr next
-          in [curr] <> gap <> expandPairs (idx + 1) refsArray
-        else
-          -- Same chapter, adjacent verses, or separate citation starting at verse 1
-          [curr] <> expandPairs (idx + 1) refsArray
-      Just curr, Nothing ->
-        -- Last element
-        [curr]
-      _, _ ->
-        []
-
-  generateGap start end =
+  generateCrossChapterGap start end =
     let
-      -- Remaining verses in start chapter (only if there are any)
       startChapterArr = Array.index chapters (start.chapter - 1)
       startMaxVerse = fromMaybe 0 ((\arr -> Array.length arr) <$> startChapterArr)
       remainingInStart =
@@ -167,7 +149,6 @@ expandCrossChapterRefs chapters refs =
         else
           []
 
-      -- All intermediate complete chapters (only if there are any)
       intermediateChapters =
         if start.chapter + 1 <= end.chapter - 1 then
           Array.range (start.chapter + 1) (end.chapter - 1)
@@ -178,7 +159,6 @@ expandCrossChapterRefs chapters refs =
             maxVerse = fromMaybe 0 ((\arr -> Array.length arr) <$> chapterArr)
         in Array.range 1 maxVerse <#> \v -> { chapter: ch, verse: v }
 
-      -- Verses in end chapter before the end verse (only if there are any)
       prefixInEnd =
         if 1 <= end.verse - 1 then
           Array.range 1 (end.verse - 1)
