@@ -1,0 +1,259 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "669abf4b022761e8b6bcee5f732bf4a0c35acf8f19d81d02037466d3dc82d3e7",
+        "inputSha256": "e85c887cc8c0abd4de4f8abe776e1396cdff5c0841bdae2892d470c73b73f4d6",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8392d37e00b923c889943f2d1adebf200008e000a5cd57ce9462085b1a2b09b8",
+        "inputSha256": "c0a7f91df77d073ec8c0a2ad2bb768da865305cc06c515917a519cc96f3b2313",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "25b3757ce12177ee3d3e9c1db51c8cacf658522ed41ddaa20bea7c1456265bcf",
+        "inputSha256": "66d2f229bdc019c58bf73da7e9994d3a65b38fbbaaac760e28f68ec03bd88b26",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-01T01:56:52.980Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: John’s “way” reads like the Tao in Taoism, not as an idea but as a lived alignment that carries you where words can’t. Thomas’s blunt not-knowing resembles Zen’s insistence that clarity begins when the mind stops pretending it already has the map.\n\nThe “many mansions” can be heard beside Hindu talk of loka and Buddhist pure lands: not competing heavens, but a psychology of capacious belonging, where the heart’s fear loosens because reality is wider than one room.\n\nActs’ claim that the rulers “fulfilled” what they didn’t understand parallels Greek tragedy and the Bhagavad Gita’s tension between ignorance and dharma: action can serve a pattern larger than the actor’s grasp. The resurrection-as-vindication echoes the Osiris cycle and Dionysian return, not as borrowed myth, but as a recurring human intuition that life’s deepest truth is not finally canceled by public verdict or state violence.\n\n“Witnesses” feels close to the Buddhist sangha’s transmission and to Jewish edut: truth as something carried by persons and memory, not proved in the abstract. The line “today I have begotten you” touches the Egyptian pharaoh’s sonship and Roman adoption rites, but here the sonship functions as a new identity conferred through passage, as if the self becomes itself only on the far side of death.",
+    "excursus": "Acts and John share a single nerve: power hates ambiguity, and ambiguity is where desire lives. Jerusalem kills Jesus not from certainty but from illiteracy of the very words it recites. The rulers “fulfill” prophecy the way a jealous lover fulfills a suspicion: by forcing the outcome. They can find no cause of death, so they manufacture one, because an innocent man is unbearable. Innocence exposes the machinery.\n\nThe resurrection, in this reading, is not a victory lap but the return of the repressed. The executed one comes back as testimony that the city’s verdict was never clean. “Begotten” is not biology but a public reclassification: the condemned is renamed Son after the fact, as if God’s reply to state murder is to elevate the victim into an identity that cannot be retried.\n\nJohn’s comfort speech is edged with threat. “Let not your heart be troubled” is what you say when trouble is already inside the room. The many mansions sound like tenderness, but also like bureaucracy: rooms, places, assignments. Thomas is the honest one, refusing the gaslight of “you know.” And Jesus answers with a narrowing: not a map but a person, not directions but dependence. The way is a body you must follow, the truth a voice you must trust, the life a tether that makes separation feel like death. The promise is intimacy, but it is also enclosure: you get a home, at the price of a single door.",
+    "synthesis": "God fulfills the fathers’ promise by raising and installing Jesus as Son, and the only passage into the Father’s house is union with that Son, who is himself the way.",
+    "gospel": [
+      {
+        "text": "The discourse shifts from event to destination: Jesus frames his departure as constructive work (preparing, returning, taking), then collapses the question of route into identity. Thomas functions as the necessary interruption that forces exclusivity into the open: communion with the Father is not achieved by correct directions but by attachment to the Son.",
+        "lines": [
+          2,
+          3,
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s argument runs on irony: the city’s authorities enact the very script they fail to read, and that misrecognition becomes the mechanism by which the ancestral promise reaches the next generation. The resurrection is presented as God’s public reversal of the court’s verdict, and Psalm 2 is recruited as legal warrant that the raised Jesus is the installed heir, not merely a revived victim.",
+        "lines": [
+          2,
+          4,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Salvation is not discovered; it is dispatched.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Weekly prophecy, daily blindness: liturgy without recognition.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Innocence does not acquit; it provokes procedure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Tree” names the shame; burial is the world’s full stop.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Begetting is dated: enthronement spoken as birth.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Trouble is treated as a command issue: do not.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Space is promised, not explained; the house outscales the heart.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge claimed before it exists: discipleship’s bluff.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not a map but a person; access narrowed to a single throat.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those of us who call upon you; and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those of us who call upon you; and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those who call upon you, and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those who call upon you, and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those who call upon you, and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, source of our freedom and our salvation, hear the supplications of those of us who call upon you; and since you have saved us by the blood of your Son, grant that we may always live in you and in you find eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Men, brethren, children of the stock of Abraham, and whosoever among you fear God: to you the word of this salvation is sent.",
+        "For they that inhabited Jerusalem and the rulers thereof, not knowing him, nor the voices of the prophets which are read every sabbath, judging him, have fulfilled them.",
+        "And finding no cause of death in him, they desired of Pilate that they might kill him.",
+        "And when they had fulfilled all things that were written of him, taking him down from the tree, they laid him in a sepulchre.",
+        "But God raised him up from the dead the third day.",
+        "Who was seen for many days by them who came up with him from Galilee to Jerusalem, who to this present are his witnesses to the people.",
+        "And we declare unto you that the promise which was made to our fathers,",
+        "This same God hath fulfilled to our children, raising up Jesus, as in the second psalm also is written: Thou art my Son: this day have I begotten thee."
+      ],
+      "lineRefs": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 13:26-33",
+      "reference": "Acts 13:26-33",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Let not your heart be troubled. You believe in God: believe also in me.",
+        "In my Father's house there are many mansions. If not, I would have told you: because I go to prepare a place for you.",
+        "And if I shall go and prepare a place for you, I will come again and will take you to myself: that where I am, you also may be.",
+        "And whither I go you know: and the way you know.",
+        "Thomas saith to him: Lord, we know not whither thou goest. And how can we know the way?",
+        "Jesus saith to him: I am the way, and the truth, and the life. No man cometh to the Father, but by me."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 14:1-6",
+      "reference": "John 14:1-6",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Joseph the Worker",
+        "key": "saintJosephTheWorker"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/01.html",
+    "title": "Gospel and Word of the Day - 01 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-01"
+}
