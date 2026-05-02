@@ -1,0 +1,287 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6e316623700a366d25b910ff29bc65f658da9e1c5a60fa8aefbb382044443aca",
+        "inputSha256": "db94c3f22e9ac52967240cfe27a499329878b30dda4ac42c748034671764f294",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3b9c38535146c733c86b24e1b0305311d7d0169cd5dad0ddd31d82eb70a235ca",
+        "inputSha256": "144016f0aa784099d8c799ba13e1ca2038a59b85ad94cc535b960e702b4bd534",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2ecaa6d2c88005b6474e098e75dccc10f1e3d10113350a7ee11df67c5dabfcfb",
+        "inputSha256": "ac45d38cd4c90964a42bd4f5ffe06a29dfefb30c34bd7affee7d84cb11b380ce",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-02T01:56:35.507Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Acts turns envy into a social weather system: status panic when attention shifts, then the crowd is re-sorted by exclusion. That pivot to the Gentiles reads like a psychological law of diffusion: what a gatekept group refuses becomes portable, and portability is power. The dust-shaking is not petty; it’s boundary hygiene, a refusal to let rejection colonize the inner life, which is why joy follows immediately.\n\nJohn stages Philip’s hunger for the unmediated—“show us”—and answers with an unbearable intimacy: the face you already have is the veil and the unveiling. The line between word and work collapses; speech is action because it is inhabited. “Greater works” is the shock: the disciple’s agency expands precisely through absence, as if loss is the condition for mature power.\n\nSemina Verbi: the “light to the nations” impulse parallels the Bodhisattva vow in Mahayana Buddhism, a compassion that refuses to stay tribal. The dust-shaking resembles Stoic prohairesis and Epictetus’ insistence on keeping what is “up to us” unsoiled by externals. “Who sees me sees the Father” has an Advaita Vedanta flavor—nondual seeing where the sought is present as the seeker—speculation, but the psychological move is similar. “Ask in my name” echoes Sufi tawassul and the use of the Name as alignment rather than magic, a way of desiring without self-inflation.",
+    "excursus": "The “whole city” comes to listen, and the story pretends this is hunger for truth. It’s hunger for spectacle. The crowd is a mirror, and the leaders cannot bear what it reflects: that their authority depends on scarcity. Envy isn’t petty here; it’s the panic of gatekeepers watching the gates dissolve. Paul’s pivot to the Gentiles is not generous outreach but a retaliatory reversal: you don’t want me, so I’ll find an audience that does, and I’ll name your refusal as your damnation. The dust-shaking is the clean, theatrical exit of wounded charisma.\n\nJohn’s scene intensifies the same ache. Philip asks for the Father like a person begging for an ending: one clear object, one final proof, “and it is enough.” Jesus refuses the comfort of distance. There is no hidden God behind him; there is only this face, this voice, this demand to accept intimacy as revelation. The promise of “greater works” is not triumphalism but a transfer of compulsion: when he goes, the disciples must become the evidence. Prayer “in my name” becomes the mechanism by which desire is disciplined into a single channel, so that what they ask for can be granted without loosening the grip of the story.\n\nTogether the readings confess a grim psychology of belonging. The new community is born less from pure conviction than from rivalry, rejection, and the need to be seen. Joy arrives, yes, but it arrives as a high after expulsion: the elation of the chosen who have finally found a world that hates them enough to confirm them.",
+    "synthesis": "God is known only in the Son, and the Son extends his saving work through Spirit-filled witnesses whose mission and efficacy are secured by divine command and prayer in his name.",
+    "gospel": [
+      {
+        "text": "The passage argues for a strict epistemology: knowledge of God is mediated, not immediate. The Father is not an object behind Jesus but is encountered in him; the demand to “show” the Father is treated as a category error corrected by identity and mutual indwelling.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Jesus’ departure is presented as operational, not merely consolatory: it conditions the disciples’ participation in his works and establishes prayer “in my name” as the mode by which the risen Christ continues to act, with the Father’s glorification as the governing purpose.",
+        "lines": [
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The mission turns on a juridical pivot: priority to Israel is honored, then the same covenant logic authorizes expansion to the nations by citation of command. The text frames Gentile inclusion not as improvisation but as obedience to a prior divine intention reaching “to the utmost part of the earth.”",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Opposition functions as propulsion: publication spreads, expulsion follows, and the community’s interior state is described last—joy and Spirit—marking that the Church’s continuity is not secured by civic acceptance but by divine indwelling under pressure.",
+        "lines": [
+          6,
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Whole city almost”: the word draws a crowd before it draws a verdict.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Envy is the counter-miracle: it manufactures contradiction out of abundance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rejection is self-sentencing: “judge yourselves unworthy” shifts the blame inward.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gladness and ordination collide: joy does not explain election; it follows it.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dust shaken off: a liturgical gesture that turns geography into testimony.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“It is enough for us”: the demand for a final object, not a living relation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Time with Jesus can still be ignorance; proximity is not knowledge.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Words not “of myself”: speech as delegated action; doctrine as divine worksite.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Greater”: not a higher Christ, but a widened reach after his departure.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer’s end is not relief but glory: the Father’s name advanced in the Son.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who made your bishop Saint Athanasius a renowned defender of the divinity of your Son, grant in your goodness that, strengthened by his teaching and protection, we may know you and love you ever more fully. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who made your bishop Saint Athanasius a renowned defender of the divinity of your Son, grant in your goodness that, strengthened by his teaching and protection, we may know you and love you ever more fully. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may always live the Paschal mystery in its fullness, so that, reborn in Baptism, we may bear abundant fruit in Christian life and finally attain eternal joys. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may always live the Paschal mystery in its fullness, so that, reborn in Baptism, we may bear abundant fruit of Christian life and finally attain eternal joys. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant that we may always live the Paschal mystery in its fullness, so that, reborn in Baptism, we may bear abundant fruit in Christian life and finally attain eternal joys. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who made your bishop Saint Athanasius a renowned defender of the divinity of your Son, grant in your goodness that, strengthened by his teaching and protection, we may know you and love you ever more fully. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But the next sabbath day, the whole city almost came together, to hear the word of God.",
+        "And the Jews, seeing the multitudes, were filled with envy and contradicted those things which were said by Paul, blaspheming.",
+        "Then Paul and Barnabas said boldly: To you it behoved us first to speak the word of God: but because you reject it and judge yourselves unworthy of eternal life, behold we turn to the Gentiles.",
+        "For so the Lord hath commanded us: I have set thee to be the light of the Gentiles: that thou mayest be for salvation unto the utmost part of the earth.",
+        "And the Gentiles hearing it were glad and glorified the word of the Lord: and as many as were ordained to life everlasting believed.",
+        "And the word of the Lord was published throughout the whole country.",
+        "But the Jews stirred up religious and honourable women and the chief men of the city: and raised persecution against Paul and Barnabas: and cast them out of their coasts.",
+        "But they, shaking off the dust of their feet against them, came to Iconium.",
+        "And the disciples were filled with joy and with the Holy Ghost."
+      ],
+      "lineRefs": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 13:44-52",
+      "reference": "Acts 13:44-52",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "If you had known me, you would without doubt have known my Father also: and from henceforth you shall know him. And you have seen him.",
+        "Philip saith to him: Lord, shew us the Father; and it is enough for us.",
+        "Jesus saith to him: Have I been so long a time with you and have you not known me? Philip, he that seeth me seeth the Father also. How sayest thou: Shew us the Father?",
+        "Do you not believe that I am in the Father and the Father in me? The words that I speak to you, I speak not of myself. But the Father who abideth in me, he doth the works.",
+        "Believe you not that I am in the Father and the Father in me?",
+        "Otherwise believe for the very works' sake. Amen, amen, I say to you, he that believeth in me, the works that I do, he also shall do: and greater than these shall he do.",
+        "Because I go to the Father: and whatsoever you shall ask the Father in my name, that will I do: that the Father may be glorified in the Son.",
+        "If you shall ask me any thing in my name, that I will do."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 14:7-14",
+      "reference": "John 14:7-14",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Athanasius, Bishop and Doctor",
+        "key": "saintAthanasiusBishopAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/02.html",
+    "title": "Gospel and Word of the Day - 02 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-02"
+}
