@@ -1,0 +1,333 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b93a561e42369d7dc4ad220f0c83ff4303e50ad9fa8fd03f9722bc62efadc851",
+        "inputSha256": "0740a1fa9f3f1d3dcd29369a52b7dfea59423b7ded4292aa8c716f5765629af3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "9c085b3f40888978f36c2357449d3072f05084170ea420d1299c8f9f8666d072",
+        "inputSha256": "0e43780acbc1ee96deaa0853ecd4384dae3264c4788943bd202b1b0bea94fd36",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "428c79b521aa3b3d5251710b4a4cc264f0b5504bd5709fb7958e7369340a96cc",
+        "inputSha256": "ae770d593909584c7d515c0f0d4196dfe106f37a23c109bdea88bde58a9bde02",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-04T01:56:21.180Z"
+  },
+  "commentary": {
+    "seminaVerbi": "In Lystra the crowd’s reflex is archetypal: power appears, so they rush to myth, to names that make the shock manageable. Paul’s refusal is a refusal of projection. He will not let their hunger for a god in human skin turn him into a screen; he drags attention back to the ordinary givens—rain, seasons, food, gladness—as the real “testimony.” That is psychologically bracing: the sacred is not the exceptional event but the steady generosity underneath it, and the ego’s temptation is to seize the exceptional and crown it. The same crowd that wants to adore can be taught to hate; the swing from sacrifice to stoning is the volatility of unmet expectation when the idol won’t sit still.\n\nJohn’s interior turn matches that: manifestation is not spectacle but intimacy, not “the world” as audience but the person as dwelling. Love is not mood but practice; keeping the word is the shape that makes a mind inhabitable by what it claims to love. The Paraclete functions like trained recollection: not new fireworks, but a deepening memory that reorganizes perception from within, so the self becomes less suggestible to crowds and more coherent under pressure.\n\nSpeculatively, this resembles Stoic providence and gratitude for nature’s regular gifts; the Bhagavad Gita’s insistence on disciplined action as devotion rather than display; Zen’s suspicion of “special experiences” in favor of ordinary mind; and Sufi talk of the Beloved “indwelling” the heart through remembrance. In each, the divine is resisted as celebrity and sought as an interior steadiness that outlasts public frenzy.",
+    "excursus": "Acts stages a nightmare of projection. Paul heals a body and instantly becomes a screen for the crowd’s hunger: they do not want truth, they want a god they can touch, crown, and feed with oxen. When the apostles tear their clothes, it is less piety than panic at being swallowed by other people’s desire. The miracle is not the walking; it is how fast devotion curdles into violence. The same mouths that bless can be turned, with a little persuasion, to stone and drag a man out like trash. The mob’s god is always the nearest available body.\n\nJohn answers that dread with an interiorization that feels like control. Love is obedience; manifestation is private; the world is excluded. The divine does not show itself where it can be misused, only where it can be kept, guarded, rehearsed. The Paraclete is memory as enforcement, a voice that brings words “to mind” so the self can be policed from within. After Lystra’s whiplash, this is the safer miracle: not a public sign that ignites the crowd, but an indwelling presence that makes the believer a sealed room. Desire is redirected from spectacle to surveillance, and dread is managed by narrowing revelation to those who can keep it.",
+    "synthesis": "God manifests himself by indwelling those who keep Christ’s word, and he preserves that word in the Church by the Paraclete. Signs without this obedience and teaching are readily converted into idolatry and violence.",
+    "gospel": [
+      {
+        "text": "John binds love, obedience, and revelation into a single chain: disclosure is covenantal, not merely informational. The mutual ‘coming’ of Father and Son establishes that communion is the content of revelation, and that the Son’s word carries the Father’s authority without remainder.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The Paraclete is introduced as the means by which Jesus’ teaching persists beyond his physical presence. The promise is not new content but faithful transmission and understanding—continuity secured by divine agency rather than human recall.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The episode stages a collision between apostolic sign and local religious grammar: the sign is true, the interpretation is false. Luke shows that pagan piety is not absence of worship but misdirected worship, and that the mission must dismantle the interpretive frame, not merely add a new name to it.",
+        "lines": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Paul’s speech is calibrated to a non-scriptural audience: creation and common goods replace citation. The argument is that God’s patience with “their own ways” is not approval but a temporal allowance, and that ordinary beneficence functions as indictment as well as invitation.",
+        "lines": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "text": "The narrative closes with volatility: even after correction, the crowd remains governable by external voices. The text treats public acclaim and public violence as adjacent phenomena, exposing how unstable honor is when it is not anchored in truth.",
+        "lines": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Persecution is bipartisan; rulers lend the mob a conscience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Flight is not retreat but redeployment; the word outruns the stones.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“From his mother’s womb”: the defect is older than any remedy; no self-help myth survives.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Paul reads faith like a visible organ; the gaze becomes a diagnosis.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Command precedes capacity; obedience is created by the word that demands it.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Miracle misfires into mythology; the crowd translates grace into pantheon.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Torn clothes: anti-liturgical gesture against idolatrous liturgy.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Vain things” versus “living God”: not new gods, but a new ontology.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Providence as public evidence: rain and bread as untheorized revelation.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The same multitude can be tuned from sacrifice to murder; persuasion is a weapon.",
+      "lines": [
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is audited by keeping; sentiment is excluded as proof.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The scandal: a self-disclosing God who refuses mass publicity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Indwelling is the answer to visibility; God’s address is interior, not spectacular.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The word is not a private opinion; rejection is aimed past Jesus to the Sender.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Memory is promised as doctrine’s infrastructure; the Church is not left to improvisation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may be steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may be steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when there was an assault made by the Gentiles and the Jews with their rulers, to use them contumeliously and to stone them:",
+        "They, understanding it, fled to Lystra and Derbe, cities of Lycaonia, and to the whole country round about: and were there preaching the gospel.",
+        "And there sat a certain man at Lystra, impotent in his feet, a cripple from his mother's womb, who never had walked.",
+        "This same heard Paul speaking. Who looking upon him and seeing that he had faith to be healed,",
+        "Said with a loud voice: Stand upright on thy feet. And he leaped up and walked.",
+        "And when the multitudes had seen what Paul had done, they lifted up their voice in the Lycaonian tongue, saying: The gods are come down to us in the likeness of men.",
+        "And they called Barnabas, Jupiter: but Paul, Mercury: because he was chief speaker.",
+        "The priest also of Jupiter that was before the city, bringing oxen and garlands before the gate, would have offered sacrifice with the people.",
+        "Which, when the apostles Barnabas and Paul had heard, rending their clothes, they leaped out among the people, crying,",
+        "And saying: Ye men, why do ye these things? We also are mortals, men like unto you, preaching to you to be converted from these vain things to the living God, who made the heaven and the earth and the sea and all things that are in them:",
+        "Who in times past, suffered all nations to walk in their own ways.",
+        "Nevertheless he left not himself without testimony, doing good from heaven, giving rains and fruitful Seasons, filling our hearts with food and gladness.",
+        "And speaking these things, they scarce restrained the people from sacrificing to them.",
+        "Now there came thither certain Jews from Antioch and Iconium: and, persuading the multitude and stoning Paul, drew him out of the city, thinking him to be dead."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 14:5-18",
+      "reference": "Acts 14:5-18",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "He that hath my commandments and keepeth them; he it is that loveth me. And he that loveth me shall be loved of my Father: and I will love him and will manifest myself to him.",
+        "Judas saith to him, not the Iscariot: Lord, how is it that thou wilt manifest thyself to us, and not to the world?",
+        "Jesus answered and said to him: If any one love me, he will keep my word. And my Father will love him and we will come to him and will make our abode with him.",
+        "He that loveth me not keepeth not my words. And the word which you have heard is not mine; but the Father's who sent me.",
+        "These things have I spoken to you, abiding with you.",
+        "But the Paraclete, the Holy Ghost, whom the Father will send in my name, he will teach you all things and bring all things to your mind, whatsoever I shall have said to you. Teach you all things... Here the Holy Ghost is promised to the apostles and their successors, particularly, in order to teach them all truth, and to preserve them from error."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 14:21-26",
+      "reference": "John 14:21-26",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 5th week of Easter",
+        "key": "mondayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/04.html",
+    "title": "Gospel and Word of the Day - 04 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-04"
+}
