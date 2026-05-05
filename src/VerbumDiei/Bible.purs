@@ -48,8 +48,11 @@ type ChapterFold =
   , toChapter :: Int
   }
 
+-- | Subtracts `offset` from any verse `v` in `chapter` where `v >= fromVerse`.
+-- | Use `fromVerse: 1` to apply to the entire chapter.
 type ChapterOffset =
   { chapter :: Int
+  , fromVerse :: Int
   , offset :: Int
   }
 
@@ -223,7 +226,7 @@ applyFold chapters chapter verse fold =
 
 applyOffset :: Array (Array String) -> Int -> Int -> ChapterOffset -> Maybe VerseRef
 applyOffset chapters chapter verse mapping =
-  if chapter /= mapping.chapter then
+  if chapter /= mapping.chapter || verse < mapping.fromVerse then
     Nothing
   else do
     chapterArr <- Array.index chapters (chapter - 1)
@@ -266,7 +269,7 @@ verseMaps =
     }
   , { book: "Zechariah"
     , folds: []
-    , offsets: [ { chapter: 2, offset: 4 } ]
+    , offsets: [ { chapter: 2, fromVerse: 1, offset: 4 } ]
     , remaps: []
     , aliases: []
     }
@@ -290,6 +293,13 @@ verseMaps =
     , offsets: []
     , remaps: []
     , aliases: [ { chapter: 4, fromVerse: 41, toVerse: 40 } ]  -- DRA combines NV 40+41 into verse 40
+    }
+  , { book: "Acts"
+    -- DRA Acts 14 merges modern 14:6+7 into DRA 14:6; modern 14:8-28 = DRA 14:7-27.
+    , folds: []
+    , offsets: [ { chapter: 14, fromVerse: 8, offset: 1 } ]
+    , remaps: []
+    , aliases: [ { chapter: 14, fromVerse: 7, toVerse: 6 } ]
     }
   ]
 
