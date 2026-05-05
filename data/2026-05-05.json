@@ -1,0 +1,267 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "83b458922842e76298bb5380ede8127ad5137b159c205ac63785b918c1a4a200",
+        "inputSha256": "76dd940a18d776aea5e018e40ef3a190eb345a502dcee554a9349bd1e1efed78",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8431bd7b1ccbb288686afacaa1894be4284a8e9ac2e72c853f23ffa98017137b",
+        "inputSha256": "d19c46e639ada5fc48cfa8b704ba957be9f610cc20b7e1991c3bfefa101a32ff",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ffe7b82adf25ccf67d5b134aa3ff955f82194042ce43bac33dcae2e222ed195a",
+        "inputSha256": "ea5ae9e0bf7d310b1c20771dae0c955b51d1629697c6049f5b9d95f0dc14c539",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-05T07:19:12.285Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s return to the towns that tried to erase him has the texture of a bodhisattva vow: the deliberate re-entry into the place of harm for the sake of others, not from bravado but from a trained refusal to let fear write the map. Speculation: it also resembles the Stoic figure who treats injury as indifferent and duty as sovereign, except here duty is communal, not solitary.\n\n“Peace not as the world gives” echoes the Bhagavad Gita’s shanti that rides underneath action, not the armistice that depends on outcomes. It also brushes against Taoist wu-wei: a calm that is not passivity but unforced alignment, moving without inner drag.\n\n“The prince of this world has nothing in me” sounds like the Upanishadic claim that the Self is untouched by what passes through it, and like Zen’s insistence that clinging is the hook by which the world catches you. Speculation: psychologically it names an unbribable interior, a place where coercion finds no purchase because desire has been reordered.\n\nThe “door of faith” opening to outsiders has kinship with the Sikh langar and the Sufi table: hospitality as metaphysics, the widening of belonging enacted in ordinary gathering. The fasting and appointment of elders parallels monastic vinaya and rabbinic semikhah in its sober recognition that charisma must be housed in form or it burns the house down.",
+    "excursus": "Paul is stoned, dragged out, pronounced dead, and then gets up and walks back into the same city. That isn’t courage; it’s compulsion. He has learned that the crowd’s hatred is proof of contact, that pain is the only reliable sign the message is landing. “Through many tribulations” is not a warning but a method, a vow to keep returning to the scene of injury until it becomes a doorway.\n\nJesus offers “peace,” but it is the peace of departure, the calm of someone already halfway gone. He forbids fear while arranging abandonment. “I go away, and I come unto you” is the lover’s double-bind: you must be glad I’m leaving, or you don’t love me. The “prince of this world” approaches like a predator, and the response is not escape but choreography: arise, let us go—toward it.\n\nTogether they sketch a psychology of holy restlessness. Peace is not relief; it is consent. Faith spreads because it wounds and because the wounded return, reporting their bruises as “great things,” turning dread into a credential and desire into a discipline.",
+    "synthesis": "Christ’s peace is a divine gift that coexists with tribulation and drives obedient action. The Church’s mission advances by God-opened access and is secured by ordered, accountable communion.",
+    "gospel": [
+      {
+        "text": "The discourse binds foreknowledge to faith: prediction is not spectacle but scaffolding for belief when rupture arrives (3). Departure to the Father (2) redefines loss as ordered movement within divine relation, so the coming crisis is interpreted rather than merely endured.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The text’s logic is hierarchical without rivalry: the Son’s going and doing are coordinated with the Father’s primacy (2,5), making obedience the public proof of love. The final command to depart (5) turns teaching into enacted submission; theology exits the room and walks toward conflict.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage is a travel ledger that doubles as an ecclesial strategy: return visits (3) consolidate what first visits sparked; the route through regions and ports (6–8) frames the work as accountable and completed, not episodic. The long stay (10) signals that mission culminates in durable communion, not perpetual campaigning.",
+        "lines": [
+          3,
+          6,
+          7,
+          8,
+          10
+        ]
+      },
+      {
+        "text": "“Delivered to the grace of God” (8) and the report to the assembled church (9) place apostolic agency under reception and review: the community authorizes, the apostles execute, God effects. The Gentile “door” becomes the interpretive key for the whole circuit—history read as access granted.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The crowd is a weather vane: persuaded, then violent; “thinking him dead” is the city’s verdict.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He rises under witness, then re-enters the place of injury; refusal to let trauma set the map.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingdom-entry is gated by “many tribulations”; no alternate route is offered.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Order follows upheaval: priests, fasting, commendation—stability built inside danger.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mission is narrated as God’s action: “opened the door”; Gentiles enter by aperture, not conquest.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peace is bequeathed, not negotiated; it is explicitly unlike the world’s version.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The “prince” arrives, yet finds no purchase; assault meets emptiness, not compromise.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Love is shown as obedience under command; then movement: “Arise… go”—peace does not mean staying put.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who by the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and make firm their hope, so that we may never doubt that what you have promised us will come to pass. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who by the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and make firm their hope, so that we may never doubt that what you have promised us will come to pass. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who by the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and make firm their hope, so that we may never doubt that what you have promised us will come to pass. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who by the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and make firm their hope, so that we may never doubt that what you have promised us will come to pass. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who by the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and confirm their hope, so that we may never doubt that what you have promised us will come to pass. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who in the resurrection of Jesus Christ have begotten us anew, that we might be reborn to eternal life, strengthen the faith of your people and make firm their hope, so that we may never doubt that what you have promised us will come to pass. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now there came thither certain Jews from Antioch and Iconium: and, persuading the multitude and stoning Paul, drew him out of the city, thinking him to be dead.",
+        "But as the disciples stood round about him, he rose up and entered into the city: and the next day he departed with Barnabas to Derbe.",
+        "And when they had preached the gospel to that city and had taught many, they returned again to Lystra and to Iconium and to Antioch:",
+        "Confirming the souls of the disciples and exhorting them to continue in the faith: and that through many tribulations we must enter into the kingdom of God.",
+        "And when they had ordained to them priests in every church and had prayed with fasting, they commended them to the Lord, in whom they believed.",
+        "And passing through Pisidia, they came into Pamphylia.",
+        "And having spoken the word of the Lord in Perge, they went down into Attalia.",
+        "And thence they sailed to Antioch, from whence they had been delivered to the grace of God, unto the work which they accomplished.",
+        "And when they were come and had assembled the church, they related what great things God had done with them and how he had opened the door of faith to the Gentiles.",
+        "And they abode no small time with the disciples."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 14:19-28",
+      "reference": "Acts 14:19-28",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Peace I leave with you: my peace I give unto you: not as the world giveth, do I give unto you. Let not your heart be troubled: nor let it be afraid.",
+        "You have heard that I said to you: I go away, and I come unto you. If you loved me you would indeed be glad, because I go to the Father: for the Father is greater than I. For the Father is greater than I... It is evident, that Christ our Lord speaks here of himself as he is made man: for as God he is equal to the Father. (See Phil. 2.) Any difficulty of understanding the meaning of these words will vanish, when the relative circumstances of the text here are considered: for Christ being at this time shortly to suffer death, signified to his apostles his human nature by these very words: for as God he could not die. And therefore as he was both God and man, it must follow that according to his humanity he was to die, which the apostles were soon to see and believe, as he expresses, ver. 29. And now I have told you before it come to pass: that when it shall come to pass, you may believe.",
+        "And now I have told you before it come to pass: that when it shall come to pass, you may believe.",
+        "I will not now speak many things with you. For the prince of this world: cometh: and in me he hath not any thing.",
+        "But that the world may know that I love the Father: and as the Father hath given me commandments, so do I. Arise, let us go hence."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 14:27-31",
+      "reference": "John 14:27-31",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 5th week of Easter",
+        "key": "tuesdayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/05.html",
+    "title": "Gospel and Word of the Day - 05 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-05"
+}
