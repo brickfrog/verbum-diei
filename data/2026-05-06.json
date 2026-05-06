@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "59fe834e5e183d90983674129905c5af79f1d58fade8e05d1b800e15af4c09a5",
+        "inputSha256": "339f6ba470acfb6dbe14d04b2e0b0ed5b6d24a800c1a57b1e0034490dc4b6ebb",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "05e983c125640a86fb746ac63fe2cee24c319a2b9210ee52df66c0f6c9201cc6",
+        "inputSha256": "f93e07f0c52fb09e901c8599dbc592eb8aae0cbf1f91125f2208fe4a1705ac7a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e827ecd3d3c421930b996d61a7ee7c829424a6b2a5b062102f7efa446e6e933e",
+        "inputSha256": "dd7b5725ccb50e7d86deb3d2e3866a3010191781adbc62f91dc0ce5678a6dab8",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-06T01:56:20.651Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: Acts’ fight over circumcision echoes Buddhism’s refusal to make awakening hinge on caste-markers, and the Sikh rejection of purity boundaries; the psyche wants a gatekeeping scar to quiet anxiety, and the community has to choose living fidelity over identity armor.\n\nSpeculation: the vine-and-branches image rhymes with Advaita Vedanta’s non-separation of self and source, and with Daoism’s wu-wei as fruit that comes from alignment rather than strain; it also resembles Sufism’s fana, where the “I” thins until action feels like sap moving through you.\n\nSpeculation: “pruning” aligns with Stoic askesis and Zen training: subtraction as mercy, not punishment, so desire becomes simpler and therefore effective; “ask whatever you will” then sounds like the Bhagavad Gita’s purified will, wanting what the real wants, so prayer and reality stop fighting.",
+    "excursus": "Acts stages a panic about borders disguised as piety. The men from Judea aren’t defending Moses; they’re defending a body-mark that keeps the new desire from getting out of hand. Circumcision is the price of admission because it makes belonging hurt, and pain is how institutions prove reality. Paul and Barnabas threaten that economy: they arrive with stories of Gentiles changed without paying the old fee, and the community feels “great joy” because joy always comes with the scent of forbidden ease. Then the believing Pharisees rise like an immune system: if salvation can happen without the cut, the whole map of who counts dissolves. So they convene a council, not to find truth, but to manage terror.\n\nJohn’s vine talk is the same struggle, moved inward. “Abide in me” sounds tender, but it is an erotic demand with teeth: stay attached or be thrown out, dried, burned. The Father is a grower who prunes, and pruning is sanctioned injury for the sake of productivity. “You are clean by the word” replaces the knife with language; the cut becomes psychological, a discipline of speech and desire. Fruit is the only proof you’re alive, and the threat of withering makes obedience feel like intimacy. The fantasy at the center is brutal: if you fuse yourself to the vine, you can “ask whatever you will.” Desire is promised omnipotence, but only on condition that it stops being yours.",
+    "synthesis": "Justification is not secured by Mosaic boundary-markers but by union with Christ, the sole source of life and fruit. The Church’s authority serves this union by judging claims that would replace abiding with external compulsion.",
+    "gospel": [
+      {
+        "text": "The controlling logic is indwelling: cleansing by the word issues into abiding, and abiding governs petition and mission. Prayer is not a technique but the consequence of a life interiorly occupied by Christ’s words, ordered to the Father’s glory rather than self-display.",
+        "lines": [
+          3,
+          4,
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative moves from local coercion to conciliar discernment: the Church treats a soteriological claim as a public matter requiring reception, testimony of divine action, and formal deliberation. Authority is not private charisma but a gathered judgment that must account for what God has already done among the Gentiles.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Salvation made to hinge on a cut: covenant reduced to procedure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“No small contest”: truth arrives through abrasion, not etiquette.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gentile conversion reported as contagion of joy; the news itself bears fruit.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Believing Pharisees: faith plus compulsion; the old yoke survives baptism.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“True vine”: Israel-imagery claimed, corrected, and concentrated in one person.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two knives: removal and pruning; sterility and productivity both meet steel.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Without me you can do nothing”: autonomy named as impotence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Excommunication as botany: withering precedes burning; judgment is organic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who love innocence and restore it to those who have lost it, draw to yourself the hearts of your faithful, so that those who have been delivered from the darkness of error may always live in the light of your truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. May we rest through the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And some, coming down from Judea, taught the brethren: That, except you be circumcised after the manner of Moses, you cannot be saved.",
+        "And when Paul and Barnabas had no small contest with them, they determined that Paul and Barnabas and certain others of the other side should go up to the apostles and priests to Jerusalem, about this question.",
+        "They therefore, being brought on their way by the church, passed through Phenice and Samaria, relating the conversion of the Gentiles. And they caused great joy to all the brethren.",
+        "And when they were come to Jerusalem, they were received by the church and by the apostles and ancients, declaring how great things God had done with them.",
+        "But there arose of the sect of the Pharisees some that believed, saying: They must be circumcised and be commanded to observe the law of Moses.",
+        "And the apostles and ancients assembled to consider of this matter."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 15:1-6",
+      "reference": "Acts 15:1-6",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "I am the true vine: and my Father is the husbandman.",
+        "Every branch in me that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit.",
+        "Now you are clean, by reason of the word which I have spoken to you.",
+        "Abide in me: and I in you. As the branch cannot bear fruit of itself, unless it abide in the vine, so neither can you, unless you abide in me.",
+        "I am the vine: you the branches. He that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.",
+        "If any one abide not in me, he shall be cast forth as a branch and shall wither: and they shall gather him up and cast him into the fire: and he burneth.",
+        "If you abide in me and my words abide in you, you shall ask whatever you will: and it shall be done unto you.",
+        "In this is my Father glorified: that you bring forth very much fruit and become my disciples."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:1-8",
+      "reference": "John 15:1-8",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 5th week of Easter",
+        "key": "wednesdayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/06.html",
+    "title": "Gospel and Word of the Day - 06 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-06"
+}
