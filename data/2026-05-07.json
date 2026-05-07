@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7a6d5fa2981a645601eab4c8bb680ec4f2dacbe32495a854ecdfae12f2c832e2",
+        "inputSha256": "9a74861d46343ba6d6fcc031e18702f055bad662df599900c13fe79f8e88d9d6",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "08ec31b6a8153cb109f7d8a0e38291ed52cc7e60167d9b44965e596aeff26798",
+        "inputSha256": "6d20bbf06d38b5df330f20f84127ededf313ee4396e5b7bb8df65b5d9a37cad1",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3cdc813aa986aa70e76c27ab1309bcfcb9223f65193c44e67c213b28856674b8",
+        "inputSha256": "6d464b01dd3bf35407c45ac2cb9b1fbe8f2910fad29a0e9dcbb0e8e66d993f0a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-07T01:56:43.232Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Acts stages a psychological breakthrough: the group stops confusing identity with burden. Peter’s move is to trust an interior verdict—“God who knows hearts”—over inherited gatekeeping. That resembles the Stoic turn from externals to the ruling faculty, where moral worth is read in the disposition rather than the costume. It also echoes the Mahayana instinct (speculation) that skillful means can loosen rigid forms without betraying the aim.\n\nJames’s compromise reads like a minimal ethic designed for shared table life, not total assimilation: a thin boundary that prevents mutual disgust. That parallels the Noachide idea in later Judaism, and the Roman practice of allowing local cults so long as public order holds; both are ways a community survives pluralism by narrowing the nonnegotiables.\n\nJohn’s “abide” is not mere obedience but attachment made stable: love as a lived environment. The closest analog is bhakti, where devotion is less a rulebook than a dwelling in relationship. The promised “full joy” matches the Sufi theme (speculation) that fidelity to the beloved’s will is not repression but expansion of the heart.",
+    "excursus": "Acts is not a victory of “inclusion” so much as a managed panic. The elders feel the ground moving: if Gentiles can be made clean without the old yoke, then the whole machinery of belonging—pain, pedigree, the long habit of saying no to the body—starts to look like needless suffering. Peter argues like a survivor of an overstrict home: don’t make them carry what broke us. Yet James, cooler, reasserts control by trimming freedom into a short list of taboos. The community can’t tolerate pure gift; it must add a small price, a visible scar, so grace doesn’t feel like chaos. Even the language of “not to be disquieted” betrays the dread: they fear unrest more than error.\n\nJohn’s “abide in my love” is not a lullaby; it’s a condition. Love here is an atmosphere with rules, a joy that arrives only through obedience. Desire is invited, then fenced. The text makes joy sound like fullness, but psychologically it reads as containment: stay inside the commanded love and you’ll be safe from the terror of being unmoored. The tension is the same in both readings: freedom is announced, then immediately bounded, because what we crave most—unearned acceptance—also threatens to dissolve the identities built from earning.",
+    "synthesis": "God incorporates the nations by grace, not by the unbearable yoke of ancestral boundary-markers, while still imposing a moral and cultic discipline. Abiding in Christ’s love is obedience that culminates in joy.",
+    "gospel": [
+      {
+        "text": "The passage is a chain of relations: Father→Son→disciples, then disciples→commandments, then speech→joy. Love is transmitted as a rule-governed participation, and the promised affect (joy) is the consequence of remaining within that order.",
+        "lines": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The council’s procedure is staged: testimony of mission (Barnabas/Paul) is followed by juridical speech (James). Charism is heard, then governed.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "James binds the Gentile inclusion to prophecy and to the long-standing public reading of Moses. The decision is framed as continuity under divine foreknowledge, while still refusing to make synagogue practice the entry fee.",
+        "lines": [
+          8,
+          9,
+          11,
+          12,
+          13,
+          15
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“much disputing”: doctrine arrives by argument, not ambiance; Peter appeals to election, not consensus.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The credential is interior: the Heart-knower; the Spirit is the public receipt.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“tempt you God”: legalism as provocation; the yoke image makes piety a weight-bearing test.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace levels the field: Jews saved “as they also”—the reversal stings.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rebuilding comes after collapse; restoration is not nostalgia but construction over ruins.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Minimal law: not identity-markers but idol-contamination, sexual disorder, and blood—worship, body, life.",
+      "lines": [
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is not mood but location: “abide” makes affection a dwelling.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Commandments are the architecture of abiding; obedience is the form love takes.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Joy is teleological: speech aims at fullness, not mere instruction.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us; and grant to those of us who have already been justified by faith the strength needed to persevere always in it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us; and grant to those who have already been justified by faith the strength needed to persevere always in it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us; and grant to those of us who have already been justified by faith the strength needed to persevere always in it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us, and grant to those of us who have already been justified by faith the strength needed to persevere always in it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us, and grant to those of us who have already been justified by faith the strength needed to persevere always in it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, who, without any merit on our part, have brought us from death to life and from sorrow to joy, do not bring your gifts to an end, nor cease to work your wonders in us; and grant to those of us who have already been justified by faith the strength needed to persevere always in it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when there had been much disputing, Peter, rising up, said to them: Men, brethren, you know that in former days God made choice among us, that by my mouth the Gentiles should hear the word of the gospel and believe.",
+        "And God, who knoweth the hearts, gave testimony, giving unto them the Holy Ghost, as well as to us:",
+        "And put no difference between us and them, purifying their hearts by faith.",
+        "Now therefore, why tempt you God to put a yoke upon the necks of the disciples which neither our fathers nor we have been able to bear?",
+        "But by the grace of the Lord Jesus Christ, we believe to be saved, in like manner as they also.",
+        "And all the multitude held their peace: and they heard Barnabas and Paul telling what great signs and wonders God had wrought among the Gentiles by them.",
+        "And after they had held their peace, James answered, saying: Men, brethren, hear me.",
+        "Simon hath related how God first visited to take to the Gentiles, a people to his name.",
+        "And to this agree the words of the prophets, as it is written:",
+        "After these things I will return and will rebuild the tabernacle of David, which is fallen down: and the ruins thereof I will rebuild. And I will set it up:",
+        "That the residue of men may seek after the Lord, and all nations upon whom my name is invoked, saith the Lord, who doth these things.",
+        "To the Lord was his own work known from the beginning of the world.",
+        "For which cause, judge that they who from among the Gentiles are converted to God are not to be disquieted:",
+        "But that we write unto them, that they refrain themselves from the pollutions of idols and from fornication and from things strangled and from blood.",
+        "For Moses of old time hath in every city them that preach him in the synagogues, where he is read every sabbath."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 15:7-21",
+      "reference": "Acts 15:7-21",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "As the Father hath loved me, I also have loved you. Abide in my love.",
+        "If you keep my commandments, you shall abide in my love: as I also have kept my Father's commandments and do abide in his love.",
+        "These things I have spoken to you, that my joy may be in you, and your joy may be filled."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:9-11",
+      "reference": "John 15:9-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 5th week of Easter",
+        "key": "thursdayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/07.html",
+    "title": "Gospel and Word of the Day - 07 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-07"
+}
