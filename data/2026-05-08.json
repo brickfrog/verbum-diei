@@ -1,0 +1,249 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "67e27d695db3ad5484e67109e25ee9e4c252bcc673d17425e9f163b2e93501eb",
+        "inputSha256": "48fdc06a6b564ac58bcb45db27cad05a289281c266c5dfa1c1ad66644e363b5f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "9d27bf0750be2b4e1f5491afaada7fdb519715e98e955b395d25ae293b8995bf",
+        "inputSha256": "5b9e63104b94dbc1683bf45f2c83f73d1c66c09f5f37d14d2b189dfd22c85e98",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "05bce35713868a0b77b9da476cc5b97df6af757f597c21acc41ba7519f25b192",
+        "inputSha256": "9270f8035cbc04013812a0cb4d12bba2a454fe2af9a34474361f37cca31c902c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-08T01:56:43.738Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The letter from Jerusalem feels like a ritual of social repair: authority re-centers itself by admitting the damage caused by unauthorized zeal, then restores trust through named emissaries and a minimal, face-saving code. That move has a close cousin in the Buddhist Vinaya’s concern for schism and “harmony of the sangha,” where the point of rule is not metaphysical control but the prevention of communal poisoning. It also echoes the Confucian idea of rectifying names: when people speak “from us” without mandate, language itself becomes a weapon, and the cure is public clarification.\n\nThe small list of prohibitions reads like boundary-objects meant to let two moral worlds share a table. That resembles Jewish Noachide reasoning, but also, speculatively, Hindu and Jain strategies of graded vows: not the whole ascetic program, just the few practices that make coexistence possible and train desire. The psychology is pragmatic: reduce friction, keep the group intact, and let deeper transformation arrive later.\n\nJohn’s “friends, not servants” shifts the bond from compliance to disclosed intention. That resembles Sufi companionship (suhba), where the teacher’s gift is not merely instruction but unveiling the inner aim, and also Stoic friendship as a mutual participation in logos rather than a contract of duties. The claim “you did not choose me” matches the bhakti sense of being seized by grace, and, speculatively, Daoist wu-wei in reverse: the self’s project is interrupted by a larger current.\n\n“Lay down his life for his friends” converges with the bodhisattva’s vow and the Sikh ideal of seva unto death: love proven by costly, concrete protection of others. The fruit that “remains” has an Aristotelian ring too: not a passing feeling but a stable habitus, a formed character that outlives the moment.",
+    "excursus": "Acts stages a mercy that is really a management of panic. The leaders hear that words have “subverted your souls” and they answer with a letter that pretends to be light—“no further burden”—while tightening the leash in four quick knots. They bless their decision by ventriloquizing the Holy Ghost, as if the Spirit were a stamp to quiet dissent. The Gentiles are consoled not because they are free, but because the rules are now official, the anxiety centralized, the chaos given a signature. Even the praise of Paul and Barnabas—“given their lives”—reads like propaganda: sacrifice turned into moral capital to make the decree swallowable.\n\nJohn’s love is not soft; it is a recruitment vow. “Friends” replaces “servants” but the condition remains: you are my friends if you do what I command. The intimacy is a promotion that increases liability. To be chosen is not flattery; it is conscription into a fruit-bearing economy where desire must prove itself by permanence. The dread under the tenderness is that love here is indistinguishable from obedience, and obedience is made beautiful by the promise that dying for the group is the highest affection.\n\nPut together, the texts confess the same hunger: a community wants closeness without fracture, and it gets it by sanctifying control. Consolation arrives when everyone agrees what love costs.",
+    "synthesis": "The Church’s unity is maintained by Spirit-backed judgment that binds consciences for the sake of communion. Christ’s friendship is granted by election and sustained by commanded love that expresses itself in obedient self-gift.",
+    "gospel": [
+      {
+        "text": "The passage redefines the community’s internal bond: not servile ignorance but disclosed purpose, yet still under command. “Love” is not an alternative to authority; it is the form authority takes among those admitted to knowledge. The repetition of the command brackets the section like law around intimacy.",
+        "lines": [
+          1,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The council governs at a distance by letter and envoys: a portable magisterium. The message is not merely content but a procedure—authorized representatives, written decree, oral confirmation, public reading—so the Gentile churches are incorporated without becoming autonomous. The effect is ecclesial: consolation comes from being located inside a settled judgment, not from winning an argument.",
+        "lines": [
+          2,
+          4,
+          6,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Consensus is staged: apostles, elders, whole church—then a shortlist.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unauthorized speech is treated as violence: words that “subvert souls.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Holy Ghost and to us”: divine warrant welded to human decree.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Liberty is bounded by “necessary things”; communion policed by diet and bed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is measured by blood, not sentiment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Friendship is conditional: obedience is the price of intimacy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Election precedes mission; fruit is the proof, permanence the demand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full living experience of the paschal mystery, so that the joy we experience in these feasts may always be our strength and our salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full living of the paschal mystery, so that the joy we experience in these feasts may always be our strength and our salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full living of the paschal mystery, so that the joy we experience in these feasts may always be our strength and our salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full living out of the paschal mystery, so that the joy we experience in these feasts may always be our strength and our salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full experience of the paschal mystery, so that the joy we feel in these feasts may always be our strength and our salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, a full living experience of the paschal mystery, so that the joy we experience in these feasts may always be our strength and our salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then it pleased the apostles and ancients, with the whole church, to choose men of their own company and to send to Antioch with Paul and Barnabas, namely, Judas, who was surnamed Barsabas, and Silas, chief men among the brethren.",
+        "Writing by their hands: The apostles and ancients, brethren, to the brethren of the Gentiles that are at Antioch and in Syria and Cilicia, greeting.",
+        "Forasmuch as we have heard that some going out from us have troubled you with words, subverting your souls, to whom we gave no commandment:",
+        "It hath seemed good to us, being assembled together, to choose out men and to send them unto you, with our well beloved Barnabas and Paul:",
+        "Men that have given their lives for the name of our Lord Jesus Christ.",
+        "We have sent therefore Judas and Silas, who themselves also will, by word of mouth, tell you the same things.",
+        "For it hath seemed good to the Holy Ghost and to us to lay no further burden upon you than these necessary things:",
+        "That you abstain from things sacrificed to idols and from blood and from things strangled and from fornication: from which things keeping yourselves, you shall do well. Fare ye well. From blood, and from things strangled... The use of these things, though of their own nature indifferent, was here prohibited, to bring the Jews more easily to admit of the society of the Gentiles; and to exercise the latter in obedience. But this prohibition was but temporary, and has long since ceased to oblige; more especially in the western churches.",
+        "They therefore, being dismissed, went down to Antioch and, gathering together the multitude, delivered the epistle.",
+        "Which when they had read, they rejoiced for the consolation."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 15:22-31",
+      "reference": "Acts 15:22-31",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "This is my commandment, that you love one another, as I have loved you.",
+        "Greater love than this no man hath, that a man lay down his life for his friends.",
+        "You are my friends, if you do the things that I command you.",
+        "I will not now call you servants: for the servant knoweth not what his lord doth. But I have called you friends: because all things, whatsoever I have heard of my Father, I have made known to you.",
+        "You have not chosen me: but I have chosen you; and have appointed you, that you should go and should bring forth fruit; and your fruit should remain: that whatsoever you shall ask of the Father in my name, he may give it you.",
+        "These things I command you, that you love one another."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:12-17",
+      "reference": "John 15:12-17",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 5th week of Easter",
+        "key": "fridayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/08.html",
+    "title": "Gospel and Word of the Day - 08 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-08"
+}
