@@ -1,0 +1,270 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4251d6979810cb9d719c830552eaef33260afba6fcb1fd5dbec6915590be814c",
+        "inputSha256": "3c319051467c20f8ae50f3da847684de6369510822dfb79e5f5c836d69bd98fa",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b6353fe113b2fab2e9c77213e723373f8d069a6e4a81601f7abee9e564b30d1c",
+        "inputSha256": "be7abe016c79d411d86f7ce5c6d73bcc767b0bbac3d3b39224e2a7e4bfd0fcdc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f11c9408bcde2f35c64fd97646ebe9c7641b55394d71d0f89fee2710434e12ed",
+        "inputSha256": "410f3ee79f0d0d150af9f0e4236a8c130be902814e2c03e10896d950a3bd8564",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-09T01:56:43.511Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s route keeps getting blocked, not by enemies but by the very voice he serves. That feels less like strategy than like the Taoist sense of being redirected by the grain of reality, where forcing the obvious path is the mistake and the “right” way arrives as a quiet constraint. Speculation: the Macedonian vision reads like the Dao’s “call” given a human face, the world’s need personified so the will can consent.\n\nTimothy’s circumcision sits beside this as a hard psychological truth: belonging costs skin. It resembles Jewish halakhic pragmatism, but also the Hindu idea of dharma as role-specific obligation, and the Buddhist willingness to adopt skillful means for the sake of liberation. Speculation: it is an initiation not into purity but into friction, a chosen vulnerability that buys access to a community’s ear.\n\nJohn’s hatred of “the world” parallels the Stoic split between what is praised and what is good, and the Buddhist diagnosis of aversion toward the one who refuses the usual bargains. “They know not” echoes Socratic ignorance: persecution is not demonic insight but ordinary blindness defending its habits. The disciple becomes a mirror that exposes the crowd’s self-deception, and the crowd breaks the mirror.",
+    "excursus": "Paul circumcises Timothy and calls it mission. It’s not hypocrisy; it’s the admission that belonging always has a price, and the body pays first. The new movement wants to be pure spirit, yet it drags a knife into the flesh to buy passage through other men’s suspicion. Desire for reach disguises itself as obedience.\n\nThen the Spirit starts shutting doors. Asia, no. Bithynia, no. The itinerary becomes a corridor of refusals, a god who guides by frustration. The vision of Macedonia is less a trumpet than a plea: help us. Paul doesn’t conquer a map; he follows need, and need has the voice of a stranger at night.\n\nJohn names the cost: the world hates what it can’t domesticate. Chosen “out of the world” sounds like honor, but it’s exile. You are marked, therefore watched; you speak, therefore punished. The dread is that the hatred isn’t a misunderstanding to be cleared up, but the proof you’ve actually left.\n\nSo the thread is this: they keep moving, not because they’re fearless, but because they can’t bear the alternative—being loved on the world’s terms. The gospel grows by cuts and closed doors, by a longing to be wanted by the wrong crowd and the decision to accept being unwanted instead.",
+    "synthesis": "God governs mission by election and constraint, not by human initiative. Those sent in Christ’s name will be opposed because the world’s hatred of the Son and ignorance of the Father necessarily spill onto his servants.",
+    "gospel": [
+      {
+        "text": "The passage frames discipleship as a jurisdictional transfer: no longer belonging to “the world,” they become legible as alien. The world’s actions are interpreted as a response to the Name and to ignorance of the Father, locating persecution in a prior refusal of God.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The Jerusalem decrees travel as portable authority: unity is maintained by transmission, not improvisation. Growth follows a settled rule, not novelty.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The itinerary is a negative map: closed doors, then a single opening. Guidance is discerned as constraint and redirection, culminating in a call that redefines the field (Europe by way of Macedonia).",
+        "lines": [
+          6,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Timothy is split at the root: believing mother, Gentile father; identity begins as a mixed sentence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Circumcision here is not theology but strategy: a cut made for other people’s eyes.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Spirit forbids; mission is not self-authorized momentum.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Spirit of Jesus” blocks the road: Christ governs geography.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A Macedonian begs; the frontier speaks first, not the center.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Immediately we” — the narrative turns plural; obedience recruits a company.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hatred is dated earlier than the disciples; they inherit an old hostility.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Election extracts: chosen “out of” the world, therefore targeted by it.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The measure is fixed: servant under master; persecution is imitation, not accident.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ignorance of the Sender becomes violence toward the sent; theology leaks into ethics.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who through the waters of baptism have begotten us to eternal life, since you have willed to make us capable of immortal life, do not now deny us your help to attain the eternal goods. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who through the waters of baptism have begotten us to eternal life, since you have willed to make us capable of immortal life, do not now deny us your help to attain eternal goods. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who through the waters of baptism have begotten us to eternal life, since you have willed to make us capable of immortal life, do not now deny us your help to attain the eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who through the waters of baptism have begotten us to eternal life, since you have willed to make us capable of immortal life, do not now deny us your help to attain the eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who through the waters of baptism have begotten us to eternal life, since you have willed to make us capable of immortal life, do not now deny us your help to attain eternal goods. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to continue celebrating with fervor these days of joy in honor of the risen Christ, and may the mysteries we are recalling transform our life and be made manifest in our works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he came to Derbe and Lystra. And behold, there was a certain disciple there named Timothy, the son of a Jewish woman that believed: but his father was a Gentile.",
+        "To this man the brethren that were in Lystra and Iconium gave a good testimony.",
+        "Him Paul would have to go along with him: and taking him, he circumcised him, because of the Jews who were in those places. For they all knew that his father was a Gentile.",
+        "And as they passed through the cities, they delivered unto them the decrees for to keep, that were decreed by the apostles and ancients who were at Jerusalem.",
+        "And the churches were confirmed in faith and increased in number daily.",
+        "And when they had passed through Phrygia and the country of Galatia, they were forbidden by the Holy Ghost to preach the word in Asia.",
+        "And when they were come into Mysia, they attempted to go into Bithynia: and the Spirit of Jesus suffered them not.",
+        "And when they had passed through Mysia, they went down to Troas.",
+        "And a vision was shewed to Paul in the night, which was a man of Macedonia standing and beseeching him and saying: Pass over into Macedonia and help us.",
+        "And as soon as he had seen the vision, immediately we sought to go into Macedonia: being assured that God had called us to preach the gospel to them."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 16:1-10",
+      "reference": "Acts 16:1-10",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "If the world hate you, know ye that it hath hated me before you.",
+        "If you had been of the world, the world would love its own: but because you are not of the world, but I have chosen you out of the world, therefore the world hateth you.",
+        "Remember my word that I said to you: The servant is not greater than his master. If they have persecuted me, they will also persecute you. If they have kept my word, they will keep yours also.",
+        "But all these things they will do to you for my name's sake: because they know not him that sent me."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:18-21",
+      "reference": "John 15:18-21",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 5th week of Easter",
+        "key": "saturdayOfThe5thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/09.html",
+    "title": "Gospel and Word of the Day - 09 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-09"
+}
