@@ -1,0 +1,268 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c59cfbdf35300f0edc8bdf4bbc095b153e97e952ec572184fb870d331dacd441",
+        "inputSha256": "0efc8c160c22ea80939dedd55f7d6788441af283bcc4c8856e38f7887dca99de",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e17264f5141e3886190fefeb4702fc84f65c59262f01e19671e7950353250adf",
+        "inputSha256": "1703c81c2accfa2b4eb97d7e2a104086f51df8edd7f192e44196ffbed312504a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9a24ef2de52977b3070e2c2c03969137bb8297f709c8c794f20a8415b2fb5350",
+        "inputSha256": "70ab9b063ec3093b56c99d3783ea93c0feb59df25964103b12f1299c09ae85b4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-11T01:56:52.292Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Lydia’s “opened heart” reads like the yogic idea of anahata awakening: not a new argument, but a new capacity to receive. Her swift hospitality echoes dana in Buddhism and the Sikh langar impulse: the truth that lands in you immediately turns into shelter for others. Speculation: her trade in purple, a dye that stains permanently, mirrors the way a single encounter can tint an entire household’s social identity.\n\nThe Paraclete as “Spirit of truth” resembles the Stoic daimon and the Platonic anamnesis: an inner advocate that doesn’t flatter but compels recognition. The warning that zeal can sanctify violence parallels the Bhagavad Gita’s dark edge of dharma when duty is severed from discernment, and the Islamic notion of niyyah gone corrupt when intention is mistaken for knowledge. Speculation: “testimony” here is less courtroom speech than the Sufi shahada as lived witness—speech that costs you belonging, because it refuses the tribe’s monopoly on God.",
+    "excursus": "Acts stages conversion as a quiet hostile takeover. Paul doesn’t storm Philippi; he slips outside the gate to a river where the city’s men aren’t. He speaks into a female circle already trained in piety, and Lydia, a merchant of purple, hears. “Her heart the Lord opened” reads like a sanctioned breach: her inner life is pried apart so attention can be installed. Then the real act happens. Baptism is immediate, household-wide, a corporate acquisition. Lydia’s desire is not merely to believe but to bind: if you judge me faithful, enter my house. She “constrains” them. Hospitality becomes leverage; the new movement gets an address, protection, a base of operations, and she gets the dangerous intimacy of hosting men marked for trouble.\n\nJohn names the trouble without romance. The Spirit here is not comfort but a witness program: testimony that will make you a target. Jesus isn’t soothing anxiety; he is inoculating them against surprise. The dread is specific: expulsion, then murder dressed up as devotion. Religion will feel righteous while it kills. The Paraclete doesn’t stop that; it ensures the story persists through it. In both scenes, the same pressure runs underneath: desire for belonging that costs you your former world. Lydia buys that cost with her house. The disciples will pay with their names, their place, and possibly their lives. The promise is not safety but forewarning, the grim mercy of knowing what kind of love you’ve joined.",
+    "synthesis": "The Spirit proceeds as divine witness to Christ, and the church is constituted by that testimony in households and in courts of hostility. God opens hearts and thereby creates a public witness that the world will punish as blasphemy.",
+    "gospel": [
+      {
+        "text": "The passage frames persecution as epistemology: violence flows from not knowing the Father and the Son; ignorance is not neutral but lethal.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Jesus speaks to prevent “scandal” by redefining exclusion and death as expected outcomes of fidelity; the community is trained to interpret suffering, not to evade it.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Two testimonies are paired—Spirit and disciples—so the church’s witness is both charismatic and historical: divine attestation and human continuity.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Philippi is named as colony and “chief city”: the mission enters an imperial node, not a rustic backwater; the gospel’s route follows power’s roads and then subverts them.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The scene is a quiet founding: no synagogue platform, no public disputation—an informal assembly becomes the seedbed of a church, and the decisive act is divine illumination rather than rhetorical conquest.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The household baptism and the offered lodging establish a domestic base of operations; the church in Philippi begins as a house with a benefactor, not as an institution with a building.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Straight course”: providence narrated as navigation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath outside the gate: worship displaced to the margins; the river replaces the temple.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purple seller: commerce and cult intersect; the heart is the real market. “The Lord opened”—agency relocated.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Baptism spreads by household logic. Hospitality becomes proof; she “constrained” apostles—patronage flips direction.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Paraclete: courtroom term. Testimony is the Spirit’s trade.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Witness grounded in duration: “from the beginning,” not in brilliance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Murder as liturgy: zeal can be sacramentalized.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Forewarning as antidote: memory is weaponized against panic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received in this Easter season may bear abundant fruit throughout our whole life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received at this Easter may bear abundant fruit throughout our lives. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received at this Easter may bear abundant fruit throughout our whole life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received at this Easter may bear abundant fruit throughout our whole life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received at this Easter may bear abundant fruit throughout our whole life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord of mercy, that the gifts received in this Easter season may bear abundant fruit throughout our whole life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And sailing from Troas, we came with a straight course to Samothracia, and the day following to Neapolis.",
+        "And from thence to Philippi, which is the chief city of part of Macedonia, a colony. And we were in this city some days conferring together.",
+        "And upon the Sabbath day, we went forth without the gate by a river side, where it seemed that there was prayer: and sitting down, we spoke to the women that were assembled.",
+        "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, one that worshipped God, did hear: whose heart the Lord opened to attend to those things which were said by Paul.",
+        "And when she was baptized, and her household, she besought us, saying: If you have judged me to be faithful to the Lord, come into my house and abide there. And she constrained us."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 16:11-15",
+      "reference": "Acts 16:11-15",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me. Whom I will send... This proves, against the modern Greeks, that the Holy Ghost proceedeth from the Son, as well as from the Father: otherwise he could not be sent by the Son.",
+        "And you shall give testimony, because you are with me from the beginning.",
+        "These things have I spoken to you things have I spoken to you that you may not be scandalized.",
+        "They will put you out of the synagogues: yea, the hour cometh, that whosoever killeth you will think that he doth a service to God.",
+        "And these things will they do to you; because they have not known the Father nor me.",
+        "But these things I have told you, that when the hour shall come, you may remember that I told you of them."
+      ],
+      "lineRefs": [
+        "15:26",
+        "15:27",
+        "16:1",
+        "16:2",
+        "16:3",
+        "16:4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:26—16:4",
+      "reference": "John 15:26—16:4",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 6th week of Easter",
+        "key": "mondayOfThe6thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/11.html",
+    "title": "Gospel and Word of the Day - 11 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-11"
+}
