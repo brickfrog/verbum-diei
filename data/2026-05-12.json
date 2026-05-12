@@ -1,0 +1,289 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7f880e68fe7fa0f7f4f262efd6042d2379ece960732f67d1e289d4f2393d3d03",
+        "inputSha256": "766431e468f50eb5cc56e11a559108335d243bc2c64a008d189a4c120ccec3c3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "82556c508827e6e3ea1340399dab47e32cb680c8ddb419b8dc2182b37d988b34",
+        "inputSha256": "4e5e291ce3fe58a2eea62013e8e2bc2a81ee7462a32060a2ec2e170105a60dd8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "67aa701abaff9bd284c0be6c24ec06efe03547f20a5800f3bf0611992493b9f2",
+        "inputSha256": "97678a2a97d4569dae345bda63f46226ddbd8990c3f9d655cd368954ba2d22a7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-12T01:56:37.739Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The jailer’s near-suicide is the naked moment when a life built on control meets the void it secretly serves. Paul’s refusal to exploit the open doors is a psychological counterspell: freedom is redefined as fidelity, not escape. That single act disarms the jailer’s shame economy, so his trembling is not superstition but the body recognizing a new authority that does not need violence. The washing of wounds and the shared meal complete the reversal: the keeper becomes the kept, the enforcer becomes the host, punishment turns into kinship.\n\nThe Paraclete’s “conviction” reads like an inner prosecutor that is also an advocate, the rare voice that can name guilt without annihilating the self. “Sin, justice, judgment” map onto three psychic disclosures: the lie I lived by, the good I refused to trust, the power I feared that is already broken. Speculation: this resembles the Buddhist insight into dukkha and the collapse of craving’s courtroom, the Stoic daemon-like conscience that aligns the soul with logos, and the Sufi sense of tawba where remorse becomes a doorway rather than a sentence. The earthquake is the outer image of that inner event: the world shakes, yet the decisive liberation is the refusal to run.",
+    "excursus": "Acts pretends to be a jailbreak story, but it’s really about a man whose whole identity is nailed to locked doors. The earthquake isn’t mercy; it’s exposure. The jailer wakes into the one thing he cannot survive: a world where his function is obsolete. He reaches for the sword not out of honor but out of terror at being emptied. Paul’s shout is not just kindness; it’s control. “We are all here” is the line that reconstitutes the jailer’s universe, giving him back a script, a center, a master.\n\nNotice how quickly violence turns erotic with care. The one who fastened their feet now washes their stripes. The body he helped break becomes the body he tends. Baptism arrives like a sanctioned wound, a ritual that lets him convert panic into purity. He doesn’t repent of cruelty; he repurposes it. He needs a salvation that keeps the architecture of authority intact, only relocated from Rome to “the Lord.” The table is the final transaction: hospitality as absolution, intimacy as proof.\n\nJohn’s Paraclete is not a comforter; it’s a prosecutor. Jesus leaves so that an internal court can be installed. “Convince the world” means indict it, make it feel the pressure of a verdict. Sin is framed as refusal of belief, justice as the disappearance of the beloved into an unreachable Father, judgment as the already-decided defeat of the world’s prince. The dread is that the case is closed before you speak.\n\nPut together, the readings describe conversion as a managed crisis. Freedom happens, but it is immediately domesticated. The doors open, yet nobody leaves. Desire for escape is redirected into desire for belonging, and the new spirit arrives not to soothe but to make sure you never again sleep through the tremor.",
+    "synthesis": "God converts instruments of confinement into occasions of revelation, and the Spirit enforces Christ’s verdict on the world by exposing unbelief, vindicating the Son, and announcing the already-decided judgment.",
+    "gospel": [
+      {
+        "text": "Jesus interprets his departure as a necessary reconfiguration of access to truth: the disciples’ failure to inquire (1) and their sorrow (2) are treated as epistemic obstacles. The Spirit’s work is not comfort but adjudication: unbelief is named as the core sin (5), and the decisive judgment is already rendered against the world’s prince (7), making the present an arena of revealed verdict rather than open trial.",
+        "lines": [
+          1,
+          2,
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative pivots from coercion to catechesis: the state’s demand for “diligent” custody (2) is answered by a new custody of conscience (8–11). The gaoler’s question is not about escape but salvation (9), and the apostolic reply is radically minimal—faith in the Lord Jesus (10)—then immediately expands into household transmission (11,13). The household becomes the new civic unit, replacing the magistrates’ crowd with a domestic church.",
+        "lines": [
+          2,
+          8,
+          9,
+          10,
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Public frenzy plus official stripping: law becomes spectacle.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Inner prison” and “stocks”: punishment engineered to immobilize hope.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Midnight liturgy; the audience is involuntary—“heard them.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cosmic force, mundane result: doors, bands—creation edits the jail’s grammar.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The gaoler’s reflex is self-execution; Rome’s discipline turns inward.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostolic authority expressed as restraint: no harm, no flight.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wounds washed, then water of baptism: reversal of who serves whom.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Absence is framed as advantage; the gift arrives only after departure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Paraclete prosecutes: sin, justice, judgment—three counts, one verdict.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Justice is relocated: not seen on earth, asserted at the Father.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Judgment is present tense: the ruler is “already judged,” history catching up.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, ever exult as they see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always exult as they see themselves renewed and rejuvenated in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your people, Lord, always rejoice to see themselves renewed and made young again in spirit, and may the joy of having regained filial adoption strengthen their hope of rising again in glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the people ran together against them: and the magistrates, rending off their clothes, commanded them to be beaten with rods.",
+        "And when they had laid many stripes upon them, they cast them into prison, charging the gaoler to keep them diligently.",
+        "Who having received such a charge, thrust them into the inner prison and made their feet fast in the stocks.",
+        "And at midnight, Paul and Silas, praying, praised God. And they that were in prison heard them.",
+        "And suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened and the bands of all were loosed.",
+        "And the keeper of the prison, awakening out of his sleep and seeing the doors of the prison open, drawing his sword, would have killed himself, supposing that the prisoners had been fled.",
+        "But Paul cried with a loud voice, saying: Do thyself no harm, for we all are here.",
+        "Then calling for a light, he went in: and trembling, fell down at the feet of Paul and Silas.",
+        "And bringing them out, he said: Masters, what must I do, that I may be saved?",
+        "But they said: believe in the Lord Jesus: and thou shalt be saved, and thy house.",
+        "And they preached the word of the Lord to him and to all that were in his house.",
+        "And he, taking them the same hour of the night, washed their stripes: and himself was baptized, and all his house immediately.",
+        "And when he had brought them into his own house, he laid the table for them: and rejoiced with all his house, believing God."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 16:22-34",
+      "reference": "Acts 16:22-34",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But I told you not these things from the beginning, because I was with you. And now I go to him that sent me, and none of you asketh me: Whither goest thou?",
+        "But because I have spoken these things to you, sorrow hath filled your heart.",
+        "But I tell you the truth: it is expedient to you that I go. For if I go not, the Paraclete will not come to you: but if I go, I will send him to you.",
+        "And when he is come, he will convince the world of sin and of justice and of judgment. He will convince the world of sin, etc... The Holy Ghost, by his coming brought over many thousands, first, to a sense of their sin in not believing in Christ. Secondly, to a conviction of the justice of Christ, now sitting at the right hand of his Father. And thirdly, to a right apprehension of the judgment prepared for them that choose to follow Satan, who is already judged and condemned.",
+        "Of sin: because they believed not in me.",
+        "And of justice: because I go to the Father: and you shall see me no longer.",
+        "And of judgment: because the prince of this world is already judged."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 16:5-11",
+      "reference": "John 16:5-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saints Nereus and Achilleus, Martyrs/Saint Pancras, Martyr",
+        "key": "saintsNereusAndAchilleusMartyrsSaintPancrasMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/12.html",
+    "title": "Gospel and Word of the Day - 12 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-12"
+}
