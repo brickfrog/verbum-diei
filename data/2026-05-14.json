@@ -1,0 +1,286 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "369af33a4431f90d32721625b36b06481837491b2ae5033f91ea64a6bb826621",
+        "inputSha256": "1865664ef589d3acf37dc7b7e19df134b2990a05a2a6173661a7776f83218dd9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6df38a8b4bf8b8ed1f00789afee1853b0f843ee0f27d4e2fff9623cfd5a01f36",
+        "inputSha256": "0fcbc8e5a4ce3d8972f5fbec6b93699c594e3eb52380d11d86f96a446b65aadd",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1dec265d01e36e04a0fc1f3ebc3f639b376dee1e13e6dbb52085f12a6426115a",
+        "inputSha256": "967e13bde1ed9ff0676fb7a6e47a7a08431ac91378092e34ac20062948722876",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-14T01:57:07.482Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The vanishing teacher who commands waiting before action recalls Zen’s insistence that the real transmission ripens in silence after the master’s departure, when the student stops clinging to the visible form. The clouded ascent reads like the apophatic move in Neoplatonism and in the Upanishadic “neti neti”: the highest authority is not an object to be stared at but a horizon that breaks the gaze. The two figures who interrupt the skyward fixation resemble the daimonic correctives in Plato and the bodhisattva’s turn in Mahayana: stop seeking escape; return to the world with a task.\n\nThe question about restoring a national kingdom is the psyche’s reflex to reduce the numinous to a familiar political script; the refusal of “times and seasons” is a forced maturation, a boundary against magical control. Power arrives as breath and speech rather than as timetable, like prana in yoga and ruach in Jewish mysticism; speculation, but the shared intuition is that agency is received as inner animation before it becomes public mission.\n\nThe commission to all nations parallels Ashoka’s edicts and the Buddhist dharmaduta ideal, and also the Stoic cosmopolis: truth meant for the whole human field rather than a single tribe. Baptism as an enacted crossing has close cousins in mikveh, in Eleusinian washing, and in the Ganges bath; speculation, but the psychological function is similar—an embodied reset that authorizes a new identity. “I am with you always” echoes the bhakti sense of abiding presence and the Sufi companionship of the Beloved: absence becomes a different mode of intimacy, a presence that relocates from sight to fidelity.",
+    "excursus": "These scenes are not triumph but managed abandonment. Jesus keeps appearing for forty days like an addiction that won’t release its users, then issues the cruelest command: stay put, wait, don’t act, don’t leave the city. Desire is tightened into suspense. The question about Israel’s kingdom is not stupidity; it’s panic disguised as politics, the need for something solid to replace the vanishing body.\n\nThe Ascension is a disappearance staged as elevation. A cloud swallows him, and the disciples are caught in the humiliating posture of people staring at an empty sky. The white-garbed men don’t comfort; they interrupt. Stop looking up. Your longing is embarrassing now. The promise of return functions less as hope than as a way to keep grief productive, to turn loss into mission.\n\nMatthew sharpens the tension: they adore, and some doubt, in the same breath. The risen one answers doubt not with intimacy but with jurisdiction: all power. Then he delegates. “Go” is what you tell people when you are leaving. “I am with you all days” is the line that tries to make absence feel like presence, a psychological prosthesis. The church begins here not as certainty but as a disciplined coping mechanism: convert your mourning into expansion, baptize the nations, keep moving so you don’t have to stand still under the blank sky.",
+    "synthesis": "The Ascended Christ rules with universal authority and extends his reign through Spirit-empowered witnesses who baptize into the Triune Name and teach commanded obedience. The Church’s mission is grounded in divine sovereignty and sustained by Christ’s abiding presence until the end.",
+    "gospel": [
+      {
+        "text": "The scene is staged on an appointed mountain: authority is conferred in a liturgical setting, not improvised. The claim of “all power” grounds mission in sovereignty; the commission is not advice but an extension of dominion into the nations.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The inserted gloss about bishops and pastors is itself a witness to how this text is read: the commission is treated as transmissible office, not a one-time errand. Whatever one makes of the polemic, the logic is clear—Christ’s authority is meant to persist through authorized teachers.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The commission has two instruments—baptizing and teaching—and one guarantee—abiding presence “all days.” The Church’s universality is therefore sacramental and didactic, and its endurance is not explained by institutional resilience but by promised accompaniment.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative turns on a delay: the apostles are immobilized in Jerusalem until a promised agency arrives. The interval is constitutive—mission is not launched by zeal but by endowment, and the community is forced to learn dependence before expansion.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Jesus refuses apocalyptic scheduling and replaces it with a geography of testimony. The Father keeps times; the Son assigns tasks; the Spirit supplies capacity—an economy of roles that prevents both political triumphalism and idle speculation.",
+        "lines": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "The two figures in white function as interpreters of the event: they convert a private marvel into a public directive and tether the Ascension to a future return. The Church lives between departure and parousia, under instruction not to confuse wonder with vocation.",
+        "lines": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“began” implies continuation; Acts is unfinished business.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commands are mediated “by the Holy Ghost”: authority is pneumatic, not merely remembered.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“many proofs” against private mysticism; forty days: pedagogy, not spectacle.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They ask for Israel; he answers with Spirit. National hope meets universal mission.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A cloud: concealment as revelation; absence becomes a mode of presence.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rebuke of vertical fixation; the Ascension is not an invitation to stare.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Worship and doubt coexist; the Church begins in mixed perception.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Name is triune; baptism is entry into a grammar, not a slogan.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“observe” not “admire”: discipleship is compliance with a command-structure.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to rejoice with exultant joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope to arrive also, as members of his body. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to exult with joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory, and where he has gone before us, he who is our head, we hope to arrive also, as members of his body. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to exult with joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope to arrive also, as members of his body. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to rejoice with exultant joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope to arrive also, as members of his Body. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to exult with joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope also to arrive as members of his body. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to exult with joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope to arrive also, as members of his Body. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach,",
+        "Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.",
+        "To whom also he shewed himself alive after his passion, by many proofs, for forty days appearing to them, and speaking of the kingdom of God.",
+        "And eating together with them, he commanded them, that they should not depart from Jerusalem, but should wait for the promise of the Father, which you have heard (saith he) by my mouth.",
+        "For John indeed baptized with water: but you shall be baptized with the Holy Ghost, not many days hence.",
+        "They therefore who were come together, asked him, saying: Lord, wilt thou at this time restore again the kingdom of Israel?",
+        "But he said to them: It is not for you to know the time or moments, which the Father hath put in his own power:",
+        "But you shall receive the power of the Holy Ghost coming upon you, and you shall be witnesses unto me in Jerusalem, and in all Judea, and Samaria, and even to the uttermost part of the earth.",
+        "And when he had said these things, while they looked on, he was raised up: and a cloud received him out of their sight.",
+        "And while they were beholding him going up to heaven, behold two men stood by them in white garments.",
+        "Who also said: Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come as you have seen him going into heaven."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 1:1-11",
+      "reference": "Acts 1:1-11",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them.",
+        "And seeing him they adored: but some doubted.",
+        "And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth. All power, etc... See here the warrant and commission of the apostles and their successors, the bishops and pastors of Christ's church. He received from his Father all power in heaven and in earth: and in virtue of this power, he sends them (even as his Father sent him, St. John 20. 21) to teach and disciple, not one, but all nations; and instruct them in all truths: and that he may assist them effectually in the execution of this commission, he promises to be with them, not for three or four hundred years only, but all days, even to the consummation of the world. How then could the Catholic Church ever go astray; having always with her pastors, as is here promised, Christ himself, who is the way, the truth, and the life. St. John 14.",
+        "Going therefore, teach ye all nations: baptizing them in the name of the Father and of the Son and of the Holy Ghost.",
+        "Teaching them to observe all things whatsoever I have commanded you. And behold I am with you all days, even to the consummation of the world. THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. MARK St. Mark, the disciple and interpreter of St. Peter (saith St. Jerome), according to what he heard from Peter himself, wrote at Rome a brief Gospel at the request of the Brethren, about ten years after our lord's Ascension; which when Peter had heard, he approved of it and with his authority published it to the church to be read. Baronius and others say that the original was written in Latin: but the more general opinion is that the Evangelist wrote it in Greek."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 28:16-20",
+      "reference": "Matthew 28:16-20",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Ascension of the Lord",
+        "key": "ascension"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/14.html",
+    "title": "Gospel and Word of the Day - 14 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-14"
+}
