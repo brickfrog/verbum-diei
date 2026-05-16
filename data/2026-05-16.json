@@ -1,0 +1,256 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "662c0d041f75c65da4f041e100e113cbade404c44bb706735c292654b79e6ec5",
+        "inputSha256": "9424c8fbe4d29e7d48ef241e0401dc18dd8b403c6a7cad48406c52a329839023",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "adcad2a6a6739408f479c6b7ff12b497d0964bb3f41092f64caa4e219308a523",
+        "inputSha256": "77f2c6ccb4825261986ccc06c9aaf45016fad78350b8f496cd5e4a5a9785c778",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "716f67fc70f4a45e7c1d8c73a20647e479dba2778c0a0340dc9ff4413d42667d",
+        "inputSha256": "a27876db24e09b500d55b34b9f3fd0243e38a5ecbecbf559bb81b6829ad953e3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-16T01:56:51.671Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Apollos reads like the gifted partial-knower: charisma outruns initiation, zeal outruns completion. The psyche here is porous and teachable; correction doesn’t humiliate him because his identity is anchored in the work, not in being right. Priscilla and Aquila practice a quiet pedagogy: they don’t crush public brilliance, they re-channel it through intimacy, like Zen dokusan where the master adjusts the student’s insight in private so the koan ripens without spectacle. Speculation: it also resembles the Sufi adab of companionship, where refinement comes by proximity more than argument.\n\nJohn’s promise of asking “in my name” shifts desire from bargaining to alignment. It’s less technique than a re-formed will: joy becomes the affect of congruence, not the reward of getting things. The movement from proverb to plainness parallels the Buddhist turn from skillful means to direct seeing, and the Vedantic move from symbols to aparoksha jnana, immediate knowledge. Speculation: the “Father himself loveth you” echoes bhakti’s claim that the divine response is already prior to the petition; prayer is consent to a love that precedes language.",
+    "excursus": "Acts stages a quiet violence: the community corrects its own prodigy. Apollos arrives polished, ardent, “mighty in the scriptures,” and yet incomplete, stalled at John’s baptism, trapped in an old threshold. Priscilla and Aquila do not applaud; they take him aside. The truth here is not a lightning bolt but an annexation. His eloquence is seized, retooled, and redeployed. What looks like guidance is also domestication: charisma brought under house discipline, desire redirected into acceptable channels. He becomes useful, and usefulness is the congregation’s favorite form of sanctity.\n\nJohn’s Jesus offers a different kind of control, more intimate and more frightening. “You shall not ask me anything,” he says, as if the relationship must survive his absence by becoming procedural: requests routed “in my name,” joy promised as a kind of compliance reward. He withdraws even from intercession—“I say not…that I will ask the Father for you”—and calls it love. The dread is that love is now direct exposure: no mediator, no buffer, just you and the Father’s gaze. The desire is to believe this exposure is safety.\n\nBoth texts circle the same ache: the teacher is leaving, the disciple must be rewired. Apollos is rewired by friends; the disciples are rewired by language that turns longing into petition. The plainness promised is not comfort. It is the moment when the story stops being proverb and becomes a demand: speak correctly, ask correctly, belong correctly, and call the tightening of the net “full joy.”",
+    "synthesis": "Christ grants filial access to the Father, and the Church safeguards that access by correcting and commissioning its teachers so that Scripture’s witness lands on the true Christ.",
+    "gospel": [
+      {
+        "text": "The ground of prayer is relocated from human mediation to divine affection: love of the Son and belief in his origin establish filial standing. The discourse ties petition to Christology—who Jesus is determines what “in my name” can mean.",
+        "lines": [
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The episode stages a transfer of authority: letters of reception, communal exhortation, and the newcomer’s usefulness. Doctrine travels by networks, not charisma alone; the “help” given is ecclesial reinforcement of prior belief rather than a fresh foundation.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Itinerant consolidation: movement as governance; “confirming” is the verb of continuity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Alexandria exports rhetoric; “mighty in the scriptures” signals power before precision.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Heat without fullness: Jesus on the tongue, John’s baptism in the hands.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bold in public, corrected in private; the Church edits its own speakers.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Scripture becomes a courtroom: “shewing” is evidence, “Christ” the verdict.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A new access protocol: the Father is addressed, the Name is the key.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Joy is not mood but completion; reception is the measure of asking.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Proverbs are a veil; “plainly” is disclosure, not mere clarity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Intercession is reconfigured: not bypassed, but internalized into the disciple’s prayer.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The arc is exit and return; mission is a loop back to the Father.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, our hearts, that they may bear fruit in good works; and, ever striving for what is better, grant that we may live fully the Paschal mystery. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move our hearts, Lord, that they may bear fruit in good works, and, ever striving for what is better, grant that we may live fully the Paschal mystery. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move our hearts, Lord, that they may bear fruit in good works, and, ever striving toward what is better, grant that we may live fully the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move our hearts, Lord, that they may bear fruit in good works, and, always striving for what is better, grant us to live fully the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move our hearts, Lord, that they may bear fruit in good works, and, ever striving for what is better, grant that we may live fully the Paschal mystery. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, almighty God, to rejoice with exultant joy and to give you thanks in this liturgy of praise, for the Ascension of Jesus Christ, your Son, is already our victory; and where he has gone before us, he who is our head, we hope to arrive also, as members of his body. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And after he had spent some time there, he departed and went through the country of Galatia and Phrygia, in order, confirming all the disciples.",
+        "Now a certain Jew, named Apollo, born at Alexandria, an eloquent man, came to Ephesus, one mighty in the scriptures.",
+        "This man was instructed in the way of the Lord: and being fervent in spirit, spoke and taught diligently the things that are of Jesus, knowing only the baptism of John.",
+        "This man therefore began to speak boldly in the synagogue. Whom when Priscilla and Aquila had heard, they took him to them and expounded to him the way of the Lord more diligently.",
+        "And whereas he was desirous to go to Achaia, the brethren exhorting wrote to the disciples to receive him. Who, when he was come, helped them much who had believed.",
+        "For with much vigour he convinced the Jews openly, shewing by the scriptures that Jesus is the Christ."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 18:23-28",
+      "reference": "Acts 18:23-28",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And in that day you shall not ask me any thing. Amen, amen, I say to you: if you ask the Father any thing in my name, he will give it you.",
+        "Hitherto, you have not asked any thing in my name. Ask, and you shall receive; that your joy may be full.",
+        "These things I have spoken to you in proverbs. The hour cometh when I will no longer speak to you in proverbs, but will shew you plainly of the Father.",
+        "In that day, you shall ask in my name: and I say not to you that I will ask the Father for you.",
+        "For the Father himself loveth you, because you have loved me and have believed that I came out from God.",
+        "I came forth from the Father and am come into the world: again I leave the world and I go to the Father."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 16:23-28",
+      "reference": "John 16:23-28",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 6th week of Easter",
+        "key": "saturdayOfThe6thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/16.html",
+    "title": "Gospel and Word of the Day - 16 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-16"
+}
