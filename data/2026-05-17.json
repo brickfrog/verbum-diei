@@ -1,0 +1,257 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d7b01cb1571b3a85dc47e715744ce054d74f5cc7b5b3c1ab2adad357da5299d0",
+        "inputSha256": "13fd760ac223dcffd30d323f3bbbdda2524517d741ef27eb7ba969c46ddba478",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ccb4fd77f826c7d9d78d1dccd9d67159517f5cee6541aecb7a06f597a24b3401",
+        "inputSha256": "6d3febaf2caff391b2fa7ee44e643102df1d0f31dcea3666def3e419d566d68a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "aaa62a9a68ff5fe47527407bedcf44fc5e2be39c7f09c7025882342654b23740",
+        "inputSha256": "7054b033fd129d2f1eaab9fabe438c45a231b97a54186c03bd1bb7db0d0d8211",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-17T01:57:15.169Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The upper room feels like a human technology: containment that makes coherence possible. A small band turns absence into practice, and practice into a single mind. That “one mind” is less unanimity than entrainment, the way bodies and attention synchronize under repeated prayer; the women and Mary anchor the circle as memory and affect, not as ornament.\n\nJohn’s prayer frames identity as received and returned: name, word, glory circulating like breath. “Eternal life” reads psychologically as a mode of knowing that reorders desire; not duration but intimacy that stabilizes the self. The request to be kept “in the name” is a plea for a holding environment: the group’s unity depends on being held by a larger coherence when the charismatic center exits.\n\nSemina Verbi: the upper room’s persevering resembles the Buddhist sangha’s shared practice sustaining awakening after the teacher’s passing, and the Jewish minyan’s quorum that makes prayer a communal act rather than private mood. The “name” as protective enclosure parallels Sufi dhikr and the Sikh remembrance of Naam as a lived atmosphere. Speculation: the mutual indwelling of “mine” and “thine” echoes Advaita’s nondual grammar, though here it stays personal rather than dissolving into impersonal absolute.",
+    "excursus": "Acts shows the aftermath of charisma: the leader gone, the followers climbing into a rented upper room like fugitives returning to a safe house. “One mind” reads less like harmony than like self-hypnosis. Prayer becomes a technology for holding panic in place. The women and Mary aren’t decorative piety; they are ballast, the witnesses of bodies and blood, keeping the men from drifting into pure myth.\n\nJohn’s prayer is not comfort but triage. Jesus talks like a man already leaving, arranging custody. “Glory” is a hard, bright word for the need to be justified after choosing a path that ends in abandonment. Eternal life is redefined as knowledge, not bliss: an intense, consuming recognition that replaces everything else.\n\nThe most chilling line is “I pray not for the world.” Love narrows at the moment it claims to save. The circle tightens: given, kept, guarded, one. Unity here is not innocence; it is a bunker. He asks the Father to keep them in a Name, because names are what you cling to when the world turns hostile and the self starts to fracture.\n\nSo the desire in both texts is for containment. The dread is that without the absent figure’s gaze, the group will dissolve into blame and scatter. What they call holiness is the pressure of being chosen, and what they call prayer is the sound of people trying not to fall apart.",
+    "synthesis": "The Son’s eternal glory grounds his authority to give eternal life, and that life consists in knowing the Father through the sent Son. The church’s unity is a guarded participation in this divine communion, maintained by the Father’s keeping, not by human consensus.",
+    "gospel": [
+      {
+        "text": "John 17 presents a chain of delegation: Father gives authority, Son gives life, Son gives words, disciples receive and keep, and the Son is thereby glorified in them. The prayer is not for moral improvement but for preservation of a transmitted deposit—name, word, origin—so that the community’s unity mirrors the mutual possession of Father and Son.",
+        "lines": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Acts stages the interim between Ascension and Pentecost as a disciplined enclosure: movement ends quickly, then the community is fixed in a single interior space. The catalog of apostles functions like a legal roster—continuity of office despite the rupture of departure.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The presence of Mary and “his brethren” signals that the nascent church is not a private society of the Twelve but a public household; prayer is the mechanism by which disparate claims (apostolic authority, familial proximity, female discipleship) are held together without resolving rank.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The return is measured: holiness reduced to a day’s distance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The upper room becomes an address; names replace geography.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is procedural: perseverance, one mind, prayer; the list widens to women, Mary, brothers—kinship and discipleship forced to share a bench.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eyes up; hour arrived. Glory is traded, not seized.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Eternal life defined as knowledge: not duration but recognition.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Pre-world glory: the Son claims antecedence to creation, not merely mission within it.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A hard boundary: intercession is selective; “world” is excluded by design.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Absence begins: he leaves; they remain. Unity is requested as custody, not sentiment.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "fallback",
+      "prayer": "Lord, open my lips, and my mouth shall declare your praise.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "fallback",
+      "prayer": "Blessed are you, Lord, in the light of the new day.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "fallback",
+      "prayer": "Come, Holy Spirit, and lighten our work in truth.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "fallback",
+      "prayer": "God, come to my assistance. Lord, make haste to help me.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "fallback",
+      "prayer": "Stay with us, Lord, in the heat and trial of this day.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "fallback",
+      "prayer": "Let my prayer rise before you like incense this evening.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "fallback",
+      "prayer": "Into your hands, Lord, I commend my spirit.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then they returned to Jerusalem from the mount that is called Olivet, which is nigh Jerusalem, within a sabbath day's journey.",
+        "And when they were come in, they went up into an upper room, where abode Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James of Alpheus and Simon Zelotes and Jude the brother of James.",
+        "All these were persevering with one mind in prayer with the women, and Mary the mother of Jesus, and with his brethren."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 1:12-14",
+      "reference": "Acts 1:12-14",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "These things Jesus spoke: and lifting up his eyes to heaven, he said: the hour is come. Glorify thy Son, that thy Son may glorify thee.",
+        "As thou hast given him power over all flesh, that he may give eternal life to all whom thou hast given him.",
+        "Now this is eternal life: That they may know thee, the only true God, and Jesus Christ, whom thou hast sent.",
+        "I have glorified thee on the earth; I have finished the work which thou gavest me to do.",
+        "And now glorify thou me, O Father, with thyself, with the glory which I had, before the world was, with thee.",
+        "I have manifested thy name to the men whom thou hast given me out of the world. Thine they were: and to me thou gavest them. And they have kept thy word.",
+        "Now they have known that all things which thou hast given me are from thee:",
+        "Because the words which thou gavest me, I have given to them. And they have received them and have known in very deed that I came out from thee: and they have believed that thou didst send me.",
+        "I pray for them. I pray not for the world, but for them whom thou hast given me: because they are thine.",
+        "And all my things are thine, and thine are mine: and I am glorified in them.",
+        "And now I am not in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name whom thou hast given me: that they may be one, as we also are."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 17:1-11",
+      "reference": "John 17:1-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "7th Sunday of Easter",
+        "key": "7thSundayOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/17.html",
+    "title": "Gospel and Word of the Day - 17 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-17"
+}
