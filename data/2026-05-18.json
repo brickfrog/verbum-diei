@@ -1,0 +1,262 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5a9aab57fa8a178989e6cf6c7fa9a23c036bfccc8a1cbb8fcdcff1c11adab4d0",
+        "inputSha256": "a8b5c14224ef2131202e790d6b5b6a2c9e086ee28e30e84d42423f282d5eeb1d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2810df29fa604df65e3991c7d4cd665c4011c87ac16258f3d71de822c6fcf13e",
+        "inputSha256": "21c672fcfe33bf216f4c2cdb169070b6ba2cfa0f17c7e4fa04c7654370a607dc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "44d7148cc93547f28a39a3470639da3e4a388003b3ff4a6436a0721a7b81a273",
+        "inputSha256": "9a2a7ba4d030c28e88422d61d380aee22e527a48f49c69c09097ac53fda58da8",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-18T01:56:58.738Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s question lands like a clinical intake: you have a practice, but do you have the animating breath. That gap between ritual competence and lived interior force is a human constant. In Zen it shows up as the difference between correct form and kenshō; in Yoga between āsana and prāṇa; in Sufism between outward adab and the wind of rūḥ. Speculation: the “twelve” reads like a small psyche-system brought to integration, a circle of capacities waiting for a unifying current.\n\nThe laying on of hands and the eruption of speech resembles traditions where transmission is less instruction than ignition: Hindu dīkṣā, Tibetan wang, even the Quaker sense of being “moved” to speak. Tongues and prophecy look like language under pressure, when the self’s usual syntax can’t contain what’s arriving; compare shamanic glossolalia or the Daoist notion of de, a potency that expresses itself when it must.\n\nIn John, the disciples crave plain speech, as if clarity could spare them fracture. Jesus answers like a psychologist of group dynamics: insight doesn’t prevent dispersal; it only names it in advance. “Peace in me” beside “distress in the world” parallels the Bhagavad Gītā’s steadiness in action and Stoic ataraxia amid fate; confidence is not optimism but practiced inner stance. Speculation: “I have overcome the world” reads less as triumphalism than as a claim that the world’s power is to scatter attention, and the counter-power is a center that cannot be left alone.",
+    "excursus": "Paul arrives like an auditor of the soul, not a comforter. “Have you received?” is an interrogation that turns belief into a deficit. These disciples have the clean, manageable religion of John: penance, preparation, a life of perpetual almost. Paul cannot tolerate the almost. He forces a second baptism, a second naming, as if their first self was misfiled. The Spirit arrives not as serenity but as symptoms: tongues, prophecy, the body commandeered by a new power. Twelve men, a tight number, a controllable outbreak.\n\nIn the gospel the disciples crave plain speech because plain speech feels like possession. They want certainty that pins Jesus down: you know all things, therefore we are safe. Jesus answers by stripping them: you will scatter, each to his own, leaving me alone. Peace is not the absence of dread; it is dread given a place to live. “I have overcome the world” is not triumphalism but a cold fact offered to frightened people who will still run. The kingdom advances by rupture: new names, broken groups, a peace that coexists with panic.",
+    "synthesis": "The Spirit is not an optional supplement to belief but the constitutive gift that completes baptism into Christ. Christ’s peace rests on his accomplished victory and the Father’s abiding presence, not on the disciples’ steadiness.",
+    "gospel": [
+      {
+        "text": "John frames the disciples’ confidence as premature closure: clarity of speech is mistaken for completion of understanding. Jesus predicts the fracture of the group and simultaneously asserts an unbreakable dyad with the Father, making their abandonment irrelevant to his mission’s integrity.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The discourse ends with a juridical verdict on “the world”: distress is normal, peace is derivative of union, and victory is declared before the passion narrative unfolds—history is interpreted from the standpoint of a finished overcoming.",
+        "lines": [
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Acts stages a transfer of regimes: from preparatory repentance to inaugurated kingdom. The episode is not about private spirituality but about public authorization—Ephesus is claimed through instruction, rite, and sustained synagogue contestation.",
+        "lines": [
+          1,
+          8
+        ]
+      },
+      {
+        "text": "The narrative compresses ecclesiology into a small number: a remnant is made a nucleus. John’s forward-pointing rite is treated as provisional; the community’s identity is stabilized by incorporation into Jesus’ name and the apostolic act that follows.",
+        "lines": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Ignorance is not hostility; it is a vacuum. Paul probes for presence, not opinion.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Baptism names an allegiance; the question exposes a truncated horizon.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rebaptism is not redundancy but reorientation: a new Name, a new center.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands: mediation. Tongues: overflow. Prophecy: speech commandeered by Another.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They convert omniscience into a credential; faith reduced to inference.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A question that cuts: belief can be punctual and still brittle.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Scattering is the disciples’ signature move; solitude is redefined by communion.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace is located “in me,” not in circumstances; conquest precedes their crisis.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully fulfill your will and bear witness to you by our works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully carry out your will and bear witness to you by our works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully carry out your will and bear witness to you by our works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully fulfill your will and bear witness to you by our works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully carry out your will and bear witness to you by our works. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour out, Lord, upon us the power of the Holy Spirit, that we may faithfully fulfill your will and bear witness to you by our works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it came to pass, while Apollo was at Corinth, that Paul, having passed through the upper coasts, came to Ephesus and found certain disciples.",
+        "And he said to them: Have you received the Holy Ghost since ye believed? But they said to him: We have not so much as heard whether there be a Holy Ghost.",
+        "And he said: In what then were you baptized? Who said: In John's baptism.",
+        "Then Paul said: John baptized the people with the baptism of penance saying: That they should believe in him, who was to come after him, that is to say, in Jesus.",
+        "Having heard these things, they were baptized in the name of the Lord Jesus.",
+        "And when Paul had imposed his hands on them, the Holy Ghost came upon them: and they spoke with tongues and prophesied.",
+        "And all the men were about twelve.",
+        "And entering into the synagogue, he spoke boldly for the space of three months, disputing and exhorting concerning the kingdom of God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 19:1-8",
+      "reference": "Acts 19:1-8",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "His disciples say to him: Behold, now thou speakest plainly and speakest no proverb.",
+        "Now we know that thou knowest all things and thou needest not that any man should ask thee. By this we believe that thou camest forth from God.",
+        "Jesus answered them: Do you now believe?",
+        "Behold, the hour cometh, and it is now come, that you shall be scattered every man to his own and shall leave me alone. And yet I am not alone, because the Father is with me.",
+        "These things I have spoken to you, that in me you may have peace. In the world you shall have distress. But have confidence. I have overcome the world."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 16:29-33",
+      "reference": "John 16:29-33",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint John I, Pope and Martyr",
+        "key": "saintJohnIPopeAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/18.html",
+    "title": "Gospel and Word of the Day - 18 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-18"
+}
