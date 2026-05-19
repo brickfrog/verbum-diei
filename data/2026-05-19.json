@@ -1,0 +1,297 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8ca885b1d6ceae6d3a68ebb945c2eaa9b1d962c48650e9ab9794ace912211a15",
+        "inputSha256": "7d968a574f99295a423d398d92222c784fd598a3b57ad3d5e8174cffd94e4ac7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "945900f3b233ec62092b7753a022c7424b14a149fcfe8734a2516877ebd27647",
+        "inputSha256": "0912dc978b446f197984f06fc711b156f6da41729602e111e6fe3cb80cc8d24d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d82e8231d338e72b96cb5b804f5d551e4de26f7568d4fae26be7f9e21848cce4",
+        "inputSha256": "ffca761a13da201f364ce136aa921955c8c18e12f5bdfac052c4a3830cefbf27",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-19T01:56:55.423Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “clear from the blood of all” has the hard edge of Ezekiel’s watchman, but its psychological twin is the ancient fear of moral contagion: the teacher who withholds truth becomes complicit in the harm that follows. That resembles the Stoic parrhesia of Epictetus, where frank speech is a duty owed to the hearer, and the Buddhist bodhisattva’s vow to hold nothing back out of “skillful means,” though here the tone is less therapeutic than forensic.\n\nJesus’ prayer for a guarded unity—kept in a Name, made one as “we”—touches the Sufi idea of fana and baqa, annihilation into God and abiding in God, where the self is preserved by being surrendered. Speculation: it also echoes Advaita’s nondual knowing, except John insists on love’s relational architecture rather than dissolving persons into an impersonal absolute.\n\n“Eternal life” as knowing is close to Jewish devekut and to Plato’s eros for the Good: life intensifies as attention is trained on what is most real. The difference is that this knowing is not ascent by intellect but reception of a given word, like Zen’s emphasis on transmission, yet here the transmission is explicitly personal and protective, a shepherding of fragile minds into a shared interior allegiance.",
+    "excursus": "Paul’s farewell is not serenity; it is a controlled burn. He rehearses his tears and “kept back nothing” the way a man builds an alibi before vanishing. “Clear from the blood of all men” is the language of someone who knows his words have consequences and wants the stain assigned elsewhere. He is “bound in the spirit,” which reads less like inspiration than compulsion: a drive toward Jerusalem as toward a magnet, with the foreknowledge of bands and afflictions as a kind of dark erotic certainty. The ministry becomes a course to be consummated, a finish line that is also a noose.\n\nJesus’ prayer in John sharpens the same tension: glory is asked for at the hour of loss, and “eternal life” is reduced to knowledge, an intimacy that burns away the world. The most unsettling line is the refusal: “I pray not for the world.” Love here is not universal warmth but selection, possession, a narrowing. The disciples are “given,” kept, guarded, made one—unity as enclosure. He leaves; they remain exposed. The dread is that the bond that saves them also isolates them, and the desire is that isolation: to belong so completely that the rest becomes unreal.",
+    "synthesis": "The Son’s finished work and the apostle’s finished course establish the Church by a complete deposit of words and a guarded unity under the Father’s Name. Salvation is knowing the Father in the Sent One, and that knowledge is preserved through faithful proclamation amid affliction.",
+    "gospel": [
+      {
+        "text": "John 17 is a chain of givens: authority given, people given, words given, glory shared. The Son’s mission is presented as stewardship of the Father’s property, culminating in a mutual possession (“thine are mine”) that grounds the disciples’ security; their belief is traced to reception of transmitted words, not to private insight.",
+        "lines": [
+          2,
+          6,
+          7,
+          8,
+          10
+        ]
+      },
+      {
+        "text": "Completion and absence are juxtaposed: the work is finished, yet the disciples remain in the world. The prayer therefore treats the post-ascension interval as the critical theater where divine keeping must operate through the Name, producing a unity that mirrors intra-divine communion rather than mere organizational cohesion.",
+        "lines": [
+          4,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Acts stages a formal valediction: Paul convenes witnesses, inventories his tenure, and closes the account with finality (“see my face no more”). The speech functions as a transfer of responsibility—leaders are left with a complete deposit (“counsel of God”) and no excuse of ignorance; the community’s future fidelity is detached from the apostle’s continued presence.",
+        "lines": [
+          1,
+          2,
+          9,
+          11
+        ]
+      },
+      {
+        "text": "The content of proclamation is compressed into a twofold demand (turning and trust), while the future is compressed into a single certainty (suffering). The pairing implies that the church’s public message and the messenger’s afflictions belong to the same economy: repentance and faith are not marketed; they are carried under pressure.",
+        "lines": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Humility is not soft here: it is salted with tears and “temptations,” i.e., pressure that tests the message.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Nothing “profitable” withheld: the criterion is benefit, not popularity; the venue shifts—public square to private table.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Bound in the spirit”: interior compulsion replaces itinerary; ignorance of outcomes is treated as obedience, not defect.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Life is weighed against “course” and found light; ministry is a received charge, not a self-authored project.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Clear from the blood”: pastoral speech is framed as legal innocence; silence would be complicity.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eyes lifted; hour arrived: glory is timed, not vague—crisis as appointment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Eternal life defined as knowledge: not duration but recognition—God and the Sent together.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Pre-world glory claimed: the speaker stands on the far side of creation, not merely within it.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer draws a boundary: “not for the world”—intercession is particular before it is universal.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Departure creates exposure: unity is requested as protection; oneness is a safeguard, not ornament.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, God of power and mercy, to send your Holy Spirit, so that, dwelling within us, he may make us temples of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight our night, Lord, and grant us peaceful rest; may we rise in your name tomorrow and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And sending from Miletus to Ephesus, he called the ancients of the church.",
+        "And when they were come to him and were together, he said to them: You know from the first day that I came into Asia, in what manner I have been with you, for all the time.",
+        "Serving the Lord with all humility and with tears and temptations which befell me by the conspiracies of the Jews:",
+        "How I have kept back nothing that was profitable to you, but have preached it to you, and taught you publicly, and from house to house,",
+        "Testifying both to Jews and Gentiles penance towards God and faith in our Lord Jesus Christ.",
+        "And now, behold, being bound in the spirit, I go to Jerusalem: not knowing the things which shall befall me there:",
+        "Save that the Holy Ghost in every city witnesseth to me, saying: That bands and afflictions wait for me at Jerusalem.",
+        "But I fear none of these things, neither do I count my life more precious than myself, so that I may consummate my course and the ministry of the word which I received from the Lord Jesus, to testify the gospel of the grace of God.",
+        "And now behold, I know that all you, among whom I have gone preaching the kingdom of God, shall see my face no more.",
+        "Wherefore I take you to witness this day that I am clear from the blood of all men.",
+        "For I have not spread to declare unto you all, the counsel of God."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 20:17-27",
+      "reference": "Acts 20:17-27",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "These things Jesus spoke: and lifting up his eyes to heaven, he said: the hour is come. Glorify thy Son, that thy Son may glorify thee.",
+        "As thou hast given him power over all flesh, that he may give eternal life to all whom thou hast given him.",
+        "Now this is eternal life: That they may know thee, the only true God, and Jesus Christ, whom thou hast sent.",
+        "I have glorified thee on the earth; I have finished the work which thou gavest me to do.",
+        "And now glorify thou me, O Father, with thyself, with the glory which I had, before the world was, with thee.",
+        "I have manifested thy name to the men whom thou hast given me out of the world. Thine they were: and to me thou gavest them. And they have kept thy word.",
+        "Now they have known that all things which thou hast given me are from thee:",
+        "Because the words which thou gavest me, I have given to them. And they have received them and have known in very deed that I came out from thee: and they have believed that thou didst send me.",
+        "I pray for them. I pray not for the world, but for them whom thou hast given me: because they are thine.",
+        "And all my things are thine, and thine are mine: and I am glorified in them.",
+        "And now I am not in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name whom thou hast given me: that they may be one, as we also are."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 17:1-11",
+      "reference": "John 17:1-11",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 7th week of Easter",
+        "key": "tuesdayOfThe7thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/19.html",
+    "title": "Gospel and Word of the Day - 19 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-19"
+}
