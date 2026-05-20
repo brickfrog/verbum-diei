@@ -1,0 +1,308 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5631312d2eef92242294726ad9ca8dd82ae505ab89d4593dcfeda3f274922fbb",
+        "inputSha256": "297b9f61607fc30f99c5ab306c134fea5c007579c687cec45e6acf13d2b9ed2c",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "31b5d3f8d9a91f9749fd99337ee01b86e9f2a1f520cce538cb14ffca782be8ac",
+        "inputSha256": "a163c695ae6f058f8470974b3857690c43f1d30b2aafba20056626c97c2fe1f8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "86a2eddbabc3e7125c45722b2c6c13a916469c80ea0a66df298e5f59a9a225eb",
+        "inputSha256": "a78961d727aec3eb8c61954fd117d56a2c21b804a1e9a2ad92d52f1e296a80f1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-20T01:57:04.844Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The flock and the wolves belong to an old ecology of attention: a community is a nervous system, and leadership is the discipline of guarding its thresholds. This resembles the Buddha’s warning about “false Dhamma” that mimics the real and fractures the sangha, and the Vinaya’s insistence that caretaking is a kind of renunciation rather than privilege. It also echoes the Stoic picture of the prohairesis under siege: the self must watch its own gate before it can steady others.\n\n“Not of the world” reads like a psychological stance, not a geography: an inner noncompliance that stays embedded in ordinary life. That has kinship with the Bhagavad Gita’s karma-yoga, acting in the field without being owned by it, and with Taoist wu-wei as unpossessive efficacy. Speculation: the prayer for unity functions like a collective contemplative technique, akin to Sufi tawhid as lived single-heartedness, where the group coheres by returning again and again to one Name.\n\n“Sanctify in truth” parallels yogic satya and the rabbinic emet as something that makes a people durable; truth is not an idea but a shaping force that keeps the community from splitting into factions of appetite. Paul’s refusal of silver and his labor with his hands aligns with the Jain and Buddhist ideal of non-grasping livelihood: authority that cannot be bought becomes believable.\n\n“It is more blessed to give” meets dana in Buddhism and tzedakah in Judaism: giving as a training of desire, a reeducation of the reflex to clutch. The farewell tears resemble the Zen emphasis on impermanence as the teacher’s final instruction: love is sharpened by the certainty of parting, and the group is forced to internalize what it leaned on from outside.",
+    "excursus": "These readings are farewell speeches that smell like blood and abandonment. Paul talks like a man already dead, appointing guardians over a flock he knows will be eaten. The “wolves” are not outsiders; they are the future of the group, the inevitable mutation of any community that tries to preserve a pure voice after the voice is gone. His tears are not pastoral softness but the panic of someone who has watched devotion curdle into power.\n\n“Purchased with his own blood” is not comfort; it is a price tag that makes the flock an asset. Once something has been bought, it can be managed, defended, and fought over. Paul’s insistence that he didn’t covet silver reads like a man protesting too much, trying to seal his legacy against the suspicion that will certainly come. He leaves them with “the word of grace” because he can’t leave them himself, and words are the only body that survives.\n\nJohn’s Jesus prays like Paul: not to remove them from the world, but to keep them inside it under a name. “That they may be one” is the dream of unity as a fortress, welded by hatred from outside. The world’s hatred becomes the community’s proof of election, a narcotic that makes isolation feel like joy. The son of perdition is not a freak exception; he is the necessary leak in the system, the betrayal that lets the story harden into scripture.\n\nSanctification here is not purity but separation, a surgical cut. Jesus “sanctifies” himself—makes himself an offering—to bind them to a truth that will also exile them. Desire for oneness produces dread of difference; dread of difference produces watchfulness; watchfulness produces the very wolves it fears. The kneeling, the kisses, the grief at “no more”—it’s love, but it’s also the birth of an institution: intimacy turning into custody.",
+    "synthesis": "God keeps his Church by his Name and his true Word, not by human presence or wealth. Apostolic office is stewardship purchased by Christ’s blood and sustained by sanctification for mission in the world.",
+    "gospel": [
+      {
+        "text": "The prayer is spoken “in the world” to implant joy as a durable interior good, then immediately turns to mission: sent-ness is the form of their life. The disciples are not preserved as a museum piece; they are deployed as an extension of the Sender’s own movement.",
+        "lines": [
+          3,
+          8
+        ]
+      },
+      {
+        "text": "The repeated negation (“not of the world”) is not escapism but identity-definition, and it is stabilized by truth. The Father’s word functions as the medium that makes a people distinct without removing them from the field of conflict.",
+        "lines": [
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The handoff is juridical: leadership is left under God’s agency and the “word of grace,” not under Paul’s charisma. The Church’s continuity is framed as construction and inheritance—an edifice and an estate—so the elders are stewards of a future they do not control.",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "Paul’s self-defense is economic and public: he appeals to known facts, not private intention. The apostolic pattern is manual provision that blocks patronage, so the message cannot be purchased or priced.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The scene ends liturgically: kneeling prayer precedes communal grief. Authority departs by blessing, not by securing successors through sentiment; the community is trained to endure absence.",
+        "lines": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Office is placement, not possession; the price-tag is blood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Predation is promised, not hypothetical.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The worst wolves breed inside the fold; rhetoric becomes bait.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tears are not softness but evidence of vigilance under strain.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A beatitude against accumulation: giving as the higher gravity.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A farewell that wounds because it is final; love learns limits.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is custody: kept in a Name, not in a mood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One loss is not a failure but a fulfillment; betrayal has a script.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Word creates a border the world can feel—and strike.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not evacuation but protection; discipleship is exposure with guarding.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sanctification is truth-work; holiness has content.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He consecrates himself as the instrument; their sanctity rides on his.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father, full of love, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father, rich in love, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father, full of love, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Loving Father, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Loving Father, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father, full of love, grant that your Church, gathered by the Holy Spirit, may devote itself wholly to your service and live united in love according to your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have just ended. Grant that we may rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Take heed to yourselves and to the whole flock, wherein the Holy Ghost hath placed you bishops, to rule the Church of God which he hath purchased with his own blood.",
+        "I know that after my departure ravening wolves will enter in among you, not sparing the flock.",
+        "And of your own selves shall arise men speaking perverse things, to draw away disciples after them.",
+        "Therefore watch, keeping in memory that for three years I ceased not with tears to admonish every one of you, night and day.",
+        "And now I commend you to God and to the word of his grace, who is able to build up and to give an inheritance among all the sanctified.",
+        "I have not coveted any man's silver, gold or apparel, as",
+        "You yourselves know. For such things as were needful for me and them that are with me, these hands have furnished.",
+        "I have shewed you all things, how that so labouring you ought to support the weak and to remember the word of the Lord Jesus, how he said: It is a more blessed thing to give, rather than to receive.",
+        "And when he had said these things, kneeling down, he prayed with them all.",
+        "And there was much weeping among them all. And falling on the neck of Paul, they kissed him,",
+        "Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship."
+      ],
+      "lineRefs": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 20:28-38",
+      "reference": "Acts 20:28-38",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And now I am not in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name whom thou hast given me: that they may be one, as we also are.",
+        "While I was with them, I kept them in thy name. Those whom thou gavest me have I kept: and none of them is lost, but the son of perdition: that the scripture may be fulfilled.",
+        "And now I come to thee: and these things I speak in the world, that they may have my joy filled in themselves.",
+        "I have given them thy word, and the world hath hated them: because they are not of the world, as I also am not of the world.",
+        "I pray not that thou shouldst take them out of the world, but that thou shouldst keep them from evil.",
+        "They are not of the world, as I also am not of the world.",
+        "Sanctify them in truth. Thy word is truth.",
+        "As thou hast sent me into the world, I also have sent them into the world.",
+        "And for them do I sanctify myself, that they also may be sanctified in truth."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 17:11-19",
+      "reference": "John 17:11-19",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Bernardine of Siena, Priest",
+        "key": "saintBernardineOfSienaPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/20.html",
+    "title": "Gospel and Word of the Day - 20 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-20"
+}
