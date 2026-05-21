@@ -1,0 +1,266 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "dad066c0f10a7013cb95c781a600c96981272d59092bf8a979b28a84f06dcb2a",
+        "inputSha256": "50bc050f0f810da72ace83aac51738526b7ee0b5112ebd8871c788c4f7bd1eb6",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "fd0bf7214a2911a0c4333e085db097442143b098cf4842339bc7ac88566a2802",
+        "inputSha256": "a099491a4c0010b33af61767677509e7a9704b78276b8926d8b1c8f16f372484",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d31afe593915ccde2de37302da87874f65c004aaa3fb83a1cda865031211c470",
+        "inputSha256": "7eaa70d89642fe6e2b9b3e2e99dd0b0102cd6115aa5478bec71c87fce179206d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-21T01:56:59.029Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s tactical cry—“resurrection”—is a psychological judo move: he refuses the court’s frame, names the hidden fault line, and makes the room reveal its own incoherence. It resembles the Zen use of a koan to short-circuit a brittle consensus, and Socrates’ elenchus that turns a tribunal into a mirror; both are less about winning than about forcing a community to meet the contradiction it lives by. The night-voice that steadies him has kinship, speculatively, with the Bhagavad Gita’s interior counsel to act without collapse when the world becomes a battlefield.\n\nJohn’s unity is not institutional glue but mutual indwelling, an identity formed by shared interior life rather than shared slogans. That is close to the Mahayana image of Indra’s Net, where each jewel contains the reflection of all the others, and to Sufi fana and baqa, where the self is not erased into nothingness but reconstituted as a vessel of love. The “glory given” reads like a transmission of participation, akin to the Buddhist bodhisattva vow’s paradox: liberation is not private escape but a relational state that only exists as it is shared. Speculatively, it also echoes Stoic oikeiosis, the widening of the self until the boundary between “me” and “us” becomes morally unreal.",
+    "excursus": "Paul survives by weaponizing doctrine as social engineering. He doesn’t “confess” resurrection so much as he throws a lit match into a room already soaked in rivalry, letting theology do what fists are about to do. The council isn’t a court; it’s a hungry machine, and Paul feeds it the one thing it can’t digest without tearing itself apart. His “hope” is also a tactic: if truth exists here, it exists as leverage.\n\nThe dread is physical. He can be pulled in pieces. The state rescues him not out of justice but out of risk management, extracting the body before it becomes a spectacle. Then the night voice arrives, not as comfort but as conscription: you will go on. “Be constant” is not tenderness; it is a command to keep performing under pressure, to keep converting danger into narrative.\n\nJohn’s prayer for unity reads, in this light, like the most ambitious form of control: a desire to fuse many minds into one interior. “That they all may be one” is intimacy pushed to the edge of erasure, a spiritual politics where belonging requires absorption. The glory is shared, yes, but shared the way a brand is shared: by inhabiting you. Love becomes a presence that won’t leave, “I in them,” the sweetest line with the sharpest hook.\n\nTogether the texts admit what they usually hide: communities are made by division and by fusion, by splitting opponents and by dissolving selves. Paul learns to live by fracture; Jesus dreams of an ending to fracture that feels like possession. The same desire drives both: to be held so tightly by meaning that the world can’t pry you loose.",
+    "synthesis": "God advances witness by both exposing false unities and creating true unity through shared participation in the Son’s life. The resurrection and the indwelling love of Father and Son are the public criterion by which the world is judged and summoned.",
+    "gospel": [
+      {
+        "text": "The prayer extends beyond eyewitnesses to mediated believers, binding apostolic testimony to later faith. The logic runs from indwelling to perfected unity to knowledge: communion generates a visible form that functions as recognition of the Sender, and love becomes the medium by which Christ remains present in his own.",
+        "lines": [
+          1,
+          4,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The hearing becomes a controlled detonation: Paul’s claim forces the council to reveal its internal metaphysics, and the verdict shifts from legal guilt to doctrinal alignment. The narrative shows providence working through factional fracture—truth advances by exposing what a community cannot hold together.",
+        "lines": [
+          2,
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The state wants a clean charge; truth is treated as a procedural problem.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Paul weaponizes identity: not evasion, but a forced choice about resurrection.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Denial of angels and spirit: a flattened cosmos cannot host a risen man.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Pulled in pieces”: theology becomes mob physics; Rome rescues by violence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Lord “standing by”: presence replaces acquittal; Rome is named as necessity.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is missional evidence: oneness as public argument, not private comfort.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Glory is shared downward; the divine life is not hoarded.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I will”: the Son’s desire is eschatological placement—where he is, they are.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Just Father”: justice indicts the world’s ignorance; innocence is not neutrality.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Name disclosed, then re-disclosed: revelation as ongoing infusion—love inhabits, Christ indwells.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May your Spirit, Lord, penetrate us with his power, so that our thoughts may be pleasing to you and our actions may accord with your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him and commanded the priests to come together and all the council: and, bringing forth Paul, he set him before them.",
+        "And Paul, knowing that the one part were Sadducees and the other Pharisees, cried out in the council: Men, brethren, I am a Pharisee, the son of Pharisees: concerning the hope and resurrection of the dead I am called in question.",
+        "And when he had so said, there arose a dissension between the Pharisees and the Sadducees. And the multitude was divided.",
+        "For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.",
+        "And there arose a great cry. And some of the Pharisees rising up, strove, saying: We find no evil in this man. What if a spirit hath spoken to him, or an angel?",
+        "And when there arose a great dissension, the tribune, fearing lest Paul should be pulled in pieces by them, commanded the soldiers to go down and to take him by force from among them and to bring him into the castle.",
+        "And the night following, the Lord standing by him, said: Be constant: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome."
+      ],
+      "lineRefs": [
+        "22:30",
+        "23:6",
+        "23:7",
+        "23:8",
+        "23:9",
+        "23:10",
+        "23:11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 22:30; 23:6-11",
+      "reference": "Acts 22:30; 23:6-11",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And not for them only do I pray, but for them also who through their word shall believe in me.",
+        "That they all may be one, as thou, Father, in me, and I in thee; that they also may be one in us: that the world may believe that thou hast sent me.",
+        "And the glory which thou hast given me, I have given to them: that, they may be one, as we also are one.",
+        "I in them, and thou in me: that they may be made perfect in one: and the world may know that thou hast sent me and hast loved them, as thou hast also loved me.",
+        "Father, I will that where I am, they also whom thou hast given me may be with me: that they may see my glory which thou hast given me, because thou hast loved me before the creation of the world.",
+        "Just Father, the world hath not known thee: but I have known thee. And these have known that thou hast sent me.",
+        "And I have made known thy name to them and will make it known: that the love wherewith thou hast loved me may be in them, and I in them."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 17:20-26",
+      "reference": "John 17:20-26",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Christopher Magallanes and Companions, Martyrs",
+        "key": "saintChristopherMagallanesAndCompanionsMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/21.html",
+    "title": "Gospel and Word of the Day - 21 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-21"
+}
