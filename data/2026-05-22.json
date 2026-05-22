@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "23594c2e7360d361cf2a636dc1b36007a5bed487b3c31bc1f650ab1385f581c1",
+        "inputSha256": "b914b615a12c25208ea0af0bbaf1eb904a062889a4568f51becc6e891ffff841",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d7aa76b18c759dca53dad9393e2ca689ab19b5e7be38b887b7e0e389692cbcd8",
+        "inputSha256": "86125821f671fee271294f12e8962f4c0e1dcc889f4a3525fcd8a89422cb9a2b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5e7b6a7a633c0844aafdee6d919eb0d9d8203815882240c2643de46b8d679ddb",
+        "inputSha256": "37e9b8ce17c8edc26632975a11281570c418546c91ff68006044f8ec696b7c92",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-22T01:57:15.175Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Festus is the bureaucrat confronted with an experience-language he can’t translate: a dead man said to be alive. It’s the Zen koan dropped into a courtroom; the magistrate can only refile it as “superstition,” because his system can’t adjudicate resurrection. Speculation: it resembles the Bhagavad Gita’s clash between dharma-as-duty and dharma-as-vision, where institutions can process conduct but not revelation.\n\nPeter’s threefold question is exposure therapy for shame: love is rebuilt by repetition under a steady gaze, until the self stops bargaining and simply yields. Then the task is care, not ecstasy, and the cost is loss of control; maturity is being led where you would not choose. This has kinship with the Bodhisattva vow in Mahayana Buddhism—compassion as assignment rather than mood—and with Stoic oikeiosis, the widening of concern into stewardship. Speculation: it also echoes Sufi bay‘a, the pledge that binds love to service under a path that will unmake the old autonomy.",
+    "excursus": "Acts stages a bureaucratic horror: Paul is not accused of crimes but of meaning. Festus wants a clean charge he can file; the priests want a corpse they can point to; Paul insists on a living man who will not stay dead. The state cannot prosecute resurrection, so it does what states do when reality won’t fit its forms: it shuffles the body to a higher desk. “Caesar” becomes the name for delay, for keeping a troublesome witness in limbo until language catches up.\n\nJohn answers with the private anatomy of that same limbo. Peter is not crowned; he is interrogated. Three times love is demanded because three times fear already spoke. “Feed” is not romance but penance, a sentence to care for what will never thank you. Then the dread: you will be led where you do not want to go. Leadership is not mastery but surrender, the slow discovery that devotion is a leash. Paul appeals upward to escape a rigged court; Peter is told there is no appeal. Follow me means: your desire will be used, and you will call it glory.",
+    "synthesis": "Christ’s resurrection forces every court to reveal its incompetence, and Christ’s Church is governed by a shepherd whose authority is measured by sacrificial fidelity, not by self-direction.",
+    "gospel": [
+      {
+        "text": "The scene installs a shepherd by binding confession to commission and then to fate. The repeated mandate is not mere consolation; it is a transfer of responsibility for a flock that is not Peter’s by origin. The final imperative closes the loop: authority in the Church is cruciform—received from Christ, exercised for others, and sealed by a death that is interpreted as glory.",
+        "lines": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Festus narrates the case to Agrippa as a problem of governance: inherited prisoner, local elites demanding a verdict, a hearing staged promptly, and a governor baffled by the subject matter. The political machine can convene witnesses and seats, but it cannot generate a charge adequate to what is at stake; so it tries to relocate the question to Jerusalem, back into the jurisdiction of the accusers.",
+        "lines": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Royal visit, administrative theater; power arrives already costumed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Empire baptizes itself in procedure: justice as custom, not truth.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection reduced to “questions”; the living Christ filed under superstition.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Appeal to Caesar: the prisoner commandeers the court’s trajectory.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is interrogated, then converted into labor: affection becomes office.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Third asking reopens the triple denial; grief is the hinge of reinstatement.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Freedom narrows into vocation: the body becomes led, not leading.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Follow” after the death-saying: discipleship defined by an ending.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the glorification of Jesus Christ and the coming of the Holy Spirit have opened to us the gates of your kingdom, grant that the reception of gifts so great may move us to devote ourselves with greater zeal to your service and to live more fully the riches of our faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the glorification of Jesus Christ and the coming of the Holy Spirit have opened for us the gates of your kingdom, grant that the reception of gifts so great may move us to devote ourselves with greater zeal to your service and to live more fully the riches of our faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the glorification of Jesus Christ and the coming of the Holy Spirit have opened to us the gates of your kingdom, grant that the reception of gifts so great may move us to devote ourselves more earnestly to your service and to live more fully the riches of our faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the glorification of Jesus Christ and the coming of the Holy Spirit have opened for us the gates of your kingdom, grant that the reception of such great gifts may move us to devote ourselves with greater zeal to your service and to live more fully the riches of our faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the glorification of Jesus Christ and the coming of the Holy Spirit have opened for us the gates of your kingdom, grant that the reception of gifts so great may move us to devote ourselves with greater zeal to your service and to live more fully the riches of our faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the glorification of Jesus Christ and the coming of the Holy Spirit have opened for us the gates of your kingdom, grant that the reception of gifts so great may move us to devote ourselves with greater zeal to your service and to live more fully the riches of our faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And after some days, king Agrippa and Bernice came down to Caesarea, to salute Festus.",
+        "And as they tarried there many days, Festus told the king of Paul, saying: A certain man was left prisoner by Felix.",
+        "About whom, when I was at Jerusalem, the chief priests and the ancients of the Jews came unto me, desiring condemnation against him.",
+        "To whom I answered: it is not the custom of the Romans to condemn any man, before that he who is accused have his accusers present and have liberty to make his answer, to clear himself of the things laid to his charge.",
+        "When therefore they were come hither, without any delay, on the day following, sitting in the judgment seat, I commanded the man to be brought.",
+        "Against whom, when the accusers stood up, they brought no accusation of this which I thought ill of:",
+        "But had certain questions of their own superstition against him, and of one Jesus deceased, whom Paul affirmed to be alive.",
+        "I therefore being in a doubt of this manner of question, asked him whether he would go to Jerusalem and there be judged of these things.",
+        "But Paul, appealing to be reserved unto the hearing of Augustus, I commanded him to be kept, till I might send him to Caesar."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 25:13-21",
+      "reference": "Acts 25:13-21",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "When therefore they had dined, Jesus saith to Simon Peter: Simon, son of John, lovest thou me more than these? He saith to him: Yea, Lord, thou knowest that I love thee. He saith to him: Feed my lambs.",
+        "He saith to him again: Simon, son of John, lovest thou me? He saith to him: yea, Lord, thou knowest that I love thee. He saith to him: Feed my lambs.",
+        "He said to him the third time: Simon, son of John, lovest thou me? Peter was grieved because he had said to him the third time: Lovest thou me? And he said to him: Lord, thou knowest all things: thou knowest that I love thee. He said to him: Feed my sheep. Feed my sheep... Our Lord had promised the spiritual supremacy to St. Peter; St. Matt. 16. 19; and here he fulfils that promise, by charging him with the superintendency of all his sheep, without exception; and consequently of his whole flock, that is, of his own church.",
+        "Amen, amen, I say to thee, When thou wast younger, thou didst gird thyself and didst walk where thou wouldst. But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee and lead thee whither thou wouldst not.",
+        "And this he said, signifying by what death he should glorify God. And when he had said this, he saith to him: Follow me."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 21:15-19",
+      "reference": "John 21:15-19",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Rita of Cascia",
+        "key": "saintRitaOfCascia"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/22.html",
+    "title": "Gospel and Word of the Day - 22 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-22"
+}
