@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "53ccd6a9f2b095ece411fb314953fbf2a0f581df4bc14bd1cd169a00a0402cf1",
+        "inputSha256": "46aa214388554b3d6c91d5827aeb4cc86a5351aa6ff1f047ce708bc952838986",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2e75f143a827bcb21c3945f6a4905f34786b898d7845c40c619a832a93c3c75e",
+        "inputSha256": "8b500246ee626214028c8ddbd2f0cead2482f4723b79cc6b27fb197cc1c792a0",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0822c1c34664742857bca62434ed892f0762a0d719207c00477599b2e516ed42",
+        "inputSha256": "be14807a9885dc85eff1d12f7893f26d1124cabb3d253c4b4aabc00352143012",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-23T01:56:32.521Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s rented room in Rome feels like the Stoic cell: confinement turned into a chosen interior freedom, like Epictetus making a school out of exile. The chain becomes a prop for authority, the way Cynic poverty functions as credential; the message gains weight because the messenger has been stripped.\n\nHis careful refusal to indict “his nation” reads like a disciplined non-resentment practice, closer to Buddhist right speech than to courtroom rhetoric: he protects belonging even while being rejected. Speculation: it also resembles the rabbinic instinct to argue inside the family, not as a defector but as a wounded loyalist.\n\nPeter’s glance at the beloved disciple is the psyche’s reflex to compare destinies; Jesus’ answer is pure Bhagavad Gita: attend to your own dharma, not another’s path. The rumor that the disciple “should not die” shows how communities metabolize anxiety by turning ambiguity into a comforting myth, like the hidden imam in Shi’a expectation or the Mahdi motif—charitable parallels, not equations.\n\nThe final claim that the world cannot contain the books echoes the apophatic strain in many traditions: the Tao that can be spoken is not the Tao; the Buddha’s “handful of leaves”; the Kabbalistic sense that revelation overflows vessels. Here it functions psychologically as humility and as an invitation: the story is not closed, and the reader’s life is where the unwritten acts continue.",
+    "excursus": "These readings end with a man in custody and a rumor in circulation. That is the Church’s native climate: surveillance and gossip, the chain and the whisper.\n\nPaul rents a room like a respectable exile, guarded, performing innocence with careful phrases. He insists he has nothing against his own people, yet he has already moved his case to Caesar, the ultimate father. “Hope of Israel” becomes a legal strategy, a way to make his confinement look like destiny. He receives “all that came in,” because captivity can be curated into a stage: the kingdom preached “without prohibition” precisely because the empire has decided he is harmless, a talker contained.\n\nPeter’s scene is uglier in its intimacy. He cannot bear being singled out, cannot endure the asymmetry of love, so he points at the beloved disciple like a child: what about him. Jesus refuses the comparison and leaves a wound: follow me, not your rival. The community then does what communities do with wounds; it turns the refusal into a myth of immortality, a fantasy that someone will stay, someone will not die, someone will outlast the fear.\n\nTogether they show desire dressed as vocation. Paul desires an audience and calls it mission; Peter desires reassurance and calls it concern; the beloved disciple desires to remain and becomes a rumor. The ending is not triumph but an unfinished file: a prisoner still speaking, a witness still writing, and a world that cannot contain the excess—because the excess is not information, it is longing under pressure.",
+    "synthesis": "Christ assigns discipleship as an unshared command, and the Church receives it through bounded, authoritative testimony. The Word advances under constraint, and neither empire nor rumor governs its course.",
+    "gospel": [
+      {
+        "text": "The beloved disciple is identified by proximity (at the supper) and by function (witness). The text asserts apostolic testimony while simultaneously marking its mediation: memory becomes writing, and writing is ratified by a communal “we,” binding private intimacy to public authority.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "The final hyperbole is not mere flourish; it sets a canon boundary by admitting surplus. Scripture is true without being exhaustive, and the Church lives from a selected witness rather than total documentation.",
+        "lines": [
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul stages a legal apologia before the synagogue leadership: he narrates examinations, verdicts, and the absence of capital cause to reposition the conflict from criminality to interpretation. The mission advances by exploiting recognized forums—Jewish council, Roman inquiry—without conceding the gospel to either jurisdiction.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The ending is programmatic: the kingdom is proclaimed at the empire’s center “without prohibition,” not because Rome is converted, but because providence turns custody into a pulpit. Acts closes open-ended: the word is unchained even when the messenger is.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Rome receives the apostle as a guarded private citizen: empire’s leash, not its altar.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Appeal to Caesar is forced, not flattery; innocence still needs procedure.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Hope of Israel” reframed as a chain: promise arrives as restraint.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two years: the gospel’s patience measured in rent payments and waiting rooms.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peter’s curiosity is rivalry in pious grammar: “what about him?”",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vocation is not comparative; the command is singular: follow.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Church manufactures immortality rumors from a conditional clause.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Excess of deeds breaks the archive; the world is too small for the Word’s footprint.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that we may always preserve in our lives and in our conduct the joy of these Easter feasts which we are about to bring to a close. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that we may always preserve in our lives and in our conduct the joy of these Easter feasts which we are about to bring to a close. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that we may always preserve in our lives and in our conduct the joy of these Easter feasts which we are about to bring to a close. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that we may always preserve in our lives and in our conduct the joy of these Easter feasts which we are about to bring to a close. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that we may always preserve in our lives and in our conduct the joy of these Easter feasts which we are about to bring to a close. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that we should celebrate the Paschal mystery for fifty days, renew among us the wonder of Pentecost, so that the peoples divided by hatred and sin may be brought together through your Spirit and, gathered as one, may confess your name in the diversity of their tongues. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when we were come to Rome, Paul was suffered to dwell by himself, with a soldier that kept him.",
+        "And after the third day, he called together the chief of the Jews. And when they were assembled, he said to them: Men, brethren, I, having done nothing against the people or the custom of our fathers, was delivered prisoner from Jerusalem into the hands of the Romans.",
+        "Who, when they had examined me, would have released me, for that there was no cause of death in me.",
+        "But the Jews contradicting it, I was constrained to appeal unto Caesar: not that I had anything to accuse my nation of.",
+        "For this cause therefore I desired to see you and to speak to you. Because that for the hope of Israel, I am bound with this chain.",
+        "And he remained two whole years in his own hired lodging: and he received all that came in to him,",
+        "Preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition. THE EPISTLE OF ST. PAUL THE APOSTLE TO THE ROMANS St. Paul wrote this epistle at Corinth, when he was preparing to go to Jerusalem with the charitable contributions collected in Achaia and Macedonia for the relief of the Christians in Judea; which was about twenty-four years after Our Lord's Ascension. It was written in Greek; but at the same time translated into Latin, for the benefit of those who did not understand that language. And though it is not the first of his Epistles in the order of time, yet it is first placed on account of sublimity of the matter contained in it, of the preeminence of the place to which it was sent, and in veneration of the Church."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 28:16-20,30-31",
+      "reference": "Acts 28:16-20,30-31",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Peter turning about, saw that disciple whom Jesus loved following, who also leaned on his breast at supper and said: Lord, who is he that shall betray thee?",
+        "Him therefore when Peter had seen, he saith to Jesus: Lord, and what shall this man do?",
+        "Jesus saith to him: So I will have him to remain till I come, what is it to thee? Follow thou me.",
+        "This saying therefore went abroad among the brethren, that that disciple should not die. And Jesus did not say to him: He should not die; but: So I will have him to remain till I come, what is it to thee?",
+        "This is that disciple who giveth testimony of these things and hath written these things: and we know that his testimony is true.",
+        "But there are also many other things which Jesus did which, if they were written every one, the world itself. I think, would not be able to contain the books that should be written. THE ACTS OF THE APOSTLES This Book, which, from the first ages, hath been called, THE ACTS OF THE APOSTLES, is not to be considered as a history of what was done by all the Apostles, who were dispersed into different nations; but only a short view of the first establishment of the Christian Church. A part of the preaching and action of St. Peter are related in the first twelve chapters; and a particular account of St. Paul's apostolical labours in the subsequent chapters. It was written by St. Luke the Evangelist, and the original in Greek. Its history commences from the Ascension of Christ our Lord and ends in the year sixty-three, being a brief account of the Church for the space of about thirty years."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 21:20-25",
+      "reference": "John 21:20-25",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 7th week of Easter",
+        "key": "saturdayOfThe7thWeekOfEaster"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Eastertide"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/23.html",
+    "title": "Gospel and Word of the Day - 23 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-23"
+}
