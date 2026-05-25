@@ -1,0 +1,272 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4837bdfb215fd524b5af869de5f88a4b72e5d10a65d69aefa60f32bf05f53f6f",
+        "inputSha256": "0fb1f16ff931694e468e9565255132d867ece38159e73387138bfa63aac800c8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f61d43a15d50c2b8560cee57186a44f41e0296f24bb88c8858d8d70aa46588e2",
+        "inputSha256": "1f3a8953e628710b08c791f6be7195874023cc10ef39dd996565ac1978b7e327",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a3c5b2a23c187f007a60f497fba6c46548bcb3e825fdc02aba0dea0867253313",
+        "inputSha256": "1171152aaf69a57d963f74cc49188d148bc7304a98ecff43ae375bcce4d8920c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-25T01:57:10.232Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: the Eden scene reads like the first clinical interview after a rupture—God’s “Where are you?” as the summons into speech, and the chain of blame as the psyche’s reflex to offload shame. That arc has close cousins in Greek tragedy, where miasma is first denied, then displaced, then named; and in Buddhist psychology, where ignorance flowers into craving and aversion, then into concealment.\n\nSpeculation: the serpent’s “seed” and the woman’s “seed” resemble the Zoroastrian sense of history as a contested field between truth and the lie, with enmity lodged inside the world rather than outside it. The promise that the wound and the victory are bound together echoes the Hindu motif of the demon’s boon turning into the condition of his defeat, as if the very loophole becomes the instrument.\n\nSpeculation: at the cross, “Woman” functions like a deliberate archetypal address, not a slight: the maternal figure is re-sited from private bond to public kinship. That re-parenting of the beloved disciple parallels Confucian and Roman instincts that mourning and duty are social technologies, not mere feelings: grief is reorganized into obligation.\n\nSpeculation: blood and water from the opened side recall widespread images of life issuing from a pierced source—Dionysian wine-and-water rites, and the Upanishadic idea that the many pour from a single opened reality—yet here the fountain is not ecstatic overflow but the cost of fidelity carried to the end.",
+    "excursus": "God’s first line is not information but pursuit: Where art thou. The question invents the hiding place. Adam learns fear by being addressed, learns nakedness by being seen. Shame arrives as a new kind of desire, the desire to be unfindable, and it curdles instantly into accusation: the woman, whom thou gavest. The fall is less disobedience than the birth of scapegoating, the first technology for surviving intimacy.\n\nThe serpent is punished into the posture of the addict, belly to dust, forever tasting what cannot feed. Enmity is installed like a permanent nervous system: vigilance between woman and serpent, wound and watcher. The promise of crushing is not comfort but a life sentence of conflict, a future where salvation looks like violence and the heel never stops being vulnerable.\n\nAt the cross the same drama tightens. Jesus calls his mother “Woman,” not to honor but to place her back in Genesis, to make her the site where love and blame are renegotiated. He manufactures a new family under the pressure of exposure: behold thy son, behold thy mother. This is not tenderness alone; it is triage, an attempt to keep the human from reverting to Adam’s reflex.\n\nI thirst is the nakedness returned in adult form, the body admitting need without disguise. The vinegar answers with mock care, and then the consummation: not closure but completion of the pattern. The spear opens what shame tried to close. Blood and water spill like evidence that the real wound is not knowledge but separation, and the only antidote is to be pierced and still not hide.",
+    "synthesis": "God answers the first disobedience by instituting a definitive enmity that culminates in the crucified Christ, where a new human household is constituted and life issues from his pierced side.",
+    "gospel": [
+      {
+        "text": "The scene is staged with witnesses (1) and legal timing (7), then punctuated by a negative sign: no broken legs (9). John builds a forensic portrait—public, calendrical, and controlled—so that the death reads as deliberate fulfillment rather than accident or mere martyrdom.",
+        "lines": [
+          1,
+          7,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The interrogation sequence isolates agency: command (3), transgression, then the cascade of blame (5). Yet the narrative refuses to end in accusation; it ends in naming and generation (8). Judgment does not erase the created order; it redirects history toward a promised resolution.",
+        "lines": [
+          3,
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The first question is not for information; it is an indictment that grants speech.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear enters as self-knowledge; nakedness becomes a verdict before any sentence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sin recruits theology: the gift (“whom thou gavest”) is weaponized as excuse.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The tempter is reduced to appetite and dust; humiliation is made bodily.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Enmity is installed as policy; salvation is framed as a feud with a promised asymmetry.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Woman” at the cross: a title, not tenderness; Eve is being re-addressed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kinship is reassigned under execution; a new household is founded in loss.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Thirst: the body speaks the last lack; fulfillment passes through need.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Completion is declared, not inferred; death is performed as obedience.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The opened side is not mere violence; it becomes a source, immediately productive.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father of mercies, whose Only Begotten Son, nailed to the cross, proclaimed the holy Virgin Mary, his Mother, to be our Mother also, grant, through her loving cooperation, that your Church, ever more fruitful each day, may rejoice in the holiness of her children and draw into her bosom all the families of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father of mercies, whose Only Begotten Son, nailed to the Cross, proclaimed the holy Virgin Mary, his Mother, to be also our Mother, grant, through her loving cooperation, that your Church, ever more fruitful each day, may rejoice in the holiness of her children and draw into her embrace all the families of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always feeling ourselves to be your children and brothers and sisters of all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and of the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father of mercies, whose Only Begotten Son, as he hung upon the Cross, proclaimed the holy Virgin Mary, his Mother, to be also our Mother, grant, we pray, that through her loving cooperation your Church, ever more fruitful each day, may rejoice in the holiness of her children and draw to her embrace all the families of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and spring up for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord God called Adam, and said to him: Where art thou?",
+        "And he said: I heard thy voice in paradise; and I was afraid, because I was naked, and I hid myself.",
+        "And he said to him: And who hath told thee that thou wast naked, but that thou hast eaten of the tree whereof I commanded thee that thou shouldst not eat?",
+        "And Adam said: The woman, whom thou gavest me to be my companion, gave me of the tree, and I did eat.",
+        "And the Lord God said to the woman: Why hast thou done this? And she answered: The serpent deceived me, and I did eat.",
+        "And the Lord God said to the serpent: Because thou hast done this thing, thou art cursed among all cattle, and beasts of the earth: upon thy breast shalt thou go, and earth shalt thou eat all the days of thy life.",
+        "I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head, and thou shalt lie in wait for her heel. She shall crush... Ipsa, the woman; so divers of the fathers read this place, conformably to the Latin: others read it ipsum, viz., the seed. The sense is the same: for it is by her seed, Jesus Christ, that the woman crushes the serpent's head.",
+        "And Adam called the name of his wife Eve: because she was the mother of all the living."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Genesis 3:9-15,20",
+      "reference": "Genesis 3:9-15,20",
+      "heading": "A reading from the book of Genesis",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now there stood by the cross of Jesus, his mother and his mother's sister, Mary of Cleophas, and Mary Magdalen.",
+        "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother: Woman, behold thy son.",
+        "After that, he saith to the disciple: Behold thy mother. And from that hour, the disciple took her to his own.",
+        "Afterwards, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, said: I thirst.",
+        "Now there was a vessel set there, full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to his mouth.",
+        "Jesus therefore, when he had taken the vinegar, said: It is consummated. And bowing his head, he gave up the ghost.",
+        "Then the Jews (because it was the parasceve), that the bodies might not remain upon the cross on the sabbath day (for that was a great sabbath day), besought Pilate that their legs might be broken: and that they might be taken away.",
+        "The soldiers therefore came: and they broke the legs of the first, and of the other that was crucified with him.",
+        "But after they were come to Jesus, when they saw that he was already dead, they did not break his legs.",
+        "But one of the soldiers with a spear opened his side: and immediately there came out blood and water."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 19:25-34",
+      "reference": "John 19:25-34",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Mary, Mother of The Church",
+        "key": "maryMotherOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/25.html",
+    "title": "Gospel and Word of the Day - 25 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-25"
+}
