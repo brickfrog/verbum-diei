@@ -1,0 +1,269 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3cedd8c8d058f9dc49d9dbdfb30f46d2b9db17842edddedbffbdb001a5f06632",
+        "inputSha256": "60b8115c45c6f3aa4ad6989c4c2355250b2e19ec818d4e1593b169bd8b223e8a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "06bb8842b4050b6cfd27a0fc7aa0070d3f456fe76b6b08c2f54b74c7d4a9232f",
+        "inputSha256": "83c3a37ffcbaf54b292e7437d8b93ea3142dae46b292ed1c205af6679153771b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "95fc2eb066b339385af10910d50c02cd32ca4bfd8163a4b40383324085fb21fd",
+        "inputSha256": "161f6b29fd7c1aa2759457e1e32efdad76580ed83eed9d5ebdb8417db38ca53a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-26T01:56:57.126Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The mind “girt up” is interior ascesis: attention tightened, fantasy restrained, desire re-trained. That discipline is not dour; it’s the psychological precondition for being re-formed by a higher pattern than one’s old cravings. The demand for holiness reads as identity-work: you become what you contemplate, and sobriety is the guardrail that keeps imitation from collapsing into self-deception.\n\nLeaving “house” and “lands” names a controlled loss that breaks the spell of possession and inherited roles. The promised “hundredfold” is not a payout but a rewiring of belonging: a wider kinship that arrives mixed with friction, because new loyalties provoke old systems. The reversal of first and last is the ego’s dethronement; status is exposed as a temporary story, and the self learns to live without that story’s applause.\n\nSemina Verbi: Stoicism’s prohairesis and askesis echo the girt mind and sobriety; speculative, but the same insistence that freedom begins with disciplined perception. Buddhism’s renunciation and sangha parallel leaving and receiving a new family; speculative, but the “gain with persecutions” resembles dukkha persisting even as attachment loosens. Hindu sannyasa and karma-yoga resonate with relinquishing property and rank while acting from a higher allegiance; speculative, but the reversal of first/last sounds like the collapse of ahamkara. Sufism’s fana and the fellowship of the tariqa resemble ego-loss and expanded kinship; speculative, but the sweetness braided with trial fits the way love purifies through pressure. Confucian self-cultivation and rectification of the heart touch the same moral re-forming toward a norm beyond appetite; speculative, but holiness here behaves like a perfected character rather than mere rule-keeping.",
+    "excursus": "Both readings throb with a single anxious question: was it worth it to want so much.\n\nPeter’s letter turns “holiness” into a discipline of desire. The prophets are pictured like obsessive readers, scanning the text of history for the scene where suffering becomes meaning. They don’t get to live in it; they only service it. That is the dread: your life may be someone else’s footnote. So the command to “gird up the loins of your mind” is not piety but self-binding, a corset for craving, because unbound desire will drag you back into the old ignorance that at least felt like yours.\n\nIn Mark, Peter asks for wages. He has cashed in his ordinary life and wants the receipt. Jesus answers with a bargain that is almost cruel: you will get everything back a hundredfold, yes, but as a distorted copy—too many relatives, too many houses, belonging everywhere and nowhere—and the fine print is persecutions. The reward is not comfort; it is multiplication. Your attachments are returned as exposure.\n\n“First and last” is not moral arithmetic; it is the panic of status collapsing. The one who led with certainty will find himself behind, and the one who trailed with need will arrive first, not because God prefers the humble, but because the whole economy has been rewired around loss. Holiness, then, is the ability to survive that rewiring without fleeing back to the smaller, safer desires that once made you feel real.",
+    "synthesis": "Grace does not merely forgive; it reorders desire into holiness and reconstitutes belonging under persecution. The kingdom’s rewards are real but governed by a reversal of rank that exposes and judges worldly measures.",
+    "gospel": [
+      {
+        "text": "Jesus reframes renunciation as entry into a new social field: recompense arrives as a reconstituted household and property, but under the sign of conflict. The promise is communal and temporal (“now”), yet inseparable from opposition, preventing any reading of reward as mere comfort.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The closing maxim functions as a hermeneutic for the whole exchange: disciples cannot interpret their sacrifices or rewards by existing status-order. The kingdom’s valuation system is discontinuous with ordinary precedence.",
+        "lines": [
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage turns eschatological disclosure into ethics: the unveiling of Christ is treated as the ground for a disciplined interior life and a public pattern of conduct. Holiness is not an ornament added to grace; it is the form grace takes when it governs attention, appetite, and behavior.",
+        "lines": [
+          4,
+          6
+        ]
+      },
+      {
+        "text": "A chain of mediation is asserted—prophets, preachers, Spirit—so the community’s present hearing is framed as participation in a long-intended economy. The effect is to relocate authority from private insight to received proclamation.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prophets as investigators: salvation precedes its own audience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Time is the riddle; suffering is the datum; glory is the sequel.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation is outsourced: angels stare, you receive.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Loins of your mind”: intellect treated as a body needing restraint.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance has desires; obedience has childhood.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Holiness argued by citation: God’s being becomes your imperative.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peter tallies loss as proof; discipleship presented like a ledger.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The list is domestic before it is economic: severed kinship first.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hundredfold is not utopia: the clause “with persecutions” poisons triumphalism.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rank is reversible; the kingdom humiliates arithmetic.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who never cease to exalt your servants with the glory of holiness, grant that the Holy Spirit may kindle us with that same fire with which he set the heart of Saint Philip Neri ablaze. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who never cease to exalt your servants with the glory of holiness, grant that the Holy Spirit may kindle us with that same fire which set the heart of Saint Philip Neri ablaze. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to labor each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who never cease to exalt your servants with the glory of holiness, grant that the Holy Spirit may kindle us with that same fire which inflamed the heart of Saint Philip Neri. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Of which salvation the prophets have inquired and diligently searched, who prophesied of the grace to come in you.",
+        "Searching what or what manner of time the Spirit of Christ in them did signify, when it foretold those sufferings that are in Christ and the glories that should follow.",
+        "To whom it was revealed that, not to themselves but to you, they ministered those things which are now declared to you by them that have preached the gospel to you: the Holy Ghost being sent down from heaven, on whom the angels desire to look.",
+        "Wherefore, having the loins of your mind girt up, being sober, trust perfectly in the grace which is offered you in the revelation of Jesus Christ.",
+        "As children of obedience, not fashioned according to the former desires of your ignorance,",
+        "But according to him that hath called you, who is holy, be you also in all manner of conversation holy:",
+        "Because it is written: You shall be holy, for I am holy."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Peter 1:10-16",
+      "reference": "1 Peter 1:10-16",
+      "heading": "A Reading from the First Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Peter began to say unto him: Behold, we have left all things and have followed thee.",
+        "Jesus answering said: Amen I say to you, there is no man who hath left house or brethren or sisters or father or mother or children or lands, for my sake and for the gospel,",
+        "Who shall not receive an hundred times as much, now in this time: houses and brethren and sisters and mothers and children and lands, with persecutions: and in the world to come life everlasting.",
+        "But many that are first shall be last: and the last, first."
+      ],
+      "lineRefs": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 10:28-31",
+      "reference": "Mark 10:28-31",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Philip Neri, Priest",
+        "key": "saintPhilipNeriPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/26.html",
+    "title": "Gospel and Word of the Day - 26 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-26"
+}
