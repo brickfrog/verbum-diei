@@ -1,0 +1,308 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "929b29924d531423a1e9cd0fa405e51ce141b7bdad4e346e04faacef192479d5",
+        "inputSha256": "5ddecb9cb2193e535dd9713d53ca5a5dfad52ddcd8d9066f8bc05969f74632ea",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6484171f879dbf9904938b7ec0fbc900bbbd37723d9bcfeb17ca4e92546e9f90",
+        "inputSha256": "acc7aa48e19cccb7af54abca3625b4e5688f132e823209de4bd833bbfeb615f9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3f0888574fe1d6256ab09875eb61f61d9d1dda2934b80a05ab452a04bb87bdbc",
+        "inputSha256": "db0047e78a06c2293241eb0df2990db4b71ea1cd25c6ab211f619f2e97acd371",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-27T01:57:10.445Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “incorruptible seed” reads like the Upanishadic claim that what is most real cannot be burned, wetted, or withered: a life-principle not hostage to time. Speculation: the “word that remains” functions psychologically like mantra, a carried phrase that outlasts mood and circumstance and re-patterns desire.\n\n“Not with silver or gold” parallels Stoic and Cynic contempt for externals: freedom as release from inherited scripts and status games. The grass-image fits Buddhist anicca: the mind sobers when it sees how quickly glory decays.\n\nThe scramble for right and left seats is pure court psychology, the childlike fantasy of proximity to power. Jesus’ counter-move resembles Taoist wu-wei and the bodhisattva ethic: authority proved by lowering oneself, not by being seen. The “cup” and “baptism” echo initiation ordeals across traditions—Eleusinian, Sufi fana, Zen sesshin—where suffering isn’t sought for its own sake but becomes the price of a reordered self.\n\n“Ransom for many” has a near-twin in the Bhagavad Gita’s karma-yoga: life offered without grasping at the fruit. Speculation: the text treats love as obedience because the ego only learns charity when it submits to a form it didn’t invent.",
+    "excursus": "Peter sounds like an economist of the soul: you were bought, not with coins, but with blood. The “vain conversation” inherited from the fathers isn’t merely bad behavior; it’s a whole ancestral script of status, story, and self-justification that keeps you purchasable by fear. The gospel-word is pitched as an incorruptible seed because everything else in you is grass—quick to bloom, quicker to rot—so the only way to stop bargaining with death is to let yourself be overwritten.\n\nMark shows what that overwrite costs. On the road up, Jesus walks ahead like someone already claimed by the ending; the others trail in astonishment and dread. He names humiliation in detail, and the response is not compassion but ambition. James and John don’t misunderstand; they recognize that suffering is about to become a throne, and they want seats near the heat. Desire is honest here: they want glory, not goodness.\n\nJesus doesn’t crush the desire; he reroutes it through terror. The cup and the baptism are not pious metaphors but initiation into degradation, a consent to be handled, spat on, stripped of control. The bitter joke is that they say “We can,” as if courage were a skill, and he agrees: yes, you will share the wound. But the prizes you crave aren’t awarded by effort; they’re “prepared,” which means your hunger for rank is finally useless.\n\nThe others’ indignation exposes the same craving in a different mask. Everyone wants the hierarchy; they just hate losing. Jesus’ alternative isn’t sentimental humility; it’s a new form of power that looks like self-emptying because it refuses the old currency. Redemption, in both texts, is not rescue from pain but a transfer of ownership: from the tyranny of appearing glorious to the freedom of serving without needing to be seen. The dread remains. So does the desire. They’re simply forced to meet in the same cup.",
+    "synthesis": "Christ’s redemption establishes a new economy in which the enduring word and the given life, not perishable power or wealth, determine value. Therefore the Church’s hierarchy is legitimate only as cruciform service ordered by God’s prior purpose.",
+    "gospel": [
+      {
+        "text": "The narrative juxtaposes private petition, communal resentment, and Jesus’ political critique. He treats Gentile domination as a recognizable model and then legislates an internal constitution for his followers: authority is permitted only in the form of service, and rivalry is exposed as imitation of the very regimes they are to renounce.",
+        "lines": [
+          4,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds a chain of agency: God raises and glorifies; faith and hope are thereby re-aimed away from inherited patterns toward God as their terminus. The enduring word functions as the stable medium that outlasts mortal volatility, making the community’s ethic something more than a temporary social arrangement.",
+        "lines": [
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Gold and silver: the old currency; redemption refuses the market.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blood priced as “precious”: value relocated from metal to wound.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Foreknown, then manifested: eternity enters history without becoming less eternal.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Obedience of charity”: love as command, not mood.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "New birth by a word: seed becomes speech; biology displaced.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Flesh as grass: the body’s boast is seasonal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He goes before; they trail behind in mixed awe and fear.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Betrayal is named in advance; the plot is not a surprise.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Spit and scourge: degradation piled up; resurrection stated without ornament.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They ask for thrones while he speaks of a cross.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Chalice and baptism: glory translated into suffering and drowning.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seats are “prepared”: ambition meets a prior allocation.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Greatness redefined as ministry: rank inverted into service.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Redemption for many: life given as payment, but not in coin.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us your help, Lord, that the world may advance according to your designs, that the nations may enjoy lasting peace, and that your Church may rejoice to serve you with a trusting and peaceful dedication. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your holy covenant, consecrated by the new sacrament of the Blood of the Lamb, that your people may obtain forgiveness of their sins and a constant increase of salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your mercy, and since you fill the hungry with heavenly gifts, come to the aid of our need with the abundance of your riches. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Knowing that you were not redeemed with corruptible things, as gold or silver, from your vain conversation of the tradition of your fathers:",
+        "But with the precious blood of Christ, as of a lamb unspotted and undefiled.",
+        "Foreknown indeed before the foundation of the world, but manifested in the last times for you:",
+        "Who through him are faithful in God who raised him up from the dead and hath given him glory, that your faith and hope might be in God.",
+        "Purifying your souls in the obedience of charity, with a brotherly love, from a sincere heart love one another earnestly:",
+        "Being born again, not of corruptible seed, but incorruptible, by the word of God who liveth and remaineth for ever.",
+        "For all flesh is as grass and all the glory thereof as the flower of grass. The grass is withered and the flower thereof is fallen away.",
+        "But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Peter 1:18-25",
+      "reference": "1 Peter 1:18-25",
+      "heading": "A Reading from the First Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they were in the way going up to Jerusalem: and Jesus went before them. And they were astonished and following were afraid. And taking again the twelve, he began to tell them the things that should befall him.",
+        "Saying: Behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief priests and to the scribes and ancients. And they shall condemn him to death and shall deliver him to the Gentiles.",
+        "And they shall mock him and spit on him and scourge him and kill him: and the third day he shall rise again.",
+        "And James and John, the sons of Zebedee, come to him, saying: Master, we desire that whatsoever we shall ask, thou wouldst do it for us.",
+        "But he said to them: What would you that I should do for you?",
+        "And they said: Grant to us that we may sit, one on thy right hand and the other on thy left hand, in thy glory.",
+        "And Jesus said to them: You know not what you ask. Can you drink of the chalice that I drink of or be baptized with the baptism wherewith I am baptized?",
+        "But they said to him: We can. And Jesus saith to them: You shall indeed drink of the chalice that I drink of; and with the baptism wherewith I am baptized you shall be baptized.",
+        "But to sit on my right hand or on my left is not mine to give to you, but to them for whom it is prepared.",
+        "And the ten, hearing it, began to be much displeased at James and John.",
+        "But Jesus calling them, saith to them: You know that they who seem to rule over the Gentiles lord it over them: and their princes have power over them.",
+        "But it is not so among you: but whosoever will be greater shall be your minister.",
+        "And whosoever will be first among you shall be the servant of all.",
+        "For the Son of man also is not come to be ministered unto: but to minister and to give his life a redemption for many."
+      ],
+      "lineRefs": [
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 10:32-45",
+      "reference": "Mark 10:32-45",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Augustine of Canterbury, Bishop",
+        "key": "saintAugustineOfCanterburyBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/27.html",
+    "title": "Gospel and Word of the Day - 27 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-27"
+}
