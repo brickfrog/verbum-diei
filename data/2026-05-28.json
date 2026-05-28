@@ -1,0 +1,288 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f70ef1fb06c985168d68c648c1212e4a100f4da7b830fdc8de7bef03d63aea41",
+        "inputSha256": "3cd18504c5eb78c6c516ec4eda748e8680400b9a21f1bde7d47d144e1258e88e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5d4db41c623de4c08be2a7cec7027615f2b0c98a2ac1b79458dd1b0e1f2d8d89",
+        "inputSha256": "60f02e90124241af15b056897de51b5c95720fcde15945dc7f563a2975e15e9f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d1b033d6dfacff491f3b3e0684eb85c9aca39f67023b5d96ed498000548ff468",
+        "inputSha256": "0c9f90701cbd2b54bc7a0de24ddf3e5aa09feeca28d5f4d017e6fd2d03e3bb03",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-28T01:56:34.683Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “milk” that makes you grow reads like the yogic insistence on sāttvic nourishment and steady practice: not information but a clean diet of attention that re-patterns desire. The “living stones” becoming a house resembles Stoic cosmopolis and civic virtue, where the self is a block fitted into a larger rational order; speculation: Peter’s masonry is a psychological antidote to fragmentation, a way to feel load-bearing without becoming hard.\n\n“Strangers and pilgrims” has a Buddhist timbre: non-attachment as a social stance, living in a world without being owned by it. The war of “carnal desires” against the soul parallels Plato’s charioteer and the Gītā’s battle within; speculation: the text frames libido not as dirt but as a rival polity inside the person.\n\nBartimaeus’ insistence against the crowd’s shaming echoes the Zen trope of the outsider who refuses polite silence to ask the real question, and the Sufi cry that keeps calling the Beloved through rebuke. Casting off the garment is like renunciation in Jain and monastic traditions: dropping the identity that earns alms to risk a new self. “What do you want?” sounds almost like a therapeutic pivot, the Lacanian demand clarified into desire; the healing is not only sight but permission to want plainly, then to walk a path instead of orbiting it.",
+    "excursus": "Peter’s “milk” is not innocence; it’s addiction. The newborn is a figure for dependence, a sanctioned craving that replaces other cravings. “Taste that the Lord is sweet” is the language of appetite, and the bargain is stark: trade the body’s hungers for a holy hunger, let desire be captured and redirected. The community becomes masonry—living stones—useful precisely because they are no longer soft. Chosen, purchased, built in: a people made by acquisition, held together by pressure.\n\nSo they are “strangers and pilgrims” not because the world is corrupt, but because they have been reorganized into an enclave that must justify itself under suspicion. Their good conduct is performance under surveillance, a way of surviving accusation until the “day of visitation,” which feels less like comfort than audit.\n\nBartimaeus makes the subtext audible. The crowd polices silence; mercy is a disturbance. He refuses decorum, and Jesus’ first act is not healing but stopping everything: attention as rupture. “What wilt thou?” is dangerous because it forces desire into speech. Bartimaeus throws off his garment—the last prop of his old identity—and risks being seen. Sight arrives, and with it a new captivity: he follows “in the way,” drafted into the same public scrutiny Peter describes. The miracle is not escape; it’s conscription into visibility.",
+    "synthesis": "God forms a people by joining them to the rejected Christ and makes their life a public testimony. Faith that cries for mercy is answered with restoration ordered toward following Jesus.",
+    "gospel": [
+      {
+        "text": "Mark stages a reversal of agency: the beggar initiates, the crowd obstructs, Jesus reorders the social field by calling him forward. The healing is narrated as a commissioning—faith is validated by movement into Jesus’ path, turning a marginal figure into a follower.",
+        "lines": [
+          1,
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from Christ as the rejected cornerstone to a corporate identity that is publicly legible. The community’s vocation is not private piety but a visible polity whose conduct forces even hostile observers to render a verdict at the “day of visitation.”",
+        "lines": [
+          3,
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Election is described in civic and cultic terms—generation, nation, priesthood—so the Church is framed as a new people with a new allegiance. The point is not privilege but proclamation: identity is given for declaration.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Infancy is not innocence but appetite; growth is commanded, not assumed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Taste precedes doctrine; sweetness is an argument the body understands.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “living stone” is a contradiction aimed at dead religion; rejection becomes the proof of election.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Stones become house only by placement; priesthood is architecture before it is office.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purchased people: ownership language; light is not discovered but assigned.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Desire is militarized—“war against the soul”; the enemy is internal, not Gentile.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He names what he cannot see: “Son of David” is sight by confession.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The crowd polices silence; mercy is accessed by refusing decorum.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jesus halts the procession; the kingdom’s pace is set by the needy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Garment thrown off: he abandons his old economy before the cure is granted.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question exposes desire; healing is not automatic but petitioned.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sight issues in discipleship—he follows “in the way,” not back to the roadside.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only-begotten Son as the supreme and eternal High Priest, grant to those whom he has chosen as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only-begotten Son as the supreme and eternal High Priest, grant to those whom he chose as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only Son as the supreme and eternal High Priest, grant to those whom he chose as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only-begotten Son the supreme and eternal High Priest, grant to those whom he chose as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only-begotten Son as the supreme and eternal High Priest, grant to those whom he chose as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who for your glory and the salvation of the human race appointed your only-begotten Son as the supreme and eternal High Priest, grant to those whom he chose as ministers and stewards of his mysteries the grace to be faithful in fulfilling the ministry they have received. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with all our body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation:",
+        "If so be you have tasted that the Lord is sweet.",
+        "Unto whom coming, as to a living stone, rejected indeed by men but chosen and made honourable by God:",
+        "Be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+        "But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvelous light:",
+        "Who in times past were not a people: but are now the people of God. Who had not obtained mercy: but now have obtained mercy.",
+        "Dearly beloved, I beseech you, as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul,",
+        "Having your conversation good among the Gentiles: that whereas they speak against you as evildoers, they may, by the good works which they shall behold in you, glorify God in the day of visitation."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Peter 2:2-5,9-12",
+      "reference": "1 Peter 2:2-5,9-12",
+      "heading": "A Reading from the First Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they came to Jericho. And as he went out of Jericho with his disciples and a very great multitude, Bartimeus the blind man, the son of Timeus, sat by the way side begging.",
+        "Who when he had heard that it was Jesus of Nazareth, began to cry out and to say: Jesus, Son of David, have mercy on me.",
+        "And many rebuked him, that he might hold his peace; but he cried a great deal the more: Son of David, have mercy on me.",
+        "And Jesus, standing still, commanded him to be called. And they call the blind man, saying to him: Be of better comfort. Arise, he calleth thee.",
+        "Who casting off his garment leaped up and came to him.",
+        "And Jesus answering, said to him: What wilt thou that I should do to thee? And the blind man said to him: Rabboni. That I may see.",
+        "And Jesus saith to him: Go thy way. Thy faith hath made thee whole. And immediately he saw and followed him in the way."
+      ],
+      "lineRefs": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 10:46-52",
+      "reference": "Mark 10:46-52",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 8th week of Ordinary Time",
+        "key": "thursdayOfThe8thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/28.html",
+    "title": "Gospel and Word of the Day - 28 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-28"
+}
