@@ -1,0 +1,351 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "82db2960afa415caa394d949f5b8d348f496e3057c213f2060df370da8470ffe",
+        "inputSha256": "f0c7695b2354f70f7439703ded21a663406e20660a7a12e029e4a5d8f8de061d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "82c6ba9a1ffe527fa5505d9ebabaf8184f1181aa2f9c0886fd16ebc39f203836",
+        "inputSha256": "a02a060b64bb2d2244a5e3844298d1707bf07c8d70864e92ed1e6e33b1fbbcf9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "fc1c2274eee12d7b6a7f907f216430cb3a2803a30eaac0f3f19bb651ccb09d9b",
+        "inputSha256": "2c3e2f3621b675e27a626e967b2309847a2dec0d32d7f3035ab1f5a4f58baa6f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-29T01:56:52.194Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The fig tree reads like a psyche that has learned to perform life. Leaves are the social self: signals, credentials, busy green. Hunger is the blunt need for reality. The curse is not petulance but a refusal to collude with appearance once the hour of decision arrives; what cannot feed must stop pretending to feed. The withering “from the roots” is the exposure of a whole inner economy, not a single bad act.\n\nThe temple scene is the same diagnosis turned outward. A place meant to concentrate attention becomes a corridor for traffic, a market of substitutions. He blocks the shortcut, overturns the exchange, and restores the building’s purpose: not purity-as-avoidance, but prayer-as-orientation. Psychologically, it is the moment you stop letting your deepest room be used as a thoroughfare for compulsions.\n\nFaith here is not optimism; it is unified will. The “mountain” is the immovable pattern you keep calling fate. Prayer works when the self is not split, and the proof of that integration is forgiveness: dropping the claim that keeps the heart braced. Unforgiveness is a clenched fist; it cannot receive.\n\nPeter’s “end is at hand” is the same pressure: live as if the mask will be ripped off soon, because it will. Mutual charity and hospitality are not niceties but emergency practices for a community under heat: they keep fear from turning into predation. Suffering becomes participation because it breaks the false self that needed leaves.\n\nSemina Verbi: the fig tree resembles Buddhist critiques of “empty form” and the demand for fruit as direct awakening rather than merit-badges; speculation, but the tone matches Zen’s impatience with performative piety. The temple cleansing parallels the Stoic insistence that the inner citadel not be rented out to externals, and the Hindu idea of restoring a shrine from ritual commerce to darshan. The link between forgiveness and effective prayer echoes the Qur’anic stress on God’s mercy being met by human mercy, and the Jewish musar tradition where releasing resentment is practical soul-work, not sentiment.",
+    "excursus": "These readings don’t soothe; they tighten a vise. “The end is at hand” is not a calendar note but a psychological condition: time collapses, and under that pressure the community is ordered to perform warmth—charity, hospitality, service—as if tenderness could be engineered to keep panic from showing. Love “covers sins” the way a sheet covers a body: not denial, but a ritual of concealment so people can keep living together while the floor shakes.\n\nMark gives the same anxiety a body. Jesus is hungry, sees leaves, wants fruit, and curses the tree precisely because it isn’t the season. That is the point: the demand is out of time. He cannot tolerate a world that won’t feed him on command. The temple cleansing is the same impulse, a purge of mediation, money, delay, and traffic. No vessels carried through. No detours. Desire wants a straight line to God, and rage appears when the line is crowded.\n\nThen the turn: faith that moves mountains, prayer that gets whatever it names. It reads like omnipotence offered to the frightened, but it comes with the catch that ruins it: forgive. The only “power” that remains is conditional on releasing grievance. The dread is that resentment is the real mountain, and the miracle fails not because God is absent but because we secretly prefer our injuries. Peter’s “rejoice in suffering” is not triumphalism; it’s training in a new economy where pain becomes proof, and the community survives by converting terror into meaning before it devours them.",
+    "synthesis": "God’s nearness demands a community ordered by prayer, charity, and stewarded gifts, not by display or transaction. True worship joins fearless petition to ruthless forgiveness, or it collapses into barren leaves.",
+    "gospel": [
+      {
+        "text": "Mark frames a two-day action: inspection, disruption, and withdrawal. The temple cleansing is not mere moralism but a claim about what the house is for, provoking institutional hostility precisely because it redefines public worship against entrenched interests.",
+        "lines": [
+          1,
+          5,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The withered tree becomes a platform for instruction on efficacious prayer: bold petition is authorized, but it is bounded by interior integrity—an unforgiving posture nullifies the very appeal to the Father.",
+        "lines": [
+          11,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage orders the community for an approaching terminus: vigilance, then redistribution of divine gifts, then disciplined speech and service so that agency is displaced from the self to God’s honor.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "It treats sin and suffering as the two corrosives of communal life: charity suppresses the spread of the first, and a theology of trial prevents the second from being misread as anomaly or defeat.",
+        "lines": [
+          2,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Eschaton as deadline: sobriety, not speculation; prayer as vigilance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Charity is not amnesia; it is a covering—concealment that refuses public accounting.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hospitality tested by tone: the guest hears the murmur even when words are polite.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace arrives plural (“manifold”); stewardship forbids private hoarding of gifts.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech and service are both liturgical: either becomes ventriloquism for God or self-display.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Suffering is framed as furnace, not accident; novelty is the temptation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rejoicing is deferred leverage: present pain is indexed to future disclosure of glory.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He inspects the temple in silence; judgment begins as a survey.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Leaves advertise; fruit verifies. The tree is all signage.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A curse spoken within earshot: disciples are trained by overhearing severity.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Commerce in holy space is not neutral exchange; it is a rival liturgy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No shortcuts through the sanctuary: the holy is not a corridor for errands.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer for all nations versus theft: exclusion and exploitation share a roof.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Withered “from the roots”: judgment targets the hidden source, not the visible canopy.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not faith in faith—“of God”: the object, not the intensity, is the hinge.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer stands on a moral condition: unforgiveness jams the channel.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reciprocity without sentiment: refusal to forgive installs a closed heaven.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, for your abundant grace, that it may help us to follow the path of your commandments, and thus enjoy your consolation in this life and attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that your Son should suffer for the salvation of all, grant that, inflamed with your love, we may know how to offer ourselves to you as a living sacrifice. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But the end of all is at hand. Be prudent therefore and watch in prayers.",
+        "But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.",
+        "Using hospitality one towards another, without murmuring,",
+        "As every man hath received grace, ministering the same one to another: as good stewards of the manifold grace of God.",
+        "If any man speak, let him speak, as the words of God. If any minister, let him do it, as of the power which God administereth: that in all things God may be honoured through Jesus Christ: to whom is glory and empire for ever and ever. Amen.",
+        "Dearly beloved, think not strange the burning heat which is to try you: as if some new thing happened to you.",
+        "But if you partake of the sufferings of Christ, rejoice that, when his glory shall be revealed, you may also be glad with exceeding joy."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Peter 4:7-13",
+      "reference": "1 Peter 4:7-13",
+      "heading": "A Reading from the First Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he entered into Jerusalem, into the temple: and having viewed all things round about, when now the eventide was come, he went out to Bethania with the twelve.",
+        "And the next day when they came out from Bethania, he was hungry.",
+        "And when he had seen afar off a fig tree having leaves, he came, if perhaps he might find any thing on it. And when he was come to it, he found nothing but leaves. For it was not the time for figs.",
+        "And answering he said to it: May no man hereafter eat fruit of thee any more for ever! And his disciples heard it.",
+        "And they came to Jerusalem. And when he was entered into the temple, he began to cast out them that sold and bought in the temple: and over threw the tables of the moneychangers and the chairs of them that sold doves.",
+        "And he suffered not that any man should carry a vessel through the temple.",
+        "And he taught, saying to them: Is it not written: My house shall be called the house of prayer to all nations, but you have made it a den of thieves.",
+        "Which when the chief priests and the scribes had heard, they sought how they might destroy him. For they feared him, because the whole multitude was in admiration at his doctrine.",
+        "And when evening was come, he went forth out of the city.",
+        "And when they passed by in the morning they saw the fig tree dried up from the roots.",
+        "And Peter remembering, said to him: Rabbi, behold the fig tree which thou didst curse is withered away.",
+        "And Jesus answering, saith to them: Have the faith of God.",
+        "Amen I say to you that whosoever shall say to this mountain, Be thou removed and be cast into the sea, and shall not stagger in his heart, but be believe that whatsoever he saith shall be done; it shall be done unto him.",
+        "Therefore I say unto you, all things, whatsoever you ask when ye pray, believe that you shall receive: and they shall come unto you.",
+        "And when you shall stand to pray, forgive, if you have aught against any man: that your Father also, who is in heaven, may forgive you your sins.",
+        "But if you will not forgive, neither will your father that is in heaven forgive you your sins."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 11:11-26",
+      "reference": "Mark 11:11-26",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 8th week of Ordinary Time",
+        "key": "fridayOfThe8thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/29.html",
+    "title": "Gospel and Word of the Day - 29 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-29"
+}
