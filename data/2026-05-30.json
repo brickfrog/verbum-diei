@@ -1,0 +1,224 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8e4ab4d038a7efec1b9b2cf275a3c52e39b151812e4756a9e5b264a1053569b1",
+        "inputSha256": "875a78101c4918ee1e49148751dff035690f36382d7ca51576384859b9e29934",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c5e364f5284bec3e3625d3d4ecb079d49a4dc2c2edc1ef1e32fde58d576263c1",
+        "inputSha256": "d28169f4b203002dc6d8e6f115a7ae5435c17c3b63c8d6e4a393154b183f04f3",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a8f349f984f124264c1eb033c1d4db10543db81615b4280d2d9ddaeed7d200c7",
+        "inputSha256": "88175ffeeef35e38dd2daf7e2c0fa8d02f903489eea5ee269e30f93e33ec64f2",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-30T01:56:46.330Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Authority here is not a credential but a kind of inner alignment that exposes itself under pressure. The leaders treat truth as a move in a public game; their “we know not” is not humility but self-protection, a refusal to risk status. Jesus’ counterquestion functions like a mirror: if they cannot name the source of a prophet’s legitimacy without calculating fallout, they cannot recognize legitimacy when it walks in front of them.\n\nThis resembles the Zen use of a counterquestion to puncture performative knowing, where the point is not information but revealing attachment to face. It also echoes Socratic elenchus, which forces the interlocutor to see how fear and reputation steer what passes for reason. Speculatively, it parallels the Bhagavad Gita’s insistence that right action flows from a deeper ground than social approval, and the Daoist suspicion that official titles obscure the living Dao.",
+    "excursus": "This scene is not about credentials; it’s about who gets to name reality in public. The priests and scribes want a clean chain of authorization because their power depends on it. Jesus has just acted like the temple is his to judge, and they rush in to force him back into their paperwork.\n\nHe refuses the trap by offering a more intimate test: John. Not doctrine, but desire. John is the embarrassing memory of a moment when the crowd’s hunger for cleansing outran the institution’s control. The leaders don’t answer because any answer would expose what they actually worship: not God, but safety. “From heaven” condemns their cynicism; “from men” risks the crowd. So they choose the one thing that keeps them intact: blankness.\n\nJesus’s silence is not evasive; it’s punishment. He withholds the explanation they crave because they have already shown they can’t bear truth unless it protects them. Authority, here, belongs to whoever can endure the consequences of naming what they see. The leaders can’t. Jesus can. And the temple becomes a stage where dread masquerades as prudence, and the desire for control calls itself wisdom.",
+    "synthesis": "Divine authority is recognized by truthful judgment, not conferred by institutions. When leaders treat truth as a tool for self-preservation, they forfeit the right to interrogate Christ.",
+    "gospel": [
+      {
+        "text": "The scene is a formal challenge: temple elites attempt to reassert control after disruptive acts by forcing Jesus into their authorization framework.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Jesus relocates the trial to John, making their prior public stance the evidence; the issue is not information but allegiance—whether they can name a divine initiative without losing face.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Their deliberation reveals a closed system: truth is weighed only by consequences (self-incrimination vs. public backlash), so they cannot render a theological verdict at all.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "Jesus’ refusal is not evasion but sentence: those who will not judge rightly about John are disqualified from judging his authority, and the temple’s court collapses into silence.",
+        "lines": [
+          7
+        ]
+      }
+    ],
+    "reading": []
+  },
+  "marginalia": [
+    {
+      "text": "Temple walk: jurisdictional space; the delegation arrives as a composite institution.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority demanded as paperwork: act reduced to credential.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Counter-question as gatekeeping: they must pass his terms to interrogate him.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "John’s baptism becomes the litmus: heaven/men, no third category.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Their calculus is retrospective guilt: belief is the missing receipt.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fear of people exposes their “authority” as crowd-management.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“We know not” is strategic ignorance; Jesus mirrors it as judgment.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, radiant light and day without setting, as we begin a new day once more, we ask you to visit us with the splendor of your light and thus dispel the darkness of our sins. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our whole life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world as to cling to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And they come again to Jerusalem. And when he was walking in the temple, there come to him the chief priests and the scribes and the ancients.",
+        "And they say to him: By what authority dost thou these things? And who hath given thee this authority that thou shouldst do these things?",
+        "And Jesus answering, said to them: I will also ask you one word. And answer you me: and I will tell you by what authority I do these things.",
+        "The baptism of John, was it from heaven or from men? Answer me.",
+        "But they thought with themselves, saying: If we say, From heaven; he will say, Why then did you not believe him?",
+        "If we say, From men, we fear the people. For all men counted John that he was a prophet indeed.",
+        "And they answering, say to Jesus: We know not. And Jesus answering, saith to them: Neither do I tell you by what authority I do these things."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 11:27-33",
+      "reference": "Mark 11:27-33",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 8th week of Ordinary Time",
+        "key": "saturdayOfThe8thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/30.html",
+    "title": "Gospel and Word of the Day - 30 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-30"
+}
