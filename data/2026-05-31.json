@@ -1,0 +1,248 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "83048bd6022a3a9e6ddba202f536fe8d864668a3f19762d615b502fdea194bcb",
+        "inputSha256": "e0b4278c87d51ec98a14c6477a00bdcbf2af4e7505ba02e19eec3e8a93c5bcd2",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e8b55aec41776f1397c4b3cf55e93fe543a662b77ae67bbcd6fdad810f7285f5",
+        "inputSha256": "fbe60a9051d8afbc83873c6f2b8e5106bc325ed24ac579f4cf86d041027516c6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f6308ce646a3026ffaab5b297c2674def40c88bee41ff3b0d01f6c0edff72eb9",
+        "inputSha256": "c492a639624d2818a0675c78038ef54036a4fde166e172c655b93a865ccf1007",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-05-31T01:57:41.834Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The clouded descent and the recited divine qualities read like an archetype of the psyche meeting its own source: the self discloses itself as mercy before it demands anything, and the human response is immediate abasement, not from servility but from the nervous system recognizing scale. That “stiffnecked” line is unusually candid: belonging is requested precisely because the people are hard to turn. It’s a plea for presence as the only force that can soften compulsive resistance.\n\nJohn’s move is to relocate judgment from a future verdict to a present condition: refusing trust is self-exile, a shrinking of the inner world until it cannot receive life. Belief here functions less as opinion than as attachment; to cling is to be held, to refuse is to stand alone with one’s own sentence.\n\nSemina Verbi: the Sinai self-naming resembles the Islamic basmala and the Ninety-Nine Names, where mercy is the first grammar of God. The prostration echoes sujud and also the bhakti instinct in Hinduism, where surrender is an affective technology that breaks pride’s rigidity. The “not to judge but to save” current parallels the bodhisattva vow in Mahayana Buddhism, compassion entering the world’s suffering rather than standing over it. Speculation: the “already judged” psychology aligns with the Taoist sense that forcing and refusal create their own imbalance, punishment as consequence rather than decree.",
+    "excursus": "Moses climbs with replacement stones like a man returning to an abuser with fresh paper. The “merciful and gracious” speech isn’t comfort; it’s branding, a rehearsed self-description that arrives in a cloud, at a distance. Moses responds with speed and fear, face to dirt, then asks for the most dangerous gift: not forgiveness but occupation. “Possess us” is the tell. He wants the Presence to move in, to take the stiff neck and make it useful. Mercy here is a technique of control that feels like relief.\n\nJohn intensifies the same bargain. Love is framed as a donation of a son, but the price is belief, and disbelief is punishment that happens automatically, as if the system condemns you the moment you can’t desire on command. “Not to judge” becomes the most efficient judgment: internalized, preloaded, self-executing. Salvation is offered as life, yet it arrives as a narrowing of the world to a single Name. The dread is that you’re already out; the desire is to be claimed, to be possessed, to be safe inside the sentence that says you are loved.",
+    "synthesis": "God’s mercy is not a suspension of holiness but its self-giving form: he restores covenant by revealing his Name and giving his Son. Condemnation is not primarily imposed later; it is the present state of those who reject that gift.",
+    "gospel": [
+      {
+        "text": "The passage sets salvation and condemnation on the axis of the Son’s name. The mission is rescue, but the crisis is epistemic and relational: to refuse the Son is to remain in a state of condemnation without needing a future trial.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "“Not to judge” describes the Son’s purpose in coming, not the absence of judgment as an outcome. The advent divides by response: the same gift becomes either life or the exposure of refusal.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is covenant repair: the law is restored, but the center is not legislation; it is divine self-disclosure. The renewed tablets frame a theology where God’s character, not Israel’s performance, stabilizes the relationship.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "Moses’ intercession asks for more than pardon: it seeks continued presence and a reconstituted people. The logic is political and cultic—sin threatens the community’s existence; forgiveness is the condition for God’s dwelling among them.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Second tablets: mercy recut into stone; obedience rises “very early.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Clouded descent: presence without possession; Moses stands, not seizes.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Name becomes a creed: mercy leads, truth closes; patience is power restrained.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Haste into prostration: speed is for worship, not speech.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bold petition: “go with us” despite “stiffnecked”; forgiveness requested as ownership—“possess us.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love proves itself by giving; “only begotten” makes the gift unrepeatable.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not sent to judge, yet sent into a world already under sentence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Judgment is self-incurred: unbelief is a verdict embraced; faith is an exit from condemnation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who have sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant that we may profess the true faith, acknowledge the glory of the eternal Trinity, and adore its almighty Unity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who have sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant us to profess the true faith, to know the glory of the eternal Trinity, and to adore its almighty Unity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who have sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant us to profess the true faith, to know the glory of the eternal Trinity, and to adore its almighty Unity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant us to profess the true faith, to know the glory of the eternal Trinity, and to adore its almighty Unity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who have sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant that we may profess the true faith, come to know the glory of the eternal Trinity, and adore its almighty Unity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "God, almighty Father, who have sent into the world the Word of truth and the Spirit of sanctification to reveal to mankind your wondrous mystery, grant us to profess the true faith, to know the glory of the eternal Trinity, and to adore its almighty Unity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then he cut out two tables of stone, such as had been before; and rising very early he went up into the Mount Sinai, as the Lord had commanded him, carrying with him the tables.",
+        "And when the Lord was come down in a cloud, Moses stood with him, calling upon the name of the Lord.",
+        "And when he passed before him, he said: O the Lord, the Lord God, merciful and gracious, patient and of much compassion, and true,",
+        "And Moses making haste, bowed down prostrate unto the earth, and adoring,",
+        "Said: If I have found grace in thy sight, O Lord, I beseech thee that thou wilt go with us, (for it is a stiffnecked people) and take away our iniquities and sin, and possess us."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Exodus 34:4-6,8-9",
+      "reference": "Exodus 34:4-6,8-9",
+      "heading": "A reading from the Book of Exodus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "For God so loved the world, as to give his only begotten Son: that whosoever believeth in him may not perish, but may have life everlasting.",
+        "For God sent not his Son into the world, to judge the world: but that the world may be saved by him.",
+        "He that believeth in him is not judged. But he that doth not believe is already judged: because he believeth not in the name of the only begotten Son of God. Is not judged... He that believeth, viz., by a faith working through charity, is not judged, that is, is not condemned; but the obstinate unbeliever is judged, that is, condemned already, by retrenching himself from the society of Christ and his church."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:16-18",
+      "reference": "John 3:16-18",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Trinity Sunday",
+        "key": "trinitySunday"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/05/31.html",
+    "title": "Gospel and Word of the Day - 31 May 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/05/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-05-31"
+}
