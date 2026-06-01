@@ -1,0 +1,309 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "46d202b88013efb70cdae7a13cc75a636431f75df445a563d01305188431da60",
+        "inputSha256": "cfdcdda20b22fe272e3be2f041e419f580f3ae81bdd7e23e4302c64d9d12515b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6e110857a24eb0efd797843c134a39473ba8eece82ca5befbce2a5320db8c25b",
+        "inputSha256": "2af002dc34af4a5e76c907080ef75d0bb5281c29c06bed02c850fd32a639cdb8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "606e5478867617af206b73fff38472a2b73a7d2bc979eaf66e89fb7830dae583",
+        "inputSha256": "8a7897232cffbbd7c8eb9cfeb5b955a8f11491791b120fdb5f7cb3c8d1c44360",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-01T02:01:56.808Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “partakers of the divine nature” line brushes against theosis in Eastern Christianity, but also, speculatively, against Vedanta’s language of participation in Brahman and Mahayana’s buddha-nature: not identical metaphysics, yet the shared psychological wager is that the self can be reauthored by contact with what is most real, and that desire’s corrosion is not cured by suppression but by a higher intimacy.\n\nThe virtue-ladder reads like a disciplined affect-training sequence: attention becomes sobriety, sobriety becomes endurance, endurance becomes a widened regard. That resembles Stoic askesis and Buddhist gradual training, and, speculatively, Sufi stations of the path, where knowledge is not information but a reshaping of appetites into steadiness and then into love.\n\nThe vineyard parable echoes the Bhagavad Gita’s warning about grasping the fruits and the Taoist suspicion of possession: stewardship collapses into entitlement when the mind confuses role with ownership. The tenants’ violence is the psyche defending its stolen identity; the heir is the intolerable return of rightful claim, like the repressed truth that keeps coming back more vulnerable each time.\n\nThe rejected stone becoming the cornerstone parallels the Zen motif of the “ordinary” or “discarded” as the gate, and the Jewish and Islamic reverence for the tested, despised prophet as the axis of renewal. Speculatively, it also matches the archetypal pattern Jung noticed: what a system expels returns as its organizing center, not by force but by inevitability.",
+    "excursus": "2 Peter sells “knowledge” as anesthesia: learn the right things, climb the moral ladder, and you will “escape” desire. But the ladder is a panic response. Virtue, knowledge, abstinence, patience—each rung is a way of tightening the fist around the self, trying to turn concupiscence into something manageable, something named. The promise of “partaking the divine nature” reads like the ultimate sublimation: if you can’t stop wanting, transfigure wanting into holiness. Peace is not a gift here; it’s an achievement, and achievements always imply the fear of failure.\n\nMark’s vineyard exposes what that fear is guarding. The tenants don’t misunderstand the owner; they understand him perfectly. They want the vineyard without the absent lord, fruit without accounting, inheritance without relationship. They kill the messengers because messages are claims. When the son arrives, desire sharpens into calculation: if we erase the heir, we can live inside the fantasy that the world belongs to us. The parable’s dread is that this is not monstrous; it is ordinary.\n\nRead together, the epistle’s program of self-improvement and the gospel’s murder plot are the same impulse at different temperatures. One tries to sanctify possession by polishing the soul; the other seizes possession by force. Both refuse dependence. The “stone rejected” becomes the corner not because it is comforting, but because it won’t stay dead, and it won’t let the vineyard be owned without consequence.",
+    "synthesis": "God grants participation in his life through Christ, and that gift demands a structured ascent of virtue culminating in charity. Those who reject the Son forfeit their stewardship, and the rejected Christ becomes the cornerstone of God’s reordered people.",
+    "gospel": [
+      {
+        "text": "The parable frames Israel’s leadership as tenancy under a rightful owner; the crisis is not productivity but legitimacy—who has title to the vineyard and who may claim its yield.",
+        "lines": [
+          1,
+          9
+        ]
+      },
+      {
+        "text": "The son’s sending and the rejected stone interpret each other: the heir’s death is not a derailment but the means by which God establishes a new cornerstone-order, an act that appears “wonderful” precisely because it reverses human verdicts.",
+        "lines": [
+          6,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "Recognition without repentance hardens into strategy; fear of the crowd replaces fear of God, and the plot continues under the cover of public management.",
+        "lines": [
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage grounds moral effort in prior donation: divine power already supplies what “life and godliness” require, so the ensuing exhortation is not self-construction but the disciplined use of a given capacity.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The sequence culminates in charity, not as sentiment but as the telos that orders the intermediate habits; the chain implies that holiness is structured, not improvised, and that love is the final form of the whole.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Grace and peace are not moods; they are outcomes of knowing.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Promises are instruments: they make creatures share what they are not by nature.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Escape is not spatial; it is moral flight from desire’s rot.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The ladder is additive: faith is not replaced, it is burdened with virtues.",
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Abstinence sits inside knowledge: appetite is an epistemic problem.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Vineyard, hedge, vat, tower: care is exhaustive; negligence is not the charge.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fruit is owed; refusal is theft disguised as autonomy.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Last of all”: patience reaches its terminus in a son.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They name him heir and kill him anyway: lucid rebellion.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cast out of the vineyard: exclusion becomes the method of murder.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Judgment is transfer: the gift is not revoked, it is reassigned.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rejection becomes architecture; the refused stone governs the whole.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who taught Saint Justin to find in the folly of the cross the incomparable wisdom of Christ, grant us, through the intercession of your martyr, the grace to drive away the errors that surround us and to remain steadfast in the faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who taught Saint Justin to find in the folly of the cross the incomparable wisdom of Christ, grant us, through the intercession of your martyr, the grace to drive away the errors that surround us and to remain steadfast in the faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that same hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who taught Saint Justin to find in the folly of the cross the incomparable wisdom of Christ, grant us, through the intercession of your martyr, the grace to drive away the errors that surround us and to remain steadfast in the faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Grace to you and peace be accomplished in the knowledge of God and of Christ Jesus our Lord.",
+        "As all things of his divine power which appertain to life and godliness are given us through the knowledge of him who hath called us by his own proper glory and virtue.",
+        "By whom he hath given us most great and precious promises: that by these you may be made partakers of the divine nature: flying the corruption of that concupiscence which is in the world.",
+        "And you, employing all care, minister in your faith, virtue: And in virtue, knowledge:",
+        "And in knowledge, abstinence: and in abstinence, patience: and in patience, godliness:",
+        "And in godliness, love of brotherhood: and in love of brotherhood, charity."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Peter 1:2-7",
+      "reference": "2 Peter 1:2-7",
+      "heading": "A reading from the Second Letter of St. Peter",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he began to speak to them in parables: A certain man planted a vineyard and made a hedge about it and dug a place for the winefat and built a tower and let it to husbandmen: and went into a far country.",
+        "And at the season he sent to the husbandmen a servant to receive of the husbandmen of the fruit of the vineyard.",
+        "Who, having laid hands on him, beat and sent him away empty.",
+        "And again he sent to them another servant: and him they wounded in the head and used him reproachfully.",
+        "And again he sent another, and him they killed: and many others, of whom some they beat, and others they killed.",
+        "Therefore, having yet one son, most dear to him, he also sent him unto them last of all, saying: They will reverence my son.",
+        "But the husbandmen said one to another: This is the heir. Come let us kill him and the inheritance shall be ours.",
+        "And laying hold on him, they killed him and cast him out of the vineyard.",
+        "What therefore will the lord of the vineyard do? He will come and destroy those husbandmen and will give the vineyard to others.",
+        "And have you not read this scripture, The stone which the builders rejected, the same is made the head of the corner:",
+        "By the Lord has this been done, and it is wonderful in our eyes.",
+        "And they sought to lay hands on him: but they feared the people. For they knew that he spoke this parable to them. And leaving him, they went their way."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 12:1-12",
+      "reference": "Mark 12:1-12",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Justin Martyr",
+        "key": "saintJustinMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/01.html",
+    "title": "Gospel and Word of the Day - 01 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-01"
+}
