@@ -1,0 +1,251 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "cfc3214091926fb871195cefe1d3c6497448142a08b3d8f21d05c2286c9b1c6b",
+        "inputSha256": "d35df9532719d90223b28234fbb362e0b64b73525de8e778dec10a017e89f16a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f6afd6ef63b323a81548f2a47723679f62e7c2499c19e9682bdaf0b69b884a18",
+        "inputSha256": "28e93274157d855199195d7f7fb3fecbbe6068e7ac70e917fd35e111827eaa10",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2e39e6c43b08316d7ff7b607681645145e5b24d6cc788cd8d27acb48a31969a3",
+        "inputSha256": "f6f0de4eeb83edeff6e85fdf6bc0ab2e750c7088c4ea289f3a1fb185db107b35",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-04T02:08:30.615Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The desert pedagogy reads like a psyche stripped to essentials: deprivation as a controlled unmaking of false self-sufficiency, until desire learns its true object. “Not by bread alone” is the discovery that appetite is never merely caloric; it is interpretive, a hunger for meaning that either hardens into pride or softens into receptivity.\n\nJohn radicalizes that logic by collapsing “word” and “food” into a single act of incorporation. Life is not gained by ideas about the divine but by an intimacy that risks scandal, because it refuses the safe distance of metaphor; it insists that what saves must be taken inside, digested, and allowed to re-form the self.\n\nSemina Verbi: In Buddhism, the move from ordinary craving to a transformed hunger echoes the desert’s re-education of desire (speculation). In Hindu bhakti, prasad as received, sanctified food parallels grace as nourishment rather than achievement (speculation). In Sufism, fana and baqa resemble a self emptied and then re-lived by Another, akin to “abiding” as mutual indwelling (speculation). In Daoism, “fasting of the heart-mind” and living by the Dao rather than by possessions resonates with learning to live by a word beyond bread (speculation). In the Eleusinian mysteries, sacred ingestion as participation in a promised life offers a distant analogue to salvation imagined as eating and being changed (speculation).",
+    "excursus": "These readings are about a god who trains dependence by engineering deprivation, then calling the craving “proof.” The desert is not a backdrop but a laboratory: thirst, serpents, and the long humiliation of not knowing where the next mouthful comes from. “Remember” means: remember who controlled your hunger. Manna is not comfort; it is a ration that keeps you alive while teaching you that your own competence is irrelevant.\n\nJohn sharpens the logic into something almost obscene. The answer to hunger is not bread but a body; not a gift but ingestion of the giver. Desire is conscripted: you don’t merely obey, you internalize. The scandal is not cannibal imagery as metaphor; it is the demand that intimacy be compulsory, that life be purchased by swallowing what repels you.\n\nSo the promise of “abiding” carries dread. To live “by me” is to accept a life in which need is never finally cured, only redirected—away from the world’s bread toward a word that keeps you hungry enough to keep coming back.",
+    "synthesis": "God trains his people by deprivation to detach life from mere bread and attach it to his utterance. In Christ that utterance becomes flesh given as true food, and whoever receives him is made to live by him unto resurrection.",
+    "gospel": [
+      {
+        "text": "The gift is not a teaching but a body “for the life of the world”: the scope is cosmic, and the mode is sacrificial self-donation rather than information transfer.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The promised future (“raise him up”) is tethered to a present participation in the Son’s own life-from-the-Father; eschatology is grounded in a received dependence.",
+        "lines": [
+          5,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The danger named is not the wilderness but amnesia in prosperity: liberation can be reinterpreted as self-achievement, and bondage quietly returns as pride.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Memory is commanded: the desert is pedagogy, not accident; the test exposes what was already there.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hunger as instruction: bread is demoted; “word” is the true ration.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Inventory of threats—serpent, scorpion, thirst—then the inversion: water from “hardest rock.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy arrives late; affliction is not denied but framed as the prelude.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Living bread” collapses sign and source: heaven is not metaphor but origin.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They quarrel at the literal edge; scandal is the doorway to clarity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Double “Amen” hardens the claim into law: eating and drinking as condition of life.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Communion is mutual indwelling, not mere benefit: ingestion becomes habitation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this wondrous sacrament have left us the memorial of your Passion, we ask you to grant that we may so venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign with the Father in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this admirable sacrament have left us the memorial of your Passion, we ask you to grant that we may so venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign with the Father in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always to live, Lord, in love and reverence for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always, Lord, to live in love and reverence for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always, Lord, to live in love and reverence for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this wonderful sacrament have left us a memorial of your Passion, grant us, we pray, so to venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign with the Father in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And thou shalt remember all the way through which the Lord thy God hath brought thee for forty years through the desert, to afflict thee and to prove thee, and that the things that were known in thy heart might be made known, whether thou wouldst keep his commandments or no.",
+        "He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God. Not in bread alone, etc... That is, that God is able to make food of what he pleases for the support of man.",
+        "Thy heart be lifted up, and thou remember not the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage:",
+        "And was thy leader in the great and terrible wilderness, wherein there was the serpent burning with his breath, and the scorpion and the dipsas, and no waters at all: who brought forth streams out of the hardest rock, The Dipsas... A serpent whose bite causeth a violent thirst; from whence it has its name, for in Greek dipsa signifies thirst.",
+        "And fed thee in the wilderness with manna which thy fathers knew not. And after he had afflicted and proved thee, at the last he had mercy on thee,"
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Deuteronomy 8:2-3,14-16",
+      "reference": "Deuteronomy 8:2-3,14-16",
+      "heading": "A reading from the Book of Deuteronomy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "I am the living bread which came down from heaven.",
+        "If any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, for the life of the world.",
+        "The Jews therefore strove among themselves, saying: How can this man give us his flesh to eat?",
+        "Then Jesus said to them: Amen, amen, I say unto you: except you eat the flesh of the Son of man and drink his blood, you shall not have life in you. Except you eat and drink, etc... To receive the body and blood of Christ, is a divine precept, insinuated in this text; which the faithful fulfil, though they receive but in one kind; because in one kind they receive both body and blood, which cannot be separated from each other. Hence, life eternal is here promised to the worthy receiving, though but in one kind. Ver. 52. If any man eat of this bread, he shall live for ever; and the bread that I will give, is my flesh for the life of the world. Ver. 58. He that eateth me, the same also shall live by me. Ver. 59. He that eateth this bread, shall liver for ever.",
+        "He that eateth my flesh and drinketh my blood hath everlasting life: and I will raise him up in the last day.",
+        "For my flesh is meat indeed: and my blood is drink indeed.",
+        "He that eateth my flesh and drinketh my blood abideth in me: and I in him.",
+        "As the living Father hath sent me and I live by the Father: so he that eateth me, the same also shall live by me."
+      ],
+      "lineRefs": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:51-58",
+      "reference": "John 6:51-58",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 9th week of Ordinary Time",
+        "key": "thursdayOfThe9thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/04.html",
+    "title": "Gospel and Word of the Day - 04 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-04"
+}
