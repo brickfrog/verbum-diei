@@ -1,0 +1,238 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "da95f569fc60ef929367fc0bbfab5bb32ce174ffa8981f2c05c733c0288faec0",
+        "inputSha256": "39a6d03ef063d53e1717b87cefcf72c2e10368f5793905490804cf1030eb35b1",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ecb5ef44096e99c570e74e2eae4130371c6a5406925508f30f4603935a7e7c9d",
+        "inputSha256": "10cc6d20f598b1afe6d69075e169675f09b2df4d2e818e5bf62d6112b23ffbcf",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d2a070e4fa71d3699191a33b4968e9db6585574d0a8ab75d9d604aaa8e2b0042",
+        "inputSha256": "52b9ae1324c6f77ace1cb1d3178a23b9281c2384c3020979b611bbe11bbe7549",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-05T01:56:57.639Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s portrait of formation under pressure has a clear Stoic kinship: the teacher’s credibility is a lived pattern, proved by endurance, not by cleverness. It also brushes against the Bhagavad Gita’s insistence that steadiness amid opposition is the furnace where right action becomes real; that parallel is speculative, but the psychology matches.\n\n“Scripture” here functions like a disciplined mirror that corrects the self, closer to Buddhist bhavana and the Jain practice of self-scrutiny than to mere information. The claim that the text forms a person for “every good work” resembles Confucian self-cultivation through the Classics, where reading is moral training, not private opinion.\n\nJesus’ riddle about David’s “Lord” echoes the Upanishadic move where the familiar hierarchy is inverted by a deeper identity, and the Tao Te Ching’s habit of undoing obvious categories to reveal a prior order; speculative, but the method is the same: a koan-like question that breaks complacent lineage-thinking.\n\nThe crowd’s glad hearing feels like Sufi sama: delight at a paradox that lands not as argument but as recognition.",
+    "excursus": "Paul’s speech is less a manifesto than a seduction. He offers Timothy a template for identity—doctrine, manner, purpose—then seals it with the glamour of suffering. Persecution becomes proof, a private badge that turns pain into meaning. The world must “grow worse and worse” because the story needs antagonists; dread is cultivated to keep the disciple close, suspicious, and dependent on the inherited voice.\n\n“Scripture” here is not comfort but an instrument: to reprove, correct, instruct, to shape a person until he fits. The claim of inspiration is also a claim of ownership over the psyche, a way of making the inner life legible only through authorized words. Even the aside about tradition and interpretation admits the real point: text alone is unstable; what is wanted is a supervised conscience.\n\nJesus in Mark performs a quieter violence. He breaks the scribes’ neat lineage—son of David—by showing that the father calls the son “Lord.” Desire for a messiah you can place on a family tree is exposed as childish. The crowd “hears gladly” because the riddle thrills: authority is not inherited, it is uncanny, arriving from above and rearranging the familiar. The tension is that both passages promise deliverance while tightening the net: salvation as rescue, yes, but also as capture into a story that demands enemies, discipline, and a Lord who will not stay in the role you assign him.",
+    "synthesis": "God’s word forms a durable minister by binding him to an inherited rule amid inevitable hostility. The Christ is David’s heir only by condescension; by right he is David’s Lord enthroned at God’s hand.",
+    "gospel": [
+      {
+        "text": "Jesus attacks a reduction: messiah as merely dynastic. By forcing the scribal category to account for David’s own address, he opens a christology where messiah exceeds lineage and stands within God’s rule, with enemies subordinated rather than negotiated.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames authority as transmissible pattern: life and doctrine received, then guarded, then enacted. The aim is not private insight but a “man of God” equipped—formation ordered toward public fidelity and concrete works.",
+        "lines": [
+          1,
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Apostolic résumé written in scars; deliverance is named, not explained.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Persecution is not an accident of history but a property of “in Christ.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Grow worse” is moral entropy; deception is both self-loss and contagion.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Infancy catechesis: Scripture as early grammar for salvation, not late ornament.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Inspiration yields utility; the text is an instrument with edges—teach/reprove/correct.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two “Lords” in one verse: hierarchy inside David’s own mouth.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The riddle turns genealogy against itself; “son” collapses under “Lord.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, the intercession of your martyr Saint Boniface, that we may courageously defend and by our works confirm the faith that he taught by his word and sealed in martyrdom with his blood. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, the intercession of your martyr Saint Boniface, that we may courageously defend and, by our deeds, confirm the faith that he taught by his word and sealed in martyrdom with his blood. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, after death may enter paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, the intercession of your martyr Saint Boniface, that we may courageously defend and by our deeds confirm the faith that he taught by his word and sealed in martyrdom with his blood. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,",
+        "Persecutions, afflictions: such as came upon me at Antioch, at Iconium and at Lystra: what persecutions I endured, and out of them all the Lord delivered me.",
+        "And all that will live godly in Christ Jesus shall suffer persecution.",
+        "But evil men and seducers shall grow worse and worse: erring, and driving into error,",
+        "But continue thou in those things which thou hast learned and which have been committed to thee. Knowing of whom thou hast learned them:",
+        "And because from thy infancy thou hast known the holy scriptures which can instruct thee to salvation by the faith which is in Christ Jesus.",
+        "All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice: All scripture,... Every part of divine scripture is certainly profitable for all these ends. But, if we would have the whole rule of Christian faith and practice, we must not be content with those Scriptures, which Timothy knew from his infancy, that is, with the Old Testament alone: nor yet with the New Testament, without taking along with it the traditions of the apostles, and the interpretation of the church, to which the apostles delivered both the book, and the true meaning of it.",
+        "That the man of God may be perfect, furnished to every good work."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Timothy 3:10-17",
+      "reference": "2 Timothy 3:10-17",
+      "heading": "A reading from the Second Letter of St. Paul to Timothy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus answering, said, teaching in the temple: How do the scribes say that Christ is the son of David?",
+        "For David himself saith by the Holy Ghost: The Lord said to my Lord: Sit on my right hand, until I make thy enemies thy footstool.",
+        "David therefore himself calleth him Lord. And whence is he then his son? And a great multitude heard him gladly."
+      ],
+      "lineRefs": [
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 12:35-37",
+      "reference": "Mark 12:35-37",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Boniface, Bishop and Martyr",
+        "key": "saintBonifaceBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/05.html",
+    "title": "Gospel and Word of the Day - 05 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-05"
+}
