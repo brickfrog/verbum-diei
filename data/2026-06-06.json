@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5e7d7f02a0693b60e584f89e7562e4808338d8c5141f415aea683761344dee46",
+        "inputSha256": "93cbcde4cea3e9c50457509f72661dc2d49ffae65e8cbdd91af09697958894f7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e5bedefa1ef88a79f0f880d563018397b40f9dc85ad20baf4692c12c74d75503",
+        "inputSha256": "899124f4f26927f4ed4bc5c3da6ffd9db21393fa019008db252a0e46fd0b2285",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2ac7e31ea8f9cf2da05d439e8009692d724ed76373295e41ff11e186254fb6dd",
+        "inputSha256": "ae632079f4d02f7502bf80c03c4a42d9612da5c2306706d907b6bcddec2896b0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-06T01:56:47.455Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s self-offering reads like the Stoic ideal of the person who keeps faith with the role assigned by fate, finishing the race without bargaining for comfort; Marcus Aurelius would recognize the interior steadiness, though Paul’s horizon is relational rather than cosmic. The warning about “itching ears” parallels the Buddha’s critique of craving for pleasing views and teachers who sell consolation; speculation: it’s the same psychology of appetite dressed as insight.\n\nJesus’ exposure of pious display and status-hunger meets Confucius’ suspicion of ritual used for reputation rather than ren; the long robe is a costume for moral credit. The widow’s two coins echo the Bhagavad Gita’s insistence that the measure is not quantity but whole-hearted offering; speculation: it also resembles Zen’s praise of total presence in a single act, where “all she had” names undivided attention as much as money.",
+    "excursus": "Paul’s voice is not serene; it is a man tightening a story around his own disappearance. He turns his coming death into a courtroom scene, drags God in as witness, and orders Timothy to speak “out of season” because silence would expose the hollowness underneath. The dread is that people don’t reject truth for lies; they reject it for relief. “Itching ears” is not stupidity but appetite. Paul knows the crowd wants a gospel that feels like permission, and he wants a gospel that feels like a wound. His “crown” is the last narcotic he allows himself: justice as delayed applause.\n\nMark shows what that appetite looks like in religious clothing. The scribes don’t merely crave honor; they feed on the vulnerable while performing holiness, and the system smiles because the performance is profitable. Then the widow appears, and the usual reading canonizes her. But the scene is colder. Jesus watches a machine that can take a poor woman’s last coins and still call it devotion. He doesn’t praise the institution; he exposes the violence of a piety that measures love by self-erasure. The widow’s “more” is not a moral benchmark; it is the terrible proof that exploitation can be internalized until it feels like worship.\n\nPut together, the texts confess the same danger: faith can become a theater where leaders secure their legacy and the desperate pay admission with their lives. The desire is for a word that cuts through the robes and the crowns and says what no one wants to hear: if your religion needs victims to look beautiful, it is already a fable.",
+    "synthesis": "God judges both doctrine and devotion by truth and self-gift, not by display or volume. The Church’s authority is cruciform: it speaks against appetite and measures greatness by total surrender.",
+    "gospel": [
+      {
+        "text": "Mark sets two economies side by side: status-seeking religion that converts proximity to God into social capital, and hidden fidelity that has no leverage except surrender. Jesus’ verdict redefines “more” as a moral quantity, not an arithmetic one, and thereby strips public religion of its usual metrics.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames ministry as a disciplined office carried through cultural volatility: vigilance, labor, sobriety, and completion. The personal valediction (“finished my course”) is not autobiography for its own sake but a template of vocational endurance meant to outlast the coming market for novelty.",
+        "lines": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The charge is sworn in the shadow of assize: ministry spoken under judgment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“In season, out of season”: truth is not timed to appetite; it interrupts.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Itching ears manufacture authorities; desire becomes a hiring committee.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Truth is not merely left; it is replaced—fables as a positive diet.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A life interpreted as liturgy: poured out, not merely ended.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Crown is juridical, not decorative: justice rendered by the Judge, not awarded by peers.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Long robes: virtue costumed; holiness turned into a uniform.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer as pretext: piety weaponized for extraction; judgment scaled to hypocrisy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The treasury becomes a theater; Jesus watches the watchers.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two mites: the smallest coin becomes a unit of totality.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Abundance gives without risk; want gives with self-exposure—“whole living” as the measure.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look kindly, Lord, upon the desires and prayers of your people; grant us light to know your will and the strength needed to carry it out. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the brightness of the resurrection of your Son may illumine the difficulties of our life; that we may not fear the darkness of death and may one day come to the light that has no end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this wondrous sacrament have left us a memorial of your Passion, we ask you to grant that we may so venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign with the Father in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I charge thee, before God and Jesus Christ, who shall judge the living and the dead, by his coming and his kingdom:",
+        "Preach the word: be instant in season, out of season: reprove, entreat, rebuke in all patience and doctrine.",
+        "For there shall be a time when they will not endure sound doctrine but, according to their own desires, they will heap to themselves teachers having itching ears:",
+        "And will indeed turn away their hearing from the truth, but will be turned unto fables.",
+        "But be thou vigilant, labour in all things, do the work of an evangelist, fulfil thy ministry. Be sober. An evangelist... a diligent preacher of the gospel.",
+        "For I am even now ready to be sacrificed: and the time of my dissolution is at hand.",
+        "I have fought a good fight: I have finished my course: I have kept the faith.",
+        "As to the rest, there is laid up for me a crown of justice which the Lord the just judge will render to me in that day: and not only to me, but to them also that love his coming. Make haste to come to me quickly."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Timothy 4:1-8",
+      "reference": "2 Timothy 4:1-8",
+      "heading": "A reading from the Second Letter of St. Paul to Timothy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he said to them in his doctrine: Beware of the scribes, who love to walk in long robes and to be saluted in the marketplace,",
+        "And to sit in the first chairs in the synagogues and to have the highest places at suppers:",
+        "Who devour the houses of widows under the pretence of long prayer. These shall receive greater judgment.",
+        "And Jesus sitting over against the treasury, beheld how the people cast money into the treasury. And many that were rich cast in much.",
+        "And there came a certain poor widow: and she cast in two mites, which make a farthing.",
+        "And calling his disciples together, he saith to them: Amen I say to you, this poor widow hath cast in more than all they who have cast into the treasury.",
+        "For all they did cast in of their abundance; but she of her want cast in all she had, even her whole living."
+      ],
+      "lineRefs": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Mark 12:38-44",
+      "reference": "Mark 12:38-44",
+      "heading": "From the Gospel according to Mark",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Norbert, Bishop",
+        "key": "saintNorbertBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/06.html",
+    "title": "Gospel and Word of the Day - 06 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-06"
+}
