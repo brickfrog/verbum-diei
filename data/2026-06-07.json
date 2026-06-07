@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0ca6be3db4d2912c3c2ce9a4fb0317ed137edf0aba72525d8018aae08a901adf",
+        "inputSha256": "2866f61316155656d49c6cfc6bfac338c182f0d17683e93f724b166aef8b3677",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "13444b3cdd1eea6f36a98da7ea84e866ed219edc6a2909fb9f517619bf0e527a",
+        "inputSha256": "709255d9e92bc91df40775be2224b395dd29cd7651d91508c5956671debd5729",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "cecd1c1cb2ad474468628155fc904b2f6dfa7de8fe09ff83f6d3f0c56bbbe9ed",
+        "inputSha256": "247f0eec230ea1b91b775c01e630f50f4f8b20efa1445598bf273edb3e72c47d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-07T01:59:36.101Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s “third day” reads like a psyche’s rebound after collapse: the self goes down, lies still, then returns with a new orientation, not as triumph but as reanimation into clear sight. That rhythm has a close cousin in the Buddhist arc of death-to-delusion and waking, in Vedanta’s turn from ritual to direct knowing, and in Sufi fanā’ and baqā’ where the ego is unmade and a truer life resumes; speculation, but the shared intuition is that real change comes through a kind of dying that exposes what was flimsy.\n\n“Mercy, not sacrifice” is the revolt of living relation against performative control. It resembles the Daoist suspicion of propriety when it replaces virtue, and the Confucian insistence that rites without ren are empty; also the rabbinic stream that prizes deeds of lovingkindness over offerings. Matthew’s call echoes Zen’s sudden pivot and the Bhagavad Gita’s claim that one act of surrender can reorder a life; speculation, but the common thread is that the invitation is not to purity but to honesty, and the healer chooses the sick because contact is the cure.",
+    "excursus": "Hosea stages a lover’s panic dressed up as prophecy. The people promise resurrection on schedule—two days, third day—like bargaining with time, like rehearsing a comeback they can’t feel. They want God as weather, reliable as morning and rain, a comfort that arrives without being asked. But their “mercy” is vapor: a morning cloud that looks like devotion until sunlight hits it. The dread is that nothing in them lasts long enough to be real.\n\nSo God turns violent in language: hewing, slaying by words. Not because he prefers blood, but because speech is the only blade that can cut through performative piety. Judgment “as the light” is exposure, not punishment: the unbearable clarity that reveals how quickly desire evaporates when it costs something.\n\nMatthew’s call is the same exposure, but intimate. Jesus doesn’t recruit the pure; he chooses the compromised man at his desk, mid-transaction, and the man stands up as if caught. The meal with publicans isn’t outreach; it’s appetite. Mercy here is not softness but proximity, the refusal to keep distance from what disgusts you. The Pharisees want sacrifice because it preserves control and hierarchy. Jesus wants mercy because it risks contamination.\n\n“I desire mercy, not sacrifice” is not a moral slogan; it’s a threat to every system that launders guilt through ritual. Mercy means you can’t hide behind correct gestures. You have to be known, and knowing is the one thing both passages fear and crave: to live in his sight, not in your own performance.",
+    "synthesis": "God’s covenant claim prioritizes merciful knowledge over ritual performance, and Christ enacts that priority by calling and eating with sinners as the concrete form of divine mercy.",
+    "gospel": [
+      {
+        "text": "The dispute is about purity boundaries and social legitimacy; Jesus reframes the issue as mission rather than respectability. By directing opponents to “learn,” he asserts interpretive authority over the tradition and relocates righteousness from separation to restorative engagement.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Matthew’s call and the ensuing meal form a single narrative unit: vocation immediately generates a new community, and that community is constituted around Jesus rather than around prior moral sorting. The scene makes mercy not a sentiment but a practice with visible social cost.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage binds resurrection-language to covenant epistemology: life “in his sight” is inseparable from knowing God, and knowing God is defined ethically rather than ritually. The critique is not anti-worship but anti-substitution—sacrifice cannot stand in for fidelity.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "Israel’s instability provokes a disciplinary economy: God’s response is not mere disappointment but judicial action mediated through prophetic speech. The prophets function as the covenant’s enforcement mechanism, making judgment public and clarifying what counts as real return.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Two days… third day”: time compressed into a verdict; revival is not gradual therapy but decree.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy compared to vapor: piety that looks real only at dawn.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophets as chisels; speech as execution—God’s word does not describe, it cuts.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The inversion is surgical: cult without mercy is surplus; “knowledge” is ranked above smoke.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A command and a rupture: “Follow” creates a new life by severing the old seat.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Table fellowship as scandal: the boundary is not argued, it is crossed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Physician logic: proximity to sickness is not contamination but vocation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Quotation becomes indictment: Scripture used as a weapon against scripturalists; “just” is a category Jesus refuses to service.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and accomplish it with your help. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and, with your help, carry it out. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this wonderful sacrament have left us a memorial of your Passion, we ask you to grant that we may so venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and accomplish it with your help. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing, and grant that, inspired by you, we may think what is right and accomplish it with your help. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and, with your help, carry it out. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "He will revive us after two days: on the third day he will raise us up, and we shall live in his sight. We shall know, and we shall follow on, that we may know the Lord. His going forth is prepared as the morning light, and he will come to us as the early and the latter rain to the earth.",
+        "What shall I do to thee, O Ephraim? what shall I do to thee, O Juda? your mercy is as a morning cloud, and as the dew that goeth away in the morning.",
+        "For this reason have I hewed them by the prophets, I have slain them by the words of my mouth: and thy judgments shall go forth as the light.",
+        "For I desired mercy, and not sacrifice: and the knowledge of God more than holocausts."
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 6:3-6",
+      "reference": "Hosea 6:3-6",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when Jesus passed on from thence, he saw a man sitting in the custom house, named Matthew; and he saith to him: Follow me. And he arose up and followed him.",
+        "And it came to pass as he was sitting at meat in the house, behold many publicans and sinners came, and sat down with Jesus and his disciples.",
+        "And the Pharisees seeing it, said to his disciples: Why doth your master eat with publicans and sinners?",
+        "But Jesus hearing it, said: They that are in health need not a physician, but they that are ill.",
+        "Go then and learn what this meaneth, I will have mercy and not sacrifice. For I am not come to call the just, but sinners."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:9-13",
+      "reference": "Matthew 9:9-13",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Corpus Christi",
+        "key": "corpusChristi"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/07.html",
+    "title": "Gospel and Word of the Day - 07 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-07"
+}
