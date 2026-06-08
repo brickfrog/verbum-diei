@@ -1,0 +1,313 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ef1cb9835c0e27cddceae10d05b44df05b40af8952051734b8f3b52e08c7544a",
+        "inputSha256": "0c3d4d90afcd00b916882be76552fa9e46429ff43fa4cfd3af6a03efd7e9a2b9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b887abf04d41bf44c757280a4826d890c9ac960a28adec3fa03cd223e0ca76ff",
+        "inputSha256": "3d1f837013ce3e73468acca8146565b75e4be0d07a0b2755a5f4771a349cb2c9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4941c7eb9f368bbbcf91457aff7f1776bfdfda0155523d16e7a2cc36ae1be7f2",
+        "inputSha256": "9b9a7434abf245bfba9d9d8b4e921b8253366e1dd6e52100320c6fe676025f6d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-08T02:01:46.573Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Elijah’s ravens echo the Vedic motif of the rishi sustained by unseen order, where nature becomes a courier for dharma; speculation: the “commanded” animals externalize an inner alignment that makes the world feel suddenly cooperative. The torrent-hideaway resembles Daoist wu-wei withdrawal, not escape but strategic emptiness that lets power pass through without grasping. The drought-as-word recalls Indigenous “right speech” cosmologies where speech is not report but weather, a moral force that changes the field.\n\nThe Beatitudes rhyme with Buddhist metta and the bodhisattva’s inversion of status: the low are “fortunate” because they are least entangled. They also touch Stoic apatheia in the clean heart and the meek: strength that refuses the reflex of retaliation. Sufi faqr, spiritual poverty, stands close to “poor in spirit,” a chosen unpossessing that makes room for the Real; speculation: the promised kingdom names a psyche no longer organized by scarcity. The persecuted-for-justice line matches the Sikh sant-sipahi ideal, tenderness that accepts cost without surrendering truth.",
+    "excursus": "Elijah doesn’t pray for rain to stop; he announces a drought “according to the words of my mouth.” It’s the fantasy of absolute speech: say the world dry and it dries. Then the story snaps shut around him. He’s ordered east, into hiding, into a narrow life by a thin torrent, dependent on scavenger birds. The prophet who starved a nation is immediately reduced to being fed like a stray. Power is purchased with exile, and the price is intimacy with need.\n\nThe Beatitudes read like the same bargain, but made seductive. Jesus calls the losers blessed, yet the blessing is almost always deferred, displaced, or invisible: a kingdom, a comfort, a future possession. It’s not a manifesto for the strong; it’s a way to metabolize humiliation without dying of it. “Poor in spirit” is the trained refusal to want too much; “meek” is the art of not striking back; “persecuted” is the badge that makes failure feel chosen.\n\nPut together, the texts expose a cruel desire: to be so right that suffering proves it. Elijah’s ravens and Jesus’ blessing both offer the same narcotic—privation as evidence of election. The dread underneath is that without hunger, without enemies, without the torrent running low, the voice might be ordinary. So the holy life becomes a controlled starvation, a drama where need is fed just enough to keep the story going.",
+    "synthesis": "God’s reign advances by commanded speech and commanded lowliness: he authorizes a word that judges the world and blesses those the world cannot justify. The faithful are sustained and identified not by control but by obedience under promise.",
+    "gospel": [
+      {
+        "text": "The beatitudes form a new social taxonomy: not virtues as private traits, but a reordered public identity (“children of God”). Jesus constitutes a community by naming its members according to eschatological status rather than present leverage.",
+        "lines": [
+          1,
+          9
+        ]
+      },
+      {
+        "text": "The repeated “for” clauses attach each condition to a promised future, binding ethics to judgment. The logic is covenantal: present posture is intelligible only under the coming reign, and opposition becomes a marker of alignment with that reign when it is “for my sake.”",
+        "lines": [
+          3,
+          10,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative moves from oracle to concealment: God both authorizes the public word and controls its exposure. The prophet’s efficacy is real, but it is governed—he is deployed, then hidden, so that power is seen as derivative rather than self-possessed.",
+        "lines": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "Provision is arranged in a place of withdrawal, not in the court where the conflict began. The text frames survival as obedience to a location (“there”), making geography part of vocation: fidelity includes where one is told to be.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prophet speaks weather as verdict; oath (“As the Lord liveth”) makes climate a courtroom.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“In whose sight I stand”: authority is proximity, not office; standing replaces argument.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“According to the words of my mouth”: scandalous mediation—creation obeys a human tongue under God.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "After public confrontation: exile by command. The prophet is removed from the stage he just seized.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Torrent for drink, ravens for bread: purity codes inverted; unclean carriers become liturgy of provision.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Morning/evening rationing: wilderness rhythm; dependence scheduled, not improvised.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He climbs, then sits: ascent without spectacle; authority takes the posture of judgment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Opening his mouth”: deliberate speech-act; blessing is not sentiment but decree.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kingdom given to “poor in spirit”: emptiness as title-deed; possession by dispossession.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Meek inherit land: conquest logic reversed; the non-assertive receive what force cannot secure.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hunger for justice: desire treated as evidence; appetite becomes moral index.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Clean heart yields vision: epistemology is ethical; sight is granted, not achieved.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Persecution “for justice’ sake”: suffering is not proof; the cause is the criterion.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prophets as precedent: the blessed are drafted into a history of rejection.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and accomplish it with your help. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, you have brought us to the beginning of this day; save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you are the one who assigns the tasks and gives the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to help us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Elias the Thesbite, of the inhabitants of Galaad, said to Achab: As the Lord liveth, the God of Israel, in whose sight I stand, there shall not be dew nor rain these years, but according to the words of my mouth.",
+        "And the word of the Lord came to him, saying:",
+        "Get thee hence, and go towards the east, and hide thyself by the torrent of Carith, which is over against the Jordan;",
+        "And there thou shalt drink of the torrent: and I have commanded the ravens to feed thee there.",
+        "So he went, and did according to the word of the Lord: and going, he dwelt by the torrent Carith, which is over against the Jordan.",
+        "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the torrent."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 17:1-6",
+      "reference": "1 Kings 17:1-6",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him.",
+        "And opening his mouth he taught them, saying:",
+        "Blessed are the poor in spirit: for theirs is the kingdom of heaven. The poor in spirit... That is, the humble; and they whose spirit is not set upon riches.",
+        "Blessed are the meek: for they shall possess the land.",
+        "Blessed are they that mourn: for they shall be comforted.",
+        "Blessed are they that hunger and thirst after justice: for they shall have their fill.",
+        "Blessed are the merciful: for they shall obtain mercy.",
+        "Blessed are the clean of heart: they shall see God.",
+        "Blessed are the peacemakers: for they shall be called the children of God.",
+        "Blessed are they that suffer persecution for justice' sake: for theirs is the kingdom of heaven.",
+        "Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake:",
+        "Be glad and rejoice for your reward is very great in heaven. For so they persecuted the prophets that were before you."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:1-12",
+      "reference": "Matthew 5:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 10th week of Ordinary Time",
+        "key": "mondayOfThe10thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/08.html",
+    "title": "Gospel and Word of the Day - 08 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-08"
+}
