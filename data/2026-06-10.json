@@ -1,0 +1,292 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "96051d1104da7a1844dc8cbf5e26eda9d4fbc36426ab5bd29b3eee7b75a8edae",
+        "inputSha256": "991cf4687a24de92ad8d53e5f6dcea393eb9bb80d625c8aaee6bb0ca99debe3a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7cf0e6471b554ecade2e197ae7a982d0f999b1bbb277669c0df8568c7fa5422c",
+        "inputSha256": "59ed3c3ced05c7c767c83884efb61ff6573bff9712bebffbc62ff6ea0d9fb946",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d1e0ef78840a829a95bd594efb2c99943304c31eb9c457f7fc1cff7ebf4e2b8a",
+        "inputSha256": "d13d5dc3dee0aaf18c3f8a2d3c1e0789c62bcd6e16be5c8ed523e11f4d559bab",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-10T01:57:39.872Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Carmel reads like a laboratory of longing: a whole crowd outsourcing certainty to spectacle, then going mute when asked to choose. Elijah’s mockery is less cruelty than exposure; the rival rite escalates into self-wounding, a psychology of devotion that turns pain into proof when the god stays silent. The drenched altar is a deliberate sabotage of human trickery, a wager against manipulation; when fire comes anyway, it lands as an intervention that reorganizes attention and ends dissociation. This resembles the Vedic agni as witness and carrier of offering, with the crucial inversion that the fire is not coaxed but arrives unbiddable. Speculation: it also echoes Zen’s koan-cut, where a teacher corners the mind until it drops its evasions, and the “answer” is a sudden, total reorientation.\n\nMatthew’s insistence on fulfillment is a claim about continuity of the self: not abolishing inherited form but completing its intent, like Confucian li made humane by ren. The “jot and tittle” feels akin to halakhic precision and to Islamic adab, where small acts train the whole person; greatness is not brilliance but integrity between doing and teaching. Speculation: it parallels the Bhagavad Gita’s move from rule-bound action to action that realizes its inner telos, without contempt for the rule.",
+    "excursus": "Carmel is not a debate; it’s a staged exorcism of indecision. Elijah doesn’t ask Israel to think, he asks them to stop stalling. The silence of the crowd is the real idol: a desire to keep every option open, to never be caught wanting the wrong god. So he offers them spectacle, because only a shock can break the erotic attachment to ambivalence.\n\nThe Baal prophets perform the psychology of a failing relationship: louder calls, more effort, then self-harm to purchase attention. Elijah’s cruelty is surgical. He names the humiliation everyone fears—that the beloved is absent, distracted, asleep—and forces the illusion to collapse in public. When his fire arrives it is not gentle proof; it is total consumption, even of stone and dust, a god who doesn’t merely answer but overruns boundaries. The people fall down not because they’ve understood, but because they’ve been overwhelmed.\n\nMatthew’s Jesus keeps that same pressure, but internalizes it. “Fulfil” means the law doesn’t loosen; it tightens around the psyche until there’s nowhere to hide. Not one stroke passes: the demand persists, not as tradition to admire, but as an unrelenting claim on desire and action. Greatness is not insight; it is obedience that teaches, the kind that leaves you exposed, unable to keep halting between two sides.",
+    "synthesis": "God’s self-disclosure judges rival worship by response, and Christ’s fulfillment secures the law’s authority by bringing it to its intended end. True greatness is measured by obedience that is taught because it is lived.",
+    "gospel": [
+      {
+        "text": "Jesus positions himself as the telos of Torah and prophets, making continuity a christological claim: the law’s permanence is secured by its fulfillment in him. The warning about “least commandments” targets interpretive authority—teaching is never neutral—and ties eschatological status to fidelity enacted, not merely asserted.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Carmel is staged as public adjudication: king convenes, prophet stands alone, and the crowd’s initial silence exposes a political-religious vacuum. The contest is not between equal cults but between a deity who answers and a system that must manufacture intensity to simulate presence. Elijah’s approach is juridical—terms, witnesses, timing—then explicitly subordinated to command (line 17), so the outcome reads as verdict rather than spectacle.",
+        "lines": [
+          1,
+          3,
+          5,
+          10,
+          11,
+          17
+        ]
+      },
+      {
+        "text": "The stated aim is cognitive and moral reversal—“that thou hast turned their heart again”—so the miracle functions as conversion of allegiance, not entertainment. The people’s prostration and acclamation are the narrative’s closure: confession follows manifestation, and the community is reconstituted by a single sentence.",
+        "lines": [
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The question is not belief but locomotion: stop limping between altars.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Litany without reply; choreography replaces communion.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mockery as theology: a god who can be interrupted is already judged.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blood offered to silence; self-harm as sacrament of impotence.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Twelve stones: unity rebuilt before fire; worship begins as re-membering.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Water against ignition: the sign is engineered to exclude suspicion.",
+      "lines": [
+        15,
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fire eats past the offering—wood, stone, dust, water—total claim, no residue.",
+      "lines": [
+        19
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Not demolition but completion: the old is kept by being surpassed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jot and tittle: the kingdom counts letters; contempt starts small.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rank is pedagogy embodied: doing and teaching fuse; breaking and teaching fractures.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source of every good, hear our supplications without ceasing and grant that, inspired by you, we may think what is right and accomplish it with your help. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Send, Lord, into our hearts the abundance of your light, so that, always advancing along the path of your commandments, we may be freed from every error. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your name is holy, and your mercy reaches your faithful from generation to generation; therefore hear the supplications of your people and grant that they may proclaim your greatness for ever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Achab sent to all the children of Israel, and gathered together the prophets unto mount Carmel.",
+        "And Elias coming to all the people, said: How long do you halt between two sides? If the Lord be God, follow him: but if Baal, then follow him. And the people did not answer him a word.",
+        "And Elias said again to the people: I only remain a prophet of the Lord: but the prophets of Baal are four hundred and fifty men.",
+        "Let two bullocks be given us, and let them choose one bullock for themselves, and cut it in pieces, and lay it upon wood, but put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under it.",
+        "Call ye on the names of your gods, and I will call on the name of my Lord: and the God that shall answer by fire, let him be God. And all the people answering, said: A very good proposal.",
+        "Then Elias said to the prophets of Baal: Choose you one bullock and dress it first, because you are many: and call on the names of your gods; but put no fire under.",
+        "And they took the bullock, which he gave them, and dressed it: and they called on the name of Baal from morning even until noon, saying: O Baal, hear us. But there was no voice, nor any that answered: and they leaped over the altar that they had made.",
+        "And when it was now noon, Elias jested at them, saying: Cry with a louder voice: for he is a god; and perhaps he is talking, or is in an inn, or on a journey; or perhaps he is asleep, and must be awaked.",
+        "So they cried with a loud voice, and cut themselves after their manner with knives and lancets, till they were all covered with blood.",
+        "And after midday was past, and while they were prophesying, the time was come of offering sacrifice, and there was no voice heard, nor did any one answer, nor regard them as they prayed.",
+        "Elias said to all the people: Come ye unto me. And the people coming near unto him, he repaired the altar of the Lord, that was broken down:",
+        "And he took twelve stones, according to the number of the tribes of the sons of Jacob to whom the word of the Lord came, saying: Israel shall be thy name.",
+        "And he built with the stones an altar to the name of the Lord: and he made a trench for water, of the breadth of two furrows, round about the altar.",
+        "And he laid the wood in order, and cut the bullock in pieces, and laid it upon the wood.",
+        "And he said: Fill four buckets with water, and pour it upon the burnt offering, and upon the wood. And again he said: Do the same the second time. And when they had done it the second time, he said: Do the same also the third time. And they did so the third time.",
+        "And the water run round about the altar, and the trench was filled with water.",
+        "And when it was now time to offer the holocaust, Elias, the prophet, came near and said: O Lord God of Abraham, and Isaac, and Israel, shew this day that thou art the God of Israel, and I thy servant, and that according to thy commandment I have done all these things.",
+        "Dear me, O Lord, hear me: that this people may learn that thou art the Lord God, and that thou hast turned their heart again.",
+        "Then the fire of the Lord fell, and consumed the holocaust, and the wood, and the stones, and the dust, and licked up the water that was in the trench.",
+        "And when all the people saw this, they fell on their faces, and they said: The Lord, he is God; the Lord, he is God."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 18:20-39",
+      "reference": "1 Kings 18:20-39",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfil. To fulfil... By accomplishing all the figures and prophecies; and perfecting all that was imperfect.",
+        "For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled. Amen... That is, assuredly of a truth... This Hebrew word, amen, is here retained by the example and authority of all the four Evangelists. It is used by our Lord as a strong asseveration, and affirmation of the truth.",
+        "He therefore that shall break one of these least commandments, and shall so teach men shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:17-19",
+      "reference": "Matthew 5:17-19",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 10th week of Ordinary Time",
+        "key": "wednesdayOfThe10thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/10.html",
+    "title": "Gospel and Word of the Day - 10 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-10"
+}
