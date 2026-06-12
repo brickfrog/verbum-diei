@@ -1,0 +1,238 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "edfc8e4836c06edf929a6720b159b4c0a9eed9a94081fe73990d44171a9e3d8f",
+        "inputSha256": "163af67a36dd0b1cc71337a9b33789dffe917a31b10a76ea08dd8281181384df",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "56b58e418923bf4e12730da2c2ded4268c8eab4d79f524b51ad6170a1f688d0c",
+        "inputSha256": "a26e83dc95769025939dd380083ddfbdc71133bf45c7cf803365e70987960afe",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d2d41448fb423160744eec6ed7f72573ec07b66afdb39992afe838a502e6ab9f",
+        "inputSha256": "b686baa273b39c325fc22e9f76dc815362dfcb41d9b443c92c2c410122cb0b55",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-12T02:00:38.709Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “chosen few” reads like a psychology of attachment: a small, vulnerable group binds itself to a protecting presence, and loyalty becomes the price of safety. That pattern has close cousins in Roman pietas, where fidelity to a pledged bond sustains a people, and in Confucian ren, where moral order is carried by faithful relations rather than sheer force.\n\n“Hidden from the wise, revealed to little ones” echoes Zen’s suspicion of cleverness and Sufi praise of the faqir, the one emptied of pretension; both treat unknowing as a doorway. Speculation: the “yoke” as sweet discipline resembles the Bhagavad Gita’s yoga as a harnessing that frees, and the Stoic idea that consenting to necessity makes the load lighter.\n\nThe mutual knowing of Father and Son, and knowledge given by grace, has a parallel in Vedanta’s claim that the Self is known by the Self, not by argument, and in Plotinus’ ascent where the One is reached by a kind of inward recognition. Speculation: the “rest” offered is akin to nirvana as cessation of inner friction, not escape from life but a new way of bearing it.",
+    "excursus": "Deuteronomy sells chosenness as love, but it reads like possession. “Peculiar people” is the language of a collector, and the proof of affection is extraction: a strong hand, a broken Pharaoh, a people remade by force. You are chosen because you are few, meaning manageable. The covenant is tenderness with teeth: mercy for “a thousand generations,” but repayment “forthwith” for hatred. Love here is surveillance, an intimacy that cannot tolerate indifference.\n\nMatthew turns that same logic inward. The “wise and prudent” are not punished for arrogance; they are simply locked out, as if insight were a private room and the key is withheld on purpose. Revelation becomes a controlled leak, granted to “little ones” because they are pliable, because they don’t negotiate. Then the seduction: rest, refreshment, sweetness. But the offer is not freedom; it is a yoke. The burden is called light because the speaker has already claimed ownership of “all things.” The relief is real, and that is the danger: exhaustion makes submission feel like mercy, and desire for rest becomes the doorway through which authority enters the soul.",
+    "synthesis": "God’s election and revelation are gratuitous acts that create a people under covenantal obligation. Christ’s lordship grants true knowledge of the Father and turns commanded obedience into restful discipleship under his yoke.",
+    "gospel": [
+      {
+        "text": "The movement is from divine pleasure (“so it seemed good”) to an open summons (“come”) to a re-description of constraint (“yoke… light”). The text does not abolish discipline; it relocates it inside communion with the one who gives rest, making rest a function of relation rather than circumstance.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage binds identity to obligation: covenant fidelity is presented as the stable architecture of history, and command-keeping is the concrete form that “chosen” must take. The promise stretches to “a thousand generations,” making obedience a transgenerational claim rather than a private ethic.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Holiness is not an achievement but a designation; “peculiar” marks ownership, not oddity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Election contradicts demographic logic; the few are chosen against the arithmetic of power.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is tethered to oath; redemption is political language—hand, house, king—turned into theology.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy has a horizon; retribution has a deadline. The text refuses a slow God.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation is an inversion of epistemic status: concealment from “wise,” disclosure to “little.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge of God is not discovery but permission; the Son controls access.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The yoke remains; the difference is the teacher’s posture—meekness redefines authority.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the benefits of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the benefits of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the blessings of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the benefits of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the blessings of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the benefits of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Because thou art a holy people to the Lord thy God. The Lord thy God hath chosen thee, to be his peculiar people of all peoples that are upon the earth.",
+        "Not because you surpass all nations in number, is the Lord joined unto you, and hath chosen you, for you are the fewest of any people:",
+        "But because the Lord hath loved you, and hath kept his oath, which he swore to your fathers: and hath brought you out with a strong hand, and redeemed you from the house of bondage, out of the hand of Pharao the king of Egypt.",
+        "And thou shalt know that the Lord thy God, he is a strong and faithful God, keeping his covenant and mercy to them that love him, and to them that keep his commandments, unto a thousand generations:",
+        "And repaying forthwith them that hate him, so as to destroy them, without further delay immediately rendering to them what they deserve.",
+        "Keep therefore the precepts and ceremonies and judgments, which I command thee this day to do."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Deuteronomy 7:6-11",
+      "reference": "Deuteronomy 7:6-11",
+      "heading": "A reading from the Book of Deuteronomy",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that time Jesus answered and said: I confess to thee, O Father, Lord of Heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them to little ones.",
+        "Yea, Father: for so hath it seemed good in thy sight.",
+        "All things are delivered to me by my Father. And no one knoweth the Son but the Father: neither doth any one know the Father, but the Son, and he to whom it shall please the Son to reveal him.",
+        "Come to me all you that labor and are burdened, and I will refresh you.",
+        "Take up my yoke upon you, and learn of me, because I am meek, and humble of heart: And you shall find rest to your souls.",
+        "For my yoke is sweet and my burden light."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 11:25-30",
+      "reference": "Matthew 11:25-30",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Sacred Heart of Jesus",
+        "key": "sacredHeartOfJesus"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/12.html",
+    "title": "Gospel and Word of the Day - 12 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-12"
+}
