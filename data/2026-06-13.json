@@ -1,0 +1,196 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "006f5ad59f2035045292026721edba031070de013274fae3554f5a226fb5755f",
+        "inputSha256": "e9bb606b9b24ec2d3d4d93af58afdc258435f99752a94f8953f39abef4a03421",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "42d5a6d0560d3b5de7b6949eafcc6842d541424f8166c803a1041b083edc879b",
+        "inputSha256": "ee8f6ddb21915d30c4eab3dd39b4066a974ce8f513c53c596708612ac22533e4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "de5650cdd5325535f739eea3792af18e137c28793a7022f6667559220b3dc9b5",
+        "inputSha256": "8cf66902df6e5b1633ef27fe7287daf05d52e02238fc5100c96cbd868cb91aef",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-13T01:57:14.488Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The thrown mantle is a sudden transmission of vocation: identity arrives from outside, lands on the body, and reorganizes desire. Psychologically it resembles an initiatory “call” that bypasses deliberation; the self is recruited before it can negotiate. In Zen it echoes mind-to-mind transmission marked by a robe; in Sufism the khirqa placed on a disciple; in Tibetan Buddhism the guru’s empowerment; in Hindu renunciation the saffron cloth; in Roman civic life the toga as social reclassification. Speculation: the garment works as an externalized superego—an adopted authority that becomes interior.\n\nThe request to kiss parents is not sentimentality but a last tether to the old narrative. The prophet’s cool permission forces the choice to be owned: no coercion, no romance, just the clean space where commitment shows its weight. This resembles the Bhagavad Gita’s demand to act without clinging, and the Stoic exercise of consenting to fate without complaint.\n\nThe slaughter and cooking with the plough is a deliberate burning of bridges: the tools of livelihood become fuel, the animals of work become feast. It is a public, irreversible conversion of capital into gift, like a potlatch, like the Buddhist act of giving away one’s bowl, like the Sufi who distributes his goods before taking the road. Speculation: it is a ritualized severing of the old self, turning productivity into sacrifice so the new allegiance cannot be treated as a hobby.\n\nTo “minister” is the final psychological turn: the new identity is stabilized through service, not status. It parallels the bodhisattva’s vow to remain near suffering, and the monastic novice who becomes a servant of the rule before becoming a bearer of it.",
+    "excursus": "This is not a clean vocation story; it’s a kidnapping with consent, a seduction staged as command. Elijah doesn’t argue or persuade. He throws a mantle like a net. The gesture is intimate, invasive, wordless: a claim laid on the body before the mind can negotiate.\n\nElisha’s first move is not obedience but delay, the last reflex of the old life: let me kiss my parents. Elijah’s reply is cold, almost contemptuous. He refuses responsibility for what he has triggered. I touched you; the rest is your problem. That emotional abandonment is the hook. Elisha is left to prove he really wants it.\n\nSo he performs a brutal, theatrical severing. He kills the oxen that were his future and burns the plough that was his identity. He feeds the village with the wreckage of his own livelihood, turning work into a funeral meal. It reads like generosity, but it’s also a scorched-earth tactic: no going back, no tools left to relapse into safety.\n\nThen the final word: he ministers. The promised greatness collapses into service, into proximity, into the long apprenticeship of desire under a man who will not reassure him. The dread is that the call is real; the deeper dread is that it is also arbitrary, and once chosen it demands not just sacrifice but self-erasure.",
+    "synthesis": "Divine calling is effected by God’s initiative and confirmed by the called one’s irreversible renunciation of rival claims.",
+    "gospel": [],
+    "reading": [
+      {
+        "text": "The scene stages succession without institution: a prophet makes a prophet by sign and by the candidate’s self-dispossession. The narrative’s logic is not “join a movement” but “transfer a burden,” and the transfer is ratified socially by a meal that converts private renunciation into public fact.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The text treats family and property as legitimate goods that become liabilities when they retain a claim on the future. Elisha’s act is not ascetic display but a juridical severance: he removes competing titles to his life so that service can be unambiguous.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Twelve yoke: abundance harnessed; vocation interrupts labor, not leisure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mantle thrown, not offered; election arrives as contact, not argument.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The request to kiss: piety as delay; affection tested by summons.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Elias’ reply is a riddle: the call is already done; consent must catch up.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He slaughters the means of return; vocation secured by irreversible loss.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Plough becomes fuel: the old instrument feeds the new obedience.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who prepared in the Heart of the Virgin Mary a worthy dwelling for the Holy Spirit, grant that we, through the intercession of the Virgin, may come to be temples worthy of your glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who prepared in the Heart of the Virgin Mary a worthy dwelling for the Holy Spirit, grant that we, through the intercession of the Virgin, may come to be temples worthy of your glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who prepared in the Heart of the Virgin Mary a worthy dwelling for the Holy Spirit, grant that we, through the intercession of the Virgin, may come to be worthy temples of your glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Elias departing from thence, found Eliseus, the son of Saphat, ploughing with twelve yoke of oxen: and he was one of them that were ploughing with, twelve yoke of oxen: and when Elias came up to him, he cast his mantle upon him.",
+        "And he forthwith left the oxen, and run after Elias, and said: Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said to him: Go, and return back: for that which was my part, I have done to thee.",
+        "And returning back from him, he took a yoke of oxen, and killed them, and boiled the flesh with the plough of the oxen, and gave to the people, and they ate: and rising up, he went away, and followed Elias, and ministered to him."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 19:19-21",
+      "reference": "1 Kings 19:19-21",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "FEAST",
+        "name": "Immaculate Heart of Mary",
+        "key": "immaculateHeartOfMary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/13.html",
+    "title": "Gospel and Word of the Day - 13 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-13"
+}
