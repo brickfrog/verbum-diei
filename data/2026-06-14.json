@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0cedb8783c008333da30fd50c3e9c29737b7f487429b5f9f980d20c3b362d227",
+        "inputSha256": "fb31596fff2d349638fb5ccf4a16ad3a89f66472966ec926f974910f9d88c9d0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "09a55d99f32c0a5fb17495df8fd15f08548c7fd328f94fc8828a1970385cae92",
+        "inputSha256": "d7366df94c67a32b831973e576b40f7ae28350f52e1ce6ab098996b766c29cd7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f8b598ebc86b0eef877c523d2929cd4dcb32959c849d64fe8f5626324b9058af",
+        "inputSha256": "1056ffbed0ed7e218f291e0a8c1f1d71a9d8308f90f1c858be1bbd20ef9b2cb1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-14T02:01:28.172Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Sinai reads like the founding of a people through a chosen intimacy: not a tribe winning a god, but a god adopting a tribe, then asking for a disciplined hearing that turns identity into vocation. That “priestly kingdom” is a psychological promotion with a cost: you’re singled out, therefore watched, therefore responsible for mediating meaning to everyone else. It resembles the Hindu sense of dharma as a role that binds and elevates; also the Confucian junzi ideal where moral cultivation makes one a conduit of order. Speculation: the “eagles’ wings” motif echoes shamanic flight imagery in Siberian traditions, where being carried signals initiation into service.\n\nThe compassion scene shifts from covenant to triage. The crowd is not wicked; it’s unheld, unorganized, leaderless. The “harvest” is an image of surplus human need and latent ripeness: the world is ready, the caretakers are scarce. That scarcity is answered not by abstract teaching but by delegated agency: a small circle receives authority to push back chaos in bodies and minds. This parallels the Buddhist bodhisattva vow in its refusal to hoard insight; also the Daoist healer-exorcist lineage where transmitted power is meant for relief, not status. The restriction to Israel first reads as a therapeutic boundary: begin where the language, symbols, and trust already exist, then widen later; comparable to how rabbinic pedagogy and Sufi tariqas often start with an in-group discipline before universalizing.\n\n“Freely received, freely give” matches the Sikh langar ethic and the Jain ideal of non-possessive generosity: gift as purification from the self that wants to own its power. Speculation: it also resembles the Greek medical ethos—knowledge as a public duty—before it became a commodity.",
+    "excursus": "Sinai is not a wedding; it’s a recruitment speech delivered at the foot of a weapon. God reminds them of Egypt not to soothe but to brand: I can break empires, and I can carry you, so you will belong to me. “All the earth is mine” is the line that makes the promise curdle. The covenant is desire dressed as law: be my peculiar possession, and I will call it holiness. Israel is offered dignity, but it’s the dignity of being useful—an entire people turned into priestly function, intimacy achieved by conscription.\n\nMatthew turns the same pressure inward. Jesus looks at the crowd and feels compassion, but compassion here is not gentleness; it is urgency that cannot wait for consent. The sheep without a shepherd are not free; they are exposed, and exposure demands management. So he makes managers. He names them one by one, like a roll call in a draft, and he includes Judas, the leak inside the system, as if betrayal is part of the design.\n\nThen the boundary: don’t go to Gentiles, don’t go to Samaritans. The kingdom arrives first as a closed circuit, a triage ward for a collapsing nation. The miracles are not ornaments; they are instruments—exorcism, healing, even raising the dead—signs that the new regime has jurisdiction over bodies. “Freely you have received, freely give” sounds like generosity, but it also sounds like debt: you were given power, now spend yourself. The dread is that being chosen is indistinguishable from being used, and the desire is that being used might finally feel like being held.",
+    "synthesis": "God forms a people by covenant and then extends his reign by commissioned agents. Divine compassion does not remain sentiment; it becomes delegated authority ordered toward holiness and restoration.",
+    "gospel": [
+      {
+        "text": "Prayer for workers is immediately answered by commissioning; petition becomes participation. The initial restriction to Israel is strategic sequencing: the kingdom arrives first to the covenant people, then expands outward, but always by sent agents rather than spontaneous diffusion.",
+        "lines": [
+          3,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The naming of individuals makes the mission concrete and accountable: authority is attached to persons, not ideals, and the community’s future will hinge on identifiable witnesses.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is vertical and mediated: ascent, summons, speech, then transmission. Revelation is not crowdsourced; it is received and then legislated to a people.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The covenant forms a corporate identity with a purpose: Israel is constituted as God’s instrument among the nations precisely because the whole world already belongs to him; election is for service under ownership, not exemption from it.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Camped “over against” the mountain: proximity without access; geography as boundary.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eagle-wings: rescue as transport; salvation described as relocation into possession.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conditional election: “If… keep” precedes “peculiar possession”; the Owner claims all earth while selecting one.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A nation turned liturgy: polity redefined as priesthood; holiness as public vocation, not private mood.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Compassion begins with diagnosis: “distressed… lying” — collapse, not mere ignorance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Harvest without labourers: abundance becomes crisis when agency is scarce.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority delegated against impurity and decay; the mission is an assault on disorder.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The betrayer is named inside the list: the apostolic body contains its own wound.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Gift forbids monetization: “freely received” sets the economy of the kingdom.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications; and since man is frail and without you can do nothing, grant us the help of your grace, that we may keep your commandments and please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For departing out of Raphidim, and coming to the desert of Sinai, they camped in the same place, and there Israel pitched their tents over against the mountain.",
+        "And Moses went up to God; and the Lord called unto him from the mountain, and said: Thus shalt thou say to the house of Jacob, and tell the children of Israel: And Moses went up to God... Moses went up to mount Sinai, where God spoke to him.",
+        "You have seen what I have done to the Egyptians, how I have carried you upon the wings of eagles, and have taken you to myself.",
+        "If therefore you will hear my voice, and keep my covenant, you shall be my peculiar possession above all people: for all the earth is mine.",
+        "And you shall be to me a priestly kingdom, and a holy nation. These are the words thou shalt speak to the children of Israel."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Exodus 19:2-6",
+      "reference": "Exodus 19:2-6",
+      "heading": "A reading from the Book of Exodus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And seeing the multitudes, he had compassion on them: because they were distressed, and lying like sheep that have no shepherd.",
+        "Then he saith to his disciples, The harvest indeed is great, but the labourers are few.",
+        "Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest.",
+        "And having called his twelve disciples together, he gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities.",
+        "And the names of the twelve Apostles are these: The first, Simon who is called Peter, and Andrew his brother,",
+        "James the son of Zebedee, and John his brother, Philip and Bartholomew, Thomas and Matthew the publican, and James the son of Alpheus, and Thaddeus,",
+        "Simon the Cananean, and Judas Iscariot, who also betrayed him.",
+        "These twelve Jesus sent: commanding them, saying: Go ye not into the way of the Gentiles, and into the city of the Samaritans enter ye not.",
+        "But go ye rather to the lost sheep of the house of Israel.",
+        "And going, preach, saying: The kingdom of heaven is at hand.",
+        "Heal the sick, raise the dead, cleanse the lepers, cast out devils: freely have you received, freely give."
+      ],
+      "lineRefs": [
+        "9:36",
+        "9:37",
+        "9:38",
+        "10:1",
+        "10:2",
+        "10:3",
+        "10:4",
+        "10:5",
+        "10:6",
+        "10:7",
+        "10:8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:36—10:8",
+      "reference": "Matthew 9:36—10:8",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "11th Sunday of Ordinary Time",
+        "key": "11ThSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/14.html",
+    "title": "Gospel and Word of the Day - 14 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-14"
+}
