@@ -1,0 +1,302 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "95d397d5781c5f428af3c70e4613cc6585315ab642aa2178b2c5b088653fffc7",
+        "inputSha256": "9ffa1ced864f1aa0eb7fecd65d78bf966a032513edc991fbcf666a23ab1e1078",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8259ebdbb31ee41bbcf1be961e2487a0cbfb834d8215f19870a25e76e7418291",
+        "inputSha256": "ef3ac2332b3e8f967b6f4679974d0037cec1840401dfe871931f3ffb32ca7d66",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2e3522cef97b29cf81cde1652b398e160ccc4fd55980e5873fa3ad9c616ba353",
+        "inputSha256": "5e5819e4c2e3524ff5dd6a839586e03ba00e8210954dd473f9ee7ca65540eacf",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-15T02:04:02.931Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Naboth’s refusal reads like the Roman idea of res sacrae and ancestral land as a moral boundary the state should not price; Ahab’s sulk is the child-king fantasy that desire is entitlement, and Jezebel supplies the bureaucratic technology to convert appetite into “law.” The staged fast resembles Girard’s scapegoat mechanism: a community purifies itself by unanimous violence, laundering theft into righteousness. Speculation: it also echoes the Athenian fear of sycophants, where paid accusation becomes a civic instrument for private gain.\n\nThe “other cheek” sits close to ahimsa in Jainism and the Buddhist training in non-reactivity, not as passivity but as refusal to let injury recruit you into the same circuitry. It also resembles Taoist wu-wei as social judo: by not meeting force with force, you deny the aggressor the drama that justifies escalation. Speculation: like Gandhi’s satyagraha, it treats suffering as a kind of public speech that exposes coercion’s dependence on your participation.",
+    "excursus": "Ahab wants a vineyard the way a child wants a toy: not for need, for nearness. “Nigh, and adjoining” is the whole argument. Naboth’s refusal isn’t stubbornness; it’s libido for the past, the inheritance that makes his life feel continuous. Ahab collapses into bed like a man discovering he can’t buy what would soothe him.\n\nJezebel reads his sulk as a crisis of masculinity. She doesn’t just get him the land; she restores the fantasy that power can erase refusal. The fast is the masterstroke: a public performance of piety used as a murder weapon. The city’s elders comply because the lie is convenient; they prefer the clean ritual of stoning to the messy truth that a neighbor’s “no” is sacred.\n\nThen Jesus arrives sounding like the antidote, but he also sounds like the nightmare. Don’t resist evil; yield more than is demanded; give to the asker. In a world of Ahabs and Jezebels, that counsel can be read as training the Naboths of history to cooperate with their own dispossession. The other cheek becomes a second signature on the forged letter.\n\nBut there’s a darker defiance inside it: refusal to let the oppressor choose the script. The extra cloak, the second mile, the open hand aren’t capitulation; they’re an exposure, a way of making greed visible by feeding it until it chokes. Ahab goes down to take possession; the teaching dares you to stand there, empty-handed, and make his taking look like what it is.",
+    "synthesis": "God’s justice is not the management of equivalent harms but the renunciation of vengeance and the refusal to commodify what is given as inheritance. When authority and community sanctify theft through procedure, the disciple’s counter-law is voluntary loss rather than retaliatory gain.",
+    "gospel": [
+      {
+        "text": "Jesus does not refine talion; he displaces it with a pattern of non-competitive action that refuses to let the offender set the terms of the self. The examples move from insult to court to forced labor to begging, mapping escalating claims on body, goods, time, and resources; the disciple answers each by acting from a different economy than equivalence.",
+        "lines": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative turns on a collision of jurisdictions: palace proximity versus ancestral tenure. Ahab’s offer is framed as reasonable exchange, but it presumes the crown can redefine what Israel treats as allotted and bounded; Jezebel supplies the missing premise—kingship as sheer capacity to get what it wants.",
+        "lines": [
+          1,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The city’s elders function as the real engine: they translate a private desire into public verdict, then report upward like clerks. The sequence—verdict, notification, possession—shows how violence hides behind procedure; the vineyard is acquired not by conquest but by paperwork and communal compliance.",
+        "lines": [
+          11,
+          14,
+          15,
+          16
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The king speaks in market terms; he wants to rezone an inheritance into a herb-garden.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal is theological, not economic: land as fathers’ portion, not a commodity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Royal power reduced to sulking appetite; the wall gets his face, bread gets refused.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The ring makes murder administrative; authority becomes a stamp.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A fast is proclaimed to sanctify a theft; piety as staging.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two witnesses purchased; God and king fused into one charge to kill the inconvenient.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Outside the city: expulsion precedes execution; the community performs its own lie.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Measured retaliation: justice as arithmetic.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The command targets the reflex to answer injury with symmetry; it breaks the mirror.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Litigation becomes a place to lose on purpose; property is treated as detachable.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Compulsion is met with surplus; coercion is answered by voluntary excess.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Open hand as policy: refusal is the default being revoked.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications; and since man is frail and without you can do nothing, grant us the help of your grace, that we may keep your commandments and please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, King of heaven and earth, direct and sanctify this day our bodies and our hearts, our senses, words, and actions, according to your law and your commandments; so that, with your help, we may attain salvation now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the work without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who are rightly called the unfailing light, enlighten our spirit at this evening hour, and deign in your kindness to forgive our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and bear fruit for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And after these things, Naboth the Jezrahelite, who was in Jezrahel, had at that time a vineyard, near the palace of Achab, king of Samaria.",
+        "And Achab spoke to Naboth, saying: Give me thy vineyard, that I may make me a garden of herbs, because it is nigh, and adjoining to my house; and I will give thee for it a better vineyard: or if thou think it more convenient for thee, I will give thee the worth of it in money.",
+        "Naboth answered him: The Lord be merciful to me, and not let me give thee the inheritance of my fathers.",
+        "And Achab came into his house angry and fretting, because of the word that Naboth, the Jezrahelite, had spoken to him, saying: I will not give thee the inheritance of my fathers. And casting himself upon his bed, he turned away his face to the wall, and would eat no bread.",
+        "And Jezabel, his wife, went in to him, and said to him: What is the matter that thy soul is so grieved? and why eatest thou no bread?",
+        "And he answered her: I spoke to Naboth, the Jezrahelite, and said to him: Give me thy vineyard, and take money for it: or if it please thee, I will give thee a better vineyard for it. And he said: I will not give thee my vineyard.",
+        "Then Jezabel, his wife, said to him. Thou art of great authority indeed, and governest well the kingdom of Israel. Arise, and eat bread, and be of good cheer; I will give thee the vineyard of Naboth, the Jezrahelite.",
+        "So she wrote letters in Achab's name, and sealed them with his ring, and sent them to the ancients, and the chief men that were in his city, and that dwelt with Naboth.",
+        "And this was the tenor of the letters: Proclaim a fast, and make Naboth sit among the chief of the people;",
+        "And suborn two men, sons of Belial, against him, and let them bear false witness; that he hath blasphemed God and the king: and then carry him out, and stone him, and so let him die.",
+        "And the men of his city, the ancients and nobles, that dwelt with him in the city, did as Jezabel had commanded them, and as it was written in the letters which she had sent to them;",
+        "They proclaimed a fast, and made Naboth sit among the chief of the people.",
+        "And bringing two men, sons of the devil, they made them sit against him: and they, like men of the devil, bore witness against him before the people: saying: Naboth hath blasphemed God and the king. Wherefore they brought him forth without the city, and stoned him to death.",
+        "And they sent to Jezabel, saying: Naboth is stoned, and is dead.",
+        "And it came to pass, when Jezabel heard that Naboth was stoned, and dead, that she said to Achab: Arise, and take possession of the vineyard of Naboth, the Jezrahelite, who would not agree with thee, and give it thee for money: for Naboth is not alive, but dead.",
+        "And when Achab heard this, to wit, that Naboth was dead, he arose, and went down into the vineyard of Naboth, the Jezrahelite, to take possession of it."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 21:1-16",
+      "reference": "1 Kings 21:1-16",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "You have heard that it hath been said: An eye for an eye, and a tooth for a tooth.",
+        "But I say to you not to resist evil: but if one strike thee on thy right cheek, turn to him also the other: Not to resist evil, etc... What is here commanded, is a Christian patience under injuries and affronts, and to be willing even to suffer still more, rather than to indulge the desire of revenge: but what is further added does not strictly oblige according to the letter, for neither did Christ nor St. Paul turn the other cheek. St. John 18., and Acts 23.",
+        "And if a man will contend with thee in judgment, and take away thy coat, let go thy cloak also unto him.",
+        "And whosoever will force thee one mile, go with him other two.",
+        "Give to him that asketh of thee, and from him that would borrow of thee turn not away."
+      ],
+      "lineRefs": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 5:38-42",
+      "reference": "Matthew 5:38-42",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 11th week of Ordinary Time",
+        "key": "mondayOfThe11ThWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/15.html",
+    "title": "Gospel and Word of the Day - 15 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-15"
+}
