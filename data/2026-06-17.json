@@ -1,0 +1,314 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "00fc2e09c139fcd3a768c4cd36da365c9b351974d877b3f1c30de2bd4256f183",
+        "inputSha256": "5709bf03a6eef2dcf9bf2a70a32df0d555f45b099674d73be10b930d0d75bebf",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "18e0dd6be5c091f678e0f37ea2ce350707b71436e7157bee6e026932cb5164c3",
+        "inputSha256": "e45f569d3a2e87618503d02d915f464ce0f81ec8d615fc5259ec18c0f1fdd602",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1870ffc52305af4f30c1b3b7e1ee909531e62e86a27c63de8c149f05621e817b",
+        "inputSha256": "3d76b39f41950a1d2b4a058ef6ba88f4132c056322c6fd9025466b1e6c9ab17d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-17T02:05:40.689Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Elijah’s leaving is the teacher’s vanishing act that forces the student to become a self, not a mirror. The “double spirit” feels like the psychological demand for legitimate inheritance: not imitation, but capacity. The mantle is a transitional object; authority becomes wearable, then testable, only real when it parts the river in the successor’s hands.\n\nThat same river-test sits beside the Gospel’s refusal of an audience. The self that needs to be seen cannot carry the mantle; it spends its power on display. Secrecy is not piety-as-performance but the training of motivation: the deed must survive without witnesses, or it was never a deed, only a bid.\n\nSemina Verbi: the hidden alms and the closed-door prayer echo the Bhagavad Gita’s nishkama karma, action without hunger for fruit. The teacher’s departure and the transmitted cloak resemble Zen’s “mind-to-mind” succession and the shock of losing the master so the disciple can stand alone. Speculation: Elijah’s fiery chariot has kinship with shamanic ascent motifs in Siberian and Central Asian traditions, where the initiate’s passage legitimizes the next healer’s power without public theatrics.",
+    "excursus": "Elijah stages his own disappearance like a brutal love test. He keeps telling Elisha to stay behind, not out of kindness but to force a choice: abandon me and live, or follow me into the place where mentors become ghosts. The river opens, not as a pious sign, but as permission to cross into the zone where ordinary loyalty turns obsessive. Elisha’s “double spirit” is not humility; it is hunger. He wants the father’s power because he cannot bear the father’s absence.\n\nThe chariot is less rescue than rupture. It cuts them apart mid-conversation, the way death interrupts intimacy without explanation. Elisha’s cry is raw dependence—my father—then immediate self-mutilation: he tears his clothes because identity cannot survive the severing. The mantle that falls is a leftover skin, a fetish of authority. When he strikes the water and nothing happens, the text admits the terror: inheritance is not automatic. “Where is the God of Elijah?” is really “Where is Elijah now that I need him?” Only on the second blow does the river yield, as if power must be coerced by grief.\n\nJesus’ warning about secrecy is the same psychology turned inward. Public piety is a chariot you manufacture—fire and noise to keep people from seeing you’re afraid. The “reward” of being seen is a thin substitute for the one thing you actually want: a witness in the dark who won’t leave. So you close the door, wash your face, and fast without a costume. Not because God prefers manners, but because desire has to be stripped of its audience before it becomes real. The secret room is the Jordan bank after the whirlwind: no applause, just the question of whether anything will part when you strike.",
+    "synthesis": "God’s power and reward are not secured by spectacle but by hidden fidelity and divine witness. True succession and true righteousness are verified by God’s seeing, not by public acclaim.",
+    "gospel": [
+      {
+        "text": "The passage builds a threefold pattern (alms, prayer, fasting) with the same logic: public recognition is a closed transaction, already paid. The repeated “Father” relocates moral action from civic theater to filial relation, making secrecy not a tactic but the proper venue of divine recompense.",
+        "lines": [
+          2,
+          4,
+          5,
+          9
+        ]
+      },
+      {
+        "text": "“In secret” is not anti-social; it is anti-competitive. The text attacks the economy of visibility that turns piety into status, insisting that God’s seeing is sufficient and that human seeing is a contaminant when sought as wage.",
+        "lines": [
+          1,
+          4,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is staged with distances: air/heaven above, prophets watching from afar, then the lone return to the bank. The narrative narrows from public escort to solitary agency, so that succession is verified not by the crowd but by the repeated crossing.",
+        "lines": [
+          1,
+          3,
+          9
+        ]
+      },
+      {
+        "text": "Elijah offers a final act of beneficence, but the gift is not a technique; it is a share in vocation under a divine condition. The mantle’s fall externalizes continuity, yet the decisive proof is the renewed passage through the boundary-water: the prophet is authenticated by re-entry into the world, not by exit from it.",
+        "lines": [
+          5,
+          6,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The oath binds disciple to master more tightly than geography; refusal to “stay” is refusal to be managed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mantle becomes instrument: authority is portable, not intrinsic to the man.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Double spirit” is inheritance language smuggled into prophecy: charisma treated as estate.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The condition is sight: transmission requires witness, not mere desire.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fire interrupts conversation; separation is violent, not sentimental.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He names the true military hardware of Israel, then tears his own clothing: succession costs identity.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "First strike fails; the question “Where is…?” tests whether power is God’s or relic’s.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“To be seen” is the rival liturgy; heaven’s reward system cancels public applause.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Trumpets: manufactured witness. Hypocrisy needs acoustics.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The self must be divided to keep secrecy: even the doer is not allowed full narration.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Door shut: prayer as exclusion of audience; God is addressed as the only necessary observer.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fasting becomes costume; the face is turned into a billboard.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Anointing reverses the sign: conceal deprivation under ordinary brightness.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace, that we may keep your commandments and please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, pour into our souls the brightness of your light; and since by your wisdom you have created us and by your providence you govern us, grant that our life and our actions may be wholly consecrated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May the pleading voice of your Church reach your ears, Lord, so that, having obtained forgiveness for our sins, with your help we may devote ourselves to your service and, under your protection, live in confidence. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it came to pass, when the Lord would take up Elias, into heaven, by a whirlwind, that Elias and Eliseus were going from Galgal. Heaven... By heaven here is meant the air, the lowest of the heavenly regions.",
+        "And Elias said to him: Stay here, because the Lord hath sent me as far as the Jordan. And he said: as the Lord liveth, and as thy soul liveth, I will not leave thee. And they two went on together.",
+        "And fifty men, of the sons of the prophets, followed them, and stood in sight, at a distance: but they two stood by the Jordan.",
+        "And Elias took his mantle, and folded it together, and struck the waters, and they were divided hither and thither, and they both passed over on dry ground.",
+        "And when they were gone over, Elias said to Eliseus: Ask what thou wilt have me to do for thee, before I be taken away from thee. And Eliseus said: I beseech thee, that in me may be thy double spirit. Double spirit... A double portion of thy spirit, as the eldest son and heir: or thy spirit which is double in comparison of that which God usually imparteth to his prophets.",
+        "And he answered: Thou hast asked a hard thing; nevertheless, if thou see me when I am taken from thee, thou shalt have what thou hast asked: but if thou see me not, thou shalt not have it.",
+        "And as they went on, walking and talking together, behold, a fiery chariot and fiery horses parted them both asunder: and Elias went up by a whirlwind into heaven.",
+        "And Eliseus saw him, and cried: My father, my father, the chariot of Israel, and the driver thereof. And he saw him no more: and he took hold of his own garments, and rent them in two pieces.",
+        "And he took up the mantle of Elias, that fell from him: and going back, he stood on the bank of the Jordan;",
+        "And he struck the waters with the mantle of Elias, that had fallen from him, and they were not divided. And he said: Where is now the God of Elias? And he struck the waters, and they were divided hither and thither, and Eliseus passed over."
+      ],
+      "lineRefs": [
+        "1",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Kings 2:1,6-14",
+      "reference": "2 Kings 2:1,6-14",
+      "heading": "A reading from the Second Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Take heed that you do not your justice before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven. Your justice... that is, works of justice; viz., fasting, prayer, and almsdeeds; which ought to be performed not out of ostentation, or a view to please men, but solely to please God.",
+        "Therefore when thou dost an alms-deed, sound not a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may be honoured by men. Amen I say to you, they have received their reward.",
+        "But when thou dost alms, let not thy left hand know what thy right hand doth.",
+        "That thy alms may be in secret, and thy Father who seeth in secret will repay thee.",
+        "And when ye pray, you shall not be as the hypocrites, that love to stand and pray in the synagogues and corners of the streets, that they may be seen by men: Amen I say to you, they have received their reward.",
+        "But thou when thou shalt pray, enter into thy chamber, and having shut the door, pray to thy Father in secret, and thy father who seeth in secret will repay thee.",
+        "And when you fast, be not as the hypocrites, sad. For they disfigure their faces, that they may appear unto men to fast. Amen I say to you, they have received their reward.",
+        "But thou, when thou fastest anoint thy head, and wash thy face;",
+        "That thou appear not to men to fast, but to thy Father who is in secret: and thy Father who seeth in secret, will repay thee."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 6:1-6,16-18",
+      "reference": "Matthew 6:1-6,16-18",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 11th week of Ordinary Time",
+        "key": "wednesdayOfThe11ThWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/17.html",
+    "title": "Gospel and Word of the Day - 17 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-17"
+}
