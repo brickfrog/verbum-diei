@@ -43,15 +43,18 @@ rssUrl = "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
 run :: Aff Unit
 run = do
   args <- liftEffect Process.argv
-  let targetDate = argValue "--date" args
+  envDate <- liftEffect $ Process.lookupEnv "VERBUM_DATE"
+  envOverrides <- liftEffect $ Process.lookupEnv "VERBUM_OVERRIDES"
+  let targetDate = firstNonEmpty (argValue "--date" args) envDate
   let preflightOnly = hasFlag "--preflight" args || hasFlag "--check" args
+  let overrides = collectOverrides args <> parseOverridesEnv envOverrides
 
   log "Fetching Vatican News RSS…"
   rssXml <- fetchText rssUrl
   let feed = parseWordOfDayFeed rssXml
 
   if preflightOnly then do
-    preflightFeed feed.items
+    preflightFeed overrides feed.items
   else do
     item <- case targetDate of
       Nothing ->
@@ -63,7 +66,7 @@ run = do
           Nothing -> throwError (error ("No RSS item matched date " <> d))
           Just it -> pure it
 
-    readings <- fetchReadings item
+    readings <- fetchReadings overrides item
     observances <- liftEffect $ getObservances item.date
 
     generatedAt <- liftEffect nowIso
@@ -344,27 +347,29 @@ buildHoursOfPrayer dateIso model openAiKey = do
               if translated.translated then "breviarium+openai" else "breviarium"
         pure fallbackRow { prayer = translated.prayer, source = sourceTag }
 
-fetchReadings :: FeedItem -> Aff (Array Reading)
-fetchReadings item = do
+fetchReadings :: Array Override -> FeedItem -> Aff (Array Reading)
+fetchReadings overrides item = do
   item.readings # traverse \r -> do
-    api <- fetchBibleReading r.bibleApiReference
+    ref <- resolveReference overrides r.bibleApiReference
+    api <- fetchBibleReading ref
     pure
       { kind: readingKindFromString r.kind
       , heading: r.heading
       , reference: api.reference
-      , bibleApiReference: r.bibleApiReference
+      , bibleApiReference: ref
       , translation: api.translation
       , lineRefs: api.lineRefs
       , lines: api.lines
       }
 
-preflightFeed :: Array FeedItem -> Aff Unit
-preflightFeed items = do
+preflightFeed :: Array Override -> Array FeedItem -> Aff Unit
+preflightFeed overrides items = do
   log ("Preflight: validating " <> show (Array.length items) <> " feed item(s)…")
   results <- items # traverse \item -> do
     checks <- item.readings # traverse \r -> do
-      res <- attempt (fetchBibleReading r.bibleApiReference)
-      pure { kind: r.kind, ref: r.bibleApiReference, result: res }
+      ref <- resolveReference overrides r.bibleApiReference
+      res <- attempt (fetchBibleReading ref)
+      pure { kind: r.kind, ref, result: res }
     pure { item, checks }
 
   let
@@ -647,3 +652,63 @@ findEquals key argv =
     # Array.findMap \arg -> case split (Pattern "=") arg of
         [ k, v ] | k == key -> Just v
         _ -> Nothing
+
+-- | A manual correction for a Bible reference, used to recover from upstream
+-- | feed typos (e.g. a citation printed as "Matthew 4:24-34" when the quoted
+-- | gospel is plainly Matthew 6:24-34). Supplied via repeatable
+-- | `--override "FROM=TO"` flags.
+type Override = { from :: String, to :: String }
+
+-- | Collect every `--override "FROM=TO"` pair from argv (space-separated form).
+collectOverrides :: Array String -> Array Override
+collectOverrides argv =
+  argv
+    # Array.mapWithIndex (\i arg -> if arg == "--override" then Array.index argv (i + 1) else Nothing)
+    # Array.catMaybes
+    # Array.mapMaybe parseOverride
+
+-- | Parse overrides from the VERBUM_OVERRIDES env var, so CI (where threading
+-- | args through chained npm scripts is fragile) can supply them. Multiple
+-- | specs are separated by newlines or ';'.
+parseOverridesEnv :: Maybe String -> Array Override
+parseOverridesEnv = case _ of
+  Nothing -> []
+  Just raw ->
+    split (Pattern "\n") raw
+      # Array.concatMap (split (Pattern ";"))
+      # Array.mapMaybe parseOverride
+
+-- | First of two optional strings that is present and non-blank (after trim).
+firstNonEmpty :: Maybe String -> Maybe String -> Maybe String
+firstNonEmpty a b =
+  case a of
+    Just s | trim s /= "" -> Just (trim s)
+    _ -> b >>= \s -> if trim s == "" then Nothing else Just (trim s)
+
+-- | Parse a single "FROM=TO" spec, splitting on the first '=' so the FROM side
+-- | (which contains ':' and digits but no '=') survives intact.
+parseOverride :: String -> Maybe Override
+parseOverride raw =
+  case String.indexOf (Pattern "=") raw of
+    Just idx ->
+      let
+        from = trim (String.take idx raw)
+        to = trim (String.drop (idx + 1) raw)
+      in
+        if from == "" || to == "" then Nothing else Just { from, to }
+    Nothing -> Nothing
+
+-- | Rewrite a reference when it exactly matches an override's FROM; first match
+-- | wins. Trimmed exact match keeps the behaviour predictable.
+applyOverride :: Array Override -> String -> String
+applyOverride overrides ref =
+  case Array.find (\o -> o.from == trim ref) overrides of
+    Just o -> o.to
+    Nothing -> ref
+
+-- | Apply overrides and announce any that fire, so re-runs leave an audit trail.
+resolveReference :: Array Override -> String -> Aff String
+resolveReference overrides orig = do
+  let ref = applyOverride overrides orig
+  when (ref /= orig) $ log ("Override: \"" <> orig <> "\" -> \"" <> ref <> "\"")
+  pure ref

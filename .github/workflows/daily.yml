@@ -4,7 +4,16 @@ on:
   schedule:
     # Runs daily; GitHub schedules use UTC.
     - cron: "15 1 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Backfill a specific feed date (YYYY-MM-DD). Blank = latest feed item."
+        required: false
+        default: ""
+      override:
+        description: "Citation override(s) to correct upstream feed typos, as FROM=TO separated by ';'. e.g. Matthew 4:24-34=Matthew 6:24-34"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -47,6 +56,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           VERBUM_OPENAI_MODEL: ${{ vars.VERBUM_OPENAI_MODEL }}
+          # Empty on scheduled runs; set via workflow_dispatch to backfill/correct a day.
+          VERBUM_DATE: ${{ inputs.date }}
+          VERBUM_OVERRIDES: ${{ inputs.override }}
         run: |
           bun run preflight
           bun run generate
