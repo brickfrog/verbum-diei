@@ -1,0 +1,290 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "62aa7533de3a748fc3bf69a63e740643605c961ba0d1b7b56de4c5bb2cd89dab",
+        "inputSha256": "6b1200a68cc0f7656976ebac98ffc105bbdaa849be500d339af319b4b58d95d3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3e11b4d42ce89d13963473cce89b8cb47a352f7b630603add4eeec469cb9481f",
+        "inputSha256": "ff7ea0166117356d0d793ca581223eeab930b87066f71ae9d71ce5f15373e787",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e09992e3979ee378c8dd5b2074934dd9b8e40c05e6845072431c14fb8967ebe7",
+        "inputSha256": "f0a615c835abc858b9cc5915872b2a4e5dd65dd8d2e8e9f1847853c3a0c3c0f5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-20T13:27:37.377Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Joash’s slide after his mentor’s death is the old psychological story of borrowed conscience: when the internalized father collapses, the court’s flattery supplies a cheaper superego, and the self chooses it. That pivot is also political: the sacred center is abandoned not for “belief” but for a more convenient cult that lubricates alliances and appetites. The prophet’s murder in the temple courtyard is the psyche staging its own execution of truth at the very site where truth should be protected; afterward, reality returns as humiliation, illness, and betrayal from within.\n\nThe saying about two masters names the same split without drama: you cannot stabilize a self on competing ultimate commitments. Anxiety is the felt symptom of that divided service, the mind trying to manage contingency by hoarding control. The birds and lilies are not sentimental; they are an image of unselfconscious being, life unburdened by the fantasy that survival is earned by incessant calculation. “Tomorrow” is the mind’s favorite idol, a time-god that demands sacrifice now.\n\nSpeculation: Stoicism’s dichotomy of control, Taoism’s wu-wei, and Zen’s ordinary mind each echo the refusal to worship the future as a master; they aim at a life aligned with what is, not what is feared. In Buddhism, tanha as grasping maps onto mammon as fixation; in the Bhagavad Gita, karma yoga’s non-clinging action resembles seeking the kingdom first and letting “added things” fall where they may. Confucian remonstrance parallels the prophet’s role: the court that kills the remonstrator is already confessing its own corruption.",
+    "excursus": "Joas doesn’t fall because he “turns from God.” He falls because he loses the one man who held his self together. Joiada is the king’s spine; without him Joas becomes pure appetite for approval. The princes don’t merely flatter him, they worship him, and he drinks it like medicine. The groves and idols are not theology but mood: a softer, more manageable sacred, a cult that asks nothing but offers the narcotic of being liked.\n\nZacharias is the intolerable return of the father’s voice, speaking in the court where the king’s image should be uncontested. So the king stages a murder as a public therapy session: stone the conscience, silence the witness, keep the sweetness of praise. The line about forgetting kindness is psychological: gratitude is memory, and memory is what power cannot afford. The dying curse, “The Lord see,” is not piety; it is the last weapon of the betrayed—someone must see, because the king refuses.\n\nThen Matthew’s “do not be solicitous” lands like a provocation. It is not comfort; it is a demand to stop managing the future with violence. Anxiety is Joas’s real idol, and mammon is its instrument: control, security, the calculus of tomorrow. Jesus does not promise a world without evil; he says the day already has enough. The kingdom is the refusal to buy safety with blood, the decision to live unarmored in a world that can still kill you. That’s why it feels like dread: it strips away the king’s favorite illusion—that if you plan hard enough, flatter enough, punish enough, you can make loss stop.",
+    "synthesis": "God tolerates no divided lordship: to forsake him is to be handed over to the consequences of that choice. The kingdom’s priority reorders material life, making provision an addition rather than a master.",
+    "gospel": [
+      {
+        "text": "Jesus relocates the battleground from external scarcity to interior allegiance: the Gentile pattern is defined as need-chasing, while discipleship is defined as trust in a Father who already knows. The commands are not anti-work but anti-ultimate-concern: anxiety is treated as a rival liturgy.",
+        "lines": [
+          2,
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative is a prosecution of leadership after the loss of a restraining mediator: prophetic warning is refused, then foreign violence arrives as a mirror of internal disorder. The “small number” defeating the “multitude” frames defeat as theological exposure—strength becomes irrelevant once allegiance is traded away.",
+        "lines": [
+          3,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Joiada dies; the court rushes in. Flattery replaces priesthood as counsel.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A liturgical vacancy becomes an idol-market: temple abandoned, groves installed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question is surgical: you forsake to be forsaken. Covenant logic, not mood.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophet killed on holy pavement; the court of the Lord becomes a quarry.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Amnesia as regicide: Joas forgets kindness, murders its heir. Dying words become an indictment.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He dies in bed, not in honor. Exclusion from royal tombs is the final verdict.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two masters is not a dilemma but an impossibility; divided service curdles into contempt.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Birds: no barns, yet fed. Providence humiliates hoarding.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Anxiety is impotent arithmetic: it cannot add a cubit.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Little faith” names the real deficit; worry is a theological failure before it is a psychological one.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Order the loves: kingdom first; additions follow as byproduct, not target.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Time is rationed: today has its own evil; tomorrow is not yours to manage.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications, and since man is frail and without you can do nothing, grant us the help of your grace to keep your commandments and to please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, fount and source of our salvation, grant that, as long as our life lasts here on earth, we may praise you without ceasing and thus one day share in the eternal praise of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always, Lord, to live in love and reverence for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And after the death of Joiada, the princes of Juda went in, and worshipped the king: and he was soothed by their services and hearkened to them.",
+        "And they forsook the temple of the Lord the God of their fathers, and served groves and idols, and wrath came upon Juda and Jerusalem for this sin.",
+        "And he sent prophets to them to bring them back to the Lord, and they would not give ear when they testified against them.",
+        "The spirit of God then came upon Zacharias the son of Joiada the priest, and he stood in the sight of the people, and said to them: Thus saith the Lord God: Why transgress you the commandment of the Lord which will not be for your good, and have forsaken the Lord, to make him forsake you?",
+        "And they gathered themselves together against him, and stoned him at the king's commandment in the court of the house of the Lord.",
+        "And king Joas did not remember the kindness that Joiada his father had done to him, but killed his son. And when he died, he said: The Lord see, and require it.",
+        "And when a year was come about, the army of Syria came up against him: and they came to Juda and Jerusalem, and killed all the princes of the people, and they sent all the spoils to the king of Damascus.",
+        "And whereas there came a very small number of the Syrians, the Lord delivered into their hands an infinite multitude, because they had forsaken the Lord the God of their fathers: and on Joas they executed shameful judgments.",
+        "And departing they left him in great diseases: and his servants rose up against him, for revenge of the blood of the son of Joiada the priest, and they slew him in his bed, and he died: and they buried him in the city of David, but not in the sepulchres of the kings."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Chronicles 24:17-25",
+      "reference": "2 Chronicles 24:17-25",
+      "heading": "A reading from the Second Book of Chronicles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "No man can serve two masters. For either he will hate the one, and love the other: or he will sustain the one, and despise the other. You cannot serve God and mammon. Mammon... That is, riches, worldly interest.",
+        "Therefore I say to you, be not solicitous for your life, what you shall eat, nor for your body, what you shall put on. Is not the life more than the meat: and the body more than the raiment?",
+        "Behold the birds of the air, for they neither sow, nor do they reap, nor gather into barns: and your heavenly Father feedeth them. Are not you of much more value than they?",
+        "And which of you by taking thought, can add to his stature one cubit?",
+        "And for raiment why are you solicitous? Consider the lilies of the field, how they grow: they labour not, neither do they spin.",
+        "But I say to you, that not even Solomon in all his glory was arrayed as one of these.",
+        "And if the grass of the field, which is to day, and to morrow is cast into the oven, God doth so clothe: how much more you, O ye of little faith?",
+        "Be not solicitous therefore, saying: What shall we eat: or what shall we drink, or wherewith shall we be clothed?",
+        "For after all these things do the heathens seek. For your Father knoweth that you have need of all these things.",
+        "Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.",
+        "Be not therefore solicitous for to morrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 6:24-34",
+      "reference": "Matthew 6:24-34",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 11th week of Ordinary Time",
+        "key": "saturdayOfThe11ThWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/20.html",
+    "title": "Gospel and Word of the Day - 20 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-20"
+}
