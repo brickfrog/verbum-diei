@@ -18,7 +18,7 @@ import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
 import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
-import Effect.Exception (error)
+import Effect.Exception (error, message)
 import Node.Process as Process
 import VerbumDiei.Artifact (Artifact, Commentary, HourEntry, Reading, ReadingKind, encodeArtifact, firstReadingKind, gospelKind)
 import VerbumDiei.Bible (fetchBibleReading)
@@ -54,17 +54,11 @@ run = do
   let feed = parseWordOfDayFeed rssXml
 
   if preflightOnly then do
-    preflightFeed overrides feed.items
+    preflightFeed overrides targetDate feed.items
   else do
-    item <- case targetDate of
-      Nothing ->
-        case Array.head feed.items of
-          Nothing -> throwError (error "RSS feed had no items")
-          Just it -> pure it
-      Just d ->
-        case Array.find (\it -> it.date == d) feed.items of
-          Nothing -> throwError (error ("No RSS item matched date " <> d))
-          Just it -> pure it
+    item <- case selectFeedItem targetDate feed.items of
+      Left e -> throwError (error e)
+      Right it -> pure it
 
     readings <- fetchReadings overrides item
     observances <- liftEffect $ getObservances item.date
@@ -362,9 +356,36 @@ fetchReadings overrides item = do
       , lines: api.lines
       }
 
-preflightFeed :: Array Override -> Array FeedItem -> Aff Unit
-preflightFeed overrides items = do
-  log ("Preflight: validating " <> show (Array.length items) <> " feed item(s)…")
+-- | Pick the single feed item that `generate` would publish: the date target
+-- | when given, otherwise the newest (head) item.
+selectFeedItem :: Maybe String -> Array FeedItem -> Either String FeedItem
+selectFeedItem targetDate items =
+  case targetDate of
+    Nothing ->
+      case Array.head items of
+        Nothing -> Left "RSS feed had no items"
+        Just it -> Right it
+    Just d ->
+      case Array.find (\it -> it.date == d) items of
+        Nothing -> Left ("No RSS item matched date " <> d)
+        Just it -> Right it
+
+-- | Preflight gates only on the item that will actually be published (the head,
+-- | or `--date`). Other feed items are still checked, but a broken one is merely
+-- | reported, not fatal -- otherwise a stale upstream typo in any of the ~15
+-- | windowed items would block every subsequent run until it scrolls out.
+preflightFeed :: Array Override -> Maybe String -> Array FeedItem -> Aff Unit
+preflightFeed overrides targetDate items = do
+  target <- case selectFeedItem targetDate items of
+    Left e -> throwError (error e)
+    Right it -> pure it
+  let label it = if it.date == "" then it.title else it.date
+  log
+    ( "Preflight: validating " <> show (Array.length items)
+        <> " feed item(s); publish target = "
+        <> label target
+        <> "…"
+    )
   results <- items # traverse \item -> do
     checks <- item.readings # traverse \r -> do
       ref <- resolveReference overrides r.bibleApiReference
@@ -379,25 +400,35 @@ preflightFeed overrides items = do
           case check.result of
             Left e ->
               Just
-                { date: entry.item.date
+                { guid: entry.item.guid
+                , date: entry.item.date
                 , title: entry.item.title
                 , kind: check.kind
                 , ref: check.ref
-                , err: show e
+                , err: message e
                 }
             Right _ -> Nothing
 
     formatFailure f =
       let
-        label =
-          if f.date == "" then f.title else f.date <> " " <> f.title
+        lbl = if f.date == "" then f.title else f.date <> " " <> f.title
       in
-        "- " <> label <> " (" <> f.kind <> " " <> f.ref <> "): " <> f.err
+        "- " <> lbl <> " (" <> f.kind <> " " <> f.ref <> "): " <> f.err
 
-  if Array.length failures == 0 then
-    log "Preflight OK: all feed readings resolved."
+    targetFailures = failures # Array.filter (\f -> f.guid == target.guid)
+    otherFailures = failures # Array.filter (\f -> f.guid /= target.guid)
+
+  when (not (Array.null otherFailures)) $
+    log
+      ( "Preflight: ignoring " <> show (Array.length otherFailures)
+          <> " unresolved reference(s) in non-target feed item(s):\n"
+          <> String.joinWith "\n" (otherFailures <#> formatFailure)
+      )
+
+  if Array.null targetFailures then
+    log ("Preflight OK: publish target " <> label target <> " resolved.")
   else
-    throwError (error ("Preflight failed:\n" <> String.joinWith "\n" (failures <#> formatFailure)))
+    throwError (error ("Preflight failed for publish target:\n" <> String.joinWith "\n" (targetFailures <#> formatFailure)))
 
 readingKindFromString :: String -> ReadingKind
 readingKindFromString = case _ of
