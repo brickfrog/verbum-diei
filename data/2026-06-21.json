@@ -1,0 +1,276 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f6af7bf07289c09e9417287a8c9e328521770d757da92d7f5a28633dabf6a7eb",
+        "inputSha256": "e1254710a7d6005e979c3d9436fa5daf0c0d7022b2ab6e176fdf88c35e3b2900",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "4cd7cff943777a97f93ab5bfc29d69d0a6f1f893490098943806af6a13348f76",
+        "inputSha256": "4ca954307d85d80efe0021cd85d47d8ff865a48ebe2dc32ae5f1b2d920daf8a8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "fe597240589299d46e0a799ae729769a15f910eb7cc74a306b3f37f071b6f926",
+        "inputSha256": "e303434b42facff46b0d85e17a81978d479385877904eeeec9bfc1d12545fd26",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-21T14:38:19.657Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s “terror on every side” reads like the social death spiral described in Buddhist dukkha: the mind trapped by hostile perception, then steadied by a deeper refuge than reputation. His appeal to the One who “sees the reins and the heart” parallels the Egyptian weighing of the heart and the Upanishadic inner witness; speculation: the psyche needs an imagined perfect knower to survive betrayal without becoming betrayal.\n\nMatthew’s insistence that the hidden will be revealed echoes Zoroastrian disclosure at the final separation and the Stoic conviction that truth is ultimately public in the order of nature. The sparrows and numbered hairs resemble Daoist attentiveness to the small and the ordinary; speculation: courage grows when the world is felt as intimate rather than random.\n\nConfessing before men has the texture of the Bhagavad Gita’s call to act without fear of consequences and of Islamic shahada as identity spoken into risk. Denial here is not doctrinal error but self-erasure under threat, the moment a person trades the soul’s coherence for the body’s safety.",
+    "excursus": "Jeremiah isn’t the serene martyr; he’s an exposed nerve. The horror is not the crowd but the intimates, the “familiars” who hover close, waiting for a slip, hungry for the moment his words can be turned into his humiliation. His faith reads like a counterspell against paranoia: he needs God as “strong warrior” because he feels weak, watched, and eminently breakable. The desire underneath the piety is naked: let me see them hurt. Vengeance is the fantasy that restores a self that has been socially shredded.\n\nMatthew intensifies the same psychology and gives it a new instrument: publicity. “Nothing is covered” is not comfort; it’s threat. Your hidden life will be dragged into daylight, and you are commanded to participate in your own exposure, to shout from rooftops what you first heard in the dark. The gospel’s courage is coercive: trade fear of neighbors for fear of God. The sparrows and the numbered hairs are not sentimental; they mean surveillance so complete you cannot disappear. Confess me, and you will be confessed; deny me, and you will be denied. It’s a bargain of belonging sealed by dread, a demand to choose a master before the crowd chooses you.",
+    "synthesis": "God’s judgment is the final public disclosure that vindicates the faithful and shames the persecutor. Therefore the disciple must speak openly and fear God above all human threats, because heavenly confession answers earthly confession.",
+    "gospel": [
+      {
+        "text": "Matthew binds mission to eschatology: speech now is calibrated to a coming disclosure, and discipleship is measured by public alignment. The decisive arena is not the street but the Father’s court, where earthly testimony is mirrored back as heavenly acknowledgment or repudiation.",
+        "lines": [
+          1,
+          2,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "The sparrows and numbered hairs are not sentiment; they establish jurisdiction. If the Father’s governance reaches the smallest contingencies, then persecution cannot be ultimate, and fear must be reassigned from human violence to divine judgment.",
+        "lines": [
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Jeremiah stages prophetic speech as a public trial: the crowd prosecutes, the prophet appeals, and the verdict is expected to be enacted in history. The passage treats opposition not as anomaly but as the normal social cost of truth-telling, with God positioned as the only competent judge of motives and outcomes.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The movement is from accusation to doxology: deliverance is narrated as the decisive rebuttal to the mob’s narrative. The text’s logic is not therapeutic; it is juridical—God vindicates by overturning the persecutors’ attempted story.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The threat is communal: “familiars” become informants; intimacy weaponized.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God as “strong warrior”: not comfort but counter-force; persecution answered by collapse.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Everlasting reproach” sticks to the persecutors; shame as judgment that outlives the event.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet opens his “cause” like a lawsuit; vengeance requested as public verdict.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Praise is not mood but conclusion: deliverance of “the poor” is the proof offered.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Uncovering is inevitable; secrecy is temporary, exposure is law.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation turns into obligation: what is whispered becomes proclamation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A hierarchy of fears: bodily threat is limited; final authority reaches soul and body.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Providence extends to cheap lives; the trivial is not outside the Father’s notice.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Confession is forensic: names spoken on earth are repeated—or not—in heaven.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in this admirable sacrament have left us the memorial of your Passion, we ask you to grant that we may so venerate the sacred mysteries of your Body and Blood that we may constantly experience within us the fruit of your redemption. You who live and reign with the Father in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us your help, Lord, so that the world may advance according to your designs, the nations may enjoy lasting peace, and your Church may rejoice in being able to serve you with a trusting and peaceful dedication. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us your help, Lord, so that the world may advance according to your designs, the nations may enjoy a lasting peace, and your Church may rejoice to serve you with a trusting and peaceful dedication. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without fear in your peace, and tomorrow rise with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For I heard the reproaches of many, and terror on every side: Persecute him, and let us persecute him: from all the men that were my familiars, and continued at my side: if by any means he may be deceived, and we may prevail against him, and be revenged on him.",
+        "But the Lord is with me as a strong warrior: therefore they that persecute me shall fall, and shall be weak: they shall be greatly confounded, because they have not understood the everlasting reproach, which never shall be effaced.",
+        "And thou, O Lord of hosts, prover of the just, who seest the reins and the heart: let me see, I beseech thee, thy vengeance on them: for to thee I have laid open my cause. Let me see, etc... This prayer proceeded not from hatred or ill will, but zeal of justice.",
+        "Sing ye to the Lord, praise the Lord: because he hath delivered the soul of the poor out of the hand of the wicked."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 20:10-13",
+      "reference": "Jeremiah 20:10-13",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Therefore fear them not. For nothing is covered that shall not be revealed: nor hid, that shall not be known.",
+        "That which I tell you in the dark, speak ye in the light: and that which you hear in the ear, preach ye upon the housetops.",
+        "And fear ye not them that kill the body, and are not able to kill the soul: but rather fear him that can destroy both soul and body in hell.",
+        "Are not two sparrows sold for a farthing? and not one of them shall fall on the ground without your Father.",
+        "But the very hairs of your head are all numbered.",
+        "Fear not therefore: better are you than many sparrows.",
+        "Every one therefore that shall confess me before men, I will also confess him before my Father who is in heaven.",
+        "But he that shall deny me before men, I will also deny him before my Father who is in heaven."
+      ],
+      "lineRefs": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:26-33",
+      "reference": "Matthew 10:26-33",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "12th Sunday of Ordinary Time",
+        "key": "12ThSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/21.html",
+    "title": "Gospel and Word of the Day - 21 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-21"
+}
