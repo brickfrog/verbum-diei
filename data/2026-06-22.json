@@ -1,0 +1,267 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8c27b80fa3b1eff38192c960c4043f3d136ece7720d358c09df6ed2a0a7daa2b",
+        "inputSha256": "4a0390368055c7fca444abf4e3dffae3333f8dcac54e7ce4849782afdd7db677",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "09c2864feaa69abcc4695893763ca97730beb473c395de88347de38638440b94",
+        "inputSha256": "a9cccd7032e7c12a1b13243056831ddb77571be7c26511b0c97c9f0ebfed9183",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ff2f71946b021fe797e5decc40c37f320b3385c6438575e20e8a055764ab293d",
+        "inputSha256": "bca318fb7d7adb27bf3e952543b7b368caed7d0ed82ec945ee41779dcdf49bb7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-22T02:05:52.054Z"
+  },
+  "commentary": {
+    "seminaVerbi": "There’s a shared psychology here: exile begins as imitation. A people borrows the surrounding gods because they promise immediacy, and the borrowed promise slowly hollows out memory until identity can be carried off like furniture. The “hardened neck” is not mere stubbornness; it’s the body refusing to turn toward any voice that would interrupt the trance of the crowd.\n\nThe warning about judging lands in the same inner territory. Judgment is a way to keep the self unexamined: you outsource your conscience into surveillance of others. The “measure” is the hidden ruler you live by; it returns because it is already shaping your perception. Hypocrisy is not moral failure so much as a visual disorder: the beam is the self’s unowned need, and it distorts the entire field until the neighbor becomes a convenient screen.\n\nSemina Verbi: the exile-as-consequence parallels the Hindu and Buddhist idea of karma as the maturation of habituated action, and the Stoic thought that living by the crowd’s opinions is a kind of inner banishment. The “beam and mote” resembles Zen’s insistence that delusion is first-person, and Sufi adab about guarding the tongue from fault-finding; speculation: both texts assume that attention is moral fate—what you repeatedly look at becomes what you become.",
+    "excursus": "Samaria falls after three years of siege, but the real siege is internal: a people tired of being singular, craving the easier anesthesia of “the nations round about.” The text calls it vanity, but vanity here is desire for normalcy, for a god you can see, a life that doesn’t ask you to be strange. The prophets arrive like unwanted therapists, insisting on return, and the neck stiffens not from pride alone but from fear of what obedience will cost.\n\n“Removed them from his sight” reads less like a tantrum than a withdrawal of attention. The worst punishment is not fire; it’s being left to your own mirrors, exiled into the bland, where nothing looks back. Assyria becomes the exterior form of an interior choice: if you want other gods, you will get the world that comes with them.\n\nThen Matthew tightens the screw. “Judge not” isn’t moral gentleness; it’s a warning about projection. The beam is the hidden engine of your outrage, the secret appetite that needs a culprit. You want to fix your brother’s eye because his flaw gives shape to your dread. The command is not to become pure before you speak, but to stop using judgment as a way to avoid yourself.\n\nPut together, the readings suggest a grim symmetry: the nation is exiled for chasing vanities, and the individual is trapped for chasing verdicts. Both are forms of refusal—refusal to face the costly truth of one’s own desire. The only escape is the humiliating work of seeing clearly, which feels at first like losing everything, because it is losing the lie that kept you comfortable.",
+    "synthesis": "God’s judgments are covenantal and reciprocal: the worshipper becomes what he serves, and the judge is measured by his own measure. Therefore self-judgment is the necessary precondition for any true judgment of another.",
+    "gospel": [
+      {
+        "text": "Jesus relocates judgment from public tribunal to personal practice: the standard you deploy becomes the standard that governs you. The warning is not against moral discernment but against assuming the role of final assessor while remaining unexamined.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The command targets the posture of the would-be healer: correction offered from an uncorrected self is violence disguised as care. Only purified sight can claim the authority to intervene in another’s fault.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative frames conquest as covenant litigation: imitation of the nations is treated as a legal breach, and the prophets function as formal summonses. The fall of Samaria is not merely military defeat but the execution of a long-contested claim—YHWH’s right to define Israel’s worship and life.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The text isolates the mechanism of collapse: refusal to hear hardens into incapacity to hear, until separation becomes the only remaining form of instruction. What survives (Judah) is not praised; it is simply what remains when the northern kingdom is cut away.",
+        "lines": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Three-year siege: judgment is slow, not sudden; time to repent squandered.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exile is geography as theology: names of rivers and cities become a litany of loss.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The exodus is the baseline; idolatry is not ignorance but betrayal of rescue.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Vanities” breeds “vainly”: worship reshapes the worshipper into its emptiness.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Removed “from his sight”: the worst punishment is being un-seen by God.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prohibition is pragmatic: judgment rebounds; the sentence returns to the speaker.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Measure-for-measure: the courtroom is portable; you carry it in your hand.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mote/beam: moral optics fail first at home; proximity blinds.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“First” is the order of surgery: self-amputation precedes correction of another.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always, Lord, reverence and love for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who entrusted to man the care and cultivation of the earth, and created the light of the sun for his service, grant us today that, by your light, we may work without wearying for your glory and for the good of our neighbor. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey, never complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that your family may walk in the way of salvation, so that, following the voice of Saint John the Forerunner, it may come with joy to the Savior whom he proclaimed, our Lord Jesus Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he went through all the land: and going up to Samaria, he besieged it three years.",
+        "And in the ninth year of Osee, the king of the Assyrians took Samaria, and carried Israel away to Assyria: and he placed them in Hala, and Habor, by the river of Gozan, in the cities of the Medes.",
+        "For so it was that the children of Israel had sinned against the Lord, their God, who brought them out of the land of Egypt, from under the hand of Pharao, king of Egypt; and they worshipped strange gods.",
+        "And they walked according to the way of the nations which the Lord had destroyed in the sight of the children of Israel, and of the kings of Israel: because they had done in like manner.",
+        "And the Lord testified to them in Israel, and in Juda, by the hand of all the prophets and seers, saying: Return from your wicked ways, and keep my precepts, and ceremonies, according to all the law which I commanded your fathers: and as I have sent to you in the hand of my servants the prophets.",
+        "And they hearkened not, but hardened their necks like to the neck of their fathers, who would not obey the Lord, their God.",
+        "And they rejected his ordinances, and the covenant that he made with their fathers, and the testimonies which he testified against them: and they followed vanities, and acted vainly: and they followed the nations that were round about them, concerning which the Lord had commanded them that they should not do as they did.",
+        "And the Lord was very angry with Israel, and removed them from his sight, and there remained only the tribe of Juda."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "13",
+        "14",
+        "15",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Kings 17:5-8,13-15,18",
+      "reference": "2 Kings 17:5-8,13-15,18",
+      "heading": "A reading from the Second Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Judge not, that you may not be judged.",
+        "For with what judgment you judge, you shall be judged: and with what measure you mete, it shall be measured to you again.",
+        "And why seest thou the mote that is in thy brother's eye; and seest not the beam that is in thy own eye?",
+        "Or how sayest thou to thy brother: Let me cast the mote out of thy eye; and behold a beam is in thy own eye?",
+        "Thou hypocrite, cast out first the beam out of thy own eye, and then shalt thou see to cast out the mote out of thy brother's eye."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 7:1-5",
+      "reference": "Matthew 7:1-5",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Paulinus of Nola, Bishop/Saints John Fisher, Bishop and Thomas More, Martyrs",
+        "key": "saintPaulinusOfNolaBishopSaintsJohnFisherBishopAndThomasMoreMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/22.html",
+    "title": "Gospel and Word of the Day - 22 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-22"
+}
