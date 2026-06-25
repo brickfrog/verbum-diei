@@ -1,0 +1,301 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f4f4b181830b35ad26b2da027c3518f127aed4e4cee08b91489937d108800d72",
+        "inputSha256": "232a0300c806d7ea5ee9e4c11575d5bea6e8a8cf7dbde453e6e63813d88f9775",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bdd23dcd424284988516b95104c500fcf19bd4280492eb4a81472945ee029cc9",
+        "inputSha256": "8516c81f4b347cd8edcc936ba519dfed704de1716033fd1955e6f3865a128103",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ac1a17ab0a24f26509d59d55ba9259bee1681e16abee4df2445073bda7b4987f",
+        "inputSha256": "148569815a4b3f1353828b92c63a722863ba732d067e74927142645168e6bd4d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-25T01:57:12.127Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The exile is the psyche’s audit. The city is the self that mistook inherited splendor for inner strength; when pressure comes, the gilded vessels are the first to be smashed, because they were always symbols standing in for substance. The conqueror doesn’t only take gold; he takes craftsmen, smiths, judges—the capacities that make a life coherent. What remains is the “poor sort,” the bare minimum of instinct and habit. A substitute king is installed: the compliant persona that survives by adaptation, not by truth.\n\nThe warning about “Lord, Lord” is the same diagnosis in a different register: performance without obedience, charisma without character, spiritual technique without moral reality. The self can speak the right names, even do impressive things, and still be unknown to what it claims to serve. The rock is not belief-as-slogan but enacted alignment; sand is identity built from applause, role, and borrowed authority.\n\nSemina Verbi: Stoicism’s distinction between externals and virtue fits the looted temple: what can be taken was never the foundation. Buddhism’s critique of “spiritual materialism” parallels the miracle-workers who still miss the point. In the Bhagavad Gita, action without right intention collapses like a house on sand. Speculation: the Babylonian removal of artisans resembles Plato’s fear that a city without its formative craftsmen loses its soul-shaping arts, leaving only a thin, governable shell.",
+    "excursus": "Jerusalem falls because its holiness has become a costume. Joachin “does evil” with the bored inevitability of inheritance, and the city’s surrender is almost intimate: he goes out with his mother, wives, eunuchs, nobles, as if offering his whole curated self to the conqueror. Babylon doesn’t just take land; it takes the symbolic body—treasures, gold vessels, the crafted objects that made God feel near. The cutting in pieces is the real sacrilege: meaning dismantled into portable parts. Then the selection: the strong, the skilled, the makers of things are removed, leaving only the poor, the unthreatening, the ones who can’t rebuild. Exile is a psychological strategy. Strip the city of competence and it will start to call its helplessness faith.\n\nMatthew’s Jesus speaks into that dread with a colder knife. He doesn’t warn against atheism; he warns against religious performance. “Lord, Lord” is the chant of people trying to purchase belonging with intensity. Even miracles are suspect here, because they can be another kind of loot, a trophy hauled out to prove intimacy. “I never knew you” is not a verdict on doctrine; it’s the horror of being unknown after years of proximity, like living in the same house and realizing you were only ever a servant.\n\nThe rock and sand are not piety and impiety. They are reality and image. Sand is the life built on saying the right names, collecting the right signs, being seen. Rock is the humiliating act of doing the will—obedience as descent into the unglamorous. Babylon’s siege and Jesus’ sentence rhyme: both expose what was built to impress. And when the floods come, the collapse is “great” because it isn’t just a house falling; it’s the self finally losing the story it told to survive.",
+    "synthesis": "God’s judgment strips false securities—political, cultic, and charismatic—until only obedience to his will remains as foundation. Authority belongs to the one who speaks and is done, not to those who speak about him.",
+    "gospel": [
+      {
+        "text": "The passage frames final judgment as a test of alignment, not performance. The decisive criterion is the Father’s will, and the shock is that religious activity can coexist with “iniquity,” yielding a verdict of non-recognition.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The storm functions as eschatological pressure: what is hidden in fair weather is exposed under load. The crowd’s admiration is narratively irrelevant to stability; astonishment is not foundation.",
+        "lines": [
+          5,
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Judgment arrives as siege before it arrives as theology: the city is ringed, then the king appears. The narrative makes Babylon’s approach feel inevitable, as if the political event is the visible surface of a prior verdict.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Deportation is not random cruelty but administrative theology: remove the royal household, the judiciary, the military, and the trades, and you have a population that can survive but cannot govern, fight, or rebuild. Exile becomes a method for producing impotence.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Three months: a reign measured like a fever.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“According to all”: inherited evil as policy, not accident.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The king “went out”: surrender staged as procession.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gold cut to pieces: liturgy reduced to bullion; Solomon undone.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exile targets skill: the city is disarmed by removing makers.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Renaming installs ownership: a vassal’s identity rewritten.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two “Lord”s, no entry: address without obedience is noise.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Charisms as résumé: “in thy name” repeated like a spell.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I never knew you”: not loss but absence; intimacy denied.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hearing is assumed; doing is the dividing line.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Great was the fall”: collapse has a public sound.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority contrasts with citation: power versus borrowed speech.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us always, Lord, to live in love and reverence for your holy name, for you never cease to guide those whom you establish on the firm foundation of your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, that salvation may always be proclaimed to us, so that, free from fear, delivered from the hand of our enemies, we may serve you faithfully in holiness and righteousness all our days. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never falter in the face of adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we celebrate the solemnity of the Heart of your only-begotten Son, we recall the benefits of his love for us; grant that from this divine source we may receive an inexhaustible abundance of grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Joachin was eighteen years old when he began to reign, and he reigned three months in Jerusalem: the name of his mother was Nohesta, the daughter of Elnathan, of Jerusalem.",
+        "And he did evil before the Lord, according to all that his father had done.",
+        "At that time the servants of Nabuchodonosor, king of Babylon, came up against Jerusalem, and the city was surrounded with their forts.",
+        "And Nabuchodonosor, king of Babylon, came to the city, with his servants, to assault it.",
+        "And Joachin, king of Juda, went out to the king of Babylon, he, and his mother, and his servants, and his nobles, and his eunuchs: and the king of Babylon received him in the eighth year of his reign.",
+        "And he brought out from thence all the treasures of the house of the Lord, and the treasures of the king's house: and he cut in pieces all the vessels of gold which Solomon, king of Israel, had made in the temple of the Lord, according to the word of the Lord.",
+        "And he carried away all Jerusalem, and all the princes, and all the valiant men of the army, to the number of ten thousand, into captivity: and every artificer and smith: and none were left, but the poor sort of the people of the land.",
+        "And he carried away Joachin into Babylon, and the king's mother, and the king's wives, and his eunuchs: and the judges of the land he carried into captivity, from Jerusalem, into Babylon.",
+        "And all the strong men, seven thousand, and the artificers, and the smiths, a thousand, all that were valiant men, and fit for war: and the king of Babylon led them captives into Babylon.",
+        "And he appointed Matthanias, his uncle, in his stead: and called his name Sedecias."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Kings 24:8-17",
+      "reference": "2 Kings 24:8-17",
+      "heading": "A reading from the Second Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Not every one that saith to me, Lord, Lord, shall enter into the kingdom of heaven: but he that doth the will of my Father who is in heaven, he shall enter into the kingdom of heaven.",
+        "Many will say to me in that day: Lord, Lord, have not we prophesied in thy name, and cast out devils in thy name, and done many miracles in thy name?",
+        "And then will I profess unto them, I never knew you: depart from me, you that work iniquity.",
+        "Every one therefore that heareth these my words, and doth them, shall be likened to a wise man that built his house upon a rock,",
+        "And the rain fell, and the floods came, and the winds blew, and they beat upon that house, and it fell not, for it was founded on a rock.",
+        "And every one that heareth these my words and doth them not, shall be like a foolish man that built his house upon the sand,",
+        "And the rain fell, and the floods came, and the winds blew, and they beat upon that house, and it fell, and great was the fall thereof.",
+        "And it came to pass when Jesus had fully ended these words, the people were in admiration at his doctrine.",
+        "For he was teaching them as one having power, and not as the scribes and Pharisees."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 7:21-29",
+      "reference": "Matthew 7:21-29",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 12th week of Ordinary Time",
+        "key": "thursdayOfThe12ThWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/25.html",
+    "title": "Gospel and Word of the Day - 25 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-25"
+}
