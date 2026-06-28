@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d30d82e32643a9ae3fd2d00a68f524897885c4897883e3135cd02f2e4706147d",
+        "inputSha256": "e4e457655e44bd7714c4ef77537e7b5f02dbb6b52d251f2ed901f5cd2fef8458",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2f895bb0506cd3a24d6b6f9e667be0e50f64ceb04df45c365325db2bbd54e7d7",
+        "inputSha256": "780438230603b3ae904c39a7e449811dfa894e5d794e85b6a8931f25cfc016a4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1f0adb04c2adc06389999e94bb143573e70d43974984bbcc6b6a8262a36240a0",
+        "inputSha256": "9af6478c0eaa03ae00f6313671f6077d7210b51d514e166d8e8501bf7f792dd0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-28T01:57:59.214Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The Shunammite’s spare room is a human psyche making a clean, bounded space for what exceeds it. She doesn’t seize the holy; she hosts it, and the “reward” arrives as unwanted possibility: fertility as fate. That recoil—don’t lie to me—reads like trauma’s realism: hope is dangerous because it reopens the future.\n\nMatthew sharpens the same psychology into a demand: the self is not enlarged by clinging but by consenting to loss. “Cross” is the disciplined acceptance of a life reorganized around something higher than kin, comfort, or self-preservation; reception becomes identity, as if the guest you welcome rewrites the host.\n\nSemina Verbi: Hindu atithi devo bhava treats the guest as divine; Buddhist dana and the bodhisattva’s renunciation echo the paradox of finding life by letting it go; Sufi futuwwa and adab sacralize hospitality as ego-thinning; Stoic oikeiosis, speculatively, resembles the reordering of loves toward a larger rational whole; in Japanese tea (chanoyu), speculatively, the prepared small room becomes a ritualized surrender of status into attentive presence.",
+    "excursus": "The Shunammite’s hospitality isn’t piety; it’s a controlled seduction of the sacred. She builds a room like a trap—bed, table, lamp—domestic furniture arranged to keep the holy man within reach, to make transcendence sleep under her roof. Her husband is old, her house is orderly, and her desire has nowhere to go except into managing a visitor. She names him “holy” the way you name a hunger so it will behave.\n\nElisha’s gratitude turns predatory. He asks what she wants, then delivers what she never asked for: a son. The promise lands like an invasion of the body. Her protest—don’t lie to me—sounds like someone who has survived hope before and knows it as cruelty. A miracle here is not comfort; it’s the imposition of a future that will bind her, expose her, and make her lose the clean autonomy of barrenness.\n\nMatthew sharpens the same knife. Love is not enlarged; it’s confiscated. The demand to prefer him over parents and children isn’t spiritual heroism but a jealous reordering of attachment, the creation of a new dependency that calls itself truth. Take up your cross means consent to being emptied, to becoming useful to an idea that feeds on your ties.\n\n“Receiving a prophet” reads like generosity, but it’s a transaction with asymmetrical risk. You open your door and get a “reward,” which in these stories looks like obligation, fear, and irreversible change. Even the cup of cold water isn’t innocent; it’s the smallest gesture that can be leveraged into belonging. Desire meets dread at the threshold, and the holy enters not to bless the house, but to claim it.",
+    "synthesis": "God binds his own presence to his messengers, so that receiving them in their true name becomes participation in divine economy. Discipleship reorders natural loyalties and converts even small acts into judged allegiance.",
+    "gospel": [
+      {
+        "text": "The passage builds a hierarchy of identifications—disciple, just man, prophet—then attaches “reward” to recognition “in the name of.” The issue is not generosity as such but correct attribution: to receive the messenger as messenger is to consent to the Sender’s claim.",
+        "lines": [
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prophet’s question exposes the asymmetry: she gives without bargaining, yet the household’s lack is legible to the servant. The narrative locates need not in her speech but in the community’s observation, then makes the prophet’s response an act of divine initiative rather than repayment.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Holiness arrives as traffic; she interrupts it with bread.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "She names him before he speaks; discernment precedes doctrine.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A “little” room stocked with ordinary objects: sanctity housed in the mundane.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "She stands at the threshold; promise is delivered at a doorway, not a throne.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Miracle offered as a sentence; she fears not pain but false speech.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kinship demoted; the Messiah claims first rank over blood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Worthiness measured by weight carried, not feelings professed.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The paradox is transactional: keep life and forfeit it; spend it and gain it.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reception is a chain of presence; hospitality becomes theology.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cold water: minimal gift, maximal accounting; nothing disappears.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of the truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live free from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live free from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And there was a day when Eliseus passed by Sunam: now there was a great woman there, who detained him to eat bread: and as he passed often that way, he turned into her house to eat bread.",
+        "And she said to her husband: I perceive that this is a holy man of God, who often passeth by us.",
+        "Let us, therefore, make him a little chamber, and put a little bed in it for him, and a table, and a stool, and a candlestick, that when he cometh to us he may abide there.",
+        "Now, there was a certain day, when he came, and turned into the chamber, and rested there.",
+        "And he said: What will she then that I do for her? And Giezi said: Do not ask, for she hath no son, and her husband is old.",
+        "Then he bid him call her. And when she was called, and stood before the door,",
+        "He said to her: At this time, and this same hour, if life be in company, thou shalt have a son in thy womb. But she answered: Do not, I beseech thee, my lord, thou man of God, do not lie to thy handmaid."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Kings 4:8-11,14-16",
+      "reference": "2 Kings 4:8-11,14-16",
+      "heading": "A reading from the Second Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "He that loveth father or mother more than me, is not worthy of me; and he that loveth son or daughter more than me, is not worthy of me.",
+        "And he that taketh not up his cross, and followeth me, is not worthy of me.",
+        "He that findeth his life, shall lose it: and he that shall lose his life for me, shall find it.",
+        "He that receiveth you, receiveth me: and he that receiveth me, receiveth him that sent me.",
+        "He that receiveth a prophet in the name of a prophet, shall receive the reward of a prophet: and he that receiveth a just man in the name of a just man, shall receive the reward of a just man.",
+        "And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you he shall not lose his reward."
+      ],
+      "lineRefs": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:37-42",
+      "reference": "Matthew 10:37-42",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "13th Sunday of Ordinary Time",
+        "key": "13ThSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/28.html",
+    "title": "Gospel and Word of the Day - 28 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-28"
+}
