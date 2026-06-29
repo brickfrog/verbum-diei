@@ -1,0 +1,306 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "fef9f3bc8a86061b899c06dc9222d62472b68c9988f88caf2b2020dcc69d96cb",
+        "inputSha256": "f89a1f957233e82f1bba33ef661e44ba190fd96746a540ef098970413b89b059",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "81091963f031f7a0502f423a78b775199d0243d19288548df12ab041193ac8d0",
+        "inputSha256": "2971db834e21b7df96773de5dca8f68823bfb0df69ee7bdd30abec7b01786859",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "023829d196ceb04833d0eae9e4e0d58a1ca41f770480d6126afb31ab13e01b32",
+        "inputSha256": "b7f489718d4059032fd6f68b58a79c76d31e07f5046878855ede42255f142516",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-29T01:58:50.357Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The prison escape reads like the psyche’s sudden unfreezing: a light in the cell, a jolt to the ribs, the body reassembled by small commands—stand, dress, walk—before the mind can explain it. That sequence resembles yogic “awakening” narratives in Hindu and Buddhist texts where liberation begins as somatic clarity and only later becomes conceptual; speculation: the angel functions as the inner guide that arrives when communal intention concentrates, like Tibetan Buddhism’s protector imagery or the Hindu guru as grace.\n\nThe “rock” and “keys” feel like an archetype of delegated authority that stabilizes a group’s reality against panic and fragmentation. Confucian tradition names a similar task in the junzi who anchors ritual order; Roman civic religion and later Stoicism imagine the custodian of the city’s moral gates. Speculation: “binding and loosing” parallels rabbinic halakhic speech-acts and also the Hindu notion of mantra as performative utterance that changes the world, not by force but by authorized naming.\n\n“Gates of hell” as a fortress image has close cousins in Zoroastrian dualism’s strongholds of the Lie and in Islamic eschatological gatekeeping; but here the emphasis is psychological endurance: the community builds a shared interior architecture that outlasts terror. The keys are less a weapon than a permission to open and close meaning, like the Daoist sage who aligns the hinges of the world so passage becomes possible.",
+    "excursus": "Peter is not the rock; he is the crack the whole structure learns to live with.\n\nIn Acts he is reduced to pure body: sleeping, chained, handled. The “angel” reads like the mind’s last, bright refusal to consent to public execution. The details are fetishistic—sandals, belt, cloak—as if survival depends on obeying small commands when history becomes monstrous. The gate opens “of itself,” because power is a stage set; it works only while everyone agrees to be afraid.\n\nThe church’s “unceasing prayer” is not a miracle-machine but a pressure of desire, a collective insistence that Peter must not die yet because they need him as a symbol. James is already dead; God did not intervene. Peter is spared not because he is holier but because he is useful.\n\nIn Matthew, the keys are not a coronation but a burden. Peter’s confession is called revelation precisely because it bypasses reason; it is a leap that can’t be proven, so it must be enforced. “Bind and loose” is the language of control dressed as heaven. The gates of hell won’t prevail because the real threat is not hell; it is the crowd’s appetite, the same appetite Herod courts. Peter survives the prison to become another kind of jailer, keeping a frightened people together by deciding what counts as open and what must stay shut.",
+    "synthesis": "Christ constitutes his Church by revealed confession and grants Peter real juridical authority. Therefore no political violence or infernal enclosure can finally detain the apostolic mission.",
+    "gospel": [
+      {
+        "text": "The text moves from inadequate identifications (prophetic recycling) to a new kind of naming that creates office: the confession triggers a re-naming, and the re-naming is immediately coupled to institutional permanence and delegated jurisdiction.",
+        "lines": [
+          2,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "“Gates” are defensive, not offensive; the claim is not that hell will attack and fail, but that death’s city cannot hold when the Church advances under Christ’s construction.",
+        "lines": [
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative times Peter’s arrest to a feast and postpones his display “after the pasch”: liturgical time is exploited as political theater, but it also becomes the stage on which deliverance will contradict the calendar of power.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The angel’s commands are mundane—dress, walk, follow—so the miracle is routed through obedience and ordinary motion; only afterward does Peter interpret events, and his interpretation names not merely escape but the collapse of “expectation,” the crowd’s imagined verdict.",
+        "lines": [
+          8,
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Royal hands reach into the Church: the state’s touch is injury.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "James falls without speech; the sword edits the apostolic college.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Policy by applause: persecution calibrated to “pleased the Jews.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two forces: custody and unceasing prayer; the Church answers chains with address to God.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peter sleeps in double bonds; peace inside coercion is its own sign.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Light in a cell; a blow to the side as summons—grace is not always gentle.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Iron opens “of itself”: the world’s hard closures behave like doors when commanded.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Public rumor is gathered first; the question begins in hearsay.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The pivot: from “men” to “you”—discipleship is forced into speech.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A compressed confession: Messiahship and divine sonship in one breath.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge sourced upward: revelation displaces lineage and instinct.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rock against gates: architecture versus siege; the Church is built as a fortress.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Keys and verbs: authority rendered as access-control and juridical speech.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who fill us with holy joy in celebrating the feast of Saints Peter and Paul, grant that your Church may always remain faithful to the teaching of those who were the foundation of our Christian faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you fill us with holy joy in celebrating the feast of Saints Peter and Paul; grant that your Church may always remain faithful to the teaching of those who were the foundation of our Christian faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you fill us with holy joy as we celebrate the feast of Saints Peter and Paul; grant that your Church may always remain faithful to the teaching of those who were the foundation of our Christian faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you fill us with holy joy as we celebrate the feast of Saints Peter and Paul; grant that your Church may always remain faithful to the teaching of those who were the foundation of our Christian faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who fill us with holy joy in celebrating the feast of Saints Peter and Paul, grant that your Church may always remain faithful to the teachings of those who were the foundation of our Christian faith. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who fill us with holy joy in celebrating the feast of Saints Peter and Paul, grant that your Church may always remain faithful to the teachings of those who were the foundation of our Christian faith. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And at the same time, Herod the king stretched forth his hands, to afflict some of the church.",
+        "And he killed James, the brother of John, With the sword.",
+        "And seeing that it pleased the Jews, he proceeded to take up Peter also. Now it was in the days of the Azymes. Azymes... The festival of the unleavened bread, or the pasch, which answers to our Easter.",
+        "And when he had apprehended him, he cast him into prison, delivering him to four files of soldiers, to be kept, intending, after the pasch, to bring him forth to the people.",
+        "Peter therefore was kept in prison. But prayer was made without ceasing by the church unto God for him.",
+        "And when Herod would have brought him forth, the same night, Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.",
+        "And behold an angel of the Lord stood by him and a light shined in the room. And he, striking Peter on the side, raised him up, saying: Arise quickly. And the chains fell off from his hands.",
+        "And the angel said to him: Gird thyself and put on thy sandals. And he did so. And he said to him: Cast thy garment about thee and follow me,",
+        "And going out, he followed him. And he knew not that it was true which was done by the angel: but thought he saw a vision.",
+        "And passing through the first and the second ward, they came to the iron gate that leadeth to the city which of itself opened to them. And going out, they passed on through one street. And immediately the angel departed from him.",
+        "And Peter coming to himself, said: Now I know in very deed that the Lord hath sent his angel and hath delivered me out of the hand of Herod and from all the expectation of the people of the Jews."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Acts 12:1-11",
+      "reference": "Acts 12:1-11",
+      "heading": "A reading from the Book of the Acts of the Apostles",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus came into the quarters of Cesarea Philippi: and he asked his disciples, saying: Whom do men say that the Son of man is?",
+        "But they said: Some John the Baptist, and other some Elias, and others Jeremias, or one of the prophets.",
+        "Jesus saith to them: But whom do you say that I am?",
+        "Simon Peter answered and said: Thou art Christ, the Son of the living God.",
+        "And Jesus answering said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven.",
+        "And I say to thee: That thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it. Thou art Peter, etc... As St. Peter, by divine revelation, here made a solemn profession of his faith of the divinity of Christ; so in recompense of this faith and profession, our Lord here declares to him the dignity to which he is pleased to raise him: viz., that he to whom he had already given the name of Peter, signifying a rock, St. John 1. 42, should be a rock indeed, of invincible strength, for the support of the building of the church; in which building he should be, next to Christ himself, the chief foundation stone, in quality of chief pastor, ruler, and governor; and should have accordingly all fulness of ecclesiastical power, signified by the keys of the kingdom of heaven. Upon this rock, etc... The words of Christ to Peter, spoken in the vulgar language of the Jews which our Lord made use of, were the same as if he had said in English, Thou art a Rock, and upon this rock I will build my church. So that, by the plain course of the words, Peter is here declared to be the rock, upon which the church was to be built: Christ himself being both the principal foundation and founder of the same. Where also note, that Christ, by building his house, that is, his church, upon a rock, has thereby secured it against all storms and floods, like the wise builder, St. Matt. 7. 24, 25. The gates of hell, etc... That is, the powers of darkness, and whatever Satan can do, either by himself, or his agents. For as the church is here likened to a house, or fortress, built on a rock; so the adverse powers are likened to a contrary house or fortress, the gates of which, that is, the whole strength, and all the efforts it can make, will never be able to prevail over the city or church of Christ. By this promise we are fully assured, that neither idolatry, heresy, nor any pernicious error whatsoever shall at any time prevail over the church of Christ.",
+        "And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose on earth, it shall be loosed also in heaven. Loose on earth... The loosing the bands of temporal punishments due to sins, is called an indulgence; the power of which is here granted."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 16:13-19",
+      "reference": "Matthew 16:13-19",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "RED",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Saints Peter and Paul, Apostles",
+        "key": "peterAndPaulApostles"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/29.html",
+    "title": "Gospel and Word of the Day - 29 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-29"
+}
