@@ -1,0 +1,259 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "a63a6040f33a822a3b20214d8f4fc77d9e3fb0c6e466df835239efb5ac8f4fdd",
+        "inputSha256": "49e9894c606f7f72f569fb70349029ceba149a82c13b589c82cef761146e5329",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a71dfb54cbc86a235e401d115139ce8d99a040dc27d614acfcaa72797457e36e",
+        "inputSha256": "2cd36bf543ccda8de98db5153fbd6896333d27ac3fd39932614618523e865487",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e1be8f27fc5fced7e8bf1ededddc44d3df94edf7d4e794624e1229f303a205cc",
+        "inputSha256": "cb59aef763777ff7f7bb4192b7af0d48f7b087c3b0c7b6518676ae25d11a8591",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-06-30T01:57:02.145Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Amos’s logic of consequence—sign, snare, trumpet—resembles karma as moral causality in Buddhism and Jainism, minus the metaphysics; the psyche learns by patterned repercussions. Speculation: the prophet’s “must speak” reads like the Daoist sage compelled by the Dao’s pressure, or the Greek mantis seized by mania, an inner necessity that feels larger than the self.\n\n“Be prepared to meet your God” has the texture of memento mori in Stoicism and the Tibetan bardo teachings: the encounter is not a courtroom so much as an unavoidable unveiling. The spared “firebrand” echoes Hindu prarabdha karma—residual burn that still demands reckoning—while the refusal to return mirrors the Sufi diagnosis of ghaflah, heedlessness that survives shocks.\n\nThe sleeping master in the storm parallels Zen’s image of the unmoved mind amid waves, and Krishna’s cosmic steadiness in the Bhagavad Gita; calm is not denial of danger but a different center of gravity. Speculation: the disciples’ panic is the ordinary self’s revolt against impermanence, and the command over wind and sea resembles the yogic siddhi motif, reinterpreted psychologically as authority over affect and attention rather than physics.",
+    "excursus": "Amos makes chosenness sound like a stalker’s vow. “You only have I known” is not tenderness but fixation, the kind that narrows until every misstep becomes personal and every consequence becomes proof of intimacy. The world turns into a rigged stage of omens: lion, snare, trumpet. Even disaster is framed as authored, not random, so there is nowhere to hide in accident. The prophet’s “secret” is not comfort but the sick privilege of being warned by the one who intends to strike. “Be prepared to meet your God” is the language of an appointment you didn’t make with someone who won’t take no.\n\nMatthew gives the same obsession a human face. The storm is not just weather; it is the disciples’ panic made external, waves climbing over the gunwale like thoughts that won’t stay down. Jesus sleeping is the insult: the power that could stop the terror is indifferent to their urgency. When he wakes, he doesn’t soothe; he rebukes, then performs control so clean it feels uncanny. The calm is not safety but domination, the sea snapped into silence like a throat under a hand. Their wonder is dread dressed up as awe: what kind of man makes chaos obey, and what does he do with those who don’t?",
+    "synthesis": "God’s special knowledge of a people entails stricter judgment, and his sovereign word both warns through prophets and rules the elements in Christ. Fear and unbelief are exposed as resistance to that word’s authority.",
+    "gospel": [
+      {
+        "text": "Matthew stages a theophany in miniature: Jesus’ word functions as sovereign command over creation, eliciting not relief but a reclassification of his identity. Discipleship is shown as proximity without comprehension; being in the same boat does not yet mean sharing his confidence.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Amos frames judgment as covenant logic: the Exodus creates a single “family,” and that intimacy entails disclosure through prophets before action. The closing imperative—“meet thy God”—is not invitation but summons to litigation; history is the courtroom where prior warnings are entered into the record.",
+        "lines": [
+          1,
+          7,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Election tightens the noose: “known” becomes liability.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Agreement is the hidden premise of every shared path; discord is already separation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Alarm without cause is impossible; fear is treated as evidence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophecy is compulsion, not career: speech forced by prior speech.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rescue as indictment: spared like a char, still unturned.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The boat is swamped; the sleeper is unhurried—two tempos in one scene.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prayer reduced to a verdict: “we perish.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rebuke precedes rescue; fear is the real storm.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Wonder replaces panic; the question lingers as confession.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live free from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our morning supplications, and by the light of your mercy illumine the darkness of our heart: may we who have been enlightened by your radiance never walk after the works of darkness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We give you thanks, Lord, almighty God, for you have allowed us to reach this night; we ask you to graciously accept the lifting up of our hands as an evening offering. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Hear the word that the Lord hath spoken concerning you, O ye children of Israel: concerning the whole family that I brought up out of the land of Egypt, saying:",
+        "You only have I known of all the families of the earth: therefore will I visit upon you all your iniquities. Visit upon... That is, punish.",
+        "Shall two walk together except they be agreed?",
+        "Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing?",
+        "Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?",
+        "Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done? Evil in a city... He speaks of the evil of punishments of war, famine, pestilence, desolation, etc., but not of the evil of sin, of which God is not the author.",
+        "For the Lord God doth nothing without revealing his secret to his servants the prophets.",
+        "The lion shall roar, who will not fear? The Lord God hath spoken, who shall not prophesy?",
+        "I destroyed some of you, as God destroyed Sodom and Gomorrha, and you were as a firebrand plucked out of the burning: yet you returned not to me, saith the Lord.",
+        "Therefore I will do these things to thee, O Israel: and after I shall have done these things to thee, be prepared to meet thy God, O Israel."
+      ],
+      "lineRefs": [
+        "3:1",
+        "3:2",
+        "3:3",
+        "3:4",
+        "3:5",
+        "3:6",
+        "3:7",
+        "3:8",
+        "4:11",
+        "4:12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Amos 3:1-8; 4:11-12",
+      "reference": "Amos 3:1-8; 4:11-12",
+      "heading": "A reading from the Book of Amos",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when he entered into the boat, his disciples followed him:",
+        "And behold a great tempest arose in the sea, so that the boat was covered with waves, but he was asleep.",
+        "And they came to him, and awaked him, saying: Lord, save us, we perish.",
+        "And Jesus saith to them: Why are you fearful, O ye of little faith? Then rising up, he commanded the winds, and the sea, and there came a great calm.",
+        "But the men wondered, saying: What manner of man is this, for the winds and the sea obey him?"
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 8:23-27",
+      "reference": "Matthew 8:23-27",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "First Martyrs of the Church of Rome",
+        "key": "firstMartyrsOfTheChurchOfRome"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/06/30.html",
+    "title": "Gospel and Word of the Day - 30 June 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/06/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-06-30"
+}
