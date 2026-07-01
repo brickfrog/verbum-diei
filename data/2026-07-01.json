@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "98fc98f1c2aec52ed88af29883a868f23ad928e3ffc3b3809bd0a916ab6322d5",
+        "inputSha256": "7d3fbdb560f3cdedea7d916e5e469218dba931f4c9cff019ccafa596d86a5723",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "964cb7c88c7294808c49b66556f762796830682d6825cad53f67e8c2930e3849",
+        "inputSha256": "9bce09022c534703ab4113663d2f90548b155e8a4295feb194fa110d983e7379",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3c7daac4569aa64eb061fa43490caf6d0e25e91886a831d24be42c7757a5a78a",
+        "inputSha256": "f3675b92d5d38460ea8a5c0137ac77b97560888c98f29faad6b2cb184d3c635e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-01T01:58:38.125Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Amos’s contempt for pageantry without justice rhymes with the Upanishadic suspicion of mere ritual when it is not yoked to truth, and with the Bhagavad Gita’s critique of sacrifice pursued for display rather than right action. It also meets Confucius’s insistence that li without ren is hollow: form severed from humane regard becomes noise. Speculation: the “torrent” image feels like Daoist water as the emblem of what cannot be bribed—an unowned force that levels pretension.\n\nThe Gerasene scene reads like a psychology of contagion: the town prefers a contained madness to the disruption of its economy and its self-story. That resembles Buddhist accounts of clinging to familiar suffering over the shock of release, and Stoic fear of losing what one has mistaken for stability. Speculation: the demons bargaining for a host echoes Tibetan and shamanic motifs where afflictive forces seek a vessel; the herd’s plunge is the community’s shadow, expelled yet still paid for, making liberation costly enough that people ask the healer to leave.",
+    "excursus": "Amos isn’t scolding bad religion; he’s exposing religion as a narcotic. The songs, the smoke, the calendar of feasts are a way to keep God at a safe distance, to turn dread into managed feeling. So the voice breaks in with disgust: stop anesthetizing yourselves. If you want God “with you,” you don’t get him as ambience. You get him as flood. Justice is not a virtue you practice; it’s a force that arrives and ruins your arrangements.\n\nMatthew stages that arrival. Jesus crosses water like an intrusion, steps into the graveyard where the city has stored what it cannot metabolize: rage, shame, unclean desire. The demons know him as torment because he won’t let the disorder stay quarantined. They bargain for a body, any body. He grants it, and the truth of the town’s economy shows itself: the pigs are the real herd, the real livelihood, the real altar. The possessed men are freed, but the cost is visible, immediate, and obscene.\n\nSo the city does what Amos condemns: it chooses ritual normalcy over cleansing. They don’t reject Jesus because they’re faithless; they reject him because he works. He makes justice concrete, and concrete justice is a torrent that takes your property, your stories, your carefully fenced-off graves. They ask him to leave because they prefer their demons domesticated, their worship musical, and their lives intact.",
+    "synthesis": "God rejects worship that evades justice, and Christ’s authority over unclean powers exposes what a society truly values when holiness threatens its arrangements.",
+    "gospel": [
+      {
+        "text": "Jesus crosses a boundary and immediately reorders a contested space: tombs, road, city. The narrative’s climax is not the exorcism but the civic reaction—public testimony spreads, then public consensus forms to remove him; the community chooses managed danger over holy authority.",
+        "lines": [
+          1,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The swine function as a visible ledger of invisible forces: what was hidden in persons becomes measurable loss. The episode exposes how quickly people translate spiritual liberation into property damage and then render their verdict.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage binds divine presence to a social program: life with God is conditioned by a community’s concrete adjudication, not by its cultic calendar. “Remnant” language narrows the horizon—mercy is not presumed for the whole, but sought for what survives judgment.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Sacrifice is refused not because sacrifice is meaningless, but because it has become a substitute currency. The text attacks the attempt to purchase God while leaving the civic world unchanged.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Seek…that you may live”: ethics framed as survival, not ornament.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Judgment in the gate”: public justice, not private sentiment; the gate is where power sits.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God’s “hate” targets liturgy; the scandal is worship without moral weight.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Songs become “tumult”: praise reclassified as noise when detached from obedience.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Justice is not a trickle but a flood; it erodes what it meets.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Demons preach Christology: “Son of God” from unclean mouths.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Before the time”: evil knows there is a schedule and a Judge.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They negotiate; even in defeat they seek terms.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One word—“Go”—and an economy drowns; deliverance has collateral.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The city prefers distance to disruption; they exile the healer to keep their order.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who by the grace of adoption have willed to make us children of the light, grant that we may not be enveloped by the darkness of error, but may always remain in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, our Savior, grant us your help, that we may always desire the works of light and do what is true; so that we who have been born of you as children of the light may be your witnesses before all. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our supplications and protect us by day and by night; you who are unchanging, grant steadfastness always to us who live subject to the succession of times and hours. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a gentle yoke and a light burden; deign, then, to accept the desires and the deeds of the day we have ended. May we rest through the night so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Seek ye good, and not evil, that you may live: and the Lord the God of hosts will be with you, as you have said.",
+        "Hate evil, and love good, and establish judgment in the gate: it may be the Lord the God of hosts may have mercy on the remnant of Joseph.",
+        "I hate, and have rejected your festivities: and I will not receive the odour of your assemblies.",
+        "And if you offer me holocausts, and your gifts, I will not receive them: neither will I regard the vows of your fat beasts.",
+        "Take away from me the tumult of thy songs: and I will not hear the canticles of thy harp.",
+        "But judgment shall be revealed as water, and justice as a mighty torrent."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Amos 5:14-15,21-24",
+      "reference": "Amos 5:14-15,21-24",
+      "heading": "A reading from the Book of Amos",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when he was come on the other side of the water, into the country of the Gerasens, there met him two that were possessed with devils, coming out of the sepulchres, exceeding fierce, so that none could pass by that way.",
+        "And behold they cried out, saying: What have we to do with thee, Jesus Son of God? art thou come hither to torment us before the time?",
+        "And there was, not far from them, a herd of many swine feeding.",
+        "And the devils besought him, saying: If thou cast us out hence, send us into the herd of swine.",
+        "And he said to them: Go. But they going out went into the swine, and behold the whole herd ran violently down a steep place into the sea: and they perished in the waters.",
+        "And they that kept them fled: and coming into the city, told every thing, and concerning them that had been possessed by the devils.",
+        "And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coast."
+      ],
+      "lineRefs": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 8:28-34",
+      "reference": "Matthew 8:28-34",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Blessed Junipero Serra, Priest",
+        "key": "blessedJuniperoSerraPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/01.html",
+    "title": "Gospel and Word of the Day - 01 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-01"
+}
