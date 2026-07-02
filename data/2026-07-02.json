@@ -1,0 +1,270 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bd891900db7a2ff05984fe4bb6a782d036a580bb926b14fb0f72a775e626b04a",
+        "inputSha256": "a3d8bb50f02f6e5ddaa03204289b2f42b90a4a46fd477ad2eb8652df4c926758",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2cf8a9ca85e28c3154ceb641593c35f15b0953a3f819e61c94c63863352c2edc",
+        "inputSha256": "f59488b1cfc723c1163459e9d0f1475363c20ea3cebafa9575b1642e01b5b6a5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "019330844be154be866db1db3f8b920f600acd6f852153e3bb1427cad050b382",
+        "inputSha256": "fb731dcf959c986a93855acaf61ab9f7013817dc37970849062350b7e9854302",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-02T01:57:07.243Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Amos reads like the archetype of the unwilling truth-teller: an ordinary worker conscripted by a voice that won’t let him keep his life small. That pressure resembles the Greek daimonion in Socrates, an interior check that overrides prudence, and it also echoes the Hindu idea of dharma arriving as an inescapable duty rather than a career. Speculation: the priest’s panic is less about doctrine than about institutional homeostasis; the “land cannot bear” is a psyche defending itself against shame.\n\nJesus’ move—naming forgiveness before movement—parallels Buddhist accounts where release of grasping precedes bodily ease, and Daoist healing where alignment comes before technique. The scribes’ silent accusation reads like a superego policing who is allowed to absolve; Jesus answers by exposing thought itself as the battleground. Speculation: the paralysis functions as embodied guilt, and the public miracle is a social reauthorization of the man’s place, akin to restorative rites in many Indigenous traditions where reintegration heals as much as medicine.",
+    "excursus": "Amos is treated as a public health hazard: the land can’t “bear” his words. Amaziah isn’t defending doctrine; he’s defending the nervous system of the state. Bethel is the king’s sanctuary, the house of the kingdom, where speech must be domesticated into reassurance. Amos refuses the professional mask. He is a herdsman, an amateur, which is why he’s terrifying: he has no career to protect, no institution to soothe, only a compulsion that arrived from outside the system.\n\nThe curse on Amaziah is obscene on purpose. It isn’t piety; it’s humiliation as policy. When power tells the truth-teller to go earn his bread elsewhere, the truth-teller answers by stripping power’s family of dignity, lineage, and land. Prophecy here is not moral instruction; it’s counter-violence, the language of dread used to break a monopoly on meaning.\n\nIn Matthew, the same struggle is staged more elegantly. Jesus begins with the invisible: forgiveness. The scribes call it blasphemy because it bypasses their gatekeeping. He reads their thoughts, not to shame them, but to show that authority now operates at the level of interior life. The paralytic’s body is the proof, but the real miracle is administrative: a new jurisdiction over guilt.\n\nThe crowd fears because they recognize what has happened. Power has shifted from temple and court to a man who can rename a person’s past and make it stick. “Such power to men” is not comfort; it’s terror and desire at once—the longing to be released, and the dread that someone can see you, absolve you, and therefore own you.",
+    "synthesis": "God’s word is not licensed by sanctuary or guild; it is authorized by divine seizure and exercised as judgment. In Christ that same authority appears on earth as the power to forgive sins, publicly ratified by bodily restoration.",
+    "gospel": [
+      {
+        "text": "The scene is staged as a public verification: the Son of Man’s authority is asserted “on earth” and then enacted in ordinary space—house, bed, walking. The miracle is not spectacle but credential, binding bodily restoration to a legal act of absolution.",
+        "lines": [
+          1,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The crowd’s response frames the event as delegated power, but the narrative has already centered a singular agent who reads hearts and pronounces remission. Their doxology is real yet incomplete: they praise the category while the text presses the identity.",
+        "lines": [
+          2,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The dispute is jurisdictional: who may speak for God to “my people.” The priest’s prohibition attempts to domesticate revelation inside a state cult; the prophet answers by relocating authority to a prior seizure—God’s initiative that precedes institution.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The charge of rebellion shows how judgment against a dynasty is treated as treason against the nation. The text forces a choice: stability as the highest good, or truth that destabilizes; the priest chooses the former and thereby indicts himself.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Priest as informant; prophecy recast as sedition. “Land” made fragile by speech.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Flee” and “eat bread”: prophecy reduced to a trade. Bethel defined as royal property, not holy ground.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Anti-credential: not guild, not lineage. The fig-plucker outranks the court priest by call, not craft.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment targets the priest’s household and acreage: sex, blood, survey-line. Exile named as the final pollution.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith is seen, not argued; forgiveness spoken before cure. The deeper paralysis is moral.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silent accusation meets exposed interiority. Their “within” is already a courtroom.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Easier” becomes a trap: the invisible claim is proved by a visible command. Bed turns from burden to evidence.",
+      "lines": [
+        5,
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They fear the gift more than the disease. Power “to men” is heard, but its source is missed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we humbly come to you at the beginning of the day, at midday, and at evening, to ask that, driving away from us the darkness of sin, you may bring us to the true light, who is Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who illumine the night and make the light dawn anew after the darkness, grant that during the night now beginning we may be free from every fault, and that, when the new day breaks, we may gather once more in your presence to give you thanks again. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with all our body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Amasias the priest of Bethel sent to Jeroboam king of Israel, saying: Amos hath rebelled against thee in the midst of the house of Israel: the land is not able to bear all his words.",
+        "For thus saith Amos: Jeroboam shall die by the sword, and Israel shall be carried away captive out of their own land. Jeroboam shall die by the sword... The prophet did not say this; but that the Lord would rise up against the house of Jeroboam with the sword: which was verified, when Zacharias, the son and successor of Jeroboam, was slain by the sword. 4 Kings 15.10.",
+        "And Amasias said to Amos: Thou seer, go, flee away into the land of Juda: and eat bread there, and prophesy there.",
+        "But prophesy not again any more in Bethel: because it is the king's sanctuary, and it is the house of the kingdom.",
+        "And Amos answered and said to Amasias: I am not a prophet, nor am I the son of a prophet: but I am a herdsman plucking wild figs. I am not a prophet... That is, I am not a prophet by education: nor is prophesying my calling or profession: but I am a herdsman, whom God was pleased to send hither to prophesy to Israel.",
+        "And the Lord took me when I followed the flock, and the Lord said to me: Go, prophesy to my people Israel.",
+        "And now hear thou the word of the Lord: Thou sayest, thou shalt not prophesy against Israel, and thou shalt not drop thy word upon the house of the idol. The house of the idol... Viz., of the calf worshipped in Bethel.",
+        "Therefore thus saith the Lord: Thy wife shall play the harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured by a line: and thou shalt die in a polluted land, and Israel shall go into captivity out of their land."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Amos 7:10-17",
+      "reference": "Amos 7:10-17",
+      "heading": "A reading from the Book of Amos",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And entering into a boat, he passed over the water and came into his own city.",
+        "And behold they brought to him one sick of the palsy lying in a bed. And Jesus, seeing their faith, said to the man sick of the palsy: Be of good heart, son, thy sins are forgiven thee.",
+        "And behold some of the scribes said within themselves: He blasphemeth.",
+        "And Jesus seeing their thoughts, said: Why do you think evil in your hearts?",
+        "Whether is easier, to say, Thy sins are forgiven thee: or to say, Arise, and walk?",
+        "But that you may know that the Son of man hath power on earth to forgive sins, (then said he to the man sick of the palsy,) Arise, take up thy bed, and go into thy house.",
+        "And he arose, and went into his house.",
+        "And the multitude seeing it, feared, and glorified God that gave such power to men."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:1-8",
+      "reference": "Matthew 9:1-8",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 13th week of Ordinary Time",
+        "key": "thursdayOfThe13ThWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/02.html",
+    "title": "Gospel and Word of the Day - 02 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-02"
+}
