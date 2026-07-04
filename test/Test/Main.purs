@@ -65,6 +65,11 @@ main = do
       assertEqual "lineRefs" [ "2:29", "3:1", "3:2", "3:3", "3:4", "3:5", "3:6" ] reading.lineRefs
       assertEqual "lines length" 7 (Array.length reading.lines)
 
+    test "resolves collapsed Amos 9:15 verse" do
+      reading <- fetchBibleReading "Amos 9:11-15"
+      assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
+      assertEqual "lines length" 5 (Array.length reading.lines)
+
     liftEffect (log "All tests passed.")
 
 test :: String -> Aff Unit -> Aff Unit

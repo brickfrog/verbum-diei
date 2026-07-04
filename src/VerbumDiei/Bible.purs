@@ -294,6 +294,12 @@ verseMaps =
     , remaps: []
     , aliases: [ { chapter: 4, fromVerse: 41, toVerse: 40 } ]  -- DRA combines NV 40+41 into verse 40
     }
+  , { book: "Amos"
+    , folds: []
+    , offsets: []
+    , remaps: []
+    , aliases: [ { chapter: 9, fromVerse: 15, toVerse: 14 } ]  -- DRA combines modern 9:14+15 into verse 14
+    }
   , { book: "Acts"
     -- DRA Acts 14 merges modern 14:6+7 into DRA 14:6; modern 14:8-28 = DRA 14:7-27.
     , folds: []
