@@ -1,0 +1,245 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6c3f729346dcacc5b93d8332148780d85e68767edfe083daa8f4e69a33cdc430",
+        "inputSha256": "c4e988cd6e39a55ef401e07b9c2fbc57c9cda43265fb12519a2de8944a7a95e7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e153938d93fdb77851daa89018d4aac7e4a3686e00afe770e1a1a56b5f7fb711",
+        "inputSha256": "ecf63427392f548b1fbdef48c4b82beabc89178bc32572ac15a705fa47253bcd",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6b63b46d8ae834ad74f313ff89f4f3736011c8de81d729f90847ffef16e5b501",
+        "inputSha256": "9906f8314ee107d466a54281c33a252e5472ade482099aa6ca5744b270255010",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-04T02:59:31.000Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is repair and rupture held in the same hand: a house rebuilt, and a garment that must not be patched. Psychologically it’s the difference between restoration after trauma and the compulsive attempt to glue the old self back together with a shiny new practice. The “bridegroom” image names a phase of presence when joy is metabolized directly, without ascetic proof; fasting arrives later as grief-work, not virtue-signaling. The warning about skins is a warning about containers: when desire intensifies, the personality’s old defenses can’t hold it; forcing it in only produces a bigger tear.\n\nSpeculation: the rebuilt “tabernacle” echoes the Hindu idea of dharma restored after collapse, a re-stitching of cosmic order rather than mere nostalgia. The ploughman overtaking the reaper resembles Daoist wu-wei abundance, where effort stops feeling sequential and life flows without the usual friction. “New wine in new skins” parallels Zen’s insistence on beginner’s mind: insight can’t be housed in inherited forms without turning them into brittle dogma. The bridegroom’s presence and absence tracks Sufi longing, where ecstasy is followed by separation that deepens the heart’s capacity rather than punishing it.",
+    "excursus": "Amos promises repair, but the repair is a conquest fantasy dressed as homecoming. The “tabernacle of David” is a collapsed ego-image: patch the breaches, rebuild the old days, and you can finally possess what’s left of Edom and “all nations.” Restoration here is not peace; it’s appetite. Even the lush agrarian overflow—ploughman overtaking reaper, hills dripping sweetness—reads like manic compensation, a world forced to produce without pause so the wound doesn’t reopen in silence.\n\nThen Matthew refuses the pious rhythm that would keep desire manageable. Fasting is not denied; it’s postponed, because the center is present. The bridegroom is a live stimulus, and mourning can’t compete with that charge. But the line that matters is “taken away”: joy is already shadowed by abduction, and the future fast is grief made inevitable.\n\nThe cloth and the wine are not gentle metaphors about “newness.” They’re warnings about containment. Old garments and old skins are the self’s familiar disciplines—rules that once held. The new thing doesn’t politely improve them; it tears them, bursts them, wastes what it came to save. The text insists that desire demands a new vessel, and that the cost of refusing is rupture: not moral failure, but psychic breakage. The kingdom arrives like surplus, and surplus is dangerous.",
+    "synthesis": "God’s restoration is not a repair of the old world but the creation of a new covenantal order. Christ’s presence and removal govern the Church’s practices, which must be remade to receive what he brings.",
+    "gospel": [
+      {
+        "text": "The question about fasting is a question about time: what season is it? Jesus answers by locating practice inside a nuptial economy—joy while the bridegroom is present, disciplined lack when he is removed—so the same act (fasting) changes meaning with the event.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The two mini-parables reject a hybrid religion that tries to domesticate the inbreaking kingdom within inherited forms. The issue is not novelty for its own sake but incompatibility: the advent of Christ creates a new order that cannot be contained by merely adjusted old structures.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle moves from dynastic collapse to a widened horizon: David’s restoration is not an end in itself but a reordering of peoples under divine claim. The “remnant” and “all nations” are drawn into a single jurisdiction defined by the Lord’s action, not Israel’s capacity.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The imagery shifts from sovereignty to fertility and settlement: abundance, rebuilding, and land-security function as signs of a covenantal reversal. The point is not comfort but the public visibility of a God who can reverse exile into rootedness.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Ruins named “David” become a project of carpentry: breaches, repairs, rebuild—politics recast as architecture.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Possession language sits beside invocation: conquest justified by a Name, not a sword.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Harvest collapses into sowing; time itself is compressed into surplus.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Plant” answers “pluck”: the same hand that uproots can make permanence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Presence suspends mourning; absence institutes fasting—asceticism as a response to loss, not a technique.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Patchwork worsens the tear: partial renovation can be more violent than decay.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "New wine is not merely added; it demands a new container or it destroys what receives it.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who by the grace of adoption have made us children of the light, grant that we may live apart from the darkness of error and remain always in the splendor of truth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the radiance of the resurrection of your Son may illumine the difficulties of our life; that we may not fear the darkness of death and may one day come to the light that has no end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this dwelling: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In that day I will raise up the tabernacle of David, that is fallen: and I will close up the breaches of the walls thereof, and repair what was fallen: and I will rebuild it as in the days of old.",
+        "That they may possess the remnant of Edom, and all nations, because my name is invoked upon them: saith the Lord that doth these things.",
+        "Behold the days come, saith the Lord, when the ploughman shall overtake the reaper, and the treader of grapes him that soweth seed: and the mountains shall drop sweetness, and every hill shall be tilled. Shall overtake, etc... By this is meant the great abundance of spiritual blessings; which, as it were, by a constant succession, shall enrich the church of Christ.",
+        "And I will bring back the captivity of my people Israel: and they shall build the abandoned cities, and inhabit them: and they shall plant vineyards, and drink the wine of them: and shall make gardens, and eat the fruits of them. And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God. THE PROPHECY OF ABDIAS ABDIAS, whose name is interpreted THE SERVANT OF THE LORD, is believed to have prophesied about the same time as OSEE, JOEL, and AMOS: though some of the Hebrews, who believe him to be the same with ACHAB's steward, make him much more ancient. His prophecy is the shortest of any in number of words, but yields to none, says ST. JEROME, in the sublimity of mysteries. It contains but one chapter.",
+        "And I will bring back the captivity of my people Israel: and they shall build the abandoned cities, and inhabit them: and they shall plant vineyards, and drink the wine of them: and shall make gardens, and eat the fruits of them. And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God. THE PROPHECY OF ABDIAS ABDIAS, whose name is interpreted THE SERVANT OF THE LORD, is believed to have prophesied about the same time as OSEE, JOEL, and AMOS: though some of the Hebrews, who believe him to be the same with ACHAB's steward, make him much more ancient. His prophecy is the shortest of any in number of words, but yields to none, says ST. JEROME, in the sublimity of mysteries. It contains but one chapter."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Amos 9:11-15",
+      "reference": "Amos 9:11-15",
+      "heading": "A reading from the Book of Amos",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then came to him the disciples of John, saying: Why do we and the Pharisees, fast often, but thy disciples do not fast?",
+        "And Jesus said to them: Can the children of the bridegroom mourn, as long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken away from them, and then they shall fast. Can the children of the bridegroom... This, by a Hebraism, signifies the friends or companions of the bridegroom.",
+        "And nobody putteth a piece of raw cloth unto an old garment. For it taketh away the fulness thereof from the garment, and there is made a greater rent.",
+        "Neither do they put new wine into old bottles. Otherwise the bottles break, and the wine runneth out, and the bottles perish. But new wine they put into new bottles: and both are preserved."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:14-17",
+      "reference": "Matthew 9:14-17",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Elizabeth of Portugal",
+        "key": "saintElizabethOfPortugal"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/04.html",
+    "title": "Gospel and Word of the Day - 04 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-04"
+}
