@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6bfea8e4bbbbb444492410951b807af24ea696487e4817cf9aa7957396ccbfe4",
+        "inputSha256": "41311b41edfbe55a40b12bc0e8b53a8b09d3be2f8a49f7f9f2c85d1bb8545cf4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "47b97d4a0419a13c923bd7973a77303006f11bb077814ca959549f7e4e748abb",
+        "inputSha256": "d9bba29c2a5ac4d36e47d49cd60826d06204c1fee71ee3fee7292db274042388",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "513d0849267097fe159bc9c41484ff763cae6d9b5f0d535f2ce2cebfbbea7446",
+        "inputSha256": "6866badd02e0277cb375b45421c9fbe50d62eb36dadc3059ce2a225391459336",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-05T02:38:41.866Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The donkey-king is the anti-hero sovereign: authority that refuses the adrenal theater of conquest. That image rhymes with the Tao Te Ching’s “soft overcomes hard,” where the best ruler is barely seen and victory is nonviolent; speculation: the colt is the psyche’s untrained force consenting to be guided without being broken. The breaking of chariot and bow echoes Ashoka’s post-Kalinga turn from imperial violence to a public ethic of peace; not the same story, but the same psychological pivot from domination to legitimacy.\n\n“Hidden from the wise” aligns with Zen’s suspicion of cleverness and with Socratic aporia: the mind that wins arguments loses contact with reality. The “little ones” are not infants but the unarmored self, the part that can be taught because it is not performing competence. In Sufism, this resembles the praise of faqr, spiritual poverty, where emptiness becomes receptivity; speculation: revelation here is less information than a reordering of attention.\n\nThe “yoke” as sweet is close to the Bhagavad Gita’s disciplined yoga: constraint that stops feeling like constraint once it matches one’s nature. It also parallels Stoic assent, the inner yes to necessity that turns burden into bearing. Rest is not escape but integration: the exhausted divided self becomes single, and the world stops demanding that it be two people at once.",
+    "excursus": "The text sells a revolution by changing what counts as strength. Zechariah’s king arrives as an anti-king, not to seize the city but to embarrass it: poverty as pageantry, a donkey as a deliberate insult to the warhorse. The promise to “destroy the chariot” isn’t comfort; it is disarmament imposed from above, the stripping of the people’s favorite fantasy—being saved by violence that looks like theirs. Peace is not a truce; it is conquest by another means, spreading “from sea to sea” with the bland, total reach of an empire that calls itself mercy.\n\nMatthew makes the same move inside the mind. Wisdom and prudence are not corrected; they are bypassed. The “little ones” are not innocent; they are those willing to be handled, those who can be reached because they have fewer defenses. Revelation becomes a kind of selective intimacy: no one knows, except whom the Son chooses. The invitation to the weary is tender, but it is also recruitment. Rest is offered in exchange for a yoke.\n\n“Meek and humble of heart” reads like softness, yet it functions like an irresistible authority: the gentleness that can command without raising its voice. The burden is “light” because it relocates weight from action to allegiance. You stop striving to justify yourself, and you submit to being named and carried. Desire and dread meet there: the longing to be relieved, and the fear that relief will cost you your weapons, your cleverness, your right to manage your own salvation.",
+    "synthesis": "God’s kingdom advances by humility and disclosure, not by force or elite competence. Christ’s lordship binds by a gentle yoke that grants true rest because it is the rule of the meek King.",
+    "gospel": [
+      {
+        "text": "The passage moves from doxology to delegation to summons: the Father’s pleasure establishes the epistemic order, the Son’s authority establishes access, and the call establishes a new economy of labor where rest is not escape but reorientation under a different master. The logic is covenantal: belonging precedes understanding, and understanding issues in a disciplined peace.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle sketches a dominion that expands by subtraction: instruments of coercion are removed so that rule can be measured by its reach (“sea to sea”) without the usual machinery of empire. The scope is universal, but the means are anti-imperial; sovereignty is asserted precisely through demilitarization.",
+        "lines": [
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Imperative joy before any evidence; the city addressed as a daughter, not a fortress.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "King arrives as “poor”: royalty inverted into lack; justice and salvation wear rags.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The mount is a parody of conquest: ass and colt instead of stallion; triumph without terror.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God disarms both tribes: Ephraim and Jerusalem stripped alike; civil and sacred militaries collapse together.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peace is spoken, not enforced; the word replaces the bow.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation is a reversal of audience: the competent are excluded; the small are admitted.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge is gated by persons, not proofs: Father↔Son, then elective disclosure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The invitation targets exhaustion, not curiosity; need is the credential.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Yoke offered as schooling: submission recast as apprenticeship to meekness.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sweet yoke: constraint that tastes like relief; burden redefined by the bearer.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we beseech you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without fear in your peace, and tomorrow rise with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Rejoice greatly, O daughter of Sion, shout for joy, O daughter of Jerusalem: BEHOLD THY KING will come to thee, the just and saviour: he is poor, and riding upon an ass, and upon a colt, the foal of an ass.",
+        "And I will destroy the chariot out of Ephraim, and the horse out of Jerusalem, and the bow for war shall be broken: and he shall speak peace to the Gentiles, and his power shall be from sea to sea, and from the rivers even to the end of the earth."
+      ],
+      "lineRefs": [
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Zechariah 9:9-10",
+      "reference": "Zechariah 9:9-10",
+      "heading": "A reading from the Book of Isaiah Zechariah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that time Jesus answered and said: I confess to thee, O Father, Lord of Heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them to little ones.",
+        "Yea, Father: for so hath it seemed good in thy sight.",
+        "All things are delivered to me by my Father. And no one knoweth the Son but the Father: neither doth any one know the Father, but the Son, and he to whom it shall please the Son to reveal him.",
+        "Come to me all you that labor and are burdened, and I will refresh you.",
+        "Take up my yoke upon you, and learn of me, because I am meek, and humble of heart: And you shall find rest to your souls.",
+        "For my yoke is sweet and my burden light."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 11:25-30",
+      "reference": "Matthew 11:25-30",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "14th Sunday of Ordinary Time",
+        "key": "14thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/05.html",
+    "title": "Gospel and Word of the Day - 05 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-05"
+}
