@@ -1,0 +1,245 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "721461f08d125b6d2c4b2fa0fdd109507d606d7250246e06e407f35433ba28fc",
+        "inputSha256": "8e50dc6054d260d436b0cdecfa5fa743a3f390c3222eba8feac19920719bb359",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "67a6cdb611ddbf0dda800d00460ab4b2f664499f70c867d2e07275cfa15f2f24",
+        "inputSha256": "c15478507706783241f7038531188542093fe09b5e2d46a00f7221f591d98b7a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a3e56cf6e3eb69bfe5e155486048dbe4eb5eadf92aed4ab6b138365d9f9d1905",
+        "inputSha256": "03152caf10e93181a833ed11eb5ff38e9fbd0e3193ce695ca131be5d813731f8",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-06T01:56:46.131Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s refusal of “Baali” for “Ishi” feels like a psycholinguistic exorcism: the beloved must be renamed so the old coercive god cannot hide inside an intimate word. That resembles the Jewish care around the Divine Name, where speech is disciplined to keep power from becoming an idol, and also the Islamic insistence on tawhid, where even subtle associations are treated as spiritual drift. Speculation: it also echoes Buddhist “right speech” as a hygiene of desire, not morality but decontamination.\n\nThe covenant with animals and the disarmament of the land reads like the psyche after reconciliation: aggression drops, the world stops feeling predatory, and even the smallest “creeping things” are no longer enemies. That parallels Jain ahimsa as an ontological peace with all life, and Daoist wu-wei as the end of force that lets the ten thousand things settle. Speculation: it brushes the Stoic sense of cosmos as a single polity when passions are quieted.\n\nIn Matthew, the woman’s touch is a stealth therapy of shame: she cannot ask for care, so she takes it by contact, and the healer answers by giving her a public name—“daughter”—turning private relief into restored belonging. That resembles Hindu and Buddhist darshan, where proximity and seeing are not symbols but conduits, and also the Sufi baraka of a saint’s cloak or footprint, where grace is transmitted through nearness. Speculation: it matches modern trauma work where safe contact precedes narrative.\n\nThe girl “sleeping” is a refusal to let the crowd’s certainty define reality; the laughter is the social instinct to protect consensus against hope. The hand-taking is intimate authority, not spectacle. That parallels the Orphic and Eleusinian intuition that death is a veil, and the Tibetan Buddhist bardo imagination where states are traversed rather than sealed. Speculation: it also resembles shamanic retrieval myths, where the healer enters the house of mourning and brings back what the community has already declared lost.",
+    "excursus": "Hosea stages redemption as linguistic captivity. God doesn’t just want fidelity; he wants the mouth. “My husband” replaces “my lord” not because the old word is pagan, but because it keeps the erotic hierarchy intact. Renaming is a jealous surgery: desire is permitted only if it speaks the approved nickname. Peace follows as domestication—animals, weather, soil all drafted into a total order where even war is edited out, not defeated.\n\nMatthew gives the same hunger in two bodies. The bleeding woman steals health like contraband, touching cloth the way a starving person touches bread. Jesus calls it “faith,” but it’s also refusal to ask permission. Then he walks into a house that already knows what death looks like and calls it sleep, a denial so brazen the mourners laugh. He clears the room, takes the girl’s hand, and pulls her back as if life were a private possession reclaimed from public grief. Both scenes promise healing, but the price is surrendering your story—your gods, your words, your mourning—to the one who insists on naming everything.",
+    "synthesis": "God’s reconciliation purges idolatrous speech and reorders creation into peace. Christ’s authority heals by faith and raises the dead, overruling both impurity and death itself.",
+    "gospel": [
+      {
+        "text": "Two resurrections are interleaved: one public (the ruler’s household) and one private (the hemorrhaging woman), with Jesus’ movement binding them into a single demonstration of authority that is neither delayed by interruption nor diminished by secrecy. The narrative turns on his sovereign freedom to be interrupted and his insistence on excluding the rout so that witness is disciplined before proclamation spreads.",
+        "lines": [
+          2,
+          5,
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a cosmic liturgy of responsiveness: heaven, earth, and produce become a chain of answered petitions, culminating in “Jezrahel” as the named site where providence is made visible. Restoration is not merely moral reform but a reordered creation in which fertility and hearing are coordinated under divine initiative.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Renaming as divorce from an old intimacy: husband-language purified of idol-sound.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Idols persist as vocabulary; conversion begins at the mouth.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peace is not sentiment but disarmament; even animals are folded into treaty.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith speaks in the tense of contradiction: “dead” and “shall live” in one breath.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Approach from behind: shame’s geometry; healing sought without permission.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A theology of contact: power assumed to cling to cloth.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He redefines death as sleep; the crowd keeps its ontology and mocks.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, you have brought us to the beginning of this day; save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you have been pleased to assist us in the work that we, your poor servants, have carried out today; as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it shall be in that day, saith the Lord: That she shall call me: My husband, and she shall call me no more Banli. My husband... In Hebrew, Ishi. Baali, my lord. The meaning of this verse is: that whereas Ishi and Baali were used indifferently in those days by wives speaking to their husbands; the synagogue, whom God was pleased to consider as his spouse, should call him only Ishi, and abstain from the name of Baali, because of its affinity with the idol Baal.",
+        "And I will take away the names of Baalim out of her mouth, and she shall no more remember their name. Baalim... It is the plural number of Baal: for there were divers idols of Baal.",
+        "And in that day I will make a covenant with them, with the beasts of the field, and with the fowls of the air, and with the creeping things of the earth: and I will destroy the bow, and the sword, and war out of the land: and I will make them sleep secure.",
+        "And it shall come to pass in that day: I will hear, saith the Lord, I will hear the heavens, and they shall hear the earth. Hear the heavens, etc... All shall conspire in favour of the church, which in the following verse is called Jezrahel, that is, the seed of God.",
+        "And the earth shall hear the corn, and the wine, and the oil, and these shall hear Jezrahel."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 2:16,17-18,21-22",
+      "reference": "Hosea 2:16,17-18,21-22",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "As he was speaking these things unto them, behold a certain ruler came up, and adored him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live.",
+        "And Jesus rising up followed him, with his disciples.",
+        "And behold a woman who was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment.",
+        "For she said within herself: If I shall touch only his garment, I shall be healed.",
+        "But Jesus turning and seeing her, said: Be of good heart, daughter, thy faith hath made thee whole. And the woman was made whole from that hour.",
+        "And when Jesus was come into the house of the ruler, and saw the minstrels and the multitude making a rout,",
+        "He said: Give place, for the girl is not dead, but sleepeth. And they laughed him to scorn.",
+        "And when the multitude was put forth, he went in, and took her by the hand. And the maid arose.",
+        "And the fame hereof went abroad into all that country."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:18-26",
+      "reference": "Matthew 9:18-26",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Maria Goretti, Virgin and Martyr",
+        "key": "saintMariaGorettiVirginAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/06.html",
+    "title": "Gospel and Word of the Day - 06 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-06"
+}
