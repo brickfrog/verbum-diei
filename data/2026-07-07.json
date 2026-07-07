@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "74625f34ec539d5cb72cd3e30e7c025bf85dbcf8abe9844df897718941031f45",
+        "inputSha256": "16d80fa36c579ff0bb0adccbd6680156cb6cdcdce29c8b3cac7ee1baa29729fb",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e27005842013d18f78c436b7a8dcd1b5a25e926cc91f725a3bb5f38d13c02f32",
+        "inputSha256": "22ed5f0024982f1e2682eb029d08ad2863a781df6dd756fb2106c338b2cea6c6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6292285edc26cea97241d7268826ffce71ffc9ace0b614ab355d6de15cb2043d",
+        "inputSha256": "fb3d3a663c8b403e1cfd43bdab7a8391e23afc47302cf1a3419cedb877fc03ed",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-07T01:56:30.482Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s “calf” that decays into webs has the same psychological contour as the Buddhist critique of clinging: what you fabricate to stabilize the self becomes insubstantial under pressure, a hungry structure that cannot feed you. “Sow wind, reap whirlwind” rhymes with karma as moral momentum, not as bookkeeping but as the way a pattern amplifies when it’s rehearsed; that parallel is speculative, but the felt logic is close.\n\nThe Pharisees’ attribution—healing labeled demonic—resembles the Taoist suspicion of “cleverness” that calls genuine virtue a trick, and the Zen warning that the judging mind will reinterpret liberation as threat. The speech restored after expulsion reads like a Vedic or yogic image of unblocked voice: when the inner knot loosens, language returns as contact with reality rather than performance.\n\n“Sheep without a shepherd” meets the Confucian idea that people fray when rites and just governance fail, and the Stoic sense that a city needs exemplars to train perception. “Harvest” and “laborers” echo bodhisattva imagery: compassion as work, not mood, with too few willing to enter the field; that link is speculative but humane.",
+    "excursus": "Hosea isn’t railing against “false religion” so much as diagnosing a craving to be ruled by something we can manufacture. Kings “not by me” are the same as calves made of silver: authority you can touch, buy, and blame. The idol is a coping mechanism for dread, and it backfires. What you build to steady yourself turns to spiders’ webs; what you sow to feel control becomes a whirlwind. Even the laws, once intimate, feel “foreign” because the self has already defected.\n\nMatthew shows the same pathology in social form. A man can’t speak because something in him has seized the mouth; when the seizure is broken, the crowd’s wonder is immediately poisoned by the need to explain it away. The accusation—he casts out devils by devils—isn’t theology, it’s envy and panic: if healing is real, then their whole economy of control collapses. Jesus’ compassion is not sentimental; it’s the ache of watching people prefer their familiar torment to the risk of being led. The harvest is great because need is endless, and laborers are few because most of us would rather build altars than do the intimate work of shepherding—because shepherding means proximity to distress, and altars let you keep your hands clean while you feed on sacrifice.",
+    "synthesis": "God rejects authority and worship that arise from human manufacture and self-interest, and he answers the resulting desolation by sending authorized laborers under the kingdom to liberate and gather.",
+    "gospel": [
+      {
+        "text": "The exorcism functions as a sign that the kingdom is operative, but it immediately triggers an interpretive war: wonder and accusation compete to name the same act. Jesus answers not by debating but by expanding the campaign—teaching, proclaiming, healing—then institutionalizes the response through petition for workers, making mission the remedy for leaderless crowds.",
+        "lines": [
+          2,
+          4,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage prosecutes cultic substitution as statecraft: wrath ignites at the public symbol, altars multiply into an infrastructure of guilt, and the end is reversal into bondage—\"Egypt\" as the logic of chosen dependence. The indictment is not ignorance but a deliberate economy of worship that manufactures its own penalties.",
+        "lines": [
+          2,
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Illicit sovereignty: rule without warrant; wealth alchemized into self-destruction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Handmade divinity collapses into vermin architecture; the artisan unmakes the sacred.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Agrarian causality turned punitive: wind as seed, chaos as crop; yield confiscated by strangers.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Law proliferates, reception shrinks; revelation treated as contraband.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mute under occupation: speech held hostage by an alien will.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Slander as counter-miracle: deliverance rebranded as collusion.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sheep without shepherd: a political-theological vacuum, not mere sentiment.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Abundance with scarcity of agents: the bottleneck is personnel, not need.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, true light who enlightens every man and shows him the way of salvation, grant us the abundance of your strength, that we may prepare before you paths of justice and peace. You who live and reign with the Father in the unity of the Holy Spirit and are God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, Lord of day and night, we humbly ask that the light of Christ, the true Sun of justice, may always illumine our lives, so that we may one day be worthy to enjoy that light in which you dwell eternally. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "They have reigned, but not by me: they have been princes, and I knew not: of their silver and their gold they have made idols to themselves, that they might perish.",
+        "Thy calf, O Samaria, is cast off, my wrath is kindled against them. How long will they be incapable of being cleansed?",
+        "For itself also is the invention of Israel: a workman made it, and it is no god: for the calf of Samaria shall be turned to spiders' webs.",
+        "For they shall sow wind, and reap a whirlwind, there is no standing stalk in it, the bud shall yield no meal; and if it should yield, strangers shall eat it.",
+        "Because Ephraim hath made many altars to sin: altars are become to him unto sin.",
+        "I shall write to him my manifold laws, which have been accounted as foreign.",
+        "They shall offer victims, they shall sacrifice flesh, and shall eat it, and the Lord will not receive them: now will he remember their iniquity, and will visit their sins: they shall return to Egypt."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 8:4-7,11-13",
+      "reference": "Hosea 8:4-7,11-13",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when they were gone out, behold they brought him a dumb man, possessed with a devil.",
+        "And after the devil was cast out, the dumb man spoke, and the multitudes wondered, saying, Never was the like seen in Israel.",
+        "But the Pharisees said, By the prince of devils he casteth out devils.",
+        "And Jesus went about all the cities and towns, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every disease, and every infirmity.",
+        "And seeing the multitudes, he had compassion on them: because they were distressed, and lying like sheep that have no shepherd.",
+        "Then he saith to his disciples, The harvest indeed is great, but the labourers are few.",
+        "Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest."
+      ],
+      "lineRefs": [
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:32-38",
+      "reference": "Matthew 9:32-38",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 14th week of Ordinary Time",
+        "key": "tuesdayOfThe14thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/07.html",
+    "title": "Gospel and Word of the Day - 07 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-07"
+}
