@@ -1,0 +1,295 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6072f0bbd7ab9d161d3169a4d5e0444fcd5c51037977c2106273bb1c20f740df",
+        "inputSha256": "9f3014cf95f46bb0866518cc32de08cb33cdeab93bf05daf59d018c8e871324e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "1843bc251636c4e5539e4f64ad4a310701c8bd286b7376bd34d34e207320b7c0",
+        "inputSha256": "e591825e887550f8e922bdd855a31a238bb43ce31bc7ed195ac99b50fe508a99",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "0a7a16c8789bd8baebfcb4b7b9d934145c0475af4cecd6b35774337c806d89df",
+        "inputSha256": "12be8a55cb30f8f56fe8584421245c47f2576b690fde530cd56227db42dd5ae3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-08T01:55:58.327Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s “divided heart” reads like a clinical picture of addiction: abundance becomes altar-building, desire multiplies its own rituals, and the self splits into craving and contempt. The collapse of kingship “as froth” is the psyche’s last authority dissolving; when inner rule is refused, panic seeks anesthesia in annihilation fantasies—mountains as a wish for obliterating cover. The cure is not sentiment but agronomy: break the hardened field, practice justice until mercy becomes harvest, a slow re-training of appetite.\n\nThe sending of the Twelve is a counter-formation: a small, named cadre replaces the froth-king with embodied responsibility. Power over “unclean spirits” and sickness is the restoration of agency where compulsions and symptoms have colonized life. The initial restriction to “lost sheep” is triage: begin where the wound is most intimate, where language and memory can bear the shock of change; only then can the news of a near kingdom be heard as possibility rather than threat.\n\nSemina Verbi: Hosea’s fallow ground echoes Daoist inner cultivation, where the overgrown heart-mind is cleared by steady practice; speculative, but the shared intuition is that disorder is not argued away but tilled. The cry to the mountains resembles Buddhist dukkha’s wish for non-being, met not by escape but by disciplined path; speculative, yet both see despair as a distorted strategy. The Twelve’s mission as healing and exorcism parallels Sufi tazkiyah, purification that restores the self’s governance under a higher order; speculative, but the emphasis on named companionship and directed work is striking.",
+    "excursus": "Hosea’s vine is not barren; it’s lush, productive, and that’s the problem. Plenty doesn’t turn into gratitude, it metastasizes into altars. Desire multiplies its own outlets until the heart is “divided,” not between good and evil but between competing satisfactions. When the crash comes, they don’t repent; they outsource terror to geography: mountains, hide us. Dread wants anesthesia, not truth.\n\nMatthew answers with a sharper dread: the cure arrives as a small, named band, a human inventory of mixed motives, including the betrayer already nested in the list like a splinter under the skin. Power over “unclean spirits” reads like power over compulsions, over the inner infestations that make a nation build idols out of its harvest.\n\nAnd then the scandal: don’t go wide, go narrow. No Gentile road, no Samaritan city. The kingdom comes with a border, because desire needs containment before it can be freed. Israel’s sickness is not lack but misdirected abundance; so the message goes first to the “lost sheep,” the ones who have everything to feed on and still can’t stop eating. The kingdom is “at hand” the way an intervention is at hand: close enough to touch, close enough to ruin your favorite lies.",
+    "synthesis": "Idolatry converts blessing into self-made religion and ends in desolation; God answers by breaking false structures and demanding justice as repentance. Christ inaugurates the kingdom by authorizing a concrete, ordered mission that confronts Israel first and tolerates no delay.",
+    "gospel": [
+      {
+        "text": "Jesus constitutes a commissioned body by granting specific competencies; the mission is not generic piety but enacted dominion over impurity and decay. The initial restriction to Israel is strategic and juridical: the kingdom’s announcement confronts the covenant people first, exposing their lostness and summoning them to immediate allegiance.",
+        "lines": [
+          1,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The naming of the Twelve functions as institutional grounding: identifiable agents, not anonymous enthusiasts. Including the betrayer in the official list signals that apostolic office does not guarantee fidelity; the kingdom advances through compromised instruments without being compromised.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a reversal of covenant economics: abundance does not yield gratitude but infrastructure for false worship, so judgment takes the form of dismantling what prosperity built. The final command redefines “seeking” as a timed response to divine initiative—God comes as teacher, and the only adequate preparation is cultivated justice rather than ritual multiplication.",
+        "lines": [
+          1,
+          2,
+          6
+        ]
+      },
+      {
+        "text": "Political collapse is presented as theological consequence: when fear of the Lord is absent, kingship becomes both unnecessary and ineffectual, dissolving into ephemera. The destruction of high places culminates in a liturgical vacuum where the land itself testifies against the cult, turning sacred sites into evidence of abandonment.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Fertility becomes evidence for apostasy: fruit → altars.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A divided heart is not complexity; it is sentence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Politics as alibi: no king because no fear of God.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingship reduced to foam—brief, weightless, ungraspable.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Thorns inherit liturgy; the altar becomes a weed-bed.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Cover us” is prayer inverted: creation asked to do what God was refused.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Agrarian imperative: justice is seed; mercy is harvest; repentance is plow.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority is delegated, not discovered: power over spirits and sickness.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The roster is a theology of mixed materials; betrayal is listed without surprise.",
+      "lines": [
+        2,
+        3,
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mission begins with a boundary; universality has an order.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Lost sheep” names Israel’s condition: covenant without direction.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The message is not advice but imminence: the kingdom presses near.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been delivered from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Send, Lord, into our hearts the abundance of your light, so that, always advancing along the path of your commandments, we may be freed from every error. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to manifest to the world your redemption. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your name is holy, and your mercy reaches your faithful from generation to generation; therefore hear the supplications of your people and grant that they may proclaim your greatness for ever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLord Jesus Christ, you are meek and humble of heart, and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Israel a vine full of branches, the fruit is agreeable to it: according to the multitude of his fruit, he hath multiplied altars, according to the plenty of his land he hath abounded with idols.",
+        "Their heart is divided: now they shall perish: he shall break down their idols, he shall destroy their altars.",
+        "For now they shall say: We have no king: because we fear not the Lord: and what shall a king do to us?",
+        "Samaria hath made her king to pass as froth upon the face of the water.",
+        "And the high places of the idol, the sin of Israel shall be destroyed: the bur and the thistle shall grow up over their altars: and they shall say to the mountains Cover us; and to the hills: Fall upon us.",
+        "Sow for yourselves in justice, and reap in the mouth of mercy, break up your fallow ground: but the time to seek the Lord is, when he shall come that shall teach you justice."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 10:1-3,7-8,12",
+      "reference": "Hosea 10:1-3,7-8,12",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And having called his twelve disciples together, he gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities.",
+        "And the names of the twelve Apostles are these: The first, Simon who is called Peter, and Andrew his brother,",
+        "James the son of Zebedee, and John his brother, Philip and Bartholomew, Thomas and Matthew the publican, and James the son of Alpheus, and Thaddeus,",
+        "Simon the Cananean, and Judas Iscariot, who also betrayed him.",
+        "These twelve Jesus sent: commanding them, saying: Go ye not into the way of the Gentiles, and into the city of the Samaritans enter ye not.",
+        "But go ye rather to the lost sheep of the house of Israel.",
+        "And going, preach, saying: The kingdom of heaven is at hand."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:1-7",
+      "reference": "Matthew 10:1-7",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 14th week of Ordinary Time",
+        "key": "wednesdayOfThe14thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/08.html",
+    "title": "Gospel and Word of the Day - 08 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-08"
+}
