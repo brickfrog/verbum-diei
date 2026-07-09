@@ -1,0 +1,301 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c24ab79655ee16828edd10c8c5e8c949c6686086d23064f0bc3b8053410164d0",
+        "inputSha256": "f7a873bc693d9107db44d7fe31ad9d49254514a42bc317e28183c6daab0b55c6",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ae2c6652f0244de27946fa0f99716ee18a49e129fbe03398e99f700aa61a3205",
+        "inputSha256": "dc29c72090e00e664f27b9bef0b27bf7ff8408e0dee2bd1ef079ef3cf1bb532b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "23d99294fd1b05062683878ec348c3bf5318df86a305fde6cb80620b4e45f22a",
+        "inputSha256": "509f9541f00ed053e1b1550fa5909f03afe400998e7ba5f12e4bdeb85a165819",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-09T01:56:10.012Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s God is a parent who cannot finish the sentence of punishment. The drama is not law but attachment: the child bolts, the parent reaches anyway, and the reaching becomes the parent’s identity. That inner turn—wrath arrested by tenderness—reads like the psyche refusing to annihilate what it loves even when betrayed, a refusal that costs pride and preserves relation.\n\nMatthew’s mission ethic is the same tenderness externalized as practice: go light, give without pricing, offer peace that cannot be stolen, and when refused, leave without revenge. The dust-shaking is boundary, not curse: a way to keep the heart from hardening into retaliation.\n\nSemina Verbi: Hosea’s “cords of love” resembles the Bhagavad Gita’s vision of the divine drawing the wandering self back through devotion, not coercion (speculation). The parent who stays merciful over against deserved ruin echoes the bodhisattva vow in Mahayana Buddhism: compassion that interrupts the logic of deserts (speculation). Matthew’s radical non-accumulation and itinerant trust parallels Jain and Buddhist mendicancy, and the offered “peace” that returns if rejected has kinship with Stoic autonomy: what is given in goodwill remains yours when refused (speculation).",
+    "excursus": "Hosea is not a tender father; he is a lover with power, remembering a childhood he manufactured. “I called my son out of Egypt” is the origin-story he keeps repeating to justify possession, and Israel’s running after Baal reads less like stupidity than like a desperate search for a love that doesn’t smother. The “cords of Adam” are not gentle; they are the old human ropes of attachment, the bands that feel like care until they tighten. He lifts the yoke from their jaws and feeds them, and the intimacy is almost animal: the beloved reduced to a mouth he can manage.\n\nThen the crack: “How shall I make thee as Adama… Seboim?” Desire flashes into annihilation. The divine “repentance” is not moral improvement but a surge of conflicted appetite, the moment the abuser discovers he cannot bear to lose what he wants to punish. “Because I am God, and not man” is not comfort; it is dread. It means his restraint is arbitrary, not accountable, not constrained by the limits that keep human rage from becoming weather.\n\nMatthew’s mission discourse is that same psychology exported. The disciples are sent out stripped, dependent, radiant with borrowed power, and trained to sort the world into “worthy” and “unworthy” on arrival. Peace becomes a projectile that can be revoked; rejection is met with a ritual of contempt, dust shaken off like a curse. The threat of Sodom is not a warning about vice so much as a demand for reception: love arrives hungry, and if it isn’t hosted it imagines fire. The kingdom at hand is not only good news; it is the nearness of a desire that cannot tolerate being unwanted.",
+    "synthesis": "God’s holiness does not dilute judgment; it governs it, converting deserved destruction into a mission of gratuitous mercy. To receive or reject that mercy in the apostolic word is to choose one’s standing at the final judgment.",
+    "gospel": [
+      {
+        "text": "Mission is framed as an extension of the kingdom’s immediacy: the announcement and the signs belong together, and the emissary’s lack of provisions is part of the sign. Worthiness is not moral perfection but receptivity; the household becomes the unit where the kingdom is either hosted or barred.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Peace operates as a juridical token: offered, accepted, or withdrawn, it marks a house’s stance toward the reign being announced. The Sodom comparison escalates the stakes: refusal of apostolic speech is treated as eschatological evidence, because it is refusal of the visitation itself.",
+        "lines": [
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a conflict inside divine action: covenant love generates a claim (“son”), yet holiness refuses to let justice collapse into mere retaliation. The result is not denial of judgment but its suspension for the sake of God’s own name—mercy grounded in ontology, not in Israel’s performance.",
+        "lines": [
+          1,
+          6
+        ]
+      },
+      {
+        "text": "The rhetoric turns coercive images into salvific ones: what could be read as control (cords, yoke) is re-specified as ordered freedom aimed at life. The threatened Sodom-like outcome functions as the negative horizon that makes the restraint intelligible: God can destroy; God chooses not to.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Election spoken in the past tense: love precedes obedience; “son” is a title before it is a virtue.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The nearer the summons, the faster the flight; liturgy traded for livestock and smoke.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Providence as nursing: carried, healed—yet unrecognized; grace is often misattributed to weather.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Cords” and “bands”: captivity re-described as courtship; the yoke lifted only to make room for feeding.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment names cities like a memory of fire; the threat is real, the hesitation more real.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The decisive difference: God’s holiness interrupts wrath; transcendence becomes restraint.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Proclamation without preface: the reign arrives before credentials do.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Miracles as alms: power is not property; the price is zero because the source is gift.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Poverty is policy, not aesthetic; the messenger must not look like the message is for sale.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No redundancies: one coat theology; dependence is built into the itinerary.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace is reversible; blessing is not wasted on refusal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Dust shaken off: a small gesture that becomes a verdict; separation enacted in the body.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sodom reappears as a measuring rod: rejection of light outweighs ancient vice.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in the humiliation of your Son raised up fallen humanity, grant your faithful a holy joy, that those whom you have freed from the slavery of sin may enjoy eternal gladness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Humbly we ask you, Lord, who are the true light and the very source of all light, that, faithfully meditating on your law, we may always live in your radiance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we offer you, Lord, our evening praise, we humbly ask that, by meditating on your law day and night, we may one day attain the light and the reward of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "As the morning passeth, so hath the king of Israel passed away. Because Israel was a child, and I loved him: and I called my son out of Egypt. I called my son... Viz., Israel. But as the calling of Israel out of Egypt, was a figure of the calling of Christ from thence; therefore this text is also applicable to Christ, as we learn from Matthew 2.15.",
+        "As they called them, they went away from before their face: they offered victims to Baalim, and sacrificed to idols. They called... Viz., Moses and Aaron called; but they went away after other gods and would not hear.",
+        "And I was like a foster father to Ephraim, I carried them in my arms: and they knew not that I healed them.",
+        "I will draw them with the cords of Adam, with the bands of love: and I will be to them as one that taketh off the yoke on their jaws: and I put his meat to him that he might eat.",
+        "How shall I deal with thee, O Ephraim, shall I protect thee, O Israel? how shall I make thee as Adama, shall I set thee as Seboim? my heart is turned within me, my repentance is stirred up. Adama, etc... Adama and Seboim were two cities in the neighborhood of Sodom: and underwent the like destruction.",
+        "I will not execute the fierceness of my wrath: I will not return to destroy Ephraim: because I am God, and not man: the holy one in the midst of thee, and I will not enter into the city."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 11:1-4,8-9",
+      "reference": "Hosea 11:1-4,8-9",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And going, preach, saying: The kingdom of heaven is at hand.",
+        "Heal the sick, raise the dead, cleanse the lepers, cast out devils: freely have you received, freely give.",
+        "Do not possess gold, nor silver, nor money in your purses:",
+        "Nor scrip for your journey, nor two coats, nor shoes, nor a staff; for the workman is worthy of his meat.",
+        "And into whatsoever city or town you shall enter, inquire who in it is worthy, and there abide till you go thence.",
+        "And when you come into the house, salute it, saying: Peace be to this house.",
+        "And if that house be worthy, your peace shall come upon it; but if it be not worthy, your peace shall return to you.",
+        "And whosoever shall not receive you, nor hear your words: going forth out of that house or city shake off the dust from your feet.",
+        "Amen I say to you, it shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:7-15",
+      "reference": "Matthew 10:7-15",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saints Augustine Zhao Rong, Priest, and Companions, Martyrs",
+        "key": "saintsAugustineZhaoRongPriestAndCompanionsMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/09.html",
+    "title": "Gospel and Word of the Day - 09 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-09"
+}
