@@ -1,0 +1,264 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "40af158a783a83b95bf8dd24ff0abe7def79f38a15932264b20836ff9fc2811f",
+        "inputSha256": "1a012019ad519d299149b4547ab29e2bc9a725d72e9caee63e40815698ad0ec4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bf736bce38467885fa3666a24cb34837e2df402b6dd372aa4e64e3d6363f4dce",
+        "inputSha256": "a406552b0a99d3a01ac06edcc86c3c8e4fadacc5eeaaafc4b0a7a1f5e655e49a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f8198abb6dcc43426985e4b765db99746b38a09e21516cb6481ca920f5b834a1",
+        "inputSha256": "01ce72584ffa46593c8dcd731de2cf527daa37228bf5b4fe2ec7fe6dc498ee3e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-10T01:56:13.808Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hosea’s “take with you words” meets the Vedic and Upanishadic instinct that speech can be an offering when the heart is stripped of props; it resembles yajña turned inward, where the gift is confession and the altar is attention. The renunciation of Assyria, horses, and hand-made gods has the same psychological cut as the Bhagavad Gita’s loosening of dependence on external supports and fruits: dis-identification from what you can buy, build, or ride.\n\n“I will be as the dew” echoes Daoist nourishment by the unforced: the Dao that doesn’t argue yet feeds, the water-course way that restores without spectacle. The image of root, branch, scent, and shade is close to Buddhist and Jain cultivation metaphors, where endurance is not heroics but steady growth; speculation: the “dew” functions like mindfulness itself, quiet, repetitive, reparative.\n\n“Wise as serpents and simple as doves” parallels the Zen demand for ordinary mind paired with sharp discernment, and the Stoic split between inner freedom and outer prudence. The instruction not to pre-compose speech resembles Sufi reliance on the moment of unveiling and the Quaker trust in immediate leading; speculation: it also names a trauma truth—under pressure, the rehearsed self collapses and something deeper must speak.\n\nFlight from one city to another matches the monastic pragmatism of early Buddhism: do not fetishize martyrdom; preserve the work. The promise that family bonds can invert under strain is a universal sociology of conversion, seen in accounts of new sanghas, tariqas, and reform movements: loyalty reorganizes around a new center, and the old household feels betrayed.",
+    "excursus": "Hosea’s “return” is not moral improvement; it’s a breakup speech delivered by someone who knows they’ll go back. “Take with you words” is the tell: the offering is language, a performance meant to replace the old performances. Idols were the visible props; now the prop is repentance itself. “Assyria shall not save us” reads like sobriety talk, but it’s also a jealous renunciation of every rival attachment that once made life feel controllable. The promised “dew” is not triumphal; it’s a thin, nightly condensation, the kind of care that keeps you dependent. God’s love is “free,” but it binds by making fruit come only “from me.” The healing is a new form of possession.\n\nMatthew turns that possession into a survival manual. You are sent as sheep not because innocence is noble, but because vulnerability is the point: it manufactures testimony. “Wise as serpents, simple as doves” is the split personality of the hunted—calculating and pure at once, a self trained to look harmless while learning routes of escape. The Spirit speaking in you is not comfort; it’s ventriloquism under pressure, the relief of no longer owning your words. The dread peaks in the family: betrayal is not an exception but the mechanism by which the message spreads, severing old loyalties so a new one can take their place. And the final line refuses closure: you will not finish the cities. The mission is designed to stay unfinished, desire stretched by perpetual flight, a faith kept alive by never arriving.",
+    "synthesis": "God alone supplies both repentance and fruit, and he alone supplies the speech of witness under persecution. The same divine way that restores the just becomes the occasion of ruin for transgressors.",
+    "gospel": [
+      {
+        "text": "The discourse is a juridical itinerary: councils → synagogues → governors/kings, with the disciples positioned as evidence (“testimony”). The Spirit’s speech is not consolation but authorization for witness under coercion, with perseverance named as the sole successful strategy.",
+        "lines": [
+          2,
+          3,
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from command to return to a unilateral divine reversal: wrath turns, love is “freely” given, healing precedes stability. The logic is not contract but restoration after collapse.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "The imagery stacks Lebanon, olive, vine, wheat—an ecology of permanence replacing the volatility of idolatry. The closing maxim makes the same “ways” either path or trap: identical terrain, different walkers.",
+        "lines": [
+          6,
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Repentance is verbal before it is moral: “take with you words.” Liturgy as weapon against relapse.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three renunciations: empire (Assyria), force (horses), manufacture (hands-as-gods). Politics, power, production—each a false savior.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dew: gift without violence. Growth by descent, not conquest.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Idols end not by argument but by disgust: “What have I to do…?” Fruit is relocated: not from Ephraim, “from me.”",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mission framed as predation: sheep already inside wolves. Virtue split: serpent-craft without serpent-venom.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prohibition of rehearsal. Speech becomes event, not performance.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Persecution is domestic before it is civic: kinship turns informer.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Flight is authorized. The work remains unfinished; history is interrupted by the Son of Man.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who through the humiliation of your Son raised up fallen humanity, grant your faithful true joy, so that those who have been freed from the slavery of sin may also attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, we ask you to grant that, just as we have sung your praises in this morning celebration, so we may also sing them in all their fullness in the assembly of your saints for all eternity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our God, who in a wondrous way have revealed your hidden wisdom through the scandal of the cross, grant that, with such fullness of faith, we may contemplate the glory of your Son’s Passion, that we may always glory with confidence in the cross of Jesus Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Return, O Israel, to the Lord thy God: for thou hast fallen down by thy iniquity.",
+        "Take with you words, and return to the Lord, and say to him: Take away all iniquity, and receive the good: and we will render the calves of our lips.",
+        "Assyria shall not save us, we will not ride upon horses, neither will we say any more: The works of our hands are our gods: for thou wilt have mercy on the fatherless that is in thee.",
+        "I will heal their breaches, I will love them freely: for my wrath is turned away from them.",
+        "I will be as the dew, Israel shall spring as the lily, and his root shall shoot forth as that of Libanus.",
+        "His branches shall spread, and his glory shall be as the olive tree: and his smell as that of Libanus.",
+        "They shall be converted that sit under his shadow: they shall live upon wheat, and they shall blossom as a vine: his memorial shall be as the wine of Libanus.",
+        "Ephraim shall say, What have I to do any more with idols? I will hear him, and I will make him flourish like a green fir tree: from me is thy fruit found.",
+        "Who is wise, and he shall understand these things? prudent, and he shall know these things? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall in them. THE PROPHECY OF JOEL JOEL, whose name, according to ST. JEROME, signifies THE LORD GOD: or, as others say, THE COMING DOWN OF GOD: prophesied about the same time in the kingdom of Judea, as OSEE did in the kingdom of Israel. He foretells under figure the great evils that were coming upon the people for their sins: earnestly exhorts them to repentance: and comforts them with the promise of a TEACHER OF JUSTICE, viz., CHRIST JESUS OUR LORD, and of the coming down of his holy SPIRIT."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Hosea 14:2-10",
+      "reference": "Hosea 14:2-10",
+      "heading": "A reading from the Book of Hosea",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Behold I send you as sheep in the midst of wolves. Be ye therefore wise as serpents and simple as doves. Simple... That is, harmless, plain, sincere, and without guile.",
+        "But beware of men. For they will deliver you up in councils, and they will scourge you in their synagogues.",
+        "And you shall be brought before governors, and before kings for my sake, for a testimony to them and to the Gentiles:",
+        "But when they shall deliver you up, take no thought how or what to speak: for it shall be given you in that hour what to speak:",
+        "For it is not you that speak, but the spirit of your Father that speaketh in you.",
+        "The brother also shall deliver up the brother to death, and the father the son; and the children shall rise up against their parents, and shall put them to death.",
+        "And you shall be hated by all men for my name's sake: but he that shall persevere unto the end, he shall be saved.",
+        "And when they shall persecute you in this city, flee into another. Amen I say to you, you shall not finish all the cities of Israel, till the Son of man come."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:16-23",
+      "reference": "Matthew 10:16-23",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 14th week of Ordinary Time",
+        "key": "fridayOfThe14thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/10.html",
+    "title": "Gospel and Word of the Day - 10 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-10"
+}
