@@ -1,0 +1,314 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3d23873b3c74a1c63c1fb5bc6024b19330b25cf03297c0c1a62eb56d3e06e44a",
+        "inputSha256": "a6dc4d309cb58e1b5d4dc5110f0af53212b02e62dea841c97ccc949e05319e05",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e059b61b951937f10c6790477e30d83838679e1c4134db3e2b90310deac1ebfe",
+        "inputSha256": "67e9ef416202a072ffd35a0e188d076e0373baf1a90d1db057aa169d5fcfd0b3",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d953f13a339f9cb0dc79c3064518fbf17dd30e35204aa040c84f3dab4f5f5089",
+        "inputSha256": "ef9420486fbf02e03e1e00a7abf3e08cb40168980a7270c71ea1a5c419fc2e20",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-11T01:55:55.605Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s coal-on-the-lips looks like a cross-cultural technology for turning private awe into public speech: Vedic Agni as mouth of the gods, purifying and carrying utterance; the Buddhist bodhisattva’s “lion’s roar,” where fear is metabolized into compassionate proclamation; and the Sufi image of burning that refines the tongue into truth. Speculation: the seraph is the psyche’s own immune system for conscience, cauterizing shame so vocation can survive.\n\nMatthew’s insistence on speaking “in the light” echoes the Cynic parrhesia and Stoic indifference to reputation: truth-telling as training against social terror. The sparrows and numbered hairs rhyme with Daoist non-anxiety about the small and overlooked, and with Hindu bhakti’s intimacy where the divine attends to the least. Speculation: confession here is less doctrinal badge than the hardening of identity under pressure, the moment a self chooses coherence over safety.",
+    "excursus": "Isaiah’s vision isn’t comfort; it’s regime change in the psyche. The king dies and immediately a larger King appears, filling the room like a suffocating fact. The seraphim cover face and feet because even they can’t bear the exposure of being seen by what sees everything. “Holy” is not praise but a warning siren; the thresholds shake, smoke pours in, and Isaiah’s first honest sentence is not devotion but panic. His “unclean lips” are not quaint guilt; they are the discovery that his whole life has been a practiced silence, a collaboration with the dirty language of his people. He is terrified not because he is small, but because he has been hiding.\n\nThe coal is not gentle forgiveness; it is forced speech. It burns the mouth into an instrument, cauterizes the old muteness, and makes him usable. Then comes the chilling question: “Who will go for us?” God sounds like a court that needs a courier, a power that recruits. Isaiah’s “Send me” is not heroic volunteerism; it is the reflex of someone who has just been remade by fire and cannot return to ordinary life.\n\nMatthew continues the same coercive intimacy. You will be treated like the master, which means slander first, then danger. “Fear not” repeats like a spell because fear is the correct bodily response to what’s being asked. Everything hidden will be revealed: not liberation, but exposure. The disciples are commanded to drag the secret into daylight, to make private hearing into public risk.\n\nAnd the dread sharpens: do not fear the ones who can kill you; fear the one who can destroy you entirely. The sparrows and the numbered hairs are not sentimental; they are surveillance rendered as tenderness. You are watched down to the follicle, valued and owned at once. Confess me, and I will confess you; deny me, and I will deny you. Desire here is the desire to be recognized by the ultimate Witness, and the price is to become a mouth that cannot close.",
+    "synthesis": "God’s holiness both exposes and purges, then drafts the cleansed into public witness. Final judgment turns on confessed allegiance to Christ, not on managed reputation.",
+    "gospel": [
+      {
+        "text": "The discourse turns disciples into public instruments: what is received in concealment must be externalized. The command to speak is grounded not in optimism but in a valuation of life under the Father’s surveillance.",
+        "lines": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Identity is judicial and relational: alignment with the Master determines standing before the Father. The text frames discipleship as representation with consequences, not mere imitation.",
+        "lines": [
+          1,
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is not private ecstasy but cosmic destabilization: thresholds shake, the house smokes. The temple becomes a site where created architecture registers the weight of the uncreated.",
+        "lines": [
+          4
+        ]
+      },
+      {
+        "text": "The narrative moves from enthronement to commission: sovereignty issues orders. The call is not self-chosen vocation but conscription following encounter.",
+        "lines": [
+          1,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "A king dies; the real King is seen. Political vacancy becomes theophany.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Six wings: excess for creatures, yet still insufficient—so they spend it on concealment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Thrice-holy: language pushed past emphasis into liturgy; earth already saturated with what eyes miss.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet’s crisis is verbal: unclean lips, held peace. Vision indicts speech.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fire is mediated by tongs: holiness is not handled bare, even by seraphs.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mouth touched; guilt removed. Purification is surgical, not sentimental.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Who shall go for us?”—plural counsel; the volunteer answers before terms are stated.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No promotion above the Master; the ceiling is likeness, not superiority.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "If the householder is branded demonic, the household should expect inherited slander.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation is a pressure in history: coverings fail; secrets leak into daylight.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Recalibrate fear: bodies are cheap to kill; the soul has a Judge.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Providence counts the negligible: a sparrow’s fall is not outside attention.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Confession is reciprocal litigation: speak for Christ now; Christ speaks for you then.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Denial purchases silence at the cost of being disowned in court.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made the abbot Saint Benedict a renowned master in the school of divine service, grant us, through his intercession, that, preferring your love above all things, we may advance along the path of your commandments with freedom of heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made Saint Benedict the Abbot an illustrious master in the school of divine service, grant us, through his intercession, that, preferring your love to all things, we may advance along the path of your commandments with freedom of heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made the abbot Saint Benedict a renowned master in the school of divine service, grant us, through his intercession, that, preferring your love above all things, we may advance along the path of your commandments with freedom of heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made the abbot Saint Benedict a distinguished master in the school of divine service, grant us, through his intercession, that, preferring your love to all things, we may advance along the path of your commandments with freedom of heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made Saint Benedict the Abbot a distinguished master in the school of divine service, grant us, through his intercession, that, preferring your love to all things, we may advance along the path of your commandments with freedom of heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who made the abbot Saint Benedict a renowned master in the school of divine service, grant us, through his intercession, that, preferring your love to all things, we may advance along the path of your commandments with freedom of heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In the year that king Ozias died, I saw the Lord sitting upon a throne high and elevated: and his train filled the temple.",
+        "Upon it stood the seraphims: the one had six wings, and the other had six wings: with two they covered his face, and with two they covered his feet, and with two they flew.",
+        "And they cried one to another, and said: Holy, holy, holy, the Lord God of hosts, all the earth is full of his glory,",
+        "And the lintels of the doors were moved at the voice of him that cried, and the house was filled with smoke.",
+        "And I said: Woe is me, because I have held my peace; because I am a man of unclean lips, and I dwell in the midst of a people that hath unclean lips, and I have seen with my eyes the King the Lord of hosts.",
+        "And one of the seraphims flew to me, and in his hand was a live coal, which he had taken with the tongs off the altar.",
+        "And he touched my mouth, and said: Behold this hath touched thy lips, and thy iniquities shall be taken away, and thy sin shall be cleansed.",
+        "And I heard the voice of the Lord, saying: Whom shall I send? and who shall go for us? And I said: Lo, here am I, send me."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 6:1-8",
+      "reference": "Isaiah 6:1-8",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The disciple is not above the master, nor the servant above his lord.",
+        "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the good man of the house Beelzebub, how much more them of his household?",
+        "Therefore fear them not. For nothing is covered that shall not be revealed: nor hid, that shall not be known.",
+        "That which I tell you in the dark, speak ye in the light: and that which you hear in the ear, preach ye upon the housetops.",
+        "And fear ye not them that kill the body, and are not able to kill the soul: but rather fear him that can destroy both soul and body in hell.",
+        "Are not two sparrows sold for a farthing? and not one of them shall fall on the ground without your Father.",
+        "But the very hairs of your head are all numbered.",
+        "Fear not therefore: better are you than many sparrows.",
+        "Every one therefore that shall confess me before men, I will also confess him before my Father who is in heaven.",
+        "But he that shall deny me before men, I will also deny him before my Father who is in heaven."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:24-33",
+      "reference": "Matthew 10:24-33",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "PATRON_OF_EUROPE"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Benedict of Nursia, Abbot, Patron of Europe",
+        "key": "saintBenedictOfNursiaAbbot"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/11.html",
+    "title": "Gospel and Word of the Day - 11 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-11"
+}
