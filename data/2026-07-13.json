@@ -1,0 +1,289 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "12237ecfe50a214b928dcc15aa762fdbbc97d3c98d1f7b9a21c0be8b5c00cbed",
+        "inputSha256": "b81dec2ed406b2c287b79a6d00a4ab971cab33a00a4057a915f681f79e2cfe06",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "492e2cf57f49d9d5db542454164768e91a6c3351626a4230a56674b127aee78d",
+        "inputSha256": "e78c581fb486eb67b4a7db2d1f18c1e5ef2c25d5c3e0255355d0cfc15f65dd29",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6adb5ea77a64b9a49f6b5de3335af233d87f8cb3c2cc68a10a704fc8a1c9f025",
+        "inputSha256": "513c7907d674428dfa1c8d5b599ca7470931e33908dc661e3206dc088ac68b47",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-13T01:56:15.741Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s disgust at blood-wet hands beneath perfumed rites matches the Upanishadic suspicion of sacrifice without knowledge, and the Buddha’s refusal to let purity be outsourced to ceremony; speculation: it also echoes the Daoist sense that forced piety is a kind of noise that betrays the Way. The moral center is not reverence but repair: the widow, the orphan, the crushed.\n\nMatthew’s “sword” reads like the psychological cost of individuation: the moment a person stops living as a family function and becomes a conscience, the household turns adversarial. That tension resembles the Bhagavad Gita’s demand to choose dharma over kin-clan sentiment, and the Stoic claim that allegiance to reason may estrange you from the crowd; speculation: it also rhymes with Sufi accounts of the seeker becoming a stranger even at home.\n\nThe cup of cold water is the Zen-sized deed: small, concrete, untheatrical. It aligns with dana in Buddhism and seva in Sikh tradition—mercy as attention, not spectacle.",
+    "excursus": "Isaiah isn’t attacking religion; he’s attacking anesthesia. The sacrifices are not hypocrisy so much as self-medicating spectacle, a way to keep blood on the hands from being felt. God’s disgust reads like a therapist refusing to be recruited into a client’s elaborate avoidance: stop performing your innocence and start facing what you’ve done. “Wash” is not piety but exposure—let the stain be seen, then change the habits that made it.\n\nMatthew sharpens the same refusal into a blade. The “sword” is not an accident of reception; it is the necessary violence of truth entering a family system built on denial. The household will hate you because your allegiance breaks the old bargains: peace bought by silence, love traded for complicity. “Not worthy” is the language of desire demanding exclusivity; this teacher wants more than admiration, he wants your attachments reordered, even if it costs you your place at the table.\n\nTaken together, the texts offer a grim mercy: God will not accept your beautiful substitutes. Justice is not a charitable add-on to worship; it is the only way worship stops being a crime scene with music. The reward promised for a cup of cold water is small on purpose—real change begins in unspectacular acts that refuse the grand lie, and that refusal will cut through everything you call home.",
+    "synthesis": "God rejects worship that functions as moral cover, and Christ demands an allegiance that overrides natural bonds. True religion is verified by justice and by costly fidelity to the One who sends.",
+    "gospel": [
+      {
+        "text": "Matthew frames discipleship as a reordering of allegiance that predictably fractures existing loyalties; the division is an effect of the doctrine’s claim, not its stated goal. Yet the same section immediately builds a chain of representation—receiving the sent ones reaches to the Sender—so the community’s boundaries are drawn by reception/rejection. The closing notice (11:1) shifts Jesus from commissioning to continuing instruction, implying the conflict and the hospitality will be ongoing features of the mission.",
+        "lines": [
+          2,
+          7,
+          8,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah dismantles the assumption that cult can compensate for injustice. The polemic is not anti-ritual but anti-substitution: offerings and festivals are treated as attempted payment while the social order remains predatory. The passage ends by relocating “service” into public judgment—care for the powerless becomes the concrete form of fidelity.",
+        "lines": [
+          2,
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Sodom/Gomorrha as mirror, not geography: covenant speech to the damned.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sacrifice becomes surplus; God speaks as satiated, not appeased.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question unmasks liturgy as trespass: courts walked without summons.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Calendar piety turns toxic; “abomination” attaches to fragrance and feast.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Raised hands are evidence; prayer multiplies, hearing withdraws—blood blocks the channel.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cleansing is not mood but removal: “from my eyes” makes sin a spectacle.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peace is refused as a category; the mission names its instrument: sword.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Enemy relocates indoors; hostility is domesticated.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Worthiness measured by comparative love; kinship demoted beneath Christ.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cross is not ornament but criterion; following is penal.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Life is a trap when grasped; loss becomes the only acquisition.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The smallest gift is juridical: a cup becomes a claim, “in the name” the seal.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who show the light of your truth to those who go astray, that they may return to the way, grant that all who profess to be Christians may reject whatever is contrary to that name and fulfill all that it signifies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, King of heaven and earth, direct and sanctify this day our bodies and our hearts, our senses, words, and actions, according to your law and your commandments; so that, with your help, we may attain salvation now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who are rightly called the unfailing light, enlighten our spirit at this evening hour, and deign in your kindness to forgive our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Hear the word of the Lord, ye rulers of Sodom, give ear to the law of our God, ye people of Gomorrha.",
+        "To what purpose do you offer me the multitude of your victims, saith the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.",
+        "When you came to appear before me, who required these things at your hands, that you should walk in my courts?",
+        "Offer sacrifice no more in vain: incense is an abomination to me. The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.",
+        "My soul hateth your new moons, and your solemnities: they are become troublesome to me, I am weary of bearing them.",
+        "And when you stretch forth your hands, I will turn away my eyes from you: and when you multiply prayer, I will not hear: for your hands are full of blood.",
+        "Wash yourselves, be clean, take away the evil of your devices from my eyes, cease to do perversely,",
+        "Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 1:10-17",
+      "reference": "Isaiah 1:10-17",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Do not think that I came to send peace upon earth: I came not to send peace, but the sword.",
+        "For I came to set a man at variance against his father, and the daughter against her mother, and the daughter-in-law against her mother- in-law. I came to set a man at variance, etc... Not that this was the end or design of the coming of our Saviour; but that his coming and his doctrine would have this effect, by reason of the obstinate resistance that many would make, and of their persecuting all such as should adhere to him.",
+        "And a man's enemies shall be they of his own household.",
+        "He that loveth father or mother more than me, is not worthy of me; and he that loveth son or daughter more than me, is not worthy of me.",
+        "And he that taketh not up his cross, and followeth me, is not worthy of me.",
+        "He that findeth his life, shall lose it: and he that shall lose his life for me, shall find it.",
+        "He that receiveth you, receiveth me: and he that receiveth me, receiveth him that sent me.",
+        "He that receiveth a prophet in the name of a prophet, shall receive the reward of a prophet: and he that receiveth a just man in the name of a just man, shall receive the reward of a just man.",
+        "And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you he shall not lose his reward.",
+        "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he passed from thence, to teach and to preach in their cities."
+      ],
+      "lineRefs": [
+        "10:34",
+        "10:35",
+        "10:36",
+        "10:37",
+        "10:38",
+        "10:39",
+        "10:40",
+        "10:41",
+        "10:42",
+        "11:1"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 10:34-11:1",
+      "reference": "Matthew 10:34-11:1",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Henry, Bishop and Martyr",
+        "key": "saintHenryBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/13.html",
+    "title": "Gospel and Word of the Day - 13 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-13"
+}
