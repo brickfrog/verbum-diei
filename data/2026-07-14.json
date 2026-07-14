@@ -1,0 +1,257 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e5835f375da4abea9ab3ea60ce69e5f6829af64e69d1ff1090753a3077afc6e1",
+        "inputSha256": "5988dfb5a5fa37e773f46cdc3d250441e878e6fc68871f873c49376c1afae0ff",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "dde05f246aced22ec5fecb4db1f96fdc3942623bd35e0bef798ad2834f61db91",
+        "inputSha256": "770ba9c2783abc15b9a08f2af7b73949ccf0a2d640cbc22013f437c0f1514562",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "441afa0ce2ff4e1b901133956881a1c5e9b2cd17f645bf5c662ad63f99551faa",
+        "inputSha256": "d986539db8155065e04604da5286fd49fdf1530f0259664b6b19661c526c59f8",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-14T01:55:36.463Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s “If you will not believe, you shall not continue” lands like a psychological law: identity is held together by trust, and when trust collapses the self fragments under pressure. That resembles the Bhagavad Gita’s insistence on steadiness of mind in crisis, and Stoicism’s refusal to let externals dictate the soul’s posture; both treat fear as a solvent that dissolves agency. Matthew’s “woe” reads as the pathology of habituation: repeated exposure to the extraordinary breeds numbness, and numbness curdles into contempt. Zen warns (speculation) that chasing signs hardens the heart; the miracle becomes just another stimulus, and the person loses the capacity to be moved. The harsher judgment is not cosmic bookkeeping but the inner consequence of having more light and choosing less change, akin to the Buddhist idea that insight without practice deepens suffering because it sharpens the contrast between what one knows and how one lives.",
+    "excursus": "Isaiah stages politics as panic management. Achaz is told to be quiet, not because the threat is small, but because fear is the lever by which others will rule him. The prophet meets him at the waterworks, where survival is literal and the king’s mind is already rehearsing siege and scarcity. “Two tails of these firebrands” is contempt, but also seduction: the promise that dread can be downgraded into something manageable, a smoking stub. Yet the last line snaps the spell. Believe or you won’t continue. Faith here is not piety; it’s psychic coherence. Without it, the kingdom dissolves into whatever story the wind is telling.\n\nMatthew turns that screw. The cities that saw miracles are not damned for ignorance but for saturation. Wonder becomes background noise; grace becomes entitlement; the extraordinary is metabolized into boredom. Jesus’ “woe” is the rage of a lover watching intimacy fail: you were closest, and you felt least. The punchline is obscene on purpose—Sodom gets a lighter sentence than the respectable towns—because the real sin is not vice but immunity. The dread is that nearness does not save you; it can harden you. Desire unmet curdles into contempt, and contempt is its own hell.",
+    "synthesis": "God’s acts create obligation: to refuse trust and repentance under greater light is to forfeit stability now and incur heavier judgment later.",
+    "gospel": [
+      {
+        "text": "Jesus’ denunciation is a jurisprudence of revelation: accountability scales with proximity to divine action. The scandal is not that outsiders are wicked, but that insiders are unmoved; judgment becomes comparative, and notorious cities function as legal precedents to show that privilege without conversion is aggravated guilt.",
+        "lines": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative frames a political crisis, but the oracle dismantles it by reasserting the limits of human sovereignty: coalitions and succession schemes are real, yet they cannot author history against the Lord’s decree. The repeated “head of…” names the merely administrative order of nations; time itself is weaponized against them as their identities are scheduled to dissolve.",
+        "lines": [
+          1,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Dynasty hears a rumor; the body politic becomes weather.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prophecy is dispatched to infrastructure: conduit, pool, laundry-field—power meets water and stain.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Enemies reduced to leftovers: “two tails,” “smoking”—threat as afterburn, not blaze.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Coup logic: replace the name, inherit the city.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith is not ornament but footing; disbelief collapses continuity.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Miracles accrue as evidence; refusal to repent converts gift into indictment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Pagan ports outshine covenant towns in imagined contrition; shame by comparison.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vertical irony: “exalted” becomes descent; heaven-talk ends in hell.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sodom invoked as counterfactual: judgment turns on light received, not legend.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who show the light of your truth to those who go astray, that they may return to the right path, grant that all who profess to be Christians may reject whatever is contrary to that name and fulfill all that it signifies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom flow the goodness and beauty of all that is created, grant that we may begin this day with a joyful spirit and carry out our works moved by love for you and for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our evening prayer rise up to you, Father of mercy, and may your blessing come down upon us; thus, with your help, we shall be saved now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it came to pass in the days of Achaz the son of Joathan, the son of Ozias, king of Juda, that Rasin king of Syria and Phacee the son of Romelia king of Israel, came up to Jerusalem, to fight against it: but they could not prevail over it.",
+        "And they told the house of David, saying: Syria hath rested upon Ephraim, and his heart was moved, and the heart of his people, as the trees of the woods are moved with the wind.",
+        "And the Lord said to Isaias: Go forth to meet Achaz, thou and Jasub thy son that is left, to the conduit of the upper pool in the way of the fuller's field.",
+        "And thou shalt say to him: See thou be quiet: fear not, and let not thy heart be afraid of the two tails of these firebrands, smoking with the wrath of the fury of Rasin king of Syria, and of the son of Romelia.",
+        "Because Syria hath taken counsel against thee, unto the evil of Ephraim and the son of Romelia, saying:",
+        "Let us go up to Juda, and rouse it up, and draw it away to us, and make the son of Tabeel king in the midst thereof.",
+        "Thus saith the Lord God: It shall not stand, and this shall not be.",
+        "But the head of Syria is Damascus, and the head of Damascus is Rasin: and within threescore and five years, Ephraim shall cease to be a people:",
+        "And the head of Ephraim is Samaria, and the head of Samaria is the son of Romelia. If you will not believe, you shall not continue."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 7:1-9",
+      "reference": "Isaiah 7:1-9",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then began he to upbraid the cities wherein were done the most of his miracles, for that they had not done penance.",
+        "Woe thee, Corozain, woe to thee, Bethsaida: for if in Tyre and Sidon had been wrought the miracles that have been wrought in you, they had long ago done penance in sackcloth and ashes.",
+        "But I say unto you, it shall be more tolerable for Tyre and Sidon in the day of judgment, than for you.",
+        "And thou Capharnaum, shalt thou be exalted up to heaven? thou shalt go down even unto hell. For if in Sodom had been wrought the miracles that have been wrought in thee, perhaps it had remained unto this day.",
+        "But I say unto you, that it shall be more tolerable for the land of Sodom in the day of judgment than for thee."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 11:20-24",
+      "reference": "Matthew 11:20-24",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "n",
+        "rank": "MEMORIAL",
+        "name": "Saint Kateri Tekakwitha, Virgin",
+        "key": "saintKateriTekakwithaVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/14.html",
+    "title": "Gospel and Word of the Day - 14 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-14"
+}
