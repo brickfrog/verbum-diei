@@ -1,0 +1,229 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "11997d6a97095ca0b5a564d738aee7f9fd674c3c2d2b702b643ab2e92ede93ee",
+        "inputSha256": "5163fbe2efccd6fa59b56ed133dd465441bd3097cff4225b71b0c0583263dba0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "879d5b15689ef9db855917bcf9d2fa69d0a1d76bc80a0cd28612e0d6300b0d5c",
+        "inputSha256": "0148969aaafd8a17834179456b425ae613145c1e1f71afaffa050319f20ed8e9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "41a81fa33162cfd04fcdfe62c69801bf2be591337b2b430250f3018b20fb9993",
+        "inputSha256": "50af938fafc2d6703241e5ce86a3219fc8966fe0488d1d5f94a1fff061c52e7d",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-15T01:55:33.715Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s image of the axe boasting against the woodcutter has a close cousin in the Bhagavad Gita’s insistence that the doer is not the ultimate agent, that action rides on forces larger than the ego; the Assyrian’s sin is not violence alone but authorship. The same psychological diagnosis appears in Stoicism when Epictetus treats power, victory, and reputation as externals that inflate the self into a false sovereign.\n\nMatthew’s “little ones” echoes Zen’s beginner’s mind and Daoism’s praise of the uncarved block: receptivity as intelligence unarmored by status. Speculation: the mutual knowing of Father and Son resembles the Upanishadic claim that only the Self knows the Self, and the Sufi idea that recognition of God is God’s own self-disclosure within the seeker, not a trophy of cleverness.",
+    "excursus": "Isaiah stages a nightmare of outsourced violence. God hires Assyria as a blunt instrument, then recoils when the instrument enjoys the work. The horror is not that the empire is cruel; it’s that it is useful. Assyria’s sin is not power but pleasure, the private thrill of cutting nations down and hearing no wing move, no mouth open. The prophet’s sarcasm about the axe boasting is a panic about agency: once you let yourself be used, you start to believe you chose it, and once you believe you chose it, you become responsible for the appetite that woke up.\n\nMatthew answers with a different kind of dread: secrecy. The world is not enlightened; it is sorted. Wisdom is bypassed, prudence is humiliated, and the “little ones” are not morally superior so much as porous, easier to enter. Revelation here is not democratic; it is selective intimacy. The Son knows, the Father knows, and everyone else waits to be wanted. The desire underneath the piety is naked: to be chosen, to be let in, to be spared the loneliness of not knowing. The tension is that the same hand that wields the rod also withholds the key, and both acts feel like control disguised as care.",
+    "synthesis": "God governs history by employing instruments without sharing his sovereignty, and he judges instruments that absolutize their own agency. The Father is known only by the Son’s revelation, so true knowledge of God is received, not seized.",
+    "gospel": [
+      {
+        "text": "The scene is a public act of confession that defines the economy of salvation as intra-Trinitarian gift. The Father’s good pleasure (2) and the Son’s exclusive mediation (3) establish that access to God is not achieved by intellectual rank but granted through the Son’s will; the “little ones” are not a class with leverage but recipients within a revealed relation.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a double judgment: Israel is chastised through a foreign power, then that power is judged for mistaking delegated force for self-originating right. The rhetoric moves from divine deployment (2) to imperial self-myth (4) and ends in divine reversal that targets the very “fatness” and “glory” the empire trusts (7): punishment fits the illusion—strength becomes wasting, splendor becomes combustion.",
+        "lines": [
+          2,
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Empire as instrument: wrath outsourced, not abdicated.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commission and intention diverge; the agent adds surplus violence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Predation rendered pastoral: nest and eggs—plunder as effortless harvest.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tool-theology: the implement’s pride is metaphysical nonsense.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation is not meritocratic; it is an inversion of competence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge is gated by persons, not proofs; disclosure is sovereign.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that all of us who today celebrate the feast of your bishop Saint Bonaventure may have the grace to profit from his admirable teaching and to imitate the examples of his ardent charity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that all of us who today celebrate the feast of your bishop Saint Bonaventure may have the grace to profit from his admirable teaching and to imitate the examples of his ardent charity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today, remedy our shortcomings, and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, grant that all of us who today celebrate the feast of your bishop Saint Bonaventure may have the grace to profit from his admirable teaching and to imitate the examples of his ardent charity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a gentle yoke and a light burden; deign, then, to accept the desires and the deeds of the day we have now ended. May we rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Woe to the Assyrian, he is the rod and the staff of my anger, and my indignation is in their hands.",
+        "I will send him to a deceitful nation, and I will give him a charge against the people of my wrath, to take away the spoils, and to lay hold on the prey, and to tread them down like the mire of the streets.",
+        "But he shall not take it so, and his heart shall not think so: but his heart shall be set to destroy, and to cut off nations not a few.",
+        "For he hath said: By the strength of my own hand I have done it, and by my own wisdom I have understood: and I have removed the bounds of the people, and have taken the spoils of the princes, and as a mighty man hath pulled down them that sat on high.",
+        "And my hand hath found the strength of the people as a nest; and as eggs are gathered, that are left, so have I gathered all the earth: and there was none that moved the wing, or opened the mouth, or made the least noise.",
+        "Shall the axe boast itself against him that cutteth with it? or shall the saw exalt itself against him by whom it is drawn? as if a rod should lift itself up against him that lifteth it up, and a staff exalt itself, which is but wood.",
+        "Therefore the sovereign Lord, the Lord of hosts, shall send leanness among his fat ones: and under his glory shall be kindled a burning, as it were the burning of a fire."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 10:5-7,13-16",
+      "reference": "Isaiah 10:5-7,13-16",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that time Jesus answered and said: I confess to thee, O Father, Lord of Heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them to little ones.",
+        "Yea, Father: for so hath it seemed good in thy sight.",
+        "All things are delivered to me by my Father. And no one knoweth the Son but the Father: neither doth any one know the Father, but the Son, and he to whom it shall please the Son to reveal him."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 11:25-27",
+      "reference": "Matthew 11:25-27",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Bonaventure, Bishop and Doctor",
+        "key": "saintBonaventureBishopAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/15.html",
+    "title": "Gospel and Word of the Day - 15 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-15"
+}
