@@ -1,0 +1,285 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8d8bc35239e41a2ad8ea111eba5d369738bebf752ccab07a67365519bf72f263",
+        "inputSha256": "1d67015ac129f5d1eeff7f5908dbe994bc561d5ed6fdf7ce11a2efe521d36673",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c029d8ab89ef01610a278b344b81676243c21cd898d889c76f66e8975f4d518b",
+        "inputSha256": "691fc731489eae8168d958fe502c4485350744cd1f72b6957d8d10d48da78b9b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5ee88c03cdb3ec3bcafe61b8ff4405c9299a55a93081358bcfd12decaec72dba",
+        "inputSha256": "914163efe5db69852bcbe8e672663af164bbd5ead3126dec6612efc51c7195c2",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-17T01:56:10.987Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hezekiah turning his face to the wall feels like the universal posture of the dying ego: privacy, shame, and the last attempt to bargain with meaning. The added years are not “reward” so much as a psychic reprieve, a re-opening of time after it has collapsed; the backward shadow is the dream-image of that reprieve, as if consciousness briefly edits the irreversible. The fig plaster matters: mercy arrives through matter, not against it, like Ayurveda’s insistence that healing is not an idea but a poultice, a taste, a regimen.\n\nJesus’ sabbath scene is the same argument in social form: life outranks the rule meant to serve it. This is close to Confucius reading rites as humane calibration rather than fetish, and to the Buddha’s refusal to let vinaya become cruelty; speculation, but the psychological move is identical—authority is measured by whether it protects the vulnerable body. “Mercy, not sacrifice” also echoes the Bhagavad Gita’s critique of empty ritual and the Daoist suspicion of rigid propriety: when form hardens, it starts accusing the hungry.\n\nDavid eating holy bread and priests “breaking” sabbath expose a mature ethic: exceptions are not loopholes but revelations of the law’s true aim. In Stoic terms, the letter yields to oikeiosis, the natural pull toward preservation and kinship; in Jewish pikuach nefesh, life suspends the command. The point is not permissiveness but hierarchy: compassion is the deepest order, and the innocent are the first test of any sacred system.",
+    "excursus": "Hezekiah turns his face to the wall because he can’t bear the gaze of anyone who might watch him fail. His prayer isn’t surrender; it’s a résumé, a demand that the universe pay its debt to his “perfect heart.” The tears work like currency. God’s reply feels less like tenderness than capitulation to spectacle: time itself is dragged backward to satisfy a man who cannot accept the ordinary forward slide into loss. And the healing isn’t a miracle first; it’s a poultice of figs, the crude intimacy of medicine. The sign comes after, as if belief is the last thing granted, not the first.\n\nIn the field on the sabbath, hunger is the real liturgy. The Pharisees defend a schedule of holiness that keeps bodies in their place; Jesus treats law as something that must blush when confronted with need. He doesn’t abolish the temple; he outgrows it, then uses that growth as leverage: innocence is whatever his authority declares it to be. “Mercy, not sacrifice” is not softness here; it is a weapon against those who would rather be right than feed the hungry. Desire breaks the rule, and then names itself Lord.",
+    "synthesis": "God’s authority governs both time and law, and he exercises it to preserve life and vindicate the innocent. Mercy is the true measure of worship, because the Lord of the sabbath stands above the temple and its regulations.",
+    "gospel": [
+      {
+        "text": "Jesus argues by scriptural precedent and cultic exception: David’s necessity and priestly work show that the law already contains hierarchies of obligation. The dispute is not about whether rules exist, but what they are for.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The narrative runs through the prophet as conduit: decree, intercession, revised decree. The city’s deliverance is attached to the king’s extended life, binding private mortality to public history.",
+        "lines": [
+          4,
+          6
+        ]
+      },
+      {
+        "text": "The request for a sign exposes the gap between promise and trust; assurance is demanded not for curiosity but for worship—“go up to the house of the Lord”—so the sign functions as authorization for renewed liturgy.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The sentence is a verdict: “die, and not live.” No ambiguity allowed.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He turns to the wall: prayer as refusal of the room, of witnesses.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He litigates his life—“remember”—and then collapses into tears. Merit and misery in one breath.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God counts tears as evidence; time becomes a grant: fifteen years, measured and finite.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Figs as plaster: the prophetic word does not exclude crude medicine.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The cosmos is drafted into reassurance: the clock rewinds to certify a promise.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hunger walks through law; the disciples harvest with their hands, not sickles.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The accusation is procedural: “not lawful.” They police time, not need.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Greater than the temple”: holiness relocated from place to person.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mercy is not an ornament on sacrifice; it is the criterion that judges it.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Lordship over sabbath: authority over the sign of creation and covenant.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who show the light of your truth to those who go astray, that they may return to the right path, grant that all Christians may reject what is unworthy of this name and fulfill what it signifies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Enlighten our hearts, Lord, and strengthen our wills, that we may always follow the way of your commandments, acknowledging you as our guide and teacher. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always illumine us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, you willed that Christ, your Son, should be the price of our ransom; grant that we may live in such a way that, sharing in his sufferings, we may also rejoice in the revelation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In those days Ezechias was sick even to death, and Isaias the son of Amos the prophet cane unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live.",
+        "And Ezechias turned his face toward the wall, and prayed to the Lord,",
+        "And said: I beseech thee, O Lord, remember how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy sight. And Ezechias wept with great weeping.",
+        "And the word of the Lord came to Isaias, saying:",
+        "Go and say to Ezechias: Thus saith the Lord the God of David thy father: I have heard thy prayer, and I have seen thy tears: behold I will add to thy days fifteen years:",
+        "And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will protect it.",
+        "Now Isaias had ordered that they should take a lump of figs, and lay it as a plaster upon the wound, and that he should be healed.",
+        "And Ezechias had said: What shall be the sign that I shall go up to the house of the Lord?",
+        "And this shall be a sign to thee from the Lord, that the Lord will do this word which he hath spoken:",
+        "Behold I will bring again the shadow of the lines, by which it is now gone down in the sun dial of Achaz with the sun, ten lines backward. And the sun returned ten lines by the degrees by which it was gone down."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "21",
+        "22",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 38:1-6,21-22,7-8",
+      "reference": "Isaiah 38:1-6,21-22,7-8",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat.",
+        "And the Pharisees seeing them, said to him: Behold thy disciples do that which is not lawful to do on the sabbath days.",
+        "But he said to them: Have you not read what David did when he was hungry, and they that were with him:",
+        "How he entered into the house of God, and did eat the loaves of proposition, which it was not lawful for him to eat, nor for them that were with him, but for the priests only? The loaves of proposition... So were called the twelve loaves which were placed before the sanctuary in the temple of God.",
+        "Or have ye not read in the law, that on the sabbath days the priests in the temple break the sabbath, and are without blame?",
+        "But I tell you that there is here a greater than the temple.",
+        "And if you knew what this meaneth: I will have mercy, and not sacrifice: you would never have condemned the innocent.",
+        "For the Son of man is Lord even of the sabbath."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 12:1-8",
+      "reference": "Matthew 12:1-8",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 15th week of Ordinary Time",
+        "key": "fridayOfThe15thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/17.html",
+    "title": "Gospel and Word of the Day - 17 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-17"
+}
