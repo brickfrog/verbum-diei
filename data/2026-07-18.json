@@ -1,0 +1,247 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e01e5f84670bb2feef78720626a61b25a02372d7fd1391b3a413c8b066c9b903",
+        "inputSha256": "a6e98cf8e0bfa9e5cdfc4fd05530c6ed40e46befdda4e7c59156dd8002f0839d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "69e21c66a544e130914444d69430a38d3606c959bdcce1f3d60dc7d2e8bb33cb",
+        "inputSha256": "dd00a797e3c19860930b14ccb5fc95d5580f7e22695c20706e79d5fde1003b73",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5b8ca424f2efbe36f25e83159c789eab2adefe7ddf3bcee6f5823fd6d07858d1",
+        "inputSha256": "5a9b7ae7b6ded18ac0910367162a9fa4836000cb114e306eda9bd1822b440b50",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-18T01:55:38.386Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Micah’s night-plots and morning seizures are the psyche of predation: desire rehearsed in private until it feels like destiny, then enacted at first light with the calm of habit. The punishment is not thunder but symmetry; the world becomes a mirror that returns their own method to them. In Hindu karma as moral causality, in Greek tragedy’s nemesis, and in the Taoist idea that force rebounds, the same pattern appears: the self that trains itself to take is eventually trained by events to be taken from. Speculation: even the “song” over ruin resembles the old human need to aestheticize collapse so guilt can be borne.\n\nMatthew’s scene turns power inside out. The plotters are loud without speaking; the healer is strong without contending. He refuses the street-voice, the brand, the victory-lap; he works in the register of the fragile, where a bruised reed is a whole moral universe. This is close to the Buddhist bodhisattva’s non-harming attention, to the Jain vow of carefulness toward the weak, and to the Stoic ideal of quiet strength that doesn’t need applause. Speculation: the secrecy is psychological hygiene—protecting the work from becoming a spectacle that would harden both the crowd and the healer into roles.\n\nPut together, they sketch two kinds of agency: the nocturnal will-to-possess that believes it is free, and the restrained will-to-heal that accepts obscurity. One loses inheritance by grasping; the other gives hope by not grasping.",
+    "excursus": "Micah isn’t thundering at monsters; he’s dissecting the bedroom, the place where desire rehearses its crimes. Evil is drafted under blankets, then carried out at dawn with the calm of routine. The real obscenity is not violence but the administrative serenity of it: fields, houses, inheritances converted into trophies. God’s “I devise an evil” is the mirror held up to their own imagination. They wanted a world where others can’t lift their necks; now the yoke fits them. The punishment is social death: no cord, no lot, no share in the story they tried to steal.\n\nMatthew answers with a figure who refuses the obvious theater. The Pharisees plot destruction; Jesus refuses to contend, refuses the street-corner volume that would make him legible as a rival. His secrecy is not humility; it’s strategy against the addiction to spectacle. He heals, then silences the healed, because publicity would turn mercy into a brand and judgment into a rally.\n\nThe “bruised reed” and “smoking flax” are not sentimental props; they’re the compromised, the almost-gone, the ones power can’t be bothered to finish off. He won’t break them because he needs them—weakness is the only material that can carry a different kind of victory. Judgment arrives not as a shout but as persistence: quiet repair that humiliates the planners in their beds. The Gentiles hope because the new inheritance isn’t land seized by morning hands; it’s a name that can’t be divided.",
+    "synthesis": "God answers calculated dispossession with measured dispossession: the lot is removed from those who stole it. Christ establishes judgment by quiet mercy, extending covenant hope to the Gentiles without adopting the violence of his opponents.",
+    "gospel": [
+      {
+        "text": "Matthew frames withdrawal and healing as the mode of messianic rule: the conflict is real, but the response is not symmetrical. The Isaiah citation relocates “judgment” from intra-Israel faction to the nations; the servant’s election and Spirit endowment authorize a justice that expands outward, producing hope where Israel’s leaders produce plots.",
+        "lines": [
+          2,
+          4,
+          5,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Judgment is social reversal: the dispossessors become a proverb on other lips, their own rhetoric turned into public music. The taunt-song marks a transfer of narrative authority—those who rewrote boundaries by force are now rewritten by communal speech, and the foreign divider becomes the visible agent of a prior invisible theft.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Evil is drafted at night and signed at dawn; the bed becomes a workshop. Power is framed as a hand “against God.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Coveting matures into seizure; violence is the legal instrument. “Inheritance” is the target: memory made loot.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God mirrors their verb: they “devise,” so he “devises.” The neck that would not bow is fitted with a yoke.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The cord and lot—tools of ordered belonging—are revoked. Excommunication rendered as landlessness.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Religious counsel becomes a murder committee; deliberation as piety-mask.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silence is commanded: the Messiah refuses publicity as proof.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No street-voice, no theatrics; authority without volume.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He governs by not finishing off the damaged; victory arrives without crushing.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who show the light of your truth to those who go astray, that they may return to the right path, grant that all Christians may reject whatever is unworthy of this name and carry out all that it signifies. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, fount and origin of our salvation, grant that, as long as our life lasts here on earth, we may praise you without ceasing and thus one day share in the eternal praise of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look kindly upon your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Woe to you that devise that which is unprofitable, and work evil in your beds: in the morning light they execute it, because their hand is against God.",
+        "And they have coveted fields, and taken them by violence, and houses they have forcibly taken away: and oppressed a man and his house, a man and his inheritance.",
+        "Therefore thus saith the Lord: Behold I devise an evil against this family: from which you shall not withdraw your necks, and you shall not walk haughtily, for this is a very evil time.",
+        "In that day a parable shall be taken up upon you, and a song shall be sung with melody by them that say: We are laid waste and spoiled: the portion of my people is changed: how shall he depart from me, whereas he is returning that will divide our land? How shall he depart, etc... How do you pretend to say that the Assyrian is departing; when indeed he is coming to divide our lands amongst his subjects?",
+        "Therefore thou shalt have none that shall cast the cord of a lot in the assembly of the Lord. Thou shalt have none, etc... Thou shalt have no longer any lot or inheritance in the land of the people of the Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Micah 2:1-5",
+      "reference": "Micah 2:1-5",
+      "heading": "A reading from the Book of Micah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the Pharisees going out made a consultation against him, how they might destroy him.",
+        "But Jesus knowing it, retired from thence: and many followed him, and he healed them all.",
+        "And he charged them that they should not make him known.",
+        "That it might be fulfilled which was spoken by Isaias the prophet, saying:",
+        "Behold my servant whom I have chosen, my beloved in whom my soul hath been well pleased. I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+        "He shall not contend, nor cry out, neither shall any man hear his voice in the streets.",
+        "The bruised reed he shall not break: and smoking flax he shall not extinguish: till he send forth judgment unto victory.",
+        "And in his name the Gentiles shall hope."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 12:14-21",
+      "reference": "Matthew 12:14-21",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Camillus de Lellis, Priest",
+        "key": "saintCamillusDeLellisPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/18.html",
+    "title": "Gospel and Word of the Day - 18 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-18"
+}
