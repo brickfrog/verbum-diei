@@ -1,0 +1,293 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d54610863a52f809d1aaeccde118b93b20d3b7a0ae52b95f2ace2ecf07d374a6",
+        "inputSha256": "9be095d4800ba0a4d6a51093ecdd3aff3df09a0583c8d3f1a9b28948129f34a0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "4ce9e233ba9cb7acb52703032365fc699fc5a43d960d919b756ba0ed896fa93d",
+        "inputSha256": "aaa95fa74c113e7630936fbf145db53618e94e0cc440a6dfeb0c88c98e72214c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "34b82d6074af22e85a12ff1b75fb019c51bdd92e2a3770d04e3ec461453c23f3",
+        "inputSha256": "e9bebda7c3388ed5d8810edc8aff064105ab3ff4d98025a69959eb7e375d58fe",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-19T01:56:04.603Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is sovereignty without panic: power that can afford patience. Justice here is not the quick purge that flatters the anxious ego; it is the long attention that refuses to destroy the living good while trying to excise the bad. Psychologically, the “cockle” is the shadow threaded through the same soil as the wheat; the demand to uproot it early is the fantasy of a clean self, and the result is usually self-mutilation. The tranquil judge is the capacity to hold inner conflict without collapsing into either denial or crusade.\n\nThe mustard seed and leaven insist that what saves is not spectacle but slow, disproportionate growth. The kingdom works the way maturation works: hidden, iterative, embarrassing in its smallness, then suddenly structural, a place where “birds” can lodge—stray thoughts, outsiders, the unplanned beneficiaries. The field is the world, but also the mind: mixed, porous, vulnerable while “men were asleep,” meaning while attention lapses and the unconscious does its planting.\n\nSemina Verbi: this patience resembles the Bhagavad Gita’s call to act without feverish attachment to outcomes (speculation: the harvest imagery maps loosely onto karma’s delayed ripening). It echoes the Tao Te Ching’s wu-wei, strength expressed as non-coercive timing rather than force. It parallels Zen’s refusal to amputate thoughts, letting them rise and pass until clarity appears, and the Sufi emphasis on sabr, a disciplined waiting that is itself a form of power. The mixed field also recalls Jung’s individuation: integration rather than premature moral surgery, so the “wheat” can actually become wheat.",
+    "excursus": "These readings dress power up as patience, but the patience is a tactic, not a tenderness. Wisdom insists God’s “tranquillity” proves justice; psychologically, tranquillity is what the strong call their own delay. The calm is not mercy so much as control: punishment can wait because it is guaranteed. Repentance is offered the way a trap is baited, not because the judge doubts himself, but because he wants the condemned to consent.\n\nMatthew’s field is not a moral landscape; it’s a managed ecosystem where harm is allowed to mature. The servants want cleanup now, the master refuses, not out of compassion for the weeds, but because the wheat is collateral. Evil is tolerated because it is useful as contrast, as pressure, as proof. The kingdom grows like mustard and leaven: invasive, hidden, irreversible. Even the birds nesting in the branches feel less like welcome than occupation.\n\nAnd then the tenderness drops its mask. The delayed sorting ends in a furnace, a spectacle of weeping and teeth. Desire runs through the whole thing: the desire to be wheat, to be chosen, to “shine as the sun,” and the dread that your own roots are entangled with what will be burned. The parable’s secret is not that God is patient; it’s that the world is designed to make you live under a postponed sentence and call the postponement grace.",
+    "synthesis": "God’s omnipotence is the ground of a patient justice that permits repentance without suspending final judgment. The kingdom advances quietly in a mixed world until the definitive separation at the end.",
+    "gospel": [
+      {
+        "text": "Jesus frames history as a contested agriculture: the Son of Man sows, the devil counter-sows, and the world is the mixed field. The parable refuses utopian ecclesiology; mixture is not an accident but a condition until the end.",
+        "lines": [
+          1,
+          14,
+          16
+        ]
+      },
+      {
+        "text": "Parables function as judgment and mercy simultaneously: they disclose ‘hidden’ realities while filtering hearers. The private explanation marks an inner circle trained to read time—patience now, clarity later.",
+        "lines": [
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Eschatology is not mere threat but sorting: scandals are extracted from the kingdom’s space, and the just are revealed in their proper radiance. The final imperative (‘hear’) makes the timeline ethically urgent.",
+        "lines": [
+          18,
+          20
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text argues from divine uniqueness to moral credibility: because no rival court exists, God’s governance must be internally coherent—power, knowledge, and care forming one act rather than competing attributes.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The pedagogy is political: God’s manner of ruling becomes the template for human justice—measured, humane, and oriented to restoration without surrendering the right to sentence.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Power is not adjacent to justice; it is its source.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tranquil judgment: sovereignty without haste, force without agitation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Repentance is not denial of judgment but its interval.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Evil enters by sleep: negligence, not surprise.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Premature purity destroys the crop; zeal can be a scythe.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Delay is not acquittal; it is scheduling.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The kingdom works by concealment and saturation, not spectacle.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Weeping and gnashing: grief and rage together—judgment received as injury.",
+      "lines": [
+        19
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Show yourself gracious to your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look kindly upon your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Show yourself gracious to your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Show yourself gracious to your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Show yourself gracious to your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look kindly upon your children, Lord, and multiply upon them the gifts of your grace, so that, kindled with faith, hope, and charity, they may persevere faithfully in the fulfillment of your law. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For there is no other God but thou, who hast care of all, that thou shouldst shew that thou dost not give judgment unjustly.",
+        "For thy power is the beginning of justice: and because thou art Lord of all, thou makest thyself gracious to all.",
+        "For thou shewest thy power, when men will not believe thee to be absolute in power, and thou convincest the boldness of them that know thee not.",
+        "But thou being master of power, judgest with tranquillity, and with great favour disposest of us: for thy power is at hand when thou wilt.",
+        "But thou hast taught thy people by such works, that they must be just and humane, and hast made thy children to be of a good hope: because in judging, thou givest place for repentance for sins."
+      ],
+      "lineRefs": [
+        "13",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Wisdom 12:13,16-19",
+      "reference": "Wisdom 12:13,16-19",
+      "heading": "A reading from the Book of Wisdom",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Another parable he proposed to them, saying: The kingdom of heaven is likened to a man that sowed good seed in his field.",
+        "But while men were asleep, his enemy came and oversowed cockle among the wheat and went his way.",
+        "And when the blade was sprung up, and had brought forth fruit, then appeared also the cockle.",
+        "And the servants of the good man of the house coming said to him. Sir, didst thou not sow good seed in thy field? Whence then hath it cockle?",
+        "And he said to them: An enemy hath done this. And the servants said to him: Wilt thou that we go and gather it up?",
+        "And he said: No, lest perhaps gathering up the cockle, you root up the wheat also together with it.",
+        "Suffer both to grow until the harvest, and in the time of the harvest I will say to the reapers: Gather up first the cockle, and bind it into bundles to burn, but the wheat gather ye into my barn.",
+        "Another parable he proposed unto them, saying: The kingdom of heaven is like to a grain of mustard seed, which a man took and sowed in his field.",
+        "Which is the least indeed of all seeds; but when it is grown up, it is greater than all herbs, and becometh a tree, so that the birds of the air come, and dwell in the branches thereof.",
+        "Another parable he spoke to them: The kingdom of heaven is like to leaven, which a woman took and hid in three measures of meal, until the whole was leavened.",
+        "All these things Jesus spoke in parables to the multitudes: and without parables he did not speak to them.",
+        "That it might be fulfilled which was spoken by the prophet, saying: I will open my mouth in parables, I will utter things hidden from the foundation of the world.",
+        "Then having sent away the multitudes, he came into the house, and his disciples came to him, saying: Expound to us the parable of the cockle of the field.",
+        "Who made answer and said to them: He that soweth the good seed is the Son of man.",
+        "And the field is the world. And the good seed are the children of the kingdom. And the cockle are the children of the wicked one.",
+        "And the enemy that sowed them, is the devil. But the harvest is the end of the world. And the reapers are the angels.",
+        "Even as cockle therefore is gathered up, and burnt with fire: so shall it be at the end of the world.",
+        "The Son of man shall send his angels, and they shall gather out of his kingdom all scandals, and them that work iniquity.",
+        "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth.",
+        "Then shall the just shine as the sun, in the kingdom of their Father. He that hath ears to hear, let him hear."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:24-43",
+      "reference": "Matthew 13:24-43",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "16th Sunday of Ordinary Time",
+        "key": "16thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/19.html",
+    "title": "Gospel and Word of the Day - 19 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-19"
+}
