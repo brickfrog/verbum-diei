@@ -1,0 +1,228 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f76faa29ddec04c3d365cdfa90da745533e7ecff71a307039a1c75465b993c3d",
+        "inputSha256": "b5a393c9d21cf5ed6bc23f120a79e83a39d215873bda6bb31b44bba6d3e60a20",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "4b306059021400bd2ef5cc556ef561d451c8189b6a455890487b50f297dab635",
+        "inputSha256": "ed3c91bdb59dda1f3e0f75757898cedd07c48c69d474431117d2f06ed851a724",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "46cf0338d820875d2fb299561b0e8e49b5729730f26656cd3eaa1dea328722ae",
+        "inputSha256": "d1795d0a3f9a4712a58879d051c2275a285bd70972b555bd0e3f2b39ebaa6a38",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-21T01:56:13.449Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Micah’s mercy that sinks wrongdoing into the sea has kinship with the Hindu image of karma burned to ash in jñāna, and with Pure Land Buddhism’s trust that the weight of failure can be carried by Other Power; speculation: the “sea” works like a psychic abyss where compulsive self-accusation is finally dropped rather than endlessly rehearsed. The Exodus “wonders” echo the Daoist sense of de as a quiet, reality-bending efficacy that arrives when force relaxes, and the Sufi motif of kashf where the world suddenly shows its hidden generosity.\n\nMatthew’s redefinition of family by obedience resembles the Stoic cosmopolis and Confucian ren: belonging grounded in lived virtue rather than blood; speculation: it names a mature attachment, where loyalty to the real displaces loyalty to the familiar. It also touches the Buddhist sangha as chosen kin, and the Sikh sangat as a community formed by practice, not lineage, without needing contempt for one’s household—only a refusal to let it be the ultimate claim.",
+    "excursus": "Micah’s mercy is not tenderness; it’s disposal. The flock “dwells alone,” penned by a rod, nostalgia fed like pasture. Egypt’s “wonders” are the old shock tactics of power, the kind that make a people feel chosen by making them afraid. Forgiveness arrives as erasure: sins hurled into the sea not to heal the wound but to silence it, to make a clean surface where no one has to remember what was done.\n\nMatthew stages the same logic inside a room. His mother waits outside like the past asking for access; he refuses the claim. He doesn’t broaden family so much as replace it, turning intimacy into a test of obedience. Desire is rerouted from blood to belonging, from the body that made you to the circle that approves you. The comfort offered is real, but it costs: you are saved by being unrecognizable to your own history.",
+    "synthesis": "God’s mercy is covenant-anchored and effectual, abolishing guilt rather than merely suspending penalty. In Christ, true kinship is reconstituted by obedience to the Father, not by blood.",
+    "gospel": [
+      {
+        "text": "Matthew frames a jurisdictional transfer: the household of Jesus is constituted by the Father’s will, creating a public, teachable criterion for belonging. The scene legitimates a community that can outlast ethnic and domestic lines because its bond is performative—doing—rather than genealogical.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Micah’s climax is not Israel’s resolve but God’s self-description: wrath is not denied, it is bounded by a prior commitment. The oath to the fathers functions as the legal ground for pardon; mercy is covenantal, not sentimental.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Shepherding by rod: care that bruises; inheritance treated as livestock.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exodus becomes a template: salvation remembered as repeatable spectacle.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sin not managed but drowned; the sea as God’s oubliette.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kinship waits outside while the word is mid-sentence; interruption tests priority.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A question that severs blood from claim; obedience, not proximity, is the credential.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The hand redraws the family map around discipleship.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Increase, Lord, our faith, so that the praise that comes from our lips may always be accompanied by the fruits of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we stand before you in prayer, Lord, we implore your mercy and ask that the sentiments of our heart may always be in harmony with the words of our mouth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Feed thy people with thy rod, the flock of thy inheritance, them that dwell alone in the forest, in the midst of Carmel: they shall feed in Basan and Galaad, according to the days of old.",
+        "According to the days of thy coming out of the land of Egypt, I will shew him wonders.",
+        "Who is a God like to thee, who takest away iniquity, and passest by the sin of the remnant of thy inheritance? he will send his fury in no more, because he delighteth in mercy.",
+        "He will turn again, and have mercy on us: he will put away our iniquities: and he will cast all our sins into the bottom of the sea.",
+        "Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old. THE PROPHECY OF NAHUM NAHUM, whose name signifies A COMFORTER, was a native of Elcese, or Elcesai, supposed to be a little town in Galilee. He prophesied, after the ten tribes were carried into captivity, and foretold the utter destruction of Ninive, by the Babylonians and Medes: which happened in the reign of JOSIAS."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Micah 7:14-15,18-20",
+      "reference": "Micah 7:14-15,18-20",
+      "heading": "A reading from the Book of Micah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "As he was yet speaking to the multitudes, behold his mother and his brethren stood without, seeking to speak to him.",
+        "And one said unto him: Behold thy mother and thy brethren stand without, seeking thee.",
+        "But he answering him that told him, said: Who is my mother, and who are my brethren? Who is my mother?... This was not spoken by way of slighting his mother, but to shew that we are never to suffer ourselves to be taken from the service of God, by any inordinate affection to our earthly parents: and that which our Lord chiefly regarded in his mother, was her doing the will of his Father in heaven. It may also further allude to the reprobation of the Jews, his carnal kindred, and the election of the Gentiles.",
+        "And stretching forth his hand towards his disciples, he said: Behold my mother and my brethren.",
+        "For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother."
+      ],
+      "lineRefs": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 12:46-50",
+      "reference": "Matthew 12:46-50",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Lawrence of Brindisi, Priest and Doctor",
+        "key": "saintLawrenceOfBrindisiPriestAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/21.html",
+    "title": "Gospel and Word of the Day - 21 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-21"
+}
