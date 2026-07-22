@@ -1,0 +1,277 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f82838a99bbc49c300e9e1b9ee8d1a730abc25a8be2882465846c1426a431429",
+        "inputSha256": "3375d56fe202c0c8cc6aa9eb9ded3978aba877c39b5943504e8bf0ff2cf34824",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5071a664cdf804b5824899875ce3c17fd6ae29afe26da0eeadab15a03896e38c",
+        "inputSha256": "a936baea5c22af00879029ed5452754e82f19a7aff85c336075e15c39c4e0f04",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "003270fc953470aeb594c8b89d7cf7c9f867ffce33bf60cec17966f3f004693d",
+        "inputSha256": "7d21ac317f63bc6fb9446a1c43eec0acef3c5182d03915ff81ec7793e8d71ee7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-22T02:04:32.682Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The night-search that fails until a voice answers the seeker has the shape of the Upanishadic neti neti: desire prowls through names and places, then the real arrives as a recognition that undoes the hunt. Speculation: Mary’s misrecognition of the gardener echoes Zen’s ordinary mind, where the sacred first appears as the most banal figure, and awakening is triggered by a single address that cuts through conceptual fog.\n\nThe watchmen as mediators resemble the bodhisattva or the guru: not the goal, but the ones who redirect longing toward what it cannot yet see. The refusal to “touch” reads like Sufi adab before the Beloved: intimacy is real, but must be held without possession, love purified of grasping.\n\n“Bring him into my mother’s house” aligns with the Platonic ascent in reverse: the Form is found, then carried into the household of psyche so the whole person becomes a dwelling. Speculation: it also parallels the Daoist return, where the discovered Way is not displayed as trophy but integrated as homecoming.",
+    "excursus": "Both scenes are about a love that needs absence to stay alive. The woman in the Song hunts at night because daylight would end the story; finding him too soon would collapse desire into possession. The city is not a map but a psyche: bed, streets, watchmen, mother’s chamber are successive defenses against panic. She keeps failing to find him because the failure is the engine.\n\nMary at the tomb repeats the same compulsion with sharper dread. “It was yet dark” is not atmosphere; it’s the condition of grief that cannot tolerate closure. She doesn’t want resurrection; she wants the body back, the manageable object she can carry away and keep. Even angels are useless because they are meaning, and she is clinging to loss.\n\nJesus’ “Mary” is the seduction of being recognized, and “Do not touch me” is the refusal that seals the bond. The beloved returns only to withdraw, turning love into mission, intimacy into message. She becomes the first witness not because she is pure, but because her desire is stubborn enough to survive the unbearable: a lover who will not be held.",
+    "synthesis": "Christ is found not by possession but by being addressed and sent. The Church’s love is verified when it turns encounter into witness under the Fatherhood revealed by the risen Son.",
+    "gospel": [
+      {
+        "text": "John frames the scene with a double testimony that does not yet console: tears persist even in the presence of angels. The narrative refuses cheap proof; heavenly signs do not automatically generate faith when the heart is fixed on loss.",
+        "lines": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The risen Christ converts Mary from mourner to envoy: the first Easter proclamation is commissioned speech, not private rapture. The new relation is articulated in the Father-language—his and theirs—so resurrection is presented as incorporation into a reordered family rather than mere reversal of death.",
+        "lines": [
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The poem stages a movement from interiority to public space: desire refuses to be satisfied by private fantasy and forces the seeker into the city’s exposed routes. The beloved is not an object available to the self; the search dislocates the self from comfort into risk.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The watchmen function as a threshold between institution and encounter: they can be consulted, even necessary, yet the decisive meeting occurs beyond them. The final motion is centripetal—bringing the beloved into “mother’s house”—a claim that love seeks a dwelling and lineage, not a momentary thrill.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Desire begins in the safest place and fails there; the bed becomes a desert.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "She turns longing into method: rise, walk, search—restlessness as liturgy.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Watchmen: public authority confronted by private hunger; the city cannot supply the beloved.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Found “a little passed by them”: guidance is provisional; possession becomes refusal to release.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Yet dark”: resurrection approached under the sign of ignorance; absence is the first datum.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She interprets the empty as theft; love defaults to conspiracy when it cannot see.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She sees and does not know: proximity without recognition; the familiar face is newly hidden.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Gardener mistake: she reduces the Lord to a custodian; grief makes metaphysics domestic.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One word—her name—reconstitutes the world; recognition is vocation, not deduction.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Do not touch”: intimacy is re-ordered by ascent; possession yields to mission.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted to Mary Magdalene before all others the mission of announcing to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim the risen Christ and one day to see him glorious in the kingdom of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted to Mary Magdalene, before anyone else, the mission of announcing to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim Christ risen and one day to see him glorious in the kingdom of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted Mary Magdalene, before anyone else, with the mission of proclaiming to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim Christ risen and one day to see him glorious in the kingdom of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted Mary Magdalene, before anyone else, with the mission of proclaiming to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim Christ risen from the dead and one day to see him glorious in the kingdom of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted Mary Magdalene, before anyone else, with the mission of proclaiming to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim the risen Christ and one day to see him glorious in the kingdom of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, Christ, your Only Begotten Son, entrusted Mary Magdalene, before anyone else, with the mission of announcing to his own the joy of Easter; grant us, through the intercession and example of her whose feast we celebrate, always to proclaim the risen Christ and one day to see him glorious in the kingdom of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In my bed by night I sought him whom my soul loveth: I sought him, and found him not. In my bed by night, etc... The Gentiles as in the dark, and seeking in heathen delusion what they could not find, the true God, until Christ revealed his doctrine to them by his watchmen, (ver. 3,) that is, by the apostles, and teachers by whom they were converted to the true faith; and holding that faith firmly, the spouse (the Catholic Church) declares, ver. 4, That she will not let him go, till she bring him into her mother's house, etc., that is, till at last, the Jews also shall find him.",
+        "I will rise, and will go about the city: in the streets and the broad ways I will seek him whom my soul loveth: I sought him, and I found him not.",
+        "The watchmen who keep the city, found me: Have you seen him, whom my soul loveth?",
+        "When I had a little passed by them, I found him whom my soul loveth: I held him: and I will not let him go, till I bring him into my mother's house, and into the chamber of her that bore me."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Song of Songs 3:1-4",
+      "reference": "Song of Songs 3:1-4",
+      "heading": "A reading from the Song of Songs",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre: and she saw the stone taken away from the sepulchre.",
+        "She ran therefore and cometh to Simon Peter and to the other disciple whom Jesus loved and saith to them: They have taken away the Lord out of the sepulchre: and we know not where they have laid him.",
+        "But Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down and looked into the sepulchre,",
+        "And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid.",
+        "They say to her: Woman, why weepest thou? She saith to them: Because they have taken away my Lord: and I know not where they have laid him.",
+        "When she had thus said, she turned herself back and saw Jesus standing: and she knew not that it was Jesus.",
+        "Jesus saith to her: Woman, why weepest thou? Whom seekest thou? She, thinking that it was the gardener, saith to him: Sir, if thou hast taken him hence, tell me where thou hast laid him: and I will take him away.",
+        "Jesus saith to her: Mary. She turning, saith to him: Rabboni (which is to say, Master).",
+        "Jesus saith to her: Do not touch me: for I am not yet ascended to my Father. But go to my brethren and say to them: I ascend to my Father and to your Father, to my God and to your God.",
+        "Mary Magdalen cometh and telleth the disciples: I have seen the Lord; and these things he said to me."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 20:1-2,11-18",
+      "reference": "John 20:1-2,11-18",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Mary Magdalene",
+        "key": "saintMaryMagdalene"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/22.html",
+    "title": "Gospel and Word of the Day - 22 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-22"
+}
