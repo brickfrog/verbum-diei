@@ -45,6 +45,9 @@ main = do
       reading <- fetchBibleReading "Ecclesiasticus 3:2-3"
       assertEqual "reference" "Sirach 3:2-3" reading.reference
       assertEqual "lineRefs" [ "2", "3" ] reading.lineRefs
+      songs <- fetchBibleReading "Songs 3:1-4"
+      assertEqual "reference" "Song of Songs 3:1-4" songs.reference
+      assertEqual "lineRefs" [ "1", "2", "3", "4" ] songs.lineRefs
 
     test "resolves book abbreviations" do
       reading <- fetchBibleReading "Jn 3:16"

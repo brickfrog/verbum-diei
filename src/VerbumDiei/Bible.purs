@@ -418,6 +418,7 @@ aliasPairs =
   , Tuple "sirach" "Sirach"
   , Tuple "canticleofcanticles" "Song of Songs"
   , Tuple "songofsongs" "Song of Songs"
+  , Tuple "songs" "Song of Songs"
   , Tuple "apocalypse" "Revelation"
   , Tuple "revelation" "Revelation"
   , Tuple "tobias" "Tobit"

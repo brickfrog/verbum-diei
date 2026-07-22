@@ -1039,6 +1039,7 @@ bookAliases =
   , { key: "eccl", value: "Ecclesiastes" }
   , { key: "qoh", value: "Ecclesiastes" }
   , { key: "song", value: "Song of Songs" }
+  , { key: "songs", value: "Song of Songs" }
   , { key: "sg", value: "Song of Songs" }
   , { key: "cant", value: "Song of Songs" }
   , { key: "wis", value: "Wisdom" }
