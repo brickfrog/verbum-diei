@@ -1,0 +1,258 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "786d55a6e1cc9a2b1760fb6eedcd490c1850b1ca988f93e8714056b4629546ae",
+        "inputSha256": "2c942a9f7bcbed55fbe9ec58ed3989ae2440685be11b386ffdab058fe641426d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "79f1d77a5dcc5fe08b9a1115ccee5c3915b54c3b002064af3eed4d4a161e0408",
+        "inputSha256": "848f9ed5521104a46844594a0b7d6fd132d2e9fd3a470e4a24254813b012666a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "066e523a3f665d040430cacd19b2cec73c45c5d79697fc4d324e54b396bc4bcb",
+        "inputSha256": "1b9a344e23ef4b840e73b84143e7bb8c5837b09cccab0993da3d6f774e9616f7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-23T01:56:08.565Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “not I” is ego-death without nihilism: the old self is not improved but displaced, so agency becomes participation rather than self-authorship. This is close, speculatively, to the Bhagavad Gita’s karma-yoga where action continues after renouncing possessive doership, and to Sufi fana where the self’s claims burn off and a truer life remains.\n\nJohn’s vine is attachment made organic: fruit is not forced, it is the byproduct of staying joined, while pruning names the painful mercy of limits. This resembles, speculatively, Zen’s emphasis on practice as returning to the source rather than manufacturing virtue, and the Stoic idea that what looks like loss can be training that increases inner yield.\n\n“Ask whatever you will” reads psychologically as desire re-educated by intimacy: the will is reshaped until it wants what the life-source wants, so prayer becomes aligned appetite. This has kinship, speculatively, with Buddhist right intention and with Plato’s eros purified from craving into a love that generates the good.",
+    "excursus": "Paul isn’t celebrating freedom; he’s staging a controlled death of the self. “Dead to the law” doesn’t mean liberated from rules, it means the old inner judge has finally killed him, and the only way to keep breathing is to let another will occupy his body. “Not I” is the relief of surrender and the dread of erasure: he survives as a host. Love arrives as substitution, but it feels like annexation—“delivered himself for me” becomes the alibi for why Paul no longer has to be the one who wants, chooses, fails.\n\nJohn’s vine intensifies the bargain. Abide, and you get potency; detach, and you’re trash for the fire. The tenderness of “abide in me” is inseparable from the horticultural threat: intimacy is surveillance, growth is pruning, and pruning is sanctioned pain. Fruit is the only proof you’re alive, so desire is conscripted into productivity. Even prayer is conditional—ask whatever you will, but only after your will has been trained to echo the vine’s words.\n\nRead together, they describe a psychological economy of belonging: you trade autonomy for the unbearable comfort of being inhabited. The promised life is real, but it comes with a terror—if you stop producing, you discover you were never a person here, only a branch.",
+    "synthesis": "Union with Christ transfers the believer out of the law’s dominion into a life whose agent and vitality are Christ himself. Apart from this union there is no spiritual efficacy, only sterility and judgment.",
+    "gospel": [
+      {
+        "text": "John frames discipleship as cultivated productivity under the Father’s governance: the word effects an initial cleansing, then ongoing pruning orders the community toward visible yield. Petition is tethered to indwelling words, so “whatever you will” is not sovereign desire but desire disciplined by the vine’s speech; the Father’s glory is the public end of this economy.",
+        "lines": [
+          2,
+          3,
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s logic is juridical before it is mystical: a death has occurred that changes jurisdiction, so “life to God” is not self-improvement but a new legal standing grounded in participation in Christ’s execution. The result is a redefined agency—action continues, but its subject is no longer the old claimant.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Law kills law: the instrument of condemnation becomes the means of release.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Nailed” is not metaphorical piety; it is a transfer of sentence onto another body.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The pronoun collapses: the self persists only as a site of indwelling.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“In the flesh” remains, but its operating principle is faith, not appetite or merit.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is defined as self-delivery; affection is replaced by substitution.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“True” vine implies rivals: other sources of life exist, but they are counterfeit.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two knives: removal for sterility, pruning for fertility; both are acts of the same hand.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Abiding is not effort but location; fruit is a consequence of attachment.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Nothing” is total: autonomy is not reduced productivity but nullity.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fire is the end of detached life: not correction but disposal.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who revealed heavenly secrets to Saint Bridget as she meditated on the Passion of your Son, grant us, your servants, always to rejoice in the manifestation of your glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who revealed heavenly secrets to Saint Bridget as she meditated on the Passion of your Son, grant that we, your servants, may always rejoice in the manifestation of your glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who revealed heavenly secrets to Saint Bridget as she meditated on the Passion of your Son, grant that we, your servants, may always rejoice in the manifestation of your glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who revealed heavenly secrets to Saint Bridget as she meditated on the Passion of your Son, grant that we, your servants, may always rejoice in the manifestation of your glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who revealed heavenly secrets to Saint Bridget as she meditated on the Passion of your Son, grant that we, your servants, may always rejoice in the manifestation of your glory. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and through his patronage Spain may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For I, through the law, am dead to the law, that I may live to God; with Christ I am nailed to the cross.",
+        "And I live, now not I: but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me and delivered himself for me."
+      ],
+      "lineRefs": [
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 2:19-20",
+      "reference": "Galatians 2:19-20",
+      "heading": "A reading from the Letter to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "I am the true vine: and my Father is the husbandman.",
+        "Every branch in me that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit.",
+        "Now you are clean, by reason of the word which I have spoken to you.",
+        "Abide in me: and I in you. As the branch cannot bear fruit of itself, unless it abide in the vine, so neither can you, unless you abide in me.",
+        "I am the vine: you the branches. He that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.",
+        "If any one abide not in me, he shall be cast forth as a branch and shall wither: and they shall gather him up and cast him into the fire: and he burneth.",
+        "If you abide in me and my words abide in you, you shall ask whatever you will: and it shall be done unto you.",
+        "In this is my Father glorified: that you bring forth very much fruit and become my disciples."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 15:1-8",
+      "reference": "John 15:1-8",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "PATRON_OF_EUROPE"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Bridget of Sweden, Religious, Patron of Europe",
+        "key": "saintBridgetOfSwedenReligious"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/23.html",
+    "title": "Gospel and Word of the Day - 23 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-23"
+}
