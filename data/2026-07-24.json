@@ -1,0 +1,254 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "82b9d334dc77aab9e1907b4a22aa9f5dc9174e7518c5d2fe6a2667bf9ac7098c",
+        "inputSha256": "aa6fbd6ca16ba2224d6b94d36c18c8b4914129c8a2c398fb82fe9aaa7e4fd842",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d57aebf6d65641cf0451395e652b865f01bd1e9b4ee704c72790c333bbb75ce2",
+        "inputSha256": "d020d51accc1a7c2ac46d6dd3769180268e9cf51ebcba71c229eef7a520b9532",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1fc68845589ec367d7ab0e1749d1aa4d3ffb795635670763dc349968559f52ff",
+        "inputSha256": "4968557c8eb550079ab56d558fe899e7044caf9bcade7174e72668fce356be57",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-24T01:56:45.476Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is a psychology of return and receptivity: the self is called back from dispersion, then trained into a steadier attention that can actually host meaning. The “husband” image is not romance but re-bonding; a scattered will is gathered into one place, then entrusted to guides “according to my heart,” i.e., models of integrated desire. The ark’s disappearance signals maturity: you stop needing a portable fetish of certainty because the center has moved inward and communal; the city becomes a throne, not an object. In the sower, the same drama is mapped onto attention: distraction steals, hardness prevents rooting, pain triggers flight, and status-anxiety strangles. Fruit is not intensity but endurance under weather.\n\nSemina Verbi: the move from ark to throne resembles Hindu bhakti’s shift from external murti-dependence to antaryamin, the indwelling guide; charitable parallel, speculative. The “pastors according to my heart” echoes the bodhisattva ideal in Mahayana Buddhism: teachers shaped by compassion who feed with insight rather than coercion; speculative. The soils read like Stoic prohairesis under pressure: impressions arrive, but only a trained ruling faculty keeps assent from being hijacked by fear or wealth; speculative. The gathering of nations to a single center rhymes with the Confucian Great Unity (Datong) as moral convergence around a just axis; speculative.",
+    "excursus": "Jeremiah stages a jealous marriage where the lover is also the jailer. “Return” is not tender; it is a summons from someone who claims ownership. He will “take you, one of a city, and two of a kindred”: not a mass homecoming but a selective extraction, a narrowing that feels like rescue and abduction at once. The promise of “pastors according to my own heart” is the installation of a new interior police, voices trained to make the beloved’s thoughts sound like the husband’s.\n\nThen comes the strangest erotic turn: the ark, the old fetish-object, will be forgotten. No more relic to touch, no portable guarantee. The city itself becomes the throne; desire is centralized, surveillance made architectural. Nations gather not because they are convinced but because the magnet has been made irresistible, and the last line admits the real enemy is not foreign gods but the “most wicked heart” that keeps wanting elsewhere.\n\nMatthew’s sower is the same drama moved inside the psyche. The “word” is not information; it is an implant competing with rival appetites. The wicked one is distraction with teeth, the quick joy is infatuation without commitment, persecution is the moment the affair costs you, and thorns are the ordinary seductions that feel like freedom. Good soil is not virtue; it is a temperament that can tolerate the slow violence of rooting, the long obedience of desire. Fruitfulness is not happiness but submission that finally becomes productive, the self reshaped until it yields more than it meant to.",
+    "synthesis": "God replaces external tokens with internalized rule, and he judges the word by its durable fruit under pressure. The kingdom is verified by persevering understanding, not by initial enthusiasm or inherited symbols.",
+    "gospel": [
+      {
+        "text": "Jesus interprets reception of the kingdom as a contest over interiority: the same word meets different soils, and the decisive factor is endurance under competing claims—evil, suffering, and ordinary life. The parable’s logic makes “hearing” insufficient; only persevering comprehension that issues in yield counts as true reception.",
+        "lines": [
+          1,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from private covenant repair to public reconstitution: a remnant is gathered into Zion, then Zion is redefined as the locus of divine rule that draws nations. The end is not nostalgia for cultic objects but a reordered political-theological center where desire (“heart”) is disciplined away from perversity.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Revolt met with marriage: covenant framed as possession—“I am your husband.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Selection is surgical: “one…two” against the fantasy of mass return.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pastors are not chosen for charm but for alignment: “according to my heart.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The ark becomes obsolete; memory itself is legislated into silence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Jerusalem shifts from city to furniture: “throne of the Lord.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance is not neutral; it is a theft-vector—seed stolen from the heart.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Joy is cheap reception; it proves nothing about depth.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Time exposes the counterfeit: pressure reveals rootlessness.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two stranglers: anxiety and wealth—both kill by slow constriction.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fruit is graded, not binary; fidelity has measures.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable blessings for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, for your abundant grace, that it may help us to follow the path of your commandments, and so enjoy your consolation in this life and attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that your Son should suffer for the salvation of all, grant that, inflamed with your love, we may know how to offer ourselves to you as a living sacrifice. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Return, O ye revolting children, saith the Lord: for I am your I husband: and I will take you, one of a city, and two of a kindred, and will bring you into Sion.",
+        "And I will give you pastors according to my own heart, and they shall feed you with knowledge and doctrine.",
+        "And when you shall be multiplied, and increase in the land in those days, saith the Lord, they shall say no more: The ark of the covenant of the Lord: neither shall it come upon the heart, neither shall they remember it, neither shall it be visited, neither shall that be done any more.",
+        "At that time Jerusalem shall be called the throne of the Lord: and all the nations shall be gathered together to it, in the name of the Lord to Jerusalem, and they shall not walk after the perversity of their most wicked heart."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 3:14-17",
+      "reference": "Jeremiah 3:14-17",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Hear you therefore the parable of the sower.",
+        "When any one heareth the word of the kingdom, and understandeth it not, there cometh the wicked one, and catcheth away that which was sown in his heart: this is he that received the seed by the way side.",
+        "And he that received the seed upon stony ground, is he that heareth the word, and immediately receiveth it with joy.",
+        "Yet hath he not root in himself, but is only for a time: and when there ariseth tribulation and persecution because of the word, he is presently scandalized.",
+        "And he that received the seed among thorns, is he that heareth the word, and the care of this world and the deceitfulness of riches choketh up the word, and he becometh fruitless.",
+        "But he that received the seed upon good ground, is he that heareth the word, and understandeth, and beareth fruit, and yieldeth the one an hundredfold, and another sixty, and another thirty."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:18-23",
+      "reference": "Matthew 13:18-23",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Charbel Makhlouf, Priest and Hermit",
+        "key": "saintCharbelMakhloufPriestAndHermit"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/24.html",
+    "title": "Gospel and Word of the Day - 24 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-24"
+}
