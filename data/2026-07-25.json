@@ -1,0 +1,293 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e53fb28d80a3eaf134de2304381a33933069c36c6ba7b27a79d0aa49b6b02a64",
+        "inputSha256": "31112b29a4c377ee204726cf1de2eae322177bb2df1a36a195eaddfcf479eeed",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "401e0c796a11fbc24d12b83c8b388502dc6db55140ecc082161580e5c7f6bc6a",
+        "inputSha256": "918e4465f0e26d33e72bb97c86fd22c04bd61761f09062bc63018ea11b702e5e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b8353e15e6a1d5ccf2dc642849578663b39fb09fce84d5d4da98c4b7e6339d62",
+        "inputSha256": "cb89827ae99bab3ecfb22a2f98f238613d081a2544baaf0b9aab5894726c0f7f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-25T01:56:12.993Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “earthen vessel” is the psyche’s humiliating container: the self discovers its most luminous contents only when the ego’s claim to competence is punctured. That inversion—power showing up as survivable fragility—rhymes, speculatively, with Zen’s “broken bowl” mind, where awakening is carried in ordinary, fallible form, and with Sufi fana, where the self’s thinning becomes the condition for a larger life to move through.\n\nThe “chalice” scene is desire caught in its own fantasy of proximity to power. The request is not wicked; it is childish: it wants the glory without the cost, intimacy without the wound. Jesus answers by relocating greatness from status to endurance-for-others, a psychological re-education of ambition into service. This resembles Stoic prohairesis in reverse: not mastery over others but mastery over the impulse to dominate; and, speculatively, echoes the Bhagavad Gita’s karma yoga, where action is purified when it stops being a ladder.\n\nThe disciples’ indignation exposes the group’s shared addiction to rank: they resent the ask because they wanted it too. The cure is a new social physics: authority as downward motion, leadership as self-spending. In Taoism’s ideal ruler—who does not contend and therefore cannot be displaced—there is a faint parallel, charitable but speculative: the highest influence is least interested in being seen.\n\n“Death in us, life in you” names the generative asymmetry of love: one person absorbs cost so another can breathe. That logic appears, speculatively, in the bodhisattva vow, where one delays private completion for the many, and in the Jewish notion of tikkun olam, repair enacted through costly fidelity rather than spectacle.",
+    "excursus": "Paul’s “treasure” is not comfort; it’s a volatile charge sealed in cheap clay. The point of the earthen vessel is that it cracks. Suffering is not an unfortunate backdrop to faith but the mechanism that makes the message credible: the body becomes a public site where collapse and radiance share the same skin. “Death worketh in us” is not poetic consolation; it’s an economy. One person’s slow undoing buys another’s sense of life.\n\nThen Matthew shows the desire that Paul keeps sublimated: proximity, status, the erotic geometry of right hand and left. The mother’s request is naked ambition dressed as devotion, and Jesus doesn’t shame the wanting; he redirects it into a fetish of ordeal. The chalice is the price of intimacy. “You shall drink” lands like a sentence, not a blessing.\n\nThe other ten are indignant because they want the same thing and hate seeing it spoken aloud. Jesus’ answer doesn’t abolish hierarchy; it weaponizes it. Greatness remains, but it must be performed as service, power must wear the mask of abasement. The dread is that the community will learn to desire suffering as proof, to convert humiliation into rank.\n\nSo the two readings lock together: fragile bodies as instruments, ambition as the engine, death as the currency. The promise of resurrection hovers, but the psychology is here and now: a system that turns longing for glory into willingness to be broken, and calls the breaking love.",
+    "synthesis": "God’s power is displayed by placing life inside weakness and by founding authority on sacrificial service. In Christ, glory is assigned by the Father and accessed through the chalice, not seized by proximity or force.",
+    "gospel": [
+      {
+        "text": "A mother mediates ambition through reverence; piety becomes a vehicle for advancement, showing how devotion can be conscripted by status-seeking.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "The indignation of the ten exposes a common appetite: they resent the request because they recognize themselves in it; rivalry is the default ecclesial temperature.",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "Jesus legislates an internal polity opposed to imperial patterns: office is redefined as service, and primacy as servitude—an inversion meant to be structural, not sentimental.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames apostolic existence as a sustained exposure to death “for Jesus’ sake,” not as accident but as vocation; the community’s vitality is tethered to that exposure.",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "Resurrection is not private consolation but corporate placement—“with you”—so endurance is oriented toward a shared eschatological assembly, not individual survival.",
+        "lines": [
+          8
+        ]
+      },
+      {
+        "text": "The telos is liturgical: grace multiplies into thanksgiving, and thanksgiving terminates in God’s glory; suffering is subordinated to doxology.",
+        "lines": [
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Treasure housed in clay: glory routed away from the container.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A chain of pressures, each met by a negation; resilience is grammatical.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mortification carried like a relic; death becomes a display-case for life.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A grim economy: one side metabolizes death so the other can receive life.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech is not self-expression but overflow of belief; citation authorizes utterance.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The kingdom imagined as seating; proximity mistaken for participation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question shifts from rank to cup; desire is interrogated by suffering.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Promise of the chalice, refusal of the chairs: suffering is shared, honors are assigned.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Gentile rule defined as downward pressure; greatness measured by weight imposed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ransom language: life converted into payment; authority grounded in self-expenditure.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and, through his patronage, Spain may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside Spain:\n\nAlmighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and, through his patronage, Spain may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.\nAmen.\n\nOutside Spain:\n\nAlmighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and through his patronage Spain may remain faithful to Christ until the end of time. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and through his patronage Spain may remain faithful to Christ until the end of time. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and through his patronage Spain may remain faithful to Christ until the end of time. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and, through his patronage, Spain may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside Spain:\n\nAlmighty and eternal God, who consecrated the first labors of the apostles with the blood of James, grant that through his martyrdom your Church may be strengthened and may remain faithful to Christ until the end of time. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But we have this treasure in earthen vessels, that the excellency may be of the power of God and not of us.",
+        "In all things we suffer tribulation: but are not distressed. We are straitened: but are not destitute.",
+        "We suffer persecution: but are not forsaken. We are cast down: but we perish not.",
+        "Always bearing about in our body the mortification of Jesus, that the life also of Jesus may be made manifest in our bodies.",
+        "For we who live are always delivered unto death for Jesus' sake: that the life also of Jesus may be made manifest in our mortal flesh.",
+        "So then death worketh in us: but life in you.",
+        "But having the same spirit of faith, as it is written: I believed, for which cause I have spoken; we also believe. For which cause we speak also:",
+        "Knowing that he who raised up Jesus will raise us up also with Jesus and place us with you.",
+        "For all things are for your sakes: that the grace, abounding through many, may abound in thanksgiving unto the glory of God."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Corinthians 4:7-15",
+      "reference": "2 Corinthians 4:7-15",
+      "heading": "A reading from the Second Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then came to him the mother of the sons of Zebedee with her sons, adoring and asking something of him.",
+        "Who said to her: What wilt thou? She saith to him: say that these my two sons may sit, the one on thy right hand, and the other on thy left, in thy kingdom.",
+        "And Jesus answering, said: You know not what you ask. Can you drink the chalice that I shall drink? They say to him: We can.",
+        "He saith to them: My chalice indeed you shall drink; but to sit on my right or left hand is not mine to give to you, but to them for whom it is prepared by my Father.",
+        "And the ten, hearing it, were moved with indignation against the two brethren.",
+        "But Jesus called them to him and said: You know that the princes of the Gentiles lord it over them; and that they that are the greater, exercise power upon them.",
+        "It shall not be so among you: but whosoever is the greater among you, let him be your minister.",
+        "And he that will be first among you shall be your servant.",
+        "Even as the Son of man is not come to be ministered unto, but to minister and to give his life a redemption for many."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 20:20-28",
+      "reference": "Matthew 20:20-28",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint James, Apostle",
+        "key": "saintJamesApostle"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/25.html",
+    "title": "Gospel and Word of the Day - 25 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-25"
+}
