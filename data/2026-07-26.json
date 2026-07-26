@@ -1,0 +1,263 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e07998ab1be6b40c1ddcabe585b7f1890d8b922ab4027a093742ef479232ddad",
+        "inputSha256": "3cababccbd957ef54236d244fd8e6dce43794494d4b75ddd470475669c7c949e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7e5816e3d932d9f5ca5f5c351f2575f0f7a45ffb979a69ed39c828563d7853bb",
+        "inputSha256": "562f516f2ed6e15096f0934c9d4cc10e94dcca9e6372e804e1299153733e7d5f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a2e0806f304ab404ba95fe3ccd5088988f1ec4cca237781b43aa80890a010d66",
+        "inputSha256": "f976c2ebc395f35f5a439b8e73444c010b8ee2539a10a0868d815b65472a36ec",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-26T01:56:17.779Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Solomon’s “understanding heart” reads like the Confucian junzi refusing the glamour of longevity and wealth for the harder craft of right discernment; it’s also close to the Bhagavad Gita’s preference for buddhi over boons, and to Plato’s philosopher who chooses the good itself rather than its prizes. The dream-audience with the divine resembles the Upanishadic night-teaching where the deepest request is not power but insight.\n\nThe buried treasure and the pearl echo Zen’s sudden kenshō: one glimpse and the old inventory becomes expendable. The merchant’s joy has the clean violence of renunciation found in Jain aparigraha and in Sufi fana, where the self’s holdings are burned down to make room for the Real.\n\nThe net that gathers “all kinds” feels like the Buddhist image of Indra’s net turned judicial (speculation): total inclusion at the level of contact, then separation at the level of ripening. The sorting by the shore parallels the Egyptian weighing of the heart in the Hall of Ma’at: not tribal membership but inner weight decides.\n\nThe “scribe instructed” who brings out “new and old” resembles rabbinic midrash at its best, and also the Taoist habit of returning to the ancient while speaking freshly; psychologically it’s the integrated mind that can metabolize inheritance without becoming its prisoner.",
+    "excursus": "Solomon’s “wisdom” is not innocence; it is appetite disciplined into an instrument. He calls himself a child to disarm the demand, to make power look like burden. What he asks for is a heart that can cut cleanly, a mind that can look at a living crowd and turn it into cases. God approves because this is the kind of desire empires need: not gold, not vengeance, but the cold capacity to decide who counts and who doesn’t, and to feel righteous while doing it.\n\nJesus’ treasure and pearl are not pious trinkets; they are obsessions. The finder hides the treasure again, then liquidates his life in a rush of joy that reads like panic. The merchant sells everything for a single object, a beautiful narrowing. The kingdom is acquisition, and it demands the same brutal clarity Solomon begged for: one thing chosen, everything else sacrificed.\n\nThen the net lands and the romance curdles into sorting. “All kinds” is gathered, and the story ends with hands separating, discarding, and fire. The desire for the kingdom is inseparable from dread of being refused by it. The final image of the trained scribe is a person who can furnish the house with old and new treasures, yes, but also someone who has learned the most dangerous skill in these readings: how to make the knife look like wisdom, and the sale of everything look like joy.",
+    "synthesis": "God commends the desire that seeks judgment for the sake of others, and the kingdom demands a total revaluation now under the certainty of final separation.",
+    "gospel": [
+      {
+        "text": "The parables move from private acquisition (merchant) to public adjudication (shore, angels), mapping the kingdom as both present valuation and future assize. The disciples’ “Yes” is treated as accountability: understanding is not admiration but enrollment into a craft that handles mixed materials without collapsing them.",
+        "lines": [
+          2,
+          3,
+          5,
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is governance under scale: an “immense people” forces the question of adequacy, and God’s pleasure signals that rule is evaluated by orientation rather than capacity. The promise of unmatched wisdom installs Solomon as an exception, but also as a standard by which later rulers will be indicted.",
+        "lines": [
+          3,
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "God solicits desire; the gift begins as a question.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingship framed as incompetence: “child” as political theology.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He asks for a heart, not a tool; judgment is an organ.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wisdom defined by refusals: life, wealth, vengeance—three decoys.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Treasure is found, then re-hidden: secrecy precedes purchase.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Joy authorizes liquidation; affect drives total divestment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Net is indiscriminate; sorting is delayed, not denied.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Eschatology is not metaphor: heat, sound, teeth.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The trained scribe is a curator: continuity without antiquarianism.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world as to cling to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world that we may cling to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may use the passing goods of this world in such a way as to cling to those that are eternal. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world that we may cling to those that are eternal. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so make use of passing goods that we may cling to those that are eternal. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world that we may cling to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord appeared to Solomon in a dream by night, saying: Ask what thou wilt that I should give thee.",
+        "And now, O Lord God, thou hast made thy servant king instead of David, my father: and I am but a child, and know not how to go out and come in;",
+        "And thy servant is in the midst of the people which thou hast chosen, an immense people, which cannot be numbered nor counted for multitude.",
+        "Give therefore to thy servant an understanding heart, to judge thy people, and discern between good and evil. For who shall be able to judge this people, thy people, which is so numerous?",
+        "And the word was pleasing to the Lord, that Solomon had asked such a thing.",
+        "And the Lord said to Solomon: Because thou hast asked this thing, and hast not asked for thyself long life nor riches, nor the lives of thy enemies, but hast asked for thyself wisdom to discern judgment;",
+        "Behold I have done for thee according to thy words, and have given thee a wise and understanding heart, in so much that there hath been no one like thee before thee, nor shall arise after thee."
+      ],
+      "lineRefs": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 3:5,7-12",
+      "reference": "1 Kings 3:5,7-12",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The kingdom of heaven is like unto a treasure hidden in a field. Which a man having found, hid it, and for joy thereof goeth, and selleth all that he hath, and buyeth that field.",
+        "Again the kingdom of heaven is like to a merchant seeking good pearls.",
+        "Who when he had found one pearl of great price, went his way, and sold all that he had, and bought it.",
+        "Again the kingdom of heaven is like to a net cast into the sea, and gathering together of all kinds of fishes.",
+        "Which, when it was filled, they drew out, and sitting by the shore, they chose out the good into vessels, but the bad they cast forth.",
+        "So shall it be at the end of the world. The angels shall go out, and shall separate the wicked from among the just.",
+        "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth.",
+        "Have ye understood all these things? They say to him: Yes.",
+        "He said unto them: Therefore every scribe instructed in the kingdom of heaven, is like to a man that is a householder, who bringeth forth out of his treasure new things and old."
+      ],
+      "lineRefs": [
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:44-52",
+      "reference": "Matthew 13:44-52",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "17th Sunday of Ordinary Time",
+        "key": "17thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/26.html",
+    "title": "Gospel and Word of the Day - 26 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-26"
+}
