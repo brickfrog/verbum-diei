@@ -38,6 +38,15 @@ jobs:
         with:
           bun-version: latest
 
+      - name: Cache spago packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            .spago
+            .cache
+          key: spago-${{ runner.os }}-${{ hashFiles('spago.lock') }}
+          restore-keys: spago-${{ runner.os }}-
+
       - name: Install
         run: bun install --frozen-lockfile
 
