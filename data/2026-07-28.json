@@ -1,0 +1,277 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "254e80310ab23cdb0c0867a1cf9f704d99a1a0dc8f61098fb3abe0aa253ab128",
+        "inputSha256": "2a0801227c40272803f95a3185aebc7b21de5995136f4b2faf593c2574c49619",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a4ec134cc88b3bafbdefd96fcf6bfbf9bd1a6414cdaef4d35f3dcf68a86ba055",
+        "inputSha256": "096887684e9993b07cf9536e9aa07fc01043074821c81099a3bf0a7c71085882",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f5068eaa0ad5b271a5e32d3b783a636351609e7ed92e0c9450088faf8c47de4d",
+        "inputSha256": "0702ae663c271115921afc8b63e278cb2d5f193ec773e4b4141f8f94b7dd3949",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-28T01:56:14.388Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s tears for a wounded people echo Avalokiteśvara’s compassion in Mahāyāna Buddhism: the bodhisattva hears the world’s crying and responds not with explanation but with presence; the text’s grief-as-vigil feels like that. The insistence that idols cannot send rain parallels the Vedic move from many names to one sustaining order, ṛta, later sharpened in Upaniṣadic non-idolatry; speculation: both are psychological refusals to outsource causality to convenient objects.\n\nThe wheat and cockle reads like a moral ecology akin to Stoic and Platonic thought: the world is mixed, and the task is discernment without premature purging, because judgment belongs to a larger logos than private rage. It also resembles the Bhagavad Gītā’s division between daivī and āsurī dispositions, not as tribes but as inner lineages; speculation: “children” here can be read as habituated patterns sown into character. The final shining has a Taoist flavor of de, virtue becoming luminous when obstruction is cleared, less reward than revelation of what was already true.",
+    "excursus": "Jeremiah is not confessing to be forgiven; he is bargaining to be seen. The tears are performance and compulsion at once, a way to keep the catastrophe from becoming meaningless. “Virgin daughter” is a violated body, and the speaker can’t stop looking: fields full of corpses, city full of hunger. The real horror is that the prophet and priest have vanished into an unknown land; authority has already fled, leaving the people to improvise a theology out of dread. “For thy name’s sake” is naked self-interest: if God lets them rot, God’s reputation rots too. Covenant becomes leverage.\n\nMatthew’s explanation turns that same panic into a fantasy of sorting. The world is a mixed field; the desire is for clean borders, for a final audit that will make the pain intelligible. “Children of the kingdom” and “children of the wicked one” are not descriptions but cravings: the wish that the enemy is external, that the rot is not in us. The furnace is the dream of purgation, a fire that will finally explain why the good suffered and why the bad prospered. The shining sun is the payoff for endurance, but it’s also the seduction that keeps the anxious mind from admitting the simpler truth: the weeds and wheat are tangled because they share the same soil, and the need to separate them is itself a symptom.",
+    "synthesis": "God alone governs both providence and judgment: he gives rain and he sends reapers. Covenant mercy does not cancel final separation; it postpones it until the harvest.",
+    "gospel": [
+      {
+        "text": "The private explanation replaces parable with taxonomy: agents, objects, and terminus are identified so the disciples cannot sentimentalize history. The end is not reform but separation, and the furnace is presented as the coherent outcome of what was sown.",
+        "lines": [
+          1,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The kingdom is depicted as presently mixed and finally clarified: removal of “scandals” is not an external conquest but an internal rectification. The promised radiance of the just is the public manifestation of a hidden allegiance.",
+        "lines": [
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prayer concedes moral causality (“we have sinned”) while refusing rival causality: no secondary gods, no autonomous heavens. The appeal to covenant assumes God has bound himself to a people even when the people have unbound themselves from him.",
+        "lines": [
+          4,
+          6
+        ]
+      },
+      {
+        "text": "Jeremiah’s speech fuses lament and intercession: the prophet’s tears stand in for the nation’s incapacity to mourn rightly, and the plea is framed as a dispute over what God will publicly be shown to be—faithful or not.",
+        "lines": [
+          1,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Tears are commanded, not merely permitted; grief becomes liturgy.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Field and city both fail; there is no safe geography.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The wound is named “no healing”; peace is sought as a commodity and not found.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They bargain with God’s reputation: “for thy name’s sake.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rain becomes theology: idols cannot weather the world; the Maker can.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sower is not anonymous providence but the Son of Man.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two genealogies in one soil: kingdom-children and wicked-one’s children.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Time is weaponized: harvest is delayed judgment; angels are the executors.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Purging begins “out of his kingdom”; scandal is an internal parasite.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The final image is photic: justice is visibility, not mere acquittal.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without you nothing is strong or holy; multiply upon us the signs of your mercy, so that, under your provident guidance, we may so use the passing goods of this world as to cling to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our morning supplications, and by the light of your mercy illumine the darkness of our heart, that we who have been enlightened by your brightness may never walk in the works of darkness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and serve your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We give you thanks, Lord, almighty God, for you have allowed us to reach this night; we ask you to graciously accept the lifting up of our hands as an evening offering. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And thou shalt speak this word to them: Let my eyes shed down tears night and day, and let them not cease, because the virgin daughter of my people is afflicted with a great affliction, with an exceeding grievous evil.",
+        "If I go forth into the fields, behold the slain with the sword: and if I enter into the city, behold them that are consumed with famine. The prophet also and the priest are gone into a land which they knew not.",
+        "Hast thou utterly cast away Juda, or hath thy soul abhorred Sion? why then hast thou struck us, so that there is no healing for us? we have looked for peace, and there is no good: and for the time of healing, and behold trouble.",
+        "We acknowledge, O Lord, our wickedness, the iniquities of our fathers, because we have sinned against thee.",
+        "Give us not to be a reproach, for thy name's sake, and do not disgrace in us the throne of thy glory: remember, break not thy covenant with us.",
+        "Are there any among the graven things of the Gentiles that can send rain? or can the heavens give showers? art not thou the Lord our God, whom we have looked for? for thou hast made all these things."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 14:17-22",
+      "reference": "Jeremiah 14:17-22",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then having sent away the multitudes, he came into the house, and his disciples came to him, saying: Expound to us the parable of the cockle of the field.",
+        "Who made answer and said to them: He that soweth the good seed is the Son of man.",
+        "And the field is the world. And the good seed are the children of the kingdom. And the cockle are the children of the wicked one.",
+        "And the enemy that sowed them, is the devil. But the harvest is the end of the world. And the reapers are the angels.",
+        "Even as cockle therefore is gathered up, and burnt with fire: so shall it be at the end of the world.",
+        "The Son of man shall send his angels, and they shall gather out of his kingdom all scandals, and them that work iniquity.",
+        "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth.",
+        "Then shall the just shine as the sun, in the kingdom of their Father. He that hath ears to hear, let him hear."
+      ],
+      "lineRefs": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:36-43",
+      "reference": "Matthew 13:36-43",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 17th week of Ordinary Time",
+        "key": "tuesdayOfThe17thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/28.html",
+    "title": "Gospel and Word of the Day - 28 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-28"
+}
