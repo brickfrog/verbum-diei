@@ -1,0 +1,263 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "cee6c6f211ce2f562e6981907cf3a3d62cc20f63d35fe14a2b3b3466c0ee412e",
+        "inputSha256": "fe04c0418be8932d72140f50320d681118659cc276ff4860cbb32bcab9af7369",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6caa6d4d140d975c427d8f808b1da7b57ad4e05af3c4b83545b58ab503ffb48f",
+        "inputSha256": "b74c3dade6ff0c22ed39ab981b599d7a74be2fe17a578bc0687615ddadb5710a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1601f16bce4f582edee60af19d7a3216c80d924dce71f1c646cdc75a8014149a",
+        "inputSha256": "81e13fabed44c927cfb261d601bc281bb1272a5d00da86111da26d05d3bd8dd3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-29T01:55:43.634Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s “eating” of words has close kin in Ezekiel’s scroll, but also in the Vedic idea of śruti as something received and internalized until it becomes one’s very speech; speculation: the prophet’s “I become your mouth” resembles the ṛṣi as a conduit rather than an originator. His isolation from “jesters” echoes the Buddhist pratyekabuddha mood and the Hindu tapasvin: withdrawal not as superiority but as the psychic cost of carrying an unbearable clarity.\n\nThe complaint that the wound “refuses to be healed” reads like the dark night in John of the Cross and the Sufi qabd, the constriction where the divine feels like “deceitful waters”; speculation: the text treats this not as failure but as purification of motive, a stripping of consolations so the voice can be clean.\n\nThe command to “separate the precious from the vile” parallels Stoic prohairesis—sorting what is up to you from what is not—and the Zen gesture of discriminating mind used as a blade that finally cuts itself. The promise of becoming “a wall of brass” has an analogue in the Bhagavad Gita’s sthitaprajña, steadied under attack, and in Daoist wu-wei as ungrabbable firmness.\n\nMartha’s stance—grief disciplined into doctrine—resembles the Jewish kaddish impulse to bless inside loss, and the Islamic sabr that keeps faith articulate when the heart is raw. Jesus’ “I am the resurrection and the life” has a striking parallel in the Upanishadic claim that the Self is deathless and in Plato’s talk of participation in the Good; speculation: psychologically it functions less as a metaphysical lesson than as an offered identity to inhabit when reality becomes intolerable.\n\nThe scene’s decisive question, “Believest thou this?”, mirrors the Zen master’s demand for direct seeing and Kierkegaard’s leap: not assent to a proposition but consent to be re-formed by it. Martha’s confession reads like bhakti—personal trust addressed to a living presence—where the heart chooses a person over an explanation.",
+    "excursus": "Jeremiah is not a serene prophet but a man addicted to a voice that tastes like joy and functions like poison. He “eats” the words and they light him up, then isolate him; he sits alone, not from holiness but from being made unfit for ordinary laughter. His wound won’t heal because the wound is the vocation itself. He calls God a mirage, “deceitful waters,” because what he wants is not doctrine but reliability: a presence that doesn’t vanish the moment it is needed.\n\nGod’s answer is not comfort but a bargain that sounds like coercion. “If thou wilt be converted, I will convert thee”: you will be remade into an instrument, a mouth, a brass wall. The promise of rescue comes with a sentence of continued siege. Salvation is framed as endurance, not relief.\n\nMartha meets Jesus with the same accusation Jeremiah dares: you were absent. Her faith is competent, almost managerial—God will grant your request, resurrection will come “at the last day.” Jesus refuses the safe timeline and offers himself as the event. “Believest thou this?” is less a quiz than a demand to shift her desire from an outcome to a person who arrives late.\n\nRead together, the texts confess a darker intimacy: the divine does not prevent loss; it recruits it. The word that delights also fractures, and the one who can raise the dead first lets them die, then asks for trust not as consolation but as consent to live with an unbearable closeness.",
+    "synthesis": "God binds his word to frail messengers and then sustains them against the world’s resistance. In Christ, resurrection is not merely future event but present authority demanding personal faith.",
+    "gospel": [
+      {
+        "text": "The scene moves from communal condolence to a private interrogation of hope. Martha’s confidence in Jesus’ access to God is met by a promise that forces her beyond eschatological generalities into a confession about Jesus’ identity; the narrative tightens from “ask” to “rise” to “believe,” making resurrection less a timetable than a recognition of who stands before her.",
+        "lines": [
+          1,
+          4,
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages prophetic office as social exile under divine pressure, then redefines endurance as God’s own fortification: the prophet is made into an object (a wall) so the word can remain standing when the man cannot. Deliverance is promised not as relief from conflict but as preservation through it, with God owning both the sending and the saving.",
+        "lines": [
+          3,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Innocence doesn’t purchase acquittal; the curse arrives anyway.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet ingests speech; vocation is internalized, not consulted.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God felt as mirage: the scandal is not pain but unreliability.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conversion is demanded of the messenger; the audience is not the first problem.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Precious/vile” is the prophet’s daily cut; speech becomes judgment.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two postures: one runs to the Word, one stays seated in absence.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Faith begins as an accusation framed as a conditional.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not a doctrine but a person: predicate becomes subject—“I am.”",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The question is a demand for assent, not consolation.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your Son called Lazarus from the tomb to life and deigned to stay in Martha’s house; grant that, by serving him faithfully in our brothers and sisters, we may deserve, with Mary, to be nourished by the meditation of his word. He who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your Son called Lazarus from the tomb to life and deigned to stay in Martha’s house; grant that, by serving him faithfully in our brothers and sisters, we may deserve, with Mary, to be nourished by the meditation of his word. He who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your Son called Lazarus from the tomb to life and deigned to stay in Martha’s house; grant that, by serving him faithfully in our brothers and sisters, we may deserve, with Mary, to be nourished by the meditation of his word. He lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart, and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Woe is me, my mother: why hast thou borne me a man of strife, a man of contention to all the earth? I have not lent on usury, neither hath any man lent to me on usury: yet all curse me.",
+        "Thy words were found, and I did eat them, and thy word was to me a joy and gladness of my heart: for thy name is called upon me, O Lord God of hosts.",
+        "I sat not in the assembly of jesters, nor did I make a boast of the presence of thy hand: I sat alone, because thou hast filled me with threats.",
+        "Why is my sorrow become perpetual, and my wound desperate so as to refuse to be healed? it is become to me as the falsehood of deceitful waters that cannot be trusted.",
+        "Therefore thus saith the Lord: If thou wilt be converted, I will convert thee, and thou shalt stand before my face; and thou wilt separate the precious from the vile, thou shalt be as my mouth: they shall be turned to thee, and thou shalt not be turned to them.",
+        "And I will make thee to this people as a strong wall of brass: and they shall fight against thee, and shall not prevail: for I am with thee to save thee, and to deliver thee, saith the Lord.",
+        "And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the mighty."
+      ],
+      "lineRefs": [
+        "10",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 15:10,16-21",
+      "reference": "Jeremiah 15:10,16-21",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And many of the Jews were come to Martha and Mary, to comfort them concerning their brother.",
+        "Martha therefore, as soon as she heard that Jesus was come, went to meet him: but Mary sat at home.",
+        "Martha therefore said to Jesus: Lord, if thou hadst been here, my brother had not died.",
+        "But now also I know that whatsoever thou wilt ask of God, God will give it thee.",
+        "Jesus saith to her: Thy brother shall rise again.",
+        "Martha saith to him: I know that he shall rise again, in the resurrection at the last day.",
+        "Jesus said to her: I am the resurrection and the life: he that believeth in me, although he be dead, shall live:",
+        "And every one that liveth and believeth in me shall not die for ever. Believest thou this?",
+        "She saith to him: Yea, Lord, I have believed that thou art Christ, the Son of the living God, who art come into this world."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 11:19-27",
+      "reference": "John 11:19-27",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Martha",
+        "key": "saintMartha"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/29.html",
+    "title": "Gospel and Word of the Day - 29 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-29"
+}
