@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "548ba019b7fee1132295796fab1728e9b52917ca5f54a23ef6d6a938407cfbcc",
+        "inputSha256": "1273cc9bc3160499e954f753200c0e18e7b01f216311f10eba68e0d3ec454a53",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "aadbc4f982e109d5971343ba421397b85bcb699efb9eb44442a924779795cd2b",
+        "inputSha256": "697fe5f30aea2a9a4b04629909e318cf4654dbbd2941e0091f960651c7534270",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "dbadffbcea1215b76b7e1f64f083b96c8f73e03ef91c4b064190301e54ce3fd8",
+        "inputSha256": "0ac9a579f4965aa31ca51f29f49c01ad960dbb467228ce7d78a2e63bad2a9c65",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-30T01:55:09.263Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s wheel is close, speculatively, to the Daoist uncarved block: form is provisional, and what matters is the yielding substance that can be re-made without resentment. It also brushes the Zen sense of “beginner’s mind,” where failure is not moral collapse but the moment the hands return to the clay.\n\nThe net’s sorting echoes the Egyptian weighing of the heart in the Hall of Ma’at: a final discrimination that is less about tribal belonging than about what one has become. In Plato’s myth of Er, too, souls are sifted by the shape of their lives, not by their self-description.\n\nThe householder with new and old resembles rabbinic midrash at its best, and, speculatively, the Confucian junzi: a keeper of inheritance who does not fossilize it, but makes it usable now without severing its roots.",
+    "excursus": "Jeremiah walks into the potter’s shop expecting instruction and sees a small cruelty: the vessel fails, and the hands do not mourn it. They simply crush the evidence and start again. The lesson isn’t comfort. It is the cold intimacy of power that calls itself care. You are not consulted; you are handled. The phrase “as it seemed good in his eyes” is the giveaway: taste, not justice, decides your shape.\n\nMatthew’s net is the same workshop, just scaled up. Everything is gathered, indiscriminately desired, then sorted with a calm, clerical violence. “Good into vessels” echoes the potter: some lives get a container, a future, a place to be kept; the rest are waste heat. The horror is not only the furnace but the shore-side quiet where the choosing happens, the way judgment is framed as housekeeping.\n\nAnd then the final turn of the knife: “Have ye understood?” They say yes, as if comprehension were consent. The trained scribe becomes the householder, the one who learns to enjoy the power of selection, to curate “new things and old” and call it wisdom. The kingdom here is not escape from dread; it is dread made orderly, desire made administrative, the promise that someone’s hands will finally decide what you are.",
+    "synthesis": "God’s reign gathers without discrimination and judges without appeal; the same sovereignty that forms a people also separates them at the end. Instruction in the kingdom makes one accountable to preserve the old while dispensing the new under that judgment.",
+    "gospel": [
+      {
+        "text": "The parable sequence moves from mixed collection to terminal division, locating moral clarity at “the end,” not in the present field. The kingdom is portrayed as a process that tolerates mixture until its appointed reckoning.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "Understanding is tested, then immediately commissioned: instruction produces stewardship. The final note—Jesus “finished” and “passed”—signals closure of a teaching cycle and the transfer of responsibility to those who heard.",
+        "lines": [
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage frames prophecy as mediated speech: the “word” comes, then comes again, bracketing the enacted sign. The sign is not illustrative decoration; it is the mode by which divine agency is made intelligible in history.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "The point is covenantal sovereignty: the same Lord who formed a people reserves the right to refashion them. The metaphor denies national self-determination as a theological category; identity is derivative of the maker’s ongoing act.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Command is spatial: revelation requires descent.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet learns by watching labor, not by argument.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ruin is not the end; it is raw material for a second intention.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“As it seemed good in his eyes”: the standard is the maker’s pleasure, not the clay’s plan.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The insult of the metaphor: Israel is handled, not consulted.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The net is indiscriminate; the kingdom’s reach precedes its sorting.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Selection happens on shore: judgment is after the haul, not during.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Separation is delegated; angels do what humans cannot do cleanly.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The image is not correction but disposal: furnace, not workshop.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The trained scribe is a curator: continuity without antiquarianism.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, protector of those who hope in you, without whom nothing is strong or holy: multiply your mercy upon us, so that, instructed and guided by you, we may so use the passing goods of this world as to cling already to those that are eternal. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we humbly come to you at the beginning of the day, at midday, and at evening, to ask that, driving away from us the darkness of sin, you may bring us to the true light, who is Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who illumine the night and make the light dawn anew after the darkness, grant that during the night now beginning we may be free from every fault, and that, when the new day breaks, we may gather once more in your presence to give you thanks again. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The word that came to Jeremias from the Lord, saying:",
+        "Arise, and go down into the potter's house, and there thou shalt hear my words.",
+        "And I went down into the potter's house, and behold he was doing a work on the wheel.",
+        "And the vessel was broken which he was making of clay with his hands: and turning he made another vessel, as it seemed good in his eyes to make it.",
+        "Then the word of the Lord came to me, saying:",
+        "Cannot I do with you, as this potter, O house of Israel, saith the Lord? behold as clay is in the hand of the potter, so are you in my hand, O house of Israel."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 18:1-6",
+      "reference": "Jeremiah 18:1-6",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Again the kingdom of heaven is like to a net cast into the sea, and gathering together of all kinds of fishes.",
+        "Which, when it was filled, they drew out, and sitting by the shore, they chose out the good into vessels, but the bad they cast forth.",
+        "So shall it be at the end of the world. The angels shall go out, and shall separate the wicked from among the just.",
+        "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth.",
+        "Have ye understood all these things? They say to him: Yes.",
+        "He said unto them: Therefore every scribe instructed in the kingdom of heaven, is like to a man that is a householder, who bringeth forth out of his treasure new things and old.",
+        "And it came to pass: when Jesus had finished these parables, he passed from thence."
+      ],
+      "lineRefs": [
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:47-53",
+      "reference": "Matthew 13:47-53",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Peter Chrysologus, Bishop and Doctor",
+        "key": "saintPeterChrysologusBishopAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/30.html",
+    "title": "Gospel and Word of the Day - 30 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-30"
+}
