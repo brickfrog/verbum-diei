@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7a26e73efbc74055203b405d2de80a6de81864a69072df82429f36a1136b5d4d",
+        "inputSha256": "f593764a1ac14bb7d3040fbe03e713282e3b61ec6b7d3ee95fcc3ff558dc3f38",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ddc88cd42c143830487566004d5f4760d81f659651d7d50393acdd28288b46ff",
+        "inputSha256": "04b9622007e40f60eee809f2f0973bbf991f92c5649a7ece4851f6bfbedb08f3",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c8084eee402b19052a5d6f3cf1e1fca1be3129a733af0089a6b8b23b56ce5f45",
+        "inputSha256": "4dcd1f48cff5af756201dfeeac14c8ec8b1bb827e161d543fb6b5a07a2e83108",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-07-31T01:55:56.799Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s mandate to “leave not out one word” has the hard edge of satya in Hindu thought: truth as a vow that costs you social safety; speculation: the temple court functions like a public dharma-sabha where speech is judged less by accuracy than by its threat to order. The crowd’s reflex to kill the speaker echoes the Athenian pattern around Socrates, and the Buddhist motif of the kalyāṇa-mitta who is rejected because he wounds collective self-deception.\n\nNazareth’s “carpenter’s son” contempt matches Zen’s suspicion of the too-familiar: the ordinary face is dismissed precisely because it is ordinary; speculation: the scandal is a defense against intimacy with the uncanny. The line about miracles withheld by unbelief parallels the Taoist sense that efficacy (de) is not forced on a closed heart, and the Sufi idea that baraka is veiled by denial, not absent.",
+    "excursus": "Jeremiah is ordered to “leave not out one word,” and that insistence is the point: the message is not medicine but an instrument. It is meant to scrape the nerve. The threat—temple like Shiloh, city a curse—is less prediction than humiliation, an attack on the people’s erotic bond with their own permanence. They do not seize him because he is wrong; they seize him because he says aloud what they secretly fear, that the sacred building is a prop and can be taken away. Their piety is revealed as possession anxiety.\n\nJesus returns home and meets the same psychology in a softer key. Familiarity is not comfort; it is control. “Carpenter’s son” is a leash: stay small, stay ours, don’t exceed the story we assigned you. So the town’s scandal is not moral outrage but wounded entitlement, the rage of people denied the right to define you. He does few miracles not because he lacks power but because wonder cannot be forced on those who prefer the safety of contempt. In both scenes the crowd chooses death over desire: kill the voice that destabilizes the shrine, or shrink the neighbor who threatens to become more than a neighbor. The real unbelief is not intellectual; it is the refusal to risk being changed.",
+    "synthesis": "God’s word judges the institutions that host it, and those most familiar with the holy are most capable of weaponizing that familiarity against the prophet. Unbelief does not merely miss miracles; it constrains the economy of signs and turns revelation into offense.",
+    "gospel": [
+      {
+        "text": "Jesus’ teaching in the synagogue exposes a local hermeneutic: they can register “wisdom and miracles” yet refuse the conclusion those signs demand. The saying about the prophet interprets the rejection as structural—honor is withheld where familiarity claims ownership.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is dated to a regime change, then framed as covenant litigation: law given, prophets sent, refusal recorded. The charge is not ignorance but sustained noncompliance under repeated summons.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The hearing becomes a tribunal inside the sanctuary: worshippers convert the house of prayer into a court against the word. The crowd’s unity is achieved by targeting the messenger rather than answering the indictment.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Public court, not private vision: the word is staged.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Leave not out one word”: fidelity measured in omissions.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Divine “repent” is conditional judgment, not fickleness.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temple threatened with Shiloh: sacred history turned into warning label.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Completion triggers seizure: obedience finishes the trap.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Amazement without submission: wonder as a cul-de-sac.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They inventory his kin to cancel his authority.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Proverb names the pattern: proximity breeds contempt, not clarity.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Unbelief throttles signs: miracles are not forced on closed eyes.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who raised up Saint Ignatius of Loyola in your Church to spread the glory of your name, grant that, after fighting on earth under his protection and following his example, we may deserve to share with him the glory of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who raised up Saint Ignatius of Loyola in your Church to spread the glory of your name, grant that, after fighting on earth, under his protection and following his example, we may deserve to share with him the glory of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who raised up Saint Ignatius of Loyola in your Church to spread the glory of your name, grant that, after fighting on earth under his protection and following his example, we may deserve to share with him the glory of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In the beginning of the reign of Joakim the son of Josias king of Juda, came this word from the Lord, saying:",
+        "Thus saith the Lord: stand in the court of the house of the Lord, and speak to all the cities of Juda, out of which they come, to adore in the house of the Lord, all the words which I have commanded thee to speak unto them: leave not out one word.",
+        "If so be they will hearken and be converted every one from his evil way; that I may repent me of the evil that I think to do unto them for the wickedness of their doings.",
+        "And thou shalt say to them: Thus saith the Lord: If you will not hearken to me to walk in my law, which I have given you:",
+        "To give ear to the words of my servants the prophets, whom I sent to you rising up early: and sending, and you have not hearkened:",
+        "I will make this house like Silo: and I will make this city a curse to all the nations of the earth.",
+        "And the priests, and the prophets, and all the people heard Jeremias speaking these words in the house of the Lord.",
+        "And when Jeremias had made an end of speaking all that the Lord had commanded him to speak to all the people, the priests, and the prophets, and all the people laid hold on him, saying: Let him be put to death.",
+        "Why hath he prophesied in the name of the Lord, saying: This house shall be like Silo; and this city shall be made desolate, without an inhabitant? And all the people were gathered together against Jeremias in the house of the Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 26:1-9",
+      "reference": "Jeremiah 26:1-9",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And coming into his own country, he taught them in their synagogues, so that they wondered and said: How came this man by this wisdom and miracles?",
+        "Is not this the carpenter's son? Is not his mother called Mary, and his brethren James, and Joseph, and Simon, and Jude: His brethren... These were the children of Mary the wife of Cleophas, sister to our Blessed Lady, (St. Matt. 27. 56; St. John 19. 25,) and therefore, according to the usual style of the Scripture, they were called brethren, that is, near relations to our Saviour.",
+        "And his sisters, are they not all with us? Whence therefore hath he all these things?",
+        "And they were scandalized in his regard. But Jesus said to them: A prophet is not without honour, save in his own country, and in his own house.",
+        "And he wrought not many miracles there, because of their unbelief."
+      ],
+      "lineRefs": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 13:54-58",
+      "reference": "Matthew 13:54-58",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Ignatius of Loyola, Priest",
+        "key": "saintIgnatiusOfLoyolaPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/07/31.html",
+    "title": "Gospel and Word of the Day - 31 July 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/07/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-07-31"
+}
