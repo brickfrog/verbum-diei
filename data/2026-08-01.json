@@ -1,0 +1,168 @@
+{
+  "llm": {
+    "calls": [],
+    "generatedAt": "2026-08-01T01:55:47.917Z"
+  },
+  "commentary": {
+    "seminaVerbi": "",
+    "excursus": "",
+    "synthesis": "",
+    "gospel": [],
+    "reading": []
+  },
+  "marginalia": [],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium",
+      "prayer": "Oh Dios, que suscitas continuamente en tu Iglesia nuevos ejemplos de santidad, concédenos la gracia de imitar en el celo apostólico a tu obispo san Alfonso María de Ligorio, para que podamos compartir en el cielo su misma recompensa. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Oh Dios, que suscitas continuamente en tu Iglesia nuevos ejemplos de santidad, concédenos la gracia de imitar en el celo apostólico a tu obispo san Alfonso María de Ligorio, para que podamos compartir en el cielo su misma recompensa. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Señor Dios, Padre todopoderoso, infúndenos la luz del Espíritu Santo, para que, libres de toda adversidad, podamos alegrarnos siempre en tu alabanza. Por Jesucristo, nuestro Señor.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Señor, fuego ardiente de amor eterno, haz que, inflamados en tu amor, te amemos a ti sobre todas las cosas y a nuestro prójimo por amor tuyo. Por Jesucristo, nuestro Señor.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Escucha, Señor, nuestra oración y danos la abundancia de tu paz, para que, por intercesión de Santa María, la Virgen, después de haberte servido durante toda nuestra vida, podamos presentarnos ante ti sin temor alguno. Por Jesucristo, nuestro Señor.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Oh Dios, que suscitas continuamente en tu Iglesia nuevos ejemplos de santidad, concédenos la gracia de imitar en el celo apostólico a tu obispo san Alfonso María de Ligorio, para que podamos compartir en el cielo su misma recompensa. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium",
+      "prayer": "Oremos:\n <span class='title-color'> Después de las I Vísperas de domingo o de solemnidades que coinciden con el domingo: </span> \n\nGuárdanos, Señor, durante esta noche y haz que mañana, ya al clarear el nuevo día, la celebración del domingo nos llene con la alegría de la resurrección de tu Hijo. Que vive y reina por los siglos de los siglos.Amén.\n\n <span class='title-color'> Después de las Vísperas de solemnidades que no coinciden con el domingo: </span>\n\nVisita, Señor, esta habitación: aleja de ella las insidias del enemigo; que tus santos ángeles habiten en ella y nos guarden en paz, y que tu bendición permanezca siempre con nosotros. Por Jesucristo, nuestro Señor.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the priests and the prophets spoke to the princes, and to all the people, saying: The judgment of death is for this man: because he hath prophesied against this city, as you have heard with your ears.",
+        "Then Jeremias spoke to all the princes, and to all the people, saying: The Lord sent me to prophesy concerning this house, and concerning this city all the words that you have heard.",
+        "Now therefore amend your ways, and your doings, and hearken to the voice of the Lord your God: and the Lord will repent him of the evil that he hath spoken against you.",
+        "But as for me, behold I am in your hands: do with me what is good and right in your eyes:",
+        "But know ye, and understand, that if you put me to death, you will shed innocent blood against your own selves, and against this city, and the inhabitants thereof. For in truth the Lord sent me to you, to speak all these words in your hearing.",
+        "Then the princes, and all the people said to the priests, and to the prophets: There is no judgment of death for this man: for he hath spoken to us in the name of the Lord our God.",
+        "So the hand of Ahicam the son of Saphan was with Jeremias, that he should not be delivered into the hands of the people, to put him to death."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 26:11-16,24",
+      "reference": "Jeremiah 26:11-16,24",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that time Herod the Tetrarch heard the fame of Jesus. Tetrarch... This word, derived from the Greek, signifies one that rules over the fourth part of a kingdom: as Herod then ruled over Galilee, which was but the fourth part of the kingdom of his father.",
+        "And he said to his servants: This is John the Baptist: he is risen from the dead, and therefore mighty works shew forth themselves in him.",
+        "For Herod had apprehended John and bound him, and put him into prison, because of Herodias, his brother's wife.",
+        "For John said to him: It is not lawful for thee to have her.",
+        "And having a mind to put him to death, he feared the people: because they esteemed him as a prophet.",
+        "But on Herod's birthday, the daughter of Herodias danced before them: and pleased Herod.",
+        "Whereupon he promised with an oath, to give her whatsoever she would ask of him.",
+        "But she being instructed before by her mother, said: Give me here in a dish the head of John the Baptist.",
+        "And the king was struck sad: yet because of his oath, and for them that sat with him at table, he commanded it to be given.",
+        "And he sent, and beheaded John in the prison.",
+        "And his head was brought in a dish: and it was given to the damsel, and she brought it to her mother.",
+        "And his disciples came and took the body, and buried it, and came and told Jesus."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 14:1-12",
+      "reference": "Matthew 14:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church",
+        "key": "saintAlphonsusMariaDeLiguoriBishopAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/01.html",
+    "title": "Gospel and Word of the Day - 01 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-01"
+}
