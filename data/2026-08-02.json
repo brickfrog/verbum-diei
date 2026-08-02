@@ -1,0 +1,246 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b6cfc500d3456ec2ea4ec5f45db5ab414e7cb1601d8baf230d370674bde8444d",
+        "inputSha256": "7ba3f9c9c197490984be7584e21624351fd3e51df03a81eff3cf832f44eb7d59",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7889dcee5d4e26cbfb51d1c4cda9d848f3f7e3337f1a798e91ea2c29f6e97754",
+        "inputSha256": "e96a358c48e17aa9a86e34924ae4072ca12865c286386628366e6c987ddaaa68",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3f462f59a0b368af3ab8806d2a201027be1f0e29b44c5cce89e779cb2b10bf10",
+        "inputSha256": "bd117b8a6f39a8212e9c7aa837dd32399660e5efc04f52e38a2a3a44f8ac21c4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-02T01:55:50.125Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s free water and unpriced milk rhyme with the Buddhist image of Dharma as a gift that cannot be bought, only received by thirst; speculation: the “no money” is a psychological cue that craving’s usual currency—effort, merit, self-justification—fails at the threshold of real nourishment.\n\nThe question about spending on what does not satisfy meets the Hindu critique of kama without rasa: appetite that multiplies itself rather than feeding the heart; speculation: “fatness” names a felt fullness akin to santosha, contentment that arrives when desire stops outsourcing its meaning.\n\nThe desert feeding echoes the Taoist motif of sufficiency from little, where the sage’s non-hoarding lets abundance circulate; speculation: the miracle is a social psychology of trust, a field effect where scarcity thinking dissolves and hidden reserves come forward.\n\nThe blessing-breaking-giving pattern parallels Sikh langar, a table that levels status through shared food; speculation: the “twelve baskets” function like a communal memory that counters future panic, a practiced assurance that generosity leaves residue.\n\nThe everlasting covenant resembles the Stoic sense of living “according to nature,” not as contract but as alignment; speculation: “faithful mercies” are the steady return of care when the self stops bargaining and starts listening.",
+    "excursus": "Isaiah hawks a seduction: come thirsty, come broke, come ashamed of what you’ve been buying with your life. The offer is “without price,” but not without cost. It demands you admit your hunger has been misdirected, that your satisfactions have been counterfeit and you helped mint them. The voice doesn’t comfort; it interrogates. Why are you paying for what won’t feed you? Because you can’t bear the emptiness, and you’d rather keep moving than listen.\n\nMatthew stages the same hunger as a crowd that won’t leave a grieving man alone. Jesus retreats, they pursue; desire is relentless, and so is need. The disciples want the clean solution: send them away to purchase food, outsource the ache to the market and the towns. Jesus refuses the escape hatch. “Give you them to eat” is not a miracle line; it’s a demand that exposes their poverty and their resentment. Five loaves and two fish is what they can tolerate giving without feeling robbed.\n\nThen he makes them sit on grass like children, immobilized, forced to feel their bodies. He blesses, breaks, hands it back through intermediaries, as if to say: you will feed them with what you didn’t want to surrender, and you will watch it multiply precisely where you feared depletion. The fragments are the tell. Abundance arrives as leftovers, as evidence that what you clung to was never the real security. The covenant here isn’t cozy. It’s an everlasting arrangement in which your private scarcity is exposed in public, and your desire is finally met only after it’s disciplined.",
+    "synthesis": "God feeds without price and binds that feeding to covenant mercy. Christ’s abundance is administered through commanded human service, exposing and replacing the economy of scarcity.",
+    "gospel": [
+      {
+        "text": "Matthew stages a transfer of agency: compassion initiates, the disciples calculate, Jesus requisitions the little, and the crowd is organized into receptivity. The miracle is not only increase but the creation of a disciplined assembly fed without commerce, anticipating a eucharistic polity where the many are sustained from the few.",
+        "lines": [
+          2,
+          3,
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah frames salvation as a public provision that bypasses ordinary exchange: the invitation is universal, yet it culminates in a particular historical promise (“mercies of David”), binding appetite to covenantal fidelity rather than to private consumption.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The passage prosecutes false economies: it assumes humans are always purchasing something with their lives, and it redefines “good” as what can actually sustain communion with God, not merely prolong appetite.",
+        "lines": [
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Thirst addressed as a constituency; the market is raided and its price-tags annulled.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Money spent on non-bread: a liturgy of misdirected desire; satisfaction is treated as measurable.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ear becomes the organ of life; covenant arrives as mercy with a royal name attached.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Desert chosen, crowd follows anyway: scarcity is the stage, not the obstacle.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Imperative reversal: the send-away plan is refused; responsibility is pushed downhill.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Upward glance, downward distribution: blessing mediates multiplication through delegated hands.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fragments counted: abundance proves itself by leftovers, not by spectacle.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the help of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "All you that thirst, come to the waters: and you that have no money make haste, buy, and eat: come ye, buy wine and milk without money, and without any price.",
+        "Why do you spend money for that which is not bread, and your labour for that which doth not satisfy you? Hearken diligently to me, and eat that which is good, and your soul shall be delighted in fatness.",
+        "Incline your ear and come to me: hear and your soul shall live, and I will make an everlasting covenant with you, the faithful mercies of David."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 55:1-3",
+      "reference": "Isaiah 55:1-3",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Which when Jesus had heard, he retired from thence by a boat, into a desert place apart, and the multitudes having heard of it, followed him on foot out of the cities.",
+        "And he coming forth saw a great multitude, and had compassion on them, and healed their sick.",
+        "And when it was evening, his disciples came to him, saying: This is a desert place, and the hour is now passed: send away the multitudes, that going into the towns, they may buy themselves victuals.",
+        "But Jesus said to them, They have no need to go: give you them to eat.",
+        "They answered him: We have not here, but five loaves, and two fishes.",
+        "Who said to them: Bring them hither to me.",
+        "And when he had commanded the multitude to sit down upon the grass, he took the five loaves and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitudes.",
+        "And they did all eat, and were filled. And they took up what remained, twelve full baskets of fragments.",
+        "And the number of them that did eat, was five thousand men, besides women and children."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 14:13-21",
+      "reference": "Matthew 14:13-21",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "18th Sunday of Ordinary Time",
+        "key": "18thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/02.html",
+    "title": "Gospel and Word of the Day - 02 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-02"
+}
