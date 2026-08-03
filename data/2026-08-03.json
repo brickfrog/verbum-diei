@@ -1,0 +1,319 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1ed274528640c837f845f77d62dec979f2767e1b7022c3c5ade8c11cef34447c",
+        "inputSha256": "2ea3d392e751af7857abec46c0fbd1691bd2400fd956bb79db34d8a6a171e8c5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6e027e13022f800f172216f6ea492fb1c75d0a50d00b14648ae44b08058b1f0a",
+        "inputSha256": "af852918a1a3bff10f7582017663db9fb024633be873ea0459af3ea25eb478ef",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c475d1fc91d423cf454d437ab9ab6a39f0abc5a3693c8bb6c1350d14806af223",
+        "inputSha256": "e7795c935a00316d1c30d88386525e34a21b3e55851fd0af4c7bbb76c6cbee8e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-03T01:55:51.934Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Hananias is the psyche’s seducer: the part that cannot bear delay, that turns longing into certainty and calls it God. He performs relief as theater—snapping the wooden yoke—because spectacle is faster than truth. Jeremiah’s “amen” is not politeness; it is a trap laid for reality. Let time arbitrate. Peace-talk that needs props is a lie trying to become real by applause.\n\nThe wooden yoke becoming iron is what happens when denial is used as policy. Refusing the weight does not remove it; it concentrates it. The false prophet dies quickly because his message is a narcotic: it trains the people to trust the pleasant voice inside them, and that habit kills discernment.\n\nOn the lake the same psychology repeats without malice. The disciples mistake help for a ghost because fear makes the unfamiliar monstrous. Peter is brave and then becomes an accountant of wind. He sinks at the moment he starts narrating danger to himself. The hand that catches him is not a reward for confidence; it is rescue from self-interpretation. The wind stops after contact, as if the storm were partly an inner weather system.\n\nSemina Verbi: Jeremiah’s time-test echoes the Buddha’s Kalama Sutta, where authority and charm are refused and truth is measured by what endures and what heals. Peter’s step and sink resembles Sufi tawakkul, trust that moves you forward until anxious calculation breaks the spell. The hem-touching recalls Hindu darshan and Buddhist relic-contact, where proximity to sanctity is felt as medicine; speculation: the body’s need for a concrete point of contact may be a universal bridge between terror and trust.",
+    "excursus": "Hananiah isn’t a villain so much as an addict of relief. He performs hope like a public service: two years, the vessels back, the captives home, the empire cracked like a cheap collar. The crowd wants that clean arc because it spares them the humiliation of endurance. Jeremiah’s “Amen” is not piety; it’s a knife turned slowly. He desires the lie too, then forces everyone to watch the cost of wanting it.\n\nThe broken wooden yoke is the perfect gesture for an audience: visible, cathartic, instantly shareable. It is also denial made theatrical. Jeremiah answers with iron, not as a divine flex but as psychology: what you refuse to carry willingly returns as something heavier, colder, more intimate. The dread is that suffering isn’t always an enemy to be overthrown; sometimes it is the only honest map.\n\nOn the sea the same craving misfires. The disciples mistake rescue for a ghost because fear always prefers the supernatural to the ordinary demand of trust. Peter’s walk is not heroic faith; it’s impulse, the desire to skip the boat, to bypass the slow, wet obedience of staying put. He sinks the moment he notices the wind because attention is what undresses bravado. The hand that grabs him is not reward; it’s interruption, a refusal to let desire turn into self-destruction.\n\nBoth scenes punish the same fantasy: that liberation must be immediate, dramatic, and painless. The harsher mercy is that the yoke remains, the water still heaves, and you are asked to live inside the interval without making a spectacle of escape.",
+    "synthesis": "God’s word is authenticated by his sovereign control of outcomes, not by religious theater. Christ’s identity is disclosed as lordship over chaos and as power that heals through contact with his person.",
+    "gospel": [
+      {
+        "text": "The scene is engineered: separation, night, resistance, then sudden mastery. The cessation of wind functions as a public seal on identity; adoration is not sentiment but the rational conclusion drawn from dominion over chaos.",
+        "lines": [
+          2,
+          3,
+          11,
+          12
+        ]
+      },
+      {
+        "text": "After the theophany, the text turns to ordinary bodies and ordinary contact. The hem becomes a distributed point of access: power is not confined to spectacle but persists in proximity, converting recognition of the Son into a new economy of healing.",
+        "lines": [
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "A rival oracle is staged in the temple, in public, with the full liturgical apparatus of credibility. The content is restoration on a timetable, a theology of quick reversal that treats empire as a temporary inconvenience rather than an instrument already permitted.",
+        "lines": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Jeremiah sets a verification rule: peace-prophecy is only known by fulfillment, not by tone or venue. The narrative then executes that rule with brutal speed—death within the year—so the community learns that “prophet” is not a self-ascribed office but a divine commission with measurable consequences.",
+        "lines": [
+          9,
+          12,
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Jeremiah’s “Amen” is not assent but a trap: let reality arbitrate.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The baseline of prophecy is disaster; “peace” is the outlier that must cash out.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The false prophet performs violence on the sign, as if breaking the symbol breaks the sentence.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wood to iron: contempt for judgment only upgrades its material.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Spoken against the Lord”: the crime is not optimism but counter-sovereignty.",
+      "lines": [
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He compels them into exposure; obedience is placed inside weather.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He arrives on what threatens them; the medium of fear becomes his pavement.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peter’s “if” makes a test of presence; faith tries to turn recognition into experiment.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Attention shifts from command to wind; perception becomes the sinkhole.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The hand precedes the lecture; rescue is faster than diagnosis.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, you have brought us to the beginning of this day; save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and of the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to help us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And it came to pass in that year, in the beginning of the reign of Sedecias king of Juda, in the fourth year, in the fifth month, that Hananias the son of Azur, a prophet of Gabaon spoke to me, in the house of the Lord before the priests, and all the people, saying:",
+        "Thus saith the Lord of hosts the God of Israel: I have broken the yoke of the king of Babylon.",
+        "As yet two years of days, and I will cause all the vessels of the house of the Lord to be brought back into this place, which Nabuchodonosor king of Babylon took away from this place, and carried them to Babylon.",
+        "And I will bring back to this place Jechonias the son of Joakim king of Juda, and all the captives of Juda, that are gone to Babylon, saith the Lord: for I will break the yoke of the king of Babylon.",
+        "And Jeremias the prophet said to Hananias the prophet in the presence of the priests, and in the presence of all the people that stood in the house of the Lord:",
+        "And Jeremias the prophet said: Amen, the Lord do so: the Lord perform thy words, which thou hast prophesied: that the vessels may be brought again into the house of the Lord, and all the captives may return out of Babylon to this place.",
+        "Nevertheless hear this word that I speak in thy ears, and in the ears of all the people:",
+        "The prophets that have been before me, and before thee from the beginning, and have prophesied concerning many countries, and concerning great kingdoms, of war, and of affliction, and of famine.",
+        "The prophet that prophesied peace: when his word shall come to pass, the prophet shall be known, whom the hath sent in truth.",
+        "And Hananias the prophet took the chain from the neck of Jeremias the prophet, and broke it.",
+        "And Hananias spoke in the presence of all the people, saying: Thus saith the Lord: Even so will I break the yoke of Nabuchodonosor the king of Babylon after two full years from off the neck of all the nations.",
+        "And Jeremias the prophet went his way. And the word of the Lord came to Jeremias, after that Hananias the prophet had broken the chain from off the neck of Jeremias the prophet, saying:",
+        "Go, and tell Hananias: Thus saith the Lord: Thou hast broken chains of wood, and thou shalt make for them chains of iron.",
+        "For thus saith the Lord of hosts the God of Israel: I have put a yoke of iron upon the neck of all these nations, to serve Nabuchodonosor king of Babylon, and they shall serve him: moreover also I have given him the beasts of the earth.",
+        "And Jeremias the prophet said to Hananias the prophet: Hear now, Hananias: the Lord hath not sent thee, and thou hast made this people to trust in a lie.",
+        "Therefore thus saith the Lord: Behold I will send thee away from off the face of the earth: this year shalt thou die: for thou hast spoken against the Lord.",
+        "And Hananias the prophet died in that year, in the seventh month."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 28:1-17",
+      "reference": "Jeremiah 28:1-17",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And forthwith Jesus obliged his disciples to go up into the boat, and to go before him over the water, till he dismissed the people.",
+        "And having dismissed the multitude, he went into a mountain alone to pray. And when it was evening, he was there alone.",
+        "But the boat in the midst of the sea was tossed with the waves: for the wind was contrary.",
+        "And in the fourth watch of the night, he came to them walking upon the sea.",
+        "And they seeing him walking upon the sea, were troubled, saying: It is an apparition. And they cried out for fear.",
+        "And immediately Jesus spoke to them, saying: Be of good heart: it is I, fear ye not.",
+        "And Peter making answer, said: Lord, if it be thou, bid me come to thee upon the waters.",
+        "And he said: Come. And Peter going down out of the boat walked upon the water to come to Jesus.",
+        "But seeing the wind strong, he was afraid: and when he began to sink, he cried out, saying: Lord, save me.",
+        "And immediately Jesus stretching forth his hand took hold of him, and said to him: O thou of little faith, why didst thou doubt?",
+        "And when they were come up into the boat, the wind ceased.",
+        "And they that were in the boat came and adored him, saying: Indeed thou art the Son of God.",
+        "And having passed the water, they came into the country of Genesar.",
+        "And when the men of that place had knowledge of him, they sent into all that country, and brought to him all that were diseased.",
+        "And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 14:22-36",
+      "reference": "Matthew 14:22-36",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 18th week of Ordinary Time",
+        "key": "mondayOfThe18thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/03.html",
+    "title": "Gospel and Word of the Day - 03 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-03"
+}
