@@ -1,0 +1,304 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "65b20d3aa4ae3857eabb9acd8083f0da6041b69450a2e91ddf783d2aa53a2498",
+        "inputSha256": "5df73570c34c1bb50ff3f917d4d12400d1f091d3f565db7fa5b76e797d9c517b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7a5b5ed7e23fc6397512cdc1c88ebca66dc9bc4119a6a8a91971f1a14d605f8a",
+        "inputSha256": "0a01a8e85d11e50fdedff6f1163fef4270a8d55ae821f18f3acc8c5992e5d947",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2c8ffa5d4709e8fa843d64b288a9c36b77633c183379124ff9784f5b087a7391",
+        "inputSha256": "aa5617ec00be4112d23afc2d7ce31b1af68f2437d9748a57a943ee16ccee0f13",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-05T01:55:31.741Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Speculation: the Canaanite woman’s “crumbs” logic resembles Zen’s insistence that a single word or gesture can carry the whole meal, and Sufi adab where humility becomes the lever that opens the door. Jeremiah’s “everlasting love” that draws from afar echoes the bhakti sense of a devotion that precedes the devotee, and the Platonic anamnesis motif where the soul is pulled home by a remembered good. The rebuilding with timbrels and dance has kinship with Dionysian catharsis and with Yoruba communal restoration rites, where joy is not decoration but repair. The watchmen’s cry to go up to Zion parallels the Buddhist bodhisattva call to “arise” for awakening, and the Stoic protreptic that summons the scattered self back to its proper city.",
+    "excursus": "Jeremiah sells consolation with the language of possession. “Everlasting love” is not tenderness; it is a claim that survives the sword and follows you into the desert. The “virgin of Israel” is rebuilt like a ruined city made pretty again, dressed with timbrels, sent out to dance as proof of recovery. The joy is compulsory, a ritual plaster over trauma: vineyards replanted, watchmen shouting, a remnant commanded to rejoice because the story needs a happy ending.\n\nMatthew exposes the cost of that story. Jesus retreats to the borderlands and meets the human remainder the promise excludes. He goes silent, then draws the line: Israel first, bread for children, outsiders as dogs. The woman refuses the script of gratitude and forces a different economy, not equality but leakage: crumbs, spillover, grace as waste that can’t be fully controlled. Her desire is ferocious and unembarrassed; she will take what falls.\n\nThe miracle lands like a concession wrested from a tight-fisted order. Faith here is not piety; it is pressure. The border holds until someone suffering makes it porous, and the holy household discovers that its “everlasting love” has always depended on who is kept hungry outside the table.",
+    "synthesis": "God’s election is real and ordered, yet faith can lawfully appeal through that order to obtain mercy. Restoration and healing are enacted as covenantal governance, not sentiment.",
+    "gospel": [
+      {
+        "text": "The scene is a juridical dispute staged as prayer: a petitioner presses a claim against stated limits. Jesus’ final verdict ratifies her reasoning and relocates membership from bloodline to trust, without formally abolishing the initial mission statement.",
+        "lines": [
+          2,
+          5,
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Tyre/Sidon frames the encounter as border litigation; the language of sheep/children/dogs is household law. The narrative forces the reader to watch the boundary hold, then yield, so that inclusion appears as adjudicated exception that reveals the rule’s deeper intent.",
+        "lines": [
+          1,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle moves from post-violence survival to public festivity and then to economic normalcy. Restoration is not merely return but reconstitution of cult, land-use, and time—Israel is made governable again under a single divine patronage.",
+        "lines": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The passage universalizes Israel internally (“all the families”) while keeping the category of election intact (“remnant”). The nations appear only as a horizon for Israel’s acclaim, not as co-heirs; the text tightens identity even while promising expansion of joy.",
+        "lines": [
+          1,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Covenant stated as ownership: God/people, families counted.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace located in wasteland; survivors are the only audience.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love precedes repair; distance does not cancel claim.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Rebuilding framed as virginity restored; liturgy returns as noise and motion.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Vineyards on contested hills: patience legislated into harvest.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Watchmen become preachers; ascent replaces alarm.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Joy is commanded; “remnant” is the recurring noun of election.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Withdrawal to the margins; geography signals boundary-testing.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silence as first reply; disciples treat prayer as nuisance.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mission defined narrowly; Israel named as lost property.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Bread is covenantal rationing; insult used as policy.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She accepts the hierarchy to breach it; crumbs become argument.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Faith is measured, not ethnicity; healing occurs without touch.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Come, Lord, to the aid of your children; pour out your inexhaustible goodness upon those who implore you, and renew and protect the work of your hands for the sake of those who praise you as Creator and as Guide. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Send, Lord, into our hearts the abundance of your light, so that, always advancing along the path of your commandments, we may be freed from every error. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, you sent the promised Holy Spirit to gather together the people whom sin had scattered; help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your name is holy, and your mercy reaches your faithful from generation to generation; therefore hear the supplications of your people and grant that they may proclaim your greatness forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "At that time, saith the Lord, I will be the God of all the families of Israel, and they shall be my people.",
+        "Thus saith the Lord: The people that were left and escaped from the sword, found grace in the desert: Israel shall go to his rest.",
+        "The Lord hath appeared from afar to me. Yea I have loved thee with an everlasting love, therefore have I drawn thee, taking pity on thee.",
+        "And I will build thee again, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy timbrels, and shalt go forth in the dances of them that make merry.",
+        "Thou shalt yet plant vineyards in the mountains of Samaria: the planters shall plant, and they shall not gather the vintage before the time.",
+        "For there shall be a day, in which the watchmen on mount Ephraim, shall cry: Arise, and let us go up to Sion to the Lord our God.",
+        "For thus saith the Lord: Rejoice ye in the joy of Jacob, and neigh before the head of the Gentiles: shout ye, and sing, and say: Save, O Lord, thy people, the remnant of Israel."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 31:1-7",
+      "reference": "Jeremiah 31:1-7",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus went from thence, and retired into the coast of Tyre and Sidon.",
+        "And behold a woman of Canaan who came out of those coasts, crying out, said to him: Have mercy on me, O Lord, thou son of David: my daughter is grievously troubled by a devil.",
+        "Who answered her not a word. And his disciples came and besought him, saying: Send her away, for she crieth after us:",
+        "And he answering, said: I was not sent but to the sheep, that are lost of the house of Israel.",
+        "But she came and adored him, saying: Lord, help me.",
+        "Who answering, said: It is not good to take the bread of the children, and to cast it to the dogs.",
+        "But she said: Yea, Lord; for the whelps also eat of the crumbs that fall from the table of their masters.",
+        "Then Jesus answering, said to her: O woman, great is thy faith: be it done to thee as thou wilt: and her daughter was cured from that hour."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 15:21-28",
+      "reference": "Matthew 15:21-28",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Dedication of the Basilica of Saint Mary Major",
+        "key": "dedicationOfTheBasilicaOfSaintMaryMajor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/05.html",
+    "title": "Gospel and Word of the Day - 05 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-05"
+}
