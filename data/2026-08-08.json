@@ -1,0 +1,289 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "572580fa1900551182c27be81be30f82718366d3b61075ecade47cf9a26539b2",
+        "inputSha256": "0c89cf8283e964b65912aeeafaca6e1d9b2172babf9b2bf9be80fb5425dd1efa",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e15f545d997807504eb2a4c3e94eab960b0efae43e996dd3de03c4c377e75388",
+        "inputSha256": "b9a8bde89b132c9d5cf01a4815d2ead21db3d77cadb64f724b97a3fd976aea10",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "48ad660e0b42b117c7dbf47e7069ad1aa03d9958ddecfac107f16473876835b6",
+        "inputSha256": "b2523746c8bf068aa18261b51ad9bbb496fcf41c638a0cae5d4568cb3354a08b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-08T03:51:46.009Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Habakkuk’s watchman is the inner sentinel: the part of the psyche that refuses both naïve optimism and corrosive cynicism, choosing disciplined waiting until reality ripens into intelligibility. That posture resembles the Stoic prohairesis holding the line under an unjust world-order, and the Bhagavad Gita’s steadiness in action without immediate consolation. Speculation: the “vision on tablets” reads like a technology of conscience, akin to Buddhist mindfulness notes or Sufi dhikr—external marks that keep the heart from being rewritten by panic.\n\nThe net-idol is power worship as a closed feedback loop: success becomes proof, proof becomes permission, permission becomes appetite. That is the same trap the Dao De Jing warns against when force hardens into self-defeat, and what Nietzsche anatomizes when will-to-power forgets any measure beyond itself.\n\nThe mustard seed names a paradox of efficacy: not bigness of belief but coherence of attention. Prayer and fasting function as cognitive and bodily retraining, like yogic tapas or Zen sesshin—an austerity that concentrates the self until it can confront what previously overwhelmed it. Speculation: the “demon” is the family’s chaotic pattern given a face, and the cure is authority plus practice, not mere intention.",
+    "excursus": "Habakkuk is not pious; he is nauseated. He watches a world where brutality is efficient and therefore holy-looking, where the conqueror doesn’t just kill but eroticizes his method, kissing the net that feeds him. The prophet’s scandal is not that God is absent, but that God seems to collaborate by delay, letting the worse devour the less worse, turning people into fish—pure prey, no ruler, no meaning but capture.\n\nThe “vision” is a coping mechanism: write it down, make it legible, so the reader can run—run from panic, run from the fact that justice is always “not yet.” Faith here is not virtue; it’s the only way to keep a self from curdling into the crooked soul of the predator. The unbeliever is simply the person who can’t bear waiting and so becomes what he fears.\n\nIn Matthew the same dread is domestic. A father kneels with a child who keeps throwing himself into fire and water, as if the body is trying to rehearse its own extinction. The disciples fail because they want power without cost; they want technique. Jesus snaps because he’s trapped in a generation that demands results while refusing the interior famine that makes results possible.\n\nMustard-seed faith isn’t optimism; it’s a hard, concentrated desire that can’t be bribed by appearances. Prayer and fasting are not decorations; they are the stripping away of appetite until the only hunger left is for the child to live. The “demon” is whatever feeds on that hunger when it’s diluted—spectacle, impatience, the wish to be impressive. The miracle happens when desire becomes singular enough to move a mountain, or at least to stop a boy from burning himself to prove the world is real.",
+    "synthesis": "God’s justice is real though delayed, and life is sustained only by faith. Christ’s authority exposes unbelief as impotence and makes deliverance contingent on faith expressed in disciplined dependence.",
+    "gospel": [
+      {
+        "text": "The disciples’ private question is answered with a principle about agency: power is not a technique they possess but a participation conditioned by trust. The “mountain” saying reframes impossibility as a diagnostic of the subject, not the object.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prophet shifts from litigation to procedure: he takes a station, then receives an order to inscribe. Revelation is made portable and public—meant to be read in motion—so the community can outlast the interval between promise and settlement.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Invocation as argument: holiness leveraged against death.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Purity posed as a problem: the scandal of divine sight.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dehumanization: men reduced to prey because rule is absent.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Empire as fisherman: violence rendered as technique.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Idolatry of means: the net becomes god because it works.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Delay without slack: time as discipline, not defect.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two interiors: crooked soul vs. faith that sustains life.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fire and water: the child oscillates between opposite deaths.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Apostolic impotence exposed in public.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Christ’s impatience: proximity does not equal receptivity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rebuke as exorcistic speech-act; cure is immediate.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mustard seed: small measure, total quality; command over mass.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Some evils yield only to embodied negation: hunger chosen.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that Saint Dominic de Guzmán, illustrious preacher of your word, may help your Church by his teaching and merits, and may also kindly intercede for us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that Saint Dominic de Guzmán, illustrious preacher of your word, may help your Church by his teaching and merits, and may also kindly intercede for us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our whole life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that Saint Dominic de Guzmán, illustrious preacher of your word, may help your Church by his teaching and merits, and may also kindly intercede for us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Wast thou not from the beginning, O Lord my God, my holy one, and we shall not die? Lord, thou hast appointed him for judgment: and made him strong for correction.",
+        "Thy eyes are too pure to behold evil, and thou canst not look on iniquity. Why lookest thou upon them that do unjust things, and holdest thy peace when the wicked devoureth the man that is more just than himself?",
+        "And thou wilt make men as the fishes of the sea, and as the creeping things that have no ruler.",
+        "He lifted up all them with his hook, he drew them in his drag, and gathered them into his net: for this he will be glad and rejoice.",
+        "Therefore will he offer victims to his drag, and he will sacrifice to his net: because through them his portion is made fat, and his meat dainty.",
+        "For this cause therefore he spreadeth his net, and will not spare continually to slay the nations.",
+        "I will stand upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me. Will stand, etc... Waiting to see what the Lord will answer to my complaint, viz., that the Chaldeans, who are worse than the Jews, and who attribute all their success to their own strength, or to their idols, should nevertheless prevail over the people of the Lord. The Lord's answer is, that the prophet must wait with patience and faith: that all should be set right in due time; and the enemies of God and his people punished according to their deserts.",
+        "And the Lord answered me, and said: Write the vision, and make it plain upon tables: that he that readeth it may run over it.",
+        "For as yet the vision is far off, and it shall appear at the end, and shall not lie: if it make any delay, wait for it: for it shall surely come, and it shall not be slack.",
+        "Behold, he that is unbelieving, his soul shall not be right in himself: but the just shall live in his faith."
+      ],
+      "lineRefs": [
+        "1:12",
+        "1:13",
+        "1:14",
+        "1:15",
+        "1:16",
+        "1:17",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Habakkuk 1:12-2:4",
+      "reference": "Habakkuk 1:12-2:4",
+      "heading": "A reading from the Book of Habakkuk",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when he was come to the multitude, there came to him a man falling down on his knees before him saying: Lord, have pity on my son, for he is a lunatic, and suffereth much: for he falleth often into the fire, and often into the water.",
+        "And I brought him to thy disciples, and they could not cure him.",
+        "Then Jesus answered and said: O unbelieving and perverse generation, how long shall I be with you? How long shall I suffer you? Bring him hither to me.",
+        "And Jesus rebuked him, and the devil went out of him, and the child was cured from that hour.",
+        "Then came the disciples to Jesus secretly, and said: Why could not we cast him out?",
+        "Jesus said to them: Because of your unbelief. For, amen I say to you, if you have faith as a grain of mustard seed, you shall say to this mountain: Remove from hence hither, and it shall remove: and nothing shall be impossible to you. As a grain of mustard seed... That is, a perfect faith; which in its properties, and its fruits, resembles the grain of mustard seed, in the parable, chap. 13. 31.",
+        "But this kind is not cast out but by prayer and fasting."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 17:14-20",
+      "reference": "Matthew 17:14-20",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Dominic, Priest",
+        "key": "saintDominicPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/08.html",
+    "title": "Gospel and Word of the Day - 08 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-08"
+}
