@@ -5,12 +5,14 @@ import Prelude
 import Control.Monad.Error.Class (throwError)
 import Data.Array as Array
 import Data.Either (Either(..))
+import Data.Maybe (Maybe(..))
 import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
 import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error)
 import VerbumDiei.Bible (fetchBibleReading)
+import VerbumDiei.Rss (parseWordOfDayFeed)
 
 main :: Effect Unit
 main = do
@@ -68,6 +70,24 @@ main = do
       assertEqual "lineRefs" [ "2:29", "3:1", "3:2", "3:3", "3:4", "3:5", "3:6" ] reading.lineRefs
       assertEqual "lines length" 7 (Array.length reading.lines)
 
+    test "repairs an upstream-mangled cross-chapter dash from the feed" do
+      let feed = parseWordOfDayFeed mangledDashFeedXml
+      item <- case Array.head feed.items of
+        Nothing -> throwError (error "expected one feed item")
+        Just it -> pure it
+      first <- case Array.find (\r -> r.kind == "first") item.readings of
+        Nothing -> throwError (error "expected a first reading")
+        Just r -> pure r
+      assertEqual "first reference" "Habakkuk 1:12-2:4" first.bibleApiReference
+      -- An untouched ASCII citation in the same item must survive unchanged.
+      gospel <- case Array.find (\r -> r.kind == "gospel") item.readings of
+        Nothing -> throwError (error "expected a gospel reading")
+        Just r -> pure r
+      assertEqual "gospel reference" "Matthew 17:14-20" gospel.bibleApiReference
+      reading <- fetchBibleReading first.bibleApiReference
+      assertEqual "lineRefs" expectedHabakkuk reading.lineRefs
+      assertEqual "lines length" 10 (Array.length reading.lines)
+
     test "resolves collapsed Amos 9:15 verse" do
       reading <- fetchBibleReading "Amos 9:11-15"
       assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
@@ -101,3 +121,40 @@ expectedJohn20 =
   , "7"
   , "8"
   ]
+
+expectedHabakkuk :: Array String
+expectedHabakkuk =
+  [ "1:12"
+  , "1:13"
+  , "1:14"
+  , "1:15"
+  , "1:16"
+  , "1:17"
+  , "2:1"
+  , "2:2"
+  , "2:3"
+  , "2:4"
+  ]
+
+-- | Trimmed copy of the 2026-08-08 Vatican News item that broke the nightly
+-- | run: upstream flattened every non-ASCII character to '?', so the
+-- | cross-chapter dash in "1:12-2:4" and the opening quote in the Gospel prose
+-- | both arrive as '?'. Only the former may be repaired.
+mangledDashFeedXml :: String
+mangledDashFeedXml =
+  """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Word of the day</title>
+    <link>https://www.vaticannews.va/en/word-of-the-day.html</link>
+    <item>
+      <title>Gospel and Word of the Day - 08 August 2026</title>
+      <guid>https://www.vaticannews.va/en/word-of-the-day/2026/08/08.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0200</pubDate>
+      <description><![CDATA[<p>A reading from the Book of&nbsp;Habakkuk<br /> 1:12?2:4</p>
+<p>Are you not from eternity, O LORD,<br /> my holy God, immortal?</p>
+<p>From the Gospel according to Matthew<br /> 17:14-20</p>
+<p>A man came up to Jesus, knelt down before him, and said,<br /> ?Lord, have pity on my son.</p>]]></description>
+    </item>
+  </channel>
+</rss>"""

@@ -761,10 +761,44 @@ normalizeCitation citation =
   citation
     # stripParens
     # collapseSpaces
+    # repairMangledDash
     # stripLetterSuffix
     # stripTrailingPunctuation
     # removeSpacesAfterComma
     # trim
+
+-- | Vatican News sometimes serves a citation whose dash has been flattened to
+-- | an ASCII '?' by an upstream encoding step -- "Habakkuk 1:12?2:4" for
+-- | "Habakkuk 1:12-2:4". It shows up on cross-chapter ranges, the one place the
+-- | feed uses a non-ASCII dash; same-chapter ranges arrive as plain '-'.
+-- |
+-- | '?' carries no meaning in a citation, so one sitting between two numbers is
+-- | unambiguously that mangled dash. Anything else is left intact for the
+-- | parser to reject, so a genuinely new upstream defect still fails loudly in
+-- | preflight rather than being silently reinterpreted.
+repairMangledDash :: String -> String
+repairMangledDash s =
+  let
+    nextIsDigit rest =
+      case Array.uncons (dropWhile isSpaceChar rest) of
+        Just { head: c } -> isDigitChar c
+        Nothing -> false
+    go remaining prev acc =
+      case Array.uncons remaining of
+        Nothing -> CodeUnits.fromCharArray (Array.reverse acc)
+        Just { head: c, tail: rest } ->
+          let
+            prevIsDigit =
+              case prev of
+                Just p -> isDigitChar p
+                Nothing -> false
+            emitted =
+              if c == '?' && prevIsDigit && nextIsDigit rest then '-' else c
+            prev' = if isSpaceChar emitted then prev else Just emitted
+          in
+            go rest prev' (emitted `cons` acc)
+  in
+    go (CodeUnits.toCharArray s) Nothing []
 
 stripParens :: String -> String
 stripParens s =
