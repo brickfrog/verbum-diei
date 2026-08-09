@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "62ac0247625d254f19588844d65175a8e49517b1007c527c74522528608e3263",
+        "inputSha256": "f12bf2d757eefa0c04ef9b660e4d78b4aa9dc679dc76037c3b535ed7a928378c",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ed0ca5350365f34b58f2a95a2a074a9ece621d0d604c0042269de9c4f3ddfbf0",
+        "inputSha256": "7e48f9ebd0b1bb7f0cfc24a8a4519724c32c99d022a9a681677bf0927df8359b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6d11e387a32c7c06756196cc277603a231ce0e53e9ab51f11e86c321071cdb3a",
+        "inputSha256": "5a749558322007645092a2bb21818b5fd0c6524f63394ea1b5de4826447a125c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-09T03:07:58.289Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Elijah’s God not in wind, quake, or fire but in the thin sound has a close psychological cousin in Zen’s insistence that awakening is not in spectacle but in the ordinary mind when it stops grasping; the cave reads like the retreat where the nervous system downshifts enough to perceive what crisis drowns out. Speculation: it also resembles the Upanishadic move from the gross to the subtle—neti neti—where the sacred is approached by stripping away the obvious powers.\n\nPeter’s step onto the water is the classic moment of borrowed courage: he can inhabit the teacher’s steadiness only while his attention stays relational, then the wind reclaims him when he turns to self-monitoring. That pattern matches Stoic training in assent—fear rises when you grant the impression authority—and also Sufi tawakkul, trust that holds while the heart stays fixed; speculation: it even echoes Tibetan lojong, where stability is maintained by returning to the chosen object when the “weather” of mind turns.",
+    "excursus": "Elijah hides in a cave like a man hiding in his own skull. The question, “What dost thou here,” is not guidance but an accusation: you have mistaken intensity for truth. Wind, quake, fire—his old addictions, the spectacular moods that let him feel chosen. God’s absence from them is the real revelation. The “gentle air” is not comfort; it is the humiliating smallness of reality returning, the thin sound that can’t be used as a weapon. Elijah covers his face because he recognizes a god who won’t perform for him.\n\nJesus does something harsher. He “obliges” his friends into the boat and then leaves them to be worked over by the dark. When he comes, they call him an apparition because that’s what rescue feels like when you’re half-drowned: unreal, suspicious, too late. Peter’s desire is naked—prove it, let me step out of my life and into yours. For a moment he can. Then he notices the wind: the world refuses to stop being the world, and his miracle collapses under ordinary perception. Jesus catches him, but the rebuke stings because it names the secret: Peter didn’t fail because he feared; he failed because he wanted certainty more than he wanted Jesus. The wind ceases only after they climb back into the boat, as if the point was never conquest of nature but consent to being held, without guarantees, in the middle of it.",
+    "synthesis": "God is not bound to the violent sign; he discloses himself by sovereign self-presentation. Christ’s identity is known where fear is contradicted by his word and the chaos yields to his rule.",
+    "gospel": [
+      {
+        "text": "Jesus’ solitude on the mountain and the disciples’ exposure at sea form a deliberate separation: prayer above, struggle below. The community is made to experience absence so that recognition, when it comes, is not confused with crowd-energy or immediate utility.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The episode moves from terror to confession through a single axis: the identity claim “it is I” and the cessation of the wind. Mastery over the sea is not a trick but a disclosure; worship is the rational terminus once the elements are shown to obey him.",
+        "lines": [
+          6,
+          11,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The sequence is a polemic against religious sensationalism: the narrative strips Elijah of the expectation that God must coincide with the violent and the obvious. The “passing” reframes presence as sovereign freedom—God is not an effect to be located, but an agent who chooses how to be encountered.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The repeated question brackets the whole scene and turns it into a trial of motive: Elijah’s location is not merely geographic but vocational. The encounter does not terminate in spectacle; it returns him to accountability—speech that sends rather than speech that entertains.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Cave: refuge that becomes interrogation chamber. The word arrives as a question, not a comfort.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Command to stand exposed; theophany staged as subtraction. Power passes by, but is refused as location.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wind/quake/fire: the usual credentials denied. God’s signature is reduced to a thin sound.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mantle over face: reverence and self-erasure. The question repeats; revelation does not cancel vocation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He compels them into risk; obedience precedes understanding.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He arrives in the last watch: delayed help that tests the interval.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They misname salvation as a ghost; fear manufactures theology.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Attention shifts from Christ to wind; perception becomes the sinkhole.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The hand is faster than the rebuke. “Little faith” is diagnosed as divided sight.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we can call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we can call Father, increase in our hearts the spirit of adoption as sons, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom we may call Father, increase in our hearts the spirit of adoption as your children, that we may be worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And when he was come thither, he abode in a cave: and behold the word of the Lord came unto him, and he said to him: What dost thou here, Elias?",
+        "And he said to him: Go forth, and stand upon the mount before the Lord: and behold the Lord passeth, and a great and strong wind before the Lord, overthrowing the mountains, and breaking the rocks in pieces: but the Lord is not in the wind. And after the wind, an earthquake: but the Lord is not in the earthquake.",
+        "And after the earthquake, a fire: but the Lord is not in the fire. And after the fire, a whistling of a gentle air.",
+        "And when Elias heard it, he covered his face with his mantle, and coming forth, stood in the entering in of the cave, and behold a voice unto him, saying: What dost thou here, Elias? And he answered:"
+      ],
+      "lineRefs": [
+        "9",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Kings 19:9,11-13",
+      "reference": "1 Kings 19:9,11-13",
+      "heading": "A reading from the First Book of Kings",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And forthwith Jesus obliged his disciples to go up into the boat, and to go before him over the water, till he dismissed the people.",
+        "And having dismissed the multitude, he went into a mountain alone to pray. And when it was evening, he was there alone.",
+        "But the boat in the midst of the sea was tossed with the waves: for the wind was contrary.",
+        "And in the fourth watch of the night, he came to them walking upon the sea.",
+        "And they seeing him walking upon the sea, were troubled, saying: It is an apparition. And they cried out for fear.",
+        "And immediately Jesus spoke to them, saying: Be of good heart: it is I, fear ye not.",
+        "And Peter making answer, said: Lord, if it be thou, bid me come to thee upon the waters.",
+        "And he said: Come. And Peter going down out of the boat walked upon the water to come to Jesus.",
+        "But seeing the wind strong, he was afraid: and when he began to sink, he cried out, saying: Lord, save me.",
+        "And immediately Jesus stretching forth his hand took hold of him, and said to him: O thou of little faith, why didst thou doubt?",
+        "And when they were come up into the boat, the wind ceased.",
+        "And they that were in the boat came and adored him, saying: Indeed thou art the Son of God."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 14:22-33",
+      "reference": "Matthew 14:22-33",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "19th Sunday of Ordinary Time",
+        "key": "19thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/09.html",
+    "title": "Gospel and Word of the Day - 09 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-09"
+}
