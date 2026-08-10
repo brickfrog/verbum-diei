@@ -1,0 +1,272 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "346b27d6345079069bc901d7ff8492deeaef12f67a4ffdbf0717fb2eabb42858",
+        "inputSha256": "7b7a33d8734bfceeb9904f693fe3fbd3522cc9b7bcf4cd1a5a621d18fdc78e19",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "9ba7390bee617ac3c88474ce9b03d81690a689bd40c33fbc1bc88b3fb01bffdc",
+        "inputSha256": "48b812a9144b448e47de8f81346c7db7226c3959c68ae7f25fbe4d357a465107",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a8efa30622e3226e9a50ea399757f5404266933277e558c3d173a23ce670bdb0",
+        "inputSha256": "c0aa117f6445d42ca01122d4263be8043ceae4c7326afe46e99edef7fc8b5453",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-10T03:18:49.163Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is the psychology of generativity: the self that clutches itself stays single; the self that consents to be “spent” becomes fertile. The “cheerful giver” is not a moral ornament but a diagnostic: joy signals that the ego has stopped bargaining with loss and started trusting the logic of increase.\n\nSpeculation: the “grain that dies” reads like the Bhagavad Gita’s nishkama karma, action released from possessiveness, where relinquishment paradoxically intensifies fruit. It also touches Buddhist dana, giving that loosens grasping and thereby multiplies freedom. In Daoism, wu-wei’s yielding becomes efficacy, like seed disappearing into soil to return as abundance. In Sufism, fana as self-emptying opens baqa, a continuance that is not self-protective but overflowing. In Jewish tzedakah, the permanence of “justice” resembles a stored-up reality in the world, not a private feeling, as if generosity is a kind of ontological investment.\n\nTo “follow” here is apprenticeship in that inner economy: consent to diminution, not as self-hatred, but as the only way the self stops being an isolated unit and becomes a source.",
+    "excursus": "Paul sounds like an accountant of holiness, but the ledger is erotic: give and you will be flooded. “Cheerful” isn’t virtue; it’s the tell that the giver has stopped pretending this is sacrifice. He wants desire unashamed, the thrill of scattering wealth and watching it come back as power, status, “justice,” a word that here feels like permanence. The poor are the field, and the giver gets to feel infinite.\n\nJohn turns the screw. The grain doesn’t “share”; it dies. The only way out of aloneness is annihilation, a consent to being buried, broken open, made useful. “Hate your life” is not piety but a demand to sever the narcotic of self-preservation, to stop clutching the small self that stays intact and therefore sterile.\n\nSet together, they expose the same hunger: the wish to be multiplied without being diminished. Paul offers abundance without grief; John insists the price is grief’s core, the death of the self that wants to remain whole. The dread is that you must disappear to matter. The desire is that, in disappearing, you finally stop being alone.",
+    "synthesis": "Grace orders the believer into a logic where loss becomes fruit and giving becomes justice. True ministry follows Christ into self-surrender and receives its honor from the Father alone.",
+    "gospel": [
+      {
+        "text": "John sets the pattern of discipleship in the grain: death is not an interruption but the mechanism of multiplication. Ministry is then defined as following into that pattern, with honor as eschatological verdict rather than social reward.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The paradox of losing/keeping establishes two economies of life: one guarded by self-attachment and therefore perishable, one surrendered and therefore preserved beyond the world’s terms.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames giving as participation in a divine supply chain: God is not merely the recipient of generosity but the enabling cause that makes generosity sustainable. The point is not that alms purchase grace, but that grace produces a surplus capable of outward work without self-impoverishment.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The citation about enduring justice relocates permanence: what lasts is not the stored asset but the right order enacted in distribution. Continuity is moral, not material.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Agriculture as moral arithmetic: measure in, measure out.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The gift is judged at the root—interior decree, not exterior pressure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Cheerful” is not mood but consent: uncoerced expenditure of self.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“All…all…all”: excess language to break the fear of scarcity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dispersal, not hoarding; justice pictured as something that survives distribution.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Seed becomes bread: future capital becomes present sustenance without collapsing into consumption.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fecundity requires burial; life enters productivity through loss.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The self loved is the self lost; hatred here is strategic refusal of self-preservation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Alone” is the punishment of intactness.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Service is proximity: to minister is to be where he is, not merely to do for him.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Honor comes from the Father, not from the beneficiaries of service.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, aflame with your love, Saint Lawrence remained faithful in your service and attained glory through martyrdom; grant us, through his intercession, to love what he loved and to practice sincerely what he taught us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, King of heaven and earth, direct and sanctify this day our bodies and our hearts, our senses, words, and actions, according to your law and your commandments; so that, with your help, we may attain salvation now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, aflame with your love, Saint Lawrence remained faithful in your service and attained glory through martyrdom; grant us, through his intercession, to love what he loved and to practice sincerely what he taught us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, aflame with your love, Saint Lawrence remained faithful in your service and attained glory through martyrdom; grant us, through his intercession, to love what he loved and to practice sincerely what he taught us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, aflame with your love, Saint Lawrence remained faithful in your service and attained glory through martyrdom; grant, through his intercession, that we may love what he loved and sincerely practice what he taught us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, aflame with your love, Saint Lawrence remained faithful in your service and attained glory in martyrdom; grant us, through his intercession, to love what he loved and to practice sincerely what he taught us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now this I say: He who soweth sparingly shall also reap sparingly: and he who soweth in blessings shall also reap blessings.",
+        "Every one as he hath determined in his heart, not with sadness or of necessity: for God loveth a cheerful giver.",
+        "And God is able to make all grace abound in you: that ye always, having all sufficiently in all things, may abound to every good work,",
+        "As it is written: He hath dispersed abroad, he hath given to the poor: his justice remaineth for ever.",
+        "And he that ministereth seed to the sower will both give you bread to eat and will multiply your seed and increase the growth of the fruits of your justice:"
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Corinthians 9:6-10",
+      "reference": "2 Corinthians 9:6-10",
+      "heading": "A reading from the Second Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Amen, amen, I say to you, unless the grain of wheat falling into the ground die,",
+        "Itself remaineth alone. But if it die it bringeth forth much fruit. He that loveth his life shall lose it and he that hateth his life in this world keepeth it unto life eternal.",
+        "If any man minister to me, let him follow me: and where I am, there also shall my minister be. If any man minister to me, him will my Father honour."
+      ],
+      "lineRefs": [
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 12:24-26",
+      "reference": "John 12:24-26",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Lawrence of Rome, Deacon and Martyr",
+        "key": "saintLawrenceOfRomeDeaconAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/10.html",
+    "title": "Gospel and Word of the Day - 10 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-10"
+}
