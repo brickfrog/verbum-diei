@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "150a1eaf19817b2f675a6e0a7e78b908fbd291b4886332917c291f592641f14f",
+        "inputSha256": "dca84da0d9fbc7af1a054043a7437a38654c26dee9179a074ec5dced454c9891",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "59e910c1f688d46f94476a181f919c6aefa28b0b8b4b5c099f91a1b0c23eace5",
+        "inputSha256": "66cca1c15207d43e22eca05d76fb551d063fff4f2d263557ff811e9d252bb16d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c2735ee0b1dfc9debfc27bdac35f363d1d60ce5d5d7ccf57ce1cbdb27b52436b",
+        "inputSha256": "6930e17379c86331045b46a331642d35e8f782d4d86e91a81b1f321c83b9faf5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-11T03:10:57.109Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s eaten scroll feels like the Vedic image of śruti becoming “in-breathed” knowledge, not information but a substance that remakes the knower; speculation: it also resembles the Tibetan Buddhist idea of receiving a text as “lung,” transmission that enters the body-mind and authorizes speech. The honeyed taste beside lamentation recalls the Bhagavad Gītā’s bittersweet “nectar” of truth that consoles while it burns away illusion.\n\nThe child in the center echoes Daoist pu, the “uncarved block,” where greatness is a return to unarmored simplicity; speculation: it also touches Zen’s beginner’s mind, not naïveté but the refusal of status games. The guardian angels “seeing the face” parallels the Islamic sense of the malāʾika as intimate witnesses, and the lost sheep reads like the bodhisattva’s vow in Mahāyāna: the many are not an excuse to abandon the one, and joy is measured by retrieval, not by totals.",
+    "excursus": "Ezekiel is not being enlightened; he is being invaded. The hand offers a scroll written on both sides, no blank margin, no air. Lamentation, song, woe: the full spectrum, compressed into something you don’t interpret so much as swallow. God’s first demand is not obedience but ingestion. Take it inside. Let it coat the tongue. Let it drop into the gut. Prophecy begins as forced intimacy.\n\nAnd it tastes like honey. That sweetness is the tell. Desire is recruited to carry dread. The mouth says yes before the conscience understands what it has agreed to. Then the body is filled; the message becomes metabolism, pressure, nausea, compulsion. Go speak, he says, as if speech were a natural exhale. But Ezekiel will speak because he has been fed a thing that won’t stay quiet.\n\nThe disciples ask who is greatest because they want distance from that kind of vulnerability. Jesus answers by putting a child in the center, not as a mascot for innocence but as a figure of exposure: small, interruptible, easily lost. Become like that or you don’t enter. Greatness is not ascent; it is consenting to be the one who can’t protect himself.\n\nThe lost sheep parable is not pastoral comfort; it is obsession. The shepherd leaves the ninety-nine on the mountains, a reckless abandonment, because one absence becomes intolerable. Heaven is described as a place that cannot bear a missing body. The child and the stray are the same psychic point: the part of us that wanders, the part that can’t argue, the part that can only be carried.\n\nTaken together, the texts sketch a disturbing economy of salvation: God does not persuade; he consumes and searches. He makes his word sweet so you will take it, then makes you speak it. He calls you “little” so you will stop competing and start being found.",
+    "synthesis": "God authorizes speech by first mastering the speaker, and he measures greatness by proximity to the least. The Father’s will is the non-perishing of the little ones, and the kingdom is structured accordingly.",
+    "gospel": [
+      {
+        "text": "Jesus redefines greatness as identification with the lowly and ties communion with him to reception of the insignificant. The parable’s logic culminates in the Father’s will: the kingdom’s politics are ordered toward the preservation of the vulnerable, not the celebration of the secure.",
+        "lines": [
+          2,
+          4,
+          5,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The prophet is made a conduit by ingestion: revelation is internalized so speech is not performance but discharge. The commission aims at Israel, yet the mechanism is universal—God’s word claims the whole person before it addresses the public.",
+        "lines": [
+          3,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The mouth is commanded before the message is known: obedience precedes content.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A scroll written “within and without”: no blank margin left for self-excuse.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The triad—lamentation, canticle, woe—refuses a single mood; judgment and praise share ink.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Honey on the tongue, weight in the bowels: sweetness does not cancel burden.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They ask for rank; the kingdom answers with a child, not a ladder.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Entry is barred by pride: “converted” means unlearning adult competence as currency.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The unseen court: “their angels” implies representation and surveillance of the small.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Arithmetic is overturned: ninety-nine become background noise to one endangered life.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who instilled in Saint Clare a deep love for evangelical poverty, grant us, through her intercession, that, following Christ in poverty of spirit, we may merit to come to contemplate you in your kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who instilled in Saint Clare a deep love for evangelical poverty, grant us, through her intercession, that, following Christ in poverty of spirit, we may merit to come to contemplate you in your kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who instilled in Saint Clare a deep love for evangelical poverty, grant us, through her intercession, that, following Christ in poverty of spirit, we may merit to come to contemplate you in your kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But thou, O son of man, hear all that I say to thee: and do not thou provoke me, as that house provoketh me: open thy mouth, and eat what I give thee.",
+        "And I looked, and behold, a hand was sent to me, wherein was a book rolled up: and he spread it before me, and it was written within and without: and there were written in it lamentations, and canticles, and woe.",
+        "And he said to me: Son of man, eat all that thou shalt find: eat this book, and go speak to the children of Israel. Eat this book, and go speak to the children of Israel... By this eating of the book was signified the diligent attention and affection with which we are to receive, and embrace the word of God; and to let it, as it were, sink into our interior by devout meditation.",
+        "And I opened my mouth, and he caused me to eat that book:",
+        "And he said to me: Son of man, thy belly shall eat, and thy bowels shall be filled with this book, which I give thee, and I did eat it: and it was sweet as honey in my mouth.",
+        "And he said to me: Son of man, go to the house of Israel, and thou shalt speak my words to them."
+      ],
+      "lineRefs": [
+        "2:8",
+        "2:9",
+        "3:1",
+        "3:2",
+        "3:3",
+        "3:4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 2:8-3:4",
+      "reference": "Ezekiel 2:8-3:4",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that hour the disciples came to Jesus, saying: Who, thinkest thou, is the greater in the kingdom of heaven?",
+        "And Jesus, calling unto him a little child, set him in the midst of them.",
+        "And said: amen I say to you, unless you be converted, and become as little children, you shall not enter into the kingdom of heaven.",
+        "Whosoever therefore shall humble himself as this little child, he is the greater in the kingdom of heaven.",
+        "And he that shall receive one such little child in my name, receiveth me.",
+        "See that you despise not one of these little ones: for I say to you, that their angels in heaven always see the face of my Father who is in heaven.",
+        "What think you? If a man have an hundred sheep, and one of them should go astray: doth he not leave the ninety-nine in the mountains, and goeth to seek that which is gone astray?",
+        "And if it so be that he find it: Amen I say to you, he rejoiceth more for that, than for the ninety-nine that went not astray.",
+        "Even so it is not the will of your Father, who is in heaven, that one of these little ones should perish."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "10",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:1-5,10,12-14",
+      "reference": "Matthew 18:1-5,10,12-14",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Clare, Virgin",
+        "key": "saintClareVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/11.html",
+    "title": "Gospel and Word of the Day - 11 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-11"
+}
