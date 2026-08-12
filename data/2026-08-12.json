@@ -1,0 +1,287 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c519f2ddf9bf5ee7124c5e5be42d33745882feae7f993d1c290e615fb692c788",
+        "inputSha256": "1f98f43a125a87abbbad8e34ff266410b3ea73588413e73338fd9d36b0ca6201",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "7bcac7ba294831978837cfdd2e057b4c811d68a729295b7e05eebf5db8c13084",
+        "inputSha256": "37a3881e43a9accc85f994ead7aeebf41842524894cf41a7e544281ed9bc6473",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "db80e48146381ccae25f126bb3db25fe36e57dc4907cbc98cf6add961c55d826",
+        "inputSha256": "f9ba110beb17eb4469c19e8b075bcf63e9699ff59c2cac27e3e217b9b78dc549",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-12T03:29:13.625Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s tau is the psyche’s visible boundary: grief made legible, an outward sign that someone has refused to anesthetize conscience. It resembles the Hindu tilaka and Shaiva vibhuti as public alignment with a sacred axis, and the Buddhist refuge-taking as a mark of chosen allegiance; speculation: the “seal” functions less as magic than as identity crystallized under pressure.\n\nThe departing glory over the threshold reads like the numinous withdrawing when a community’s inner life becomes uninhabitable. That echoes the Daoist idea that the Dao does not “stay” where coercion dominates, and the Greek notion of a city losing its daimon when hubris hardens; speculation: the vision externalizes depression’s felt evacuation, when meaning lifts off and the machinery keeps turning.\n\nMatthew’s staged confrontation is a technology of repair: privacy first, then widening witnesses, then communal judgment, not to vent rage but to preserve a shared reality. It parallels Jewish tochecha and a beit din’s graduated process, and Buddhist sangha procedures for admonition; speculation: “binding and loosing” is the group’s power to name what is real, which is why even a tiny gathered circle can carry a presence larger than any one ego.",
+    "excursus": "Ezekiel stages a fantasy of moral triage: the city is a body in infection, and the cure is a clean massacre. The linen clerk with ink is the bureaucrat of purity, the one who makes violence feel lawful. The mark is not mercy; it is selection, the erotic thrill of being singled out while everyone else becomes expendable. The command to begin at the sanctuary admits what the vision can’t bear to say outright: the deepest rot is closest to the holy, and the first desire of holiness is to purge its own elders.\n\nThen the glory leaves. The cherubim-machine lifts off like a conscience evacuating the scene it authorized. God becomes motion and distance, wheels and wings, an absence that still looks like power.\n\nMatthew turns the same impulse inward, downsizing the slaughter into procedure. Rebuke, witnesses, church: a graduated pressure system meant to force agreement. “Gain thy brother” is the soft word for conquest; if he won’t submit, exile him as heathen, make him socially dead. Binding and loosing is the dream that your verdicts are not just human, that your need to be right has a cosmic stamp.\n\n“Two or three” is not comfort; it’s the minimum quorum for legitimacy. Presence arrives when a small group synchronizes its desire and calls it a name. In both texts, salvation is belonging, and dread is the moment you realize the mark can be withheld.",
+    "synthesis": "God distinguishes within his people by a sign and judges first at his own house; Christ constitutes the church as a true court whose binding and loosing are ratified in heaven.",
+    "gospel": [
+      {
+        "text": "The escalation from private to ecclesial culminates not in mere expulsion but in authorized prayer and presence. Discipline and communion are paired: the same corporate unity that can exclude also becomes the site where heaven ratifies and Christ locates himself.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The procedure protects both the offender and the body: it delays public rupture while establishing a final court. The church is presented as a real jurisdiction whose decisions are treated as participating in divine governance.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is a liturgy of separation: command issues from the threshold, execution follows the marker, and the house itself is made unclean by corpses. The point is not that holiness avoids blood, but that covenant infidelity turns the holy place into the first exhibit of judgment.",
+        "lines": [
+          3,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The chariot-throne imagery frames the massacre as the movement of kingship: the wheels and straight-forward impulse signal unimpeded sovereignty. God is not trapped in the temple; the mobility of glory is the theological explanation for exile.",
+        "lines": [
+          9,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Visitations” arrives as audit, not accident; weapons already issued.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Six destroyers, one scribe: judgment needs both blade and record.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The marked are not the powerful but the grieving; lament becomes credential.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy is not general; it is indexed. Sanctuary is first in the firing line.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory departs by stages; abandonment is procedural.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Private rebuke: sin is handled with minimal audience before maximal force.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Witnesses are not gossip; they are juridical ballast.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal hardens into a new category: outsider by obstinacy, not ethnicity.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Binding/loosing: the community’s verdict is not merely social; it claims metaphysical traction.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Presence is conditional: not “together,” but “in my name.”",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant your people that the constant meditation on your teaching may instruct them to fulfill, in word and in deed, what is pleasing to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, pour into our souls the brightness of your light; and since in your wisdom you have created us and in your providence you govern us, grant that our life and our actions may be wholly consecrated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May the pleading voice of your Church reach your ears, Lord, so that, having obtained forgiveness for our sins, with your help we may devote ourselves to your service and, under your protection, live in confidence. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he cried in my ears with a loud voice, saying: The visitations of the city are at hand, and every one hath a destroying weapon in his hand.",
+        "And behold six men came from the way of the upper gate, which looketh to the north: and each one had his weapon of destruction in his hand: and there was one man in the midst of them clothed with linen, with a writer's inkhorn at his reins: and they went in, and stood by the brazen altar.",
+        "And the glory of the Lord of Israel went up from the cherub, upon which he was, to the threshold of the house: and he called to the man that was clothed with linen, and had a writer's inkhorn at his loins.",
+        "And the Lord said to him: Go through the midst of the city, through the midst of Jerusalem: and mark Thau upon the foreheads of the men that sigh, and mourn for all the abominations that are committed in the midst thereof. Mark Thau... Thau, or Tau, is the last letter in the Hebrew alphabet, and signifies a sign, or a mark; which is the reason why some translators render this place set a mark, or mark a mark without specifying what this mark was. But St. Jerome, and other interpreters, conclude it was the form of the letter Thau, which in the ancient Hebrew character, was the form of a cross.",
+        "And to the others he said in my hearing: Go ye after him through the city, and strike: let not your eyes spare, nor be ye moved with pity.",
+        "Utterly destroy old and young, maidens, children and women: but upon whomsoever you shall see Thau, kill him not, and begin ye at my sanctuary. So they began at the ancient men who were before the house.",
+        "And he said to them: Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew them that were in the city.",
+        "And the glory of the Lord went forth from the threshold of the temple: and stood over the cherubims.",
+        "And the cherubims lifting up their wings, were raised from the earth before me: and as they went out, the wheels also followed: and it stood in the entry of the east gate of the house of the Lord: and the glory of the God of Israel was over them.",
+        "This is the living creature, which I saw under the God of Israel by the river Chobar: and I understood that they were cherubims.",
+        "Each one had four faces, and each one had four wings: and the likeness of a man's hand was under their wings.",
+        "And as to the likeness of their faces, they were the same faces which I had seen by the river Chobar, and their looks, and the impulse of every one to go straight forward."
+      ],
+      "lineRefs": [
+        "9:1",
+        "9:2",
+        "9:3",
+        "9:4",
+        "9:5",
+        "9:6",
+        "9:7",
+        "10:18",
+        "10:19",
+        "10:20",
+        "10:21",
+        "10:22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 9:1-7; 10:18-22",
+      "reference": "Ezekiel 9:1-7; 10:18-22",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But if thy brother shall offend against thee, go, and rebuke him between thee and him alone. If he shall hear thee, thou shalt gain thy brother.",
+        "And if he will not hear thee, take with thee one or two more: that in the mouth of two or three witnesses every word may stand.",
+        "And if he will not hear them: tell the church. And if he will not hear the church, let him be to thee as the heathen and publican.",
+        "Amen I say to you, whatsoever you shall bind upon earth, shall be bound also in heaven: and whatsoever you shall loose upon earth, shall be loosed also in heaven.",
+        "Again I say to you, that if two of you shall consent upon earth, concerning anything whatsoever they shall ask, it shall be done to them by my Father who is in heaven.",
+        "For where there are two or three gathered together in my name, there am I in the midst of them. There am I in the midst of them... This is understood of such assemblies only as are gathered in the name and authority of Christ; and in unity of the church of Christ. St. Cyprian, De Unitate Ecclesiae."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:15-20",
+      "reference": "Matthew 18:15-20",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Jane Frances de Chantal, Religious",
+        "key": "saintJaneFrancesDeChantalReligious"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/12.html",
+    "title": "Gospel and Word of the Day - 12 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-12"
+}
