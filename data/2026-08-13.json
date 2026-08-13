@@ -1,0 +1,304 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "9ce3b0cc15acd6962814c8573a0913d51dc23232bc74bea35a826e6b889aaa4e",
+        "inputSha256": "1ed58d5b20ffe4716d29d4c42215adccb9e52d9b247c22b552bcdd615b91a058",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d2d8327ce876fb4d0d9123df5a54cc4b089fb3549ac51b979112f5c2c9807c47",
+        "inputSha256": "3f7394f65fc904dbb03c7ff92a975937bb86972b2ef62530133baa97b6c5ab57",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6dad21f527e75f26d4e88c8ef391ec3be73678872f8b95914c11f14d948c172a",
+        "inputSha256": "95a85154cd4c06eadbb2731cc02873545fa9579b7eb993063c39605e95ccade0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-13T03:33:20.000Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s enacted exile is a piece of shock-therapy: the psyche that “has eyes and sees not” is not ignorant but defended. The prophet turns himself into the symptom—packing, digging, disappearing—so denial is forced to watch its own future. The covered face is dissociation made public: when a community will not look at what it is doing, it trains its leaders to move in darkness and call it strategy.\n\nMatthew’s unforgiving debtor is the same defense in moral form: the one who is spared an unpayable burden cannot bear the vertigo of that mercy, so he converts it into control over a smaller victim. He throttles because he is terrified; he imprisons because he cannot metabolize being released. The “from your hearts” demand is psychological realism: forgiveness that stays in the head becomes a ledger, and ledgers breed torturers.\n\nSemina Verbi: Ezekiel’s sign-act resembles Zen’s skillful means and the Sufi use of paradox, where a teacher performs a jolt to crack habitual perception; speculation, but the aim feels shared. The debtor’s failure echoes Buddhist accounts of resentment as a second arrow and Stoic warnings that injury is doubled by clinging; both see vengeance as self-harm. The king’s accounting also parallels the Hindu idea of karma as moral debt, with the sharper twist here that mercy interrupts the calculus and then judges our refusal to let it reshape us.",
+    "excursus": "Ezekiel is made into a living breach. The command isn’t to preach but to perform panic: pack your life in daylight, claw a hole through the wall with your hands, leave blindfolded. The people “see not” because seeing would mean admitting the home is already lost. So the prophet stages the truth they refuse: exile begins as theater, as a ritual of denial turned physical. The prince escaping in darkness is not strategy but shame, a body carried like contraband, face covered so he won’t have to watch himself become a refugee.\n\nMatthew’s forgiveness is not tenderness; it’s an economy of dread. The king cancels an impossible debt, and that gift doesn’t soften the servant—it exposes him. Mercy lands like vertigo: if you are spared that much, you can’t keep your old self. So he grabs the smaller debtor by the throat, trying to restore a world where someone must pay. The torture at the end is the psychic logic of refused grace: if you won’t pass on the cancellation, you will live inside accounts forever, imprisoned by the need to make loss visible.\n\nBoth texts circle the same desire: to keep the wall intact, to keep the ledger balanced, to avoid the humiliating freedom of starting over. But the wall gets dug through anyway, and the books get opened anyway. What’s offered is release; what’s demanded is to endure it without reaching for someone’s throat.",
+    "synthesis": "God’s mercy establishes an objective standard that binds the forgiven to forgive. Refusal to mirror mercy converts pardon into judgment, publicly and inwardly.",
+    "gospel": [
+      {
+        "text": "The parable is an audit: the kingdom is pictured as accounting that exposes scale. The king’s remission establishes a norm that becomes the measure of the servant; the servant is condemned not for debt but for contradicting the king’s act, making mercy the law of the realm.",
+        "lines": [
+          3,
+          4,
+          5,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Witnesses matter: the community reports, and judgment is reactivated. The closing travel note signals transition—teaching is not left in the air; it accompanies movement toward conflict where this ethic will be tested.",
+        "lines": [
+          11,
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle comes twice, bracketing the performance: revelation initiates, then interprets. The sign-act is not art but litigation—God supplies both evidence and verdict.",
+        "lines": [
+          1,
+          8
+        ]
+      },
+      {
+        "text": "The audience finally asks the right question ('What art thou doing?'), but too late; inquiry follows spectacle, not obedience. The 'prince' is named as the center of the contagion: leadership is not exempt from the common exile, only more theatrically exposed.",
+        "lines": [
+          3,
+          9,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Eyes and ears intact; perception refused. Guilt is not ignorance but resistance.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Escape is not through a gate but a wound in the wall. Judgment makes its own exit.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prophet becomes a portable omen: carried, darkened, face covered—sign by self-erasure.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imitation as sentence: the enacted parable hardens into history.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Arithmetic breaks: forgiveness is made innumerable, not heroic.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Pity cancels what cannot be repaid; mercy is not a payment plan.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Released hands become hands that throttle. The forgiven can still be violent.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The debt returns as torment: mercy despised reappears as discipline.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The condition is interior: not performance, but 'from your hearts'—the hidden court.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, whom, taught by the Holy Spirit, we dare to call Father, renew in our hearts the spirit of filial adoption, that we may be worthy to attain the promised inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God: enlighten with your light the peoples who live in darkness and in the shadow of death, for by that light the Dayspring from on high has visited us, Jesus Christ our Lord. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, we give you thanks for the day that is ending and we implore your mercy, that you may graciously forgive us all the faults that, through the frailty of the human condition, we have committed this day. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with all our body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to me, saying:",
+        "Son of man, thou dwellest in the midst of a provoking house: who have eyes to see, and see not: and ears to hear, and hear not: for they are a provoking house.",
+        "Thou, therefore, O son of man, prepare thee all necessaries for removing, and remove by day into their sight: and thou shalt remove out of thy place to another place in their sight, if so be they will regard it: for they are a provoking house.",
+        "And thou shalt bring forth thy furniture as the furniture of one that is removing by day in their sight: and thou shalt go forth in the evening in their presence, as one goeth forth that removeth his dwelling.",
+        "Dig thee a way through the wall before their eyes: and thou shalt go forth through it.",
+        "In their sight thou shalt be carried out upon men's shoulders, thou shalt be carried out in the dark: thou shalt cover thy face, and shalt not see the ground: for I have set thee for a sign of things to come to the house of Israel.",
+        "I did therefore as he had commanded me: I brought forth my goods by day, as the goods of one that removeth: and in the evening I digged through the wall with my hand, and I went forth in the dark, and was carried on men's shoulders in their sight.",
+        "And the word of the Lord came to me in the morning, saying:",
+        "Son of man, hath not the house of Israel, the provoking house, said to thee: What art thou doing?",
+        "Say to them: Thus saith the Lord God: This burden concerneth my prince that is in Jerusalem, and all the house of Israel, that are among them.",
+        "Say: I am a sign of things to come to you: as I have done, so shall it be done to them: they shall be removed from their dwellings, and go into captivity.",
+        "And the prince that is in the midst of them, shall be carried on shoulders, he shall go forth in the dark: they shall dig through the wall to bring him out: his face shall be covered, that he may not see the ground with his eyes."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 12:1-12",
+      "reference": "Ezekiel 12:1-12",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then came Peter unto him and said: Lord, how often shall my brother offend against me, and I forgive him? till seven times?",
+        "Jesus saith to him: I say not to thee, till seven times; but till seventy times seven times.",
+        "Therefore is the kingdom of heaven likened to a king, who would take an account of his servants.",
+        "And when he had begun to take the account, one as brought to him, that owed him ten thousand talents. Talents... A talent was seven hundred and fifty ounces of silver, which at the rate of five shillings to the ounce is a hundred and eighty-seven pounds ten shillings sterling.",
+        "And as he had not wherewith to pay it, his lord commanded that he should be sold, and his wife and children, and all that he had, and payment to be made.",
+        "But that servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And the lord of that servant being moved with pity, let him go and forgave him the debt.",
+        "But when that servant was gone out, he found one of his fellow- servants that owed him an hundred pence: and laying hold of him, he throttled him, saying: Pay what thou owest. Pence... The Roman penny was the eighth part of an ounce, that is, about sevenpence half-penny English.",
+        "And his fellow-servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And he would not: but went and cast him into prison, till he paid the debt.",
+        "Now his fellow servants seeing what was done, were very much grieved, and they came, and told their lord all that was done.",
+        "Then his lord called him: and said to him: Thou wicked servant, I forgave thee all the debt, because thou besoughtest me:",
+        "Shouldst not thou then have had compassion also on thy fellow servant, even as I had compassion on thee?",
+        "And his lord being angry, delivered him to the torturers until he paid all the debt.",
+        "So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts.",
+        "And it came to pass when Jesus had ended these words, he departed from Galilee and came into the coasts of Judea, beyond Jordan."
+      ],
+      "lineRefs": [
+        "18:21",
+        "18:22",
+        "18:23",
+        "18:24",
+        "18:25",
+        "18:26",
+        "18:27",
+        "18:28",
+        "18:29",
+        "18:30",
+        "18:31",
+        "18:32",
+        "18:33",
+        "18:34",
+        "18:35",
+        "19:1"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:21-19:1",
+      "reference": "Matthew 18:21-19:1",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saints Pontian, Pope and Hippolytus, Priest, Martyrs",
+        "key": "saintsPontianPopeAndHippolytusPriestMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/13.html",
+    "title": "Gospel and Word of the Day - 13 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-13"
+}
