@@ -1,0 +1,328 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2e4bf51f78d39474e9cc5f5682fd30ea2cbd14f98583a18b4f79c65c756bde4a",
+        "inputSha256": "ee00640651b06f201d69c75c325a955c197be598edc3187e87a71333899d2ad5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "900487c527451c1a5410ba0d7beccc88a967486d765cebcd3deb36ff37bf59e9",
+        "inputSha256": "f3bc95bf8ed4128748e11701f42cd3bbfb644a1c716c683e9f17296b4ce4f306",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "65acdade61a840da4e1fcc31723a6fcff946015d4c072febe9cd2005a73d17c8",
+        "inputSha256": "97744e67829ad18f56ed50d073be48c3501c43cc8291167fb56c1cec08ee35bf",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-14T03:29:43.913Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s abandoned infant becoming a jeweled queen, then turning promiscuous, reads like a psyche that can’t metabolize rescue: early deprivation, sudden adornment, then compulsive reenactment of being used before being left. The “covenant” is attachment; the “harlotry” is the frantic search for mirrors. Shame is not punishment but the last intact nerve of intimacy, the place where the self finally stops bargaining and falls silent.\n\nMatthew’s refusal to treat divorce as a convenience frames love as an ontological bond, not a contract. “Hardness of heart” is the inner callus that makes people treat persons as exits. The eunuch saying dignifies sublimation: desire can be transposed into a single-minded life without pretending desire is unreal.\n\nSpeculation: this arc resembles Plato’s Symposium, where eros can climb from bodies to the Beautiful; it also echoes Hindu bhakti poetry that casts the soul as bride whose infidelity is restless craving, and Sufi ghazal where the Beloved’s jealousy is the psyche’s demand for undivided attention. A Buddhist parallel sits in the diagnosis of tanha: the decorated self still hungers, and the cure is not more adornment but a different relation to wanting.",
+    "excursus": "Ezekiel’s God is not a gentle husband but a rescuer who cannot stop narrating the girl’s body. He finds an unwanted infant, keeps her alive, then waits until “the time of lovers,” covers her, adorns her, and calls her his. The gifts are not pure generosity; they are the creation of dependence, beauty as a leash. When she “plays the harlot,” it reads less like betrayal than like a panicked attempt to own herself by scattering the self he manufactured.\n\nMatthew tightens the same knot. Divorce is framed as mercy for hard hearts, yet the remedy is a harsher binding: one flesh, no exit. The disciples hear the threat and flinch; celibacy appears as the only clean refusal of the contract. The “eunuch for the kingdom” is the person who chooses self-amputation of desire rather than be drafted into a sacred economy where love and ownership share a bed.\n\nBoth texts throb with dread: the divine claims to heal abandonment by possession, then offers “everlasting covenant” as the final word. The silence at the end—“no more open thy mouth”—is not peace. It is the hush of someone forgiven in a way that leaves no room to speak back.",
+    "synthesis": "God’s covenants create real bonds—between himself and his people, and between spouses—that human hardness can wound but not redefine. Grace restores by exposing guilt, reasserting the bond, and demanding fidelity or consecrated renunciation.",
+    "gospel": [
+      {
+        "text": "Jesus answers a procedural trap by appealing to creation: marriage is treated as a creational given, not a contract adjustable by statute.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Moses is reclassified from legislator of ideals to manager of damage; the exception clause is not a new permission but a boundary marker that still leaves remarriage under judgment.",
+        "lines": [
+          5,
+          7
+        ]
+      },
+      {
+        "text": "Celibacy is presented as charism and discipline, not as universal rule; the kingdom generates a second form of fidelity that does not negate the first.",
+        "lines": [
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle is framed as prosecution: the prophet is commissioned to publish a case file against the city, not to soothe it.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The narrative moves by staged transformations—growth, cleansing, adornment, enthronement—so that later betrayal cannot be blamed on lack but on misuse of received gifts.",
+        "lines": [
+          7,
+          9,
+          10,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "The ending is asymmetrical: the everlasting covenant is reasserted while the guilty party is reduced to silence; reconciliation is described as divine pacification, not negotiated settlement.",
+        "lines": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Genealogy as indictment: origin recast as impurity, not pride.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Uncut navel, unsalted skin: the anti-rite of birth; no welcome into the human.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Imperative over gore: “Live” spoken into blood, not after it dries.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Garment becomes border and claim; covenant as enclosure over shame.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Perfect through my beauty”: borrowed splendor mistaken for selfhood.",
+      "lines": [
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Renown flips to commerce; the passerby becomes a god.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A legal question posed as bait: casuistry hunting for permission.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Union stated as fact before command: ontology precedes ethics.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Concession named for what it is: policy for hard hearts, not revelation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Disciples hear permanence as loss; freedom imagined as exit.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Three eunuchings: nature, violence, vow; the last is chosen scarcity for a higher allegiance.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who filled the martyr Saint Maximilian Mary Kolbe, apostle of the Immaculate, with zeal for souls and love of neighbor, grant us, through his intercession, to labor generously for your glory in the service of others and to have the courage to be conformed to your Son, even unto death. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who filled the martyr Saint Maximilian Mary Kolbe, apostle of the Immaculate, with zeal for souls and love of neighbor, grant us, through his intercession, to labor generously for your glory in the service of others and to have the courage to be conformed to your Son, even unto death. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who filled the martyr Saint Maximilian Mary Kolbe, apostle of the Immaculate, with zeal for souls and love of neighbor, grant us, through his intercession, to labor generously for your glory in the service of others and to have the courage to be conformed to your Son, even unto death. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to me, saying:",
+        "Son of man, make known to Jerusalem her abominations. Make known to Jerusalem... That is, by letters, for the prophet was then in Babylon.",
+        "And thou shalt say: Thus saith the Lord God to Jerusalem: Thy root, and thy nativity is of the land of Chanaan, thy father was an Amorrhite, and thy mother a Cethite.",
+        "And when thou wast born, in the day of thy nativity thy navel was not cut, neither wast thou washed with water for thy health, nor salted with salt, nor swaddled with clouts.",
+        "No eye had pity on thee to do any of these things for thee, out of compassion to thee: but thou wast cast out upon the face of the earth in the abjection of thy soul, in the day that thou wast born.",
+        "And passing by thee, I saw that thou wast trodden under foot in thy own blood: and I said to thee when thou wast in thy blood: Live: I have said to thee: Live in thy blood.",
+        "I caused thee to multiply as the bud of the field: and thou didst increase and grow great, and advancedst, and camest to woman's ornament: thy breasts were fashioned, and thy hair grew: and thou was naked, and full of confusion.",
+        "And I passed by thee, and saw thee: and behold thy time was the time of lovers: and I spread my garment over thee, and covered thy ignominy, and I swore to thee, and I entered into a covenant with thee, saith the Lord God: and thou becamest mine.",
+        "And I washed thee with water, and cleansed away thy blood from thee: and I anointed thee with oil.",
+        "And I clothed thee with embroidery, and shod thee with violet coloured shoes: and I girded thee about with fine linen, and clothed thee with fine garments.",
+        "I decked thee also with ornaments, and put bracelets on thy hands, and a chain about thy neck. I decked thee also with ornaments, etc... That is, with spiritual benefits, giving you a law with sacrifices, sacraments, and other holy rites.",
+        "And I put a jewel upon thy forehead and earrings in thy ears, and a beautiful crown upon thy head.",
+        "And thou wast adorned with gold, and silver, and wast clothed with fine linen, and embroidered work, and many colours: thou didst eat fine flour, and honey, and oil, and wast made exceeding beautiful: and wast advanced to be a queen.",
+        "And thy renown went forth among the nations for thy beauty: for thou wast perfect through my beauty, which I had put upon thee, saith the Lord God.",
+        "But trusting in thy beauty, thou playedst the harlot because of thy renown, and thou hast prostituted thyself to every passenger, to be his.",
+        "And I will remember my covenant with thee in the days of thy youth: and I will establish with thee an everlasting covenant.",
+        "That thou mayest remember, and be confounded, and mayest no more open thy mouth because of thy confusion, when I shall be pacified toward thee for all that thou hast done, saith the Lord God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "60",
+        "63"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 16:1-15,60,63",
+      "reference": "Ezekiel 16:1-15,60,63",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there came to him the Pharisees tempting him, saying: Is it lawful for a man to put away his wife for every cause?",
+        "Who answering, said to them: Have ye not read, that he who made man from the beginning, made them male and female? And he said:",
+        "For this cause shall a man leave father and mother, and shall cleave to his wife, and they two shall be in one flesh.",
+        "Therefore now they are not two, but one flesh. What therefore God hath joined together, let no man put asunder.",
+        "They say to him: Why then did Moses command to give a bill of divorce, and to put away?",
+        "He saith to them: Because Moses by reason of the hardness of your heart permitted you to put away your wives: but from the beginning it was not so.",
+        "And I say to you, that whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and he that shall marry her that is put away, committeth adultery. Except it be, etc... In the case of fornication, that is, of adultery, the wife may be put away: but even then the husband cannot marry another as long as the wife is living.",
+        "His disciples say unto him: If the case of a man with his wife be so, it is not expedient to marry.",
+        "Who said to them: All men take not this word, but they to whom it is given. All men take not this word... That is, all receive not the gift of living singly and chastely, unless they pray for the grace of God to enable them to live so, and for some it may be necessary to that end to fast as well as pray: and to those it is given from above.",
+        "For there are eunuchs, who were born so from their mothers womb: and there are eunuchs, who were made so by men: and there are eunuchs, who have made themselves eunuchs for the kingdom of heaven. He that can take, let him take it. There are eunuchs, who have made themselves eunuchs, for the kingdom of heaven... This text is not to be taken in the literal sense; but means, that there are such, who have taken a firm and commendable resolution of leading a single and chaste life, in order to serve God in a more perfect state than those who marry: as St. Paul clearly shews. 1 Cor. 7. 37, 38."
+      ],
+      "lineRefs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 19:3-12",
+      "reference": "Matthew 19:3-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Maximilian Mary Kolbe, Priest and Martyr",
+        "key": "saintMaximilianMaryKolbePriestAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/14.html",
+    "title": "Gospel and Word of the Day - 14 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-14"
+}
