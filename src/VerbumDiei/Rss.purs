@@ -853,6 +853,9 @@ removeSpacesAfterComma s =
   in
     go chars []
 
+-- | Drop lectionary verse-part markers: "19a" -> "19", "10ab" -> "10".
+-- | The whole run is removed, since a verse can be cited in more than one
+-- | part ("10ab") and the feed varies the case ("10AB").
 stripLetterSuffix :: String -> String
 stripLetterSuffix s =
   let
@@ -862,11 +865,7 @@ stripLetterSuffix s =
         Nothing -> CodeUnits.fromCharArray (Array.reverse acc)
         Just { head: d, tail: rest } ->
           if isDigitChar d then
-            case Array.uncons rest of
-              Just { head: c, tail: rest' } | isAlphaChar c ->
-                go rest' (d `cons` acc)
-              _ ->
-                go rest (d `cons` acc)
+            go (dropWhile isAlphaChar rest) (d `cons` acc)
           else
             go rest (d `cons` acc)
   in

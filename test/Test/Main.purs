@@ -88,6 +88,27 @@ main = do
       assertEqual "lineRefs" expectedHabakkuk reading.lineRefs
       assertEqual "lines length" 10 (Array.length reading.lines)
 
+    test "drops multi-letter and upper-case verse-part markers" do
+      -- Reaches the parser directly, bypassing the RSS normaliser, so the
+      -- citation grammar has to handle the markers on its own.
+      reading <- fetchBibleReading "Revelation 11:19A; 12:1-6A, 10AB"
+      assertEqual "lineRefs" expectedRevelation reading.lineRefs
+      assertEqual "lines length" 8 (Array.length reading.lines)
+      lower <- fetchBibleReading "Revelation 11:19a; 12:1-6a, 10ab"
+      assertEqual "case agnostic" reading.lineRefs lower.lineRefs
+
+    test "strips verse-part markers from a feed citation" do
+      let feed = parseWordOfDayFeed versePartFeedXml
+      item <- case Array.head feed.items of
+        Nothing -> throwError (error "expected one feed item")
+        Just it -> pure it
+      first <- case Array.find (\r -> r.kind == "first") item.readings of
+        Nothing -> throwError (error "expected a first reading")
+        Just r -> pure r
+      assertEqual "first reference" "Revelation 11:19; 12:1-6,10" first.bibleApiReference
+      reading <- fetchBibleReading first.bibleApiReference
+      assertEqual "lineRefs" expectedRevelation reading.lineRefs
+
     test "resolves collapsed Amos 9:15 verse" do
       reading <- fetchBibleReading "Amos 9:11-15"
       assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
@@ -136,6 +157,18 @@ expectedHabakkuk =
   , "2:4"
   ]
 
+expectedRevelation :: Array String
+expectedRevelation =
+  [ "11:19"
+  , "12:1"
+  , "12:2"
+  , "12:3"
+  , "12:4"
+  , "12:5"
+  , "12:6"
+  , "12:10"
+  ]
+
 -- | Trimmed copy of the 2026-08-08 Vatican News item that broke the nightly
 -- | run: upstream flattened every non-ASCII character to '?', so the
 -- | cross-chapter dash in "1:12-2:4" and the opening quote in the Gospel prose
@@ -155,6 +188,29 @@ mangledDashFeedXml =
 <p>Are you not from eternity, O LORD,<br /> my holy God, immortal?</p>
 <p>From the Gospel according to Matthew<br /> 17:14-20</p>
 <p>A man came up to Jesus, knelt down before him, and said,<br /> ?Lord, have pity on my son.</p>]]></description>
+    </item>
+  </channel>
+</rss>"""
+
+-- | Trimmed copy of the 2026-08-15 Vatican News item (the Assumption) that
+-- | broke the nightly run: the lectionary cites parts of verses, and upstream
+-- | upper-cases the part markers -- "11:19A; 12:1-6A, 10AB". "10AB" is the
+-- | awkward one, being a two-letter marker.
+versePartFeedXml :: String
+versePartFeedXml =
+  """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Word of the day</title>
+    <link>https://www.vaticannews.va/en/word-of-the-day.html</link>
+    <item>
+      <title>Gospel and Word of the Day - 15 August 2026</title>
+      <guid>https://www.vaticannews.va/en/word-of-the-day/2026/08/15.html</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <description><![CDATA[<p>A reading from the Book of Revelation<br /> 11:19A; 12:1-6A, 10AB</p>
+<p>God?s temple in heaven was opened.</p>
+<p>From the Gospel according to Luke<br /> 1:39-56</p>
+<p>Mary set out and travelled to the hill country in haste.</p>]]></description>
     </item>
   </channel>
 </rss>"""

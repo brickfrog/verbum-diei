@@ -230,16 +230,25 @@ parseInt cursor =
        Nothing -> Left "Invalid number"
        Just n -> Right { value: n, cursor: skipVerseSuffix parsed.cursor }
 
--- | Skip verse suffix letters like "a", "b", "c" after verse numbers (e.g., "12b" -> skip the "b")
+-- | Skip lectionary verse-part markers after a verse number: "12b" -> "12",
+-- | "10ab" -> "10", "10AB" -> "10". A verse can be cited in more than one
+-- | part, and the feed varies the case, so skip the whole run either way.
+-- | The Douay-Rheims text resolves at whole-verse granularity, so the part
+-- | markers carry no information we can act on.
 skipVerseSuffix :: Cursor -> Cursor
 skipVerseSuffix cursor =
   case peek cursor of
-    Just c | isVerseSuffixChar c -> advance cursor
+    Just c | isVerseSuffixChar c -> skipVerseSuffix (advance cursor)
     _ -> cursor
 
 isVerseSuffixChar :: Char -> Boolean
 isVerseSuffixChar c =
-  c == 'a' || c == 'b' || c == 'c' || c == 'd'
+  case toLowerChar c of
+    'a' -> true
+    'b' -> true
+    'c' -> true
+    'd' -> true
+    _ -> false
 
 takeDigits :: Cursor -> { digits :: Array Char, cursor :: Cursor }
 takeDigits cursor =
