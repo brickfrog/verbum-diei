@@ -1,0 +1,264 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "57521cc7344403759be34760dcacce886c72dfa34468af58ba8f68f9ec68c6f7",
+        "inputSha256": "68bf8ef7cdf58d10454a6b8999e5d7a01373ea206446f3cb75442fd4e2aea78d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "26342c8869b1bccb504d7bd34c07da04ce9f56cbe275006bb4e0f88a983cbb5f",
+        "inputSha256": "a8a48d39c6883ee24109aad4c109cc2b537dfb94b582dc73b4235a941b23968f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a8278349799192878cf48d0f18401525e2d72ec6ff6064e7f043a52974172b94",
+        "inputSha256": "d69676ebc3707d13cedaf2b76d2467cddd1431df43a56b4c6b99261b23984fbe",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-16T02:34:53.036Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s open house of prayer has the same psychological shape as the Bhagavad Gita’s widening of access through steady practice rather than pedigree: belonging is enacted, not inherited. Speculation: it also resembles the Stoic cosmopolis, where justice is the passport and the city’s borders are moral, not ethnic.\n\nThe Canaanite woman’s “crumbs” is Zen’s side-door entry: she refuses the prestige economy, takes the lowest seat, and by that very non-claim disarms the gate. Her persistence reads like the bodhisattva’s vow in Mahayana—compassion that will not be turned away by insult or delay—except here the weapon is wit, a fierce humility that converts exclusion into intimacy.\n\nJesus’ silence functions like a therapeutic pause in certain Sufi and Hasidic tales: the teacher withholds to expose what the seeker actually wants, until desire clarifies into trust. Speculation: the harsh metaphor is a deliberate provocation, a controlled rupture that lets her agency rewrite the script and forces the in-group to watch faith arrive from outside.",
+    "excursus": "Isaiah sounds like welcome, but it’s a border checkpoint. “Keep ye judgment” is not tenderness; it’s surveillance. The stranger may enter only by learning the house rules, by holding fast, by submitting desire to a schedule. Joy is promised, but it is the joy of being admitted, of becoming legible, of paying the price of belonging. The altar is pleased; the people are managed.\n\nMatthew strips the piety off that arrangement and shows the raw nerve. Jesus retreats, and the woman’s need follows him like hunger. He answers with silence, then with policy, then with insult. The disciples want her erased because her voice is indecent: it exposes that mercy is being rationed.\n\nHer genius is not humility but refusal. She takes the slur, keeps the desire, and turns the table into evidence. If crumbs exist, then bread is already excessive; if a house has leftovers, it cannot pretend scarcity. She forces him to confront the economy of his own mission. The miracle reads like capitulation: not “she believed,” but “be it done as thou wilt.” Her will breaks through the system.\n\nSo the “house of prayer for all nations” is not a serene ideal; it’s a contested room where outsiders pound on the door until the inside admits what it has been hoarding. Salvation is “near” because pressure is near. Justice is “revealed” because someone refuses to be quiet.",
+    "synthesis": "God’s covenantal order is real, but it is ordered to the ingathering of the nations. Faith that clings to Christ under apparent exclusion is granted true participation in Israel’s bread.",
+    "gospel": [
+      {
+        "text": "The woman’s address is messianic (“son of David”) before it is ethnic; she speaks Israel’s language to Israel’s king, forcing the question of whether David’s mercy can be bounded by David’s borders.",
+        "lines": [
+          2,
+          5,
+          8
+        ]
+      },
+      {
+        "text": "The narrative turns refusal into revelation: the disciples’ dismissal, the stated priority, and the hard metaphor together expose a graded economy of gifts—then the healing discloses that this economy is ordered toward overflow, not hoarding.",
+        "lines": [
+          3,
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Isaiah frames universality through cultic architecture: the nations are not invited to invent a new worship but to be gathered into an existing “house,” where access is mediated by covenantal discipline and sacrificial acceptance.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The text’s inclusion is juridical: the stranger is incorporated by obligations (Sabbath, covenant) that mark belonging; the promise is not mere tolerance but incorporation into a regulated communion.",
+        "lines": [
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Ethics precedes epiphany: justice is the vestibule of salvation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The outsider is defined by adhesion, not origin; covenant is a verb here.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Joy is liturgical, not psychological; altar-pleasing is the test of welcome.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He crosses borders; the scene is staged in foreign air.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Silence as sieve: no word, only pressure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mission stated as limit: Israel named as the first address.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Bread/dogs: insult sharpened into a parable of order.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "She accepts hierarchy and exploits it; crumbs become a legal claim.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Faith is measured by persistence under refusal; will aligned with mercy.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable blessings for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Thus saith the Lord: Keep ye judgment, and do justice: for my salvation is near to come, and my justice to be revealed.",
+        "And the children of the stranger that adhere to the Lord, to worship him, and to love his name, to be his servants: every one that keepeth the sabbath from profaning it, and that holdeth fast my covenant:",
+        "I will bring them into my holy mount, and will make them joyful in my house of prayer: their holocausts, and their victims shall please me upon my altar: for my house shall be called the house of prayer, for all nations."
+      ],
+      "lineRefs": [
+        "1",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 56:1,6-7",
+      "reference": "Isaiah 56:1,6-7",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus went from thence, and retired into the coast of Tyre and Sidon.",
+        "And behold a woman of Canaan who came out of those coasts, crying out, said to him: Have mercy on me, O Lord, thou son of David: my daughter is grievously troubled by a devil.",
+        "Who answered her not a word. And his disciples came and besought him, saying: Send her away, for she crieth after us:",
+        "And he answering, said: I was not sent but to the sheep, that are lost of the house of Israel.",
+        "But she came and adored him, saying: Lord, help me.",
+        "Who answering, said: It is not good to take the bread of the children, and to cast it to the dogs.",
+        "But she said: Yea, Lord; for the whelps also eat of the crumbs that fall from the table of their masters.",
+        "Then Jesus answering, said to her: O woman, great is thy faith: be it done to thee as thou wilt: and her daughter was cured from that hour."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 15:21-28",
+      "reference": "Matthew 15:21-28",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "20th Sunday of Ordinary Time",
+        "key": "20thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/16.html",
+    "title": "Gospel and Word of the Day - 16 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-16"
+}
