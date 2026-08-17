@@ -1,0 +1,285 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d20c9cc478f1eff8d76a28fff466c022f184eeb8c181229c665f69ce2199f80e",
+        "inputSha256": "35411635db2fb7b7fd37e17331972684994a5a822ea7bf855cc72b9a7969d65f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "85528dd1233c2bced8cf70e2542eed45528bccb09566ae73f695abcf36745a78",
+        "inputSha256": "720fca0b8c86a370a6fd21fc02ac5a04255890fa79d789315466f3d49e8b6817",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e68a7d204a9a125db999f503eeb07c1d33a1fc18456a0ba154c2f02b4091f5e3",
+        "inputSha256": "36cdd6ae6edb90f9026d26f5092a8485872b9f04b4aa4966aa8486a01de73971",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-17T02:34:11.322Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s enforced dry-eyed obedience resembles the Stoic discipline of apatheia: grief is not denied but refused its customary theater so the self can register a harsher truth without anesthesia. It also echoes Zen training in non-attachment, where the ritual of mourning is dropped to expose clinging; speculation: the prophet is made into a living koan whose silence indicts the community’s numbness.\n\nThe rich young man’s sadness reads like the Bhagavad Gita’s diagnosis of bondage to the fruits of action: he has moral technique, but his identity is fused to possession, so the invitation to renounce is experienced as ego-death. A Sufi parallel is fana as loosening the grip of “mine”; speculation: the command is less about economics than about breaking the spell of a curated self that cannot follow because it cannot be emptied.",
+    "excursus": "Ezekiel is made into a performance of numbness. The “desire of your eyes” is taken, and the prophet is forbidden the one human act that would prove he loved her: public grief. God doesn’t just wound; he polices the wound, demanding the body stay dressed, fed, composed. The point is not piety but shock therapy: when the sanctuary and the children are lost, there will be no ritual to metabolize it, only a dry, shared suffocation—“sigh with his brother.” Guilt becomes an internal famine, and silence is the new liturgy.\n\nThe rich young man is the same experiment in another key. He wants everlasting life as a clean transaction, a moral receipt. Jesus refuses the ledger and touches the real attachment: the thing he cannot imagine losing without losing himself. “Sell what thou hast” is not a charity tip; it is forced bereavement, a voluntary stroke that exposes where his desire lives. He walks away sad because he discovers he doesn’t own his possessions; they own his capacity to follow. In both scenes, salvation is not comfort but the stripping of substitutes—temple, spouse, wealth—until only the ache remains, and the question of what you’ll do when you can’t mourn your god any more.",
+    "synthesis": "God judges and saves by severing false securities—sanctuary, kin, wealth—and exposing what the heart actually serves. Eternal life is not earned by correct deeds but received through total allegiance to God that can require real loss.",
+    "gospel": [
+      {
+        "text": "Jesus moves from a minimal legal catalogue (3–4) to a maximal summons (6): not merely avoiding violations but reordering the self around him. The shift reveals that ‘commandments’ can be kept while the heart remains unconverted; the decisive criterion is discipleship, not compliance.",
+        "lines": [
+          3,
+          4,
+          6
+        ]
+      },
+      {
+        "text": "The narrative turns on competing goods: the seeker’s ‘good’ as achievable act (1) versus God as the measure of good (2), culminating in a demand that makes God’s goodness concrete as renunciation and following (6). The man’s exit (7) functions as verdict: he prefers a manageable morality to an unmanageable Lord.",
+        "lines": [
+          1,
+          2,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The episode is staged as public pedagogy: revelation (1) produces a performed enigma that forces inquiry (5), then interpretation is delivered as oracle (6) and imposed as communal pattern (8). The prophet’s private loss is weaponized into a civic sign-act, collapsing the boundary between domestic life and national fate.",
+        "lines": [
+          1,
+          5,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "The logic of judgment targets attachments: sanctuary, children, and the psyche’s “fear” are bundled as the nation’s securities, then removed. The commanded restraint is not stoicism but dispossession—Israel is trained to experience catastrophe without the consolations that normally reintegrate a people after death.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The “desire of thy eyes” is seized by God, not fate; affection is drafted into judgment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ritual grief is forbidden; the body must refuse the community’s script.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Obedience outpaces bereavement; the prophet becomes a sign before he is a widower.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sanctuary named as an object of lust—what the eyes desire can be profaned.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No tears, only wasting: guilt metabolized as slow interior collapse.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He asks for a deed to purchase eternity; salvation framed as transaction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Good is relocated from human performance to God’s singularity; the question is rebuked at its root.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“What is yet wanting” exposes the hunger for surplus righteousness.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Perfection is not an extra rule but a transfer of allegiance: liquidate, give, follow.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sadness is the true inventory; possessions own the possessor.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable goods for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, who entrusted to man the care and cultivation of the earth, and created the light of the sun for his service, grant us today that, by your light, we may work without wearying for your glory and for the good of our neighbor. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stay with us, Lord Jesus, for evening is falling; be our companion on the way, lift up our hearts, rekindle our weak hope; so that we, together with our brothers and sisters, may recognize you in the Scriptures and in the breaking of the bread. You who live and reign with the Father in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to me, saying:",
+        "Son of man, behold I take from thee the desire of thy eyes with a stroke, and thou shall not lament, nor weep; neither shall thy tears run down.",
+        "Sigh in silence, make no mourning for the dead: let the tire of thy head be upon thee, and thy shoes on thy feet, and cover not thy face, nor eat the meat of mourners.",
+        "So I spoke to the people in the morning, and my wife died in the evening: and I did in the morning as he had commanded me.",
+        "And the people said to me: Why dost thou not tell us what these things mean that thou doest?",
+        "And I said to them: The word of the Lord came to me, saying:",
+        "Speak to the house of Israel: Thus saith the Lord God: Behold I will profane my sanctuary, the glory of your realm, and the thing that your eyes desire, and for which your soul feareth: your sons, and your daughters, whom you have left, shall fall by the sword.",
+        "And you shall do as I have done: you shall not cover your faces, nor shall you eat the meat of mourners.",
+        "You shall have crowns on your heads, and shoes on your feet: you shall not lament nor weep, but you shall pine away for your iniquities, and every one shall sigh with his brother."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 24:15-23",
+      "reference": "Ezekiel 24:15-23",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And behold one came and said to him: Good master, what good shall I do that I may have life everlasting?",
+        "Who said to him: Why askest thou me concerning good? One is good, God. But if thou wilt enter into life, keep the commandments.",
+        "He said to him: Which? And Jesus said: Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness.",
+        "Honour thy father and thy mother: and, Thou shalt love thy neighbor as thyself.",
+        "The young man saith to him: All these have I kept from my youth, what is yet wanting to me?",
+        "Jesus saith to him: If thou wilt be perfect, go sell what thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me.",
+        "And when the young man had heard this word, he went away sad: for he had great possessions."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 19:16-22",
+      "reference": "Matthew 19:16-22",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 20th week of Ordinary Time",
+        "key": "mondayOfThe20thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/17.html",
+    "title": "Gospel and Word of the Day - 17 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-17"
+}
