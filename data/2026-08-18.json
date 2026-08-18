@@ -1,0 +1,262 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "e75c6918bfcda358e1d1dec16b9edeec1c7c51e7a13bc1aaadabb89db8674fae",
+        "inputSha256": "a45e4f585f18fbc5cf50e1b7a6a44f24e41184252dde43d6c36f93fba6aca106",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8774c82f042891b06f0e7887f71d579fad621c38ba80157fd22f0c8c2c41137c",
+        "inputSha256": "742b5a3a81e9e4bb9286d8bcf82bb8354155b703fecbb9d8fd5402779d67768e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "264967fd56bf03255403e8e320e0728a166addb63749fc8871f413ee7626dc71",
+        "inputSha256": "750dbd9938a1726bccfad546a4d9b5b189557e5ba2b79350f81981b110772b5c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-18T02:20:49.925Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Tyre’s prince is the psyche drunk on its own competence: wealth as proof of omniscience, power as proof of divinity. The text treats grandiosity as a cognitive distortion that collapses under contact with brute reality; the “heart of the sea” is the fantasy of invulnerability, and the strangers’ swords are the return of limits—mortality, contingency, humiliation—cutting through the self-myth.\n\nMatthew sharpens the same diagnosis: riches are not condemned as objects but as a training regimen for self-sufficiency. The “needle” is the narrowing of the self until only grace fits; the disciples’ panic is the moment the merit-story breaks. Peter’s bargain shows the old economy still alive in him, and the reply redirects reward into a reversal logic: status flips when the self stops using sacrifice as a new form of possession.\n\nSemina Verbi: the Tyrian delusion resembles Greek hubris punished by nemesis, not as theology but as psychic law. It echoes the Bhagavad Gita’s warning that action done for “I am the doer” binds, while relinquished agency frees. It parallels the Tao Te Ching’s insistence that fullness comes by emptiness, strength by yielding. Speculation: the “first/last” reversal rhymes with Zen’s suspicion of spiritual achievement as another attachment, where the last thing to drop is the one who wants to be first.",
+    "excursus": "Tyre’s prince isn’t punished for a metaphysical mistake; he’s punished for a successful fantasy. Trade has taught him the narcotic of control: gold becomes proof, secrecy becomes a mirror, the sea becomes a throne. “I am God” is what power feels like inside the body. Ezekiel’s cruelty is to answer that feeling with anatomy. You will learn what you are when strangers hold you down. Your divinity will be tested in the only place it ever matters: in the hand of the one who can kill you.\n\nJesus makes the same incision, but with desire instead of swords. Wealth is not a moral stain; it is an attachment that pretends to be a self. The disciples panic because they recognize the trap: if salvation requires losing what props up the ego, then no one is safe. “With men this is impossible” is not comfort; it is exposure. You cannot pry your own fingers open.\n\nPeter’s question gives the game away. He has left everything, and he wants payment. Jesus answers with thrones and hundredfold returns, not to sanctify the bargain but to show how deep the bargaining goes. Even renunciation can be a form of acquisitiveness. The last line is the threat beneath the promise: the spiritual ladder is built from the same hunger as the economic one, and it will be kicked out from under those who climb it to feel like gods.",
+    "synthesis": "God alone secures salvation and sovereignty; every human attempt to enthrone the self—by wealth, wisdom, or power—ends in reversal and judgment.",
+    "gospel": [
+      {
+        "text": "The saying about wealth (1) detonates the disciples’ assumed moral calculus (3): if the advantaged are blocked, the system is not meritocratic. Peter’s question (5) exposes the transactional instinct even in renunciation. Jesus answers by reframing recompense as eschatological participation and inheritance (7), not as a wage; the community’s losses are gathered into a new order where authority is received, not seized.",
+        "lines": [
+          1,
+          3,
+          5,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle is structured as indictment → evidence → sentence. The evidence is economic and strategic competence (4–5) treated as self-authentication, culminating in a juridical “therefore” (6). Judgment is fitting: the one who claimed inviolable sovereignty is made vulnerable in the very arena of his boast—the sea (8)—and marked as outside the covenantal sign he presumed to transcend (10). The point is not that power is unreal, but that it is not self-grounding.",
+        "lines": [
+          1,
+          4,
+          5,
+          6,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The sea-throne is borrowed furniture; a man rehearsing divinity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Daniel invoked as satire: praise weaponized into exposure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Foreign swords answer private conceit; wisdom’s “beauty” is a target.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The claim “I am God” collapses in another’s grip; ontology meets the hand that kills.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Needle’s eye: not difficulty but disproportioned bulk—wealth as uncompressible self.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Impossibility is relocated from effort to agency; salvation changes owners.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seats answer seats: abandoned securities return as delegated judgment.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rank is reversible; the ledger is not kept in the same order.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared unseen goods for those who love you, pour the tenderness of your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Increase, Lord, our faith, so that the praise that comes from our lips may always be accompanied by the fruits of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we stand in prayer before you, Lord, we implore your mercy and ask that the sentiments of our heart may always be in harmony with the words of our mouth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to me, saying:",
+        "Son of man, say to the prince of Tyre: Thus saith the Lord God: Because thy heart is lifted up, and thou hast said: I am God, and I sit in the chair of God in the heart of the sea: whereas thou art a man, and not God: and hast set thy heart as if it were the heart of God.",
+        "Behold thou art wiser than Daniel: no secret is hid from thee. Thou art wiser than Daniel... Viz., in thy own conceit. The wisdom of Daniel was so much celebrated in his days, that it became a proverb amongst the Chaldeans, when any one would express an extraordinary wisdom, to say he was as wise as Daniel.",
+        "In thy wisdom and thy understanding thou hast made thyself strong: and hast gotten gold an silver into thy treasures.",
+        "By the greatness of thy wisdom, and by thy traffic thou hast increased thy strength: and thy heart is lifted up with thy strength.",
+        "Therefore, thus saith the Lord God: Because thy heart is lifted up as the heart of God:",
+        "Therefore behold, I will bring upon thee strangers: the strongest of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy beauty.",
+        "They shall kill thee, and bring thee down: and thou shalt die the death of them that are slain in the heart of the sea.",
+        "Wilt thou yet say before them that slay thee: I am God; whereas thou art a man, and not God, in the hand of them that slay thee?",
+        "Thou shalt die the death of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 28:1-10",
+      "reference": "Ezekiel 28:1-10",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then Jesus said to his disciples: Amen, I say to you, that a rich man shall hardly enter into the kingdom of heaven.",
+        "And again I say to you: It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of heaven.",
+        "And when they had heard this, the disciples wondered much, saying: Who then can be saved?",
+        "And Jesus beholding, said to them: With men this is impossible: but with God all things are possible.",
+        "Then Peter answering, said to him: Behold we have left all things, and have followed thee: what therefore shall we have?",
+        "And Jesus said to them: Amen I say to you, that you who have followed me, in the regeneration, when the Son of man shall sit on the seat of his majesty, you also shall sit on twelve seats judging the twelve tribes of Israel.",
+        "And every one that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands for my name's sake, shall receive an hundredfold, and shall possess life everlasting.",
+        "And many that are first, shall be last: and the last shall be first."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 19:23-30",
+      "reference": "Matthew 19:23-30",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 20th week of Ordinary Time",
+        "key": "tuesdayOfThe20thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/18.html",
+    "title": "Gospel and Word of the Day - 18 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-18"
+}
