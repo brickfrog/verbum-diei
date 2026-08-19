@@ -1,0 +1,305 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c1a7d2e95cffe2d54e67624d1305d33244bc6e2f80f1d43e3d2e3bc0314a1b07",
+        "inputSha256": "60d24e3aedbd940360f9adf1cc65aa3a5d55501864353da581cf3f7ac63f31e5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ab4162aca51d1a0800cb5c5c4642d3d05669699497213631144fb44aba5ab391",
+        "inputSha256": "bddbdd908a09c88836edb475306fd5ad47d19c1540243f9173c0ff34c1c81f51",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c2fc4427501ad0fa793fad97c83e0f9379bdd831d695837869819ae9699e4197",
+        "inputSha256": "18161234c592cfa26b900618ccc3388a5639c4896f36afb178e27259ec872150",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-19T02:31:32.865Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s attack on shepherds reads like a diagnosis of institutional narcissism: leaders convert care into consumption, then blame the scattered for being scattered. The divine “I myself will seek” is the psyche’s immune response when the superego is captured by status—an inner authority reasserting protection for the abandoned parts.\n\nThe vineyard wage parable targets envy as a moral hallucination: the first workers can’t enjoy a fair contract because comparison has become their god. The “evil eye” is the corrosive gaze that turns another’s gift into one’s own injury; goodness offends because it refuses to be rationed by resentment.\n\nSpeculation: the shepherd motif echoes the Hindu ideal of raja-dharma in the Mahabharata, where kings exist to protect the vulnerable and are judged by the condition of the least; it also resembles Confucian ren, where rule is legitimized by humane attention rather than extraction. The equal wage has kinship with the Buddhist critique of comparative craving in the Dhammapada and with Stoic indifference to externals: the wound is not the coin but the measuring. In Islamic Sufism, divine generosity that outstrips human accounting is a recurring scandal to the calculating self; grace breaks the ledger to heal the heart.",
+    "excursus": "Ezekiel isn’t comforting the flock; he’s staging a coup. The “shepherds” are condemned less for cruelty than for appetite, for treating bodies as a pantry: milk, wool, fat. The horror is that this is what leadership secretly is when it stops pretending. God’s promise to “seek” the sheep is not tenderness but repossession, a jealous retrieval of property, a hand closing around what others have been chewing.\n\nMatthew sharpens the dread. The vineyard owner is not fair; he is sovereign, and he enjoys the sting his generosity causes. He hires late not because he needs help but because he wants to expose the early workers’ hunger to be preferred. The penny becomes a mirror: you didn’t want bread, you wanted rank. The kingdom here is a workplace where desire is disciplined by humiliation, and the only ones who can bear the wage are those with nothing left to defend.\n\nPut together, the texts say: you will be fed, but you will not be flattered. The predators are punished, yes, but the rescued are also stripped of their claims. Salvation arrives like an audit and a pay envelope—enough to live, not enough to feel superior.",
+    "synthesis": "God judges shepherds who consume the flock and reserves to himself the right to restore and reward by sheer goodness. In the kingdom, covenant is kept and envy is condemned because grace is not a wage scale.",
+    "gospel": [
+      {
+        "text": "The householder’s repeated going-out makes the parable about initiative: the kingdom advances by summons, not by the labor market’s merit calculus.",
+        "lines": [
+          1,
+          3,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The dispute exposes a rival standard of righteousness: the first workers appeal to proportionality; the master appeals to fidelity to agreement and the right to gratuitous excess.",
+        "lines": [
+          11,
+          13,
+          14
+        ]
+      },
+      {
+        "text": "The closing maxim is not a moral about effort but an eschatological reversal: rank is unstable when election, not seniority, is the final sorter.",
+        "lines": [
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle is juridical: repeated summons (“hear the word”) brackets the case, making leadership accountable to a word that precedes and judges it.",
+        "lines": [
+          1,
+          7,
+          9
+        ]
+      },
+      {
+        "text": "The consequence of failed governance is cosmological dispersion—mountains, hills, face of the earth—showing that neglect is not private sin but public unraveling.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The pivot is the divine assumption of the role that was delegated: God’s visitation is not consolation but intervention that reconstitutes authority.",
+        "lines": [
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Indictment begins at the top: “shepherds” named as rulers; office is the target, not temperament.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Milk, wool, fat: the flock reduced to revenue streams.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A litany of neglected verbs—strengthen, heal, bind, bring back, seek—then the real method: “rigour… high hand.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God turns predator on predators: the flock is taken “from their mouth.”",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The wage is fixed by covenant, not by comparison.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Payment order is a deliberate provocation: last-to-first manufactures the crisis.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Complaint is framed as heat and burden; envy dresses as justice.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two axioms collide: divine freedom (“lawful”) and divine goodness (“I am good”); the “evil eye” is the interpreter.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared unseen goods for those who love you, pour the tenderness of your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your holy covenant, consecrated by the new sacrament of the Blood of the Lamb, that your people may obtain forgiveness of their sins and a constant increase of salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your mercy, and since you fill the hungry with heavenly gifts, come to the aid of our need with the abundance of your riches. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest through the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the word of the Lord came to me, it saying:",
+        "Son of man, prophesy concerning the shepherds of Israel: prophesy, and say to the shepherds: Thus saith the Lord God: Woe to the shepherds of Israel, that fed themselves: should not the flocks be fed by the shepherds? Shepherds... That is, princes, magistrates, chief priests, and scribes.",
+        "You ate the milk, and you clothed yourselves with the wool, and you killed that which was fat: but my flock you did not feed.",
+        "The weak you have not strengthened, and that which was sick you have not healed, that which was broken you have not bound up, and that which was driven away you have not brought again, neither have you sought that which was lost: but you ruled over them with rigour, and with a high hand.",
+        "And my sheep were scattered, because there was no shepherd and they became the prey of all the beasts of the field, and were scattered.",
+        "My sheep have wandered in every mountain, and in every high hill: and my flocks were scattered upon the face of the earth, and there was none that sought them, there was none, I say, that sought them.",
+        "Therefore, ye shepherds, hear the word of the Lord:",
+        "As I live, saith the Lord God, forasmuch as my flocks have been made a spoil, and my sheep are become a prey to all the beasts of the field, because there was no shepherd: for my shepherds did not seek after my flock, but the shepherds fed themselves, and fed not my flocks:",
+        "Therefore, ye shepherds, hear the word of the Lord:",
+        "Thus saith the Lord God: Behold I myself come upon the shepherds, I will require my flock at their hand, and I will cause them to cease from feeding the flock any more, neither shall the shepherds feed themselves any more: and I will deliver my flock from their mouth, and it shall no more be meat for them.",
+        "For thus saith the Lord God: Behold I myself will seek my sheep, and will visit them."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 34:1-11",
+      "reference": "Ezekiel 34:1-11",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The kingdom of heaven is like to an householder, who went out early in the morning to hire labourers into his vineyard.",
+        "And having agreed with the labourers for a penny a day, he sent them into his vineyard.",
+        "And going out about the third hour, he saw others standing in the marketplace idle.",
+        "And he said to them: Go you also into my vineyard, and I will give you what shall be just.",
+        "And they went their way. And again he went out about the sixth and the ninth hour, and did in like manner.",
+        "But about the eleventh hour he went out and found others standing, and he saith to them: Why stand you here all the day idle?",
+        "They say to him: Because no man hath hired us. He saith to them: Go ye also into my vineyard.",
+        "And when evening was come, the lord of the vineyard saith to his steward: Call the labourers and pay them their hire, beginning from the last even to the first.",
+        "When therefore they were come that came about the eleventh hour, they received every man a penny.",
+        "But when the first also came, they thought that they should receive more: And they also received every man a penny.",
+        "And receiving it they murmured against the master of the house,",
+        "Saying: These last have worked but one hour, and thou hast made them equal to us, that have borne the burden of the day and the heats.",
+        "But he answering said to one of them: friend, I do thee no wrong: didst thou not agree with me for a penny?",
+        "Take what is thine, and go thy way: I will also give to this last even as to thee.",
+        "Or, is it not lawful for me to do what I will? Is thy eye evil, because I am good? What I will... Viz., with my own, and in matters that depend on my own bounty.",
+        "So shall the last be first and the first last. For many are called but few chosen."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 20:1-16",
+      "reference": "Matthew 20:1-16",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint John Eudes, Priest",
+        "key": "saintJohnEudesPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/19.html",
+    "title": "Gospel and Word of the Day - 19 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/19.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-19"
+}
