@@ -1,0 +1,300 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "baaf27f439d15e36812f46b2750eaa802ac0b78c7e07b6f7c504610012d4410d",
+        "inputSha256": "fe03a76ac9afaee11822dbb3f97550fe01f5c517e6625dd20600ff7f5181a1e0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "67770c5c3fd051968b48af0f50fb7b938793b18eed6ad54bc5c9bb75214180d4",
+        "inputSha256": "093f3abb6f89b64ff2daa2d464a654bcea56db421361481aefc7d1cd4956d03a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b8bb8c6a47001ce4ef26a6b709a903fbac1093c9db053a0408ff549ac166ef95",
+        "inputSha256": "a6a6f6374cdbd92281083b3bb240fbc7c4897831ad7c4f8c6fda8726fc945729",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-20T02:30:38.093Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s clean water and new heart reads like an alchemical washing that is really a re-formation of desire: the ego’s hard carapace softens so conduct can follow without constant coercion. That resembles Stoic oikeiōsis, where the self is re-centered so virtue becomes second nature, and also the Bhagavad Gita’s shift from restless attachment to steadied action; both imagine an interior reordering that makes obedience feel like freedom.\n\nMatthew’s banquet turns on a psychological insult: refusing the invitation is refusing relation, and the violence against messengers is the psyche attacking the very summons that could reorganize it. The wedding garment is not etiquette but consent to transformation; showing up unchanged is a covert rejection. That parallels Zen’s insistence on “entering the gate” empty-handed, and Sufi adab as the inner clothing of presence; speculation: the darkness is what it feels like when the self refuses the new heart yet cannot unhear the call.",
+    "excursus": "Ezekiel’s “new heart” is not therapy; it’s a takeover. The problem is not your pain but your embarrassment: the Name has been “profaned,” and you are the stage on which it must be repaired. Clean water is less a bath than an erasure. Idols are not argued with, they are rinsed out. The stony heart is not healed; it is removed. Desire is rewritten at the root so obedience feels like your own impulse. You come home, yes, but as a reclaimed instrument, a body made legible again.\n\nMatthew’s banquet makes the same move with sharper teeth. The invitation is generous until it is refused; then the king’s desire for a full hall turns punitive, and the city burns as a kind of wounded pride. The highways guests are not “the included”; they are the available, swept in to satisfy the feast’s need to happen. Even inside, the terror remains: one man fails the costume requirement and is bound like contraband. The garment is the new heart in fabric form, the demanded self that proves you’ve been remade. The dread is that the door is wide but the gaze is exacting, and the desire offered is inseparable from domination: come celebrate, but only as the person the king can recognize.",
+    "synthesis": "God sanctifies his Name by creating a cleansed, obedient people through his Spirit. The kingdom’s invitation is wide, but only those conformed to the king’s provision are finally admitted.",
+    "gospel": [
+      {
+        "text": "The parable runs in two phases: an initial invited class refuses, then the invitation is reissued outward, yet the final word is not inclusion but election. The narrative insists that access is real and broad, while final standing is adjudicated by the king.",
+        "lines": [
+          3,
+          4,
+          8,
+          9,
+          14
+        ]
+      },
+      {
+        "text": "Violence against messengers and the silent guest bracket the same point: the king’s authority governs both rejection and improper acceptance. The feast is not a neutral space; it is the king’s order made visible.",
+        "lines": [
+          6,
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The sequence is geopolitical restoration followed by covenant formula: return to land culminates in reconstituted belonging. The movement is from dispersion to a re-made people, with God’s self-identification as the terminus.",
+        "lines": [
+          2,
+          6
+        ]
+      },
+      {
+        "text": "The logic is doxological: God acts to vindicate his public reputation among the nations; Israel’s renewal functions as evidence in a contested world.",
+        "lines": [
+          1
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The Name is the stake; Israel is the theater; the nations are the audience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cleansing is not cosmetic: filth and idols are treated as one contamination.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Replacement, not repair: stone removed, flesh given—identity by transplant.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commandment-keeping is caused, not merely commanded; obedience as effect.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingdom framed as wedding: joy with a throne behind it.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal is banal: farm, merchandise—ordinary life as contempt.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Invitation spurned becomes judgment; the feast has an edge.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Indiscriminate gathering: ‘bad and good’—the net is wide, the sorting later.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The king inspects; presence at the feast is not the final criterion.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "‘Friend’ is forensic, not tender; the question exposes presumption.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hands and feet bound: exclusion is total; darkness is the anti-banquet.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you made Saint Bernard, abbot, aflame with zeal for your house, a burning and shining lamp in the midst of your Church; grant us, through his intercession, to share in his fervent spirit and to walk always as children of the light. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you made Saint Bernard, abbot, aflame with zeal for your house, a burning and shining lamp in the midst of your Church; grant us, through his intercession, to share in his fervent spirit and to walk always as children of the light. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, you made Saint Bernard, abbot, aflame with zeal for your house, a burning and shining lamp in the midst of your Church; grant us, through his intercession, to share in his fervent spirit and to walk always as children of the light. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I will sanctify my great name, which was profaned among the Gentiles, which you have profaned in the midst of them: that the Gentiles may know that I am the Lord, saith the Lord of hosts, when I shall be sanctified in you before their eyes.",
+        "For I will take you from among the Gentiles, and will gather you together out of all the countries, and will bring you into your own land.",
+        "And I will pour upon you clean water, and you shall be cleansed from all your filthiness, and I will cleanse you from all your idols.",
+        "And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh.",
+        "And I will put my spirit in the midst of you: and I will cause you to walk in my commandments, and to keep my judgments, and do them.",
+        "And you shall dwell in the land which I gave to your fathers, and you shall be my people, and I will be your God."
+      ],
+      "lineRefs": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 36:23-28",
+      "reference": "Ezekiel 36:23-28",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus answering, spoke again in parables to them, saying:",
+        "The kingdom of heaven is likened to a king who made a marriage for his son.",
+        "And he sent his servants to call them that were invited to the marriage: and they would not come.",
+        "Again he sent other servants, saying: Tell them that were invited, Behold, I have prepared my dinner: my beeves and fatlings are killed, and all things are ready. Come ye to the marriage.",
+        "But they neglected and went their ways, one to his farm and another to his merchandise.",
+        "And the rest laid hands on his servants and, having treated them contumeliously, put them to death.",
+        "But when the king had heard of it, he was angry: and sending his armies, he destroyed those murderers and burnt their city.",
+        "Then he saith to his servants: The marriage indeed is ready; but they that were invited were not worthy.",
+        "Go ye therefore into the highways; and as many as you shall find, call to the marriage.",
+        "And his servants going forth into the ways, gathered together all that they found, both bad and good: and the marriage was filled with guests.",
+        "And the king went in to see the guests: and he saw there a man who had not on a wedding garment.",
+        "And he saith to him: Friend, how camest thou in hither not having on a wedding garment? But he was silent.",
+        "Then the king said to the waiters: Bind his hands and feet, and cast him into the exterior darkness. There shall be weeping and gnashing of teeth.",
+        "For many are called, but few are chosen."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 22:1-14",
+      "reference": "Matthew 22:1-14",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Bernard of Clairvaux, Abbot and Doctor of the Church",
+        "key": "saintBernardOfClairvauxAbbotAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/20.html",
+    "title": "Gospel and Word of the Day - 20 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-20"
+}
