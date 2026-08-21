@@ -1,0 +1,307 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "15ddc32d6513b5e9accb31d62975ba97c106f69503a96884bc598a32fb3f83fc",
+        "inputSha256": "a0563a25d79953f8daf0164a304d02794bdd0fbd34877d7e98bd069d90f9d1e5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a32a9feb2efc263826d17e76c0e5765d86464ddc9dc95ad2286a673784340f15",
+        "inputSha256": "dc2f11c3c6f97c741d73a705e8a5705d1b696e6d3ca4e4ff502248410621bb1d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c1138cf7deb756a0a0b460890e59786bdc6ad3278a134d206a7a1854a56f465f",
+        "inputSha256": "f23c2b410b4c33c747e67df57d9fa83835690022fbad33c339db5199c6f1d771",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-21T02:36:47.980Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s valley reads like trauma work: the psyche is a field of disarticulated parts, “exceeding dry,” and speech is the first intervention that makes scattered fragments find their joints. The staged sequence matters: structure returns before breath, body before animating meaning. That is how recovery often feels—function without vitality, then, if it comes, a second arrival that turns mere reconstruction into agency. The “army” is not militarism so much as coherence: a self able to stand.\n\nThe “four winds” echoes prana in Yoga and qi in Daoist practice: life as a circulating breath that is not owned but received, gathered, invited. Speculation: the prophet’s command to the breath resembles mantra and dharani—language used less to inform than to tune attention until aliveness re-enters.\n\nThe double command to love reads like a psychological integration principle: devotion as the vertical axis that orders desire, and neighbor-love as the horizontal test that prevents spiritual narcissism. In Confucian ren and Buddhist metta, care is trained outward until it becomes a stable disposition; here it is framed as the load-bearing beam of the whole moral architecture. Speculation: “as thyself” assumes a self worth befriending, making self-contempt a moral problem, not a private mood.\n\nTogether they suggest one movement: breath returns to the reassembled self, and the reanimated self is measured by its capacity to love without splitting—no holiness that bypasses the neighbor, no ethics that forgets the source of breath.",
+    "excursus": "Ezekiel is walked through a field of the already-finished. The bones aren’t tragic; they’re clean, bleached, beyond sentiment. God doesn’t comfort him with meaning. God asks for an opinion: do you think this can live. Ezekiel answers like a survivor: you know, not me. Then the real violence begins, not with death but with reconstruction. Sinew, flesh, skin: a forced intimacy with matter, bodies assembled by command, a miracle that sounds like machinery. The first resurrection is a horror—perfectly formed, perfectly empty. Life arrives only when the wind is ordered to invade them. They stand as an “army,” not a family. Hope returns as mobilization.\n\nRead beside that, “love” stops sounding like warmth and starts sounding like total claim. Whole heart, whole soul, whole mind: nothing left unoccupied. And “neighbor as yourself” is not tenderness; it’s the rule that makes you responsible for the other the way you can’t escape yourself. The law hangs on this because it’s a leash disguised as desire. The dread is that you will be made alive for a purpose you didn’t choose, and then told the name of that purpose is love.",
+    "synthesis": "God restores the dead by his word and Spirit, and the restored life is ordered toward total love of God that necessarily issues in love of neighbour.",
+    "gospel": [
+      {
+        "text": "After a public defeat of one faction, another tests him with hierarchy: which command governs the rest. Jesus answers by naming a first principle rather than a casuistic rule, shifting the debate from legal ranking to the source of obedience.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The two loves function as a single architecture: love of God defines the orientation of the whole person; love of neighbour is its necessary social extension. The claim that everything “depends” on them makes love not an add-on virtue but the load-bearing structure of revelation.",
+        "lines": [
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The sequence is deliberate: command precedes capacity. God speaks life into what cannot respond, then builds form, then grants the animating principle, and only then yields recognition (“you shall know”). Knowledge of God is the product of enacted restoration, not its precondition.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The vision is interpreted as national death and return: despair (“cut off”) is answered by exodus-from-graves and settlement. The end is covenantal stability—rest on the land—grounded in divine speech-act (“spoken, and done”).",
+        "lines": [
+          11,
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Hand… upon me”: coercive grace; the prophet is carried, not consulted.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A guided tour of ruin; God makes him look until denial is exhausted.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The only safe answer: ignorance that yields to omniscience.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Addressing bones is liturgy at the edge of absurdity.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection begins as sound: noise before life, order before breath.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Anatomy without spirit: a corpse can be well-assembled.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Four winds”: breath as cosmic summons, not private vitality.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Not merely alive—militarized: life reorganized into an “army.”",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A question as trap; theology used as leverage.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Totalizing love: heart/soul/mind leaves no unclaimed interior.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Neighbour-love measured by self-love: the standard is already in you.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Dependeth”: law and prophets hang like a door on two hinges.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who, to defend the Catholic faith and restore all things in Christ, filled Pope Saint Pius the Tenth with divine wisdom and apostolic strength, grant that, following his example and his teaching, we may attain the eternal reward. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who, to defend the Catholic faith and to restore all things in Christ, filled Pope Saint Pius the Tenth with divine wisdom and apostolic strength, grant that, following his example and his teaching, we may attain the eternal reward. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the Cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who, to defend the Catholic faith and to restore all things in Christ, filled Pope Saint Pius the Tenth with divine wisdom and apostolic strength, grant that, following his example and teaching, we may attain the eternal reward. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The hand of the Lord was upon me, and brought me forth in the spirit of the Lord: and set me down in the midst of a plain that was full of bones.",
+        "And he led me about through them on every side: now they were very many upon the face of the plain, and they were exceeding dry.",
+        "And he said to me: Son of man, dost thou think these bones shall live and I answered: O Lord God, thou knowest.",
+        "And he said to me: Prophesy concerning these bones; and say to them: Ye dry bones, hear the word of the Lord.",
+        "Thus saith the Lord God to these bones: Behold, I will send spirit into you, and you shall live. Spirit... That is, soul, life, and breath.",
+        "And I will lay sinews upon you, and will cause flesh to grow over you, and will cover you with skin: and I will give you spirit and you shall live, and you shall know that I am the Lord.",
+        "And I prophesied as he had commanded me: and as I prophesied there was a noise, and behold a commotion: and the bones came together, each one, its joint.",
+        "And I saw, and behold the sinews, and the flesh came up upon them: and the skin was stretched out over them, but there was no spirit in them.",
+        "And he said to me: Prophesy to the spirit, prophesy, O son of man, and say to the spirit: Thus saith the Lord God: Come, spirit, from the four winds, and blow upon these slain, and let them live again.",
+        "And I prophesied as he had commanded me: and the spirit came into them, and they lived: and they stood up upon their feet, an exceeding great army.",
+        "And he said to me: Son of man: All these bones are the house of Israel: they say: Our bones are dried up, and our hope is lost, and we are cut off.",
+        "Therefore prophesy, and say to them: Thus saith the Lord God: Behold I will open your graves, and will bring you out of your sepulchres, O my people: and will bring you into the land of Israel.",
+        "And you shall know that I am the Lord, when I shall have opened your sepulchres, and shall have brought you out of your graves, O my people:",
+        "And shall have put my spirit in you, and you shall live, and I shall make you rest upon your own land: and you shall know that I the Lord have spoken, and done it, saith the Lord God:"
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 37:1-14",
+      "reference": "Ezekiel 37:1-14",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But the Pharisees, hearing that he had silenced the Sadducees, came together.",
+        "And one of them, a doctor of the law, asked him, tempting him:",
+        "Master, which is the great commandment in the law?",
+        "Jesus said to him: Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with thy whole mind.",
+        "This is the greatest and the first commandment.",
+        "And the second is like to this: Thou shalt love thy neighbour as thyself.",
+        "On these two commandments dependeth the whole law and the prophets."
+      ],
+      "lineRefs": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 22:34-40",
+      "reference": "Matthew 22:34-40",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Pius X, Pope",
+        "key": "saintPiusXPope"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/21.html",
+    "title": "Gospel and Word of the Day - 21 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-21"
+}
