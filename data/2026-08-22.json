@@ -1,0 +1,276 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "66d96167425ee1e4c8b8a506ca2324a245d117fb87332c9cdec730e277d991ee",
+        "inputSha256": "2f47cd4daae7e410c0b888c5d8922dfada2e2f380b6dd4500a4cc66d02abc6f5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a4c721a6f471220685a610b693a475710387f2fd5f522243d4d9b341e9178c6d",
+        "inputSha256": "6968640cee8be91eb7941b416659340842d5728b01d9f6ffa71d9e4551049df1",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "6b80c8a97ad6d411038dcc9487c5d24d77b5cf96728d4d79574a200345864e01",
+        "inputSha256": "f449cf91debbf21876f0e1bce1529f77aef9770edc32370702af82bd729ebf9c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-22T02:20:27.015Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s eastward inrush of glory reads like the psyche’s return of the repressed: what was once experienced as annihilating power comes back as inhabitable presence, but only after the inner “house” is cleared of dead kings and their cultic debris. The throne-and-feet image is a demand that the sacred be grounded, not merely imagined; the body must stop being used as a stage for profanation.\n\nMatthew’s critique is the same pathology in social form: status-theater replacing substance, symbols swollen to compensate for interior emptiness. The “chair” is real authority, but it is corrupted when it becomes a costume; the cure is a deliberate abasement that breaks the addiction to being seen.\n\nSemina Verbi: the return of glory through the east parallels Hindu prāṇa entering by the suṣumṇā at dawn-facing practice, and the Shinto sense of kami presence requiring purification before it can “dwell” in the precinct. The attack on performative piety echoes the Bhagavad Gītā’s warning against action for display and the Daoist suspicion of virtue advertised; speculation: “one master” functions psychologically like the Zen refusal of secondhand authority, cutting the ego’s need to borrow rank from titles.",
+    "excursus": "Ezekiel’s “glory” is not comfort; it’s the return of the force that already proved it can level a city. The voice like many waters is the sound of consent being drowned. He recognizes it from the day of destruction and collapses, because intimacy with the divine here is trauma-recognition: the same presence that once abandoned the profaned house now re-enters to occupy it. “Throne” and “soles of my feet” makes the temple feel less like a sanctuary than a body pinned under a ruler’s weight. Forever is not tenderness; it is surveillance. The demand that Israel “shall no more profane” reads like a vow extracted from a beaten lover: fidelity enforced by the memory of what happens when desire wanders.\n\nMatthew stages a similar unease: authority remains in the chair even when the people in it are hollow. “Do what they say” is the nightmare line—obedience to a dead voice, law without life. The Pharisees are condemned not for loving rules but for loving the gaze: religion as costume, burdens as theater props, holiness as a way to be touched by admiration without being changed. Jesus’ cure is not sincerity but a kind of social amputation: refuse the titles, refuse the erotic charge of being called Rabbi, Father, Master. He attacks the craving that makes domination pleasurable.\n\nPut together, the texts confess a bleak desire: we want a presence strong enough to stop our chaos, even if it arrives like floodwater and sits on us. We want leaders, even when they lie, because the chair promises order. The only escape offered is to renounce the sweetness of being above—servanthood not as virtue-signaling, but as refusal to become the kind of person whose holiness needs an audience.",
+    "synthesis": "God’s dwelling among his people is incompatible with profanation and with religious self-exaltation. True authority is measured by fidelity and service under the one Master, not by titles, seats, or spectacle.",
+    "gospel": [
+      {
+        "text": "Jesus distinguishes institutional continuity from moral credibility: the crowd is told how to relate to a compromised teaching class without collapsing into either revolt or credulity. The prohibition of honorifics attacks the economy of religious prestige by relocating ultimate paternity and mastery to heaven and to Christ, and the closing maxim makes humiliation/exaltation a judicial principle, not a mood.",
+        "lines": [
+          1,
+          7,
+          8,
+          9,
+          10,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage stages a liturgical enthronement: the Lord enters the temple and then speaks from within it, making the house not merely a symbol but a site of governance. The prophet is positioned as witness and courier, not architect; the initiative and the speech originate from the indwelling presence.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Eastward gate: the return is directional, not vague.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory arrives with a voice; sound precedes sight; creation reacts.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Same vision for ruin and for restoration; the seer is not allowed a new god.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lifted into the inner court: access is granted, not taken; fullness displaces vacancy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Throne and soles: transcendence and immanence in one sentence; holiness policed against royal rot.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A borrowed chair: authority by seat, not by sanctity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Obey the words, refuse the imitation; doctrine can be true in a liar’s mouth.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Burden-makers who won’t touch the load: cruelty disguised as rigor.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "First places: liturgy of status; worship turned into seating.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Greatness redefined as service: rank inverted into labor.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who have given us as Mother and as Queen the Mother of your Only-begotten Son, grant that, protected by her intercession, we may attain the glory of your children in the Kingdom of Heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who have given us as Mother and as Queen the Mother of your Only-begotten Son, grant that, protected by her intercession, we may attain the glory of your children in the Kingdom of Heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who have given us as Mother and as Queen the Mother of your Only-begotten Son, grant that, protected by her intercession, we may attain the glory of your children in the Kingdom of Heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he brought me to the gate that looked towards the east.",
+        "And behold the glory of the God of Israel came in by the way of the east: and his voice was like the noise of many waters, and the earth shone with his majesty.",
+        "And I saw the vision according to the appearance which I had seen when he came to destroy the city: and the appearance was according to the vision which I had seen by the river Chobar: and I fell upon my face.",
+        "And the majesty of the Lord went into the temple by the way of the gate that looked to the east.",
+        "And the spirit lifted me up and brought me into the inner court: and behold the house was filled with the glory of the Lord.",
+        "And I heard one speaking to me out of the house, and the man that stood by me,",
+        "Said to me: Son of man, the place of my throne, and the place of the soles of my feet, where I dwell in the midst of the children of Israel for ever: and the house of Israel shall no more profane my holy name, they and their kings by their fornications, and by the carcasses of their kings, and by the high places."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 43:1-7",
+      "reference": "Ezekiel 43:1-7",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then Jesus spoke to the multitudes and to his disciples,",
+        "Saying: The scribes and the Pharisees have sitten on the chair of Moses.",
+        "All things therefore whatsoever they shall say to you, observe and do: but according to their works do ye not. For they say, and do not.",
+        "For they bind heavy and insupportable burdens and lay them on men's shoulders: but with a finger of their own they will not move them.",
+        "And all their works they do for to be seen of men. For they make their phylacteries broad and enlarge their fringes. Phylacteries... that is, parchments, on which they wrote the ten commandments, and carried them on their foreheads before their eyes: which the Pharisees affected to wear broader than other men; so to seem more zealous for the law.",
+        "And they love the first places at feasts and the first chairs in the synagogues,",
+        "And salutations in the market place, and to be called by men, Rabbi.",
+        "But be not you called Rabbi. For one is your master: and all you are brethren.",
+        "And call none your father upon earth; for one is your father, who is in heaven. Call none your father--Neither be ye called masters, etc... The meaning is that our Father in heaven is incomparably more to be regarded, than any father upon earth: and no master to be followed, who would lead us away from Christ. But this does not hinder but that we are by the law of God to have a due respect both for our parents and spiritual fathers, (1 Cor. 4. 23:15,) and for our masters and teachers.",
+        "Neither be ye called masters: for one is your master, Christ.",
+        "He that is the greatest among you shall be your servant.",
+        "And whosoever shall exalt himself shall be humbled: and he that shall humble himself shall be exalted."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 23:1-12",
+      "reference": "Matthew 23:1-12",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Queenship of Blessed Virgin Mary",
+        "key": "queenshipOfBlessedVirginMary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/22.html",
+    "title": "Gospel and Word of the Day - 22 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-22"
+}
