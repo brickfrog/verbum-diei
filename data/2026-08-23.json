@@ -1,0 +1,280 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8cd41ba73031d729aa7bbd9b91eb56e4f76fa44ae1701b00597e02b867e1afcf",
+        "inputSha256": "f296da7f4e3d8217087c8968ac87caa80a61da95b1ae7a24bdc76df5e30e4fe3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b70ad85dffc735dfd82ce1f3d3b55bf7ed1dfdac72efed56c226bbe470c41ec5",
+        "inputSha256": "e3ac3744701aab4b32b61d7e04e6f1131604f239b7c46ecc96ab4b1c8a48ac5e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3ebf73a57139312a6f6d729d29004726ef810ce110367dfbe9e5a7a94b3822c6",
+        "inputSha256": "9dd1fa1347fd30b72f813ea0907fe9d61138ee71d45ff0a871b726599f73ec05",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-23T02:36:54.786Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Authority here is a psychological technology: a transfer of office that makes a person into a living hinge between chaos and order. The “key on the shoulder” is not a trinket but a burdened sign that the community’s permeability—who gets in, what gets kept out—now runs through one psyche trained to hold the threshold without collapsing into vanity. The peg in a sure place is the same inner demand: become the fixed point others can hang their fears and hopes on without the whole wall tearing loose.\n\nThe naming of Peter turns recognition into structure. A private insight is converted into public architecture: identity spoken aloud becomes a load-bearing role. “Rock” is less compliment than constraint; it binds him to steadiness when his own temperament would prefer flight. The “gates” image frames evil as defensive, not creative: darkness fortifies itself, but it cannot generate a world; it can only resist one. The promise is the wager that a community anchored in a confessed center can outlast the cycles of panic that normally dissolve groups.\n\nSemina Verbi: In Daoism, the sage as the pivot of the ten thousand things resembles the key-bearer as a quiet regulator of passage; speculative, but the shared intuition is that stable non-reactivity governs better than force. In Hindu dharma, the king as upholder of order echoes the shoulder-borne key: office as weight, not privilege. In Tibetan Buddhism, the lama as “holder of the lineage” parallels the peg in a sure place: continuity lodged in a person so transmission doesn’t fray. In Confucianism, rectification of names matches the moment a name (“Rock”) becomes destiny: speech that makes social reality rather than merely describing it.",
+    "excursus": "Isaiah is a firing. The holy doesn’t arrive as comfort; it arrives as removal. Office is a costume that can be stripped, and the text lingers on the intimacy of that stripping: station, robe, girdle, power—everything that made a man legible. Authority is not earned; it is reassigned.\n\nEliakim is not praised for virtue. He is installed as a replacement father, a human prosthesis for a city that wants to be held. The key on the shoulder is a weight dressed up as honor. To open and shut absolutely is to become the bottleneck where everyone’s hunger queues.\n\nMatthew repeats the same mechanism under a warmer light. Jesus asks for gossip, then for desire: who do you say I am? Peter’s answer is not a theorem; it’s a grasp, a bid to fix Jesus in a name. Jesus rewards the bid by fastening Peter into place: rock, keys, binding, loosing. It reads like promotion, but it’s also entrapment—being made the point of failure the world will hammer.\n\nThe dread is in the promise of invincibility. “The gates of hell shall not prevail” doesn’t soothe; it recruits. If nothing can break the structure, then the structure can break you and still call it victory. The final command to silence exposes the secret: power depends on managing speech. The church is built not on purity but on a man pinned in public, asked to hold an unbearable door.",
+    "synthesis": "God constitutes and removes stewards by his own call, delegating real jurisdiction symbolized by keys. Christ founds an indefectible Church on a revealed confession and invests a visible office whose acts bind and loose with heavenly ratification.",
+    "gospel": [
+      {
+        "text": "The scene stages competing christologies—prophet among prophets versus unique Son—so the confession functions as a boundary marker that separates the Church’s speech from the crowd’s approximations.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The promise is institutional: a built Church with indefectibility and a delegated authority that adjudicates bonds; the narrative ties confession to office, so doctrine and governance are welded rather than sequenced.",
+        "lines": [
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The replacement is initiated by divine summons, not by election or inheritance; the new steward is named as “servant,” so the elevation is simultaneously a demotion into obedience.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The text frames leadership as vicarious: the man becomes a mediating fixture for a house larger than himself, and his “glory” is derivative—attached to a father’s house, not self-originating.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Office is not property; it can be stripped.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Robe, girdle, power: authority is wearable, transferable.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Key on the shoulder: governance as burden, not ornament.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Open/shut in absolutes: a human act made irreversible.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peg in a sure place: stability by fixation; glory by being driven in.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question is public rumor before private confession.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The pivot: from “men say” to “you say.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation bypasses lineage and competence: “not flesh and blood.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rock is not metaphorical comfort; it is load-bearing.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Keys plus binding/loosing: jurisdiction that reaches heaven.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "After enthronement, silence: authority without publicity.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the changes and chances of this world, our hearts may be steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may be steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in a single desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may remain steadfast in true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who unite the hearts of your faithful in one desire, inspire your people with love for your commandments and hope in your promises, so that, amid the vicissitudes of this world, our hearts may be steadfast in true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I will drive thee out from thy station, and depose thee from thy ministry.",
+        "And it shall come to pass in that day, that I will call my servant Eliacim the son of Helcias,",
+        "And I will clothe him with thy robe, and will strengthen him with thy girdle, and will give thy power into his hand: and he shall be as a father to the inhabitants of Jerusalem, and to the house of Juda.",
+        "And I will lay the key of the house of David upon his shoulder: and he shall open, and none shall shut: and he shall shut, and none shall open.",
+        "And I will fasten him as a peg in a sure place, and he shall be for a throne of glory to the house of his father."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 22:19-23",
+      "reference": "Isaiah 22:19-23",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus came into the quarters of Cesarea Philippi: and he asked his disciples, saying: Whom do men say that the Son of man is?",
+        "But they said: Some John the Baptist, and other some Elias, and others Jeremias, or one of the prophets.",
+        "Jesus saith to them: But whom do you say that I am?",
+        "Simon Peter answered and said: Thou art Christ, the Son of the living God.",
+        "And Jesus answering said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven.",
+        "And I say to thee: That thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it. Thou art Peter, etc... As St. Peter, by divine revelation, here made a solemn profession of his faith of the divinity of Christ; so in recompense of this faith and profession, our Lord here declares to him the dignity to which he is pleased to raise him: viz., that he to whom he had already given the name of Peter, signifying a rock, St. John 1. 42, should be a rock indeed, of invincible strength, for the support of the building of the church; in which building he should be, next to Christ himself, the chief foundation stone, in quality of chief pastor, ruler, and governor; and should have accordingly all fulness of ecclesiastical power, signified by the keys of the kingdom of heaven. Upon this rock, etc... The words of Christ to Peter, spoken in the vulgar language of the Jews which our Lord made use of, were the same as if he had said in English, Thou art a Rock, and upon this rock I will build my church. So that, by the plain course of the words, Peter is here declared to be the rock, upon which the church was to be built: Christ himself being both the principal foundation and founder of the same. Where also note, that Christ, by building his house, that is, his church, upon a rock, has thereby secured it against all storms and floods, like the wise builder, St. Matt. 7. 24, 25. The gates of hell, etc... That is, the powers of darkness, and whatever Satan can do, either by himself, or his agents. For as the church is here likened to a house, or fortress, built on a rock; so the adverse powers are likened to a contrary house or fortress, the gates of which, that is, the whole strength, and all the efforts it can make, will never be able to prevail over the city or church of Christ. By this promise we are fully assured, that neither idolatry, heresy, nor any pernicious error whatsoever shall at any time prevail over the church of Christ.",
+        "And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose on earth, it shall be loosed also in heaven. Loose on earth... The loosing the bands of temporal punishments due to sins, is called an indulgence; the power of which is here granted.",
+        "Then he commanded his disciples, that they should tell no one that he was Jesus the Christ."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 16:13-20",
+      "reference": "Matthew 16:13-20",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "21st Sunday of Ordinary Time",
+        "key": "21stSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/23.html",
+    "title": "Gospel and Word of the Day - 23 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-23"
+}
