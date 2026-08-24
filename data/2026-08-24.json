@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d5fa6a023c63f73c0483e931867c31338eae4d00904bcbf72840672568cb8ad0",
+        "inputSha256": "a4ea943fe61ed42a582473a5dc52f1728da87b220cddca3ec3780a718ef548ff",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f4d16993e55ae3d4d7e74e221d5df4dd292f59034e92f6ad1ce3de2f077833d9",
+        "inputSha256": "2b50eb3ec5164585d9b6cc6ad2e62b0598afb9abbcd69a8b98918ce337ad8f62",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "69f3e3df58d0058b15f84a052997f05144ec4dc9e3398abb061b7e5524da82a6",
+        "inputSha256": "85f78a46f9e414f95ef8d15e49482f46da8ab685699165d68431002cf7f9c796",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-24T02:37:20.544Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The jeweled city descending is the psyche’s image of wholeness arriving as gift, not as project: an ordered self that cannot be engineered, only received when the old plagues have burned through. The wall is not paranoia but boundary; the gates are permeability with guardians, the mature capacity to say yes and no without dissolving. Twelve repeats like a mantra of integration: scattered loyalties gathered into a single architecture.\n\n“Come and see” is Zen’s plain invitation and the Sufi’s taste-before-argument; it refuses ideology and asks for contact. Nathanael’s contempt for Nazareth is the mind’s caste instinct, the quick sorting that protects pride; the cure is encounter. The fig tree reads like the Buddha’s bodhi tree (speculation): a private place of seeing where one is known without performance. The ladder of angels evokes Jacob, but it also resembles the shamanic axis mundi and the yogic sushumna (speculation): a vertical channel where traffic between worlds runs through the human figure. Here the bridge is not a technique but a person, suggesting that transformation is relational, not merely ascetic.",
+    "excursus": "Revelation sells consolation with the hardware of control. The angel who carries plagues also plays matchmaker, and the “bride” turns out to be a city: stone, wall, gates, guards, names engraved like property marks. Glory is not a face but a crystal glare. Desire is redirected from bodies to architecture, from touch to perimeter. After catastrophe, the fantasy is not freedom but a perfect enclosure where everyone is counted and every entrance is watched.\n\nJohn stages the same seduction in miniature. Philip’s “Come and see” is an invitation into a gaze that already owns you. Nathanael’s skepticism is class contempt—Nazareth can’t produce the real thing—until Jesus speaks the intimate detail: I saw you when you thought you were unseen. That is the hook; being known feels like being saved. He surrenders at once, not because of doctrine, but because surveillance has been reframed as tenderness.\n\nThen the promise: heaven opened, angels commuting up and down—not on a ladder, but on a man. The human becomes infrastructure, a living gate. The dread is that the only way to belong is to be transparent, to let yourself be read, named, placed into foundations and tribes and apostolic lists. The desire is to be the city and the fig tree both: sheltered, chosen, and never again alone—at the price of being forever visible.",
+    "synthesis": "God’s final dwelling is a named, ordered communion built on apostolic witness and Israel’s inheritance. Access to heaven is mediated personally by the Son of Man, on whom the traffic of angels depends.",
+    "gospel": [
+      {
+        "text": "The confession escalates from “written in Moses” to “Son of God/King of Israel”: scripture-recognition becomes sovereignty-recognition. The title “son of Joseph” is left behind without being litigated.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Jesus redirects from private proof to public apocalypse: discipleship is trained away from anecdote toward a permanent opening of heaven centered on the Son of Man.",
+        "lines": [
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The city is mapped like a liturgy: four directions, equal gates, ordered entry. Universality is not vagueness; it is symmetry under rule.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Bride and architecture are fused: covenant becomes civic form. Israel’s tribes and the apostles are not competing pedigrees but a single legal identity carried into the eschaton.",
+        "lines": [
+          1,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Plague-angel becomes wedding-guide: judgment repurposed as invitation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "High mountain, downward city: ascent is for seeing descent.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory rendered as mineral optics; God’s light refuses sentiment, chooses hardness.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wall and gates: exclusion and access engineered together; angels as living locks.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Foundations named: the city rests on testimony, not on stone.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Nazareth as scandal of the ordinary; the answer is not argument but exposure: “see.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“No guile” is a verdict before evidence; Jesus reads character as fact.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fig tree: private shade becomes courtroom exhibit; hiddenness is already witnessed.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Belief is graded; the sign is small, the promised vision is structural.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jacob’s ladder relocated: angels travel on a person, not a place.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen, Lord, within us that faith with which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his intercession, your Church may stand before the world as the sacrament of salvation for all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen in us, Lord, that faith with which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his intercession, your Church may stand before the world as a sacrament of salvation for all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen, Lord, within us that faith by which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his prayers, your Church may stand before the world as a sacrament of salvation for all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen, Lord, within us that faith with which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his prayers, your Church may stand before the world as a sacrament of salvation for all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen, Lord, within us that faith with which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his intercession, your Church may stand before the world as a sacrament of salvation for all people. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Strengthen in us, Lord, that faith with which Saint Bartholomew, your Apostle, sincerely gave himself to Christ, and grant that, through his prayers, your Church may appear before the world as the sacrament of salvation for all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And there came one of the seven angels, who had the vials full of the seven last plagues, and spoke with me, saying: Come and I will shew thee the bride, the wife of the Lamb.",
+        "And he took me up in spirit to a great and high mountain: and he shewed me the holy city Jerusalem, coming down out of heaven from God,",
+        "Having the glory of God, and the light thereof was like to a precious stone, as to the jasper stone even as crystal.",
+        "And it had a wall great and high, having twelve gates, and in the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel.",
+        "On the east, three gates: and on the north, three gates: and on the south, three gates: and on the west, three gates.",
+        "And the wall of the city had twelve foundations: And in them, the twelve names of the twelve apostles of the Lamb,"
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 21:9-14",
+      "reference": "Revelation 21:9-14",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Philip findeth Nathanael and saith to him: We have found him of whom Moses, in the law and the prophets did write, Jesus the son of Joseph of Nazareth.",
+        "And Nathanael said to him: Can any thing of good come from Nazareth? Philip saith to him: Come and see.",
+        "Jesus saw Nathanael coming to him and he saith of him: Behold an Israelite indeed, in whom there is no guile.",
+        "Nathanael saith to him: Whence knowest thou me? Jesus answered and said to him: Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+        "Nathanael answered him and said: Rabbi: Thou art the Son of God. Thou art the King of Israel.",
+        "Jesus answered and said to him: Because I said unto thee, I saw thee under the fig tree, thou believest: greater things than these shalt thou see.",
+        "And he saith to him: Amen, amen, I say to you, you shall see the heaven opened and the angels of God ascending and descending upon the Son of man."
+      ],
+      "lineRefs": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:45-51",
+      "reference": "John 1:45-51",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Bartholomew the Apostle",
+        "key": "saintBartholomewTheApostle"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/24.html",
+    "title": "Gospel and Word of the Day - 24 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-24"
+}
