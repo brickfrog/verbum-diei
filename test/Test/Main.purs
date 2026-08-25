@@ -114,6 +114,22 @@ main = do
       assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
       assertEqual "lines length" 5 (Array.length reading.lines)
 
+    test "maps 2 Thessalonians 2 across the dropped verse marker" do
+      reading <- fetchBibleReading "2 Thessalonians 2:1-3,14-17"
+      assertEqual "lineRefs" [ "1", "2", "3", "14", "15", "16", "17" ] reading.lineRefs
+      assertEqual "lines length" 7 (Array.length reading.lines)
+      -- Modern 2:17 is DRA 2:16. Asserting the text, not just that something
+      -- resolved: an off-by-one in the offset would quietly serve 2:16 instead.
+      assertEqual "text of modern 2:17"
+        (Just "Exhort your hearts and confirm you in every good work and word.")
+        (Array.last reading.lines)
+      -- Verses before the drop are untouched.
+      early <- fetchBibleReading "2 Thessalonians 2:5"
+      assertEqual "text of modern 2:5"
+        (Just "Remember you not that, when I was yet with you, I told you these things?")
+        (Array.head early.lines)
+
+
     liftEffect (log "All tests passed.")
 
 test :: String -> Aff Unit -> Aff Unit

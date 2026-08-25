@@ -307,6 +307,14 @@ verseMaps =
     , remaps: []
     , aliases: [ { chapter: 14, fromVerse: 7, toVerse: 6 } ]
     }
+  , { book: "2 Thessalonians"
+    -- The Gutenberg DRA text drops the "2:11." marker, so modern 2:10+2:11 run
+    -- together as DRA 2:10; modern 2:12-17 = DRA 2:11-16.
+    , folds: []
+    , offsets: [ { chapter: 2, fromVerse: 12, offset: 1 } ]
+    , remaps: []
+    , aliases: [ { chapter: 2, fromVerse: 11, toVerse: 10 } ]
+    }
   ]
 
 loadData :: Effect BibleData
