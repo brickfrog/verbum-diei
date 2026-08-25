@@ -57,8 +57,10 @@ main = do
       assertEqual "lineRefs" [ "16" ] reading.lineRefs
 
     test "tolerates null verses in data" do
-      reading <- fetchBibleReading "Exodus 1:18"
-      assertEqual "lineRefs" [ "18" ] reading.lineRefs
+      -- Vulgate psalm 115 begins at verse 10 (it is the tail of Hebrew psalm
+      -- 116), so 115:1 has no text by design rather than by extraction damage.
+      reading <- fetchBibleReading "Psalms 115:1"
+      assertEqual "lineRefs" [ "1" ] reading.lineRefs
       assertEqual "lines length" 1 (Array.length reading.lines)
 
     test "parses en-dash in same-chapter range" do
@@ -129,6 +131,53 @@ main = do
         (Just "Remember you not that, when I was yet with you, I told you these things?")
         (Array.head early.lines)
 
+    test "verse text carries no editorial footnote" do
+      -- The source prints Challoner's notes as their own blocks. They are
+      -- commentary, not scripture, and must never reach a reading.
+      reading <- fetchBibleReading "Genesis 1:6"
+      assertEqual "Genesis 1:6"
+        (Just "And God said: Let there be a firmament made amidst the waters: and let it divide the waters from the waters.")
+        (Array.head reading.lines)
+
+    test "recovers verses the source marks irregularly" do
+      -- "1:18:" uses a colon instead of a full stop.
+      colonMarker <- fetchBibleReading "Exodus 1:18"
+      assertEqual "Exodus 1:18"
+        (Just "And the king called for them and said: What is it that you meant to do, that you would save the men children?")
+        (Array.head colonMarker.lines)
+      -- "1:16" carries no punctuation after the verse number at all.
+      bareMarker <- fetchBibleReading "Joel 1:16"
+      assertEqual "Joel 1:16"
+        (Just "Is not your food cut off before your eyes, joy and gladness from the house of our God?")
+        (Array.head bareMarker.lines)
+      -- "4:32" is run together with 4:31 inside a single block.
+      inlineMarker <- fetchBibleReading "1 Maccabees 4:32"
+      assertEqual "1 Maccabees 4:32"
+        (Just "Strike them with fear, and cause the boldness of their strength to languish, and let them quake at their own destruction.")
+        (Array.head inlineMarker.lines)
+
+    test "keeps chapters aligned when a heading is irregular" do
+      -- "Job Chapter 39" runs into its summary on one line, and
+      -- "1 Machabees Chapter 2." carries a trailing full stop. Missing either
+      -- heading silently overwrites the preceding chapter.
+      job <- fetchBibleReading "Job 38:1"
+      assertEqual "Job 38:1"
+        (Just "Then the Lord answered Job out of a whirlwind, and said:")
+        (Array.head job.lines)
+      maccabees <- fetchBibleReading "1 Maccabees 1:1"
+      assertEqual "1 Maccabees 1:1"
+        (Just "Now it came to pass, after that Alexander the son of Philip the Macedonian, who first reigned in Greece, coming out of the land of Cethim, had overthrown Darius, king of the Persians and Medes:")
+        (Array.head maccabees.lines)
+
+    test "continues Vulgate psalm 9 past the Hebrew divider" do
+      -- The source restarts numbering at 1 after the divider, but those verses
+      -- are psalm 9:22-39, not a second psalm 9.
+      reading <- fetchBibleReading "Psalms 9:22"
+      assertEqual "Psalms 9:22"
+        (Just "Why, O Lord, hast thou retired afar off? why dost thou slight us in our wants, in the time of trouble?")
+        (Array.head reading.lines)
+      whole <- fetchBibleReading "Psalms 9:1-39"
+      assertEqual "psalm 9 length" 39 (Array.length whole.lines)
 
     liftEffect (log "All tests passed.")
 

@@ -44,53 +44,84 @@ function ensureChapter(books, book, chapterNumber) {
   return bookChapters[chapterNumber - 1];
 }
 
+// The source separates every block with a blank line. A block is scripture only
+// when it opens with a "chapter:verse" marker; everything else is a chapter
+// summary, a book preface, a Challoner footnote, or Gutenberg boilerplate, and
+// must be dropped rather than folded into the preceding verse.
+//
+// The marker separator varies ("1:1.", "1:18:", "12:20"), markers occasionally
+// appear mid-block, and chapter headings sometimes carry a trailing period or
+// run into their summary. Chapter and verse numbers are therefore taken from
+// the marker itself; the heading only establishes which book we are in.
+const VERSE_MARKER = /^(\d+):(\d+)(?:[.:][ \t]|[ \t])\s*([\s\S]*)$/;
+const INLINE_MARKER = /(\d+):(\d+)[.:]\s+/g;
+const CHAPTER_HEADING = /^(.+?) Chapter (\d+)(?:[.\s]|$)/;
+
+// The source prints Vulgate psalm 9 in two halves, restarting the verse
+// numbering at 1 after this divider. The second half is psalm 9:22-39.
+const HEBREW_PSALM_DIVIDER = "(Psalm Chapter 10 according to the Hebrews.)";
+
+// Recovers verses run together inside one block, e.g. "4:31. ...  4:32. ...".
+// A split is accepted only when the marker names the current chapter and the
+// next verse in sequence, so numerals inside scripture cannot trigger one.
+function splitInlineVerses(chapter, firstVerse, text) {
+  const parts = [];
+  let verse = firstVerse;
+  let start = 0;
+  for (const match of text.matchAll(INLINE_MARKER)) {
+    if (Number.parseInt(match[1], 10) !== chapter) continue;
+    if (Number.parseInt(match[2], 10) !== verse + 1) continue;
+    parts.push({ verse, text: text.slice(start, match.index).trim() });
+    verse += 1;
+    start = match.index + match[0].length;
+  }
+  parts.push({ verse, text: text.slice(start).trim() });
+  return parts;
+}
+
 function parseGutenbergText(text) {
   const books = {};
 
   let currentBook = null;
-  let currentChapter = null;
-  let currentVerse = null;
-  let verseParts = [];
+  let verseOffset = 0;
+  let lastVerse = 0;
 
-  function flushVerse() {
-    if (!currentBook || !currentChapter || !currentVerse) return;
+  const normalised = text.replace(/^\uFEFF/, "").replace(/\r\n/g, "\n");
 
-    const chapterArr = ensureChapter(books, currentBook, currentChapter);
-    const joined = verseParts.join(" ").replace(/\s+/g, " ").trim();
-    chapterArr[currentVerse - 1] = joined;
+  for (const rawBlock of normalised.split(/\n\s*\n/)) {
+    const block = rawBlock.trim();
+    if (!block) continue;
 
-    currentVerse = null;
-    verseParts = [];
-  }
-
-  const lines = text.replace(/\r\n/g, "\n").split("\n");
-  for (const rawLine of lines) {
-    const line = rawLine.replace(/^\uFEFF/, "").trimEnd();
-
-    const chapterMatch = line.match(/^(.+?) Chapter (\d+)\s*$/);
-    if (chapterMatch) {
-      flushVerse();
-      currentBook = canonicalBookName(chapterMatch[1].trim());
-      currentChapter = Number.parseInt(chapterMatch[2], 10);
-      ensureChapter(books, currentBook, currentChapter);
+    if (block.replace(/\s+/g, " ") === HEBREW_PSALM_DIVIDER) {
+      verseOffset = lastVerse;
       continue;
     }
 
-    const verseMatch = line.match(/^(\d+):(\d+)\.\s*(.*)$/);
-    if (verseMatch && currentBook && currentChapter) {
-      flushVerse();
-      currentVerse = Number.parseInt(verseMatch[2], 10);
-      verseParts = [String(verseMatch[3] ?? "").trim()].filter(Boolean);
+    if (!/^\d+:\d+/.test(block)) {
+      const heading = block.split("\n")[0].trim().match(CHAPTER_HEADING);
+      if (heading) {
+        currentBook = canonicalBookName(heading[1].trim());
+        ensureChapter(books, currentBook, Number.parseInt(heading[2], 10));
+        verseOffset = 0;
+        lastVerse = 0;
+      }
       continue;
     }
 
-    if (currentVerse != null) {
-      const t = line.trim();
-      if (t) verseParts.push(t);
+    const marker = block.match(VERSE_MARKER);
+    if (!marker || !currentBook) continue;
+
+    const chapter = Number.parseInt(marker[1], 10);
+    const chapterArr = ensureChapter(books, currentBook, chapter);
+    const body = marker[3].replace(/\s+/g, " ").trim();
+
+    for (const part of splitInlineVerses(chapter, Number.parseInt(marker[2], 10), body)) {
+      const verse = part.verse + verseOffset;
+      chapterArr[verse - 1] = part.text;
+      lastVerse = verse;
     }
   }
 
-  flushVerse();
   return books;
 }
 
