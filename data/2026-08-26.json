@@ -1,0 +1,255 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3725a552ee4b97b773e5a18e7c0cf93899782e6ff84f0197c4cc3ee00a37ce7d",
+        "inputSha256": "400d7ff859f80825af2906ac41b29e7993d1272d7536a39fcbd1fde151adb688",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2db17190698f9cb9ebde8e87427ea403b4e6229700f2891909f910006a52400e",
+        "inputSha256": "3858f8c8558c3df41a33dea4d5657a7f668ddf62d71368fa715979ae877b8fb5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b79c4b09e5d88c98c6491352aa785af14217b5a09bfa74ff44bdca32798338e8",
+        "inputSha256": "374552a17ee30652e179d31cedcec87acf0c5b605fe64edf51f30f72b99383e3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-26T02:38:44.851Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s hard line about work echoes the Bhagavad Gita’s karma-yoga: dignity through disciplined action without parasitic claim on others. It also resembles Zen’s “no work, no food” monastic realism, where labor is a spiritual solvent for fantasy and entitlement.\n\nJesus’ “whited sepulchres” has a close cousin in Sufi critique of riya, public piety performed for status while the heart rots in self-regard. It also touches the Stoic split between persona and prohairesis: the polished mask versus the governing will.\n\nThe warning about honoring dead prophets while inheriting their killers’ impulse parallels the Buddhist pattern of venerating the Buddha while resisting the dharma that would dismantle one’s attachments; speculation, but it reads like the same psyche that canonizes yesterday’s truth to inoculate itself against today’s demand.",
+    "excursus": "Paul is not policing laziness; he is starving a particular kind of desire. The “disorderly” brother is the one who lives on borrowed time and borrowed bread, feeding on other people’s urgency, turning the community into an endless waiting room. Work is not virtue here but anesthesia: night and day labor as a way to refuse the sweet narcotic of dependence, to keep the body from becoming a claim on another body. “Withdraw” is emotional quarantine. If you will not work, you will not eat: a hard sentence meant to break the erotic pull of being carried.\n\nMatthew names the same sickness with a more violent image. The whitewashed tomb is the self that survives by appearances, a polished surface that can be admired, touched, trusted, while inside it is already decomposing. The scribes and Pharisees build monuments to prophets because dead prophets are safe: you can desire them without being changed by them. Their piety is necrophilia dressed as respect.\n\n“Fill up the measure” is not a threat from above; it is permission to finish what you are already doing. Keep consuming the living voice until only commemorations remain. Peace, then, is not comfort. It is the frightening peace of a community that stops subsidizing its own lie, that refuses both the parasite and the mausoleum, and insists on a life that costs something in public.",
+    "synthesis": "The Church’s holiness is verified by interior truth and disciplined practice, not by public appearance or inherited prestige. Hypocrisy and idleness are not private flaws but communal corruptions that must be named and cut off.",
+    "gospel": [
+      {
+        "text": "Jesus attacks memorial religion: honoring prophets as artifacts while sharing the lineage that silenced them. The rhetoric exposes how institutions convert past violence into present legitimacy, turning monuments into alibis.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul grounds discipline in imitation: leadership is validated by observable conduct, not by office alone. The community is ordered by a transmissible “tradition,” and the apostle’s self-limitation functions as a norm that can be copied without ambiguity.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The closing benedictions frame the hard command with peace and grace, refusing to let order collapse into mere coercion. The letter’s structure insists that ecclesial correction is a work of the Lord of peace, not a private vendetta.",
+        "lines": [
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Communion has borders; “in the name” is a legal formula, not a mood.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostolic poverty is not romantic: it is an argument, paid in fatigue.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal to work is treated as moral sabotage; hunger becomes discipline.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ink as authentication: authority ties itself to a body, a hand.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Whitewash: beauty deployed as concealment; the grave dressed for public.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The split is interior/exterior; justice as costume, rot as content.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Counterfactual virtue: piety that only exists in imaginary history.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Imperative of completion: hypocrisy ripens into inheritance, then into act.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who guided the holy virgin Teresa to perfect charity in caring for the elderly, grant that, following her example, we may serve Christ in our neighbor, and so bear witness to his love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who guided the holy virgin Teresa to perfect charity in caring for the elderly, grant that, following her example, we may serve Christ in our neighbor, and so bear witness to his love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who guided the holy virgin Teresa to perfect charity in caring for the elderly, grant that, following her example, we may serve Christ in our neighbor, and so bear witness to his love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest through the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And we charge you, brethren, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother walking disorderly and not according to the tradition which they have received of us.",
+        "For yourselves know how you ought to imitate us. For we were not disorderly among you.",
+        "Neither did we eat any man's bread for nothing: but in labour and in toil we worked night and day, lest we should be chargeable to any of you.",
+        "Not as if we had not power: but that we might give ourselves a pattern unto you, to imitate us.",
+        "For also, when we were with you, this we declared to you: that, if any man will not work, neither let him eat.",
+        "Now the Lord of peace himself give you everlasting peace in every place. The Lord be with you all.",
+        "The salutation of Paul with my own hand: which is the sign in every epistle. So I write.",
+        "The grace of our Lord Jesus Christ be with you all. Amen."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "16",
+        "17",
+        "18"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "2 Thessalonians 3:6-10,16-18",
+      "reference": "2 Thessalonians 3:6-10,16-18",
+      "heading": "A reading from the Second Letter of St. Paul to Thessalonians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Woe to you, scribes and Pharisees, hypocrites; because you are like to whited sepulchres, which outwardly appear to men beautiful but within are full of dead men's bones and of all filthiness.",
+        "So you also outwardly indeed appear to men just: but inwardly you are full of hypocrisy and iniquity.",
+        "Woe to you, scribes and Pharisees, hypocrites, that build the sepulchres of the prophets and adorn the monuments of the just,",
+        "And say: If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.",
+        "Wherefore you are witnesses against yourselves, that you are the sons of them that killed the prophets.",
+        "Fill ye up then the measure of your fathers."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 23:27-32",
+      "reference": "Matthew 23:27-32",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 21st week of Ordinary Time",
+        "key": "wednesdayOfThe21stWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/26.html",
+    "title": "Gospel and Word of the Day - 26 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-26"
+}
