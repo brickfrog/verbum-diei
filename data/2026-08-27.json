@@ -1,0 +1,282 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5ae3b5a48ebf2f3c7188d9e2ee60ab43fa733bdf5d0805e0da9f58bdf039caa8",
+        "inputSha256": "9385e33ae2c0c41dcaccdb3db593ac0c3e45205eaa09df98fba3aed8f2a7d09a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b97c2267ff7318c41f9866573573639a317d64420585bd89026902a58a7d90df",
+        "inputSha256": "a0f14a94d764d754a9c7ebc406d9dd1afce1ea400bee1d72f999300d150c668b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "922ec81f1173fb3f713fc124a8179e188b48ee8d218a766bd52ec03c8d599f39",
+        "inputSha256": "971b25c7bf530fc121e2db44f5dff3cf370c5a9036d28f0960d75e25bb66ef91",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-27T11:12:05.083Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This watchfulness has the feel of Stoic prosoche, the trained attention that keeps the self from drifting into excuse and cruelty; speculation: Paul’s “confirmed unto the end” reads like the inner citadel shored up by a fidelity larger than mood. The unknown hour also echoes Zen’s beginner’s mind and the koan-like refusal of schedule, where readiness is not prediction but presence; speculation: the “thief” functions like sudden awakening that cannot be domesticated. The servant entrusted with “meat in season” resembles Confucian stewardship, where virtue is proved by timely care within a role, not by private sentiment; the collapse into violence and dissipation matches the loss of ren and li when accountability feels distant. The fellowship that spans “every place” parallels the Buddhist sangha and the Islamic ummah as translocal belonging; speculation: in each, the antidote to hypocrisy is not intensity but steady practice under an unseen gaze—whether Dharma, God, or the moral order.",
+    "excursus": "Paul’s opening gratitude is not tenderness; it is a velvet leash. He tells Corinth they are already “rich” in utterance and knowledge, lacking nothing, confirmed to the end. It reads like praise, but it functions like a spell against their volatility: if you are so gifted, so complete, then any failure is pure betrayal. “God is faithful” lands less as comfort than as pressure. A faithful God means you have no alibi.\n\nMatthew supplies the underside of that pressure: the master comes like a thief. The house is always already breakable. The demand to “watch” is not piety but insomnia, a life organized around an arrival that refuses a schedule. The servant’s temptation is not simple vice; it is the hunger to stop living in suspense. “My lord is long a coming” is the first honest sentence in the passage, and it curdles into cruelty and numb pleasure because dread needs an outlet.\n\nTogether they sketch a psyche caught between inflated assurance and sudden judgment. You are told you have everything, and then warned that everything can be taken at an hour you cannot name. The desire is for fellowship, for a lord who stays, but the lord’s chosen mode is absence. The community becomes a household where love is measured by vigilance, and the cost of sleep is teeth-grinding.",
+    "synthesis": "God’s call creates a sanctified people sustained by his fidelity, and the only fitting posture is vigilant stewardship under an unannounced return. Final judgment exposes whether authority was exercised as service or as self-indulgence.",
+    "gospel": [
+      {
+        "text": "The discourse moves from ignorance of timing to evaluation of work: not knowing the hour is not a puzzle but a test-condition. The master’s return functions as an audit of delegated authority, culminating in promotion or exposure; readiness is defined as sustained execution of assigned duty under uncertainty.",
+        "lines": [
+          1,
+          3,
+          5,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul opens with benediction and thanksgiving to establish the letter’s ground: the Corinthians are addressed as recipients before they are corrected as offenders. The coming rebukes will be framed as violations of a gift already bestowed, not as a ladder they must climb.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The logic runs from testimony to fidelity: Christ’s witness is “confirmed” in them, and therefore God’s own faithfulness becomes the guarantee of their summons into communion. The community’s identity is anchored in divine reliability rather than in their volatile performance.",
+        "lines": [
+          6,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Apostleship is not self-authorization; it is conscription.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Church of God” precedes “at Corinth”: location is secondary to ownership.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Riches are redefined as speech and cognition—dangerous gifts in Corinth.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Waiting” is framed as lack of nothing; eschatology as present sufficiency.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Confirmed “unto the end” yet “without crime”: perseverance is moral, not merely temporal.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Lord borrows the thief’s tactics; judgment arrives by surprise, not by schedule.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Authority is measured by rationing: governance as timely feeding, not domination.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The collapse begins internally: a sentence “in his heart” becomes a regime.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Delay breeds cruelty and dissipation: violence and indulgence are paired.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Punishment is placement: the servant is assigned a community—“with the hypocrites.”",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, comfort of those who weep, who in your mercy accepted the tears of Saint Monica as she pleaded for the conversion of her son Augustine, grant us, through the intercession of mother and son, the grace to weep for our sins and to obtain your mercy and your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, comfort of those who weep, who in your mercy accepted the tears of Saint Monica as she pleaded for the conversion of her son Augustine, grant us, through the intercession of mother and son, the grace to weep for our sins and to attain your mercy and your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, we may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, comfort of those who weep, who in your mercy accepted the tears of Saint Monica as she pleaded for the conversion of her son Augustine, grant us, through the intercession of mother and son, the grace to weep for our sins and to attain your mercy and your forgiveness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Paul, called to be an apostle of Jesus Christ by the will of God, and Sosthenes a brother,",
+        "To the church of God that is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that invoke the name of our Lord Jesus Christ in every place of theirs and ours.",
+        "Grace to you and peace, from God our father and from the Lord Jesus Christ.",
+        "I give thanks to my God always for you, for the grace of God that is given you in Christ Jesus:",
+        "That in all things you are made rich in him, in all utterance and in all knowledge;",
+        "As the testimony of Christ was confirmed in you,",
+        "So that nothing is wanting to you in any grace, waiting for the manifestation of our Lord Jesus Christ.",
+        "Who also will confirm you unto the end without crime, in the days of the coming of our Lord Jesus Christ.",
+        "God is faithful: by whom you are called unto the fellowship of his Son, Jesus Christ our Lord."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 1:1-9",
+      "reference": "1 Corinthians 1:1-9",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Watch ye therefore, because you know not what hour your Lord will come.",
+        "But this know ye, that, if the goodman of the house knew at what hour the thief would come, he would certainly watch and would not suffer his house to be broken open.",
+        "Wherefore be you also ready, because at what hour you know not the Son of man will come.",
+        "Who, thinkest thou, is a faithful and wise servant, whom his lord hath appointed over his family, to give them meat in season?",
+        "Blessed is that servant, whom when his lord shall come he shall find so doing.",
+        "Amen I say to you: he shall place him over all his goods.",
+        "But if that evil servant shall say in his heart: My lord is long a coming:",
+        "And shall begin to strike his fellow servants and shall eat and drink with drunkards:",
+        "The lord of that servant shall come in a day that he hopeth not and at an hour that he knoweth not:",
+        "And shall separate him and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth."
+      ],
+      "lineRefs": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 24:42-51",
+      "reference": "Matthew 24:42-51",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Monica",
+        "key": "saintMonica"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/27.html",
+    "title": "Gospel and Word of the Day - 27 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-27"
+}
