@@ -1,0 +1,292 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "896bd327f588b841bbd5a68bb0b2bed4390deb3d330d2eb335384dcbf73d33a6",
+        "inputSha256": "12564f9bd7abc7ced5af0f669d0395f6192c414e6a2003b666ffff6402696fca",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c5b4b2fdd4b98eaeac76cf739129b82715f368c932f466252905f1cd92715ce9",
+        "inputSha256": "839455ce928dd2768635924047c6b21f735c92252e123d237f13d41e3425ff85",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "577dad309bbee73ea55898569a92698e62c0d3f4557e444975dc3060cc67e1d1",
+        "inputSha256": "1678a3c03c1f214c8d2001f6ed98ad8a34392d03c74a9ca20cccae55730a86ed",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-28T12:46:27.390Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “foolish” cross and Matthew’s “wise” oil meet in the same psychological hinge: the ego wants credentials—signs, arguments, last-minute borrowing—while the soul is trained by waiting, loss, and unshareable readiness. The lamp is persona; the oil is interior formation that cannot be outsourced when the night turns. What looks like weakness is a deliberate refusal to win on the world’s terms, because winning that way would only enthrone the same anxious self that needs proof.\n\nSemina Verbi: Zen’s “beginner’s mind” and the koan tradition (speculation) echo a wisdom that arrives by surrendering the clever answer. Sufism’s fana names a strength discovered through self-emptying rather than display. The Bhagavad Gita’s karma-yoga, action without grasping at results, parallels readiness that accrues quietly over time. Stoic prohairesis, the inner faculty of choice, resembles oil as a private reserve no one can lend at the crisis. In Jewish mysticism, the hiddenness of God and the discipline of watchfulness (speculation) rhyme with a midnight arrival that defeats prediction and rewards preparation over spectacle.",
+    "excursus": "Paul isn’t praising ignorance; he’s staging an attack on the ego’s favorite drug: being right. “Wisdom” is the polished story we tell to keep suffering at arm’s length. The cross is obscene because it won’t cooperate with our need for a world that makes sense. It humiliates the mind that wants to master God as an idea, and it seduces the part of us that secretly longs to be undone, to have our arguments finally fail.\n\nThe virgins aren’t sorted by morality but by appetite. All of them sleep; vigilance isn’t insomnia. The wise carry oil because they’ve already consented to delay, to longing without payoff, to the slow burn of desire that can’t be borrowed at the last minute. The foolish aren’t “bad”; they’re consumers of the immediate, expecting the world to be stocked when they finally feel like showing up.\n\nThe cruel line—“I know you not”—lands like a psychological verdict: you can’t improvise intimacy at midnight. When the moment arrives, only what has been tended in secret gives light. The door shuts not as punishment but as reality hardening. The gospel’s dread is that the feast comes, and your lamp reveals what you actually loved.",
+    "synthesis": "God saves by the crucified Christ, overturning the world’s measures of wisdom and power. The kingdom admits only those whose readiness endures delay; the shut door ratifies what their preparation has made them.",
+    "gospel": [
+      {
+        "text": "The parable is an eschatological sorting that turns on time: the same invitation, the same night, the same summons, but different preparedness when the moment arrives. Wisdom is defined as provision for delay; the midnight cry exposes what was already true, and the final imperative to watch is a command to live under an unknown deadline.",
+        "lines": [
+          2,
+          4,
+          6,
+          7,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul stages a courtroom against the world’s epistemology: Scripture is subpoenaed, the intellectual classes are cross-examined, and the verdict is that God’s self-disclosure is not accessible by the world’s preferred instruments. The cross functions as God’s chosen criterion of recognition, so “calling” names the act by which perception itself is re-made.",
+        "lines": [
+          3,
+          4,
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Rhetoric is treated as a solvent: eloquence can dissolve the cross into “void.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A single utterance splits humanity: “word of the cross” as sieve, not slogan.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God’s “pleased” is an affront: salvation routed through what the world calls absurd.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Crucified Messiah: scandal to the religious, comedy to the cultured—same object, different recoil.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Divine “weakness” is not a defect but a comparative weapon: it wins by losing.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They go out with lamps, not with certainty; procession begins in partial light.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Folly is not having no lamp; it is having no reserve.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Delay equalizes the field: all sleep; vigilance is not insomnia.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal is framed as arithmetic, not malice: readiness is not transferable.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The decisive act is banal—arrival—yet it seals history: “the door was shut.”",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I know you not” makes ignorance judicial: exclusion as verdict, not accident.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Renew, Lord, in your Church, the spirit you poured into your bishop Saint Augustine, so that, filled with that same spirit, we may thirst for you, the source of wisdom, and seek you as the only true love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Renew, Lord, in your Church, the spirit you poured into your bishop Saint Augustine, so that, imbued with that same spirit, we may thirst for you, the source of wisdom, and seek you as the only true love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the sixth hour went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Renew, Lord, in your Church, the spirit you poured into your bishop Saint Augustine, so that, imbued with that same spirit, we may thirst for you, the source of wisdom, and seek you as the only true love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty, since by our rest we are to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For Christ sent me not to baptize, but to preach the gospel: not in wisdom of speech, lest the cross of Christ should be made void.",
+        "For the word of the cross, to them indeed that perish, is foolishness: but to them that are saved, that is, to us, it is the power of God.",
+        "For it is written: I will destroy the wisdom of the wise: and the prudence of the prudent I will reject.",
+        "Where is the wise? Where is the scribe? Where is the disputer of this world? Hath not God made foolish the wisdom of this world?",
+        "For, seeing that in the wisdom of God, the world, by wisdom, knew not God, it pleased God, by the foolishness of our preaching, to save them that believe.",
+        "For both the Jews require signs: and the Greeks seek after wisdom.",
+        "But we preach Christ crucified: unto the Jews indeed a stumblingblock, and unto the Gentiles foolishness:",
+        "But unto them that are called, both Jews and Greeks, Christ, the power of God and the wisdom of God.",
+        "For the foolishness of God is wiser than men: and the weakness of God is stronger than men."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 1:17-25",
+      "reference": "1 Corinthians 1:17-25",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then shall the kingdom of heaven be like to ten virgins, who taking their lamps went out to meet the bridegroom and the bride.",
+        "And five of them were foolish and five wise.",
+        "But the five foolish, having taken their lamps, did not take oil with them.",
+        "But the wise took oil in their vessels with the lamps.",
+        "And the bridegroom tarrying, they all slumbered and slept.",
+        "And at midnight there was a cry made: Behold the bridegroom cometh. Go ye forth to meet him.",
+        "Then all those virgins arose and trimmed their lamps.",
+        "And the foolish said to the wise: Give us of your oil, for our lamps are gone out.",
+        "The wise answered, saying: Lest perhaps there be not enough for us and for you, go ye rather to them that sell and buy for yourselves.",
+        "Now whilst they went to buy the bridegroom came: and they that were ready went in with him to the marriage. And the door was shut.",
+        "But at last came also the other virgins, saying: Lord, Lord, open to us.",
+        "But he answering said: Amen I say to you, I know you not.",
+        "Watch ye therefore, because you know not the day nor the hour."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 25:1-13",
+      "reference": "Matthew 25:1-13",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Augustine of Hippo, Bishop and Doctor of the Church",
+        "key": "saintAugustineOfHippoBishopAndDoctorOfTheChurch"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/28.html",
+    "title": "Gospel and Word of the Day - 28 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-28"
+}
