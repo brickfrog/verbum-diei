@@ -1,0 +1,234 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "94db943cddba6ac2b3e47a6a4074a24be67cf453bbd31b68dcd723ac791121dc",
+        "inputSha256": "4d576220ee8593082b186417dde4107b027712caaf6e43bfd8a504367b792cf9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "4ad082c789099181cd6913c87b2eacd978daadbb3b359a1c71f929a1497abf45",
+        "inputSha256": "733dfa80a3d9a34f520d0233dc2ae58e346907c9f4251be97ac6b461fb2437ad",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "be68fff962d64ed8d537e177239363b33520593f367881e5211fd500b3407af4",
+        "inputSha256": "6248de81941fbe91875c3d6bb84bf3d836b583d5f110f3f6b9a693969bb53a12",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-30T06:38:58.475Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Jeremiah’s “burning fire shut up in my bones” is the same psychic compulsion the Greeks called daimonic necessity: Socrates’ daimonion that won’t let him take the easy exit, and Cassandra’s curse of true speech that earns only laughter. Speculation: it also resembles the yogic notion of tapas, an inner heat that forces truth to the surface even when the social body punishes it.\n\nPeter’s recoil is the ordinary mind begging for a religion without cost; the sharp rebuke names that impulse as adversarial, not merely mistaken. Buddhism’s “attachment to self” and the Bhagavad Gita’s insistence on action without clinging both rhyme with “lose your life to find it,” not as moralism but as the paradox of identity: the self that tries to secure itself becomes the jailer. Stoic prohairesis, too, wagers everything on what cannot be traded, refusing the world’s exchange rate for the soul.\n\nThe cross here functions like an initiation ordeal: the ego’s negotiated peace is broken so a truer allegiance can form. Speculation: this parallels Sufi fana, the annihilation of the constructed self, and the Zen demand to “die before you die,” where the terror is not pain but the collapse of the story you use to survive.",
+    "excursus": "Jeremiah isn’t pious; he’s violated. He calls it deception because vocation arrived like seduction that turns into possession. God “prevails” the way an abuser prevails: by strength, by inevitability, by making the victim complicit in his own exposure. The result is social: the prophet’s mouth becomes public property, a spectacle. His disgust is not with sin out there but with the sentence inside him that won’t let him live quietly.\n\nHis attempted cure is silence, and it fails. The “burning fire” isn’t consolation; it’s compulsion, a fever locked in the bones. He speaks not because he believes but because he cannot stop. The word is an addiction that humiliates him and keeps him alive. Desire and dread are fused: the very thing that ruins him is the only thing that feels real.\n\nMatthew stages the same pathology in cleaner clothes. Jesus begins to narrate his fate as necessity, and Peter does what any friend would do: he tries to interrupt the death-drive with ordinary love. Jesus snaps and names that love “Satan” because it threatens the script. The scandal is not temptation to vice; it is the temptation to survive.\n\n“Take up your cross” reads like moral instruction, but it is recruitment into Jeremiah’s condition: accept the inner fire, accept the public derision, accept the loss of self as the price of being seized by a story bigger than you. The promise at the end—payment “according to works”—doesn’t soften it; it sharpens the terror. You are asked to trade the whole world for an unexchangeable soul, and the only guarantee is that the demand will not loosen its grip.",
+    "synthesis": "God’s purpose advances by a necessity that offends human self-preservation, and discipleship consists in consenting to that necessity even unto loss. The soul is non-negotiable: no worldly gain can purchase it, and judgment will expose the exchange each person made.",
+    "gospel": [
+      {
+        "text": "Jesus’ first passion prediction establishes suffering as a “must,” not an accident; discipleship is then defined as participation in that necessity (cross-bearing), not admiration from a safe distance. The argument culminates in eschatological audit: the calculus of profit and exchange is settled by judgment, where “works” disclose what one truly valued.",
+        "lines": [
+          1,
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Jeremiah frames revelation as an asymmetrical contest: the prophet is not an autonomous moral commentator but an instrument seized. The social outcome—ridicule—functions as a public verification that the message is not tailored to audience approval.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The interior “fire” marks prophecy as an imposed necessity rather than a chosen career. The text treats refusal as impossible: the divine claim persists beneath the will, making obedience less virtue than inevitability.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Prophetic vocation as coercion: “stronger… prevailed.” God wins; the prophet bleeds.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The word meant to judge becomes the speaker’s sentence: proclamation returns as “reproach.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Attempted silence fails; the message is somatic—fire in bone. Compulsion outlasts resolve.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Peter’s mercy is a temptation: a pious veto on necessity.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Satan” is not profanity but diagnosis: human prudence opposing divine purpose.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The paradox is juridical: self-preservation is forfeiture; self-loss is acquisition.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts the love of your name, so that, by making our life more devout, you may increase the good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts the love of your name, so that, by making our lives more devout, you may increase what is good in us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts love for your name, so that, by making our lives more devout, you may increase what is good within us and, with loving care, preserve it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good comes, sow in our hearts the love of your name, so that, by making our lives more devout, you may increase what is good within us and, with loving care, preserve it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts the love of your name, so that, by making our lives more devout, you may increase what is good in us and, with loving care, preserve it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good comes, sow in our hearts the love of your name, so that, by making our life more devout, you may increase what is good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. May your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Thou hast deceived me, O Lord, and I am deceived: thou hast been stronger than I, and thou hast prevailed. I am become a laughingstock all the day, all scoff at me.",
+        "For I am speaking now this long time, crying out against iniquity, and I often proclaim devastation: and the word of the Lord is made a reproach to me, and a derision all the day.",
+        "Then I said: I will not make mention of him, nor speak any more in his name: and there came in my heart as a burning fire, shut up in my bones, and I was wearied, not being able to bear it."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Jeremiah 20:7-9",
+      "reference": "Jeremiah 20:7-9",
+      "heading": "A reading from the Book of Jeremiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "From that time Jesus began to shew to his disciples, that he must go to Jerusalem, and suffer many things from the ancients and scribes and chief priests, and be put to death, and the third day rise again.",
+        "And Peter taking him, began to rebuke him, saying: Lord, be it far from thee, this shall not be unto thee.",
+        "Who turning, said to Peter: Go behind me, Satan, thou art a scandal unto me: because thou savourest not the things that are of God, but the things that are of men.",
+        "Then Jesus said to his disciples: If any man will come after me, let him deny himself, and take up his cross, and follow me.",
+        "For he that will save his life, shall lose it: and he that shall lose his life for my sake, shall find it.",
+        "For what doth it profit a man, if he gain the whole world and suffer the loss of his own soul? Or what exchange shall a man give for his soul?",
+        "For the Son of man shall come in the glory of his Father with his angels: and then will he render to every man according to his works."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 16:21-27",
+      "reference": "Matthew 16:21-27",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "22nd Sunday of Ordinary Time",
+        "key": "22ndSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/30.html",
+    "title": "Gospel and Word of the Day - 30 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-30"
+}
