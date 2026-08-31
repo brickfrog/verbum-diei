@@ -1,0 +1,306 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bb52a6461b33b45846562ad41582a00ab26478c1e795f0507f4649c7fd03b41f",
+        "inputSha256": "4c9d5c77d6b16afa6216c3ee4489a6f5d3130f450c0fe668444e8f2d7b3a18d3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "91dda47ddcb03bd71ecd40daa7cc8bb243fab7e042b2c65ed8729484adad750a",
+        "inputSha256": "4c662cf4e2118fa5c76480a1a6287a0a051b2d900163b9fade9142f0ef09a74c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "47528d81aa43b0627f8e9432c1f8ddcd7f7732c53ba8239c2e8645ec8cd59462",
+        "inputSha256": "767a12a2cb594ad1c3f3072960aa952f40e5fa730943ff058a00b6008653d8de",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-08-31T07:01:51.160Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s refusal of rhetorical dominance has the flavor of Zen’s distrust of “special understanding” and the Tao Te Ching’s suspicion of clever speech: authority that arrives unarmed, so the hearer can’t outsource assent to technique. It also resembles the Sufi preference for hal over qāl, state over talk, where trembling is not incompetence but the body registering contact with what exceeds it.\n\nNazareth’s offense is the psychology of the familiar: the ego’s demand that the transcendent stay domesticated, payable in local currency, verified by hometown favors. That recoil echoes the Buddha’s warning that attachment to views turns medicine into poison, and it parallels the Hindu motif of the avatāra unrecognized in one’s own house, the divine hidden by proximity.\n\nThe turn to the widow of Zarephath and Naaman the Syrian reads like the Qur’anic insistence (speculation) that guidance is not a tribal entitlement, and like Stoic cosmopolitanism’s claim that virtue is not inherited by citizenship. The crowd’s rage is the violence of wounded status: when grace crosses borders, prestige feels robbed.\n\nThe passing through their midst suggests the Bhagavad Gītā’s image of the self that cannot be seized, and the Daoist sage who is unharmed because he does not contend. Not escape artistry, but a kind of ungraspability: the sacred refusing to be reduced to a spectacle or a scapegoat.",
+    "excursus": "Paul’s “weakness and trembling” isn’t humility as virtue; it’s strategy as symptom. He refuses “loftiness” because eloquence would make the message negotiable, a thing you can admire without obeying. He brings only the crucified body, the scandal that collapses taste, status, and the safe distance of ideas. Faith, for him, is not persuasion but capture: a dependence engineered by stripping away every other support.\n\nJesus in Nazareth stages the same ambush. He reads liberation, then turns it into insult. They want hometown dividends, a miracle as proof of belonging, but he offers them a mirror in which they are not the poor, not the captive, not the chosen audience. He names outsiders—Sidon’s widow, Syria’s leper—as the true recipients, and the congregation’s desire curdles into rage because he has touched the real wound: they don’t want salvation, they want preference.\n\nThe “acceptable year” arrives as deprivation. The good news is that grace is not theirs to manage, and that is why they try to throw him off a cliff. He passes through them because the violence is the point: a power that won’t flatter must be escaped or destroyed, and it keeps walking anyway, leaving them with their furious hunger.",
+    "synthesis": "God discloses himself by sovereign power rather than human prestige, and his mercy is not owed to the familiar or the near. The crucified Christ and the rejected prophet are the same divine judgment on entitlement.",
+    "gospel": [
+      {
+        "text": "Jesus enters the ordinary rhythms of Nazareth and turns liturgy into announcement: the Isaianic program names a reversal of status—poor, captive, blind, bruised—placing divine favor where the town’s social imagination least expects it.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The conflict is not over miracles but over entitlement. By invoking Elijah and Elisha, he frames God’s mercy as free and outward-facing; the synagogue’s rage exposes a piety that wants privilege without conversion.",
+        "lines": [
+          8,
+          10,
+          13,
+          14
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s strategy is a deliberate self-emptying so that the content—Christ crucified—cannot be mistaken for a product of elite culture. The messenger is made weak to prevent the message from being domesticated as a school of thought.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The passage sets an epistemology: God is known by God’s own act, not by human technique. The community’s cohesion is secured by divine agency rather than by the charisma or competence of its founder.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Renounces rhetorical capital; testimony, not performance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Knowledge narrowed to a single scandal: crucifixion.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostolic presence marked by bodily instability.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Proof shifts from argument to manifestation: Spirit as evidence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Faith must not be collateralized by intellect; it rests on force.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He does not receive a text; he selects a target.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sits: the posture of authority; the room becomes a tribunal.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fulfillment is timed, not abstract; the present tense judges.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Grace heard, pedigree demanded; familiarity as refusal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Prophecy fails locally; proximity breeds contempt.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Election crosses borders; Israel’s need does not guarantee Israel’s claim.",
+      "lines": [
+        11,
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Violence cannot arrest him; sovereignty moves through the mob.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts the love of your name, so that, by making our lives more devout, you may increase the good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, you have brought us to the beginning of this day; save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always aware that we are your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to help us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I, brethren, when I came to you, came not in loftiness of speech or of wisdom, declaring unto you the testimony of Christ.",
+        "For I judged not myself to know anything among you, but Jesus Christ: and him crucified.",
+        "And I was with you in weakness and in fear and in much trembling.",
+        "And my speech and my preaching was not in the persuasive words of human wisdom, but in shewing of the Spirit and power:",
+        "That your faith might not stand on the wisdom of men, but on the power of God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 2:1-5",
+      "reference": "1 Corinthians 2:1-5",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he came to Nazareth, where he was brought up: and he went into the synagogue, according to his custom, on the sabbath day: and he rose up to read.",
+        "And the book of Isaias the prophet was delivered unto him. And as he unfolded the book, he found the place where it was written:",
+        "The spirit of the Lord is upon me. Wherefore he hath anointed me to preach the gospel to the poor, he hath sent me to heal the contrite of heart,",
+        "To preach deliverance to the captives and sight to the blind, to set at liberty them that are bruised, to preach the acceptable year of the Lord and the day of reward.",
+        "And when he had folded the book, he restored it to the minister and sat down. And the eyes of all in the synagogue were fixed on him.",
+        "And he began to say to them: This day is fulfilled this scripture in your ears.",
+        "And all gave testimony to him. And they wondered at the words of grace that proceeded from his mouth. And they said: Is not this the son of Joseph?",
+        "And he said to them: Doubtless you will say to me this similitude: Physician, heal thyself. As great things as we have heard done in Capharnaum, do also here in thy own country.",
+        "And he said: Amen I say to you that no prophet is accepted in his own country.",
+        "In truth I say to You, there were many widows in the days of Elias in Israel, when heaven was shut up three years and six months, when there was a great famine throughout all the earth.",
+        "And to none of them was Elias sent, but to Sarepta of Sidon, to a widow woman.",
+        "And there were many lepers in Israel in the time of Eliseus the prophet: and none of them was cleansed but Naaman the Syrian.",
+        "And all they in the synagogue, hearing these things, were filled with anger.",
+        "And they rose up and thrust him out of the city: and they brought him to the brow of the hill whereon their city was built, that they might cast him down headlong.",
+        "But he passing through the midst of them, went his way."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 4:16-30",
+      "reference": "Luke 4:16-30",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 22nd week of Ordinary Time",
+        "key": "mondayOfThe22ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/08/31.html",
+    "title": "Gospel and Word of the Day - 31 August 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/08/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-08-31"
+}
