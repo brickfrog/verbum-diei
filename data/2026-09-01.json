@@ -1,0 +1,255 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7732232f110d7028476ebca5478e9a94b557f7aa28e732890cf57f26b5d663d6",
+        "inputSha256": "acedfdf98c39cf2a9f9f410fe5ced96fc2a54269e34072f4f628c949a36ad1f4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f720740aa111676a0b1486eb6bc51312e27e0bf165c8f5ca94af379bccb68f50",
+        "inputSha256": "980c4336d19bbc57d257ff301ff6aaea0b90456276eb3276469d7d7f986321f2",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f50edbfa6b1831b83e511eef17bf72357e64537b0e32f5db0382dc51af68f924",
+        "inputSha256": "ee58171b9effb1d372eadc0196c3f066cb6b10e893b362b00c3818f0f7f1d454",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-01T06:14:50.161Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “Spirit” reads like a disciplined faculty of knowing that is not reducible to cleverness: an interior attunement that can recognize meaning only by becoming congruent with it. That has close kinship with Plato’s anamnesis and the later Neoplatonic ascent, where truth is not acquired as data but recollected through likeness; speculation, but Paul’s contrast with “the spirit of this world” feels like a critique of prestige-knowledge in the same key.\n\nLuke’s exorcism frames evil as a parasitic voice that both knows and resists: it names the holy accurately while trying to control the encounter. That resembles Buddhist accounts of Māra, not as a rival god but as the mind’s sabotaging pattern that can quote the dharma and still cling; and it echoes Sufi descriptions of the nafs that can perform piety while remaining possessive. In each, liberation comes less by argument than by a word of authority that interrupts the compulsive script.\n\nThe “word with power” also parallels mantra and dhāraṇī traditions in Hinduism and Mahāyāna, where speech is not mere sign but act; speculation, but the scene suggests language that reorganizes the psyche rather than persuades it. The demon’s convulsion before release looks like what depth psychology calls symptom flare when a complex is confronted: resistance peaks as it loses its hold.\n\n“We have the mind of Christ” sits near the Vedāntic claim that knowledge is participation in the real, not representation of it, and near Zen’s insistence that seeing is itself transformation. Different metaphysics, same psychological wager: a new mode of consciousness judges the old, and the old calls it foolish because it cannot inhabit it.",
+    "excursus": "Paul’s “Spirit” is not a comforting mist but an invasive intelligence. It “searches” you the way a blade searches a wound, insisting that the only real knowledge is the kind that bypasses your explanations and rewrites your interior life. The “sensual man” isn’t a libertine; he’s the person who refuses this penetration, who clings to ordinary sense-making as self-defense. “Judges all things” reads like freedom, but it also reads like isolation: once you claim access to the deep things, no one can call you back, and you can’t be reached by the common language anymore.\n\nIn Capernaum the unclean spirit is the most lucid voice in the room. It names Jesus correctly, instantly, and its terror is the honest reaction everyone else hides under astonishment. “Let us alone” is the plea of the psyche that has learned to survive by compartmentalizing its demons; Jesus is the one who won’t permit that truce. The exorcism is not gentle therapy but a public eviction: the man is thrown down in the middle, exposed, made a spectacle, and only then declared unharmed. Authority here feels like desire with teeth: it wants the whole person, and it will tear up the arrangements that kept him functioning.\n\nPut together, the texts suggest a disturbing intimacy: the holy knows you better than you know yourself, and that knowledge arrives as command. The dread isn’t that God is absent; it’s that God is present, searching, speaking with power, and not negotiating with whatever in you has learned to say, intelligently, “leave me alone.”",
+    "synthesis": "The Spirit grants real participation in God’s own knowledge, creating a mind not native to the world. Christ’s authoritative word manifests that same divine jurisdiction by compelling unclean spirits without appeal.",
+    "gospel": [
+      {
+        "text": "The scene moves from local liturgy to public diffusion: sabbath teaching becomes regional report. Luke frames power as something heard and then carried—doctrine generating fame—so the exorcism functions as verification of a teaching that already arrives with force.",
+        "lines": [
+          1,
+          2,
+          7
+        ]
+      },
+      {
+        "text": "The unclean spirit’s interruption turns the synagogue into a contested courtroom. The crowd’s question—“What word is this?”—marks a shift from amazement at rhetoric to recognition of a command-structure that reaches beyond human listeners into the invisible order.",
+        "lines": [
+          3,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul builds an epistemology with a strict boundary: only God’s own Spirit crosses into God’s own interior. The community’s knowledge is therefore participatory—received—so the content (“given us”) and the capacity to know it arrive together, collapsing any claim to autonomous religious expertise.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The citation about the Lord’s mind is not a humility trope but a jurisdictional claim: instruction cannot run upward. “Mind of Christ” names a new corporate subject, a shared intellect formed by union rather than by information.",
+        "lines": [
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Revelation is not deduction; the Spirit is an explorer, not a courier.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Style is theology: Spirit-speech refuses the prestige dialect of “learned words.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “sensual” calls it foolish because the instrument is wrong; blindness mistakes itself for critique.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment runs one-way: the spiritual appraises, yet cannot be appraised by the unqualified.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The demon’s confession is accurate and useless; orthodoxy can be hostile.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A bare imperative breaks a tyrant; no ritual, no negotiation, no spectacle.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "They notice “word” before wonder: authority is linguistic before it is dramatic.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who govern heaven and earth at once, graciously hear the prayer of your people and grant that the days of our life may be founded upon your peace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, true light who enlightens every man and shows him the way of salvation, grant us the abundance of your strength, that we may prepare before you paths of justice and peace. You who live and reign with the Father in the unity of the Holy Spirit and are God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, Lord of day and night, we humbly ask that the light of Christ, the true Sun of justice, may always illumine our lives, so that we may one day be worthy to enjoy that light in which you dwell eternally. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But to us God hath revealed them by his Spirit. For the Spirit searcheth all things, yea, the deep things of God.",
+        "For what man knoweth the things of a man, but the spirit of a man that is in him? So the things also that are of God, no man knoweth, but the Spirit of God.",
+        "Now, we have received not the spirit of this world, but the Spirit that is of God: that we may know the things that are given us from God.",
+        "Which things also we speak: not in the learned words of human wisdom, but in the doctrine of the Spirit, comparing spiritual things with spiritual.",
+        "But the sensual man perceiveth not these things that are of the Spirit of God. For it is foolishness to him: and he cannot understand, because it is spiritually examined.",
+        "But the spiritual man judgeth all things: and he himself is judged of no man.",
+        "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 2:10-16",
+      "reference": "1 Corinthians 2:10-16",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he went down into Capharnaum, a city of Galilee: and there he taught them on the sabbath days.",
+        "And they were astonished at his doctrine: for his speech was with power.",
+        "And in the synagogue there was a man who had an unclean devil: and he cried out with a loud voice,",
+        "Saying: Let us alone. What have we to do with thee, Jesus of Nazareth? Art thou come to destroy us? I know thee who thou art, the holy one of God.",
+        "And Jesus rebuked him, saying: Hold thy peace and go out of him. And when the devil had thrown him into the midst, he went out of him and hurt him not at all.",
+        "And there came fear upon all; and they talked among themselves, saying: What word is this, for with authority and power he commandeth the unclean spirits, and they go out?",
+        "And the fame of him was published into every place of the country."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 4:31-37",
+      "reference": "Luke 4:31-37",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 22nd week of Ordinary Time",
+        "key": "tuesdayOfThe22ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/01.html",
+    "title": "Gospel and Word of the Day - 01 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-01"
+}
