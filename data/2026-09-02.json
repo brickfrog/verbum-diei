@@ -1,0 +1,302 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b0c4429f2514028176e7221d8dea990829ffaf7720297fc183e99cb492aef371",
+        "inputSha256": "e0292c558a7fc1c3e719e926cd2353f4b80262c045d5ce8c9ed0fdd2509f316f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "be9c76aa9d79a207447d4802f13b60a4415475af61160916f067bbed37ae903d",
+        "inputSha256": "b9db4d53f80f8727601cb888020b6aed0246e6f8408af80ab9a23652df8f0d47",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4f144aa538565fe017689ab905f6a954b9174b000e9982a7dadfcd219ed68d6c",
+        "inputSha256": "31a5bb0468366bba7183b24cd7f071ac614c5365ad170be49b01d5eea250632a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-02T05:49:18.308Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “milk” is the Zen teacher’s refusal to hand a koan to a student who wants status instead of awakening; factional pride is just another attachment dressed as doctrine. The planted-and-watered image rhymes with the Bhagavad Gita’s karma-yoga: act with full effort, release ownership of outcomes, let the fruit ripen beyond the ego’s grasp. Speculation: his insistence that the workers are “one” echoes Sufi adab around the shaykh—love the guide, but don’t confuse the guide with the Real.\n\nLuke’s fever that yields to a word and then turns into service resembles Ayurvedic and Greek notions of restored balance expressed as right function, not private bliss; health proves itself in renewed participation. The silencing of demons parallels the Buddhist suspicion of siddhis and the Daoist wariness of naming: power and proclamation can inflate the false self, so the cure includes restraint. The desert withdrawal reads like the yogic and monastic need for solitude to prevent compassion from collapsing into people-pleasing; he leaves not from coldness but from fidelity to a wider circuit of obligation. Speculation: the constant movement city to city has the feel of the bodhisattva’s vow—no single crowd gets to possess the healer.",
+    "excursus": "Paul’s insult is a diagnosis: they don’t want truth, they want a father. “I am of Paul, I am of Apollo” is not theology but attachment disorder dressed as doctrine, a hunger for a name to hide behind so no one has to grow up. Milk is not kindness; it is control, the slow addiction of being fed. “God gave the increase” is the final humiliation: your heroes are interchangeable, your loyalties childish, your quarrels proof you prefer identity to transformation.\n\nLuke shows the same craving in flesh. The fever is expelled and the woman rises, not into freedom, but into service; healing snaps her back into usefulness. At sundown the sick arrive like a tide, and he touches each one, a body made into a public utility. Even the demons confess him, and he silences them, not because they lie, but because he refuses their intimacy; he will not be possessed by praise.\n\nThen the most brutal move: he leaves. The crowd tries to keep him, as if need grants ownership, as if gratitude can chain a healer. The desert is his refusal of their dependence. The kingdom he preaches is not comfort on demand; it is a wound in the fantasy that someone will stay and be yours.",
+    "synthesis": "God alone gives increase; human ministers are instruments with accountable labor. Christ’s authority orders bodies and spirits, and his mission is governed by sending, not by crowds.",
+    "gospel": [
+      {
+        "text": "The scene moves from synagogue to household: the kingdom crosses institutional and domestic thresholds without changing its authority.",
+        "lines": [
+          1
+        ]
+      },
+      {
+        "text": "The day’s end becomes a liturgy of need; the text frames healing as sustained attention rather than spectacle.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The itinerary—synagogues of Galilee—shows a pattern: proclamation is not an accessory to miracles but their interpretive center.",
+        "lines": [
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul diagnoses the community’s immaturity not by ignorance but by social pathology: envy and contention are the empirical test of “carnal” life.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "He relocates authority from personality to vocation: ministers are measured by allotment—“as the Lord hath given”—not by the crowd they gather.",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "Unity of laborers does not erase differentiation: reward is “according to his own labour,” a moral economy inside divine sovereignty.",
+        "lines": [
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Brethren” addressed as infants: kinship without maturity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Milk is not kindness; it is indictment. Time has passed; capacity has not.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Names become banners; apostles reduced to party-labels.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Agriculture demotes charisma: planting and watering are not causation.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Human work is real and yet “not any thing”: agency without ultimacy.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three metaphors, one ownership: field, building, workforce—God’s.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commanded the fever: illness treated as an obedient subject.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Healing returns her to service; grace restores function, not leisure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Every one”: the cure is particular, not mass-produced.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Demons confess correctly; truth in the wrong mouth is still refused.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Desert after success: withdrawal as discipline against being possessed by demand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mission outruns popularity: sent-ness breaks local attachment.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts love for your name, so that, by making our lives more devout, you may increase the good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Send, Lord, into our hearts the abundance of your light, so that, ever advancing along the path of your commandments, we may be freed from every error. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today, remedy our shortcomings, and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your name is holy, and your mercy reaches your faithful from generation to generation; therefore hear the supplications of your people and grant that they may proclaim your greatness for ever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I, brethren, could not speak to you as unto spiritual, but as unto carnal. As unto little ones in Christ.",
+        "I gave you milk to drink, not meat: for you were not able as yet. But neither indeed are you now able: for you are yet carnal.",
+        "For, whereas there is among you envying and contention, are you not carnal and walk you not according to man?",
+        "For while one saith: I indeed am of Paul: and another: I am of Apollo: are you not men? What then is Apollo and what is Paul?",
+        "The ministers of him whom you have believed: and to every one as the Lord hath given.",
+        "I have planted, Apollo watered: but God gave the increase.",
+        "Therefore, neither he that planteth is any thing, nor he that watereth: but God that giveth the increase.",
+        "Now he that planteth and he that watereth, are one. And every man shall receive his own reward, according to his own labour.",
+        "For we are God's coadjutors. You are God's husbandry: you are God's building."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 3:1-9",
+      "reference": "1 Corinthians 3:1-9",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus rising up out of the synagogue, went into Simon's house. And Simon's wife's mother was taken with a great fever: and they besought him for her.",
+        "And standing over her, he commanded the fever: and it left her. And immediately rising, she ministered to them.",
+        "And when the sun was down, all they that had any sick with divers diseases brought them to him. But he, laying his hands on every one of them, healed them.",
+        "And devils went out from many, crying out and saying: Thou art the son of God. And rebuking them he suffered them not to speak; for they knew that he was Christ.",
+        "And when it was day, going out he went into a desert place: and the multitudes sought him, and came unto him. And they stayed him that should not depart from them.",
+        "To whom he said: To other cities also I must preach the kingdom of God: for therefore am I sent.",
+        "And he was preaching in the synagogues of Galilee."
+      ],
+      "lineRefs": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 4:38-44",
+      "reference": "Luke 4:38-44",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 22nd week of Ordinary Time",
+        "key": "wednesdayOfThe22ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/02.html",
+    "title": "Gospel and Word of the Day - 02 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-02"
+}
