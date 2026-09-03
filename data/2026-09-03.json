@@ -1,0 +1,301 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c99bcfcca9778e95fdd81739ae51e8c90af3bee68c848578e13a50afc5f9b555",
+        "inputSha256": "2018ef3050dd52128e8b8cb31a7eb40dfe78872c97bd708cc0c641e23317f965",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "9c80aed28d681c8488c4e78667e0f4af916ae4787c1920810429a63652c479ae",
+        "inputSha256": "9e5c209befa94b1a2679965be8830d02304c81f3d3738f671fdf9539fc02b502",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "99e6f0bdc2046b183bc14906227e0121d15eec0cb068139c0123a59739f89adf",
+        "inputSha256": "311bda8d8cea5e32fdb5ec6f9d4a1e11276ab29d9d7a37be6c7a4d28ffaa1571",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-03T05:47:16.941Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “become a fool” has a clean analogue in Zen’s “beginner’s mind”: intelligence that loosens its own grip so reality can enter without being pre-framed. It also resembles Socratic irony, where the pose of knowing is the real ignorance, and the admitted not-knowing becomes the doorway to truth.\n\n“Let no man glory in men” cuts against identity-by-faction the way Stoicism distrusts external badges and Epicureanism distrusts public acclaim: both read status as a narcotic that dulls freedom. The line “all things are yours” sounds, speculatively, like Advaita’s move from possession to participation, where the self stops clutching parts and discovers a wider belonging.\n\nThe failed night of labor and the sudden abundance at a word parallels Taoist wu-wei: effort that strains and yields nothing, then a yielding that aligns with the grain of things and produces more than force can buy. Peter’s “depart from me” matches the classic numinous recoil found in the Bhagavad Gita’s vision of Krishna and in Rudolf Otto’s account of the holy: awe that exposes the self as small, compromised, and yet addressed.\n\n“From henceforth thou shalt catch men” has a Buddhist tint, speculatively, as a bodhisattva turn: the skill of drawing beings out of danger without violence, replacing extraction with rescue. Leaving the boats reads like the renouncer motif in Jain and Hindu sannyasa traditions: a decisive severing from livelihood-as-identity so a different vocation can take over the whole psyche.",
+    "excursus": "Paul’s “become a fool” is not pious humility; it’s a demand to sabotage the ego’s favorite narcotic: being right. Worldly wisdom here is the mind’s self-justifying loop, the craftiness that keeps you protected, admired, and untouched. God “catches” the wise the way panic catches a control freak: by making their strategies suddenly useless. “Let no man glory in men” is not anti-leadership; it’s anti-addiction to borrowed stature. The promise “all things are yours” lands like a threat: if everything is yours, you can’t hide behind scarcity, can’t blame the limits, can’t pretend you had no choice. Even death is named as property. Possession becomes exposure.\n\nLuke stages that exposure as desire turning predatory. Jesus borrows Simon’s boat, then commandeers his competence. “Launch into the deep” is an order to violate the fisherman’s hard-won realism. Simon obeys with a clenched concession—at thy word—because obedience is the last refuge of the exhausted. The miracle is not comfort; it’s excess. The net breaks, the boats nearly sink. Abundance arrives as catastrophe, as if the world finally gives you what you wanted and it’s too heavy to carry.\n\nPeter’s “Depart from me” is the honest response to being seen. The catch doesn’t prove holiness; it proves intrusion. Jesus’ “Fear not” doesn’t soothe; it recruits. “Catching men” is the same violence transposed: the deep is now other people, the net is now attention, persuasion, charisma. They leave “all things” not because they’ve transcended desire, but because desire has found a larger object. Paul’s ownership and Luke’s leaving meet in a single dread: you can’t keep your life small once the deep has answered you.",
+    "synthesis": "God overturns worldly wisdom by binding persons and possessions into Christ’s order, where boasting collapses and belonging is redefined. Christ’s word both exposes sin and creates vocation, turning emptied labor into mission and leaving into freedom.",
+    "gospel": [
+      {
+        "text": "Luke stages a movement from crowd-pressure to ecclesial formation: the multitude seeks “word,” but the narrative narrows to a network of partners and a shared crisis of capacity. The overflowing catch functions as a public sign that reconstitutes relationships—boats, labor, and cooperation—around Jesus’ initiative.",
+        "lines": [
+          1,
+          2,
+          7,
+          9
+        ]
+      },
+      {
+        "text": "Peter’s recoil and Jesus’ commissioning form a single hinge: unworthiness is not a disqualification but the proper ground for mission once fear is addressed. Discipleship is depicted as a transfer of allegiance enacted materially—landing, leaving, following—so the new work is not an add-on but a new rule of life.",
+        "lines": [
+          8,
+          10,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul dismantles the epistemic regime that legitimates factionalism: “wise” thoughts are exposed as empty not by counter-arguments but by divine appraisal. The community’s divisions are treated as symptoms of a deeper captivity to worldly measures of status and insight.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The passage resolves rivalry by relocating identity into a hierarchy of participation: the church does not belong to its leaders; leaders and all conditions belong to the church only because the church belongs to Christ, and Christ’s mission is ordered to God. Unity is secured by ontology, not by negotiation.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Wisdom is reached by self-dispossession: the “fool” is a deliberate demotion.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "God’s judgment is not a higher technique; it is a trap for technique.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Boasting in persons is a category error: creaturely names cannot bear ultimacy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The inventory is total—teachers, cosmos, time, death—ownership without possession.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Chain of belonging: you → Christ → God. No free-standing self.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The pulpit is borrowed property; authority sits in another man’s boat.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Speech ends; command begins. “Deep” is not geography but exposure.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Competence yields to obedience: failure all night, consent in a sentence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Abundance arrives as rupture: the gift exceeds the vessel.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Miracle produces confession, not applause; proximity reveals stain.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vocation is transposition: the same verb of capture, a new object.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The sign is not kept as capital; it is spent by abandonment.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who care for your people with mercy and govern them with love, grant the gift of wisdom, through the intercession of Pope Saint Gregory the Great, to those to whom you have entrusted the task of governing your Church, so that the progress of the faithful may be the eternal joy of their pastors. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who care for your people with mercy and govern them with love, grant the gift of wisdom, through the intercession of Pope Saint Gregory the Great, to those to whom you have entrusted the mission of governing your Church, so that the progress of the faithful may be the eternal joy of their pastors. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who care for your people with mercy and govern them with love, grant the gift of wisdom, through the intercession of Pope Saint Gregory the Great, to those to whom you have entrusted the mission of governing your Church, so that the progress of the faithful may be the eternal joy of their pastors. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Let no man deceive himself. If any man among you seem to be wise in this world, let him become a fool, that he may be wise.",
+        "For the wisdom of this world is foolishness with God. For it is written: I will catch the wise in their own craftiness.",
+        "And again: The Lord knoweth the thoughts of the wise, that they are vain.",
+        "Let no man therefore glory in men.",
+        "For all things are yours, whether it be Paul or Apollo or Cephas, or the world, or life, or death, or things present, or things to come. For all are yours.",
+        "And you are Christ's. And Christ is God's."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 3:18-23",
+      "reference": "1 Corinthians 3:18-23",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, that when the multitudes pressed upon him to hear the word of God, he stood by the lake of Genesareth,",
+        "And saw two ships standing by the lake: but the fishermen were gone out of them and were washing their nets.",
+        "And going into one of the ships that was Simon's, he desired him to draw back a little from the land. And sitting, he taught the multitudes out of the ship.",
+        "Now when he had ceased to speak, he said to Simon: Launch out into the deep and let down your nets for a draught.",
+        "And Simon answering said to him: Master, we have laboured all the night and have taken nothing: but at thy word I will let down the net.",
+        "And when they had done this, they enclosed a very great multitude of fishes: and their net broke.",
+        "And they beckoned to their partners that were in the other ship, that they should come and help them. And they came and filled both the ships, so that they were almost sinking.",
+        "Which when Simon Peter saw, he fell down at Jesus' knees, saying: Depart from me, for I am a sinful man, O Lord.",
+        "For he was wholly astonished, and all that were with him, at the draught of the fishes which they had taken.",
+        "And so were also James and John, the sons of Zebedee, who were Simon's partners. And Jesus saith to Simon: Fear not: from henceforth thou shalt catch men.",
+        "And having brought their ships to land, leaving all things, they followed him."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 5:1-11",
+      "reference": "Luke 5:1-11",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Gregory the Great, Pope and Doctor of the Church",
+        "key": "saintGregoryTheGreatPopeAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/03.html",
+    "title": "Gospel and Word of the Day - 03 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-03"
+}
