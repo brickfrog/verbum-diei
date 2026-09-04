@@ -1,0 +1,272 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "98a43aa511d1d1824ec219211a995e8fca8a40c685aeca4fc2e52438c3f4e46d",
+        "inputSha256": "0315bdd174f3fafddd6e19e4bdd228550fb3959c2d899422677124d953631011",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "40cf8da845bfff72f722febd93f8f806eedc926b4e946ece536d13b3da34e766",
+        "inputSha256": "f3b417e78234a1671b738686bc5f6f15ed38762afe526b200ffc9e07ff22bf0f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8a26272b39c05918a0803bb36b431669cf6ac05a257449f8191199d44abed3dd",
+        "inputSha256": "2b0769d2fde24d1a0c6a079b3db18e837d21bc9da9e79c0c2fbb28e66e3973c2",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-04T05:54:18.313Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s refusal to be his own judge echoes the Stoic split between what is “up to us” and what isn’t, especially Epictetus: you steward your role and release the verdict. It also resembles Zen’s suspicion of self-appraisal as another grasping thought; the “I’m not conscious of anything” reads like a practiced non-accusation, not innocence. Speculation: the “Lord” functions psychologically as an internalized horizon of truth that outlives mood and self-justifying narrative.\n\nThe bridegroom image rhymes with Sufi poetry where presence suspends austerity and absence turns longing into discipline; fasting becomes a grammar of desire, not a badge. The new wine in old skins parallels Taoist warnings against forcing new insight through rigid forms, and Hindu bhakti’s recurring claim that love remakes the vessel that tries to hold it. The last line—preferring the old—matches Buddhist accounts of attachment to familiar suffering: the known tastes safer than the liberating unknown.",
+    "excursus": "Paul’s “faithfulness” is not moral steadiness but a kind of professional numbness. He calls himself a dispenser of mysteries, then strips everyone—crowd, conscience, even self-knowledge—of the right to judge him. “I am not conscious to myself of anything” reads like a chill: the clean interior that can’t incriminate itself because it no longer feels. He wants the verdict postponed to an arriving Lord who will expose what he refuses to touch now, the “hidden things of darkness” and the heart’s private counsels. The dread is that the real self is offshore, waiting to be dredged up.\n\nLuke’s bridegroom is not a license for joy but a countdown. While he is present, the feast is compulsory; grief is forbidden. Then he will be “taken away,” and fasting returns as a delayed payment, a hunger that finally gets its turn. The parables aren’t about gentle reform; they’re about incompatibility that destroys containers. Newness is violent pressure. And the last line admits what religion hates to admit: most people prefer the old because it fits their mouth. Desire clings to familiar taste, even when it’s stale, because new wine feels like a threat to the vessel you’ve built your life inside.",
+    "synthesis": "God’s gifts are administered as a trust and judged only by God in God’s time. The advent of Christ creates forms that cannot be safely contained by inherited measures, and refusal of newness is often mere attachment to the familiar.",
+    "gospel": [
+      {
+        "text": "The dispute is not about fasting technique but about covenantal timing and form. Jesus refuses to let the new reality be managed by old religious containers; the issue is capacity, not sincerity, and the wrong form destroys both content and bearer.",
+        "lines": [
+          1,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The closing aphorism diagnoses resistance as palate, not argument. Attachment to the “old” is an affective inertia that can veto conversion even when the new is true.",
+        "lines": [
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames apostolic authority as delegated custody: the Church receives “mysteries” as a trust, so leadership is accountable to the Giver rather than to the audience. This relocates legitimacy from charisma and reception to commission and fidelity.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Eschatology governs ethics: evaluation is postponed because reality is not yet fully disclosed. The final audit is revelatory—bringing hidden facts and motives into a single public account—so premature verdicts are structurally ignorant.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Not owners: ministers. Not inventors: stewards of what is hidden.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The metric is not brilliance but fidelity; stewardship is moral, not aesthetic.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Human court is “small”; self-court is also disallowed. Two tribunals dismissed.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Clear conscience is not acquittal. Innocence-feeling is not innocence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Time is part of judgment; darkness has inventory; hearts have counsel.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Presence suspends fasting: joy is not a concession but a sign.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Taken away: the feast has an eclipse; fasting returns as absence-work.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Patch logic fails: the “fix” becomes a tear; mismatch is violence.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "New wine is pressure; old skins are brittle; loss is double—wine and vessel.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Taste defends habit: preference masquerades as judgment—“better” means familiar.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good comes, sow in our hearts love for your name, so that, by making our life more devout, you may increase the good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, we ask you to grant that, just as we have sung your praises in this morning celebration, so we may also sing them in all their fullness in the assembly of your saints for all eternity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our God, who in a wondrous way have revealed your hidden wisdom through the scandal of the cross, grant that we may contemplate with such fullness of faith the glory of your Son’s Passion that we may always glory with confidence in the cross of Jesus Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Let a man so account of us as of the ministers of Christ and the dispensers of the mysteries of God.",
+        "Here now it is required among the dispensers that a man be found faithful.",
+        "But to me it is a very small thing to be judged by you or by man's day. But neither do I judge my own self.",
+        "For I am not conscious to myself of anything. Yet am I not hereby justified: but he that judgeth me is the Lord.",
+        "Therefore, judge not before the time: until the Lord come, who both will bring to light the hidden things of darkness and will make manifest the counsels of the hearts. And then shall every man have praise from God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 4:1-5",
+      "reference": "1 Corinthians 4:1-5",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And they said to him: Why do the disciples of John fast often and make prayers, and the disciples of the Pharisees in like manner; but thine eat and drink?",
+        "To whom he said: Can you make the children of the bridegroom fast whilst the bridegroom is with them?",
+        "But the days will come when the bridegroom shall be taken away from them: then shall they fast in those days.",
+        "And he spoke also a similitude to them: That no man putteth a piece from a new garment upon an old garment: otherwise he both rendeth the new, and the piece taken from the new agreeth not with the old.",
+        "And no man putteth new wine into old bottles: otherwise the new wine will break the bottles; and it will be spilled and the bottles will be lost.",
+        "But new wine must be put into new bottles: and both are preserved.",
+        "And no man drinking old hath presently a mind to new: for he saith: The old is better."
+      ],
+      "lineRefs": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 5:33-39",
+      "reference": "Luke 5:33-39",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 22nd week of Ordinary Time",
+        "key": "fridayOfThe22ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/04.html",
+    "title": "Gospel and Word of the Day - 04 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-04"
+}
