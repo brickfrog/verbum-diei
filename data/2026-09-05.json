@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "55edd2d6ee575a881ce3bc35ddf8678036e2f1d9b9fde126eece1d2e8e67b881",
+        "inputSha256": "6aa4d543e735ebe88bd6ed44262157ff588bb9f57eaa072a94e280bddc7e4b3b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bf6701d8b1cf30eb4a5b219e44c4f0b262b98d3c6abe0adf62943474418e03b5",
+        "inputSha256": "3b09a11d638132862ae3d9bd165c255cf05d1c4356cd365962141bf87ac355c8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "796c217557fda0afb93e74b3a94f992bba9de120f71defe5740613ea482ec53b",
+        "inputSha256": "be7eb895a24a6c58f13a976d58a66ce648155f09be30dd25d0b89f9f4849847a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-05T05:45:21.434Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s refusal of status and his embrace of being “refuse” reads like Cynic parrhesia and Diogenes’ anti-prestige theater: the teacher proves freedom by consenting to contempt. Speculation: it also resembles the Zen move of taking the lowest seat, letting insult burn off the self that wants to be “distinguished.”\n\nHis claim to fatherhood is not hierarchy but psychic adoption: a demand for gratitude that breaks the adolescent fantasy of self-creation. Confucian xiao and the guru–shishya bond in Advaita both treat formation as received life, not self-made achievement.\n\nJesus’ sabbath argument turns law into a servant of hunger, like the rabbinic instinct of pikuach nefesh extended into ordinary need, and like Aristotle’s epieikeia where equity corrects rigid rule. Speculation: it echoes Mahayana upaya, where compassion authorizes bending form without despising it.\n\n“Lord of the sabbath” asserts mastery of time’s sacred boundary; it rhymes with Shiva as Mahakala and with Stoic sovereignty, the inner ruler who is not owned by the calendar.",
+    "excursus": "Paul is not teaching humility; he is staging a humiliation. He drips with sarcasm—“you are full… rich… you reign”—because their spiritual confidence is a fantasy built to avoid the raw fact of dependence. His real move is psychological: he makes himself the abject object, the “spectacle,” the “offscouring,” so their triumphal self-image has to look at its own cruelty. Then he tightens the leash with the word they can’t resist: father. Not teacher, not peer—father. Love is the velvet, possession the steel.\n\nLuke shows the same nerve. Hunger walks through a field and breaks the law with its hands. The Pharisees defend time; Jesus defends appetite. He doesn’t argue purity; he tells a story of sacred theft and crowns it with a claim of authority: the sabbath serves the living body, not the other way around. The dread underneath is simple: once need is admitted, rules lose their innocence. Desire becomes king, and piety has to decide whether it will feed people or only judge them.",
+    "synthesis": "All Christian boasting is theft, because every gift is received and every authority is cruciform. The Son of Man governs the Sabbath, so divine law is ordered by Christ’s lordship and the necessities he judges.",
+    "gospel": [
+      {
+        "text": "Jesus argues by Scripture to expose a deeper hermeneutic: David’s exceptional act reveals that the law already contains a hierarchy of goods. The conclusion is not mere exception-making but a christological claim—authority to order sacred time belongs to the Son of Man, so interpretation is finally personal before it is textual.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s catalogue of deprivation and manual labor is not self-pity but credentialing: the Corinthians’ status-games are judged by an economy where authority is authenticated by endurance and non-retaliation. The apostle’s “we bless… we suffer” establishes a pattern of power that refuses to mirror the city’s honor system.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "He shifts from satire to paternity: not to flatter but to assert jurisdiction. “Instructors” can multiply without obligation; a father claims origin, responsibility, and the right to correct—an ecclesial structure grounded in begetting rather than charisma.",
+        "lines": [
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "He hides behind exempla to strike the real target: their factional vanity.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A single question dismantles merit: possession implies prior gift.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ironic coronation: they “reign” in imagination while the founders stand outside the palace.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostolic office as public execution: theology staged as disgrace.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Antiphonal inversion—wise/weak/honourable—exposes their counterfeit “in Christ.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refuse and offscouring: the Church’s foundation laid in what society sweeps away.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath framed by hunger; law meets the body in the field, not the academy.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The accusation is procedural: legality replaces discernment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Holy bread becomes precedent: necessity trespasses into sanctuary and is not condemned.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Lordship over time itself: the Sabbath is not an equal partner but a possession.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom every good thing comes, sow in our hearts love for your name, so that, by making our lives more devout, you may increase what is good within us and, with loving care, preserve it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our voice, Lord, our spirit, and our whole life be a continual praise in your honor; and since our entire existence is a pure gift of your generosity, may each of our actions also be wholly dedicated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, burning fire of eternal love, grant that, inflamed with your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But these things, brethren, I have in a figure transferred to myself and to Apollo, for your sakes: that in us you may learn that one be not puffed up against the other for another, above that which is written.",
+        "For who distinguisheth thee? Or what hast thou that thou hast not received, and if thou hast received, why dost thou glory, as if thou hadst not received it?",
+        "You are now full: you are now become rich: you reign without us; and I would to God you did reign, that we also might reign with you.",
+        "For I think that God hath set forth us apostles, the last, as it were men appointed to death. We are made a spectacle to the world and to angels and to men.",
+        "We are fools for Christs sake, but you are wise in Christ: we are weak, but you are strong: you are honourable, but we without honour.",
+        "Even unto this hour we both hunger and thirst and are naked and are buffeted and have no fixed abode.",
+        "And we labour, working with our own hands. We are reviled: and we bless. We are persecuted: and we suffer it.",
+        "We are blasphemed: and we entreat. We are made as the refuse of this world, the offscouring of all, even until now.",
+        "I write not these things to confound you: but I admonish you as my dearest children.",
+        "For if you have ten thousand instructors in Christ, yet not many fathers. For in Christ Jesus, by the gospel, I have begotten you."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 4:6-15",
+      "reference": "1 Corinthians 4:6-15",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass on the second first sabbath that, as he went through the corn fields, his disciples plucked the ears and did eat, rubbing them in their hands.",
+        "And some of the Pharisees said to them: Why do you that which is not lawful on the sabbath days?",
+        "And Jesus answering them, said: Have you not read so much as this, what David did, when himself was hungry and they that were with him:",
+        "How he went into the house of God and took and ate the bread of proposition and gave to them that were with him, which is not lawful to eat but only for the priests?",
+        "And he said to them: The Son of man is Lord also of the sabbath."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:1-5",
+      "reference": "Luke 6:1-5",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 22nd week of Ordinary Time",
+        "key": "saturdayOfThe22ndWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/05.html",
+    "title": "Gospel and Word of the Day - 05 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-05"
+}
