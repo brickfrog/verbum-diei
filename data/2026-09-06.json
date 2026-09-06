@@ -1,0 +1,259 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6f79b64e87c506cfbeb08dea638cc8740e7e0053ae10b7e6c9ceb6d20c3750eb",
+        "inputSha256": "4320764d4eb99e88570cf6bc80f56453cdb6d39030ea85bf92bb89ac8b5f714b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5263b1146e83310ca42cbaaf1b7a852765e6333ff294f36936dff7c58755f9c2",
+        "inputSha256": "bcb2eb56abf4189e1c29c03fa76b2f51233317fb19d4a0aa9b20a7a2d645bafc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a03932c6181f7c989606a2c25ee923947319bd3184551755a6b62e3c772b7a20",
+        "inputSha256": "c9440bc5fb059b36468a6c0be6e3a9958667e7a97c93864080006f3e20bbaac1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-06T05:56:56.603Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s watchman is the psyche’s burden of foresight: once you see the cliff, silence makes you complicit. That resembles the bodhisattva vow in Mahayana Buddhism, where insight incurs obligation to intervene; speculation: the “blood at thy hand” feels like karmic entanglement translated into legal imagery. It also echoes the Bhagavad Gita’s insistence on svadharma, the duty you cannot evade without inner corrosion.\n\nMatthew’s staged confrontation reads like a technology for preserving relationship without feeding the ego’s appetite for spectacle. The private first step parallels Confucian remonstrance, where correction is loyal only if it is tactful and proportionate; speculation: “two or three witnesses” functions like li, a ritual container that keeps truth from becoming mere power. “Bind and loose” resembles rabbinic halakhic authority, but psychologically it is the community naming what is real and what is released, akin to restorative justice practices.\n\n“Two or three gathered” has a close cousin in the Hindu and Buddhist idea of satsang: presence intensifies when intention is shared. Speculation: it also matches the Sufi sense of baraka in companionship, where the invisible becomes palpable not in solitude but in a small, aligned circle.",
+    "excursus": "These readings don’t praise courage; they conscript it. The “watchman” is a man turned into an instrument of other people’s outcomes, told that silence makes him a murderer by proxy. It’s not holiness, it’s hostage logic: speak or you inherit the blood. Desire is recast as duty, and duty is enforced by terror.\n\nMatthew sharpens the same mechanism into procedure. Intimacy becomes a tribunal: first a private wound, then witnesses, then the crowd. The goal is called “gaining your brother,” but the method is escalation, a slow conversion of relationship into casework. “Let him be as the heathen” isn’t just exclusion; it’s the relief of finally being allowed to stop wanting him.\n\n“Bind and loose” reads like spiritual authority, but it functions as psychological permission. The group gets to make its verdict feel cosmic, to turn consensus into heaven’s echo. “Two or three gathered” is not comfort; it’s the thrill and dread of a small circle discovering that together they can name reality, and that their naming will not be contradicted.",
+    "synthesis": "God binds his people to speak and judge under delegated authority: silence and disorder both incur guilt. Christ authorizes the church’s disciplined process so that earthly correction and exclusion carry heavenly consequence.",
+    "gospel": [
+      {
+        "text": "A graded procedure is established for handling sin inside the community: from personal confrontation to communal adjudication to exclusion. The point is to prevent both private resentment and public chaos by giving offense a controlled path.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The community’s disciplinary and petitionary acts are placed under a vertical correspondence: heaven is not merely observing but confirming. This makes ecclesial decisions weighty—neither arbitrary nor merely administrative.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The minimum quorum (two or three) links evidence, agreement, and presence: the same small assembly that can establish a matter can also act with Christ’s attendant authority. The church is defined less by scale than by ordered concurrence in his name.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage frames moral speech as delegated office: God installs a human intermediary so that judgment is not mute. Responsibility is redistributed—guilt remains with the wicked, but accountability for warning is assigned to the appointed speaker.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The logic is forensic rather than therapeutic: the question is not whether the warning persuades, but whether the required testimony was rendered. Salvation-language appears as legal deliverance—one’s own life is secured by faithful notification.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Watchman: not seer but sentry; hearing precedes speaking; mouth-to-mouth chain of custody.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Silence becomes complicity; the wicked dies for himself, the watchman is charged for another’s blood.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Outcome is not yours; obligation is. Conversion offered, refusal permitted; the messenger survives by discharge, not success.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Private first: correction without spectacle; the aim is acquisition—“gain” not victory.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Escalation is juridical: witnesses stabilize speech; truth is made to stand, not to sparkle.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Church as court of last appeal; refusal hardens into a new category—outside the covenantal ‘brother.’",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Binding/loosing: earthly decisions carry heavenly ratification; authority is real and dangerous.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Small-number presence: Christ locates himself in gathered judgment, not in solitary certainty.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a Father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest in your peace without any fear, and tomorrow rise with joy to sing your praises anew. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "So thou, O son of man, I have made thee a watchman to the house of Israel: therefore thou shalt hear the word from my mouth, and shalt tell it them from me.",
+        "When I say to the wicked: O wicked man, thou shalt surely die: if thou dost not speak to warn the wicked man from his way: that wicked man shall die in his iniquity, but I will require his blood at thy hand.",
+        "But if thou tell the wicked man, that he may be converted from his ways, and he be not converted from his way he shall die in his iniquity: but thou hast delivered thy soul."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 33:7-9",
+      "reference": "Ezekiel 33:7-9",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But if thy brother shall offend against thee, go, and rebuke him between thee and him alone. If he shall hear thee, thou shalt gain thy brother.",
+        "And if he will not hear thee, take with thee one or two more: that in the mouth of two or three witnesses every word may stand.",
+        "And if he will not hear them: tell the church. And if he will not hear the church, let him be to thee as the heathen and publican.",
+        "Amen I say to you, whatsoever you shall bind upon earth, shall be bound also in heaven: and whatsoever you shall loose upon earth, shall be loosed also in heaven.",
+        "Again I say to you, that if two of you shall consent upon earth, concerning anything whatsoever they shall ask, it shall be done to them by my Father who is in heaven.",
+        "For where there are two or three gathered together in my name, there am I in the midst of them."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:15-20",
+      "reference": "Matthew 18:15-20",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "23rd Sunday of Ordinary Time",
+        "key": "23rdSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/06.html",
+    "title": "Gospel and Word of the Day - 06 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-06"
+}
