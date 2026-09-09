@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "9dc88ea953d85eca905fd5e4d758ac70fd7777813dd5d346c14f2c2e0c6d6134",
+        "inputSha256": "44ae2caf7ca47458f3f9af7f935e8e38b80d575976040038c07eef97a0e48441",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c3e1785e6c5d7df18f0427f0aa41ecd6f75f691fad4fb8a776748f0ecb048d97",
+        "inputSha256": "be62268483cbd60664fe3f1c0831a0366cf0f890d6ebced9930c23e6970dfd4b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "231f35a2ba83c97f65cdfb78d106ea9320aae31cd14d8dcb11a189f08219ecdc",
+        "inputSha256": "a2e39c652a377558cf4a14becb052713b23f9b9a406c67f6132a6c47aef5e89a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-09T05:58:58.682Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “as if not” has the feel of Stoic apatheia and Epictetus’s inner freedom: keep your roles, loosen your grip. Speculation: it also resembles the Bhagavad Gita’s karma-yoga, action without possessiveness, and the Daoist lightness that treats status and gain as passing weather.\n\nLuke’s blessings and woes echo the Buddhist diagnosis of craving: fullness, laughter, and social approval become narcotics that dull perception, while lack and grief can sharpen it. Speculation: the reversal motif tracks the Sufi praise of faqr (spiritual poverty) and the Zen preference for “beginner’s mind,” where deprivation breaks the spell of self-satisfaction.\n\nBoth texts share a psychological wager: attachment to comfort and reputation makes you manipulable, while voluntary simplicity makes you harder to buy, flatter, or threaten. Speculation: that aligns with Cynic shamelessness and certain strands of Hindu sannyasa, not as contempt for life but as training in non-dependence.",
+    "excursus": "Paul isn’t preaching purity; he’s managing panic. “The time is short” turns marriage, grief, shopping, even joy into props you handle with gloves. His counsel is not moral elevation but emergency triage: attachment is dangerous because it makes you legible to the world, and the world is about to be rearranged. “Tribulation of the flesh” is not a warning about sex; it’s the cost of having something to lose.\n\nLuke’s blessings aren’t comfort; they’re a recruitment speech for the dispossessed. Poverty, hunger, tears, hatred—these are not virtues but conditions that strip you of alternatives until the kingdom becomes the only imaginable compensation. The “woes” land on the satisfied because satisfaction is anesthesia: it keeps you from noticing how temporary your life is, how purchased your laughter is, how dependent your praise is on staying harmless.\n\nTogether they read like a manifesto of holy detachment driven by dread and desire. Dread of the world’s collapse, desire for a different order that can only be wanted fully when this one stops feeding you. The blessed are not the good; they’re the unbribable. The damned are not the evil; they’re the successfully seduced.",
+    "synthesis": "Because the kingdom is imminent and the world’s form is passing, Christian life treats every earthly condition as provisional and measures blessedness by alignment with the rejected Son of Man rather than by comfort or acclaim.",
+    "gospel": [
+      {
+        "text": "Luke’s blessings and woes are not generic moral advice but an apocalyptic reversal: present conditions are read as indicators of where one is storing life. Hunger and tears are temporary; fullness and laughter can be premature settlements.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "The reward is explicitly relocated to heaven, and the community is inserted into a prophetic lineage. The point is not stoic endurance but identification with the rejected messengers of God.",
+        "lines": [
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul does not dissolve obligations; he freezes them. The counsel is conservative in form (do not seek change) but radical in orientation: every status is relativized by an approaching horizon, so the believer’s primary task is not self-reconstruction but undivided availability.",
+        "lines": [
+          3
+        ]
+      },
+      {
+        "text": "The repeated “as though” disciplines affect and possession. Grief, joy, commerce are not denied; they are stripped of ultimacy so that interior freedom can survive the churn of circumstances.",
+        "lines": [
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Apostolic counsel, not dominical fiat; authority grounded in mercy, not mandate.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Present necessity” makes ethics situational under eschatological pressure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Marriage permitted, then immediately taxed: “tribulation of the flesh” as built-in cost.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Time compressed; ordinary states kept at arm’s length—“as if” becomes the Christian adverb.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Use without use: the world is handled like a tool already scheduled for disposal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Beatitude begins with lack; poverty is not romanticized but enthroned.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Social expulsion becomes a credential when tied to the Son of Man.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Woe names the danger of satiation: consolation can be terminal.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Universal praise is a diagnostic; applause aligns with false prophecy.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all of us who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, pour into our souls the brightness of your light; and since in your wisdom you have created us and in your providence you govern us, grant that our life and our actions may be wholly consecrated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May the pleading voice of your Church reach your ears, Lord, so that, having obtained forgiveness for our sins, with your help we may devote ourselves to your service and, under your protection, live in confidence. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now, concerning virgins, I have no commandment of the Lord: but I give counsel, as having obtained mercy of the Lord, to be faithful.",
+        "I think therefore that this is good for the present necessity: that it is good for a man so to be.",
+        "Art thou bound to a wife? Seek not to be loosed. Art thou loosed from a wife? Seek not a wife.",
+        "But if thou take a wife, thou hast not sinned. And if a virgin marry, she hath not sinned: nevertheless, such shall have tribulation of the flesh. But I spare you.",
+        "This therefore I say, brethren: The time is short. It remaineth, that they also who have wives be as if they had none:",
+        "And they that weep, as though they wept not: and they that rejoice, as if they rejoiced not: and they that buy as if they possessed not:",
+        "And they that use this world, as if they used it not. For the fashion of this world passeth away."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 7:25-31",
+      "reference": "1 Corinthians 7:25-31",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he, lifting up his eyes on his disciples, said: Blessed are ye poor: for yours is the kingdom of God.",
+        "Blessed are ye that hunger now: for you shall be filled. Blessed are ye that weep now: for you shall laugh.",
+        "Blessed shall you be when men shall hate you, and when they shall separate you and shall reproach you and cast out your name as evil, for the Son of man's sake.",
+        "Be glad in that day and rejoice: for behold, your reward is great in heaven, For according to these things did their fathers to the prophets.",
+        "But woe to you that are rich: for you have your consolation.",
+        "Woe to you that are filled: for you shall hunger. Woe to you that now laugh: for you shall mourn and weep.",
+        "Woe to you when men shall bless you: for according to these things did their fathers to the false prophets."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:20-26",
+      "reference": "Luke 6:20-26",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "n",
+        "rank": "MEMORIAL",
+        "name": "Saint Peter Claver, Priest",
+        "key": "saintPeterClaverPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/09.html",
+    "title": "Gospel and Word of the Day - 09 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-09"
+}
