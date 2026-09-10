@@ -1,0 +1,325 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "30068b0f75430466cdd15cdb638e753feb848325a2f3c427b868827409a13dcd",
+        "inputSha256": "689a3a09135ff0ae56b4e8557a2ca730d9a0468269dc9c9ba592a9fbcda7ba4e",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ffb8ad4572d31c71b4f0d21e698bb1708ca70291967d3b3f0b5887f6a1ac299f",
+        "inputSha256": "325423c91b1fed1fdb13ea921a3612e547e317e18ad2e5f73b6424952f7bac81",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a8ca5793fbb1006734736bbaf1e1bcc6e8eda9338faff17ae8447452e76b21ed",
+        "inputSha256": "2a6547d3af2a51d3f21631710ba4a53ae56065d0536280601107a7c38c0ee1ac",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-10T05:58:13.912Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s restraint for the sake of the “weak” has a close cousin in the Buddhist vow to avoid harm through “skillful means” (upaya): truth without timing becomes cruelty. It also resembles the Jain discipline of ahimsa, where even permissible acts are refused if they agitate another’s conscience; the point is not purity but non-injury.\n\nLuke’s enemy-love echoes the Stoic cosmopolis: the offender is still kin in the same rational city, so retaliation is a kind of self-mutilation. It also brushes the Daoist ideal of returning softness for hardness, letting aggression exhaust itself against nonresistance. Speculation: the “measure” image aligns with karmic mirroring in Hindu and Buddhist thought, not as cosmic bookkeeping but as the psyche’s habit of recreating the world it expects—mercy training perception until mercy is what one can receive.",
+    "excursus": "Paul’s “knowledge” is not clarity; it is permission. The idol is “nothing,” so the enlightened can eat, stroll through the marketplace untouched, and call it freedom. But the real god in the room is the self that loves being right. Knowledge puffs because it turns other people into props: the weak brother becomes a lesson, a cautionary tale, a convenient casualty. Paul’s renunciation of meat is not piety; it is an admission that the community is held together by contagion, by suggestion, by the violence of example. One person’s liberty becomes another person’s relapse.\n\nLuke’s love of enemies is the same dread, sharpened. It is not kindness; it is disarmament. Turn the other cheek, give the cloak, lend without return: these are tactics for breaking the loop where injury demands payment and payment demands more injury. Mercy here is not soft; it is terrifyingly asymmetrical. You refuse the sweet relief of retaliation, the pleasure of being owed, the identity of victim. “Judge not” is not moral advice; it is a warning that condemnation is a narcotic and you will take the dose you prescribe.\n\nPut together, the texts strip the ego of its favorite luxuries: being correct, being wronged, being superior. They ask for a love that costs you your rights, your appetites, your stories. The reward is not comfort. It is the strange overflow that comes when you stop feeding the idol of the self.",
+    "synthesis": "Christian freedom is real but never sovereign: it is governed by love that refuses to harm the weak and by mercy that breaks the logic of retaliation and exchange.",
+    "gospel": [
+      {
+        "text": "Luke’s sequence moves from interpersonal hostility to the interior tribunal: blessing and prayer, then the rule of symmetry, then mercy, then the suspension of judgment. The point is not niceness but the dismantling of the mechanisms by which the self secures superiority.",
+        "lines": [
+          2,
+          5,
+          10,
+          11
+        ]
+      },
+      {
+        "text": "Jesus attacks the economy of exchange—doing good for good, lending for return—and replaces it with an economy of resemblance: act without repayment so that your life mirrors the Father’s indiscriminate beneficence. The promised “reward” is not wages but filial likeness made visible.",
+        "lines": [
+          7,
+          8,
+          9,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul concedes the crowded pantheon as a social fact, then re-centers the community’s ontology in a twofold confession: all things “from” the Father and “through” the Lord. The ethical problem of food is solved by locating the Church inside that origin-and-agency grammar; behavior must match the world it claims.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The argument turns on representation: the “strong” act publicly, and their act becomes instruction. Because Christ’s death has already assigned infinite value to the weak, the strong cannot treat their own clarity as private property; their conduct is ecclesial speech.",
+        "lines": [
+          1,
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Knowledge inflates; love builds. Two architectures.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Epistemic humility as a moral requirement, not a mood.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The decisive verb is passive: to be known.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Idol = null; the danger is not metaphysical but relational.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Conscience can be weak and still binding; defilement is internal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Your “right” becomes another’s ruin; knowledge turns lethal.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wounding a conscience is christological violence.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Freedom voluntarily amputated to prevent scandal.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Enemy-love is commanded to “those that hear”: obedience filters the audience.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Non-retaliation escalates into dispossession; the self is de-armed.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal to reclaim goods: renunciation of leverage.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Natural reciprocity is dismissed as morally trivial.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hope is severed from return; sonship is patterned on divine kindness to the vile.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Measure-for-measure: generosity installs the metric that will judge you.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God: enlighten with your light the peoples who live in darkness and in the shadow of death, for by that light the Dayspring from on high has visited us, Jesus Christ our Lord. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, by imitating the examples of patience of your Son, it may never falter in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, we give you thanks for the day now ending and implore your mercy, that you may graciously forgive us all the faults which, through the frailty of the human condition, we have committed this day. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now concerning those things that are sacrificed to idols: we know we all have knowledge. Knowledge puffeth up: but charity edifieth.",
+        "And if any man think that he knoweth any thing, he hath not yet known as he ought to know.",
+        "But if any man love God, the same is known by him.",
+        "But as for the meats that are sacrificed to idols, we know that an idol is nothing in the world and that there is no God but one.",
+        "For although there be that are called gods, either in heaven or on earth (for there be gods many and lords many):",
+        "Yet to us there is but one God, the Father, of whom are all things, and we unto him: and one Lord Jesus Christ, by whom are all things, and we by him.",
+        "But there is not knowledge in every one. For some until this present, with conscience of the idol, eat as a thing sacrificed to an idol: and their conscience, being weak, is defiled.",
+        "And through thy knowledge shall the weak brother perish, for whom Christ hath died?",
+        "Now when you sin thus against the brethren and wound their weak conscience, you sin against Christ.",
+        "Wherefore, if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 8:1-7,11-13",
+      "reference": "1 Corinthians 8:1-7,11-13",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But I say to you that hear: Love your enemies. Do good to them that hate you.",
+        "Bless them that curse you and pray for them that calumniate you.",
+        "And to him that striketh thee on the one cheek, offer also the other. And him that taketh away from thee thy cloak, forbid not to take thy coat also.",
+        "Give to every one that asketh thee: and of him that taketh away thy goods, ask them not again.",
+        "And as you would that men should do to you, do you also to them in like manner.",
+        "And if you love them that love you, what thanks are to you? For sinners also love those that love them.",
+        "And if you do good to them who do good to you, what thanks are to you? For sinners also do this.",
+        "And if you lend to them of whom you hope to receive, what thanks are to you? For sinners also lend to sinners, for to receive as much.",
+        "But love ye your enemies: do good, and lend, hoping for nothing thereby: and your reward shall be great, and you shall be the sons of the Highest. For he is kind to the unthankful and to the evil.",
+        "Be ye therefore merciful, as your Father also is merciful.",
+        "Judge not: and you shall not be judged. Condemn not: and you shall not be condemned. Forgive: and you shall be forgiven.",
+        "Give: and it shall be given to you: good measure and pressed down and shaken together and running over shall they give into your bosom. For with the same measure that you shall mete withal, it shall be measured to you again."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:27-38",
+      "reference": "Luke 6:27-38",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 23rd week of Ordinary Time",
+        "key": "thursdayOfThe23rdWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/10.html",
+    "title": "Gospel and Word of the Day - 10 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-10"
+}
