@@ -1,0 +1,262 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bfebb69720e8db03c6ae28f1434bdefe241ea74f1aac83624d27259f05653577",
+        "inputSha256": "e5af364741613985616b271b050a84e78a70938ac178ab8b2063c3bc4a83a2f0",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "166a02744eed168423b271144b1d84c2e49449eb291a55cb8565816b386c9336",
+        "inputSha256": "0b7b294c3ed3c23b21d8860dff95662528fdbe543832119be5d04e6100ed2b39",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a844f172a29a6ec49a2a050c7ddf98829b9bbb7f5b265b717a14eed2cb8e8a5a",
+        "inputSha256": "b88490e598430d225aa5b05a36fdd05a022f0bde6a207cc11895ddc19bd391a5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-11T05:57:53.564Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s self-emptying adaptability has clear kinship with the bodhisattva’s upāya in Mahāyāna Buddhism: the deliberate taking of whatever form helps another cross over, without clinging to status or “rights.” His refusal to monetize the message echoes the Jain and Buddhist suspicion of spiritual commerce, where purity of intent is protected by voluntary simplicity.\n\nThe athletic discipline and fear of self-disqualification align with Stoic askēsis and Epictetus’ insistence that teaching is invalidated by an undisciplined life; the “crown” becomes the inner freedom that cannot be taken. Speculation: the “necessity” he feels resembles the Daoist sense of being carried by the Dao—less personal ambition than compelled alignment.\n\nLuke’s warning about blind guides and the beam in the eye parallels Zen’s distrust of secondhand insight and the insistence on seeing through one’s own delusion before correcting others; it also matches Sufi adab, where self-scrutiny precedes counsel. The image is psychological: projection masquerading as virtue, and the cure is painful self-knowledge before moral surgery on anyone else.",
+    "excursus": "Paul doesn’t sound like a man buoyed by good news; he sounds cornered. “Necessity” sits on him like a vise, and “woe” is the punishment for silence. His famous flexibility—becoming weak to win the weak, becoming “all things”—reads less like generosity than like a controlled shapeshifting, a seduction performed under duress. Even the refusal of payment isn’t pure; it’s a way to keep his hands clean while still owning the room.\n\nSo he trains like an athlete not for joy but to stave off disgrace. The body is an enemy to be beaten into compliance because the real terror is exposure: after preaching to others, he might be revealed as hollow, a castaway. Discipline becomes a ritual to convince himself he is real.\n\nLuke tightens the screw. The blind leading the blind is not just about bad teachers; it’s about the hunger to be a guide when you can’t bear your own darkness. The “beam” is the private mass you refuse to touch, and the urge to pick at your brother’s “mote” is displaced self-surgery. The demand is brutal: stop performing clarity, stop correcting as camouflage. Only the one who has faced his own obstruction can see without needing to dominate.",
+    "synthesis": "True authority in the Church is cruciform: it binds the speaker to self-discipline and self-judgment before it permits guidance of others. The gospel is advanced not by asserted rights or exposed faults, but by disciplined participation in Christ’s pattern.",
+    "gospel": [
+      {
+        "text": "Jesus establishes a pedagogy of likeness: formation is measured by conformity to the master, not by superiority over others. The warning about judgment is therefore not anti-correction but anti-usurpation—authority without sight is counterfeit, and discipleship is the only legitimate route to guidance.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames ministry as participation in the gospel’s own pattern: self-giving that aims at communion, not extraction. The athletic imagery sets an eschatological horizon—an incorruptible crown—that makes present renunciations intelligible and necessary; the community is not won by charisma but by ordered desire.",
+        "lines": [
+          6,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Apostolic speech as compulsion; “woe” replaces applause.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Willingness changes wages, not the assignment; stewardship remains.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “reward” is self-limitation: free gospel, unexploited authority.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Freedom inverted into servitude; gain measured in persons, not rights.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Adaptation without surrender: becoming “all things” under a single aim.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No shadowboxing: discipline refuses performative combat.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The preacher can be disqualified; proclamation does not immunize.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blind guidance is gravity with a voice; the ditch is the shared end.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vision weaponized: minor faults magnified to avoid major guilt.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Correction without self-judgment is hypocrisy; clarity is a moral achievement.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, grant your people that the constant meditation on your teaching may teach them to fulfill, in word and deed, what is pleasing to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Enlighten our hearts, O Lord, and strengthen our wills, that we may always follow the way of your commandments, acknowledging you as our guide and teacher. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, you willed that Christ, your Son, should be the price of our ransom; grant that we may live in such a way that, sharing in his sufferings, we may also rejoice at the revelation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For if I preach the gospel, it is no glory to me: for a necessity lieth upon me. For woe is unto me if I preach not the gospel.",
+        "For if I do this thing willingly, I have a reward: but if against my will, a dispensation is committed to me.",
+        "What is my reward then? That preaching the gospel, I may deliver the gospel without charge, that I abuse not my power in the gospel.",
+        "For whereas I was free as to all, I made myself the servant of all, that I might gain the more.",
+        "To the weak I became weak, that I might gain the weak. I became all things to all men, that I might save all.",
+        "And I do all things for the gospel's sake, that I may be made partaker thereof.",
+        "Know you not that they that run in the race, all run indeed, but one receiveth the prize. So run that you may obtain.",
+        "And every one that striveth for the mastery refraineth himself from all things. And they indeed that they may receive a corruptible crown: but we an incorruptible one.",
+        "I therefore so run, not as at an uncertainty: I so fight, not as one beating the air.",
+        "But I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway."
+      ],
+      "lineRefs": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 9:16-19,22-27",
+      "reference": "1 Corinthians 9:16-19,22-27",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he spoke also to them a similitude: Can the blind lead the blind? Do they not both fall into the ditch?",
+        "The disciple is not above his master: but every one shall be perfect, if he be as his master.",
+        "And why seest thou the mote in thy brother's eye: but the beam that is in thy own eye thou considerest not?",
+        "Or how canst thou say to thy brother: Brother, let me pull the mote out of thy eye, when thou thyself seest not the beam in thy own eye? Hypocrite, cast first the beam out of thy own eye: and then shalt thou see clearly to take out the mote from thy brother's eye."
+      ],
+      "lineRefs": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:39-42",
+      "reference": "Luke 6:39-42",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 23rd week of Ordinary Time",
+        "key": "fridayOfThe23rdWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/11.html",
+    "title": "Gospel and Word of the Day - 11 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-11"
+}
