@@ -1,0 +1,268 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "88ebe5e78bfca81f4c5133353309b4a595389048ea591eab7e22f9e686d389d1",
+        "inputSha256": "f0fa72d73c907f8a014ecc9aeef8f1f70e46f7e9c04f39b1dbeb149ef1545eca",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "51f773747317f3ba4f93a665b9c4bbdd5d84e7ac5642661f93e9c9dcbdf4191e",
+        "inputSha256": "4e49c9114de2cb1478acbb59f71543e74d3236638651afd43bc4095808ea9e47",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "efec99a635f5dc54b2f348d8f865f07f528cea16440d1ccaff35934b1b96a87b",
+        "inputSha256": "7c8a455f78c616f6e25020ca6f62627965869cc894ed6998751ea5d12dc49f65",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-12T05:46:24.886Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “one bread, one body” reads like a hard psychological claim about how shared ritual rewires identity: you become what you repeatedly ingest together. That sits close to Durkheim’s collective effervescence and to the Buddhist sangha meal as a technology of belonging; speculation, but the point is similar—communion is not an opinion, it’s a formation.\n\nHis refusal to “drink” at two tables resembles the yogic and monastic insight that divided practice fractures attention. The Bhagavad Gita’s warning against double-mindedness and Zen’s insistence on single-heartedness both echo the same interior economy: you cannot feed competing loyalties without becoming incoherent.\n\nLuke’s fruit test parallels Stoic ethics: character is legible in outcomes, not slogans. It also resembles Confucian rectification of names—calling someone “Lord” while living otherwise is a mismatch between word and deed that corrodes the person.\n\nThe house on rock is a shared human image for groundedness under stress. Taoist rootedness, and the Buddhist distinction between wisdom built on direct seeing versus borrowed views, both feel adjacent; speculation, but the flood functions like impermanence—only what is dug deep survives it.",
+    "excursus": "Paul isn’t warning about statues. He’s diagnosing appetite. The idol is whatever lets you eat without being eaten, whatever promises pleasure without cost. The “chalice” is the blunt fact that every desire is a communion: you don’t just consume, you join. So the dread in his voice isn’t superstition about demons; it’s terror of divided belonging. You can’t keep two tables because the self can’t survive being parceled out. Jealousy here is not God’s pettiness but reality’s recoil when you try to live split.\n\nLuke sharpens it into psychology. Fruit is what happens when the heart is left alone long enough to speak. You can say “Lord” as a way to avoid doing, as a charm to keep the flood away, but speech is only the overflow of what you’ve stored. The rock is not correct belief; it’s the humiliating act of obedience that makes a person coherent. The house without foundation is the person who wants the safety of belonging without the surrender of choosing one table. When the water comes, it doesn’t punish; it reveals. The ruin is great because the performance was great, and nothing underneath was real.",
+    "synthesis": "Communion is a real participation that binds the person to the lord served. True discipleship is verified by obedient construction that endures judgment’s flood.",
+    "gospel": [
+      {
+        "text": "Luke moves from moral epistemology (how to know a person) to covenantal epistemology (how to know a disciple): not by titles but by enacted hearing. The parable’s logic is eschatological—testing arrives as flood, not seminar—so the present task is construction, not self-description.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul argues by analogies of cultic participation: Eucharist, Israel’s altar, pagan sacrifice. The point is not metaphysics of idols but the social-spiritual fact that ritual eating binds the eater to the power honored. Hence the appeal to “wise” judgment and the closing maxim about the limits of the lawful: freedom is real, but communion is not neutral.",
+        "lines": [
+          2,
+          5,
+          6,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Idolatry is not debated; it is fled.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blessing names the cup; the cup names the Blood.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Many reduced to one by eating; unity is ingested.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “nothing” of idols still has a liturgy—and a patron.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two cups, two tables: participation is exclusive.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fruit is not a mask; it is a disclosure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The mouth is the heart’s spillway.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Double “Lord” is noise when obedience is absent.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Depth precedes stability; rock is found by digging.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Foundationless hearing collapses under weather, not argument.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, help us to live according to your will, so that we may bear abundant fruit in good works in the name of your beloved Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, fount and source of our salvation, grant that, as long as our life lasts here on earth, we may praise you without ceasing and thus one day share in the eternal praise of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Wherefore, my dearly beloved, fly from the service of idols.",
+        "I speak as to wise men: judge ye yourselves what I say.",
+        "The chalice of benediction which we bless, is it not the communion of the blood of Christ? And the bread which we break, is it not the partaking of the body of the Lord?",
+        "For we, being many, are one bread, one body: all that partake of one bread.",
+        "Behold Israel according to the flesh. Are not they that eat of the sacrifices partakers of the altar?",
+        "What then? Do I say that what is offered in sacrifice to idols is any thing? Or that the idol is any thing?",
+        "But the things which the heathens sacrifice, they sacrifice to devils and not to God. And I would not that you should be made partakers with devils.",
+        "You cannot drink the chalice of the Lord and the chalice of devils: you cannot be partakers of the table of the Lord and of the table of devils.",
+        "Do we provoke the Lord to jealousy? Are we stronger than he? All things are lawful for me: but all things are not expedient."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 10:14-22",
+      "reference": "1 Corinthians 10:14-22",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "For there is no good tree that bringeth forth evil fruit: nor an evil tree that bringeth forth good fruit.",
+        "For every tree is known by its fruit. For men do not gather figs from thorns: nor from a bramble bush do they gather the grape.",
+        "A good man out of the good treasure of his heart bringeth forth that which is good: and an evil man out of the evil treasure bringeth forth that which is evil. For out of the abundance of the heart the mouth speaketh.",
+        "And why call you me, Lord, Lord; and do not the things which I say?",
+        "Every one that cometh to me and heareth my words and doth them, I will shew you to whom he is like.",
+        "He is like to a man building a house, who digged deep and laid the foundation upon a rock. And when a flood came, the stream beat vehemently upon that house: and it could not shake it: for it was founded on a rock.",
+        "But he that heareth and doth not is like to a man building his house upon the earth without a foundation: against which the stream beat vehemently. And immediately it fell: and the ruin of that house was great."
+      ],
+      "lineRefs": [
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:43-49",
+      "reference": "Luke 6:43-49",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Holy Name of the Blessed Virgin Mary",
+        "key": "holyNameOfTheBlessedVirginMary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/12.html",
+    "title": "Gospel and Word of the Day - 12 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-12"
+}
