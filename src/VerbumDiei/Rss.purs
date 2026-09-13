@@ -931,7 +931,7 @@ extractBookFromHeading heading =
       else if has "letter" then
         preferNonEmpty (afterLast "to" tokens) (afterLast "of" tokens)
       else if has "book" || has "reading" then
-        afterLast "of" tokens
+        preferNonEmpty (afterLast "of" tokens) (afterLast "book" tokens)
       else
         afterLast "of" tokens
     baseBook = normalizeBookTokens bookTokens
@@ -1116,6 +1116,7 @@ bookAliases =
   , { key: "jhn", value: "John" }
   , { key: "joh", value: "John" }
   , { key: "rom", value: "Romans" }
+  , { key: "theromans", value: "Romans" }
   , { key: "cor", value: "Corinthians" }
   , { key: "gal", value: "Galatians" }
   , { key: "eph", value: "Ephesians" }
@@ -1155,6 +1156,7 @@ isStopword token =
     "saint" -> true
     "st" -> true
     "of" -> true
+    "ok" -> true
     "to" -> true
     "a" -> true
     "an" -> true

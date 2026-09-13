@@ -111,6 +111,33 @@ main = do
       reading <- fetchBibleReading first.bibleApiReference
       assertEqual "lineRefs" expectedRevelation reading.lineRefs
 
+    test "repairs upstream heading typos before selecting the first reading" do
+      let feed = parseWordOfDayFeed headingTypoFeedXml
+      item <- case Array.head feed.items of
+        Nothing -> throwError (error "expected one feed item")
+        Just it -> pure it
+      assertEqual "selected readings" 2 (Array.length item.readings)
+      first <- case Array.find (\r -> r.kind == "first") item.readings of
+        Nothing -> throwError (error "expected a first reading")
+        Just r -> pure r
+      assertEqual "first reference" "Sirach 27:30—28:7" first.bibleApiReference
+      gospel <- case Array.find (\r -> r.kind == "gospel") item.readings of
+        Nothing -> throwError (error "expected a gospel reading")
+        Just r -> pure r
+      assertEqual "gospel reference" "Matthew 18:21-35" gospel.bibleApiReference
+
+    test "repairs glued theRomans headings" do
+      let feed = parseWordOfDayFeed gluedRomansFeedXml
+      item <- case Array.head feed.items of
+        Nothing -> throwError (error "expected one feed item")
+        Just it -> pure it
+      first <- case Array.find (\r -> r.kind == "first") item.readings of
+        Nothing -> throwError (error "expected a first reading")
+        Just r -> pure r
+      assertEqual "first reference" "Romans 14:7-9" first.bibleApiReference
+      reading <- fetchBibleReading first.bibleApiReference
+      assertEqual "lineRefs" [ "7", "8", "9" ] reading.lineRefs
+
     test "resolves collapsed Amos 9:15 verse" do
       reading <- fetchBibleReading "Amos 9:11-15"
       assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
@@ -276,6 +303,46 @@ versePartFeedXml =
 <p>God?s temple in heaven was opened.</p>
 <p>From the Gospel according to Luke<br /> 1:39-56</p>
 <p>Mary set out and travelled to the hill country in haste.</p>]]></description>
+    </item>
+  </channel>
+</rss>"""
+
+-- | Trimmed copy of the 2026-09-13 item: upstream typed "Book ok Sirach",
+-- | which must still select Sirach as the first reading instead of falling
+-- | through to the extra Sunday epistle.
+headingTypoFeedXml :: String
+headingTypoFeedXml =
+  """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Word of the day</title>
+    <link>https://www.vaticannews.va/en/word-of-the-day.html</link>
+    <item>
+      <title>Gospel and Word of the Day - 13 September 2026</title>
+      <guid>https://www.vaticannews.va/en/word-of-the-day/2026/09/13.html</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0200</pubDate>
+      <description><![CDATA[<p>A reading from the Book ok Sirach<br /> 27:30—28:7</p>
+<p>A reading from the Letter to theRomans<br /> 14:7-9</p>
+<p>From the Gospel according to Matthew<br /> 18:21-35</p>]]></description>
+    </item>
+  </channel>
+</rss>"""
+
+-- | Same upstream typo isolated so the glued book token remains covered even
+-- | when there is no prior first reading to hide it.
+gluedRomansFeedXml :: String
+gluedRomansFeedXml =
+  """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Word of the day</title>
+    <link>https://www.vaticannews.va/en/word-of-the-day.html</link>
+    <item>
+      <title>Gospel and Word of the Day - 13 September 2026</title>
+      <guid>https://www.vaticannews.va/en/word-of-the-day/2026/09/13.html</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0200</pubDate>
+      <description><![CDATA[<p>A reading from the Letter to theRomans<br /> 14:7-9</p>
+<p>From the Gospel according to Matthew<br /> 18:21-35</p>]]></description>
     </item>
   </channel>
 </rss>"""
