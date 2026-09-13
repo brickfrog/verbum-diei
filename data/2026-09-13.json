@@ -1,0 +1,309 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d4d4921b4368566d0a5637ed3b75fe45d245ce0e168c942429c1814424bab132",
+        "inputSha256": "6dbff339015173e087dbf62cdf03267f25968c8f495610ff66e5f236a216835a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d4fff8819bfa28c8e8295b19428aa50fae7c7b86489b7b3d0dd6b24b434c222d",
+        "inputSha256": "996d5410959a564bd69d8fcf03345cdb65b2d70ea805414edc456f4452139553",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3ce903a0df4938416b81dfd217376d15923d323c4732520be7db4a56c311ed3e",
+        "inputSha256": "deb24b657dad12c74b26e7e41dc0e17ff8aada3e0a00d88f68f4e92c5db97be1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-13T13:23:12.912Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This is the psychology of resentment as self-harm: anger pretends to be strength, but it is dependence on the offender, a leash you keep in your own hand. The “debt” is an inner ledger that turns the mind into a petty court, endlessly reopening cases so it can feel righteous. The shock is scale: the forgiven servant cannot metabolize mercy, so he converts it into entitlement; he leaves the throne room lighter, then immediately needs someone else to be heavier. Unforgiveness is not justice but a refusal to live in the same universe where you were spared.\n\nThe torturers are not merely external punishment; they are what the hard heart summons—rumination, vigilance, the compulsive replay that keeps the nervous system braced. The demand for payment becomes a way to avoid mourning: if the other “pays,” you never have to admit you were wounded and finite. “From your hearts” names the only real release: not a transaction, but a reorientation where you stop using injury as identity.\n\nSemina Verbi: Buddhism’s metta and the release of ill-will parallels the claim that clinging to anger burns the one who holds it; speculation: the “torturers” resemble the mind’s kleshas when fed. Stoicism’s refusal to be mastered by another’s act echoes the call to drop the inner tribunal. Hindu karma yoga’s insistence on acting without grasping at outcomes parallels forgiving without waiting for repayment. In Confucian ren, the shame of failing reciprocity after receiving benevolence mirrors the servant’s moral collapse. In Islam, rahma received obliges rahma given; speculation: the parable’s moral economy rhymes with that symmetry.",
+    "excursus": "These readings don’t praise forgiveness as virtue; they stage it as a technology of control. Sirach watches anger like a contagion that makes you predictable, a trap you step into with your eyes open. Vengeance is not heroic heat but an animal crouched in you, waiting to spring, and the punishment is intimate: you are consumed before you die.\n\nMatthew sharpens the dread. The king’s mercy isn’t tenderness; it’s an accounting move that creates a man who now belongs to the ledger. The forgiven servant panics at that new identity. If his own debt can vanish by fiat, then reality is arbitrary, and he needs someone beneath him to feel the world hard again. So he throttles the smaller debtor, trying to make justice physical, trying to prove there are still rules.\n\nThe horror is that forgiveness is reversible. The king’s pity is not a clean absolution but a conditional suspension, and the condition is imitation. You are spared only if you become the same instrument of sparing. Refuse, and the system reasserts itself with “torturers,” as if the deepest punishment is being forced back into a moral economy you briefly thought you’d escaped.\n\n“From your hearts” lands like a threat: not merely behave, but desire correctly. The text knows we don’t want to forgive; we want to be forgiven while keeping the right to choke someone else. It calls that desire what it is, and it terrifies it into submission.",
+    "synthesis": "God’s mercy, once received, binds the recipient to extend mercy without measure. Refusal to forgive converts forgiven debt into judgment and torment.",
+    "gospel": [
+      {
+        "text": "The parable stages sovereignty: the king can liquidate a household, then cancels instead. Mercy appears as a royal prerogative, not a negotiated settlement.",
+        "lines": [
+          3,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The servant repeats the same plea he used, exposing the moral test: he knows the language of mercy but refuses its logic. The king’s rebuke is analogical—received compassion establishes an obligation to mirror it.",
+        "lines": [
+          6,
+          9,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "The community functions as witness and conduit; hidden cruelty is made reportable. Judgment enters through testimony, not omniscient narration.",
+        "lines": [
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text frames vengeance as a predatory ecology: pride breeds mockery, mockery invites the lion, delight in another’s fall becomes a snare. Retribution is not merely chosen; it is inhabited.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "A forensic interrogation: the one who withholds mercy attempts to litigate with God. The argument is anthropological—“flesh” cannot sustain wrath and still plausibly petition for pardon.",
+        "lines": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "Commandments are set under a shadow: mortality presses obedience. The point is not sentiment but urgency—death makes enmity irrational.",
+        "lines": [
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Counsel returns like a wheel; the blow is anonymous until it lands.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Private revenge recruits a public prosecutor: the Lord as archivist of sins.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Forgiveness is transactional, but the currency is prayer.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eschatology as solvent: “last things” dissolve grudges.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Arithmetic breaks: forgiveness exits the realm of counting.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ten thousand talents: debt inflated to the edge of the absurd.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Released hands become hands that throttle; mercy unlearned instantly.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Torturers, not accountants: the debt becomes pain.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The condition is interior: “from your hearts,” not from your ledger.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and, that we may feel the effect of your love, grant that we may serve you with all our heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and that we may feel the effect of your love, grant that we may serve you with all our heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and that we may feel the effect of your love, grant that we may serve you with all our heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and that we may feel the effect of your love, grant that we may serve you with all our heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us and, that we may feel the effect of your love, grant that we may serve you with all our heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and, that we may feel the effect of your love, grant that we may serve you with all our heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "A mischievous counsel shall be rolled back upon the author, and he shall not know from whence it cometh to him.",
+        "Mockery and reproach are of the proud, and vengeance as a lion shall lie in wait for him.",
+        "They shall perish in a snare that are delighted with the fall of the just: and sorrow shall consume them before they die.",
+        "Anger and fury are both of them abominable, and the sinful man shall be subject to them.",
+        "He that seeketh to revenge himself, shall find vengeance from the Lord, and he will surely keep his sins in remembrance.",
+        "Forgive thy neighbour if he hath hurt thee: and then shall thy sins be forgiven to thee when thou prayest.",
+        "Man to man reserveth anger, and doth he seek remedy of God?",
+        "He hath no mercy on a man like himself, and doth he entreat for his own sins?",
+        "He that is but flesh, nourisheth anger, and doth he ask forgiveness of God? who shall obtain pardon for his sins?",
+        "Remember thy last things, and let enmity cease:",
+        "For corruption and death hang over in his commandments."
+      ],
+      "lineRefs": [
+        "27:30",
+        "27:31",
+        "27:32",
+        "27:33",
+        "28:1",
+        "28:2",
+        "28:3",
+        "28:4",
+        "28:5",
+        "28:6",
+        "28:7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Sirach 27:30—28:7",
+      "reference": "Sirach 27:30—28:7",
+      "heading": "A reading from the Book ok Sirach",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then came Peter unto him and said: Lord, how often shall my brother offend against me, and I forgive him? till seven times?",
+        "Jesus saith to him: I say not to thee, till seven times; but till seventy times seven times.",
+        "Therefore is the kingdom of heaven likened to a king, who would take an account of his servants.",
+        "And when he had begun to take the account, one as brought to him, that owed him ten thousand talents.",
+        "And as he had not wherewith to pay it, his lord commanded that he should be sold, and his wife and children, and all that he had, and payment to be made.",
+        "But that servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And the lord of that servant being moved with pity, let him go and forgave him the debt.",
+        "But when that servant was gone out, he found one of his fellow- servants that owed him an hundred pence: and laying hold of him, he throttled him, saying: Pay what thou owest.",
+        "And his fellow-servant falling down, besought him, saying: Have patience with me, and I will pay thee all.",
+        "And he would not: but went and cast him into prison, till he paid the debt.",
+        "Now his fellow servants seeing what was done, were very much grieved, and they came, and told their lord all that was done.",
+        "Then his lord called him: and said to him: Thou wicked servant, I forgave thee all the debt, because thou besoughtest me:",
+        "Shouldst not thou then have had compassion also on thy fellow servant, even as I had compassion on thee?",
+        "And his lord being angry, delivered him to the torturers until he paid all the debt.",
+        "So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:21-35",
+      "reference": "Matthew 18:21-35",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "24th Sunday of Ordinary Time",
+        "key": "24thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/13.html",
+    "title": "Gospel and Word of the Day - 13 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-13"
+}
