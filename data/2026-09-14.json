@@ -1,0 +1,237 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8a2febf3a82da8a21ed047da5d03ccd4d321d93f398c0d3a4a4bb72078e54239",
+        "inputSha256": "882e52b17a58dd26cc8f7124421b8f375cd4986d4e580af1f512eb7482af17e5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c51784065479ad67be34ce8f326538ae428a4a9944a2b29813e22b8b0b73b2d8",
+        "inputSha256": "3579c27ab40bfcfe27f8eb7a22b3c5ecd564cd6910ae430abf1d82cf81f197b9",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "da23df3a3b7a5ac2a08180bf80667868a7919dfb99e16ba30592f82cbf6c23f8",
+        "inputSha256": "1382b88660e8dbe721870e98cb8d8239c48b804ecf7c7a4e95e8ee11965e96ab",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-14T06:16:32.792Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The cure that looks like the wound has cousins elsewhere. In Greek medicine the rod of Asclepius makes the serpent a sign of healing rather than mere threat, as if the psyche can only be freed by facing what terrifies it. In Buddhism the medicine is often the poison itself, transmuted by clear seeing; the bitten one is saved by attention, not flight. In Hindu imagery the nāga is both danger and guardian of life-force, a reminder that the same energy that kills can also awaken when rightly held. In Jung’s language, the lifted serpent is the shadow made visible, no longer acting from below. Speculation: John’s “lifted up” echoes this cross-cultural logic of transformation through exposure, where salvation is not escape from the world’s venom but a reorientation of gaze that changes what the venom means.",
+    "excursus": "The people don’t just complain; they gag on “light food.” The wilderness isn’t a backdrop but a pressure chamber where desire turns rancid. They want Egypt back not because it was good, but because it was thick: predictable misery, solid chains, real meals. Freedom feels like starvation, and they would rather die in a known prison than live in an open ache.\n\nThe serpents are not random punishment; they are the body made honest. What was already inside them—heat, venom, dread—breaks the skin. Then comes the strangest medicine: not removal, not soothing, but an image. Healing requires looking straight at the thing that is killing you, cast into metal and lifted where everyone can’t avoid it. The cure is attention, a compelled confrontation, desire forced to see its own fangs.\n\nJohn intensifies the scandal. Salvation arrives not by escaping the world but by being hoisted up inside it, exposed, made into a sign like the serpent: a public object for desperate eyes. “Belief” here is less assent than the willingness to stare at what you fear and want at once. Love does not spare; it lifts the wound into view and says: live by looking, not by fleeing.",
+    "synthesis": "God heals by a lifted sign that exposes the wound and demands faith. In Christ lifted up, salvation comes by believing reception of God’s gift, not by human ascent or self-cure.",
+    "gospel": [
+      {
+        "text": "The passage frames salvation as the divine intent toward the perishing world: belief is the appointed means, and the mission’s stated end is rescue rather than courtroom verdict. Judgment is not denied; it is postponed by a saving initiative that creates a present possibility of life.",
+        "lines": [
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Intercession is granted, but not by removing the threat. The economy is pedagogical: sin is confessed, prayer is made, yet the community must live with the consequence and learn a new mode of obedience—healing mediated through a commanded sign rather than immediate relief.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Detour becomes discipline: “compass Edom” breeds fatigue before any enemy appears.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Complaint is liturgy inverted: they indict the Exodus as a murder plot; “light food” becomes contempt for gift.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The punishment matches the speech: venom answers venom; death enters through the mouth’s rebellion.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cure is a scandal: the image of the wound is enthroned; looking, not fighting, is commanded.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Heaven is not climbed; it is entered by descent. Authority is vertical, not achieved.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Lifted up” fuses exaltation and execution; glory is hung in public.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Love is defined as giving the Only; the world is loved without being flattered.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all mankind through your Son, who died on the Cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all people through your Son, who died on the cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all people through your Son, who died on the cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all people through your Son, who died on the cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all people through your Son, who died on the cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who willed to accomplish the salvation of all people through your Son, who died on the cross, grant, we pray, that we who have come to know this mystery on earth may attain in heaven the rewards of redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And they marched from mount Hor, by the way that leadeth to the Red Sea, to compass the land of Edom. And the people began to be weary of their journey and labour:",
+        "And speaking against God and Moses, they said: Why didst thou bring us out of Egypt, to die in the wilderness? There is no bread, nor have we any waters: our soul now loatheth this very light food.",
+        "Wherefore the Lord sent among the people fiery serpents, which bit them and killed many of them.",
+        "Upon which they came to Moses, and said; We have sinned, because we have spoken against the Lord and thee: pray that he may take away these serpents from us. And Moses prayed for the people.",
+        "And the Lord said to him: Make a brazen serpent, and set it up for a sign: whosoever being struck shall look on it, shall live.",
+        "Moses therefore made a brazen serpent, and set it up for a sign: which when they that were bitten looked upon, they were healed."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Numbers 21:4-9",
+      "reference": "Numbers 21:4-9",
+      "heading": "A reading from the Book of Numbers",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And no man hath ascended into heaven, but he that descended from heaven, the Son of man who is in heaven.",
+        "And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up:",
+        "That whosoever believeth in him may not perish, but may have life everlasting.",
+        "For God so loved the world, as to give his only begotten Son: that whosoever believeth in him may not perish, but may have life everlasting.",
+        "For God sent not his Son into the world, to judge the world: but that the world may be saved by him."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 3:13-17",
+      "reference": "John 3:13-17",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "FEAST_OF_THE_LORD"
+        ],
+        "color": "RED",
+        "source": "c",
+        "rank": "FEAST",
+        "name": "The Exaltation of the Holy Cross",
+        "key": "theExaltationOfTheHolyCross"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/14.html",
+    "title": "Gospel and Word of the Day - 14 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-14"
+}
