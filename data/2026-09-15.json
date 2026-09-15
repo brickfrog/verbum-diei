@@ -1,0 +1,228 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bc1792d46de37127ebe44ccee2ef4bb77a5c42c7d8314f828e934e73249311e0",
+        "inputSha256": "4fec7b7b7f257712df9326a9104e421c9a89ec70beb980a53bed05322c1c5509",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c0b5eabf8403dbf66f54ef0f4befcee1f4efcb26d8a1b6b713219ac733bc5879",
+        "inputSha256": "5d86da4dde549157d01291b503744466d044671fd266e8749b20d4709f02a719",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "fc3f7d7785ec678daac49b936808cd4535274fea03abffb06573dc224ad584c0",
+        "inputSha256": "f38685dbba287c47d0393fff514519ba915f8562736d48fdf6b83151fb7cec0e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-15T06:09:45.979Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s many-membered body has a close cousin in Plato’s Republic, where the city is healthiest when each part does its own work without envy; the psychological wager is the same: identity stabilizes when difference is given a dignified function. A speculative parallel sits in the Bhagavad Gita’s svadharma: not everyone is Arjuna, and the refusal to be one’s own kind of instrument breeds inner fracture.\n\nThe cross-scene’s creation of kinship by deliberate address echoes Confucian role-ethics: relation is not merely found, it is enacted through naming and obligation. Speculatively, it also resembles Buddhist refuge as re-parenting of the self—taking shelter in a living community when the old supports collapse—except here the bond is forged through grief and entrusted care rather than doctrine.",
+    "excursus": "Paul’s “one body” is not a warm metaphor; it’s an annexation. Difference is permitted only as function. Jews and Greeks, slaves and free are not reconciled so much as metabolized into a single organism that decides what each limb is for. The hierarchy he names—apostles first—sounds like anatomy, but it’s also a chain of command. His repeated questions aren’t invitations; they are restraints. You will not be everything. Desire is redirected: be zealous, but only for gifts that serve the body’s survival. The “more excellent way” arrives like a promise and a threat: love as the discipline that makes inequality feel holy.\n\nAt the cross, the body is failing, and the only thing left is reassignment. “Woman” is cold, almost clinical, as if mother must be stripped of her private claim. Jesus creates kinship by decree: a new household born from loss, not romance. The beloved disciple takes her “to his own,” and the phrase tastes like possession. Grief becomes infrastructure. The church begins not in triumph but in the management of absence, where longing is given a role so it won’t tear the community apart.",
+    "synthesis": "The Spirit incorporates many into one Christ, and the crucified Lord constitutes a new household that is truly ecclesial. Gifts and natural ties are subordinated to divinely ordered communion.",
+    "gospel": [
+      {
+        "text": "John frames the scene with witnesses—women named, the beloved disciple unnamed—so the new relation is anchored in testimony rather than bloodline. At the cross, Jesus exercises authority while apparently powerless: he disposes of persons, establishing a durable social form that outlives the event.",
+        "lines": [
+          1
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul moves from ontology (one body) to polity (appointments). The list is not a ladder of personal holiness but an ordering of functions for the church’s operation; the barrage of rhetorical questions breaks any attempt to universalize a single role as normative. Unity is maintained not by sameness but by coordinated inequality under divine placement.",
+        "lines": [
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“So also is Christ”: the metaphor snaps shut—Christ is not merely head but whole.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "One Spirit: baptism and drinking—initiation and sustenance share a single source.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“members of member”: awkward grammar, sharp point—belonging is nested, not solitary.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“better gifts” relativized by “more excellent way”: charisma is demoted beneath a path.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Woman”: not tenderness but title; kinship is being re-assigned under the cross.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“from that hour”: a new household begins at a fixed moment, not by sentiment.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, you willed that the sorrowful Mother should stand beside your Son raised upon the cross; grant to your Church that, sharing with Mary in the Passion of Christ, she may be found worthy to share in his Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you willed that the Mother should share in the sufferings of your Son at the foot of the cross; grant that the Church, united with Mary in the Passion of Christ, may be found worthy to share in his Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, after death may enter paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you willed that the Mother should share in the sufferings of your Son at the foot of the cross; grant that the Church, united with Mary in the Passion of Christ, may be found worthy to share in his Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For as the body is one and hath many members; and all the members of the body, whereas they are many, yet are one body: So also is Christ.",
+        "For in one Spirit were we all baptized into one body, whether Jews or Gentiles, whether bond or free: and in one Spirit we have all been made to drink.",
+        "For the body also is not one member, but many.",
+        "Now you are the body of Christ and members of member.",
+        "And God indeed hath set some in the church; first apostles, secondly prophets, thirdly doctors: after that miracles: then the graces of healings, helps, governments, kinds of tongues, interpretations of speeches.",
+        "Are all apostles? Are all prophets? Are all doctors?",
+        "Are all workers of miracles? Have all the grace of healing? Do all speak with tongues? Do all interpret?",
+        "But be zealous for the better gifts. And I shew unto you yet a more excellent way."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 12:12-14,27-31",
+      "reference": "1 Corinthians 12:12-14,27-31",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now there stood by the cross of Jesus, his mother and his mother's sister, Mary of Cleophas, and Mary Magdalen.",
+        "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother: Woman, behold thy son.",
+        "After that, he saith to the disciple: Behold thy mother. And from that hour, the disciple took her to his own."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 19:25-27",
+      "reference": "John 19:25-27",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Our Lady of Sorrows",
+        "key": "ourLadyOfSorrows"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/15.html",
+    "title": "Gospel and Word of the Day - 15 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-15"
+}
