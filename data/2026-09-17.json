@@ -1,0 +1,289 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "05e78d8e580ea63a5dedb08f74ef4b5078873e2f813a1db5e7d30ff4793ad0b1",
+        "inputSha256": "7df85bf0b76f2e3b332934efb6d8e3eef407d5ca20020daaa2de23d8d3b2c8f5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "049bf496e119f5a6436a644748c3986e6ab3b51894c2750d56679540c63feecf",
+        "inputSha256": "2e00ae69582fca61a316b02936dd673ee9170c56aea8ac0d63fa558b9b14dd48",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "22e66d580e4b655107625aaa484d30fd3b7720047d4a06459f292ec85542e4d9",
+        "inputSha256": "5e880c17060be261179461597220b360e03fc681fb678109b61824f84f011cb1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-17T06:08:22.379Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “received and delivered” reads like a lineage of waking: truth as something you inherit, then embody, then pass on with your own scar tissue. That resembles the Buddhist emphasis on transmission—Dharma handed down, verified in practice, not invented in private—speculation, but the psychological move is the same: authority comes from being seized by something larger than your self-story. His “least of the apostles” has the Zen flavor of beginner’s mind, and the Sufi habit of calling oneself the poorest, not as theater but as a way to keep the ego from laundering its past into prestige.\n\nThe woman’s wordless act is bhakti: devotion that breaks etiquette because love outruns reputation; it rhymes with Mirabai’s public scandal and with the Song of Songs’ perfume logic where desire speaks through scent and touch. The creditor parable sits close to karmic accounting while refusing it: debt is real, yet release is gratuitous, like the bodhisattva’s vow to give without measuring merit. Simon’s cool propriety is Confucian li without ren, ritual without tenderness; the scene suggests that correctness can be a defense against being changed.\n\n“Go in peace” lands like shalom and like Islam’s salam, not as politeness but as reintegration: the self no longer split between what it did and what it is allowed to be. Speculation: the tears are a kind of purification rite, akin to mikveh or ablution, except the water is grief turned outward and therefore no longer poisonous.",
+    "excursus": "Paul’s “gospel” sounds less like comfort than like an anxious chain of custody. Received, delivered, seen, counted, tallied. Salvation hangs on “unless you have believed in vain,” as if faith is always on the verge of evaporating. The resurrection becomes a dossier of witnesses meant to hold the world together, and Paul’s own claim is the most revealing: “born out of due time,” a late, ill-fitting body shoved into the story. His grace is not serenity but compulsion; he labors “more abundantly” to outrun the fact that he once hunted the very thing he now must certify. Grace here is a pressure that keeps him moving.\n\nIn Luke, the woman’s scene is not moral improvement but eroticized desperation turned into ritual. Tears, hair, kissing feet: the body speaks where words would be rejected. Simon’s cleanliness is a disguised refusal of intimacy; he hosts Jesus the way one hosts a verdict, with distance and correct manners. The woman violates the room’s social skin and forces everyone to feel what they came to avoid: need.\n\nJesus’ parable is a trap because it makes forgiveness look like bookkeeping, then uses that bookkeeping to expose Simon’s poverty of desire. The scandal is not that the sinner is forgiven, but that love is portrayed as the engine and forgiveness as its retroactive justification: “because she hath loved much.” She is not purified into acceptability; she is authorized in her excess. Peace is not a reward for virtue but a release from the gaze that has defined her. The table is left trembling: if forgiveness belongs to the one who can name it, then everyone’s moral order is built on a fear of being touched.",
+    "synthesis": "The gospel is a received public testimony that Christ’s death and resurrection secure real remission of sins. Forgiveness, authoritatively pronounced by Christ, generates love and reorders social and religious standing.",
+    "gospel": [
+      {
+        "text": "The scene is a trial staged at a table: Simon invites, then internally indicts; Jesus answers the unspoken charge (5) and forces a verdict from Simon’s own mouth (8). The decisive act is juridical—“Thy sins are forgiven” (13)—which triggers the real question of authority (14). Peace (15) is not sentiment but the public consequence of an acquittal pronounced by one who claims competence to remit guilt.",
+        "lines": [
+          1,
+          5,
+          8,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames the resurrection not as private illumination but as a public, iterable claim: a preached message that creates a standing community (1), anchored in death/burial/rising (4) and stabilized by a chain of named and numerous witnesses (5–7). The point is not spectacle but continuity—one proclamation across many mouths (11), so the Corinthians’ faith is tethered to a common deposit rather than to their own religious experience.",
+        "lines": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Salvation is conditional on retention: memory as instrument of perseverance; “vain” belief is a real category.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tradition is received before it is delivered; the gospel arrives as custody, not invention.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The last witness is an anomaly: apostleship as untimely birth, not natural succession.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace does not cancel labor; it commandeers it—agency split without being divided.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Tears become water, hair becomes towel: improvised liturgy from a disordered life.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The Pharisee’s theology is surveillance: prophecy reduced to social sorting and contamination control.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Debt is not minimized; it is cancelled. Love is measured by the felt weight of remission.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Hospitality is exposed as omission; the sinner performs the host’s duties at the guest’s feet.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The scandal: forgiveness is read backward from love, yet love itself is the fruit of forgiven debt.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, creator and Lord of all things, look upon us, and, that we may feel the effect of your love, grant that we may serve you with all our heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Grant us, Lord, that salvation may always be proclaimed to us, so that, free from fear, rescued from the hand of our enemies, we may serve you faithfully in holiness and justice all our days. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, by imitating the examples of patience of your Son, it may never falter in the face of adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Graciously receive, Lord, our evening supplication, and grant that, following in the footsteps of your Son, we may bear fruit with perseverance in good works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now I make known unto you, brethren, the gospel which I preached to you, which also you have received and wherein you stand.",
+        "By which also you are saved, if you hold fast after what manner I preached unto you, unless you have believed in vain.",
+        "For I delivered unto you first of all, which I also received: how that Christ died for our sins, according to the scriptures:",
+        "And that he was buried: and that he rose again according to the scriptures:",
+        "And that he was seen by Cephas, and after that by the eleven.",
+        "Then was he seen by more than five hundred brethren at once: of whom many remain until this present, and some are fallen asleep.",
+        "After that, he was seen by James: then by all the apostles.",
+        "And last of all, he was seen also by me, as by one born out of due tine.",
+        "For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God.",
+        "But by the grace of God, I am what I am. And his grace in me hath not been void: but I have laboured more abundantly than all they. Yet not I, but the grace of God with me:",
+        "For whether I or they, so we preach: and so you have believed."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 15:1-11",
+      "reference": "1 Corinthians 15:1-11",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee and sat down to meat.",
+        "And behold a woman that was in the city, a sinner, when she knew that he sat at meat in the Pharisee's house, brought an alabaster box of ointment.",
+        "And standing behind at his feet, she began to wash his feet with tears and wiped them with the hairs of her head and kissed his feet and anointed them with the ointment.",
+        "And the Pharisee, who had invited him, seeing it, spoke within himself, saying: This man, if he were if a prophet, would know surely who and what manner of woman this is that toucheth him, that she is a sinner.",
+        "And Jesus answering, said to him: Simon, I have somewhat to say to thee. But he said: Master, say it.",
+        "A certain creditor had two debtors: the one owed five hundred pence and the other fifty.",
+        "And whereas they had not wherewith to pay, he forgave them both. Which therefore of the two loveth him most?",
+        "Simon answering, said: I suppose that he to whom he forgave most. And he said to him: Thou hast judged rightly.",
+        "And turning to the woman, he said unto Simon: Dost thou see this woman? I entered into thy house: thou gavest me no water for my feet. But she with tears hath washed my feet; and with her hairs hath wiped them.",
+        "Thou gavest me no kiss. But she, since she cane in, hath not ceased to kiss my feet.",
+        "My head with oil thou didst not anoint. But she with ointment hath anointed my feet.",
+        "Wherefore, I say to thee: Many sins are forgiven her, because she hath loved much. But to whom less is forgiven, he loveth less.",
+        "And he said to her: Thy sins are forgiven thee.",
+        "And they that sat at meat with him began to say within themselves: Who is this that forgiveth sins also?",
+        "And he said to the woman: Thy faith hath made thee safe. Go in peace."
+      ],
+      "lineRefs": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 7:36-50",
+      "reference": "Luke 7:36-50",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+        "key": "saintRobertBellarmineBishopAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/17.html",
+    "title": "Gospel and Word of the Day - 17 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-17"
+}
