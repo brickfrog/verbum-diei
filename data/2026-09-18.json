@@ -1,0 +1,265 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d305c3cb30b69d33a6adadaa864f0f4e0cb06b9c8430de936e927c8a1fde93f0",
+        "inputSha256": "26f5b8e38769b835559ba5ff8f07ec7301cd9dd3a9959b4784f0f6270ec5e4ed",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "100325476e5fabcb9a5641685f593aadf0fc0fcdafbbe046c0892a5e63fa4bd9",
+        "inputSha256": "5f64dc420a76ca25ad5fb168f2881dec81305136f86b286bb2ce4e141836206a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "382adf62610b89e248b5178f26077e0eba7a362ce29c21e46a1ec965a2f8cf88",
+        "inputSha256": "22a708cd4ea27939b8fb69a0485b6046aa360dbcb2cc0507e0dbbd7730f25e2a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-18T05:54:45.405Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s logic has the hard edge of Zen: if awakening is only an idea, it is not awakening. Speculation: his “firstfruits” sits near the Buddhist claim that one realized life proves the path is real, not merely consoling.\n\nHis insistence that a faith without resurrection is self-deception echoes the Stoic demand that philosophy cash out in a transformed life rather than rhetoric, and the Vedantic suspicion that mere belief without liberation is vanity. Speculation: “still in your sins” reads like karma unbroken, the old causal chain still running.\n\nLuke’s women patrons resemble the dana economy around the Buddha and the lay networks that sustained Sufi orders: healing draws loyalty, and loyalty becomes material support. Their presence also matches the bhakti pattern where devotion is not peripheral but infrastructural, carried by those outside official rank.\n\nMary Magdalene’s exorcism parallels shamanic and Daoist accounts of spirit-affliction resolved by a healer, after which the healed become witnesses and benefactors. Speculation: the text treats restored agency as the first miracle, and money as its quiet proof.",
+    "excursus": "Paul sounds less like a herald and more like a man cornered by his own invention. His argument is a dare: take away resurrection and you don’t just lose comfort, you expose the whole enterprise as a calculated lie, a public perjury staged “against God.” The dread is not metaphysical; it’s reputational and psychic. Without the rising, the community becomes a support group for a beautiful fraud, and the dead are not “asleep” but erased. He admits the secret fear underneath piety: that faith is a bargain for meaning, and if the receipt is counterfeit then you are not merely sad, you are ridiculous.\n\nLuke then shows how the bargain is funded. While the twelve trail behind the preacher like official witnesses, the movement is materially carried by women with damaged histories and sharp needs. “Healed of evil spirits” is the social label for what they’ve survived; “ministered of their substance” is the erotic economy of gratitude and dependence turned into patronage. The kingdom advances on coins and devotion, on bodies that have been reclaimed and now refuse to go back. Resurrection here is less a doctrine than a hunger: the desire to have one’s ruined life count for something, to convert stigma into authority. The tension is that the whole story rests on those most vulnerable to longing—and most capable of paying for it.",
+    "synthesis": "Christ’s resurrection is the non-negotiable premise of Christian proclamation; deny it and you void both faith and forgiveness. The kingdom advances by creating witnesses and reallocating allegiance, even from within hostile powers.",
+    "gospel": [
+      {
+        "text": "Luke frames the kingdom’s advance as a moving court with a mixed retinue: the Twelve as official witnesses, and women as materially sustaining agents. The narrative quietly relocates legitimacy from palace administration to a traveling proclamation, showing the kingdom’s infrastructure forming inside and against existing political economies.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The healed women are not decorative; they are evidence. Deliverance and funding are paired to show that the kingdom creates both new persons and new patterns of allegiance.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul builds a reductio that makes denial of the general resurrection logically eat the particular resurrection, then forces the community to face the downstream casualties: Christ’s status, the dead in Christ, and the entire economy of salvation. The argument is not mystical but juridical and communal: what you say about the dead rewrites what you are allowed to say about God.",
+        "lines": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The passage turns on a public claim (“preached”) and a public reversal (“now”): resurrection is treated as the hinge of proclamation, not a private comfort. The final assertion functions as a legal settlement after cross-examination—Paul ends the dispute by re-stating the datum that governs all other speech.",
+        "lines": [
+          1,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "A preached fact meets a local denial; doctrine as social contagion.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two collapses at once: kerygma and credence; emptiness is contagious.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostles risk perjury against God; the scandal is not error but blasphemous testimony.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No rising, no acquittal; sin remains a present-tense jurisdiction.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hope reduced to lifespan becomes a cruelty; consolation turns indictment.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Firstfruits: resurrection as harvest logic, not isolated miracle; sleepers are seed.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kingdom announced on foot; itinerancy as refusal of settled power.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seven devils: total occupation, total eviction; the number is a verdict.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Herod’s household leaks resources to the rival reign; patronage defecting from the court.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared ineffable good things for those who love you, pour your love into our hearts, so that, loving you in all things and above all things, we may attain your promises, which surpass every desire. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, for your abundant grace, that it may help us to follow the path of your commandments, and so enjoy your consolation in this life and attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up upon the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that your Son should suffer for the salvation of all, grant that, inflamed with your love, we may know how to offer ourselves to you as a living sacrifice. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now if Christ be preached, that he arose again from the dead, how do some among you say that there is no resurrection of the dead?",
+        "But if there be no resurrection of the dead, then Christ is not risen again.",
+        "And if Christ be not risen again, then is our preaching vain: and your faith is also vain.",
+        "Yea, and we are found false witnesses of God: because we have given testimony against God, that he hath raised up Christ, whom he hath not raised up, if the dead rise not again.",
+        "For if the dead rise not again, neither is Christ risen again.",
+        "And if Christ be not risen again, your faith is vain: for you are yet in your sins.",
+        "Then they also that are fallen asleep in Christ are perished.",
+        "If in this life only we have hope in Christ, we are of all men most miserable.",
+        "But now Christ is risen from the dead, the firstfruits of them that sleep:"
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "1 Corinthians 15:12-20",
+      "reference": "1 Corinthians 15:12-20",
+      "heading": "A reading from the First Letter of St. Paul to Corinthians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass afterwards he travelled through the cities and towns, preaching and evangelizing the kingdom of God: and the twelve with him:",
+        "And certain women who had been healed of evil spirits and infirmities: Mary who is called Magdalen, out of whom seven devils were gone forth,",
+        "And Joanna the wife of Chusa, Herod's steward, and Susanna and many others who ministered unto him of their substance."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 8:1-3",
+      "reference": "Luke 8:1-3",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 24th week of Ordinary Time",
+        "key": "fridayOfThe24thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/18.html",
+    "title": "Gospel and Word of the Day - 18 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-18"
+}
