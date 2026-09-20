@@ -1,0 +1,301 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7f98d8f8f224eb0999f4e9f82ca30a94984c5e4d03e3a59306a69b33ff72bfba",
+        "inputSha256": "8f16ad66125e631888f9ea784593f6596310b3f8306c8ae959b7384813b7db0b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "511649b21dc6bc80ff6b4ac5d23834f444f01d6c34c41efb2d05b8513d8a46a4",
+        "inputSha256": "c39b6672e6fe0576d76fc8537e44a75b696a969ead99520c79b50105da88c8f0",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1a5ea3ca55d9ada2a603d65f2b358fc26986b016bb6c47b0aad4435c9ccd4ce0",
+        "inputSha256": "f95a715331e4782c020a34c9248ffeec43c53a13c25568eb2826cc3d12bbdd45",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-20T06:15:08.632Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The wage that ignores hours worked resembles the Zen refusal of “merit” as a spiritual currency: awakening is not proportional to effort, and resentment is the ego trying to invoice reality. It also brushes the Bhagavad Gita’s karma-yoga, where the demand for “more” reveals attachment to fruits rather than fidelity to the work. Speculation: the “evil eye” reads like the Greek phthonos that tragedy treats as a civic toxin; the master cures it not by argument but by an unanswerable act of generosity. The height-gap between divine and human thoughts echoes apophatic strains in Sufism and in the Upanishadic neti neti, where the real is approached by surrendering the mind’s bargaining logic.",
+    "excursus": "“Seek while he may be found” is not tenderness; it’s a closing door. Isaiah’s God is not offering intimacy but announcing scarcity: there is a window, and then there is absence. Mercy is real, but it is not predictable, not contractible. “My thoughts are not your thoughts” lands like a refusal to be understood, the kind that makes obedience feel less like love and more like survival.\n\nMatthew’s vineyard makes that refusal concrete. The householder doesn’t reward effort; he disrupts the moral economy that keeps the early workers sane. The latecomers aren’t romanticized; they are the raw fact that some lives begin too late, or are left unused, and the master’s sudden hiring is a jolt of desire: to be wanted at all, even at the eleventh hour.\n\nThe first workers’ anger is the honest cry of the bruised self: if fairness doesn’t distinguish me, what was my suffering for. The master calls him “friend” the way power does when it wants to end a conversation. He hides behind the contract, then breaks the spirit of the contract with generosity that feels like contempt. His goodness is unilateral; it doesn’t console, it humiliates. “Is thy eye evil” names envy, but it also names the terror of watching meaning slip out of merit’s hands.\n\nThis is not a parable about justice. It’s about a God who won’t be managed by our calculus, who saves as he pleases, and who forces the dutiful to face the possibility that their virtue was a bid for control. The last are lifted not because they deserve it, but because the master desires to give; the first are displaced because they cannot bear a gift that doesn’t need them.",
+    "synthesis": "God’s mercy is sovereign and non-proportional: it is given by divine freedom, not earned by human duration. The kingdom overturns merit-claims and exposes envy as rebellion against God’s goodness.",
+    "gospel": [
+      {
+        "text": "The householder repeatedly initiates, crossing spaces and hours to recruit; the vineyard is not a meritocracy but a domain gathered by summons. “Just” is left undefined until the master defines it by action.",
+        "lines": [
+          1,
+          3,
+          4,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The parable stages a collision between proportionality and promise. The early workers appeal to comparative justice; the master appeals to fidelity to agreement and to his freedom to be generous without becoming debtor to labor.",
+        "lines": [
+          9,
+          10,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "text": "The closing aphorism reframes the story as eschatological sorting: the reversal is a sign of the kingdom’s order, and the final clause warns that proximity to the call does not guarantee participation in the outcome.",
+        "lines": [
+          15,
+          16
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The imperative sequence moves from access (“seek/call”) to conversion (“forsake/return”), then grounds both in divine initiative: mercy and forgiveness are not extracted but granted.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The passage does not explain God; it limits the reader. The point is epistemic humility enforced by an asymmetry of agency: God’s “ways” govern the terms of approach and pardon.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“While” and “near”: grace has a clock and a distance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Repentance is double: abandon routes and abandon interior scripts.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Not a tweak but a mismatch: divine cognition refuses human measure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Vertical metaphor as verdict: transcendence is not negotiable.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Contract sets the trap: consent precedes complaint.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Eleventh hour exposes the scandal: time is not the master’s metric.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Payment order is pedagogy: the last are made a mirror.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Murmuring is the liturgy of entitlement.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Eye evil” names envy as a moral organ; goodness offends it.",
+      "lines": [
+        15
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reversal is not romance but judgment; “called/chosen” tightens the gate.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant us to keep your commandments, and so to attain eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and so attain eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and thus attain eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and so attain eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and so attain eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and thus attain eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Seek ye the Lord, while he may be found: call upon him, while he is near.",
+        "Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he will have mercy on him, and to our God: for he is bountiful to forgive.",
+        "For my thoughts are not your thoughts: nor your ways my ways, saith the Lord.",
+        "For as the heavens are exalted above the earth, so are my ways exalted above your ways, and my thoughts above your thoughts."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 55:6-9",
+      "reference": "Isaiah 55:6-9",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "The kingdom of heaven is like to an householder, who went out early in the morning to hire labourers into his vineyard.",
+        "And having agreed with the labourers for a penny a day, he sent them into his vineyard.",
+        "And going out about the third hour, he saw others standing in the marketplace idle.",
+        "And he said to them: Go you also into my vineyard, and I will give you what shall be just.",
+        "And they went their way. And again he went out about the sixth and the ninth hour, and did in like manner.",
+        "But about the eleventh hour he went out and found others standing, and he saith to them: Why stand you here all the day idle?",
+        "They say to him: Because no man hath hired us. He saith to them: Go ye also into my vineyard.",
+        "And when evening was come, the lord of the vineyard saith to his steward: Call the labourers and pay them their hire, beginning from the last even to the first.",
+        "When therefore they were come that came about the eleventh hour, they received every man a penny.",
+        "But when the first also came, they thought that they should receive more: And they also received every man a penny.",
+        "And receiving it they murmured against the master of the house,",
+        "Saying: These last have worked but one hour, and thou hast made them equal to us, that have borne the burden of the day and the heats.",
+        "But he answering said to one of them: friend, I do thee no wrong: didst thou not agree with me for a penny?",
+        "Take what is thine, and go thy way: I will also give to this last even as to thee.",
+        "Or, is it not lawful for me to do what I will? Is thy eye evil, because I am good?",
+        "So shall the last be first and the first last. For many are called but few chosen."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 20:1-16",
+      "reference": "Matthew 20:1-16",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "25th Sunday of Ordinary Time",
+        "key": "25thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/20.html",
+    "title": "Gospel and Word of the Day - 20 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-20"
+}
