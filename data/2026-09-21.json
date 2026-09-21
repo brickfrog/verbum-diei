@@ -1,0 +1,283 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "9a85db8476f7938365795e3abeca8a78a9a09bd42f4c9ec846550be67bd8ca9f",
+        "inputSha256": "95c48f35a0c4c321e9f550c9ab8840076c3830820336c53f3330dc69f308961a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "a84d5ea00dcd617b4c63022712e9c8ba93283dda2721c509968a0a751b521db1",
+        "inputSha256": "caf6290d84677261f6337fd7bff2c634021e0eead52d94e531363882d5f8ac37",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a2ddb1e38b2390061965c127cc95c483950dab000bf0112a232fb0339656a977",
+        "inputSha256": "116526b66012e00d3835af492817eb28014044fb1e2c99e22ee1dd0dd817cea3",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-21T06:19:17.768Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ephesians’ “one body” with many offices resembles Plato’s Republic where the city’s health depends on differentiated functions ordered to a single good; the psychological parallel is the integrated self, where drives and talents stop competing for status and start serving coherence. Speculation: it also echoes the Stoic cosmopolis, a shared rational life that makes patience and mildness not niceness but disciplined citizenship.\n\nMatthew’s table scene matches the rabbinic instinct that Torah is for the yetzer-ha’ra as much as for the righteous, but it tilts further: belonging precedes reform. The “physician” image aligns with Buddhist medicine metaphors—diagnosis before moralism—where compassion is the method, not the reward. “Mercy not sacrifice” has a strong Sufi flavor too: the heart’s tenderness outranks outward performance, and the scandal is precisely that grace chooses contaminated company as its workshop.",
+    "excursus": "Paul writes like a captive selling captivity as freedom. “Unity” is not comfort; it is a demand that the self be thinned down until it fits the single body. Humility, mildness, patience: these are not virtues so much as the emotional anesthesia required to survive proximity. The Spirit’s “bond of peace” sounds like a strap. The oneness he repeats—one body, one Lord, one faith—has the rhythm of an incantation against panic, as if multiplicity is the real enemy and difference the crack where terror enters.\n\nThen comes the twist: grace is “measured,” parceled out, and the hierarchy arrives—apostles, prophets, pastors, doctors. Unity needs managers. The body is “edified” the way a building is: by scaffolding, rules, and sanctioned voices. The promised “perfect man” is less a person than a finished product, a standardized maturity. Desire is redirected: not toward God as mystery, but toward completion, toward being finally adequate, finally seamless.\n\nMatthew’s scene exposes what Paul’s program tries to contain. Jesus doesn’t recruit the pure to maintain the system; he plucks a compromised man from his booth, mid-transaction, and makes him a hinge. The meal is contamination on purpose. Mercy here is not softness; it is a refusal to let sacrifice—performance, boundary-keeping, respectable pain—be the currency of belonging. He wants the sick because sickness breaks the fantasy of the “just.” The Pharisees fear disorder; Jesus courts it, because only in that shame-stained room can a person stop pretending to be whole.\n\nRead together, the dread is that unity becomes a polished lie, and the desire is that mercy reintroduces the messy truth. The church wants one body; Jesus keeps choosing bodies that don’t fit, and calls that the beginning of health.",
+    "synthesis": "Christ forms one body by distributing unequal graces and offices ordered to a single maturity. His mercy authorizes communion with sinners as the proper exercise of holiness, not its betrayal.",
+    "gospel": [
+      {
+        "text": "The dispute is not about whether sinners exist but about where holiness locates itself. Jesus refuses the Pharisaic premise that separation preserves righteousness; instead he asserts a mission that moves toward the compromised, and he authorizes that movement by appealing to Scripture’s hierarchy of values.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The narrative pairs command and communion: “Follow” is immediately expressed as shared eating. Calling is not merely a change of occupation but a change of company, and the physician image frames the meal as therapeutic contact rather than contamination.",
+        "lines": [
+          1,
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from virtues to institutional means: the demanded manner of life (humility, patience) is not self-generated but trained by a ministry ordered toward construction. The church is treated as an artifact under assembly—saints are “perfected,” the body “edified”—so unity is a project with instruments, not a spontaneous consensus.",
+        "lines": [
+          2,
+          9
+        ]
+      },
+      {
+        "text": "A deliberate tension is installed: the confession of oneness does not erase differentiated graces and roles; it makes them intelligible. Diversity is not a threat to unity but the mechanism by which the one body grows toward a single standard—“the fulness of Christ”—which relativizes every partial gift.",
+        "lines": [
+          4,
+          7,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Authority speaks from confinement: the chain becomes credential.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is not mood but maintenance; peace is a binding, not a feeling.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The anaphora of “one” hammers plurality into confession; metaphysics becomes ethics.",
+      "lines": [
+        4,
+        5,
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace is apportioned—gifted inequality inside a demanded unity.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Offices are distributed; the body is organized, not improvised.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The telos is a “measure”: maturity quantified by Christ, not by age.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A tax desk becomes a threshold; vocation interrupts revenue.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Table fellowship redraws the boundary; impurity is seated, not shunned.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He names himself physician: diagnosis precedes moralism.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mercy is set against sacrifice; the cult is judged by its object.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew, turning him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew, transforming him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew and to change him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew and turn him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew, transforming him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your infinite mercy deigned to choose Saint Matthew, turning him from a tax collector into an apostle, grant that, strengthened by his example and his intercession, we may always follow you and remain united to you in fidelity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called:",
+        "With all humility and mildness, with patience, supporting one another in charity.",
+        "Careful to keep the unity of the Spirit in the bond of peace.",
+        "One body and one Spirit: as you are called in one hope of your calling.",
+        "One Lord, one faith, one baptism.",
+        "One God and Father of all, who is above all, and through all, and in us all.",
+        "But to every one of us is given grace, according to the measure of the giving of Christ.",
+        "And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:",
+        "For the perfecting of the saints, for the word of the ministry, for the edifying of the body of Christ:",
+        "Until we all meet into the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ:"
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 4:1-7,11-13",
+      "reference": "Ephesians 4:1-7,11-13",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when Jesus passed on from thence, he saw a man sitting in the custom house, named Matthew; and he saith to him: Follow me. And he arose up and followed him.",
+        "And it came to pass as he was sitting at meat in the house, behold many publicans and sinners came, and sat down with Jesus and his disciples.",
+        "And the Pharisees seeing it, said to his disciples: Why doth your master eat with publicans and sinners?",
+        "But Jesus hearing it, said: They that are in health need not a physician, but they that are ill.",
+        "Go then and learn what this meaneth, I will have mercy and not sacrifice. For I am not come to call the just, but sinners."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 9:9-13",
+      "reference": "Matthew 9:9-13",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saint Matthew, Apostle and Evangelist",
+        "key": "saintMatthewApostleAndEvangelist"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/21.html",
+    "title": "Gospel and Word of the Day - 21 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-21"
+}
