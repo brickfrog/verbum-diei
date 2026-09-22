@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ea82eb745a9fca6c874bf62d8e5e5aa49c6eefa173df67997dad333c1552b6b4",
+        "inputSha256": "a46eac21981d4b5203e1af9284662a1f4c05f733bb0dcda856da322c311d08dd",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2f2440ed01793c327c1164641911d688b9648f1b8789dbdc6b3645d3d8f069d8",
+        "inputSha256": "be8289d0e7ac58d9812a6ccfc74dc420bcdaf74699509fc3eae45f53046c0c90",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "39ce23d4dec5913e320feda3f848b1ac876c453f1cfbdc383c13f04dd83f491b",
+        "inputSha256": "e2a5a49797f23dc89084fd4da28dd4614dd6b722c2043ace937168654beb914f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-22T06:12:41.284Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Proverbs’ claim that power is steered by an unseen hand has a close cousin in Stoic providence: the ruler’s “heart” as a channel cut by something larger than appetite. Speculation: it also brushes against the Daoist sense that effective rule happens when the will is made porous, like water following a course.\n\n“Mercy and judgment” over sacrifice echoes the Hindu and Buddhist suspicion of mere ritual without transformed conduct, where dharma is measured in lived restraint and generosity, not offerings. The weighing of hearts resembles the Egyptian psychostasia, the heart set on a scale against Ma’at; the point is interior truth, not public performance.\n\nThe warning that self-justification feels right from inside parallels psychoanalytic defenses: the ego’s narratives are persuasive precisely because they protect. The “lamp of the wicked” as sin reads like a critique of narcissistic illumination, a brightness that is really self-feeding.\n\nLuke’s redefinition of family into an obedience-based kinship aligns with the Buddhist sangha and the Jain community: belonging is practice, not blood. Speculation: it also resembles Confucian remapping of loyalty, where the deepest tie is to the Way when it conflicts with clan.",
+    "excursus": "Proverbs opens with a terrifying intimacy: power is porous. The king’s “heart” isn’t sovereign; it’s a channel, irrigated, diverted, made to flow by a hand outside him. That isn’t comfort. It’s the dread that even the highest interior life is manipulable, that what you call your will may be a sluice gate someone else lifts.\n\nThen the text turns the knife: everyone feels right to himself. Self-justification is not a flaw; it’s the default anesthesia. God “weighs” hearts the way a market weighs meat, not to admire but to price. Sacrifice is rejected because it’s the perfect bribe: victims let you keep your violence while feeling clean. Mercy and judgment are harder because they force contact with the living.\n\nDesire is the real villain here. The wicked “desire” evil; the sluggard “desires” and stays hungry; the liar “gathers” and walks into death’s snares. Even the lamp—what should illuminate—becomes sin, a bright instrument of self-display. And the poor person’s cry is the moral test: ignore it and you don’t just become cruel, you become unanswered, locked in a universe that returns your own deafness.\n\nLuke sharpens the same logic into a social scandal. Family arrives “desiring to see” him, and desire again is suspect: it wants access, proximity, a claim. The crowd blocks them, and Jesus refuses to rescue their privilege. He replaces blood with practice: kinship is obedience, not origin. It’s a cold sentence if you hear it honestly. He is not expanding the family; he is cutting it loose from sentiment, making belonging contingent on doing. The longing to be “inside” is met with a criterion that can’t be inherited.\n\nPut together, the readings don’t offer reassurance; they expose the hunger to control—of kings, of worshipers, of relatives—and they answer it with a God who redirects hearts and a teacher who redraws family. The only way out is the one thing we least desire: to let our private rightness be weighed, to let our claims be denied, and to become kin by action rather than by nearness.",
+    "synthesis": "God judges and redirects the interior life, and he recognizes as his own only those whose hearing becomes obedience. Mercy and justice are the true worship that marks this obedience.",
+    "gospel": [
+      {
+        "text": "The scene is an institutional rupture: natural claims are formally presented, then subordinated to a new criterion. The word creates a polity whose membership is verified by obedience, not by access, blood, or announcement.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The unit builds a moral economy: diligence yields surplus, sloth yields lack. It is not mere prudence; it is a claim that habits generate a world, and that world exposes the heart’s true allegiance.",
+        "lines": [
+          5
+        ]
+      },
+      {
+        "text": "Desire is treated as a governing force: the wicked’s appetite is anti-neighbor, while the just uses attention strategically—scrutinizing the wicked’s house not to imitate it but to interrupt its trajectory.",
+        "lines": [
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The king’s “heart” is hydraulics: channels cut by another hand.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Self-justification is effortless; weighing is not self-administered.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cult is demoted: the altar yields to the courtroom and the open hand.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pride is optical—eyes first—then interior expansion; the “lamp” meant to guide becomes the sin itself.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech manufactures wealth and death at once; the lie is a snare-maker.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refused hearing returns as refused hearing: a closed ear becomes a closed heaven.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Kinship is blocked by bodies; proximity fails as a credential.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Family is redefined by audition plus execution: hearing that does not become doing is not lineage.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant us to keep your commandments, and so to attain eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our morning supplications, and with the light of your mercy illumine the darkness of our heart: may we who have been enlightened by your brightness never walk in the works of darkness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We give you thanks, Lord, almighty God, for you have allowed us to reach this night; we ask you to graciously accept the lifting up of our hands as an evening offering. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "As the divisions of waters, so the heart of the king is in the hand of the Lord: whithersoever he will, he shall turn it.",
+        "Every way of a man seemeth right to himself: but the Lord weigheth the hearts.",
+        "To do mercy and judgment, pleaseth the Lord more than victims.",
+        "Haughtiness of the eyes is the enlarging of the heart: the lamp of the wicked is sin.",
+        "The thoughts of the industrious always bring forth abundance: but every sluggard is always in want.",
+        "He that gathereth treasures by a lying tongue, is vain and foolish, and shall stumble upon the snares of death.",
+        "The soul of the wicked desireth evil, he will not have pity on his neighbour.",
+        "When a pestilent man is punished, the little one will be wiser: and if he follow the wise, he will receive knowledge.",
+        "The just considereth seriously the house of the wicked, that he may withdraw the wicked from evil.",
+        "He that stoppeth his ear against the cry of the poor, shall also cry himself, and shall not be heard."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Proverbs 21:1-6,10-13",
+      "reference": "Proverbs 21:1-6,10-13",
+      "heading": "A reading from the Book Proverbs",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And his mother and brethren came unto him: and they could not come at him for the crowd.",
+        "And it was told him: Thy mother and thy brethren stand without, desiring to see thee.",
+        "Who answering, said to them: My mother and my brethren are they who hear the word of God and do it."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 8:19-21",
+      "reference": "Luke 8:19-21",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 25th week of Ordinary Time",
+        "key": "tuesdayOfThe25thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/22.html",
+    "title": "Gospel and Word of the Day - 22 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-22"
+}
