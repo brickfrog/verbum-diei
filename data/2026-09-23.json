@@ -1,0 +1,241 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d65489b931086a2682db974ae86b4a6c9be66fb38bfbecce32e614ccb1ae8473",
+        "inputSha256": "71b7f01e02705666ecd01873676f255f3c9db03ad92f2260edaf74b8221103b2",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b2b5085c8d1f2286e1a19534edb1b74c1d7ceec1e8b8ae6c4d114a5f9df789a9",
+        "inputSha256": "678469777b4b611406896b8a6e1e835df5ede62bf5d31f5a969b9f84b24277d4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a7da57c61e08bca087da1886959a0861ef41c10fd22d39779e9042886fc20e18",
+        "inputSha256": "b5ae8a7ae67cc953fb2ff68cddc6cdd7b17e242e6fbee016beb7fa4731d32e0e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-23T05:57:58.259Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This psychology of speech and need has close cousins. The Vedic sense of mantra as tested heat, refined by austerity, sits near the image of words proven in fire; speculation: both treat language as something that either carries reality or collapses into noise when adulterated. Zen’s distrust of “adding” through conceptual overlay echoes the warning against embellishment, not as anti-intellectualism but as a guardrail against self-serving narration.\n\nThe request for “enough” matches Aristotle’s mean and Epicurus’ plain sufficiency, but with a sharper moral diagnosis: surplus breeds amnesia, lack breeds coercion. Buddhism’s Middle Way and the monastic rule of few possessions align with the travel command to carry nothing; speculation: deprivation here functions like exposure therapy, stripping the ego’s props so attention can reattach to what is given.\n\nThe apostolic pattern resembles the Hindu sannyasi and the Jain mendicant: authority expressed as vulnerability, power shown by not stockpiling. The house-to-house dependence recalls Islamic tawakkul, trust enacted through reliance on hospitality rather than reserves. Shaking dust has a Stoic and Cynic analogue: refusal met without rancor, the self kept unentangled; speculation: it is boundary-setting ritualized, preventing rejection from becoming identity.",
+    "excursus": "Proverbs is not pious restraint; it is fear of the self. The speaker knows the mind is a hungry animal that turns any surplus into amnesia and any lack into crime. “Give me neither beggary nor riches” is not moderation but damage control, a plea to be kept in the narrow band where a person can still recognize his own name. The dread is that identity is conditional, and God is the first thing the satiated forget.\n\nLuke answers with a harsher experiment: strip the apostles down until they can’t buy dignity or pack backup selves. No staff, no bag, no extra coat—no private insurance against humiliation. They must live on other people’s thresholds, exposed to refusal, forced to feel how quickly the world closes. Power over demons comes paired with powerlessness in the street.\n\nThe desire underneath both texts is dangerous: to be clean of lies. But the only way offered is dependence so total it risks contempt. The kingdom is preached by men who can be turned away, and the dust-shaking is not righteous theater; it’s the bitter proof that rejection still clings to you, so you ritualize it into a gesture and keep walking.",
+    "synthesis": "God’s word admits no supplementation, and discipleship therefore lives by received authority rather than self-provision. The faithful ask for sufficiency and are sent to witness a kingdom that validates itself in both truth and healing.",
+    "gospel": [
+      {
+        "text": "The commission fuses proclamation and repair; the kingdom is announced in speech and made credible in embodied restoration, then replicated as a pattern across towns.",
+        "lines": [
+          2,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The speaker frames his petition as a bounded request “before I die,” placing ethics under eschatological pressure: life is short, so the terms must be clear.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The word is tested; the shield is for hopers, not analysts.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "To edit revelation is to manufacture perjury.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The prayer is for measure: enough to live, not enough to forget.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Satiety breeds atheism; scarcity breeds sacrilege.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority precedes itinerary: power is issued, not discovered.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Radical lightness: the mission is not financed by contingency plans.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Stability as discipline: no shopping for better hosts.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rejection is recorded, not avenged; dust becomes evidence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who granted Saint Pius, priest, the singular grace of sharing in the cross of your Son, and through his ministry renewed the wonders of your mercy, grant us, through his intercession, that, sharing in the sufferings of Christ, we may happily attain the glory of the resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who granted Saint Pius, priest, the singular grace of sharing in the Cross of your Son, and through his ministry renewed the wonders of your mercy, grant, through his intercession, that, sharing in the sufferings of Christ, we may happily attain the glory of the Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who granted Saint Pius, priest, the singular grace of sharing in the cross of your Son, and through his ministry renewed the wonders of your mercy, grant us, through his intercession, that, sharing in the sufferings of Christ, we may happily attain the glory of the resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart, and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Every word of God is fire tried: he is a buckler to them that hope in him.",
+        "Add not any thing to his words, lest thou be reproved and found a liar:",
+        "Two things I have asked of thee, deny them not to me before I die.",
+        "Remove far from me vanity, and lying words. Give me neither beggary, nor riches: give me only the necessaries of life:",
+        "Lest perhaps being filled, I should be tempted to deny, and say: Who is the Lord? or being compelled by poverty, I should steal, and forswear the name of my God."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Proverbs 30:5-9",
+      "reference": "Proverbs 30:5-9",
+      "heading": "A reading from the Book of Proverbs",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then calling together the twelve apostles, he gave them power and authority over all devils and to cure diseases.",
+        "And he sent them to preach the kingdom of God and to heal the sick.",
+        "And he said to them: Take nothing for your journey, neither staff, nor scrip, nor bread, nor money; neither have two coats.",
+        "And whatsoever house you shall enter into, abide there and depart not from thence.",
+        "And whosoever will not receive you, when ye go out of that city, shake off even the dust of your feet, for a testimony against them.",
+        "And going out, they went about through the towns, preaching the gospel and healing every where."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:1-6",
+      "reference": "Luke 9:1-6",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Pio of Pietrelcina (Padre Pio), Priest",
+        "key": "saintPioOfPietrelcinaPadrePioPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/23.html",
+    "title": "Gospel and Word of the Day - 23 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-23"
+}
