@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4a079a22c133997762d3be34f71fc685b9eccebf7b2a6627967447e9fde42b78",
+        "inputSha256": "32b6d9397e8e10d1b95b5fac59c89f2e72320561f7e2e84231a141466bf788f4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e0b40d0382d5be3bed2da0d84d37cbe85c71ba5a90db2dca70e54139a1f6a14f",
+        "inputSha256": "e3a48cc5eb32313ef5df0663e657822b5217852c990dd0c82d5b87662004b370",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e5f845e5164c3f72093f29efb059e3991d808dd4a2eab594c2e0b9ef59a3e593",
+        "inputSha256": "8aaa2b5b83445f72e9a8cf4a3c44b1d738cb284878d1cb5ec3f6358a7de4d376",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-24T06:10:11.222Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Qoheleth’s turning world has the same dry, lucid taste as the Buddha’s diagnosis of craving: the eye and ear never fill, so the self keeps buying experience like a drug that cannot satisfy. The rivers returning without gain echoes Stoic ekpyrosis and eternal recurrence: nature cycles; the ego’s demand for a climax is the delusion. Speculation: it also brushes the Daoist sense of the ten thousand things flowing back to the Dao, where naming and explanation fail.\n\nHerod’s curiosity is the anxious mind faced with an event that won’t fit its categories. He treats the uncanny as a recycling of old figures, like a courtier reaching for familiar masks to domesticate threat. This resembles the Mahabharata’s kings who consult omens and genealogies to avoid moral choice, and the Shinto instinct to locate a new power as a returning kami rather than a new claim on conscience. Speculation: it is also Freud’s return of the repressed in political form—guilt seeking a face to attach to, so the ruler can look without changing.",
+    "excursus": "Ecclesiastes isn’t preaching humility; it’s reporting the symptom of a mind that has watched the world repeat itself until repetition becomes a kind of nausea. The sun’s circuit, the rivers’ return, the eye that can’t stop looking—these are not neutral observations but compulsions. “Vanity” here is not moral judgment; it’s the dead feel of experience when desire keeps firing and nothing ever finally arrives. The terror is not death but endlessness: a treadmill that outlasts every generation, with the added cruelty that even the treadmill won’t remember you.\n\nHerod is the human face of that dread. He has tried to make an ending—he beheads John, a decisive act meant to close the story—and the story refuses to close. Rumor resurrects what he killed; names recycle like seasons: John, Elijah, an old prophet, anyone but the truth that he cannot undo himself. His “who is this?” is not curiosity; it’s panic that the world is looping back to him. He seeks to see Jesus the way an anxious man checks a locked door, hoping sight will grant control.\n\nPut together, the texts read like a psychology of power and boredom: the cosmos repeats, and the ruler, trapped in his own act, can’t bear the thought that something genuinely new might be walking toward him. The desire to see is the desire to master; the dread is that the new will not be new at all, but the return of what he cannot live with.",
+    "synthesis": "Under the sun, human striving cannot produce surplus, novelty, or lasting remembrance. The gospel exposes how worldly power, trapped in repetition and guilt, can only misname Christ and seek to control what it cannot comprehend.",
+    "gospel": [
+      {
+        "text": "Herod’s court interprets Jesus through recycled categories—John, Elijah, prophets—because political imagination cannot name a living threat except as a return of the past. Herod’s desire “to see” is not discipleship but surveillance: the ruler who can kill a prophet wants the next one legible.",
+        "lines": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds a cosmology of recurrence: celestial paths, winds, waters, and human history all loop. The argument is not that events repeat in detail, but that the world’s patterns absorb every novelty claim into an older cycle, leaving “new” as a rhetorical mistake.",
+        "lines": [
+          4,
+          5,
+          8,
+          9
+        ]
+      },
+      {
+        "text": "The text attacks the economy of self-justification: labor seeks remainder, speech seeks mastery, sensation seeks satiety. Each instrument—work, word, eye, ear—fails to deliver closure, so the human project cannot secure its own verdict.",
+        "lines": [
+          1,
+          2,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Superlative piled on superlative: language collapses into a verdict.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Profit-question: work measured by surplus, not by meaning.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Generations are replaceable; the earth is the indifferent constant.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sun’s “return” mocks human notions of progress.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Inflow without fullness: motion without arrival.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Senses as hungry mouths; perception never closes the account.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Oblivion is the final equality; even the future is erased.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Power hears; power does not understand. Rumor is his intelligence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Resurrection reduced to options on a courtier’s menu.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A clean confession of violence, then a dirty curiosity: “who is this?”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and so attain eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we humbly come to you at the beginning of the day, at midday, and at evening, to ask that, driving away from us the darkness of sin, you may bring us to the true light, who is Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You, Lord, who illumine the night and make the light dawn anew after the darkness, grant that during the night now beginning we may be free from every fault, and that, when the new day breaks, we may gather once more in your presence to give you thanks again. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Vanity of vanities, said Ecclesiastes: vanity of vanities, and all is vanity.",
+        "What hath a man more of all his labour, that he taketh under the sun?",
+        "One generation passeth away, and another generation cometh: but the earth standeth for ever.",
+        "The sun riseth, and goeth down, and returneth to his place: and there rising again,",
+        "Maketh his round by the south, and turneth again to the north: the spirit goeth forward surveying all places round about, and returneth to his circuits.",
+        "All the rivers run into the sea, yet the sea doth not overflow: unto the place from whence the rivers come, they return, to flow again.",
+        "All things are hard: man cannot explain them by word. The eye is not filled with seeing, neither is the ear filled with hearing.",
+        "What is it that hath been? the same thing that shall be. What is it that hath been done? the same that shall be done.",
+        "Nothing under the sun is new, neither is any man able to say: Behold this is new: for it hath already gone before in the ages that were before us.",
+        "There is no remembrance of former things: nor indeed of those things which hereafter are to come, shall there be any remembrance with them that shall be in the latter end."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ecclesiastes 1:2-11",
+      "reference": "Ecclesiastes 1:2-11",
+      "heading": "A reading from the Book Ecclesiastes",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now Herod, the tetrarch, heard of all things that were done by him. And he was in a doubt, because it was said",
+        "By some that John was risen from the dead: but by other some, that Elias had appeared: and by others, that one of the old prophets was risen again.",
+        "And Herod said: John I have beheaded. But who is this of whom I hear such things? And he sought to see him."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:7-9",
+      "reference": "Luke 9:7-9",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 25th week of Ordinary Time",
+        "key": "thursdayOfThe25thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/24.html",
+    "title": "Gospel and Word of the Day - 24 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-24"
+}
