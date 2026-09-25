@@ -1,0 +1,272 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "dc35615d9407743c6ffe2e42efc35f54136d844281b9abb05d4ef26e7a50d452",
+        "inputSha256": "69181b402313309f39f02c1b86dc32c95b69a09a6585a4be38fd2736a698978b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "21a85f219110be3be4336b059f8e12abb433287c4965accff16be6d5d9250941",
+        "inputSha256": "8b8b22a61ddf53871d5ad601d9441330a5c28f09548a81fb64cfead7fdbad3e7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "418e30cb0aadb35765ecfc70e66c1ba65a4ea77a6acf3b339fed6890c78cf5e3",
+        "inputSha256": "45b6ce36190f4c3c573ddec158a0595baa689dac10e437c5c06cf6ab8e1697cd",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-25T06:09:35.554Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ecclesiastes’ seasons rhyme with the Bhagavad Gita’s insistence on acting within one’s given moment without pretending to command outcomes; both treat time as a moral weather system you learn to read rather than defeat. The Stoics’ amor fati sits nearby: not passive surrender, but trained consent to necessity. Speculation: the Taoist sense of wu-wei also fits, where wisdom is timing, not force.\n\nLuke’s question of identity echoes the Zen demand for direct seeing beyond borrowed names; the crowd’s labels are secondhand, the disciple’s answer is existential. The secrecy and the turn to suffering resemble the bodhisattva vow in Mahayana Buddhism, where compassion is not triumphal but costly. Speculation: in Sufism, the beloved’s hiddenness and the lover’s ordeal form the same psychological arc—recognition that deepens into loss, then remade self.",
+    "excursus": "Ecclesiastes isn’t soothing you with cosmic balance. It’s teaching you the narcotic rhythm of inevitability: everything gets a slot, everything gets excused. Birth and death, healing and killing, love and hatred—filed like paperwork. The dread is that the list makes atrocity feel natural. If there is “a time to kill,” then the killer can call himself obedient to the clock. The poem is a sedative for conscience, a way to survive by surrendering agency. You ask, “What have I gained?” and the answer is: a mind trained to accept loss as schedule.\n\nThen Luke turns the screw. Identity is a trap. Jesus asks for a name, gets one, and immediately forbids it. The secret isn’t humility; it’s strategy. Once you say “Christ,” the story hardens, roles snap into place, and the machine of seasons starts demanding its payment. He announces suffering as a must, not a risk. The desire here is to be recognized; the dread is what recognition summons: rejection, execution, and a resurrection that sounds less like comfort than like the final proof you never owned your life’s timing at all.",
+    "synthesis": "Providence orders times and withholds total comprehension, exposing human labor as incapable of final gain. The Christ is known truly only when his messiahship is interpreted through the necessity of suffering, death, and resurrection.",
+    "gospel": [
+      {
+        "text": "The scene stages a transfer from hearsay to confession: the crowd’s categories cannot contain him, and the disciples are pressed into decision. Peter’s answer functions as a hinge—recognition is granted, but it immediately reconfigures what messiahship will mean.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Jesus defines his identity by trajectory rather than acclaim: suffering and rejection are not accidents but the ordained path. The mention of specific authorities locates the conflict in religious governance, and the resurrection clause prevents the Passion from being read as defeat.",
+        "lines": [
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The poem’s antitheses are not moral equivalences but a taxonomy of creaturely limits: agency exists, yet it is bounded by alternation. The sequence moves from bodily events to social bonds to speech, then to the political (war/peace), widening the scope until the question of profit exposes the futility of mastery.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "God is named as the giver of “trouble” and the maker of fittingness; the world is handed over for contemplation, not control. The final clause installs epistemic frustration as part of the gift: total comprehension is withheld, forcing humility before providence.",
+        "lines": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Seasonality is law; heaven is the ceiling, not the escape.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Birth and death paired without sentiment; agriculture as the grammar of flesh.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Stones: either field-clearing or weaponry; embrace has an appointed absence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Silence and speech are not virtues but timings; ethics reduced to clockwork.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The ledger question: surplus of labor is demanded, not assumed.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prayer in solitude, interrogation in company; identity posed as public rumor.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The title lands clean: not teacher, not prophet—Messiah.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation is throttled; truth is not yet for circulation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Necessity (“must”) governs the Passion; rejection is institutional, death is scheduled, rising is dated.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look graciously, Lord, upon the desires and prayers of your people; grant us light to know your will and the strength needed to fulfill it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have illumined the darkness of our ignorance with the light of your Word: increase in us the faith that you yourself have given; may no temptation ever be able to destroy the fervor of faith and charity that your grace has kindled in our spirit. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that we who have been instructed by the examples of the Passion of your Son may always be ready to take upon ourselves his easy yoke and his light burden. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "All things have their season, and in their times all things pass under heaven.",
+        "A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted.",
+        "A time to kill, and a time to heal. A time to destroy, and a time to build.",
+        "A time to weep, and a time to laugh. A time to mourn, and a time to dance.",
+        "A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces.",
+        "A time to get, and a time to lose. A time to keep, and a time to cast away.",
+        "A time to rend, and a time to sew. A time to keep silence, and a time to speak.",
+        "A time of love, and a time of hatred. A time of war, and a time of peace.",
+        "What hath man more of his labour?",
+        "I have seen the trouble, which God hath given the sons of men to be exercised in it.",
+        "He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot find out the work which God hath made from the beginning to the end."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ecclesiastes 3:1-11",
+      "reference": "Ecclesiastes 3:1-11",
+      "heading": "A reading from the Book of Ecclesiastes",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, as he was alone praying, his disciples also were with him: and he asked them, saying: Whom do the people say that I am?",
+        "But they answered and said: John the Baptist; but some say Elias: and others say that one of the former prophets is risen again.",
+        "And he said to them: But whom do you say that I am? Simon Peter answering, said: The Christ of God.",
+        "But he strictly charging them, commanded they should tell this to no man.",
+        "Saying: The Son of man must suffer many things and be rejected by the ancients and chief priests and scribes and be killed and the third day rise again."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:18-22",
+      "reference": "Luke 9:18-22",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 25th week of Ordinary Time",
+        "key": "fridayOfThe25thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/25.html",
+    "title": "Gospel and Word of the Day - 25 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-25"
+}
