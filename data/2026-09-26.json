@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "153f7e7d283621d9c8838a3902ba5b2722743b40ff52c88adc99fa80ea1cf7aa",
+        "inputSha256": "2df61b12e113629d8f6cf52dac82a80c363cc93ac2ffaa229b32e7f0901bea79",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2b7962e9084b2348875b82a35b529267ce31638dfd2e7124fd04fd560d81e67a",
+        "inputSha256": "b12aa9a95eccc1cbc2ed7b310070efe85e2f4e08b009cc9f4b21f113dfefc087",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "987e735e0730da807f44f243595c7e224c62f84b219e5358dac426917c49b23b",
+        "inputSha256": "de5a70dfb8623fd9a93692662725f6a8b67d24ad4b58771af45507f9e45e5e53",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-26T06:09:45.164Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ecclesiastes’ counsel reads like a lucid therapist who refuses denial: enjoy what’s vivid, but keep death in the room, because pleasure unshadowed becomes compulsion. The body’s slow unthreading is rendered as domestic machinery failing—keepers trembling, grinders idling—so aging is not tragedy but entropy made legible; the psyche is invited to trade grand projects for honest attention before the lights dim.\n\nLuke’s scene turns awe into misdirection: the crowd’s astonishment is a narcotic, and Jesus punctures it with a sentence about being handed over. The disciples’ not-understanding is not stupidity but fear-management; they protect attachment by refusing the question that would reorganize their world. The “hidden” word names how trauma-knowledge arrives: not as information, but as something the mind keeps at a distance until it can bear the cost.\n\nSpeculation: there’s a shared ethic with Stoicism’s memento mori and Buddhism’s maranasati—practice mortality to free desire from panic. There’s kinship with the Bhagavad Gita’s call to act without clinging to outcomes, and with Sufi fana as the ego’s surrender before what it cannot control. Even the Tao Te Ching’s distrust of spectacle echoes Luke: marvels distract; the real work is consenting to the hard, quiet turning.",
+    "excursus": "Ecclesiastes sounds like permission, then snaps the leash. Walk where your eyes pull you, yes, but feel the hook already set: judgment is not a later courtroom, it is the way pleasure curdles into its own verdict. “Remove anger” is not moral advice so much as triage; rage is the body’s rehearsal for the coming humiliations. The poem of aging is not pious metaphor but a slow home invasion—hands trembling, teeth quitting, music going mute—until the self is reduced to broken household objects. “Remember” means: keep a witness inside you while everything else is repossessed.\n\nLuke stages a miracle and then spoils the applause. Power flares, a child is returned, and Jesus immediately plants the image of his own capture like a splinter under the disciples’ joy. Their not-understanding isn’t ignorance; it’s refusal. The word is “hid” because they hide it, because desire wants a hero who keeps winning, not a body handed over. They are afraid to ask because the question would make the dread real: that rescue is temporary, that the mighty act is not an escape from the human bargain but a sign of what it costs.\n\nPut together, the texts don’t preach consolation; they expose the bargain we keep trying to dodge. Youth wants intensity without accounting. Faith wants power without surrender. Both are answered with the same cold intimacy: enjoy, but know; marvel, but store the sentence in your heart. The miracle restores the boy to his father, and the next line restores everyone to the fact they cannot bear: everything given back will be taken again, and the taking is the point.",
+    "synthesis": "God’s judgment and God’s gift bracket human life: dust returns to earth, spirit to its Giver. Divine power is disclosed most fully not in marvels but in the Son’s voluntary delivery into human hands.",
+    "gospel": [
+      {
+        "text": "The miracle functions as a staging device: restoration to the father is immediately followed by a prediction of the Son’s own being handed over. Luke yokes power to passion so that discipleship is trained away from interpreting God by outcomes and toward interpreting outcomes by the cross.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The hidden saying creates a temporary asymmetry between Jesus and the disciples: they are made witnesses without comprehension. Their fear to question shows how reverence can curdle into silence, leaving them vulnerable to scandal when the prediction materializes.",
+        "lines": [
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage frames youth as the only season in which remembrance can be chosen rather than forced. The final verdict of “vanity” is not nihilism but a legal summary: every project collapses under time, so the only durable orientation is toward the Creator who outlasts the cycle.",
+        "lines": [
+          3,
+          10
+        ]
+      },
+      {
+        "text": "Aging is narrated as social and sensory contraction: public space closes (“doors in the street”), sound thins, movement becomes perilous, and the community’s response shifts from participation to procession. Death is presented less as an event than as relocation into a fixed address—an “eternity” that makes present habits decisive.",
+        "lines": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Permission with a hook: the eyes may roam, but the court is already convened.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Anger is treated as a removable organ; “flesh” is the storage of evil.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Weather becomes chronology: after-rain clouds as the new normal.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Household anatomy: guardians shake, pillars lurch, teeth retire, windows dim.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The comic turns terminal: blossoms, fattened locust, ruined caper—then “house of eternity.”",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three breakages and a snapped tether: life as a rigging that fails at its joints.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two returns, two owners: earth reclaims dust; God reclaims breath.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Astonishment is interrupted by a deposit command: store the sentence, not the spectacle.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Delivered” sits inside “mighty power”: sovereignty expressed as surrender.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ignorance is not mere slowness; it is imposed concealment, guarded by fear.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have placed the fullness of the law in love of you and of our neighbor, grant that we may keep your commandments and thus come to eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the brightness of the resurrection of your Son may illumine the difficulties of our life; that we may not fear in the face of the darkness of death and may one day come to the light that has no end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may obtain the goods of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.",
+        "Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain.",
+        "Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:",
+        "Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain:",
+        "When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened:",
+        "And they shall shut the doors in the street, when the grinder's voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf.",
+        "And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street.",
+        "Before the silver cord be broken, and the golden fillet shrink back, and the pitcher be crushed at the fountain, and the wheel be broken upon the cistern,",
+        "And the dust return into its earth, from whence it was, and the spirit return to God, who gave it.",
+        "Vanity of vanities, said Ecclesiastes, and all things are vanity."
+      ],
+      "lineRefs": [
+        "11:9",
+        "11:10",
+        "12:1",
+        "12:2",
+        "12:3",
+        "12:4",
+        "12:5",
+        "12:6",
+        "12:7",
+        "12:8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ecclesiastes 11:9—12:8",
+      "reference": "Ecclesiastes 11:9—12:8",
+      "heading": "A reading from the Book of Ecclesiastes",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus rebuked the unclean spirit and cured the boy and restored him to his father.",
+        "And all were astonished at the mighty power of God. But while all wondered at all the things he did, he said to his disciples: Lay you up in your hearts these words, for it shall come to pass that the Son of man shall be delivered into the hands of men.",
+        "But they understood not this word: and it was hid from them, so that they perceived it not. And they were afraid to ask him concerning this word."
+      ],
+      "lineRefs": [
+        "43",
+        "44",
+        "45"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:43-45",
+      "reference": "Luke 9:43-45",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saints Cosmas and Damian, Martyrs",
+        "key": "saintsCosmasAndDamianMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/26.html",
+    "title": "Gospel and Word of the Day - 26 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-26"
+}
