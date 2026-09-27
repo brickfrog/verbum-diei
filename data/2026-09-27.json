@@ -1,0 +1,251 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6f66e671644ff9dda59be1540090f299a68b25714d02df9a5a11cd8c2fe0348d",
+        "inputSha256": "06b3500a41cbb711b6433dc39c5acf6987e2a8759c41dc11af6391f70e679c72",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8260633af873880e73573639a900a381d1f32d50c4de996f7f5f37f863d926dc",
+        "inputSha256": "1a47c269c9bccdaca6e4a39eb3d9d6eeb983f32739562bdc0330ed4b35916fa8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "322a3147eb9baa2a780b7edc6b9c5396c75fed6516ffc0b0b6883eca3d409b27",
+        "inputSha256": "e9cf613a996b5f872bbdc3ba38404010bbbe0b9be1ece313382d47bd664bb52b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-27T06:36:16.874Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s pivot is interior: the self is not a fixed moral caste but a direction that can reverse, and the complaint about “unfairness” is exposed as a defense of one’s own crookedness. That resembles the Stoic insistence that virtue is a present act of assent, not a stored asset, and the Buddhist emphasis on intention and turning the mind; speculation: both traditions would hear “live and not die” as the psychological fact that a reoriented will stops generating its own suffering.\n\nMatthew’s two sons stage the split between speech and embodied choice: refusal can be honest contact with desire, while compliance can be a performance that anesthetizes conscience. That aligns with Confucian suspicion of glib propriety without ren, and with Sufi talk of tawba as a real turning rather than a pious pose; speculation: the “publicans and harlots” function like Zen’s preference for the unvarnished beginner over the self-satisfied adept, because shame can be a doorway when it isn’t converted into hypocrisy.",
+    "excursus": "Ezekiel stages a courtroom where the defendant is not God but the self that wants a stable identity. “Your ways are perverse” means: you have made virtue into property, a hoard you can live off. The dread is that nothing you did yesterday will save you today; the self is not a pension plan. The threat “he shall die therein” is psychological before it is metaphysical: you can become the act you repeat, until it is the only language your life can speak.\n\nThe supposed comfort—wickedness can turn and live—cuts the other way too. If the wicked can pivot, then the “just” can rot. No one is safe inside a label. God’s “way” is not fairness as bookkeeping; it is a relentless present tense that refuses to let you hide behind your résumé.\n\nMatthew sharpens it into desire. The first son’s “I will not” is honest appetite, a refusal that admits conflict; later he goes because he can still be moved. The second son’s “I go, Sir” is the narcotic of compliance, a performance that keeps desire untouched and therefore unchanged. The vineyard is not a moral workplace; it is the place where your body has to show up.\n\nPublicans and harlots go first because they have already lost the luxury of appearing righteous. Their lives are exposed, so repentance can be real: not a speech, but a turn. The religious hear John and feel only the threat to their self-image; they would rather be correct than alive. The kingdom begins where the lie of being “the good one” finally becomes unbearable.",
+    "synthesis": "God’s judgment is rectitude, not caprice: it follows the lived turn of the will. The kingdom is entered by repentance enacted, not by claims of obedience.",
+    "gospel": [
+      {
+        "text": "The parable is a courtroom trap: Jesus forces his hearers to pronounce a verdict that condemns their own posture, because “will” is defined by enacted compliance rather than declared loyalty.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "John’s ministry functions as a public criterion of legitimacy. Refusal to believe is exposed as refusal to repent; the leaders’ problem is not ignorance but resistance to a witnessed moral realignment in others.",
+        "lines": [
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The dispute is about the character of divine judgment: Israel charges arbitrariness; the oracle answers by locating continuity in moral causality—life and death track the present orientation, not inherited labels.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The passage dismantles fatalism. It treats conversion as a genuine change of standing, making responsibility dynamic: neither prior righteousness nor prior wickedness is allowed to function as a permanent shield or sentence.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Accusation reversed: the judge is judged; “not right” becomes “perverse.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Justice is not a possession but a path; exit it and death is not imposed but entered.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The wicked is granted a future; judgment is not nostalgia for the past but a new direction.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Considereth” precedes turning: thought is treated as moral action’s hinge.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal can be truer than assent; repentance outbids politeness.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Speech without motion: obedience counterfeited by courtesy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Priority scandal: the disreputable enter first, not because sin is small but because reversal is real.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Evidence increases guilt: “seeing it” and still no turn—hardness after proof.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may obtain the goods of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may attain the goods of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may attain the goods of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may obtain the goods of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, so that, longing for what you promise, we may attain the goods of heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who manifest your power above all by pardon and mercy, pour out your grace upon us without ceasing, that, longing for what you promise, we may obtain the goods of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once more. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And you have said: The way of the Lord is not right. Hear ye, therefore, O house of Israel: Is it my way that is not right, and are not rather your ways perverse?",
+        "For when the just turneth himself away from his justice, and comitteth iniquity, he shall die therein: in the injustice that he hath wrought he shall die.",
+        "And when the wicked turneth himself away from his wickedness, which he hath wrought, and doeth judgment, and justice: he shall save his soul alive.",
+        "Because he considereth and turneth away himself from all his iniquities which he hath wrought, he shall surely live, and not die."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 18:25-28",
+      "reference": "Ezekiel 18:25-28",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But what think you? A certain man had two sons: and coming to the first, he said: Son, go work to day in my vineyard.",
+        "And he answering, said: I will not. But afterwards, being moved with repentance, he went.",
+        "And coming to the other, he said in like manner. And he answering said: I go, Sir. And he went not.",
+        "Which of the two did the father's will? They say to him: The first. Jesus saith to them: Amen I say to you that the publicans and the harlots shall go into the kingdom of God before you.",
+        "For John came to you in the way of justice: and you did not believe him. But the publicans and the harlots believed him: but you, seeing it, did not even afterwards repent, that you might believe him."
+      ],
+      "lineRefs": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 21:28-32",
+      "reference": "Matthew 21:28-32",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "26th Sunday of Ordinary Time",
+        "key": "26thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/27.html",
+    "title": "Gospel and Word of the Day - 27 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-27"
+}
