@@ -1,0 +1,307 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6794bcff33d878c82b8ed3ea284f1560f6c91b82da2824929092be6388225067",
+        "inputSha256": "d82c6397eb8f723fec4c06db6a6fee722e67848dea77cb2cd8e6c5cf04530ef8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "11b61ff35dfcdbcfadfb263238df466068cdbb082c4cf2527600119622f819d4",
+        "inputSha256": "ba8138b023979e59b751a0f6c34ed7fa9d0ac67feca7afe91c72ab64d6be661e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b319413ebf97ebb23642f8e6487e1758bd259ba1bc802e69abab151f1a4302ad",
+        "inputSha256": "55009216f6923e53519005768f40fda5a7e479fb94a13ffcb87ff39d6e5436c1",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-28T06:52:34.966Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Job’s ordeal reads like the Zen koan of unearned catastrophe: the mind demands a moral ledger, reality refuses, and the practice becomes nonreactivity without numbness. Speculation: it also resembles the Bhagavad Gita’s karma-yoga stripped to the bone—action and loss severed from entitlement—except here the “battlefield” is domestic life collapsing.\n\nThe child set beside the teacher echoes Daoist softness as strength: the uncarved block that disarms status-games by not playing them. Speculation: the outsider exorcist feels close to Ashoka’s edicts of religious toleration and to the rabbinic intuition that righteousness can exist beyond the in-group; power that heals is recognized by its fruit, not its badge.",
+    "excursus": "Job is not a morality play; it’s a scene of divine boredom looking for friction. God points at Job the way a proud owner points at a purebred, and the Accuser names the obscene truth: virtue here is subsidized. The “fence” is the real god Job serves. Remove it and you find out what’s underneath.\n\nThe disasters arrive like a liturgy of interruption, each messenger cutting off the last, language itself made into a conveyor belt for loss. Job’s famous sentence is not serenity; it’s dissociation under pressure, a controlled collapse into formula. “Blessed be the name” is what you say when grief is too large to fit in the mouth. He does not sin by his lips because his lips have become a mask.\n\nLuke shows the same hunger in miniature. The disciples’ desire to be greater is naked, and Jesus answers with a child, not as innocence but as leverage: the smallest body becomes the token that rearranges status. Then John tries to police power—exorcism as brand management. Jesus refuses the monopoly. The dread beneath both readings is that belonging is never secure: God can lift the fence, and the group can’t control who carries the name. Desire wants guarantees; the text offers exposure.",
+    "synthesis": "God’s sovereignty is not threatened by the Accuser’s challenge, and true righteousness is measured by faithful speech under loss. In Christ, greatness is participation in divine reception of the least, not possession of exclusive authority.",
+    "gospel": [
+      {
+        "text": "Jesus answers the disciples’ rivalry by redefining mediation: access to him and to the Father is routed through receiving the least, not through securing status. The follow-up about the outsider exorcist exposes the same ambition in ecclesial form—control of efficacy—met by a rule that prioritizes alignment with Jesus’ work over factional boundaries.",
+        "lines": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene frames righteousness as contested evidence: God names Job exemplary, the Accuser proposes an alternative causal story, and the test aims at speech—whether worship collapses into accusation. The narrative’s interest is not in why calamity happens but in what kind of creature a just man is when the explanatory scaffolding is removed.",
+        "lines": [
+          3,
+          4,
+          6,
+          17
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "The Accuser is not outside the court; he is admitted.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Restless patrol: evil as itinerant attention.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Piety interpreted as hedged investment; blessing as bribe.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Permission with a boundary: delegated harm under constraint.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Catastrophe as litany; each report interrupts the last—no time to grieve, only to receive.",
+      "lines": [
+        10,
+        11,
+        12,
+        14
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Fire of God”: disaster baptized with divine vocabulary.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ritualized ruin: tearing, shaving, prostration—then worship.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The grammar of loss: gave/took; pleasure, not explanation; blessing without reasons.",
+      "lines": [
+        16
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Greatness begins as an interior calculation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A child placed as an argument, not an ornament.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reception replaces rank; the small becomes a conduit for the Sender.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Orthodoxy policed by proximity: “not with us” as the charge.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jesus breaks the monopoly: the Name is not a private badge.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, who govern heaven and earth at the same time, graciously hear the prayer of your people and grant that the days of our life may be founded upon your peace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who have brought us to the beginning of this day, save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to assist us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now on a certain day, when the sons of God came to stand before the Lord, Satan also was present among them.",
+        "And the Lord said to him: Whence comest thou? And he answered and said: I have gone round about the earth, and walked through it.",
+        "And the Lord said to him: Hast thou considered my servant, Job, that there is none like him in the earth, a simple and upright man, and fearing God, and avoiding evil?",
+        "And Satan answering, said: Doth Job fear God in vain?",
+        "Hast thou not made a fence for him, and his house, and all his substance round about, blessed the works of his hands, and his possession hath increased on the earth?",
+        "But stretch forth thy hand a little, and touch all that he hath, and see if he bless thee not to thy face.",
+        "Then the Lord said to Satan: Behold, all that he hath is in thy hand: only put not forth thy hand upon his person. And Satan went forth from the presence of the Lord.",
+        "Now upon a certain day, when his sons and daughters were eating and drinking wine, in the house of their eldest brother,",
+        "There came a messenger to Job, and said: The oxen were ploughing, and the asses feeding beside them,",
+        "And the Sabeans rushed in, and took all away, and slew the servants with the sword; and I alone have escaped to tell thee.",
+        "And while he was yet speaking, another came, and said: The fire of God fell from heaven, and striking the sheep and the servants, hath consumed them; and I alone have escaped to tell thee.",
+        "And while he also was yet speaking, there came another, and said: The Chaldeans made three troops, and have fallen upon the camels, and taken them; moreover, they have slain the servants with the sword: and I alone have escaped to tell thee.",
+        "He was yet speaking, and behold another came in, and said: Thy sons and daughters were eating and drinking wine in the house of their eldest brother,",
+        "A violent wind came on a sudden from the side of the desert, and shook the four corners of the house, and it fell upon thy children, and they are dead: and I alone have escaped to tell thee.",
+        "Then Job rose up, and rent his garments, and having shaven his head, fell down upon the ground, and worshipped,",
+        "And said: Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away: as it hath pleased the Lord, so is it done: blessed be the name of the Lord.",
+        "In all these things Job sinned not by his lips, nor spoke he any foolish thing against God."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Job 1:6-22",
+      "reference": "Job 1:6-22",
+      "heading": "A reading from the Book of Job",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there entered a thought into them, which of them should be greater.",
+        "But Jesus seeing the thoughts of their hearts, took a child and set him by him,",
+        "And said to them: Whosoever shall receive this child in my name receiveth me; and whosoever shall receive me receiveth him that sent me. For he that is the lesser among you all, he is the greater.",
+        "And John, answering, said: Master, we saw a certain man casting out devils in thy name: and we forbade him, because he followeth not with us.",
+        "And Jesus said to him: Forbid him not: for he that is not against you is for you."
+      ],
+      "lineRefs": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:46-50",
+      "reference": "Luke 9:46-50",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Wenceslaus, Martyr/Saints Lawrence Ruiz and Companions, Martyrs",
+        "key": "saintWenceslausMartyrSaintsLawrenceRuizAndCompanionsMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/28.html",
+    "title": "Gospel and Word of the Day - 28 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-28"
+}
