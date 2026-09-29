@@ -1,0 +1,252 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3074c497e28c62096bb8e02101688705e14c90a6690be187637cea7931913c85",
+        "inputSha256": "fb290e09c4b49164d2b1259df358b4f68f60467aa4194fac98cafc58118209a8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5514fc6610c269ee2107ef923fb0123d8632ee0b470a2ac3a63599b1761ea4c1",
+        "inputSha256": "0e46bb85cad5a3cca20f5056580f77d45ac92852c79b6928c64b30cea45a6ba5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "28de642611d5ed1a1a74763ec8612cf20de7d43c09e11b4977f4af98533812be",
+        "inputSha256": "633a54bf30506a5229df37612f04d3105edc4ed623a1afaaddb56d0107d7b118",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-29T06:53:47.777Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Daniel’s court of fire and opened books feels like the psyche staging its own audit: conscience externalized into a blazing tribunal where nothing stays private, and authority is not brute force but luminous clarity that burns away self-deception. The “Son of man” arriving on clouds reads as the human figure finally able to carry that unbearable gaze without disintegrating, the integrated self receiving a kingdom because it can hold judgment without lying.\n\nNathanael’s “no guile” is the rare inner condition that makes recognition immediate: he is seen before he performs, and that being-seen converts him faster than argument. The fig tree is the private place, the pocket of shadow where identity rehearses itself; the shock is that it was never sealed. The promised vision of angels on the “Son of man” shifts the ladder from a place to a person: the bridge between heaven and earth is not an escape route but a living axis where traffic runs both ways.\n\nSemina Verbi: the Ancient of Days resembles the Dao as impersonal ultimacy that nonetheless orders all things; speculation, but the fire-stream has the same cleansing inevitability as karmic consequence in Buddhism and the Zoroastrian river of molten metal that tests without caprice. The opened books echo the Egyptian weighing of the heart and the Akashic record motif in Hindu and Theosophical imagination, each insisting that life inscribes itself. Nathanael under the fig tree recalls the Buddha under the bodhi tree and the Qur’anic insistence that God is nearer than the jugular; different metaphysics, same psychological jolt of radical interior visibility. Jacob’s ladder reappears in shamanic world-trees and the axis mundi of many traditions; here, speculation, it becomes the mature human being as the world-tree, a conduit where the vertical dimension finally consents to inhabit the ordinary.",
+    "excursus": "Daniel stages power as spectacle: a court of fire, an old sovereign, ledgers of accusation. It is not comfort; it is surveillance made cosmic. The “books” open because nothing stays private. Even the flames have wheels, like a machine that can roll toward you.\n\nThen the “Son of man” arrives on clouds, not as rebel but as the perfect successor, the face of humanity used to launder domination into something tender-sounding: “everlasting.” The dread is that the regime becomes humane enough to be loved.\n\nJohn makes the same move in miniature. Nathanael is hooked by being seen. “Under the fig tree” is a private place, a pocket of self you thought belonged to you alone; Jesus names it and thereby owns it. Nathanael calls it divinity, because we mistake total knowledge for total goodness.\n\nThe promise of “greater things” is not more evidence but deeper exposure: heaven opened, traffic of angels, and the ladder fixed not between earth and God but onto a person. The Son of man becomes the interface. Desire wants to be known without remainder; dread is that being known means being filed, judged, and finally absorbed into an everlasting kingdom you helped crown.",
+    "synthesis": "The Son of man is the divinely installed mediator in whom heaven’s court and earth’s history converge. His dominion is everlasting because it is the enacted judgment of God, not a human achievement.",
+    "gospel": [
+      {
+        "text": "Belief is treated as scalable: a small disclosure triggers confession, then Jesus promises a new optic. The promised sign is not information about heaven but access—an opened boundary centered on the Son of man.",
+        "lines": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Nathanael’s confession is accepted but not finalized; Jesus re-names the axis of revelation away from national kingship toward the apocalyptic figure. The narrative moves from private recognition to cosmic mediation.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is court, not cosmos: thrones, attendants, records. The vision frames history as a legal proceeding where authority is public, procedural, and irreversible.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The “Son of man” arrives from above yet is installed by Another; the text distinguishes source from investiture. Universal service is not conquest but verdict: the kingdom is the judgment’s outcome.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "White wool, flaming throne: purity rendered as combustion.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Administration of eternity: numbers as liturgy; books as weapons.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Like” the Son of man: resemblance that still judges the seer’s categories.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Given dominion: sovereignty received, not seized; permanence as the final attribute.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No guile: Israel reduced to a moral predicate, not a genealogy.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The fig tree becomes an altar of surveillance; knowledge precedes summons.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Titles pile up to cover astonishment: Rabbi → Son of God → King.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jacob’s ladder relocated: traffic of angels terminates on a man.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in admirable wisdom order the ministries of angels and men, we pray that our life may always be protected on earth by those who continually assist you in heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your admirable wisdom distribute the ministries of angels and men, we pray that our life may always be protected on earth by those who continually assist you in heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your wondrous wisdom arrange the ministries of angels and men, we ask that our life may always be protected on earth by those who continually assist you in heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in admirable wisdom distribute the ministries of angels and men, we pray that our life may always be protected on earth by those who continually assist you in heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your admirable wisdom distribute the ministries of angels and men, we ask that our life may always be protected on earth by those who continually assist you in heaven. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, Lord of day and night, we humbly ask that the light of Christ, the true sun of justice, may always illumine our lives, so that we may one day be worthy to enjoy that light in which you dwell eternally. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I beheld till thrones were placed, and the ancient of days sat: his garment was white as snow, and the hair of his head like clean wool: his throne like flames of fire: the wheels of it like a burning fire.",
+        "A swift stream of fire issued forth from before him: thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him: the judgment sat, and the books were opened.",
+        "I beheld, therefore, in the vision of the night, and lo, one like the Son of man came with the clouds of heaven, and he came even to the ancient of days: and they presented him before him.",
+        "And he gave him power, and glory, and a kingdom: and all peoples, tribes, and tongues shall serve him: his power is an everlasting power that shall not be taken away: and his kingdom that shall not be destroyed."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Daniel 7:9-10,13-14",
+      "reference": "Daniel 7:9-10,13-14",
+      "heading": "A reading from the Book of Daniel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Jesus saw Nathanael coming to him and he saith of him: Behold an Israelite indeed, in whom there is no guile.",
+        "Nathanael saith to him: Whence knowest thou me? Jesus answered and said to him: Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+        "Nathanael answered him and said: Rabbi: Thou art the Son of God. Thou art the King of Israel.",
+        "Jesus answered and said to him: Because I said unto thee, I saw thee under the fig tree, thou believest: greater things than these shalt thou see.",
+        "And he saith to him: Amen, amen, I say to you, you shall see the heaven opened and the angels of God ascending and descending upon the Son of man."
+      ],
+      "lineRefs": [
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 1:47-51",
+      "reference": "John 1:47-51",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saints Michael, Gabriel and Raphael, Archangels",
+        "key": "saintsMichaelGabrielAndRaphaelArchangels"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/29.html",
+    "title": "Gospel and Word of the Day - 29 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/29.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-29"
+}
