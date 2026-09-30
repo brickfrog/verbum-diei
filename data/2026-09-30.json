@@ -1,0 +1,291 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f0fc12f3fe98e3d59ffbea6a1208df27733928333919d9c0f2ce19366505ec95",
+        "inputSha256": "fba6e8d619f296e1889eefe47a88c7da214e15fcb272d17417a43058170c7495",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6b8f4d9a855fa1f1f74c38eea2b5cda63e3dd55735fdc2e7a7bbdc0b4cb14025",
+        "inputSha256": "4798a1eb905dc32c131eb249f149a6d8fca3e5edf4d2e1c2cfdffbc1e2c0b9f5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "b20a7c49f09026cee53e9fb37a794eedfcf0b0ccaff9d038b9d2b261f1a47503",
+        "inputSha256": "f3759cbfb731be1083ac9e9ea594e046772c03d0f91b07d93ee13135b898672f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-09-30T06:42:17.255Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Job’s awe before an unanswerable power has kin in the Bhagavad Gita’s vision of Krishna’s vast form, where speech collapses into trembling and consent; speculation: both stage the psyche’s encounter with the inhuman scale of reality that makes self-justification feel absurd. The hiddenness—“if he come to me, I shall not see him”—echoes Daoist reserve in the Daodejing, where the source acts without presenting itself for interrogation; speculation: this is less theology than a discipline against compulsive explanation.\n\nLuke’s hard summons resembles the Buddhist renunciant cut, leaving household ties to end the round of clinging; speculation: “let the dead bury their dead” reads like a ruthless compassion that refuses to let grief become identity. The plough image matches Stoic prohairesis in Epictetus: once you choose the work, you stop bargaining with the past; speculation: the kingdom here functions like a telos that reorganizes desire so completely that nostalgia becomes sabotage.",
+    "excursus": "Job isn’t humbled; he’s terrorized into erotic awe. God is described like a cosmic mugger, rearranging mountains and sealing up stars, not to teach but to demonstrate that reality is owned. The dread is intimate: if God comes, Job can’t see him; if God leaves, Job can’t track him. Presence and absence both wound. Prayer becomes a gamble so humiliating Job says even if answered he wouldn’t believe it—because the real injury is not silence but arbitrariness.\n\nLuke’s Jesus carries that same atmosphere into the street. The homelessness isn’t quaint asceticism; it’s a demand to live without refuge, without the animal comforts even foxes get. The refusals are not about virtue but about severing the last cords that make a self: family, mourning, farewells, the right to look back and still be whole. “Let the dead bury their dead” is the voice of a kingdom that treats ordinary love as a sedative. Desire is recruited, then stripped of its alibis, until following becomes a kind of chosen dispossession—an answer to Job’s terror that doesn’t solve it, only joins it.",
+    "synthesis": "God is not just; he is Judge in a category beyond contest, and therefore human righteousness cannot litigate him. The kingdom’s call is total: it displaces security, custom, and even sacred duties in favor of unbroken obedience.",
+    "gospel": [
+      {
+        "text": "Three would-be followers negotiate terms: place, time, and social closure. Each proposal tries to domesticate vocation—attach it to shelter, to filial duty, to household etiquette—so that following becomes an add-on rather than a transfer of allegiance.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "text": "Jesus answers by stripping away the normal anchors of identity: no settled location, no priority of burial rites, no backward glance. The kingdom is treated as an absolute claim that reorders obligations; it does not compete with lesser goods but reclassifies them.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Job’s speech is not a theodicy but a demolition of procedural religion. He stacks cosmic acts—geologic, seismic, astral—not to admire power but to show that God’s governance is not answerable to human categories of due process. The point is jurisdiction: the Creator is not a party in a case but the condition under which any case can be heard.",
+        "lines": [
+          1,
+          4,
+          5,
+          6,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The sudden “examine” reframes suffering as inspection without notice; the human role becomes petition rather than cross-examination. Supplication here is not piety but realism: speech survives only as appeal, not as argument that could bind God.",
+        "lines": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Justification collapses when the comparator is God; the scale is the verdict.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Litigation imagery: the ratio is not unfairness but incommensurability—one question, a thousand silences.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Cosmos as courtroom evidence: sun subpoenaed, stars sealed—creation obeys without explanation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Walketh upon the waves”: sovereignty rendered as casual gait over chaos.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The terror is not absence but untrackable presence: arrival unseen, departure unintelligible.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Even answered prayer is epistemically unstable; hearing does not become certainty.",
+      "lines": [
+        15
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Discipleship offered homelessness: animals have places; the Son of Man refuses the security of a “where.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kinship inverted: the living are conscripted for proclamation; the dead are assigned the dead.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Agrarian eschatology: the kingdom is a furrow—progress requires a neck that will not swivel.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted Saint Jerome a tender and lively love for Sacred Scripture, grant that your people may be nourished more abundantly by your word and find in it the source of true life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, you who granted Saint Jerome a tender and lively love for Sacred Scripture, grant that your people may be nourished more abundantly by your word and find in it the source of true life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and may serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted Saint Jerome a tender and lively esteem for Sacred Scripture, grant that your people may be nourished more abundantly by your word and find in it the source of true life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart, and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest through the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And Job answered, and said:",
+        "Indeed I know it is so, and that man cannot be justified, compared with God.",
+        "If he will contend with him, he cannot answer him one for a thousand.",
+        "He is wise in heart, and mighty in strength: who hath resisted him, and hath had peace?",
+        "Who hath removed mountains, and they whom he overthrew in his wrath, knew it not.",
+        "Who shaketh the earth out of her place, and the pillars thereof tremble.",
+        "Who commandeth the sun, and it riseth not: and shutteth up the stars, as it were, under a seal:",
+        "Who alone spreadeth out the heavens, and walketh upon the waves of the sea,",
+        "Who maketh Arcturus, and Orion, and Hyades, and the inner parts of the south.",
+        "Who doth things great and incomprehensible, and wonderful, of which there is no number.",
+        "If he come to me, I shall not see him: if he depart, I shall not understand.",
+        "If he examine on a sudden, who shall answer him? or who can say: Why dost thou so?",
+        "What am I then, that I should answer him, and have words with him?",
+        "I, who although I should have any just thing, would not answer, but would make supplication to my judge.",
+        "And if he should hear me when I call, I should not believe that he had heard my voice."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Job 9:1-12,14-16",
+      "reference": "Job 9:1-12,14-16",
+      "heading": "A reading from the Book of Job",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, as they walked in the way, that a certain man said to him: I will follow thee whithersoever thou goest.",
+        "Jesus said to him: The foxes have holes, and the birds of the air nests: but the Son of man hath not where to lay his head.",
+        "But he said to another: Follow me. And he said: Lord, suffer me first to go and to bury my father.",
+        "And Jesus said to him: Let the dead bury their dead: but go thou and preach the kingdom of God.",
+        "And another said: I will follow thee, Lord; but let me first take my leave of them that are at my house.",
+        "Jesus said to him: No man putting his hand to the plough and looking back is fit for the kingdom of God."
+      ],
+      "lineRefs": [
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 9:57-62",
+      "reference": "Luke 9:57-62",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Jerome, Priest and Doctor",
+        "key": "saintJeromePriestAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/09/30.html",
+    "title": "Gospel and Word of the Day - 30 September 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/09/30.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-09-30"
+}
