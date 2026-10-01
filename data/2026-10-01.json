@@ -1,0 +1,326 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "16ea7727ddd7acb7e64c7ec74b9360af27fca9624ab97460412d5b76d50290e7",
+        "inputSha256": "499bf3b5bc0c78f4679639e93b5b5dba7fb25f887722eee38605fdf0b7aa79e4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "27359d3ee403475644d4fa2a436d6a7b9e0762a1db2b14691d6f9490fe2134a0",
+        "inputSha256": "e8342b6c278ed42641206643b480dbf2175fa1e5376c27f26a5cfb77ad9c09d1",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f75f66a4eb81bc3fc3808cd1278797fe75b76fff8a10f21cf13c21e9e8d63e0a",
+        "inputSha256": "23027897a21869c1b6beacad12aeb16ee9344fc0e70683dbec8717e4f5375e1c",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-01T07:10:54.055Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Job’s craving to be inscribed in lead and flint is the psyche’s last defense against annihilation: if the body is being erased, let the sentence survive. It’s not piety so much as a demand for a witness beyond the fickle social circle; the friends become a second affliction because they turn pain into a courtroom. “Redeemer” functions as the imagined guarantor that reality is not finally sadistic, that there is an accounting where his torn skin is not the final story; the insistence on seeing “with my eyes” is a refusal to let consolation stay abstract.\n\nLuke’s mission is an experiment in radical unarmoring. Two by two is not strategy but mutual regulation: fear shared doesn’t metastasize into violence. Travel light, don’t perform social rituals, accept what’s set before you—this is a discipline against control and a way of making peace noncoercive. The lamb among wolves image admits the world’s predation without letting it dictate the messenger’s posture; healing and announcement are one act, because a body relieved is a mind made capable of hearing. The dust-shaking is boundary-setting, not vengeance: a clean severance that prevents rejection from curdling into obsession.\n\nSemina Verbi: Job’s hunger for an enduring inscription parallels the Egyptian “negative confession” and the weighing of the heart in the Book of the Dead: the self pleads for a just register when community judgment fails. His hope of embodied seeing resonates with Zoroastrian frashokereti, the renewal where persons are restored rather than dissolved. The seventy-two sent in pairs echoes Buddhist mendicant practice (speculation): go without provisions, receive alms without preference, offer a medicine of presence; refusal is met with detachment, not retaliation. “Peace to this house” has kinship with the Hindu and Jain ethic of ahimsa as a social atmosphere—an offered field that only lands where receptivity exists.",
+    "excursus": "Job’s “Redeemer” is not a comfort but a last instrument of coercion. He is being eaten alive by friends who want his pain to mean something, and he wants his suffering notarized, hammered into lead, because the only counter to their pious story is a record that outlasts their mouths. “I shall see my God” is not reunion; it is confrontation. He imagines a future courtroom where his ruined body becomes evidence, where the gaze that wounded him must finally answer to the gaze that endured.\n\nLuke’s mission reads like the same violence made portable. Sent as lambs among wolves, stripped of purse and shoes, the seventy-two are turned into bait: exposed bodies whose hunger forces intimacy. “Peace” is a test word, not a blessing; if it isn’t received, it snaps back like a weapon. Stay in one house, eat what you’re given, don’t shop for better hosts: desire is disciplined into dependence. Heal the sick, yes, but also learn the thrill of rejection, the clean gesture of wiping dust, the pleasure of making a town into Sodom.\n\nPut together, they sketch a God who recruits vulnerability to spread dread. Job wants a Redeemer to vindicate him; the gospel shows how vindication is manufactured, city by city, by emissaries trained to be refused. The kingdom comes near the way a verdict comes near: not as solace, but as pressure, as a gaze you cannot escape.",
+    "synthesis": "God’s vindication is bodily and personal, secured by a living Redeemer rather than by human courts. The kingdom’s approach forces a binary: receive the sent ones and share peace, or refuse and inherit judgment.",
+    "gospel": [
+      {
+        "text": "The mission discourse pairs abundance with scarcity to force prayer before action, then binds proclamation to concrete acts (table fellowship, healing). Reception becomes the decisive criterion: the kingdom’s nearness is announced in both welcome and rejection, but the messenger’s response differs—communion where received, public testimony where refused.",
+        "lines": [
+          2,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The envoys are sent ahead of Jesus, so each town’s response to them is a proxy response to his coming. The escalating logic runs from offered peace, to its withdrawal, to comparative judgment: neutrality is excluded because visitation has occurred.",
+        "lines": [
+          1,
+          6,
+          12
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Job’s appeal moves from litigation to eschatology: he seeks a record because the present forum is corrupt, then anchors his case in a future vindication that outlasts witnesses and skin. The “Redeemer” functions as guarantor of identity when social recognition collapses.",
+        "lines": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": "The passage refuses a spiritualized afterlife: the claim is bodily continuity and personal encounter (“my eyes”). Hope is not optimism but a deposited claim awaiting execution.",
+        "lines": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Pity requested from friends; the real assailant named: the Lord’s hand.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Friends become predators; “as God” is the charge—human cruelty aping divine prerogative.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Suffering wants an archive; speech seeks durability against misjudgment.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Iron, lead, flint: testimony imagined as wound cut into matter.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Knowledge in the teeth of ruin: a living Redeemer set against a dying body.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Flesh is not discarded but returned; vision of God is promised through the very site of pain.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hope stored “in my bosom”: interior custody when public court fails.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Seventy-two: mission scaled; “before his face” makes them advance-signs, not principals.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Lambs among wolves: vulnerability is policy, not accident.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No purse, no scrip, no shoes: dependence enforced; urgency forbids social lubricants.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace spoken first: the emissary leads with a gift, not a demand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace is not wasted; it returns—judgment begins as simple non-reception.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Stay put; accept provision; the worker’s wage is hospitality, not plunder.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Dust wiped off: severance ritual; refusal leaves residue on the refuser.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sodom invoked: the scandal is not vice but rejection of visitation.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared your kingdom for the humble and the simple, grant us the grace to follow with confidence the path of Saint Thérèse of the Child Jesus, so that, through her intercession, your eternal glory may be revealed to us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared your kingdom for the humble and the simple, grant us the grace to follow with confidence the path of Saint Thérèse of the Child Jesus, so that, through her intercession, your eternal glory may be revealed to us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the fullness of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have prepared your kingdom for the humble and the simple, grant us the grace to follow with confidence the path of Saint Thérèse of the Child Jesus, so that, through her intercession, your eternal glory may be revealed to us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Have pity on me, have pity on me, at least you my friends, because the hand of the Lord hath touched me.",
+        "Why do you persecute me as God, and glut yourselves with my flesh?",
+        "Who will grant me that my words may be written? who will grant me that they may be marked down in a book?",
+        "With an iron pen and in a plate of lead, or else be graven with an instrument in flint stone?",
+        "For I know that my Redeemer liveth, and in the last day I shall rise out of the earth.",
+        "And I shall be clothed again with my skin, and in my flesh I shall see my God.",
+        "Whom I myself shall see, and my eyes shall behold, and not another: this my hope is laid up in my bosom."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Job 19:21-27",
+      "reference": "Job 19:21-27",
+      "heading": "A reading from the Book of Job",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And after these things, the Lord appointed also other seventy-two. And he sent them two and two before his face into every city and place whither he himself was to come.",
+        "And he said to them: The harvest indeed is great, but the labourers are few. Pray ye therefore the Lord of the harvest that he send labourers into his harvest.",
+        "Go: Behold I send you as lambs among wolves.",
+        "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+        "Into whatever house you enter, first say: Peace be to this house.",
+        "And if the son of peace be there, your peace shall rest upon him: but if not, it shall return to you.",
+        "And in the same house, remain, eating and drinking such things as they have: for the labourer is worthy of his hire. Remove not from house to house.",
+        "And into what city soever you enter, and they receive you, eat such things as are set before you.",
+        "And heal the sick that are therein and say to them: The kingdom of God is come nigh unto you.",
+        "But into whatsoever city you enter, and they receive you not, going forth into the streets thereof, say:",
+        "Even the very dust of your city that cleaveth to us, we wipe off against you. Yet know this, that the kingdom of God is at hand.",
+        "I say to you, it shall be more tolerable at that day for Sodom than for that city."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 10:1-12",
+      "reference": "Luke 10:1-12",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Therese of the Child Jesus, Virgin and Doctor",
+        "key": "saintThereseOfTheChildJesusVirginAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/01.html",
+    "title": "Gospel and Word of the Day - 01 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/01.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-01"
+}
