@@ -1,0 +1,292 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5ae0cc4517b524627a118cbf3c9c37c4aad4f71fafdc75376fe061b80c6a2bcc",
+        "inputSha256": "3de76d282c2adfdd7f5d7cc6f6e376eceabafdd4f32d7c4d8370aca6133db097",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2a07c20a601b6e4c3991d092e7bc9627d9dbea101fbb33d9e3d68deaf98420f9",
+        "inputSha256": "a4edfffbd5d8607a44a71eaa76fa026b9451280e01439ec648bd0d2ba60050a2",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9bbcd4d9fe0b2b507fd7b4b4249431e50ba02506f90b9aedac6a6e87ff1d9111",
+        "inputSha256": "9cb826a5758d866449c687d7face100e58fcc243cf7cf29f06b1919bc76395e7",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-02T06:59:59.014Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Job’s whirlwind interrogation has the same psychic function as Zen’s koan: it breaks the ego’s demand for a courtroom where reality must justify itself. It also resembles the Bhagavad Gita’s cosmic disclosure to Arjuna, where scale and terror are not cruelty but a forced re-sizing of the self; speculation: the “arm like God” taunt reads like an exposure therapy for omnipotent fantasy.\n\nThe child in Matthew echoes Taoism’s “uncarved block” and the Dao De Jing’s praise of the infant: not innocence as moral purity, but unarmored receptivity before status-games. It also touches the Sufi insistence on fanāʾ, the dissolving of self-importance; speculation: “their angels always see the face” parallels the Buddhist idea of beginner’s mind as nearest to the real because it hasn’t learned contempt.",
+    "excursus": "Job is not being educated; he is being broken into scale. The whirlwind is not an answer but a tactic: a barrage of impossible questions that forces the mind to collapse its courtroom fantasy. Job wants a hearing, a reason, a clean narrative where pain can be filed and judged. God replies with geography, ocean trenches, sunrise logistics, the gates of death. It’s not comfort. It’s intimidation dressed as cosmology, a reminder that reality is too large to be moralized by a wounded man.\n\n“Wilt thou make void my judgment… that thou mayst be justified?” lands like an accusation of narcissism. Not that Job’s grief is false, but that his need for meaning is a bid for sovereignty. To be justified is to control the story. The speech strips him of that erotic power, the secret pleasure of being right against the universe.\n\nMatthew’s child is not sentimental innocence; it’s strategic smallness. The disciples ask for rank, and Jesus answers with a body that has no rank at all. Become like a child means accept dependence, accept being handled, accept not knowing. The kingdom is not a ladder but a room where the adult hunger to measure and dominate is refused at the door.\n\nPut the two together and the dread sharpens: salvation is not winning the argument with God. It is surviving without the argument. The “little ones” are protected because they don’t yet have the grand, lethal project of self-justification. Their angels stare at the face of the Father as if to say: there is a gaze you cannot outreason, only endure. Humility here is not virtue; it’s the only posture that keeps you from being torn apart by the size of what is.",
+    "synthesis": "God’s judgment is not answerable to human self-justification; the creature’s proper posture is humility. In the kingdom, greatness is measured by identification with and reception of the least, in whom Christ is encountered.",
+    "gospel": [
+      {
+        "text": "Jesus answers the political question of precedence by redefining greatness as self-humbling and by attaching his own identity to the received “little one.” The community’s hierarchy is judged by its treatment of the socially negligible, and the warning about angels makes contempt a cosmic offense: the smallest member is already represented in the highest court.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The interrogation ranges from sea-depths to earth-breadth to the numbering of days, collapsing Job’s complaint into a single point: creaturely limits are not a defect to be litigated but the basic condition of speech before God. The questions do not supply theodicy; they relocate the dispute from moral accounting to ontological asymmetry. The final imperatives—beauty, height, glory—are ironic: if Job wants to contend, let him first assume divine prerogatives, which he cannot.",
+        "lines": [
+          6,
+          8,
+          10,
+          11,
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Whirlwind: not an argument but an atmosphere; authority arrives as weather.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Morning is treated as a commanded servant; Job is denied the role of scheduler.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Earth has “extremities”: creation has edges; only God grips them.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Seal/clay/garment: the world is impressed, then worn—form is imposed, not negotiated.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Death has gates and doors: mortality is an architecture with locked thresholds.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Light and darkness have addresses; ignorance is spatial, not merely mental.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The lawsuit is exposed: to self-justify is to indict God.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "They ask for “greater”; the kingdom is treated like a ranking system.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A child is installed as a living criterion; the center is redefined.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Conversion is not upgrade but regression—becoming small to enter.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Reception becomes christological: the lowly is a sacrament of presence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The “despised” have court access; heaven’s gaze reverses social gaze.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your loving providence have deigned to send your holy angels for our guardianship, grant, in answer to our supplications, that we may always be defended by their protection and rejoice eternally in their company. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your loving providence have deigned to send your holy angels for our guardianship, grant, in answer to our supplications, that we may always be defended by their protection and rejoice eternally in their company. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who in your loving providence have deigned to send your holy angels for our guardianship, grant, in answer to our supplications, that we may always be defended by their protection and rejoice eternally in their company. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then the Lord answered Job out of a whirlwind, and said:",
+        "Didst thou since thy birth command the morning, and shew the dawning of the day its place?",
+        "And didst thou hold the extremities of the earth shaking them, and hast thou shaken the ungodly out of it?",
+        "The seal shall be restored as clay, and shall stand as a garment.",
+        "From the wicked their light shall be taken away, and the high arm shall be broken.",
+        "Hast thou entered into the depths of the sea, and walked in the lowest parts of the deep?",
+        "Have the gates of death been opened to thee, and hast thou seen the darksome doors?",
+        "Hast thou considered the breadth of the earth? tell me, if thou knowest all things?",
+        "Where is the way where light dwelleth, and where is the place of darkness?",
+        "That thou mayst bring every thing to its own bounds, and understand the paths of the house thereof.",
+        "Didst thou know then that thou shouldst be born? and didst thou know the number of thy days?",
+        "Wilt thou make void my judgment: and condemn me, that thou mayst be justified?",
+        "And hast thou an arm like God, and canst thou thunder with a voice like him?",
+        "Clothe thyself with beauty, and set thyself up on high, and be glorious, and put on goodly garments."
+      ],
+      "lineRefs": [
+        "38:1",
+        "38:12",
+        "38:13",
+        "38:14",
+        "38:15",
+        "38:16",
+        "38:17",
+        "38:18",
+        "38:19",
+        "38:20",
+        "38:21",
+        "40:3",
+        "40:4",
+        "40:5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Job 38:1,12-21; 40:3-5",
+      "reference": "Job 38:1,12-21; 40:3-5",
+      "heading": "A reading from the Book of Job",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "At that hour the disciples came to Jesus, saying: Who, thinkest thou, is the greater in the kingdom of heaven?",
+        "And Jesus, calling unto him a little child, set him in the midst of them.",
+        "And said: amen I say to you, unless you be converted, and become as little children, you shall not enter into the kingdom of heaven.",
+        "Whosoever therefore shall humble himself as this little child, he is the greater in the kingdom of heaven.",
+        "And he that shall receive one such little child in my name, receiveth me.",
+        "See that you despise not one of these little ones: for I say to you, that their angels in heaven always see the face of my Father who is in heaven."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 18:1-5,10",
+      "reference": "Matthew 18:1-5,10",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Guardian Angels",
+        "key": "guardianAngels"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/02.html",
+    "title": "Gospel and Word of the Day - 02 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-02"
+}
