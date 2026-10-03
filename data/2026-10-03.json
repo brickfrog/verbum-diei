@@ -1,0 +1,287 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "adf621bfdb72b80bf4d7cda2425c841ef3e5890ed255b1c178b10e9fc57f5e24",
+        "inputSha256": "a1f965dfa674b7287b1028dcee897cc341cb36328807a546ca9bfba3bf62c7a9",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3f04a0047f6a5d4dd8ab8ed1be7292b8e9fbc60e3a9e3881a546e7117bc9f696",
+        "inputSha256": "ff0cf0d39b55fdbfa17a4a9bbd500652bf15e5889bf5997e6537657ee40b4ba6",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "61c1f884cb0c0dc1e32f7f8c03da4478eea0826ae7f2ccc163b34eb65d87f336",
+        "inputSha256": "70757e7f32213918471de1f397104e51fa1015983d5f6a4b81f96e86c5efb08f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-03T16:22:55.804Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Job’s turn is the psyche surrendering its lawsuit against reality: the intellect stops demanding a courtroom and accepts the vastness that won’t fit inside explanation. That shift from “hearing” to “seeing” is not new data but a new mode of consciousness, the kind that makes self-importance collapse into ash.\n\nThe disciples’ exhilaration at power over spirits is the ego’s first intoxication with efficacy; Jesus redirects them to identity rather than performance. The real miracle is belonging, not mastery. The “little ones” are not the ignorant but the unarmored, the ones whose attention isn’t barricaded by status or technique.\n\nSemina Verbi: this resembles Zen’s kenshō after the failure of discursive striving, and the Bhagavad Gītā’s movement from anxious agency to surrendered action; speculative, but the psychological contour matches. It also echoes Sufi fanāʾ, where the self’s claims burn away and a quieter joy remains. The warning against rejoicing in power parallels Buddhist cautions about siddhis and Stoic suspicion of external victories: the cleanest joy is inward alignment, not control.",
+    "excursus": "Job’s “repentance” is not moral contrition; it is capitulation before a spectacle. He doesn’t discover his sin, he discovers his smallness. “Now my eye seeth thee” lands like a coerced intimacy: the bullied finally meets the bully in person and calls it revelation. Dust and ashes are less humility than self-erasure, the price of being allowed to live.\n\nThen the book tries to buy silence with abundance. New herds, new children, exquisite daughters named like perfume and ornament. It reads like replacement, not restoration: grief is not healed, it is covered. The dread is that the universe can be appeased but never explained, and the reward is simply the continuation of breath under an unanswerable power.\n\nIn Luke, the seventy-two taste the same seduction: power over devils, immunity, the thrill of being dangerous. Jesus cuts it off, not because power is false, but because it is intoxicating. “Your names are written in heaven” is the deeper narcotic: not mastery over spirits, but being chosen, registered, kept.\n\n“I saw Satan fall like lightning” sounds less like victory than a glimpse of how fast the cosmos can flip. What is “hidden from the wise” is not a sweet secret but a destabilizing one: reality belongs to the childlike because they can endure dependence. The wise want reasons; the little ones accept the gaze. Both readings end in the same uneasy desire: to be seen by the One who refuses to explain himself.",
+    "synthesis": "God’s self-revelation, not human competence, is the ground of true knowledge and joy. Creaturely restoration and spiritual authority are subordinate signs of a prior divine initiative that humbles the wise and secures the elect in heaven.",
+    "gospel": [
+      {
+        "text": "The mission report tempts a triumphalist reading, but Jesus frames their success inside a larger cosmic defeat and then redirects attention to perception: the blessedness is not efficacy but participation in a disclosed reality.",
+        "lines": [
+          1,
+          3,
+          7
+        ]
+      },
+      {
+        "text": "The prayer and the saying about mutual knowledge establish the epistemic regime of the kingdom: God is known only by God’s self-disclosure, and that disclosure bypasses the prestige economy. Authority and intimacy are fused in the Son’s prerogative to reveal.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The book closes by shifting the axis from disputation to settlement: Job’s reply ends the courtroom, then the narrative reasserts ordinary time—livestock, children, years. Restoration is not an explanation of suffering but a reinstallation of creaturely life under God’s unanswerable freedom.",
+        "lines": [
+          1,
+          6,
+          10
+        ]
+      },
+      {
+        "text": "The recompense is deliberately excessive and concrete, yet it is not a simple reversal: the text lingers on names and legal standing, suggesting that blessing is not merely quantity but order—household, memory, and inheritance reconstituted after chaos.",
+        "lines": [
+          6,
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Omnipotence paired with omniscience: no refuge in “misunderstanding.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question is God’s; Job answers by indicting his own speech.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hearing is secondhand; seeing collapses litigation into encounter.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dust and ashes: the body becomes the argument.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Beauty noted, then inheritance granted: the text refuses to keep daughters ornamental.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Victory is narrated as a vision: the fall precedes the mission’s report.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Power is demoted; registry is promoted.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Revelation is not meritocratic; it is a concealment and a gift.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge of God is gated by persons, not by techniques.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Desire of prophets meets its limit: history strains toward what it cannot produce.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Father of goodness, who in love and wisdom willed to subject the earth to the dominion of man, so that from it he might draw his sustenance and in it contemplate your greatness and your providence, we give you thanks for the gifts we have received from you, and we ask you to grant that we may use them for your praise and for the good of our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our voice, Lord, our spirit, and our whole life be a continual praise in your honor; and since our entire existence is a pure gift of your generosity, may each of our actions also be wholly dedicated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then Job answered the Lord, and said:",
+        "I know that thou canst do all things, and no thought is hid from thee.",
+        "Who is this that hideth counsel without knowledge? Therefore I have spoken unwisely, and things that above measure exceeded my knowledge.",
+        "With the hearing of the ear, I have heard thee, but now my eye seeth thee.",
+        "Therefore I reprehend myself, and do penance in dust and ashes.",
+        "And the Lord blessed the latter end of Job more than his beginning. And he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she-asses.",
+        "And he had seven sons, and three daughters.",
+        "And he called the name of one Dies, and the name of the second Cassia, and the name of the third Cornustibii.",
+        "And there were not found in all the earth women so beautiful as the daughters of Job: and their father gave them inheritance among their brethren.",
+        "And Job lived after these things, a hundred and forty years, and he saw his children, and his children's children, unto the fourth generation, and he died an old man, and full of days."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "6",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16-17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Job 42:1-3,5-6,12-17",
+      "reference": "Job 42:1-3,5-6,12-17",
+      "heading": "A reading from the Book of Job",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the seventy-two returned with joy, saying: Lord, the devils also are subject to us in thy name.",
+        "And he said to them: I saw Satan like lightning falling from heaven.",
+        "Behold, I have given you power to tread upon serpents and scorpions and upon all the power of the enemy: and nothing shall hurt you.",
+        "But yet rejoice not in this, that spirits are subject unto you: but rejoice in this, that your names are written in heaven.",
+        "In that same hour, he rejoiced in the Holy Ghost and said: I confess to thee, O Father, Lord of heaven and earth, because thou hast hidden these things from the wise and prudent and hast revealed them to little ones. Yea, Father, for so it hath seemed good in thy sight.",
+        "All things are delivered to me by my Father. And no one knoweth who the Son is, but the Father: and who the Father is, but the Son and to whom the Son will reveal him.",
+        "And turning to his disciples, he said: Blessed are the eyes that see the things which you see.",
+        "For I say to you that many prophets and kings have desired to see the things that you see and have not seen them; and to hear the things that you hear and have not heard them."
+      ],
+      "lineRefs": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 10:17-24",
+      "reference": "Luke 10:17-24",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 26th week of Ordinary Time",
+        "key": "saturdayOfThe26thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/03.html",
+    "title": "Gospel and Word of the Day - 03 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-03"
+}
