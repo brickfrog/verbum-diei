@@ -9,6 +9,8 @@ import Control.Monad.Error.Class (throwError)
 import Data.Argonaut.Core (Json, toArray, toNull, toObject, toString)
 import Data.Argonaut.Parser (jsonParser)
 import Data.Array as Array
+import Data.Array.NonEmpty (NonEmptyArray)
+import Data.Array.NonEmpty as NEA
 import Data.Char as Char
 import Data.Either (Either(..))
 import Data.Maybe (Maybe(..), fromMaybe)
@@ -113,24 +115,23 @@ fetchBibleReadingFromData bookRaw citation citationRefs = do
         Nothing -> pure (Left ("Unknown book: " <> book))
         Just chapters -> do
           let expandedRefs = expandCitationRefs chapters citationRefs
-          let
-            sameChapter = case Array.head expandedRefs of
-              Nothing -> true
-              Just firstRef -> Array.all (\r -> r.chapter == firstRef.chapter) expandedRefs
-            lineRefs = expandedRefs <#> \r ->
-              if sameChapter then
-                show r.verse
-              else
-                show r.chapter <> ":" <> show r.verse
-          case traverse (lookupVerse chapters book) expandedRefs of
+          case traverse (resolveVerse chapters book) expandedRefs of
             Left errMsg -> pure (Left errMsg)
-            Right lines ->
+            Right resolved -> do
+              let
+                sameChapter = case Array.head expandedRefs of
+                  Nothing -> true
+                  Just firstRef -> Array.all (\r -> r.chapter == firstRef.chapter) expandedRefs
+                -- Several modern verses can collapse onto one DRA verse (the
+                -- Vulgate merges them). Emit that shared text once, labelled
+                -- with the full span, instead of repeating it per modern verse.
+                groups = Array.groupBy (\a b -> a.target == b.target) resolved
               pure
                 (Right
                   { reference: book <> " " <> citation
                   , translation: data'.translation
-                  , lineRefs
-                  , lines
+                  , lineRefs: groups <#> groupLabel sameChapter
+                  , lines: groups <#> \g -> (NEA.head g).text
                   })
 
 expandCitationRefs :: Array (Array String) -> Array CitationRef -> Array VerseRef
@@ -171,21 +172,39 @@ expandCitationRefs chapters refs =
     in
       remainingInStart <> intermediateVerses <> prefixInEnd
 
-lookupVerse :: Array (Array String) -> String -> VerseRef -> Either String String
-lookupVerse chapters book ref =
+-- | A citation verse paired with the DRA verse it actually resolves to.
+type ResolvedVerse =
+  { ref :: VerseRef
+  , target :: VerseRef
+  , text :: String
+  }
+
+resolveVerse :: Array (Array String) -> String -> VerseRef -> Either String ResolvedVerse
+resolveVerse chapters book ref =
   -- Try mapping first (handles versification differences where verse exists at different location)
   case mapVerseReference chapters book ref.chapter ref.verse of
     Just mapped ->
       case getVerseText chapters mapped.chapter mapped.verse of
-        Just verse -> Right verse
+        Just text -> Right { ref, target: mapped, text }
         Nothing ->
           Left ("Missing verse text for " <> book <> " " <> show ref.chapter <> ":" <> show ref.verse <> " (mapped to " <> show mapped.chapter <> ":" <> show mapped.verse <> ")")
     Nothing ->
       -- No mapping applies, try direct lookup
       case getVerseText chapters ref.chapter ref.verse of
-        Just verse -> Right verse
+        Just text -> Right { ref, target: ref, text }
         Nothing ->
           Left ("Missing verse text for " <> book <> " " <> show ref.chapter <> ":" <> show ref.verse)
+
+-- | Labels a run of citation verses sharing one DRA verse, e.g. "16-17".
+groupLabel :: Boolean -> NonEmptyArray ResolvedVerse -> String
+groupLabel sameChapter group =
+  let
+    firstRef = (NEA.head group).ref
+    lastRef = (NEA.last group).ref
+    fmt r = if sameChapter then show r.verse else show r.chapter <> ":" <> show r.verse
+  in
+    if firstRef == lastRef then fmt firstRef
+    else fmt firstRef <> "-" <> show lastRef.verse
 
 getVerseText :: Array (Array String) -> Int -> Int -> Maybe String
 getVerseText chapters chapter verse = do
@@ -314,6 +333,13 @@ verseMaps =
     , offsets: [ { chapter: 2, fromVerse: 12, offset: 1 } ]
     , remaps: []
     , aliases: [ { chapter: 2, fromVerse: 11, toVerse: 10 } ]
+    }
+  , { book: "Job"
+    -- DRA Job 42:16 carries both modern 42:16 and the death notice of 42:17.
+    , folds: []
+    , offsets: []
+    , remaps: []
+    , aliases: [ { chapter: 42, fromVerse: 17, toVerse: 16 } ]
     }
   ]
 

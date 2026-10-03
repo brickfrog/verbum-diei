@@ -138,10 +138,31 @@ main = do
       reading <- fetchBibleReading first.bibleApiReference
       assertEqual "lineRefs" [ "7", "8", "9" ] reading.lineRefs
 
-    test "resolves collapsed Amos 9:15 verse" do
+    test "collapses verses the Vulgate merged into a single DRA verse" do
+      -- DRA Amos 9:14 carries both modern 9:14 and 9:15. The shared text must
+      -- be emitted once under a spanning label, not repeated once per verse.
       reading <- fetchBibleReading "Amos 9:11-15"
-      assertEqual "lineRefs" [ "11", "12", "13", "14", "15" ] reading.lineRefs
-      assertEqual "lines length" 5 (Array.length reading.lines)
+      assertEqual "lineRefs" [ "11", "12", "13", "14-15" ] reading.lineRefs
+      assertEqual "no verse text repeated"
+        (Array.length reading.lines)
+        (Array.length (Array.nub reading.lines))
+      -- Mark 4:40 likewise absorbs modern 4:41; this is a common Sunday gospel.
+      storm <- fetchBibleReading "Mark 4:35-41"
+      assertEqual "Mark lineRefs" [ "35", "36", "37", "38", "39", "40-41" ] storm.lineRefs
+      -- A citation naming only the absorbed verse still resolves on its own.
+      lone <- fetchBibleReading "Amos 9:15"
+      assertEqual "lone collapsed verse" [ "15" ] lone.lineRefs
+
+    test "resolves Job 42:17, which DRA merges into 42:16" do
+      -- The lectionary cites Job 42:1-3,5-6,12-17, but DRA Job 42 ends at verse
+      -- 16, which carries the death notice of modern 42:17.
+      reading <- fetchBibleReading "Job 42:1-3,5-6,12-17"
+      assertEqual "lineRefs"
+        [ "1", "2", "3", "5", "6", "12", "13", "14", "15", "16-17" ]
+        reading.lineRefs
+      assertEqual "merged verse text"
+        (Just "And Job lived after these things, a hundred and forty years, and he saw his children, and his children's children, unto the fourth generation, and he died an old man, and full of days.")
+        (Array.last reading.lines)
 
     test "maps 2 Thessalonians 2 across the dropped verse marker" do
       reading <- fetchBibleReading "2 Thessalonians 2:1-3,14-17"
