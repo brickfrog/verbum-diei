@@ -1,0 +1,274 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6f7ebe6594b2ffe715df00115d9e343548a6457d5e44f4915fad6ec1b8036e66",
+        "inputSha256": "14a4fbdc2adb2ade96d60c2ef8bae6ed9cc0ae2455a0a54dfb235bd7a2aca6c7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "66e73b9cc7219562c181bb6d6985d44ce40f2912bde28158ce8ece2e51fdf48f",
+        "inputSha256": "fd4709dda478862053e2c24a4b5fc075b51c037c35c1a97eac013fed474e4388",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a01174200cae3ab6a85e72ba86a9d113091d05154120a99346eeb904efd4fda5",
+        "inputSha256": "a3a99e2acf0b2df77141089f3d76e486043f185c2dd0ca61f2956f1a87543930",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-04T06:50:03.217Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This vineyard is a psyche built with care, then betrayed by its own stewards. The fence, tower, and press are not decorations; they are structures of attention and discipline meant to turn raw life into wine. When the yield comes back “wild,” it is not ignorance but refusal: the inner managers choose appetite, status, and violence over the hard, ordinary work of justice. The punishment is not a tantrum; it is the withdrawal of sustaining conditions. Remove the hedge and you don’t need to “cause” ruin—neglect is enough. The text’s terror is that grace can be structurally offered and still be structurally squandered.\n\nThe son’s murder is the climax of self-deception: the fantasy that killing the claim will erase the claimant. It is the mind’s attempt to own the vineyard by silencing the voice that names it. The “stone rejected” is the disowned part of the self—truth, conscience, the inconvenient heir—that returns as the cornerstone. What you exile becomes architecture anyway, either as integration or as collapse.\n\nSemina Verbi: In Greek tragedy, especially the Oresteia, violated order breeds a cycle where blood answers blood until a higher judgment breaks it; here too the vineyard’s crisis is juridical before it is agricultural. In Buddhism’s account of karma, (speculation) “no rain” resembles conditions withdrawing when wholesome causes are refused; the world stops cooperating with a mind that won’t learn. In the Bhagavad Gita, the demand for fruit without duty is condemned; the tenants want inheritance without stewardship. In Confucian thought, the “rectification of names” parallels the son’s claim: reality insists on being called what it is, and violence against the name does not change the thing. In Sufism, (speculation) the beloved’s garden evokes the heart as a cultivated place; when the nafs usurps it, the garden turns thorny until surrender restores fruit.",
+    "excursus": "The vineyard is not a moral project that failed; it is a love affair that curdled into surveillance. The beloved plants, fences, towers, presses, then waits for sweetness with the anxious entitlement of someone who has invested too much. “Wild grapes” are not mere defects; they are the vineyard’s refusal to taste the way it was designed to taste. The song becomes a lawsuit because tenderness can’t bear being unanswered.\n\nThe threat to remove the hedge is less punishment than abandonment. If you won’t be what I imagined, I will stop tending you and call it justice. The drought is the lover’s last weapon: to make the beloved feel the absence that the beloved has already inflicted.\n\nIn the parable the tenants are not simply wicked; they are people who have lived under an owner’s distant claim until the claim feels unreal, then suddenly invasive. The servants arrive like bills, audits, reminders that the fruit was never theirs. Violence is the grotesque logic of possession: if we destroy the messenger, we can keep the harvest without the shame of owing it.\n\nThe son is the most perverse move. He is sent not because it will work, but because the owner needs the drama of reverence, needs his desire to be recognized to risk blood. The tenants kill him to end the story, to sever the gaze that makes them tenants. The “stone rejected” is not a pious twist; it is the revelation that the whole economy runs on rejection and replacement. The kingdom is taken and given elsewhere not as clean judgment, but as the cold fact that love, once spurned, becomes a machine that finds new bodies to feed it fruit.",
+    "synthesis": "God’s election is ordered to justice and fruit; when the stewards reject the Son and withhold the yield, the kingdom is removed and reassigned by divine right.",
+    "gospel": [
+      {
+        "text": "The parable escalates from rent-collection to regime-change. The tenants’ violence against messengers establishes a pattern; the audience supplies the sentence, and Jesus converts their verdict into a transfer of the vineyard. The issue is not mere misconduct but a refusal to render fruit to the owner, so the kingdom passes to fruit-bearers.",
+        "lines": [
+          2,
+          3,
+          4,
+          8,
+          9,
+          11
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle turns on a measured question—what more could be done?—then answers with a measured dismantling. The punishment fits the form of the gift: protections and cultivation are withdrawn, not because the land failed, but because the people refused the purpose of the planting.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Love-song as lawsuit: lyric opens into indictment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Total provision—hedge, tower, press—yet the yield is counterfeit.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The accused are drafted as jurors; self-condemnation is the trap.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Judgment is subtraction: no pruning, no digging, no rain—creation reversed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The punchline is ethical: expected justice; received a scream.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Same vineyard, new scandal: stewardship without presence breeds theft.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“They will reverence my son”: a calculated exposure of contempt.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Inheritance logic: murder as a title-deed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cast out, then killed: exclusion precedes execution.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Rejected stone becomes corner: the builders’ verdict is overruled.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I will sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place.",
+        "And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+        "And now, O ye inhabitants of Jerusalem, and ye men of Juda, judge between me and my vineyard.",
+        "What is there that I ought to do more to my vineyard, that I have not done to it? was it that I looked that it should bring forth grapes, and it hath brought forth wild grapes?",
+        "And now I will shew you what I will do to my vineyard. I will take away the hedge thereof, and it shall be wasted: I will break down the wall thereof, and it shall be trodden down.",
+        "And I will make it desolate: it shall not be pruned, and it shall not be digged: but briers and thorns shall come up: and I will command the clouds to rain no rain upon it.",
+        "For the vineyard of the Lord of hosts is the house of Israel: and the man of Juda, his pleasant plant: and I looked that he should do judgment, and behold iniquity: and do justice, and behold a cry."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 5:1-7",
+      "reference": "Isaiah 5:1-7",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Hear ye another parable. There was a man, an householder, who planted a vineyard and made a hedge round about it and dug in it a press and built a tower and let it out to husbandmen and went into a strange country.",
+        "And when the time of the fruits drew nigh, he sent his servants to the husbandmen that they might receive the fruits thereof.",
+        "And the husbandmen laying hands on his servants, beat one and killed another and stoned another.",
+        "Again he sent other servants, more than the former; and they did to them in like manner.",
+        "And last of all he sent to them his son, saying: They will reverence my son.",
+        "But the husbandmen seeing the son, said among themselves: This is the heir: come, let us kill him, and we shall have his inheritance.",
+        "And taking him, they cast him forth out of the vineyard and killed him.",
+        "When therefore the lord of the vineyard shall come, what will he do to those husbandmen?",
+        "They say to him: He will bring those evil men to an evil end and let out his vineyard to other husbandmen that shall render him the fruit in due season.",
+        "Jesus saith to them: Have you never read in the Scriptures: The stone which the builders rejected, the same is become the head of the corner? By the Lord this has been done; and it is wonderful in our eyes.",
+        "Therefore I say to you that the kingdom of God shall be taken from you and shall be given to a nation yielding the fruits thereof."
+      ],
+      "lineRefs": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 21:33-43",
+      "reference": "Matthew 21:33-43",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "27th Sunday of Ordinary Time",
+        "key": "27thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/04.html",
+    "title": "Gospel and Word of the Day - 04 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/04.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-04"
+}
