@@ -1,0 +1,316 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2eeb7698d1f6f42c449e1acace7e0405283477d9ea9b9b90f9a95de75010fc85",
+        "inputSha256": "dcb0e1f9c2a345afc70ae6612651a812fa25cb61e597dfdd9cc437bdf7f5f09b",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "10687e371742db7ff7c62bd163ae66bf609aa13d0ad95278aa94a8152ea32dde",
+        "inputSha256": "42563952cb6d43c273c802a33a4d75f569e5d26eeaaa0caaaa0e8a4545c1d311",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8de6e6bff4e070f65491a0e1f43f8e05193edda102024bebb96893d18bca73ab",
+        "inputSha256": "fced3e02d2787edffacef7d59e4acc73aa17c79c7823bb4401ecc89accd1af1b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-05T07:02:18.569Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s refusal of a “different gospel,” even if voiced by an angel, rhymes with the Buddha’s Kalama Sutta suspicion of charismatic authority and with Zen’s warning against being dazzled by visions; speculation: all three are protecting a hard-won interior criterion from social contagion. His “not to please men” stance resembles the Bhagavad Gita’s insistence on svadharma over approval, and the Stoic move to anchor judgment in what is “up to you,” not in applause.\n\nThe Samaritan’s mercy as the only real answer to the lawyer’s self-justifying question parallels Confucius’ ren as enacted propriety that breaks clan boundaries, and the Mahayana bodhisattva’s vow to serve beings without checking their credentials; speculation: the parable stages compassion as an intelligence that outwits purity-systems. The oil and wine as improvised medicine echoes Daoist wu-wei pragmatism: the good act is untheorized, timely, and unpossessive, then it pays the bill and leaves.",
+    "excursus": "Paul is not defending truth; he is defending possession. The “other gospel” is any story that loosens his grip on their desire, so he hurls the most intimate threat religion can muster: anathema, exile from meaning. Even an angel gets cursed if it interrupts the private revelation that authorizes him. This is jealousy dressed as purity, dread of being replaced, and the terror that the message might be ordinary, “according to man,” and therefore negotiable.\n\nLuke’s lawyer is the same animal in a cleaner robe: he wants eternal life, but on contract terms. “Who is my neighbour?” is an attempt to draw a border around obligation so love can remain a manageable virtue. Jesus answers with a story where the border fails. The priest and Levite do not lack ethics; they have a system that cannot afford contamination, not even by a half-dead body. The Samaritan is moved not by doctrine but by a kind of dangerous appetite for proximity. He touches, lifts, pays, and promises return—mercy as entanglement.\n\nPut together, the texts grind against each other: Paul wants a sealed gospel with curses for tampering; Jesus gives an unsealed command that leaks into the road, the blood, the inn ledger. The dread is that the “true” message might be measured not by correct belief but by whether you stop. And the desire is that you might be freed from justification’s paperwork into the humiliating, costly intimacy of mercy.",
+    "synthesis": "The gospel is a received norm that judges all claimants, even exalted ones. Love of God is verified by concrete mercy that crosses forbidden boundaries and accepts real cost.",
+    "gospel": [
+      {
+        "text": "Jesus forces the lawyer to read his own text aloud, then binds him to it: the law is not an object for debate but a rule that judges the reader. The move collapses the distance between interpreter and command.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The parable ends by reversing the lawyer’s category: the question shifts from identifying who qualifies as “neighbor” to identifying who acted as one. Neighbor is not a status to be located but a role to be assumed, and the verdict is delivered by the lawyer’s own mouth.",
+        "lines": [
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul grounds authority in origin: the gospel’s norm is not communal consensus but a message that arrives from outside human manufacture. That claim makes the community accountable to something prior to it, and it authorizes exclusion—“anathema”—as a protective act, not a temperamental one.",
+        "lines": [
+          6
+        ]
+      },
+      {
+        "text": "The crisis is not pluralism but mutation: a shift “unto another gospel” that is simultaneously denied as truly “another.” The letter frames doctrinal deviation as moral disturbance—people “trouble” and “pervert”—so error is treated as an active force that reorders loyalties.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "A quick apostasy: “so soon” is the scandal.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Not another” yet it functions as one: counterfeit by distortion, not replacement.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Even an angel can be false; pedigree is irrelevant against the deposit.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Repetition as sentence: the curse is not heat, it is policy.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two audiences cannot be served; approval is a rival lord.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation, not apprenticeship: the source is the claim.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The question is transactional: “do” to “possess.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Self-justification breeds boundary questions.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Went down”: the road itself is descent; vulnerability is built in.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seeing without stopping: perception divorced from obligation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The outsider becomes the standard; compassion is the hinge.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Oil and wine: costly care, not sentiment; hands-on mercy.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Open-ended liability: mercy accepts future expense.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He cannot say “Samaritan”; he says “mercy.” Jesus commands imitation, not admiration.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, the strength of those who hope in you, hear our supplications; and since man is frail and without you can do nothing, grant us the help of your grace, that we may keep your commandments and please you in our actions and desires. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, King of heaven and earth, direct and sanctify this day our bodies and our hearts, our senses, words, and actions, according to your law and your commandments; so that, with your help, we may attain salvation now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you are the one who assigns the tasks and gives the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who call upon this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who are rightly called the unfailing light, enlighten our spirit at this evening hour, and deign in your kindness to forgive our faults. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I wonder that you are so soon removed from him that called you into the grace of Christ, unto another gospel.",
+        "Which is not another: only there are some that trouble you and would pervert the gospel of Christ.",
+        "But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema.",
+        "As we said before, so now I say again: If any one preach to you a gospel, besides that which you have received, let him be anathema.",
+        "For do I now persuade men, or God? Or do I seek to please men? If I yet pleased men, I should not be the servant of Christ.",
+        "For I give you to understand, brethren, that the gospel which was preached by me is not according to man.",
+        "For neither did I receive it of man: nor did I learn it but by the revelation of Jesus Christ."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 1:6-12",
+      "reference": "Galatians 1:6-12",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And behold a certain lawyer stood up, tempting him and saying, Master, what must I do to possess eternal life?",
+        "But he said to him: What is written in the law? How readest thou?",
+        "He answering, said: Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with all thy strength and with all thy mind: and thy neighbour as thyself.",
+        "And he said to him: Thou hast answered right. This do: and thou shalt live.",
+        "But he willing to justify himself, said to Jesus: And who is my neighbour?",
+        "And Jesus answering, said: A certain man went down from Jerusalem to Jericho and fell among robbers, who also stripped him and having wounded him went away, leaving him half dead.",
+        "And it chanced, that a certain priest went down the same way: and seeing him, passed by.",
+        "In like manner also a Levite, when he was near the place and saw him, passed by.",
+        "But a certain Samaritan, being on his journey, came near him: and seeing him, was moved with compassion:",
+        "And going up to him, bound up his wounds, pouring in oil and wine: and setting him upon his own beast, brought him to an inn and took care of him.",
+        "And the next day he took out two pence and gave to the host and said: Take care of him; and whatsoever thou shalt spend over and above, I, at my return, will repay thee.",
+        "Which of these three, in thy opinion, was neighbour to him that fell among the robbers?",
+        "But he said: He that shewed mercy to him. And Jesus said to him: Go, and do thou in like manner."
+      ],
+      "lineRefs": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 10:25-37",
+      "reference": "Luke 10:25-37",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 27th week of Ordinary Time",
+        "key": "mondayOfThe27thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/05.html",
+    "title": "Gospel and Word of the Day - 05 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/05.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-05"
+}
