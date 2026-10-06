@@ -1,0 +1,273 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2f99ffe31b848409c0812a4244c7534c7c760ee9d1bd48db9ff58d8e49adf8e6",
+        "inputSha256": "c96177d5a9f48b8ad438d708b9134c5ebcfa071e7b1c3788deaf84cf3a354077",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "000fcf039770b030bfa04c411d43e25d8b83f506398d8aaece105029ca570906",
+        "inputSha256": "7b72ae482c21bcbecca44dcbcd876b0e78fc1fee71837014b73d7d173c6c0880",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a21406f8d52541f405f4a25fd789d9244155f66399a5bf2c3e9dc0a4c090b61b",
+        "inputSha256": "bfba6209cecb39eacd527b0454c75fe1782f7dcb882cff183e42e718b1e9c310",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-06T07:33:34.116Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s rupture reads like a psyche released from compulsive identity-maintenance: the persecutor’s zeal was a disciplined addiction to belonging, and the “reveal in me” is an interior event that reorders desire without asking permission from the old peer-court. Speculatively, it resembles the Bhagavad Gita’s turning from inherited duty to a direct apprehension that reassigns vocation, and also the Sufi account of sudden unveiling that makes former certainties feel like sleep.\n\nMartha and Mary stage attention as destiny. Martha’s service is not condemned; her agitation is. Mary’s stillness is not passivity; it is consent to be addressed, the ego’s relinquishment of control. Speculatively, this parallels Zen’s insistence that frantic merit-making is a subtler form of grasping, and the Taoist preference for wu-wei over anxious management: the “one thing” is the unfragmented mind that lets reality arrive.",
+    "excursus": "Paul’s conversion reads less like a moral turnaround than a controlled burn. He was already built for violence: disciplined, ambitious, intoxicated by purity. The “revelation” doesn’t dissolve that engine; it re-aims it. He insists he didn’t consult “flesh and blood,” didn’t submit to Jerusalem, didn’t learn the new story from the old witnesses. Arabia first: a desert where a mind like his can harden a private certainty into a mission. The oath “before God, I lie not” sounds like the tell of someone still fighting the same battle—now for his own narrative. The churches glorify God “in” him, but what they really receive is a frightening instrument: the persecutor returned as preacher, the same force now wearing different clothes.\n\nMartha and Mary stage the same terror in domestic miniature. Martha’s labor is love, but it’s also control: if the house is ordered, the guest is contained, the relationship is manageable. Mary refuses management. She sits at the feet, not helping, not performing, letting desire be naked and unproductive. Jesus’ rebuke isn’t a gentle spiritual tip; it’s a threat to the economy of usefulness. “One thing is necessary” means everything else can be stripped away, including the identity built on service. Mary chooses the part that cannot be taken because it isn’t earned; it’s seized by attention. Martha’s dread is that attention makes her obsolete.\n\nPut together, the texts whisper a bleak comfort: the self doesn’t get healed so much as reconfigured. Paul keeps his zeal; Mary keeps her hunger. The holy arrives not as balance but as fixation, and the people around it must decide whether to call it grace or to admit how much it resembles obsession.",
+    "synthesis": "God’s call establishes authority and priority apart from human validation. The word of Christ is the necessary good that orders all service and cannot be taken away.",
+    "gospel": [
+      {
+        "text": "The scene is a household turned courtroom. Martha’s “received” (1) becomes a claim of leverage, and her petition (3) tries to conscript Jesus into reallocating labor. Jesus answers by redefining value: the decisive good is not the smooth running of the house but the unlosable attachment to his word (5), which relativizes every other task.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul constructs an apostolic pedigree by refusing the usual pedigree. He notes former eminence (2) yet narrates a delayed, minimal Jerusalem contact (6–7), then dispersal to the margins (9–10). The point is jurisdiction: his gospel is not a derivative franchise of Judea but an act of God that nonetheless yields ecclesial doxology (12).",
+        "lines": [
+          2,
+          6,
+          7,
+          9,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Beyond measure”: zeal without limit becomes demolition.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Separated before consent; vocation precedes biography.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation “in me,” not merely to me; the messenger is the medium.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal of “flesh and blood”: no human court of appeal for the call.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Oath inserted like a seal: credibility is part of the argument.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The same mouth that “impugned” now “preach[es]”: reversal as evidence.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "At the feet: posture becomes theology—reception before production.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Service turns accusatory; hospitality weaponized into complaint.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Name doubled: tenderness and indictment in one stroke.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“One thing”: necessity cuts through the tyranny of the many; the “best part” is non-confiscable.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom flow the goodness and beauty of all that is created, grant that we may begin this day with a joyful spirit and carry out our works moved by love for you and for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our evening prayer rise up to you, Father of mercy, and may your blessing come down upon us; thus, with your help, we shall be saved now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For you have heard of my conversation in time past in the Jews' religion: how that, beyond measure, I persecuted the church of God and wasted it.",
+        "And I made progress in the Jew's religion above many of my equals in my own nation, being more abundantly zealous for the traditions of my fathers.",
+        "But when it pleased him who separated me from my mother's womb and called me by his grace,",
+        "To reveal his Son in me, that I might preach him among the Gentiles: immediately I condescended not to flesh and blood.",
+        "Neither went I to Jerusalem, to the apostles who were before me: but I went into Arabia, and again I returned to Damascus.",
+        "Then, after three years, I went to Jerusalem to see Peter: and I tarried with him fifteen days.",
+        "But other of the apostles I saw none, saving James the brother of the Lord.",
+        "Now the things which I write to you, behold, before God, I lie not.",
+        "Afterwards, I came into the regions of Syria and Cilicia.",
+        "And I was unknown by face to the churches of Judea, which were in Christ:",
+        "But they had heard only: He, who persecuted us in times past doth now preach the faith which once he impugned.",
+        "And they glorified God in me."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 1:13-24",
+      "reference": "Galatians 1:13-24",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now it came to pass, as they went, that he entered into a certain town: and a certain woman named Martha received him into her house.",
+        "And she had a sister called Mary, who, sitting also at the Lord's feet, heard his word.",
+        "But Martha was busy about much serving. Who stood and said: Lord, hast thou no care that my sister hath left me alone to serve? Speak to her therefore, that she help me.",
+        "And the Lord answering, said to her: Martha, Martha, thou art careful and art troubled about many things:",
+        "But one thing is necessary. Mary hath chosen the best part, which shall not be taken away from her."
+      ],
+      "lineRefs": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 10:38-42",
+      "reference": "Luke 10:38-42",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Blessed Marie Rose Durocher, Virgin",
+        "key": "blessedMarieRoseDurocherVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/06.html",
+    "title": "Gospel and Word of the Day - 06 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/06.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-06"
+}
