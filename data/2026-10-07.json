@@ -1,0 +1,317 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1eef2cec5b0f7a0f495740396e7dc7a945f06a47096d79a6367f05582445568c",
+        "inputSha256": "aea1748949f6a1ddab232c96b015245095e8309a9434344ef30bac73bd782a45",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "db668d10cc8caa909f6a022fe764041017ece688a5a51c8b194bfb19ed1413bb",
+        "inputSha256": "ac14d0bc5ee968b3266e582bebe72e5784116bc9f2a3f3c8097fc3bddd289825",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "82c352e4e39ca0b21039ace890a7ebf1d358cdfe8642bd5eecdd53516ccdcf7b",
+        "inputSha256": "77b9861ef384aec0b412376a832f05bd6232b81a1b5120b6659d2cffd45c0581",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-07T07:13:39.204Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s public clash with Cephas reads like the Bhagavad Gita’s insistence on swadharma over social fear: act from the truth you’ve seen, not from the gaze of your in‑group. Speculation: it also resembles Confucius’ zhengming, the “rectification of names,” where conduct must match the role one claims, or the community corrodes into performative compliance.\n\nThe prayer’s “Father” and “kingdom” echo the Stoic sense of a shared civic order under a higher reason, and the Jewish Kaddish’s sanctifying of the Name; both make speech an act that reorders desire. “Daily bread” parallels the Buddhist alms-bowl ethic and the Qur’anic trust in daily provision: enough for today as a discipline against grasping. “Forgive as we forgive” meets the Jain and Buddhist logic of karmic entanglement: release the debt to loosen the knot. “Lead us not into temptation” aligns with Islamic isti‘adha and yogic pratyahara: the practiced turning away from the hooks that hijack attention.",
+    "excursus": "Paul’s “revelation” reads like a preemptive alibi: he goes up to Jerusalem not to learn, but to make sure his life’s work won’t be annulled by men “who seemed to be something.” The phrase keeps biting. He wants their handshake and despises needing it. The gospel here is not serene truth; it’s a contested territory, and Paul is terrified of running “in vain,” of being exposed as a brilliant mistake.\n\nPeter in Antioch is the portrait of desire under surveillance. He eats with Gentiles until the eyes arrive. Then the body remembers the old borders, not from conviction but from fear. Hypocrisy isn’t a moral lapse; it’s a survival reflex. Paul’s fury is also envy: Peter can slip between worlds and still be Peter, while Paul must harden into principle to keep from dissolving.\n\nThe prayer in Luke is not piety but a stripped-down dependency. “Father” is intimate, almost reckless. “Daily bread” admits need without romance. “Forgive us… for we also forgive” makes mercy transactional, a bargain struck in dread of being refused. “Lead us not into temptation” is the clearest line: don’t test me, because I will fail. Set beside Antioch, it sounds like the honest version of Peter’s retreat and Paul’s aggression: both are prayers for a world where belonging doesn’t require dissimulation.",
+    "synthesis": "The gospel creates one truth that governs both doctrine and table-practice, and it teaches the Church to ask first for God’s reign, then for the mercies that keep sinners alive together.",
+    "gospel": [
+      {
+        "text": "The prayer orders desire: first God’s reign, then sustenance. It trains the petitioner to receive life as gift under a coming sovereignty rather than as a possession secured by control.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The final petitions assume moral vulnerability and communal entanglement: sin and debt are parallel grammars. Prayer is thus not self-expression but submission to a regime of pardon and restraint.",
+        "lines": [
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames mission as a single divine operation expressed in two fields: circumcision and uncircumcision. The point is not two gospels but one agency assigning different jurisdictions, so unity is theological before it is diplomatic.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The Antioch incident exposes how social pressure can smuggle a rival soteriology into ordinary habits. The dispute is adjudicated by “truth of the gospel,” meaning conduct is treated as doctrinal evidence, not mere etiquette.",
+        "lines": [
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Fourteen years: patience measured, not felt.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“According to revelation”: private warrant brought into public scrutiny.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Seemed to be something”: status named, then cut down to size.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Pillars” that only “seem”: architecture with quotation marks.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Right hands: communion expressed as contract.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The poor appear as the lone non-negotiable.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Face-to-face: authority corrected without ceremony.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Table-fellowship becomes the battlefield; fear redraws the map.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Dissimulation is contagious; even Barnabas catches it.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The charge: you live free, then legislate bondage.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Prayer is learned; even disciples need instruction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Father”: access granted before any request is made.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Name hallowed, kingdom coming: God’s agenda precedes ours.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Bread: the petition is small, daily, unromantic.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Forgiveness tied to practice: mercy made measurable.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Temptation named as a place one can be led into.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace upon us, that we, who by the angel’s announcement have come to know the incarnation of your Son, may, through his Passion and his Cross, and by the intercession of the Virgin Mary, be brought to the glory of the Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace upon us, that we, who by the angel’s announcement have come to know the incarnation of your Son, may, through his Passion and his Cross, and by the intercession of the Virgin Mary, attain the glory of the Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Pour forth, Lord, your grace upon us, that we who, by the angel’s announcement, have come to know the incarnation of your Son, may, through his Passion and his Cross, and by the intercession of the Virgin Mary, be brought to the glory of the Resurrection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. May we rest during the night so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Then, after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus also with me.",
+        "And I went up according to revelation and communicated to them the gospel which I preach among the Gentiles: but apart to them who seemed to be some thing: lest perhaps I should run or had run in vain.",
+        "But contrariwise, when they had seen that to me was committed the gospel of the uncircumcision, as to Peter was that of the circumcision.",
+        "(For he who wrought in Peter to the apostleship of the circumcision wrought in me also among the Gentiles.)",
+        "And when they had known the grace that was given to me, James and Cephas and John, who seemed to be pillars, gave to me and Barnabas the right hands of fellowship: that we should go unto the Gentiles, and they unto the circumcision:",
+        "Only that we should be mindful of the poor: which same thing also I was careful to do.",
+        "But when Cephas was come to Antioch, I withstood him to the face, because he was to be blamed.",
+        "For before that some came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them who were of the circumcision.",
+        "And to his dissimulation the rest of the Jews consented: so that Barnabas also was led by them into that dissimulation.",
+        "But when I saw that they walked not uprightly unto the truth of the gospel, I said to Cephas before them all: If thou, being a Jew, livest after the manner of the Gentiles and not as the Jews do, how dost thou compel the Gentiles to live as do the Jews?"
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 2:1-2,7-14",
+      "reference": "Galatians 2:1-2,7-14",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass that as he was in a certain place praying, when he ceased, one of his disciples said to him: Lord, teach us to pray, as John also taught his disciples.",
+        "And he said to them: When you pray, say: Father, hallowed be thy name. Thy kingdom come.",
+        "Give us this day our daily bread.",
+        "And forgive us our sins, for we also forgive every one that is indebted to us. And lead us not into temptation."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:1-4",
+      "reference": "Luke 11:1-4",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Our Lady of the Rosary",
+        "key": "ourLadyOfTheRosary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/07.html",
+    "title": "Gospel and Word of the Day - 07 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-07"
+}
