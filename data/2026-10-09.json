@@ -1,0 +1,272 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7fc28091d9117f9a7c82601c3f3896dafe058b1ea6e58e6686acc3fb8996942e",
+        "inputSha256": "f202424e5b6c1046be693465ec8eac739bc314891d2b40ac886fe6dcee32e80f",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bbaefda04fffd98409cf3b6a6b9c1c01797e65d631b396af0f57dac388998806",
+        "inputSha256": "f80c170c51b90c6e0bc2c14c7716f18d2a2b2936ee84f41a9cf694d4c9d8b41d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e686cd7bc5351837d1adc8bf104f3c4f5a8a4afafdf84d590469b5a25383a6d4",
+        "inputSha256": "dad0a76b13ba29ac2e4051b196b21859ffc398017d25ce410f49c8bfd23a4211",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-09T07:23:00.100Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s move from “works” to trust reads like a psychological revolt against the perfectionist superego: the law becomes an internalized auditor that can only condemn because it demands total coherence, and the self cannot deliver it. Faith is not laziness but a different engine of identity, a belonging that precedes performance. The “curse” is the felt inevitability of failure under an all-or-nothing standard; “redemption” is release from that punitive loop by relocating worth outside the scorecard.\n\nLuke’s scene is about attribution and inner politics. When healing is reinterpreted as demonic, it’s a defense against being changed: if the liberator is labeled corrupt, you can keep your captivity and call it discernment. The “strong man” is the entrenched pattern that keeps the house “in peace” by controlling it; the “stronger” is a force that breaks the pact with the symptom. The warning about the swept house is clinical: subtraction without substitution invites relapse. An emptied compulsion returns with friends if the vacancy isn’t filled by a new allegiance, practice, and community.\n\nSemina Verbi: the shift from merit to belonging parallels the Bhagavad Gita’s critique of ritualism when it hardens into identity, and the Mahayana turn from self-powered attainment to reliance on a vow beyond the ego; both treat compulsive striving as a trap. The “stronger than the strong man” resembles Taoist wu-wei as a power that wins by not fighting on the old terms, and Sufi language about the nafs being displaced by a deeper love. The swept-house relapse echoes Buddhist accounts of unskillful suppression returning as stronger craving; speculation: it also fits modern addiction theory’s insistence that abstinence without new meaning and attachment is unstable.",
+    "excursus": "Paul sounds liberating until you hear the threat under the promise. Faith is not a gentler law; it is a new belonging that cancels older loyalties. The “curse of the law” is not merely legalism but the terror of total demand: miss one line and the whole book turns on you. Christ “made a curse” is not a tidy transaction; it is the scandal that the community’s violence is absorbed and worn like a garment, so the blessing can pass to outsiders without the old boundary-markers. Desire shifts from proving oneself to being claimed, and that is frightening because it removes the last alibi.\n\nLuke shows why this is frightening. People prefer to name deliverance as demonic rather than admit a stronger power has entered their house. The exorcism is a burglary: the “strong man” is you, your practiced defenses, your cherished symptoms that keep order in the court. When the stronger one takes the armor, peace is exposed as occupation.\n\nThe clean, swept room is the cruelest image. Getting rid of a demon is easy; living without one is harder. Emptiness invites worse tenants, because the self wants a master, any master, and will choose familiar bondage over unstructured freedom. “Not with me is against me” is not moral bullying; it is psychological physics: there is no neutral interior. If you are not gathered into a new desire, you will be scattered into seven old ones.",
+    "synthesis": "Justification is God’s verdict received by faith, not a wage earned under law. Christ’s kingdom arrives as superior force that displaces the strong man and must occupy what it cleanses.",
+    "gospel": [
+      {
+        "text": "The accusation and the demand for a sign are twin evasions: one re-labels deliverance as demonic, the other postpones judgment by moving the goalposts. Jesus answers by forcing internal consistency and by turning their own exorcistic practice into testimony against them.",
+        "lines": [
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The scene is not neutral territory: there is a contested house, a rival lord, and a forced choice. The parable of return shows that expulsion without new governance is temporary; the question is not whether a spirit leaves, but who holds the property afterward.",
+        "lines": [
+          7,
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul relocates Abrahamic descent from genealogy to allegiance: Scripture’s earlier promise is treated as a programmatic forecast that outruns Israel’s boundary and makes Gentile inclusion the intended trajectory, not an afterthought.",
+        "lines": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Two regimes are set in formal opposition: justification and performance. “Live” is claimed by both, but with incompatible logics—one receives life as verdict, the other treats life as wage—so the dispute is not about effort but about the kind of economy God runs.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Law as totality: miss one clause, inherit the whole curse.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The inversion: the Blessed One wears the malediction like a garment.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Promise arrives as Spirit, not as statute; faith is the conduit.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Division is a solvent; it dissolves kingdoms without an enemy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Finger of God”: effortless sovereignty, no contest of equals.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Salvation as raid: armor stripped, goods redistributed; trust exposed as weakness.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Moral tidiness is vacancy; vacancy invites occupation, and the rent is paid in sevens.",
+      "lines": [
+        11,
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in your generous love surpass the merits and desires of those who implore you, pour out your mercy upon us, that you may free our conscience from every anxiety and grant us even what we do not dare to ask. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Enlighten, Lord, our hearts and strengthen our wills, that we may always follow the path of your commandments, acknowledging you as our guide and teacher. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging on the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, you willed that Christ, your Son, should be the price of our ransom; grant that we may live in such a way that, sharing in his sufferings, we may also rejoice at the revelation of his glory. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Know ye, therefore, that they who are of faith, the same are the children of Abraham.",
+        "And the scripture, foreseeing that God justifieth the Gentiles by faith, told unto Abraham before: In thee shall all nations be blessed.",
+        "Therefore, they that are of faith shall be blessed with faithful Abraham.",
+        "For as many as are of the works of the law are under a curse. For it is written: Cursed is every one that abideth, not in all things which are written in the book of the law to do them.",
+        "But that in the law no man is justified with God, it is manifest: because the just man liveth by faith.",
+        "But the law is not of faith: but he that doth those things shall live in them.",
+        "Christ hath redeemed us from the curse of the law, being made a curse for us (for it is written: Cursed is every one that hangeth on a tree).",
+        "That the blessing of Abraham might come on the Gentiles through Christ Jesus: that we may receive the promise of the Spirit by faith."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 3:7-14",
+      "reference": "Galatians 3:7-14",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But some of them said: He casteth out devils by Beelzebub, the prince of devils.",
+        "And others tempting, asked of him a sign from heaven.",
+        "But he seeing their thoughts, said to them: Every kingdom divided against itself shall be brought to desolation; and house upon house shall fall.",
+        "And if Satan also be divided against himself, how shall his kingdom stand? Because you say that through Beelzebub I cast out devils.",
+        "Now if I cast out devils by Beelzebub, by whom do your children cast them out? Therefore, they shall be your judges.",
+        "But if I by the finger of God cast out devils, doubtless the kingdom of God is come upon you.",
+        "When a strong man armed keepeth his court, those things are in peace which he possesseth.",
+        "But if a stronger than he come upon him and overcome him, he will take away all his armour wherein he trusted and will distribute his spoils.",
+        "He that is not with me is against me; and he that gathereth not with me scattereth.",
+        "When the unclean spirit is gone out of a man, he walketh through places without water, seeking rest: and not finding, he saith: I will return into my house whence I came out.",
+        "And when he is come, he findeth it swept and garnished.",
+        "Then he goeth and taketh with him seven other spirits more wicked than himself: and entering in they dwell there. And the last state of that man becomes worse than the first."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:15-26",
+      "reference": "Luke 11:15-26",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Denis and Companions Martyrs/Saint John Leonardi, Priest",
+        "key": "saintDenisAndCompanionsMartyrsSaintJohnLeonardiPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/09.html",
+    "title": "Gospel and Word of the Day - 09 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-09"
+}
