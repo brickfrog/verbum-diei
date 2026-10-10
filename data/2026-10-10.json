@@ -1,0 +1,233 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "3bd2bc2f4967a7efba767c93a624ac083948d6482a114b88d878c40a0b463bf5",
+        "inputSha256": "f9ea5d6fc4f3a38b9964a81175dccc4804adf96bc2c73ed1201f67726ec67ab3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2822a4a1bc4cc66d1243224da9c9e2f92e12b73876f2d34eb347c8f582464587",
+        "inputSha256": "d572e283717bb07815ce6056d057c58e54c3c0350420c9c94792cd3cc94142ce",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2146b30c98221ea62e81869d631cbc52247678e193c0dfb7b71942c8e20eb45a",
+        "inputSha256": "84020bcc8996a95bb12622d3bddfff6675321ddc570414e3dda4f6df52a33d72",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-10T07:05:56.724Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “pedagogue” feels like Plato’s ladder in the Symposium: desire educated by forms until it can stand without the tutor. The move from markers of status to a single identity echoes the Stoic cosmopolis, where citizenship is not blood or city but participation in reason; speculation: Paul’s “put on” functions like a moral uniform that dissolves local costumes.\n\nLuke’s reversal from womb to obedience parallels Buddhist suspicion of lineage and charisma: the Buddha refuses holiness by birth in favor of practice. It also resembles Confucius’s shift from noble pedigree to cultivated virtue, and the Bhagavad Gita’s insistence that hearing and doing outweighs inherited station; speculation: the blessing relocates intimacy from biology to attention, making “family” a discipline rather than a genealogy.",
+    "excursus": "Paul sounds like a man staging a jailbreak. The law isn’t wisdom; it’s custody. “Shut up” is the verb of a cell. Sin is the universal charge, not because everyone is equally wicked, but because the system needs everyone guilty to keep everyone manageable. Then “faith” arrives like an inside contact, and the old guard—the pedagogue, the paid escort of minors—loses his job. Freedom comes not by becoming better but by changing jurisdictions.\n\n“Put on Christ” is not moral improvement; it’s disguise, costume, skin. Baptism becomes a wardrobe change that erases the old identifiers—ethnicity, class, sex—not because those differences stop existing, but because the new identity is totalizing. The sweetness of “all one” carries a threat: if you belong to this body, you don’t get to keep your separateness. Desire for unity and dread of absorption are braided together.\n\nLuke lets a woman try to anchor holiness in biology, in the warm fact of a mother’s body. Jesus refuses the sentimental trap. He won’t be claimed by origin, lineage, or the erotic gratitude of nursing. He shifts blessedness to hearing and keeping: an obedience that any body can attempt, and that no mother can guarantee. It’s colder, harsher, and more democratic. The womb is praised; the word is demanded.\n\nTaken together, the texts offer a frightening consolation: you can be released from the prison of inherited roles, but only by submitting to a voice that will not flatter your blood, your gender, or your story. The old bonds are cut. A new bond tightens.",
+    "synthesis": "Justification and inheritance are granted by union with Christ received in faith, not by the Law or natural lineage. Blessedness is measured by obedient reception of God’s word, not by biological proximity to Jesus.",
+    "gospel": [
+      {
+        "text": "Jesus refuses a cult of proximity. The criterion of blessedness is not access to the holy body but submission to the holy word; the kingdom’s honors are distributed by reception and practice, not by kinship or acclaim.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul marks a regime change: the end of tutelage (4) yields filial status (5), and that status redefines genealogy—Abrahamic descent is no longer a bloodline but an inheritance claim grounded in belonging to Christ (8). The argument is juridical and adoptive: who counts as heir, and by what title.",
+        "lines": [
+          4,
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Scripture as jailer: it \"concludes\"—shuts the case—so promise can arrive only as gift.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Law as custody: \"shut up\" until disclosure; confinement with a horizon.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pedagogue, not parent: authority that escorts, not one that begets.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Baptism as clothing: identity worn, not merely assented to.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three binaries dismantled; unity is not sameness but a new location: \"in Christ\".",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Praise aims at biology—womb and breast—holiness reduced to origin.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Christ reroutes beatitude from flesh to obedience: hearing that becomes keeping.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, help us to live according to your will, so that we may bear abundant fruit in good works in the name of your beloved Son. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, fount and source of our salvation, grant that, as long as our life lasts here on earth, we may praise you without ceasing and thus one day share in the eternal praise of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But the scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe.",
+        "But before the faith came, we were kept under the law shut up, unto that faith which was to be revealed.",
+        "Wherefore the law was our pedagogue in Christ: that we might be justified by faith.",
+        "But after the faith is come, we are no longer under a pedagogue.",
+        "For you are all the children of God, by faith in Christ Jesus.",
+        "For as many of you as have been baptized in Christ have put on Christ.",
+        "There is neither Jew nor Greek: there is neither bond nor free: there is neither male nor female. For you are all one in Christ Jesus.",
+        "And if you be Christ's, then are you the seed of Abraham, heirs according to the promise."
+      ],
+      "lineRefs": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 3:22-29",
+      "reference": "Galatians 3:22-29",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, as he spoke these things, a certain woman from the crowd, lifting up her voice, said to him: Blessed is the womb that bore thee and the paps that gave thee suck.",
+        "But he said: Yea rather, blessed are they who hear the word of God and keep it."
+      ],
+      "lineRefs": [
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:27-28",
+      "reference": "Luke 11:27-28",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 27th week of Ordinary Time",
+        "key": "saturdayOfThe27thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/10.html",
+    "title": "Gospel and Word of the Day - 10 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-10"
+}
