@@ -1,0 +1,268 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "371143893d251dccb265f48b0dd585da069951c37c11d135ca140809f659494a",
+        "inputSha256": "bb02fee2002730607ddaa12a4143169b1ff8af7501ada8b3520c951aeac7fc51",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "966d2e6a546f1afde7a3299f00452f27d629b69a2ec8262b1dd4cde033bcf7bc",
+        "inputSha256": "73aaac28c7e4b34de0f49e16feaeb34e6f9fdd6bf91568666e75b3526a237e3e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "31bf163ba1a77c2cfad5091cfd5da03c080a03a6aefc502f9044f93bf8e1c25d",
+        "inputSha256": "9ea6a23198ec65f72ee060de2e95c521444a0372df05d01d502a5037aea691b6",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-11T07:11:17.669Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s feast is the psyche’s image of satiation after dread: abundance arrives only when the “web” of compulsive meaning-making is torn and death loses its hypnotic face. The mountain is the high place of integration where grief is not denied but metabolized; tears are wiped because the self no longer needs them as proof it has loved and lost. The violent coda against Moab reads like the shadow’s humiliation: the part that insists on old enmities is trampled so the new joy can hold.\n\nMatthew’s wedding is the same drama with sharper edges: the invitation is intimacy with reality, and refusal is not ignorance but preference for the manageable—farm and merchandise, productivity and possession. The murdered servants expose how the ego reacts when summoned beyond its routines: it attacks the messenger. The king’s retaliation is the inner law of consequence, the burn-down of a life built on avoidance.\n\nThe scandal is the garment. Getting into the hall is not enough; participation requires a changed self-presentation, a readiness to be seen without the usual disguises. The silent guest is the person who wants communion without conversion, belonging without vulnerability. Outer darkness is not arbitrary punishment but the felt world of someone who cannot bear the light of the feast.\n\nSemina Verbi: Plato’s Symposium treats the banquet as ascent from appetite to the Beautiful; the “garment” can be read, speculatively, as the soul’s formed habitus for that ascent. Hindu bhakti speaks of being “clothed” in devotion before entering the Lord’s presence, a parallel in tone though not in metaphysics. In Sufism, the sama‘ and the wedding imagery of union suggest that the feast is for those who accept annihilation of the old self; the ungarmented guest resembles the one who wants ecstasy without fana. In Daoism, Zhuangzi’s release from the “net” of distinctions echoes Isaiah’s web being destroyed, a charitable resonance with the text’s hunger for unbound life.",
+    "excursus": "This is not comfort; it is appetite with a blade behind it. Isaiah’s feast is lush to the point of obscenity, marrow and strained wine, a fantasy of fullness for people who have lived on scarcity and humiliation. The “veil” and “web” are not metaphysical abstractions but the social spell that keeps everyone in their place: shame, debt, the inherited story that says you are not invited. To “swallow death” is to swallow that story whole, to end the reign of diminishment. Yet the last line gives the game away: someone must be trodden down like straw so the mountain can feel like safety.\n\nMatthew makes the violence explicit. The king’s banquet is not a gift; it is a demand for recognition. The invited refuse because they prefer smaller, controllable devotions—farm, merchandise—ordinary idolatries that keep the self intact. The king cannot bear the slight, so he turns the feast into a purge, burning a city to enforce celebration. Inclusion arrives only after exclusion has been punished; grace comes riding an army.\n\nThen the trap inside “all are gathered, bad and good.” The garment is not morality; it is consent to the king’s theater, the willingness to be remade on his terms. One man shows up hungry but uncostumed, wanting the food without the surrender. His silence is the only honest moment in the parable: he has no language that will not be used against him. The darkness is not hell so much as the psychic exile of refusing the role in a world where the only offered belonging is conditional.\n\nThese readings confess a dread beneath religious desire: we want the table, we fear the price, and we suspect the host. The feast promises an end to tears, but it also reveals how badly power wants to be loved, and how quickly it will punish the unpersuaded.",
+    "synthesis": "God’s reign is a prepared feast that judges: it gathers widely by call, then separates finally by worthiness under the King’s rule.",
+    "gospel": [
+      {
+        "text": "The parable moves from royal generosity to royal adjudication: readiness of the banquet does not suspend the king’s right to assess worthiness. The narrative widens the guest list after the first invitees’ rejection, but then narrows it again by inspection; inclusion by summons is real, yet participation requires conformity to the king’s terms. The burning of the city is not an aside but a hinge: refusal of the son’s marriage is treated as political revolt, and the kingdom answers as a kingdom.",
+        "lines": [
+          2,
+          4,
+          7,
+          8,
+          11,
+          14
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle’s center is the public acclamation of delayed fidelity: waiting becomes the community’s credential, and salvation is named as recognition—“this is our God”—not mere relief. The mountain functions as the fixed site where divine rule is made visible to “all people,” yet it also marks a boundary where enemies are handled; universality and particular vindication are held together without embarrassment.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Eschatology rendered as cuisine: marrow, clarified wine—excess as sign of sovereignty.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Salvation begins as unbinding: covenant as “bond,” history as netting over nations.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Death is not negotiated with but hurled; consolation follows conquest, not before.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The same mountain feeds and crushes; Moab becomes chaff under a resting hand.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Refusal is banal: the invited simply will not come; contempt can be quiet.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The feast summons martyrs; invitation exposes hostility already present.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Indiscriminate gathering—“bad and good”—yet the hall’s fullness is not final judgment.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Friend” is forensic, not tender; silence is self-indictment when questioned about the garment.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Exterior darkness: exclusion as location; binding precedes banishment—judgment is ordered, not impulsive.",
+      "lines": [
+        13
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do what is good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And the Lord of hosts shall make unto all people in this mountain, a feast of fat things, a feast of wine, of fat things full of marrow, of wine purified from the lees.",
+        "And he shall destroy in this mountain the face of the bond with which all people were tied, and the web that he began over all nations.",
+        "He shall cast death down headlong for ever: and the Lord God shall wipe away tears from every face, and the reproach of his people he shall take away from off the whole earth: for the Lord hath spoken it.",
+        "And they shall say in that day: Lo, this is our God, we have waited for him, and he will save us: this is the Lord, we have patiently waited for him, we shall rejoice and be joyful in his salvation.",
+        "For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain."
+      ],
+      "lineRefs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 25:6-10",
+      "reference": "Isaiah 25:6-10",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And Jesus answering, spoke again in parables to them, saying:",
+        "The kingdom of heaven is likened to a king who made a marriage for his son.",
+        "And he sent his servants to call them that were invited to the marriage: and they would not come.",
+        "Again he sent other servants, saying: Tell them that were invited, Behold, I have prepared my dinner: my beeves and fatlings are killed, and all things are ready. Come ye to the marriage.",
+        "But they neglected and went their ways, one to his farm and another to his merchandise.",
+        "And the rest laid hands on his servants and, having treated them contumeliously, put them to death.",
+        "But when the king had heard of it, he was angry: and sending his armies, he destroyed those murderers and burnt their city.",
+        "Then he saith to his servants: The marriage indeed is ready; but they that were invited were not worthy.",
+        "Go ye therefore into the highways; and as many as you shall find, call to the marriage.",
+        "And his servants going forth into the ways, gathered together all that they found, both bad and good: and the marriage was filled with guests.",
+        "And the king went in to see the guests: and he saw there a man who had not on a wedding garment.",
+        "And he saith to him: Friend, how camest thou in hither not having on a wedding garment? But he was silent.",
+        "Then the king said to the waiters: Bind his hands and feet, and cast him into the exterior darkness. There shall be weeping and gnashing of teeth.",
+        "For many are called, but few are chosen."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 22:1-14",
+      "reference": "Matthew 22:1-14",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "28th Sunday of Ordinary Time",
+        "key": "28thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/11.html",
+    "title": "Gospel and Word of the Day - 11 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-11"
+}
