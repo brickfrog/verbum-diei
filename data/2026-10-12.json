@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6ccc803df7c71af5796b6537c1052fe03f504cc3d917b3d9989c727334357857",
+        "inputSha256": "9013966da9ae5d655048e8abfc5b91a7aa541f70440d88da15964a2948f338aa",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "3dd6d2c9c2b0f60873654bb0cbcb9f92765c1dc74215c5083e8eb248b06c9cfb",
+        "inputSha256": "a0032a3394670b3ea7c218945cbd7e55eb98558f83bb255d72945d4a0ea193fc",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "5e91b5275ae03abd56a4a418347118004321935d343666f6f4327de51189d953",
+        "inputSha256": "6716008eda1fc2bd78ca5976fee7e4cee1356f9fff37f2bfae08e24d59a8e314",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-12T07:20:32.257Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s split between slave-birth and promise-birth reads like a map of the psyche: one self assembled by compulsion, habit, and inherited fear; another self called into being by a word that precedes merit. Freedom here is not permission but a new lineage, an interior citizenship that refuses to keep paying rent to the old taskmasters. The “yoke” is the addictive comfort of measurable righteousness, the kind that can be audited and therefore never ends.\n\nJesus refuses the crowd’s demand for spectacle because the demand itself is the sickness: a craving for coercive certainty that would let them stay unchanged. Jonah is the anti-sign, a story that works only if you consent to be implicated. Nineveh and the queen function as outsiders who shame the insiders: they respond to wisdom and warning without the protections of familiarity. The judgment is psychological before it is cosmic: what you ignore becomes your accuser.\n\nSemina Verbi: There’s a clear kinship with Stoic freedom as inner sovereignty against externals, though Paul’s engine is relational promise rather than self-mastery. The “sign of Jonah” resembles Zen’s refusal of proofs and its insistence on direct turning, speculation but close in spirit. The outsider-witness motif echoes the Quran’s praise of those who heed reminders regardless of tribe, and the Upanishadic move from ritual exactitude toward liberating knowledge; different metaphysics, similar critique of bondage to forms.",
+    "excursus": "Paul’s “allegory” is an act of psychic violence dressed as liberation. He takes a messy household—sex, status, jealousy, inheritance—and turns it into a clean diagram where one mother becomes “bondage” and the other “promise,” then calls the diagram freedom. The desire underneath is obvious: to be born from the right woman, to have the right origin, to escape the humiliating fact that faith is always entangled with flesh and history. “Jerusalem above” is not a city but a fantasy of immaculate belonging, a mother who never embarrasses you.\n\nLuke’s Jesus refuses to perform, not because signs are bad, but because the hunger for a sign is the hunger to control the story. He offers Jonah: not proof, but a wound—three days in the dark, the obscene comedy of being swallowed, the shame of being saved without deserving it. Nineveh and the queen are invoked as foreign witnesses because they expose the local addiction to entitlement. The dread is that outsiders recognize what the insiders keep bargaining for; the desire is to be absolved without surrender.\n\nTogether they sound like a single threat: stop asking for guarantees and stop clinging to respectable origins. Freedom is not comfort. It is the terrifying possibility that you can’t blame the mother, the law, the generation, or the lack of signs anymore.",
+    "synthesis": "God constitutes his people by promise fulfilled in Christ, not by flesh or legal bondage. Refusal of that fulfillment is judged by the very outsiders who once responded to lesser light.",
+    "gospel": [
+      {
+        "text": "Jesus frames the crowd as a trial scene: contemporaries are measured against outsiders who responded with less data and fewer privileges. The “more than” comparisons establish an escalation—wisdom and prophecy culminate here—so refusal is not ignorance but culpable resistance to a greater visitation.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s argument is juridical and political: Scripture is read as a charter that assigns status (heir or slave) and then issues a command to resist re-enslavement. The citation of the barren woman functions as a reversal principle—fruitfulness is detached from visible power and attached to divine initiative—so the community’s identity cannot be grounded in present social arrangements or legal observances.",
+        "lines": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Two sons: history already split into rival inheritances.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“According to the flesh” versus “by promise”: origin as verdict.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Allegory declared: the text refuses to stay merely genealogical.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Jerusalem… above”: citizenship relocated; motherland becomes metaphysical.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Freedom is not mood but purchase: “Christ has made us free.”",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sign-demand as moral diagnosis: curiosity named “wicked.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jonah’s sign: not spectacle, but a person as indictment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Foreign queen as prosecutor: distance traveled becomes evidence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Nineveh condemns by repentance: the past returns as courtroom witness.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the age-old title of the Pillar, grant us, through her intercession, strength in faith, surety in hope, and steadfastness in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the age-old title of the Pillar, grant us, through her intercession, strength in faith, surety in hope, and perseverance in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the age-old title of the Pillar, grant us, through her intercession, strength in faith, surety in hope, and steadfastness in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the age-old title of the Pillar, grant us, through her intercession, strength in faith, steadfastness in hope, and perseverance in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the age-old title of the Pillar, grant us, through her intercession, strength in faith, surety in hope, and steadfastness in love. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who in the glorious Mother of your Son have granted heavenly protection to all who invoke her under the ancient title of the Pillar, grant us, through her intercession, strength in faith, surety in hope, and perseverance in love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For it is written that Abraham had two sons: the one by a bondwoman and the other by a free woman.",
+        "But he who was of the bondwoman was born according to the flesh: but he of the free woman was by promise.",
+        "Which things are said by an allegory. For these are the two testaments. The one from Mount Sina, engendering unto bondage, which is Agar.",
+        "But that Jerusalem which is above is free: which is our mother.",
+        "For it is written: Rejoice, thou barren, that bearest not: break forth and cry thou that travailest not: for many are the children of the desolate, more than of her that hath a husband.",
+        "So then, brethren, we are not the children of the bondwoman but of the free: by the freedom wherewith Christ has made us free.",
+        "Stand fast and be not held again under the yoke of bondage."
+      ],
+      "lineRefs": [
+        "4:22",
+        "4:23",
+        "4:24",
+        "4:26",
+        "4:27",
+        "4:31",
+        "5:1"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 4:22-24,26-27,31–5:1",
+      "reference": "Galatians 4:22-24,26-27,31–5:1",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the multitudes running together, he began to say: This generation is a wicked generation. It asketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.",
+        "For as Jonas was a sign to the Ninivites; so shall the Son of man also be to this generation.",
+        "The queen of the south shall rise in the judgment with the men of this generation and shall condemn them: because she came from the ends of the earth to hear the wisdom of Solomon. And behold more than Solomon here.",
+        "The men of Ninive shall rise in the judgment with this generation and shall condemn it; Because they did penance at the preaching of Jonas. And behold more than Jonas here."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:29-32",
+      "reference": "Luke 11:29-32",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 28th week of Ordinary Time",
+        "key": "mondayOfThe28thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/12.html",
+    "title": "Gospel and Word of the Day - 12 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-12"
+}
