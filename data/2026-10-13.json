@@ -1,0 +1,249 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c2c13634b3dbc879cc7c8eb930627cfc4071106941aedcd75822daad4db5a367",
+        "inputSha256": "89f0c88e2561e26c23cf96a4d6d9b01f4f222e55db9a10e38810ac79bbccadff",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0638d4794ff6602913199b2cbe2a61355fa0c67cd2b28cb4daa707cdf5f96f97",
+        "inputSha256": "b7ad756ece00098847b7dfaef4be3861f639cce3fe5caf161fe3ff56cd33b11d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "43a50e62aa11cf4b79a280de2c67066650a2646488823be33e4f23d4dd300ee1",
+        "inputSha256": "bb8b670c7da85e7960ccb9fa3fa900c5ec202be0e236df70caa74cff8a958cbb",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-13T07:41:55.278Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s freedom is not permission but a psychological exit from compulsive self-justification. Circumcision becomes the emblem of an anxious bargain with reality: if I perform the mark, I can stop fearing contingency. The trap is totalization; once you anchor worth in a rule, the rule metastasizes into a whole identity that must be defended, policed, and endlessly paid for. “Faith working through charity” reads as integration: trust that releases the self from scorekeeping, and love as the outward sign that the inner economy has changed.\n\nLuke stages the same conflict as hygiene theater. The Pharisee’s astonishment is the reflex of a mind trained to read virtue off surfaces. Jesus targets the split self: polished exterior, predatory interior. The shock is that purity is not achieved by scrubbing but by generosity; almsgiving is not a ritual add-on but a reorientation of desire away from grasping. Cleanliness becomes the byproduct of relinquishment.\n\nSemina Verbi: Stoicism’s distinction between externals and the ruling faculty parallels the move from washing to inner disposition, though this is speculation when mapped onto almsgiving. In Buddhism, sila without prajna can harden into self-making; the critique of clinging to forms echoes the warning that a mark can void the point. In Hindu bhakti, devotion expressed as seva resembles “faith working through love,” where action is not merit-hoarding but surrender. In Sufism, riya (performative piety) matches the polished cup, while zakat and futuwwa gesture toward cleansing by giving.",
+    "excursus": "Paul’s “freedom” is not comfort. It is the terror of being cut loose from the old machinery of innocence. Circumcision is not merely a ritual mark; it is the fantasy that the body can be edited into safety, that a small, sanctioned wound can purchase a life without dread. Paul calls it bondage because it turns desire into bookkeeping: do this, owe that, pay forever. The law becomes a creditor living inside you, and Christ “profits nothing” because you have chosen a system where profit is the only meaning.\n\nLuke stages the same sickness at a dinner table. The Pharisee’s shock at unwashed hands is not hygiene; it is the wish to keep violence respectable. Jesus names what the polish hides: rapine and iniquity, hunger dressed as manners. The cup is clean because it wants to be seen clean. The inside is dirty because it wants what it wants.\n\nThen the hard, heterodox turn: “Give alms” is not a pious add-on; it is a psychological hack against the self’s obsession with purity. Stop scrubbing the surface and bleed outward. Let your surplus leave you. Charity is not niceness but a controlled loss, a chosen diminishment that breaks the law’s addiction to control. Faith “working by charity” is faith that accepts contamination, refuses the fantasy of a sealed self, and finds cleanness not by washing but by surrender.",
+    "synthesis": "Justification cannot be partitioned between Christ and law; to add a legal ground is to forfeit grace. God’s cleansing targets the interior and manifests outwardly as merciful action, not ritual display.",
+    "gospel": [
+      {
+        "text": "The meal scene is a trap that becomes a courtroom. Jesus accepts the table, then reverses the host’s evaluative gaze: the Pharisee’s scrutiny of ritual becomes exposure of moral economy, and the remedy is not more water but a redistribution of goods that breaks the interior logic of rapine.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul relocates eschatology: the community “waits” not for legal vindication but for a promised justice received in the Spirit. The argument is temporal as much as juridical—law-keeping tries to seize a verdict now; faith consents to God’s timing and mode of acquittal.",
+        "lines": [
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Freedom is framed as posture: stand, do not stoop back into harness.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A surgical sign becomes a total loss: one cut, and “profit” goes to zero.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The law is not sampled; it is a whole debt instrument.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "To seek justification in law is to evacuate Christ—grace is not a supplement.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The only currency named is operative faith; charity is its motion, not its ornament.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The accusation is silent; the judgment happens “within himself.”",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Outside polished, inside predatory: cleanliness as camouflage for theft.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Creation logic as indictment: the Maker’s jurisdiction includes the hidden.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Alms are prescribed as remainder—what is left after self is dethroned becomes cleansing.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, grant that we may love you with all our heart, and that our love may extend also to all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Increase, Lord, our faith, so that the praise that comes from our lips may always be accompanied by the fruits of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we stand before you in prayer, Lord, we implore your mercy and ask that the sentiments of our heart may always be in harmony with the words of our mouth. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Stand fast and be not held again under the yoke of bondage.",
+        "Behold, I Paul tell you, that if you be circumcised, Christ shall profit you nothing.",
+        "And I testify again to every man circumcising himself that he is a debtor to do the whole law.",
+        "You are made void of Christ, you who are justified in the law: you are fallen from grace.",
+        "For we in spirit, by faith, wait for the hope of justice.",
+        "For in Christ Jesus neither circumcision availeth any thing nor uncircumcision: but faith that worketh by Charity."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 5:1-6",
+      "reference": "Galatians 5:1-6",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And as he was speaking, a certain Pharisee prayed him that he would dine with him. And he going in, sat down to eat.",
+        "And the Pharisee began to say, thinking within himself, why he was not washed before dinner.",
+        "And the Lord said to him: Now you, Pharisees, make clean the outside of the cup and of the platter: but your inside is full of rapine and iniquity.",
+        "Ye fools, did not he that made that which is without make also that which is within?",
+        "But yet that which remaineth, give alms: and behold, all things are clean unto you."
+      ],
+      "lineRefs": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:37-41",
+      "reference": "Luke 11:37-41",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 28th week of Ordinary Time",
+        "key": "tuesdayOfThe28thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/13.html",
+    "title": "Gospel and Word of the Day - 13 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-13"
+}
