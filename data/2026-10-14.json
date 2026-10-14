@@ -1,0 +1,257 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "918363325dab83c019ec0f9680070f2c2604827e45ff9572201c0a9df7980ff4",
+        "inputSha256": "25334b49904c066c41559d8aad27cd97eecc128916eb8bce1e4e714ac27f71ae",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "781606d7b0c251f8487be3f975cd8d0ddc4691baa09d7310aa1037c2316de6d5",
+        "inputSha256": "06bfea11feeff21426edf48d27532d373c750f393b84c5992c6e32c7098e2a5a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "40c062828723f9e6c12638d6739b6434da3d748ef4dae0a515e118b5f7015022",
+        "inputSha256": "60a59dd66b40d3b95aff775d571515cb3133090abfac1ff3404f15b6042ceac0",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-14T06:07:50.159Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “led by the spirit” reads like an interior jurisdiction replacing an exterior one: the self governed from within rather than managed by compliance. That split between “works” and “fruit” echoes Aristotle’s virtue as a stable disposition that ripens through habituation, not a checklist of acts; and it brushes close, speculatively, to Stoic oikeiosis, where the good life is an alignment with a rational nature that makes certain actions feel alien. The crucifixion image is psychological violence turned inward: not self-hatred, but the deliberate breaking of compulsive loops, a hard re-training of desire.\n\nLuke’s critique targets performative piety and prestige economy: the sacred used as social capital. That resembles the Buddha’s warnings against sila as mere display without prajna and karuna, and Confucius’s suspicion of li when it becomes empty ceremony without ren. The “unmarked graves” line has the bite of Jung’s shadow: corruption that is unconscious is most contagious. The lawyers’ burdens evoke Kafka’s bureaucratic torment, but also, more charitably, the Hindu insight (speculative) that dharma without compassion becomes a crushing mechanism; rule-keeping can be a way to avoid love, and love is the one thing no rule can substitute for.",
+    "excursus": "Paul’s “Spirit” is not serenity; it’s a jailbreak. “Not under the law” is the dangerous line, because it admits what everyone knows and no one says: law is a machine for managing desire, not curing it. So he draws up his lurid catalog of “flesh” like a prosecutor who can’t stop enjoying the evidence. The list is not just sex and drink; it’s social fever—enmities, factions, the sweet intoxication of being right. That’s the flesh: the self swollen into a crowd, craving mirrors and enemies.\n\nThen he offers “fruit,” and it reads like a new etiquette for a different body. Patience, mildness, continency: not haloed virtues, but survival skills for a person who has stopped feeding the inner riot. “Crucified their flesh” isn’t piety; it’s psychic violence turned inward, the cutting-off of the old pleasures of grievance and display. He knows it hurts. He calls it life.\n\nJesus, meanwhile, attacks the same addiction from the other side: the addiction to moral accounting. The Pharisee tithes herbs because it feels like control—tiny, measurable righteousness, a daily fix. Judgment and love are messier; they can’t be counted, and they expose you. So the law becomes theater: best seats, public greetings, the body angled toward applause.\n\n“Unmarked graves” is the cruelest image: holiness as contamination. People step on you and don’t know they’re being infected by your fear. The lawyers are worse, because they turn dread into policy, loading burdens they never shoulder. This is the real “flesh” dressed as “law”: a way to keep desire intact by punishing it in others. Spirit, in both readings, is not niceness. It is the refusal to use rules as a substitute for love, and the terror of losing the identity built on rules.",
+    "synthesis": "The Spirit produces a life the law cannot indict, while legalistic religion produces burdens and hidden death. True righteousness is measured by judgment and the charity of God, not by meticulous display.",
+    "gospel": [
+      {
+        "text": "The three woes move from distorted priorities (tithing without judgment) to distorted desire (status) to distorted ontology (hidden graves), then widen to the legal experts who systematize the distortion. The interruption in v.4 exposes the real concern: not truth, but being implicated; Jesus answers by naming the mechanism—religion turned into unlivable load administered at a distance.",
+        "lines": [
+          1,
+          4,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s contrast is not law versus chaos but two economies of production: “works” that can be manufactured and displayed versus “fruit” that grows from an indwelling source. The list of vices culminates in exclusion from the kingdom, while the list of virtues culminates in a life-pattern (“walk”)—a sustained gait, not episodic compliance.",
+        "lines": [
+          5,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Led” displaces “ruled”: guidance replaces coercion; law loses jurisdiction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The flesh is not subtle: a catalog, public, enumerable; sin as inventory.",
+      "lines": [
+        2,
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Such like” widens the net; the warning is not about edge-cases but trajectory.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No law against fruit: virtue is not merely permitted; it is unprosecutable.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Crucifixion is not pruning; the self is executed with its appetites.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Herbs weighed; justice neglected. Precision becomes a decoy for omission.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Piety as seating chart: honor sought where God is named.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Invisible tombs: death disguised as normality; contamination without warning.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Burden without touch: authority that commands but will not share weight.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may continually go before us and accompany us, so that we may always be ready to do good. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your holy covenant, consecrated by the new sacrament of the Blood of the Lamb, that your people may obtain forgiveness of their sins and a constant increase of salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Remember, Lord, your mercy, and since you fill the hungry with heavenly gifts, come to the aid of our poverty with the abundance of your riches. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But if you are led by the spirit, you are not under the law.",
+        "Now the works of the flesh are manifest: which are fornication, uncleanness, immodesty, luxury,",
+        "Idolatry, witchcrafts, enmities, contentions, emulations, wraths, quarrels, dissensions, sects,",
+        "Envies, murders, drunkenness, revellings, and such like. Of the which I foretell you, as I have foretold to you, that they who do such things shall not obtain the kingdom of God.",
+        "But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity,",
+        "Mildness, faith, modesty, continency, chastity. Against such there is no law.",
+        "And they that are Christ's have crucified their flesh, with the vices and concupiscences.",
+        "If we live in the Spirit, let us also walk in the Spirit."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Galatians 5:18-25",
+      "reference": "Galatians 5:18-25",
+      "heading": "A reading from the Letter of St. Paul to the Galatians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But woe to you, Pharisees, because you tithe mint and rue and every herb and pass over judgment and the charity of God. Now these things you ought to have done, and not to leave the other undone.",
+        "Woe to you, Pharisees, because you love the uppermost seats in the synagogues and salutations in the marketplace.",
+        "Woe to you, because you are as sepulchres that appear not: and men that walk over are not aware.",
+        "And one of the lawyers answering, saith to him: Master, in saying these things, thou reproachest us also.",
+        "But he said: Woe to you lawyers also, because you load men with burdens which they cannot bear and you yourselves touch not the packs with one of your fingers."
+      ],
+      "lineRefs": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 11:42-46",
+      "reference": "Luke 11:42-46",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Callistus I, Pope and Martyr",
+        "key": "saintCallistusIPopeAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/14.html",
+    "title": "Gospel and Word of the Day - 14 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/14.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-14"
+}
