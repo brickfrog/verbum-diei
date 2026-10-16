@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "59a199c7082cddcd811d09a6412d01d09ab01161b16d7ae52d49c8b9220003bf",
+        "inputSha256": "762b3a45d5e81fa5e5cd1c7067d06475f19d26ff6d25f34b4face2d8cd0a3e32",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2ef0f620e5d55267a0c1715bee64093d6181bbd5f92789c6f5610125d700c4f9",
+        "inputSha256": "d949c7fc51784ef469895241744b1b28b95a0b5069f9c8194ad19d780c304c99",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "46460d97ddd359a0c8958dc0d7db6dadcec1e4ec6cd6d1c98e1d243dc3cc10c4",
+        "inputSha256": "cf2176888a9a6315c8f05ed19b05f9bbd09c93d7d9102d7bdfefae336bfcde3f",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-16T05:51:09.561Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “lot” and “pledge” describe a psyche stabilized by being claimed: identity as inheritance, the self as already spoken-for. That sealing functions like a deep imprint, a counterweight to volatility and shame, so the person can act without constantly renegotiating worth.\n\nLuke’s warning targets performative piety as a ferment that spreads through crowds. Hypocrisy is not mere lying; it is a split self that survives by managing appearances. The promise that everything hidden will surface is psychological inevitability: what is repressed leaks, what is staged collapses under time, and the crowd’s pressure makes the leak louder.\n\nThe fear pivot is the cure: trade fear of social violence for fear of ultimate reality. Once the deepest allegiance is set, lesser threats shrink. The sparrows and numbered hairs are the antidote to crowd-anxiety: you are not a statistic.\n\nSpeculation: the “seal” resembles Hindu bhakti’s sense of being marked by the beloved’s name, and Pure Land Buddhism’s entrusting (shinjin) that relocates anxiety from self-performance to received assurance. The unveiling of the hidden echoes the Upanishadic satya that cannot be permanently covered, and the Qur’anic insistence that what is in breasts will be brought to account, not as surveillance but as truth’s gravity. The sparrows’ care parallels Stoic providence and Daoist attention to the small and overlooked, where the cosmos does not waste even the least thing.",
+    "excursus": "Paul’s “predestinated” doesn’t soothe; it tightens the room. You are “called by lot,” drafted by a will that “worketh all things,” and the self you thought you owned becomes a possession tagged for “acquisition.” The Spirit is not a warm presence but a seal, a mark that says you have been claimed. The praise of glory is the public language that makes the capture sound like celebration.\n\nLuke puts the same pressure into the body. The crowd crushes, and Jesus offers not comfort but exposure: nothing stays covered. Hypocrisy is leaven because it rises in the dark, and the dread is that your private coping will become your public sentence, shouted from rooftops. Then he sharpens the fear: don’t fear killers; fear the one who can kill and still keep you, who can throw you away into hell. The sparrows and the numbered hairs are not tenderness; they are surveillance. You are not forgotten because you are never unobserved.\n\nDesire slips in as the perverse relief of being seen all the way through. If everything will be revealed, you can stop curating. If you are sealed, you can stop pretending you are free. The texts offer an exchange: surrender the fantasy of privacy and autonomy, and in return receive the dark consolation of belonging to a power that cannot lose track of you, not even when you want to disappear.",
+    "synthesis": "God’s will governs history toward his glory, marking believers now with the Spirit as the first installment of their final inheritance. Therefore disciples must order fear and speech under divine judgment, not human power.",
+    "gospel": [
+      {
+        "text": "Jesus calibrates courage by relocating the axis of threat: bodily death is demoted, while ultimate accountability is elevated. The sparrows and hairs are not sentiment but a logic of governance—if the trivial is administered, then persecution and confession occur under a higher jurisdiction, making fear a matter of proper hierarchy.",
+        "lines": [
+          4,
+          6,
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage frames salvation as teleological: existence is ordered toward “praise,” and the end is not merely rescue but doxology. The inheritance language makes the community an eschatological estate-in-waiting; redemption is described as acquisition, implying ownership transfer and a new claimant.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Called by lot”: election as allocation, not achievement.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Worketh all things”: no remainder outside the will’s jurisdiction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hearing precedes sealing; the mark follows assent, not ancestry.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Spirit as “pledge”: inheritance arrives as down payment, not possession.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Leaven: small, pervasive; hypocrisy is a quiet ferment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The universe is an audit; concealment is temporary.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Private speech is public property in the end.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fear is reassigned: from human violence to divine judgment.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Numbered hairs: providence counts what you don’t count.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that your grace may go before us and accompany us, and continually sustain us in good works. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, for your abundant grace, that it may help us to follow the path of your commandments, and so enjoy your consolation in this life and attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that your Son should suffer for the salvation of all, grant that, inflamed with your love, we may know how to offer ourselves to you as a living sacrifice. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "In whom we also are called by lot, being predestinated according to the purpose of him who worketh all things according to the counsel of his will.",
+        "That we may be unto the praise of his glory: we who before hoped in Christ:",
+        "In whom you also, after you had heard the word of truth (the gospel of your salvation), in whom also believing, you were signed with the holy Spirit of promise.",
+        "Who is the pledge of our inheritance, unto the redemption of acquisition, unto the praise of his glory."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 1:11-14",
+      "reference": "Ephesians 1:11-14",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when great multitudes stood about him, so that they trod one upon another, he began to say to his disciples: Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+        "For there is nothing covered that shall not be revealed: nor hidden that shall not be known.",
+        "For whatsoever things you have spoken in darkness shall be published in the light: and that which you have spoken in the ear in the chambers shall be preached on the housetops.",
+        "And I say to you, my friends: Be not afraid of them who kill the body and after that have no more that they can do.",
+        "But I will shew you whom you shall fear: Fear ye him who, after he hath killed, hath power to cast into hell. Yea, I say to you: Fear him.",
+        "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?",
+        "Yea, the very hairs of your head are all numbered. Fear not therefore: you are of more value than many sparrows."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 12:1-7",
+      "reference": "Luke 12:1-7",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Hedwig, Religious/Saint Margaret Mary Alacoque, Virgin",
+        "key": "saintHedwigReligiousSaintMargaretMaryAlacoqueVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/16.html",
+    "title": "Gospel and Word of the Day - 16 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-16"
+}
