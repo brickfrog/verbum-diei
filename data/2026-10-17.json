@@ -1,0 +1,251 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "18efb33d0ed3a8502a9db6ccce1f6e6a513c12207ee18892e627e11067814f77",
+        "inputSha256": "7a6d0613e191fd166854389a660744eb8cd601b7d75e44cb8b894aec13e77db1",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "5b0db2c6aa1218046c0b1d98e48aab324159a8bb83ac8c0314cc03a484fa1527",
+        "inputSha256": "ff57da0dfcd46a31e5517c8a39a272383e63e0518eb06ac7916b22bf81fc5915",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e54e07481198052a3525704d7584dd9f13e582ae6dad207de685662080e43bfd",
+        "inputSha256": "47c4c33d2d7a00a75cc48d9face392b389c2bbb5b7c9ae7a62114d3fbb8a0109",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-17T05:35:27.142Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “eyes of the heart” reads like the Platonic turn from shadow to intelligible light, but interiorized: knowledge as a moral refocusing, not a cleverer argument. The “fullness” that fills “all in all” touches Stoic logos and Neoplatonic emanation, though here the cosmos is not an impersonal order but a personal center that gathers scattered life into one body; speculation, but it resembles the Upanishadic move where the many are held in the One without being erased.\n\nLuke’s demand to confess under pressure parallels the Bhagavad Gita’s insistence on steadfastness in action without self-protective calculation, and the Zen suspicion of rehearsed speech: the right word arrives when the self stops managing outcomes. The “Spirit will teach you in that hour” is close to Daoist wu-wei—speech as unforced alignment—yet with a sharper psychological edge: integrity is tested in public, where fear makes the tongue split.\n\nThe “blasphemy against the Holy Spirit” can be read as the hardening of the inner witness: the refusal to recognize truth when it is already experienced as truth. That resembles the Buddhist account of willful ignorance that becomes a habit of mind, and the Vedantic idea that denial of the light by which one knows is a self-severing. Speculation, but the unforgivability is less a sentence than a diagnosis: when the faculty of repentance is amputated, pardon has nowhere to land.",
+    "excursus": "Paul’s gratitude is not tenderness; it is surveillance. He has “heard” of their faith and love, and now he prays that their inner eyes be lit up—not to comfort them, but to bring them under a single, blinding story. “Inheritance,” “power,” “head over all”: the language swells like empire. Christ is installed above every name, every principality, every future. The dread is that nothing remains outside the hierarchy, not even your private mind; even your hope is drafted into the system.\n\nLuke makes the cost explicit. Confession is a courtroom performance staged on two levels at once: before men now, before angels later. Desire for recognition becomes the hook; you speak to be spoken for. Denial is not merely error but betrayal, and the threat is cosmic embarrassment.\n\nThen the strangest line: an insult against the Son of man can be forgiven, but not against the Holy Ghost. The human face of God can absorb rejection; the voice inside you cannot. The unforgivable act is to call that inner pressure a lie, to refuse the script when it rises in your throat.\n\n“Do not be anxious,” he says, because anxiety is the last shred of agency. When hauled before powers, you are promised words “in the same hour.” It reads like consolation, but it is also possession: your defense will be spoken through you. The passages together offer a terrible bargain—belong to the all-filling Body and you will never be alone with your own speech again.",
+    "synthesis": "God has enthroned the risen Christ as universal head, and public allegiance to him is the criterion by which heaven ratifies or rejects human speech.",
+    "gospel": [
+      {
+        "text": "The scene is juridical: denial triggers a corresponding verdict, yet the promised assistance relocates agency in testimony—disciples are responsible for allegiance, not for rhetorical manufacture; the Spirit supplies the utterance that makes allegiance public.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s report of their faith and love is not congratulation but leverage: it authorizes intercession as the next necessary act, shifting the community from performance to petition.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The passage builds a political cosmology: power is not an abstract attribute but a regime that has already been enacted in Christ and now orders every rival “name,” with the Church positioned as the site where that regime is embodied and displayed.",
+        "lines": [
+          5,
+          7,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“God of…Jesus Christ” then “Father of glory”: hierarchy named, then radiance named.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Eyes of your heart”: cognition relocated; knowledge becomes illumination, not inference.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Resurrection and enthronement yoked: life restored, then authority installed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Under his feet” and “head over”: total subjection paired with organic governance.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Confession is mirrored speech: human court answered by angelic court.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A graded offense: insult endures pardon; Spirit-blasphemy breaks the channel of pardon.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Dragged into institutions; anxiety forbidden: the trial becomes a stage for another Speaker.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that the witness of your martyrs should bring glory to the whole Church, the Body of Christ; grant that, just as the martyrdom we now commemorate was for Saint Ignatius of Antioch the cause of eternal glory, so it may also obtain for us your constant protection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that the witness of your martyrs should bring glory to the whole Church, the Body of Christ; grant that, as the martyrdom we now commemorate was for Saint Ignatius of Antioch the cause of eternal glory, so it may also obtain for us your constant protection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our whole life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, you willed that the witness of your martyrs should bring glory to the whole Church, the Body of Christ; grant that, just as the martyrdom we now commemorate was for Saint Ignatius of Antioch the cause of eternal glory, so it may also obtain for us your constant protection. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always upon us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Wherefore, I also, hearing of your faith that is in the Lord Jesus and of your love towards all the saints,",
+        "Cease not to give thanks for you, making commemoration of you in my prayers,",
+        "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and of revelation, in the knowledge of him:",
+        "The eyes of your heart enlightened that you may know what the hope is of his calling and what are the riches of the glory of his inheritance in the saints.",
+        "And what is the exceeding greatness of his power towards us, who believe according to the operation of the might of his power,",
+        "Which he wrought in Christ, raising him up from the dead and setting him on his right hand in the heavenly places.",
+        "Above all principality and power and virtue and dominion and every name that is named, not only in this world, but also in that which is to come.",
+        "And he hath subjected all things under his feet and hath made him head over all the church,",
+        "Which is his body and the fulness of him who is filled all in all."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 1:15-23",
+      "reference": "Ephesians 1:15-23",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And I say to you: Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God.",
+        "But he that shall deny me before men shall be denied before the angels of God.",
+        "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but to him that shall blaspheme against the Holy Ghost, it shall not be forgiven.",
+        "And when they shall bring you into the synagogues and to magistrates and powers, be not solicitous how or what you shall answer, or what you shall say.",
+        "For the Holy Ghost shall teach you in the same hour what you must say."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 12:8-12",
+      "reference": "Luke 12:8-12",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Ignatius of Antioch, Bishop and Martyr",
+        "key": "saintIgnatiusOfAntiochBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/17.html",
+    "title": "Gospel and Word of the Day - 17 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-17"
+}
