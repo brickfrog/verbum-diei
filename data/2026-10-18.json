@@ -1,0 +1,256 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0d4ff38f7764d799c8a48f0997f95f06843f60880d4501176911eaa95555a77a",
+        "inputSha256": "fde12df5591e2b7e197fba898d16cc889ec50601e30f411c8a1df84a267c3ffe",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2c4a3cef159f893eaaa1a42183695880f5ffafdb8fc37809df6a703b48831c95",
+        "inputSha256": "789a4b1d4f6b7f1ba2b8ea74ac35c0e335ba1c95167254905435315b5ce259a4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "a274154ded4ca1a35c60897b4c01b6abe5c612b54a25d25e6c91c625837b82b1",
+        "inputSha256": "574d732c32185561c7b58ecf8a079691fb1c1d5ef5678bd4e522e5e461f8d08b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-18T05:52:57.682Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Isaiah’s Cyrus is the Taoist “useful emptiness” in political form: the sage-work happens through someone who doesn’t name the Source, yet becomes its instrument; that’s speculation, but it fits the text’s psychology of unconscious vocation. It also echoes the Bhagavad Gita’s insistence that action can be carried by a larger order without the actor’s full comprehension, a kind of dharma that precedes self-interpretation.\n\n“Whose image?” in Matthew rhymes with Stoic and Platonic moral accounting: external tokens belong to the city, but the self bears another stamp, and that stamp defines ultimate allegiance. It also brushes against the Hindu distinction between vyavaharika (conventional transaction) and paramarthika (ultimate truth): pay the coin in the lower register, keep the heart in the higher. In Buddhist terms, the coin is a designation; the mind’s clinging to it is the real tax.\n\nIn Jewish and Islamic monotheism, too, sovereignty is total while administration is delegated: a single God can work through an outsider king, and a believer can obey civil order without confusing it with the Absolute. The shared thread is a disciplined double vision: honor the provisional structures that keep life functioning, but refuse to let them name what you are.",
+    "excursus": "Isaiah is not comforting Israel with a tidy providence; he is confessing a terrifying economy in which power is God’s favorite instrument, even when it is blind. Cyrus is “anointed” without consent, drafted into a role he does not recognize, his victories made into someone else’s message. The repeated “thou hast not known me” is the chill: history advances on the backs of men who think they are acting freely, while a voice claims their strength as borrowed. Monotheism here is not a lullaby but a takeover: there is “none else,” so even the empire’s fist is folded into the same hand.\n\nIn Matthew, Jesus doesn’t liberate anyone from Caesar; he clarifies the trap: you already belong to the image you carry. The coin bears Caesar’s face, so pay him his little sacrament of metal. But the real accusation is implicit: if Caesar’s image on silver establishes his claim, then God’s image on the human body establishes a claim far more invasive. “Render to God” is not a pious remainder; it is the demand for the self, the conscience, the desire that wants safety in compromise. The dread is that you cannot escape tribute: the state takes your money, and the divine takes you. The tension is not between two realms but between two owners, one obvious and one absolute, and you feel the seduction of the obvious because it costs less.",
+    "synthesis": "God’s sovereignty can employ pagan power without sharing it. Civil authority has real but bounded claims; God’s claim is total because his image is on the human being.",
+    "gospel": [
+      {
+        "text": "The question is engineered to force sedition or collaboration; Jesus refuses the binary by relocating the dispute from legality to jurisdiction, using the coin itself as evidence of a limited, derivative claim.",
+        "lines": [
+          3,
+          5,
+          7
+        ]
+      },
+      {
+        "text": "The saying establishes a hierarchy without a map: Caesar receives what bears his mark; God’s claim is left unbounded, implying a remainder that swallows the whole person.",
+        "lines": [
+          7
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The oracle reframes imperial history as divine administration: Cyrus is not a rival to Israel’s God but an instrument deployed for Israel’s sake, collapsing the usual boundary between covenant people and foreign empire.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The repeated exclusivity (“none else”) is not mere polemic; it is the theological ground for interpreting world events as a single coherent will rather than competing divine jurisdictions.",
+        "lines": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "A pagan named “anointed”: election without intimacy; the hand that empowers also humiliates kings.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Named, fashioned, and ignorant: vocation precedes recognition; God’s use is not God’s friendship.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Monotheism stated as monopoly; “I girded thee” makes sovereignty tactile—strength as a loan.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "East–west totality: the claim is geographic, not tribal; knowledge is the intended conquest.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech as a snare: they hunt with words because they cannot with power.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Flattery as bait: truth is invoked to weaponize it; “no respecter” is said to force a respect.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He names the act: temptation is the real question; hypocrisy is the currency here.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Image and inscription: politics reduced to iconography; ownership argued from imprint.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may give ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may give ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may devote ourselves to you faithfully and serve you with a sincere heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may give ourselves to you faithfully and serve you with a sincere heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may devote ourselves to you faithfully and serve you with a sincere heart. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may give ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Thus saith the Lord to my anointed Cyrus, whose right hand I have taken hold of, to subdue nations before his face, and to turn the backs of kings, and to open the doors before him, and the gates shall not be shut.",
+        "For the sake of my servant Jacob, and Israel my elect, I have even called thee by thy name: I have made a likeness of thee, and thou hast not known me.",
+        "I am the Lord, and there is none else: there is no God besides me: I girded thee, and thou hast not known me:",
+        "That they may know who are from the rising of the sun, and they who are from the west, that there is none besides me. I am the Lord, and there is none else:"
+      ],
+      "lineRefs": [
+        "1",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Isaiah 45:1,4-6",
+      "reference": "Isaiah 45:1,4-6",
+      "heading": "A reading from the Book of Isaiah",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then the Pharisees going, consulted among themselves how to insnare him in his speech.",
+        "And they sent to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker and teachest the way of God in truth. Neither carest thou for any man: for thou dost not regard the person of men.",
+        "Tell us therefore what dost thou think? Is it lawful to give tribute to Caesar, or not?",
+        "But Jesus knowing their wickedness, said: Why do you tempt me, ye hypocrites?",
+        "Shew me the coin of the tribute. And they offered him a penny.",
+        "And Jesus saith to them: Whose image and inscription is this?",
+        "They say to him: Caesar's. Then he saith to them: Render therefore to Caesar the things that are Caesar's; and to God, the things that are God's."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 22:15-21",
+      "reference": "Matthew 22:15-21",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "29th Sunday of Ordinary Time",
+        "key": "29thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/18.html",
+    "title": "Gospel and Word of the Day - 18 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/18.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-18"
+}
