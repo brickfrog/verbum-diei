@@ -1,0 +1,299 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "7b9d5ab0ac8dc182679e4d726ff60e123f279cd12c21982c771415e98fd8d67a",
+        "inputSha256": "c186f8775989c5f7399524b7751117d5ca95c848223b8a304edf652fee80650a",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0dbe85d3f76ab6ffdac3d2817abdd592f5f56b5de5c18e64b022a98706485414",
+        "inputSha256": "b77532c05e63e8e1b014e28a8ba6ac7e1b2616128e87e0cda9d6fa609502d64d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9c539f2840a1a1669334dba4ae6413e72e91dfc899a3657a6e52bff29ab93c79",
+        "inputSha256": "b004181ace0947f115a8cfd85daad63beec040b8915bd2f40ffa3beb855a1f93",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-21T06:01:10.729Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “mystery” reads like a psychic reorganization: the self stops hoarding belonging as a bloodline or résumé and accepts a larger identity that arrives as gift, not conquest. That expansion is not cozy; it humiliates the ego (“least of all”) and conscripts it into service. The church, in this key, is less a club than a training ground where private illumination is forced to become public responsibility, even under the gaze of unseen “powers,” the inner and outer authorities that police who gets to count.\n\nLuke tightens the screw: time is the thief, and delay is the drug. The steward is the part of you entrusted with other people’s nourishment; when it decides the reckoning is far off, it turns predatory, then anesthetizes itself with excess. The punishment is not arbitrary; it is the natural consequence of self-deception hardening into character. Knowledge increases liability: awareness is not a decoration but a debt.\n\nSemina Verbi: the inclusion of outsiders echoes the Stoic cosmopolis and the Mahayana bodhisattva’s widening of concern beyond the in-group. The watchfulness under uncertainty resembles Zen’s beginner’s mind and Sufi muraqaba, attention that refuses the narcotic of “later.” The graded accountability parallels the Bhagavad Gita’s dharma logic—greater station, greater burden—and, speculatively, the Egyptian weighing of the heart: what you were given becomes the measure used on you.",
+    "excursus": "Paul sells “mystery” as liberation, but it reads like recruitment into an intelligence network. He’s been briefed by “revelation,” entrusted with a secret once hoarded by heaven, and now tasked to leak it—carefully—through an institution. He calls himself the least, the classic posture of someone claiming moral immunity while consolidating authority. The “unsearchable riches” are less comfort than bait: a promise big enough to make strangers consent to being reorganized into “one body,” a new corporate self where private life becomes church business.\n\nLuke supplies the mood that Paul’s triumphal language tries to bury: the house is never safe. The master returns like a thief, not a bridegroom; vigilance is not love but dread. The steward’s temptation is not abstract sin but the ordinary intoxication of power when oversight feels delayed: he hits the servants, eats the stores, drinks himself numb. The apocalypse is an audit, and the deepest terror is graduated punishment—more knowledge means more bruises. “Much is required” isn’t noble responsibility; it’s the logic of extraction. Grace becomes a workload, and desire for belonging is weaponized into constant readiness under an unseen gaze.",
+    "synthesis": "God discloses the once-hidden mystery in Christ to create one body and to open confident access to himself. Therefore every entrusted office is judged by fidelity, with greater light and greater gifts incurring greater demand.",
+    "gospel": [
+      {
+        "text": "The command to readiness is immediately tested by Peter’s scope-question. Jesus answers by refusing to narrow the audience; instead he defines a role whose obligations are universal wherever delegated authority exists.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "Reward is not leisure but expanded jurisdiction: fidelity in small domestic governance is answered with wider possession. Eschatology here is administrative—what you do with entrusted goods determines what you are entrusted with.",
+        "lines": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The closing maxim turns the parable into a principle of accountability: divine judgment is proportionate to entrustment, making privilege a liability. The ethic is not equal outcomes but calibrated reckoning.",
+        "lines": [
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames his authority as intelligible: the reader can “understand” because the Spirit has shifted the epoch from concealment to apostolic-prophetic disclosure. The claim is not that God changed, but that history has a hinge: what was once inaccessible to “sons of men” is now publicly legible through designated witnesses.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The passage moves from vocation to cosmology to access: ministry is powered (“operation of his power”), the mystery is rooted in the Creator’s eternal hiding, and the result is a new mode of approach to God—“boldness” and “access” are juridical terms, implying a court opened by Christ rather than a mere interior feeling.",
+        "lines": [
+          6,
+          8,
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Grace has an administration; gift arrives with paperwork.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Revelation is not mood but disclosure; “mystery” is content, not fog.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Gentiles: not guests but co-heirs; the boundary becomes a body.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Apostolic authority speaks in the register of self-abasement; riches stay “unsearchable.”",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The Church is a broadcast tower aimed at angels and regimes.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Ignorance of timing is the security system; certainty would breed negligence.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Stewardship is measured in rations, not rhetoric; due season is the test.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Delay is the incubator of cruelty; private thought becomes public violence.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Judgment arrives as mis-timed arrival; separation is the final audit.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Knowledge scales punishment; moral math replaces moral luck.",
+      "lines": [
+        9,
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask you to grant that we may give ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, our Savior, grant us your help, that we may always desire the works of light and do what is true; thus, we who have been born of you as children of the light may be your witnesses before all people. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our supplications and protect us by day and by night; you who are unchanging, grant steadfastness always to us who live subject to the succession of times and hours. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "If yet you have heard of the dispensation of the grace of God which is given me towards you:",
+        "How that, according to revelation, the mystery has been made known to me, as I have written above in a few words:",
+        "As you reading, may understand my knowledge in the mystery of Christ,",
+        "Which in other generations was not known to the sons of men, as it is now revealed to his holy apostles and prophets in the Spirit:",
+        "That the Gentiles should be fellow heirs and of the same body: and copartners of his promise in Christ Jesus, by the gospel",
+        "Of which I am made a minister, according to the gift of the grace of God, which is given to me according to the operation of his power.",
+        "To me, the least of all the saints, is given this grace, to preach among the Gentiles the unsearchable riches of Christ:",
+        "And to enlighten all men, that they may see what is the dispensation of the mystery which hath been hidden from eternity in God who created all things:",
+        "That the manifold wisdom of God may be made known to the principalities and powers in heavenly places through the church,",
+        "According to the eternal purpose which he made in Christ Jesus our Lord:",
+        "In whom we have boldness and access with confidence by the faith of him."
+      ],
+      "lineRefs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 3:2-12",
+      "reference": "Ephesians 3:2-12",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But this know ye, that if the householder did know at what hour the thief would come, he would surely watch and would not suffer his house to be broken open.",
+        "Be you then also ready: for at what hour you think not the Son of man will come.",
+        "And Peter said to him: Lord, dost thou speak this parable to us, or likewise to all?",
+        "And the Lord said: Who thinkest thou is the faithful and wise steward, whom his lord setteth over his family, to give them their measure of wheat in due season?",
+        "Blessed is that servant whom, when his lord shall come, he shall find so doing.",
+        "Verily I say to you, he will set him over all that he possesseth.",
+        "But if that servant shall say in his heart: My Lord is long a coming; and shall begin to strike the men-servants and maid-servants, and to eat and to drink and be drunk:",
+        "The lord of that servant will come in the day that he hopeth not, and at the hour that he knoweth not: and shall separate him and shall appoint him his portion with unbelievers.",
+        "And that servant, who knew the will of his lord and prepared not himself and did not according to his will, shall be beaten with many stripes.",
+        "But he that knew not and did things worthy of stripes shall be beaten with few stripes. And unto whomsoever much is given, of him much shall be required: and to whom they have committed much, of him they will demand the more."
+      ],
+      "lineRefs": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 12:39-48",
+      "reference": "Luke 12:39-48",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Wednesday of the 29th week of Ordinary Time",
+        "key": "wednesdayOfThe29thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/21.html",
+    "title": "Gospel and Word of the Day - 21 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-21"
+}
