@@ -1,0 +1,297 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4eb4ef0829ce097dd196891cc799625b38c2b297be9fa6da5b33506a35a748f4",
+        "inputSha256": "9e99a48816d9411c5c30c309c8e13a5005157bfa6145397120413c1ca85920e5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "1c58b136611028ff423385a38ec5118f6a6950591ef68aa8a54bc9ee502a6bfe",
+        "inputSha256": "f5b6edf285e0e87e2b62a11c10326aa24d6eaa45818bc53fe295a48024d924cb",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "71b14695183b2a38cbec70a76bc79c7239d2fe061841a6038a780f5518a2530f",
+        "inputSha256": "0f5b5aa34d59359397f1088642206fecfee36d1f235f83e3d0e63f6411ddd791",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-22T06:06:36.992Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “inner man” strengthened for a love that exceeds knowledge brushes against Sufi ma‘rifa, where the heart is widened by an intimacy that outstrips concepts; speculation: the “dimensions” read like an interior cartography akin to Ibn ‘Arabi’s imaginal vastness without being reducible to it. The plea to be “filled” evokes Vedantic fullness (purnam) and Mahayana emptiness-as-plenitude, not as metaphysics here but as a psychological saturation where the self becomes porous to a larger life.\n\nLuke’s fire and division resembles the purifying burn of tapas in Hindu and Buddhist asceticism, and the alchemical nigredo-to-ignis motif: transformation that first fractures the old household of the psyche. In the Bhagavad Gita, Krishna’s demand cleaves loyalties; in Zen, the sword cuts through familial and social identity; speculation: the “house divided” is the ego’s domestic order breaking under a new center of gravity. The baptism-as-pressure has a Stoic and Nietzschean contour too: necessity tightening into an ordeal that must be undergone, where the cost of truth is relational rupture before any deeper concord is possible.",
+    "excursus": "Paul’s kneeling is not serenity; it’s a posture of someone bargaining with a force he cannot domesticate. “Father” names the source of every lineage, which is another way of saying: no one belongs to themselves. The prayer asks for an “inward man” made strong enough to host an occupant. Christ doesn’t visit; he dwells. Faith becomes a lease signed in the dark.\n\nThe famous dimensions—breadth, length, height, depth—read like architecture for containment, a desperate measuring of what can’t be measured. “Charity” here is not niceness; it is an invasive love that “surpasseth all knowledge,” meaning it bypasses consent, argument, and self-explanation. To be “filled unto all the fulness of God” is not comfort but saturation, the self drowned in abundance.\n\nThen Luke tells the truth Paul’s prayer tries to soften: this indwelling arrives as fire. Jesus wants ignition, not balance. He is “straitened,” compressed by desire for completion, and that completion is called baptism—an ordeal that burns and washes at once. Peace is refused because peace would leave the old households intact.\n\nSeparation is the real sacrament. The gospel’s domestic inventory is clinical: father/son, mother/daughter, in-law against in-law. The point is not that families are bad; it’s that love, when it becomes absolute, makes every other bond jealous. Christ in the heart is a rival presence, and once he moves in, the house must choose whom it will shelter. Paul prays for strength because what comes is not harmony but a holy civil war.",
+    "synthesis": "God communicates his own fullness by indwelling, and that indwelling necessarily judges and reorders human bonds. Christ’s gift is not social calm but purified communion forged through division.",
+    "gospel": [
+      {
+        "text": "Jesus describes his advent as crisis: not a soothing presence but a catalytic one that forces disclosure. The “fire” and “separation” are the same event viewed as purification and as division—truth entering social space and sorting allegiances.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The impending baptism signals that the division is purchased, not merely announced; it is driven by an accomplished ordeal. The resulting fractures in family are not random cruelty but the predictable cost of a new primary loyalty that relativizes blood.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul’s prayer moves from empowerment to saturation: Spirit strengthens, Christ inhabits, God fills. The logic is participatory rather than forensic—divine life communicated inwardly until the creature’s capacity is expanded beyond its native limits.",
+        "lines": [
+          3,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The address to the Father frames the whole as ecclesial ontology: created relations take their name from him, and the doxology returns glory to God precisely in the corporate body across time. The church is not an audience to salvation but its public form.",
+        "lines": [
+          2,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Knees: theology begins in posture, not speculation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Paternity is not metaphor; it is a naming act that orders realms.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Strength aimed at the “inward man”: the battlefield is interior.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Indwelling is conditional: faith is the door; charity is the foundation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Four dimensions for what cannot be mapped: measurement language for excess.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "To “know” what surpasses knowledge: cognition broken open into communion.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "More than desire and more than understanding: prayer outruns both appetite and intellect.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory has a location: church and Christ; time is swallowed by “all generations.”",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fire is not decoration; it is an arrival that demands ignition.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Baptism here is pressure: a narrowing until completion.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Peace refused; separation named as mission, not accident.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The household becomes a tribunal: numbers split, neutrality abolished.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Kinship lines turn into fault lines; the closest bonds are tested first.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted to your bishop Saint Anthony Mary Claret an admirable charity and courage to proclaim the Gospel to the peoples, grant us, through his intercession, that, always seeking your will in all things, we may work generously to win new brothers and sisters for Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we humbly come to you at the beginning of the day, at midday, and at evening, to ask that, driving away from us the darkness of sin, you may bring us to attain the true light, who is Christ. Who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never lose heart in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who illumine the night and make the light dawn anew after darkness, grant that during the night now beginning we may be free from every fault, and that, when the new day breaks, we may gather once more in your presence to give you thanks again. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a restful sleep that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For this cause I bow my knees to the Father of our Lord Jesus Christ,",
+        "Of whom all paternity in heaven and earth is named:",
+        "That he would grant you, according to the riches of his glory, to be strengthened by his Spirit with might unto the inward man:",
+        "That Christ may dwell by faith in your hearts: that, being rooted and founded in charity,",
+        "You may be able to comprehend, with all the saints, what is the breadth and length and height and depth,",
+        "To know also the charity of Christ, which surpasseth all knowledge: that you may be filled unto all the fulness of God.",
+        "Now to him who is able to do all things more abundantly than we desire or understand, according to the power that worketh in us:",
+        "To him be glory in the church and in Christ Jesus, unto all generations, world without end. Amen."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 3:14-21",
+      "reference": "Ephesians 3:14-21",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "I am come to cast fire on the earth. And what will I, but that it be kindled?",
+        "And I have a baptism wherewith I am to be baptized. And how am I straitened until it be accomplished?",
+        "Think ye, that I am come to give peace on earth? I tell you, no; but separation.",
+        "For there shall be from henceforth five in one house divided: three against two, and two against three.",
+        "The father shall be divided against the son and the son against his father: the mother against the daughter and the daughter against her mother: the mother-in-law against the daughter-in-law and the daughter- in-law against her mother-in-law."
+      ],
+      "lineRefs": [
+        "49",
+        "50",
+        "51",
+        "52",
+        "53"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 12:49-53",
+      "reference": "Luke 12:49-53",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Pope Saint John Paul II",
+        "key": "popeSaintJohnPaulII"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/22.html",
+    "title": "Gospel and Word of the Day - 22 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-22"
+}
