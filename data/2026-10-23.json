@@ -1,0 +1,232 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b1468b56c5b68b2559673806ffb58f9b169b900e5ec77b6d847fc35c8c03c9ae",
+        "inputSha256": "48da2ef93f3fa0124b816b10b7fe23e21839bc41c2615da1d682a2e854826079",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "e97efaed1a70e39c223b8ff28530e3da69f7ffe148c7dbc24f26448190c41d23",
+        "inputSha256": "f87fc980aa54ce710c1ea8bb80a2b40511b833d67a7828a65893d6c0ebee7692",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3a07a175d1cb002387f34bc257c70c3478dd9eac44ff6571b834932c974eaf2b",
+        "inputSha256": "a328101cf2d0fc01c0b587123f57d5607e01888ad5bd37d8a4b54d6a3e5238e4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-23T06:01:44.247Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ephesians’ insistence on “one” reads like a therapeutic move: the self stops splitting into rival loyalties and learns coherence by practicing low-status virtues—humility, patience, forbearance—as daily techniques for staying integrated under pressure. That unity is not an idea but a bond, a lived adhesive, like a nervous system learning to regulate without lashing out.\n\nLuke’s weather-reading is a diagnosis of motivated perception: competence in safe domains paired with blindness where desire is threatened. The adversary-on-the-road image is the psyche’s last chance for repair before conflict hardens into machinery—judge, exacter, prison—where the cost becomes exact and impersonal. Reconciliation is framed as realism, not romance: settle early because the world, and your own habits, will collect.\n\nSemina Verbi: the “one body” ethic resembles Stoic oikeiosis and Marcus Aurelius’ civic cosmopolitanism, where the cure for anger is remembering membership in a larger whole. The call to read “this time” echoes Buddhist vipassana’s insistence on seeing conditions as they arise; speculation: hypocrisy here is a refusal of mindfulness when it would require surrender. The road-to-court urgency parallels Confucian harmony-making and the priority of restoring right relation before rites become punitive formality. The “last mite” has kinship with karmic accounting in Hindu and Jain moral imagination, where consequences are not avoided by rhetoric but worked through to completion.",
+    "excursus": "Paul’s “unity” is not comfort; it’s containment. He writes as a prisoner and asks the community to become a softer prison for itself: humility, mildness, patience, the daily swallowing of impulse so the group can stay one body. “One Lord, one faith” reads like a charm against fracture, but also like a threat: there is nowhere outside the chorus to breathe. The Spirit is invoked as bond, yet the bond is a tether. Peace here is not ecstasy; it is restraint.\n\nLuke sharpens the blade. Jesus calls them hypocrites because they can read weather but refuse to read consequence. That refusal isn’t ignorance; it’s desire for postponement, the erotic pull of “not yet.” The adversary is not merely another person; it’s the accumulating debt of your own half-known wrong, walking beside you to court. Settle “while you are in the way” means: stop performing innocence and negotiate with what you’ve done before it becomes law. Otherwise the world will make your inner evasion literal—judge, exacter, prison—until you pay the last mite, the last self-deception.\n\nTogether the texts admit a grim bargain. Unity is the social version of settling out of court: you surrender private weather, private heat, so the storm doesn’t break the body apart. But the dread remains: if you won’t read the time, time will read you, and it will collect.",
+    "synthesis": "God has made one people by one baptism under one Lord; therefore refusal to discern and to reconcile before judgment is culpable resistance to that unity.",
+    "gospel": [
+      {
+        "text": "Jesus argues from ordinary inference to moral inference: if you trust signs in the sky, you are culpable for refusing judgment about justice in front of you. The passage treats discernment as a duty, not a gift—failure is not ignorance but evasion.",
+        "lines": [
+          1,
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul moves from virtues to ontology: the ethical exhortation is grounded in a pre-existing singular reality (body/Spirit/Lord/faith/baptism). The church’s unity is not negotiated; it is received, then enacted, and the listed virtues are the social form that prevents the given oneness from being contradicted in practice.",
+        "lines": [
+          2,
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Authority speaks from confinement: the chain becomes a credential.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Unity is not mood but maintenance; peace is a binding, not a feeling.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Transcendence stacked with immanence: above/through/in—no corner left unclaimed.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Meteorology without eschatology: competence used as alibi.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The road is the last interval of mercy; after transfer, only procedure.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The “mite” abolishes vagueness: judgment counts in smallest units.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may surrender ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have dispelled the darkness of our ignorance with the light of your Word: increase in us the faith that you yourself have given; may no temptation ever destroy the fervor of faith and charity that your grace has kindled in our spirit. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted to your bishop Saint Anthony Mary Claret an admirable charity and courage to proclaim the Gospel to the peoples, grant us, through his intercession, that, always seeking your will in all things, we may work generously to win new brothers and sisters for Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called:",
+        "With all humility and mildness, with patience, supporting one another in charity.",
+        "Careful to keep the unity of the Spirit in the bond of peace.",
+        "One body and one Spirit: as you are called in one hope of your calling.",
+        "One Lord, one faith, one baptism.",
+        "One God and Father of all, who is above all, and through all, and in us all."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 4:1-6",
+      "reference": "Ephesians 4:1-6",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he said also to the multitudes: When you see a cloud rising from the west, presently you say: A shower is coming. And so it happeneth.",
+        "And when ye see the south wind blow, you say: There will heat. And it cometh to pass.",
+        "You hypocrites, you know how to discern the face of the heaven and of the earth: but how is it that you do not discern this time?",
+        "And why, even of yourselves, do you not judge that which is just?",
+        "And when thou goest with thy adversary to the prince, whilst thou art in the way, endeavour to be delivered from him: lest perhaps he draw thee to the judge, and the judge deliver thee to the exacter, and the exacter cast thee into prison.",
+        "I say to thee, thou shalt not go out thence until thou pay the very last mite."
+      ],
+      "lineRefs": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 12:54-59",
+      "reference": "Luke 12:54-59",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint John of Capistrano, Priest",
+        "key": "saintJohnOfCapistranoPriest"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/23.html",
+    "title": "Gospel and Word of the Day - 23 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-23"
+}
