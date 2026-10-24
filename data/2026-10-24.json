@@ -1,0 +1,266 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b373c3e7b18cbeede1a1d56e292a46612b6e1c5869a7ca5de741a0885b812fbc",
+        "inputSha256": "e74982e743773f45034e76f0ea193cc1668112b1623ce595bc55e8dd0b3101c8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "b04109ee80f5d7a65f81fc1b12e037684b678974f7d673c2ecbe704f56f9e1f9",
+        "inputSha256": "8b4abf38b964cc833b71c523c3732761c7cb2dbdab0152aa74afcb042e193948",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "127151c8a67cc7b105713e0bfcd7d450426c5fd25882a1d1b1671689c7dd524f",
+        "inputSha256": "4d84dd9dedd7017f17dc6b485f0766c465bd736ca9a2b0bece9e400ea5e0804a",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-24T05:51:36.308Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s “measure” of grace feels like the Bhagavad Gita’s svadharma: a differentiated vocation that is still one life, one aim, one body. The “joints” that supply what each part lacks echoes Confucian li as social articulation, where harmony is not sameness but fitted relation.\n\nLuke’s refusal to read catastrophe as moral scorekeeping aligns with Job’s protest and, speculatively, with Zen’s distrust of karmic bookkeeping as a shortcut to control. The fig tree’s extra year reads like the bodhisattva’s postponement of verdict for cultivation, and like the Stoic physician’s regimen: severity held back so the patient can become capable of health.\n\nThe descent and ascent motif has a close cousin in Inanna’s underworld journey and return, and in Orpheus; psychologically, the pattern is the psyche’s need to go down into what is disowned before any real integration can “fill all things.” The warning about being blown by “every wind” resembles the Buddhist image of the “eight worldly winds,” with maturity measured by steadiness rather than novelty.",
+    "excursus": "Paul’s “grace” is not comfort but allocation. The ascended Christ is a distributor who has first gone down into the lowest rooms of the psyche, where shame and fear are kept, and he returns with spoils: offices, ranks, functions. Apostles, prophets, teachers are not ornaments; they are joints and ligaments in a body that must be tightened. “Unity” here is the end of drift, the end of childhood, the end of private weather. It is an anti-whim project: get fitted, get measured, stop being blown around. The tenderness is real, but it is the tenderness of construction, not of indulgence.\n\nLuke refuses the cheap story that suffering proves guilt, yet he offers something colder: disaster is random, and that is why you must change. Not because you deserve the tower, but because it can fall on you anyway. Penance becomes a way to live under contingency without lying to yourself. The fig tree is not “bad,” just barren, taking up space, living on borrowed time. The gardener’s mercy is not sentimental; it is invasive. He digs at the roots and packs manure in, a last, humiliating intimacy meant to force fruit. The reprieve is a deadline in disguise: you are loved enough to be pressured, and if nothing grows, you will be cut down.",
+    "synthesis": "God grants time and gifts for one end: repentance that bears fruit in a unified body under Christ. Delay and distribution are mercy with a deadline, not permission to remain barren.",
+    "gospel": [
+      {
+        "text": "Jesus refuses the moral arithmetic that reads suffering as a ledger of guilt. He converts public tragedy into a universal summons, then seals it with a parable where time is granted but not infinite: the vineyard is owned, inspected, and finally adjudicated. The delay is purposeful—cultivation aimed at fruit—yet the final cut remains a real horizon.",
+        "lines": [
+          2,
+          4,
+          6,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames Christ’s victory as a redistribution of spoils: gifts become offices ordered toward a single end—corporate maturation. The telos is not individual brilliance but a coordinated organism whose growth is keyed to its Head; unity is achieved through shared knowledge and enacted truth, not through flattening differences.",
+        "lines": [
+          2,
+          6,
+          7,
+          9,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Grace is not generic; it is meted out—Christ measures, not you.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The arc is down then up; descent is not failure but prerequisite to plenitude.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Offices are gifts, not trophies; hierarchy is distributed function.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Doctrinal novelty is weather; the immature are sails for other men’s hands.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Piety is not a shield; blood can mix with sacrifice.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The refrain is blunt: catastrophe is not explanation; repentance is demand.",
+      "lines": [
+        3,
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sterility is not neutral; the unfruitful occupy soil that could feed another.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mercy is agrarian and abrasive—spade and manure—then the axe returns.",
+      "lines": [
+        8,
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, we ask that we may give ourselves to you faithfully and serve you with a sincere heart. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, that the brightness of the resurrection of your Son may illumine the difficulties of our life; that we may not fear the darkness of death and may one day come to the light that has no end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may obtain your promises, grant that we may love your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But to every one of us is given grace, according to the measure of the giving of Christ.",
+        "Wherefore he saith: Ascending on high, he led captivity captive: he gave gifts to men.",
+        "Now that he ascended, what is it, but because he also descended first into the lower parts of the earth?",
+        "He that descended is the same also that ascended above all the heavens: that he might fill all things.",
+        "And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:",
+        "For the perfecting of the saints, for the word of the ministry, for the edifying of the body of Christ:",
+        "Until we all meet into the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ:",
+        "That henceforth we be no more children tossed to and fro and carried about with every wind of doctrine, by the wickedness of men, by cunning craftiness by which they lie in wait to deceive.",
+        "But doing the truth in charity, we may in all things grow up in him who is the head, even Christ:",
+        "From whom the whole body, being compacted and fitly joined together, by what every joint supplieth, according to the operation in the measure of every part, maketh increase of the body, unto the edifying of itself in charity."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 4:7-16",
+      "reference": "Ephesians 4:7-16",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there were present, at that very time, some that told him of the Galileans, whose blood Pilate had mingled with their sacrifices.",
+        "And he answering, said to them: Think you that these Galileans were sinners above all the men of Galilee, because they suffered such things?",
+        "No, I say to you: but unless you shall do penance, you shall all likewise perish.",
+        "Or those eighteen upon whom the tower fell in Siloe and slew them: think you that they also were debtors above all the men that dwelt in Jerusalem?",
+        "No, I say to you: but except you do penance, you shall all likewise perish.",
+        "He spoke also this parable: A certain man had a fig tree planted in his vineyard: and he came seeking fruit on it and found none.",
+        "And he said to the dresser of the vineyard: Behold, for these three years I come seeking fruit on this fig tree and I find none. Cut it down therefore. Why cumbereth it the ground?",
+        "But he answering, said to him: Lord, let it alone this year also, until I dig about it and dung it.",
+        "And if happily it bear fruit: but if not, then after that thou shalt cut it down."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 13:1-9",
+      "reference": "Luke 13:1-9",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Anthony Mary Claret, Bishop",
+        "key": "saintAnthonyMaryClaretBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/24.html",
+    "title": "Gospel and Word of the Day - 24 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-24"
+}
