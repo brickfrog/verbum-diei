@@ -1,0 +1,250 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "ce66278c80bada0b2e67c9e224cc4cf89ca4a5a1691e68d95786621ed85d1311",
+        "inputSha256": "1654698e777eb27dadacfb7bca373c1d169a93dc6e8d6a88b28a40b200c4b136",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "aad3ce91399c192476a4cc4ebb626fce80c999dc84a4b8f437c2b7a18c356af9",
+        "inputSha256": "8fa2244bbd9a3393b685d91da06566e878268f9c0513b08e115f2be02835f95f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d7d6e17bf10c28b794b324fc58c2cce9559263928e8db5265051f73a73d554cc",
+        "inputSha256": "15cbbf6b8f2b8835c022cf5a3e405ef91ae458aa23cf0643eca9b72a0f50bcf6",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-25T06:06:41.164Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This pairing has the same psychological spine as the Hindu yamas and niyamas: a vertical restraint that orders desire, and a horizontal restraint that protects the exposed; ahimsa and aparigraha sit close to the ban on predation, especially where poverty makes consent a fiction. In Buddhism, metta and karuna give the inner affective engine that makes “neighbor” elastic rather than tribal. Confucian ren and yi echo the claim that the whole moral world can hang from a single relational posture, with li as the social texture that keeps it from becoming sentiment. In Stoicism, oikeiosis and cosmopolis parallel the move from self-care to care-for-others as a rational extension of what the self already is. In Islam, tawhid paired with zakat carries the same two-axis structure: one ultimate allegiance that purifies the heart, and a mandated regard for the vulnerable that tests whether that allegiance is real. Speculation: the threat of reversal—your household becoming what you exploited—resembles karma’s pedagogical symmetry, not as metaphysics but as a narrative device that forces empathy by imagining the self on the receiving end.",
+    "excursus": "Exodus doesn’t sound like ethics; it sounds like a jealous household laying down terms. Worship is policed with death, and then the text turns, almost tenderly, to the stranger, the widow, the orphan, the poor. But the tenderness is backed by a threat so intimate it feels like fantasy: hurt them and I will make your wife a widow and your children orphans. The law mirrors the wound. It doesn’t abolish violence; it aims it, redirects it, promises that the strong will taste their own future.\n\nEven the mercy has teeth. Return the cloak before sunset, not because you are good, but because night is when the poor discover what you’ve taken: warmth, skin, dignity. God’s attention is trained on that hour. The divine rage is the enforcement mechanism for a social order that knows compassion is too fragile to survive without fear.\n\nThen Matthew compresses everything into love, and it reads less like liberation than like a total claim. Love God with the whole heart, whole soul, whole mind: nothing left over, no private room. Love your neighbor as yourself: the self becomes the measuring rod and the hostage. The “great commandment” is not a soothing summary; it’s an occupation. It takes the old threats and internalizes them, making desire the battlefield.\n\nPut them together and you get a bleak coherence: the community is held together by longing and dread. Love is demanded because it is the only force strong enough to rival appetite, yet it is commanded because it will not arise on its own. The stranger and the widow are protected not by sentimental virtue but by a God who refuses to look away when the night gets cold.",
+    "synthesis": "God’s exclusive claim on worship grounds a social order in which the vulnerable are legally non-negotiable. The whole moral law is suspended from love of God and love of neighbour, and every command is judged by that load-bearing structure.",
+    "gospel": [
+      {
+        "text": "The scene is a contest over interpretive sovereignty: rival parties, a legal specialist, and a demand for a single ranking. Jesus answers by giving a hierarchy that is also a unification principle, refusing casuistry by naming what orders every other precept.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds a jurisprudence of the unprotected: widow, orphan, poor borrower. The distinctive claim is procedural—God positions himself as plaintiff and judge, making their cry admissible evidence and converting private cruelty into a public case.",
+        "lines": [
+          3,
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Monotheism enforced as criminal law; worship treated as treason.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Memory weaponized: your past vulnerability becomes your present restraint.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Measured retaliation: you manufacture widows and orphans by harming them.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pledge cannot become dispossession; nightfall is a hard limit on leverage.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A test framed as piety; the question is a trap, not a request.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Love demanded as totality—heart, soul, mind—no compartment left unclaimed.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Neighbour-love is not sentiment; it is self-measure applied outward.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Law and prophets hang like a door on two hinges; remove one and it collapses.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may obtain what you promise, grant that we may love what you command. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may obtain what you promise, grant that we may love what you command. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, to obtain your promises, grant that we may love your commandments. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, in order to obtain your promises, grant that we may love your commandments. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, to obtain your promises, grant that we may love your commandments. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may obtain what you promise, grant that we may love what you command. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once more. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "He that sacrificeth to gods, shall be put to death, save only to the Lord.",
+        "Thou shalt not molest a stranger, nor afflict him: for yourselves also were strangers in the land of Egypt.",
+        "You shall not hurt a widow or an orphan.",
+        "If you hurt them, they will cry out to me, and I will hear their cry:",
+        "And my rage shall be enkindled, and I will strike you with the sword, and your wives shall be widows, and your children fatherless.",
+        "If thou lend money to any of my people that is poor, that dwelleth with thee, thou shalt not be hard upon them as an extortioner, nor oppress them with usuries.",
+        "If thou take of thy neighbour a garment in pledge, thou shalt give it him again before sunset."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Exodus 22:20-26",
+      "reference": "Exodus 22:20-26",
+      "heading": "A reading from the Book of Exodus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But the Pharisees, hearing that he had silenced the Sadducees, came together.",
+        "And one of them, a doctor of the law, asked him, tempting him:",
+        "Master, which is the great commandment in the law?",
+        "Jesus said to him: Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with thy whole mind.",
+        "This is the greatest and the first commandment.",
+        "And the second is like to this: Thou shalt love thy neighbour as thyself.",
+        "On these two commandments dependeth the whole law and the prophets."
+      ],
+      "lineRefs": [
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 22:34-40",
+      "reference": "Matthew 22:34-40",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "30th Sunday of Ordinary Time",
+        "key": "30thSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/25.html",
+    "title": "Gospel and Word of the Day - 25 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-25"
+}
