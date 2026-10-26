@@ -1,0 +1,281 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2d9fc6ab667e07f7a872aaf193c5ff91e0622445178f3371a6906ba6a6291b05",
+        "inputSha256": "fd9d50e2179c7c7107c4b58c8969cde2a0598b64405d6ae3b21162381ac64a11",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "167098c22166b4946ddfa6acc65da43b7ff169e322aa629125f988d0472767de",
+        "inputSha256": "cf8b1aad3df759ed3006fece6e7d08e71ab9b29bd9d97d6c351a45d8b8a4faf8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "f33b7d310e363649807142ddd0dd820f1c3344b7948eaae9413944e78c6ef9c7",
+        "inputSha256": "0a3d2515e0c7fdd1861d6b1f3923844dae10a674abc4a658eede23c338fe097e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-26T06:11:44.520Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The hinge is loosening. Paul treats lust, greed, and corrosive speech as a single bondage: appetites and words that colonize attention, turning desire into a small idol that demands service. The cure is not mere restraint but a new imitation, childlike in the hard sense: to take on the parent’s manner, mercy as a practiced reflex, gratitude as a disciplined replacement for verbal waste.\n\nLuke stages the same psychology in a body. The woman’s spine is a biography of constraint; eighteen years is long enough for suffering to feel like identity. Jesus names her as kin before he straightens her, then reframes the sabbath as the day most suited to untying knots. The ruler’s outrage is the anxiety of a system that prefers predictable pain to disruptive mercy; Jesus answers by exposing how easily compassion is granted to property while withheld from a person.\n\nSemina Verbi: the sabbath-as-release echoes the Jewish idea of Shabbat as a foretaste of liberation and the Jubilee logic of debts unbound. Buddhist compassion that interrupts rule-bound rigidity, as in Mahayana upaya, feels adjacent, though that parallel is speculative. Stoic training of speech and desire, especially Epictetus on what enslaves the will, runs close to Paul’s linkage of appetite and idolatry. In Hindu bhakti, imitation through love—becoming like what you adore—resembles the “walk in love” dynamic, transposed into another key.",
+    "excursus": "Paul’s tenderness is a threat dressed as kindness. “Be kind, forgive” sounds like balm, but it’s also a demand to erase your own ledger on command, to keep no private account of injury. The self is asked to become porous, to let other people’s harm pass through without leaving a scar you’re allowed to show. Then the text tightens: desire is policed not only in bed but in speech, in jokes, in the small obscene relief-valves by which people survive. Even “covetousness” is renamed idolatry, as if wanting were already worship. The community is being trained to fear its own appetite, to treat pleasure as a rival god, and to call that fear “light.”\n\nThe woman in Luke is the body that has complied too long. Bent for eighteen years, she is the perfect citizen of a moral regime: eyes down, spine trained into apology. Jesus doesn’t ask whether she deserves release, or whether it’s the correct day. He touches her in public and straightens her, and that act is scandal not because it breaks a rule but because it breaks the ruler. The synagogue leader’s anger is the panic of a system that needs suffering scheduled, manageable, deferred. “Come and be healed on a weekday” means: come when your need won’t disturb our order.\n\nThe sabbath becomes the battleground between two kinds of control. One says holiness is restraint, the other says holiness is loosening. Jesus’ argument about animals is not sentimental; it’s humiliating. If you can’t bear to see an ox thirsty, why can you bear to see a woman folded in half? The crowd rejoices because the miracle is also revenge: the bent one is made straight, and the straight-backed authorities are made to bow in shame. Light, here, is not purity. It is exposure. And exposure is terrifying, because once you stand upright you can no longer pretend you didn’t want to.",
+    "synthesis": "God’s forgiveness and Christ’s self-offering establish a new moral jurisdiction in which desire, speech, and time are ordered toward liberation. Sabbath and sanctity are proved by mercy that breaks Satan’s bonds, not by rules that preserve appearances.",
+    "gospel": [
+      {
+        "text": "The synagogue scene stages authority in conflict: Jesus teaches, then acts; the miracle is a public redefinition of what sabbath signifies—rest as restoration, not mere cessation.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "The ending divides the room into two publics—ashamed adversaries and rejoicing people—showing that exposure, not persuasion, is the decisive outcome of Jesus’ argument.",
+        "lines": [
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage moves from filial imitation to a disciplined economy of desire and speech: thanksgiving replaces corrosive talk because worship reorders the mouth before it reforms the body.",
+        "lines": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "Paul anticipates rhetorical sabotage: “vain words” are not harmless; they are the mechanism by which a community is recruited into another people’s judgment.",
+        "lines": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Forgiveness is not mood but imitation: God’s prior act sets the measure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Love is defined by self-delivery; “sweetness” names acceptance, not sentiment.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sin is policed at the level of speech: not even “named” among saints.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Covetousness is liturgy misdirected—idolatry by appetite.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Identity flips: darkness/light is not metaphor but jurisdiction—“in the Lord.”",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eighteen years of curvature: a life trained downward, unable to look up.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He calls her forward; liberation begins as summons before it is touch.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The ruler defends a calendar, not a person; law becomes crowd-control.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Animals get sabbath mercy by routine; the human is denied by principle.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Daughter of Abraham” outranks sabbath scruple; Satan’s bond is the real violation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may merit to obtain what you promise, grant that we may love your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, who have brought us to the beginning of this day, save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the path of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors, always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining about your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to assist us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And be ye kind one to another: merciful, forgiving one another, even as God hath forgiven you in Christ.",
+        "Be ye therefore followers of God, as most dear children:",
+        "And walk in love, as Christ also hath loved us and hath delivered himself for us, an oblation and a sacrifice to God for an odour of sweetness.",
+        "But fornication and all uncleanness or covetousness, let it not so much as be named among you, as becometh saints:",
+        "Or obscenity or foolish talking or scurrility, which is to no purpose: but rather giving of thanks.",
+        "For know you this and understand: That no fornicator or unclean or covetous person (which is a serving of idols) hath inheritance in the kingdom of Christ and of God.",
+        "Let no man deceive you with vain words. For because of these things cometh the anger of God upon the children of unbelief.",
+        "Be ye not therefore partakers with them.",
+        "For you were heretofore darkness, but now light in the Lord. Walk then as children of the light."
+      ],
+      "lineRefs": [
+        "4:32",
+        "5:1",
+        "5:2",
+        "5:3",
+        "5:4",
+        "5:5",
+        "5:6",
+        "5:7",
+        "5:8"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 4:32–5:8",
+      "reference": "Ephesians 4:32–5:8",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he was teaching in their synagogue on their sabbath.",
+        "And behold there was a woman who had a spirit of infirmity eighteen years. And she was bowed together: neither could she look upwards at all.",
+        "Whom when Jesus saw, he called her unto him and said to her: Woman, thou art delivered from thy infirmity.",
+        "And he laid his hands upon her: and immediately she was made straight and glorified God.",
+        "And the ruler of the synagogue being angry that Jesus had healed on the sabbath answering, said to the multitude: Six days there are wherein you ought to work. In them therefore come and be healed: and not on the sabbath day.",
+        "And the Lord answering him, said: Ye hypocrites, doth not every one of you, on the sabbath day, loose his ox or his ass from the manger and lead them to water?",
+        "And ought not this daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?",
+        "And when he said these things, all his adversaries were ashamed: and all the people rejoiced for all the things that were gloriously done by him."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 13:10-17",
+      "reference": "Luke 13:10-17",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Monday of the 30th week of Ordinary Time",
+        "key": "mondayOfThe30thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/26.html",
+    "title": "Gospel and Word of the Day - 26 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-26"
+}
