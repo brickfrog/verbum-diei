@@ -1,0 +1,271 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "2019fde5602fcc7ac781cc77f6c1335688c12536d55790a39e1b765f857f0061",
+        "inputSha256": "aca3e597fa684c2f0a5f543bbb01407c5093c3d69550015ff9812afed499e66d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "6f51c12970526c946caf921a85d95f9aa0e4fb95fca47b323647b770c042cf2e",
+        "inputSha256": "ee1d47267beb3a381cf23fb8c6ac878f6e1e5180a9184c45356d3b10b23fd94b",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "712af22ab26338cc63de786e2177df52acb03dad0c73cc1d9c61517ea8c5b5aa",
+        "inputSha256": "4d6ef27b432907fe63494255c42fb80c077ef73c0d519fc5695a1798cb302024",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-27T06:15:23.757Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The marriage image as a single body being taught to love itself has clear kinship with Plato’s Symposium, where eros is a hunger for lost wholeness, and with the Upanishadic sense that union gestures toward a deeper identity than the separate self; speculation: both can be read as psychologies of integration rather than metaphysics. The mustard seed and hidden leaven echo Daoist smallness that overcomes hardness, and Zen’s insistence that the decisive change is ordinary and often unnoticed; speculation: the point is less conquest than permeation. The birds nesting in the branches recalls the Bodhi tree as a sheltering axis and the world-tree motifs in Norse and Vedic imaginations, where growth creates a habitat for many lives. The leaven working through the whole parallels Stoic pneuma and the Hermetic idea of a subtle fire diffusing through matter; speculation: it names transformation as an interior contagion rather than external force.",
+    "excursus": "Paul stages marriage as a controlled experiment in domination and self-erasure. The language of “head” and “fear” isn’t a quaint hierarchy; it’s an erotic theology of asymmetry, where desire is made safe by turning it into obedience. The wife is asked to fear, the husband to love like a man walking toward execution. Each role is a different kind of dread: hers, the dread of being absorbed; his, the dread of having to deserve the power he’s given by dying to it.\n\nThe trick is that “love” here is not tenderness but sacrifice with an edge. Christ “delivers himself up” to cleanse, to remove spot and wrinkle, to present the other back to himself perfected. That’s not romance; it’s possession by purification. The beloved becomes a project, a body washed into compliance. “One flesh” sounds like unity, but it’s also the threat of losing borders. No wonder the text keeps returning to body talk: nourishment, cherishing, flesh and bones. It’s intimacy described as management.\n\nThen Luke slips in a quieter terror. The kingdom doesn’t arrive as law; it infiltrates. A seed becomes a tree big enough for birds to lodge—parasites, guests, whatever you call what takes shelter in your growth. Leaven is “hid” in the meal until everything is altered. That’s the same marriage logic in miniature: something small, consented to, then irreversible transformation. The reign of God is not a fortress; it’s fermentation.\n\nRead together, they confess the same desire: to be taken over and to call it holiness. They also confess the fear underneath: that love, if it’s real, will remake you without asking again.",
+    "synthesis": "Christ’s headship is enacted as self-giving that sanctifies, and marriage is a sacramental sign of that cruciform union. The kingdom advances by hidden, organic transformation that makes the small decisive and the ordinary charged with divine agency.",
+    "gospel": [
+      {
+        "text": "Jesus answers his own question twice, refusing a single image. The kingdom is not captured by one metaphor because it is not an object among objects; it is a regime that reorders scale and process.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The paired agents (man sowing, woman hiding) and paired media (garden, meal) place the kingdom in common labor. Growth and fermentation are noncoercive powers: they do not argue; they work, and their success is visible only after time.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames household order inside liturgical fear (“of Christ”) and ends with paired imperatives: love/fear. The passage is not a sociology of power but a discipline of desire: eros is conscripted into sanctification, and the household becomes a site where Christ’s relation to the Church is rehearsed under ordinary pressures.",
+        "lines": [
+          2,
+          4,
+          13
+        ]
+      },
+      {
+        "text": "The argument moves from telos (a Church without blemish) to ethics (love as self-care) to anthropology (one flesh). The logic is: union generates obligation; obligation is enacted as nourishment, not domination. The ‘one flesh’ citation functions as a hinge—creation language is recruited to explain redemption’s pattern.",
+        "lines": [
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Mutual subjection: the command precedes the hierarchy.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Head” is not “owner”; the model is cruciform, not managerial.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Authority is measured by self-delivery; love bleeds.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Water and word: cleansing is not sentiment but rite and speech.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Bone-talk: marriage language is grafted onto Christology.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Great sacrament”: the couple is a sign that exceeds them.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mustard: the kingdom begins as nuisance, ends as shelter.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Leaven works by concealment; transformation is interior and total.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may obtain your promises, grant that we may love your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, true light who enlightens every man and shows him the way of salvation, grant us the abundance of your strength, that we may prepare before you paths of justice and peace. You who live and reign with the Father in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, Lord of day and night, we humbly ask that the light of Christ, the true Sun of justice, may always illumine our lives, so that we may one day be found worthy to enjoy that light in which you dwell eternally. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Being subject one to another, in the fear of Christ.",
+        "Let women be subject to their husbands, as to the Lord:",
+        "Because the husband is the head of the wife, as Christ is the head of the church. He is the saviour of his body.",
+        "Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things.",
+        "Husbands, love your wives, as Christ also loved the church and delivered himself up for it:",
+        "That he might sanctify it, cleansing it by the laver of water in the word of life:",
+        "That he might present it to himself, a glorious church, not having spot or wrinkle or any such thing; but that it should be holy and without blemish.",
+        "So also ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
+        "For no man ever hated his own flesh, but nourisheth and cherisheth it, as also Christ doth the church:",
+        "Because we are members of him, body, of his flesh and of his bones.",
+        "For this cause shall a man leave his father and mother: and shall cleave to his wife. And they shall be two in one flesh.",
+        "This is a great sacrament: but I speak in Christ and in the church.",
+        "Nevertheless, let every one of you in particular love for his wife as himself: And let the wife fear her husband."
+      ],
+      "lineRefs": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 5:21-33",
+      "reference": "Ephesians 5:21-33",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "He said therefore: To what is the kingdom of God like, and whereunto shall I resemble it?",
+        "It is like to a grain of mustard seed, which a man took and cast into his garden: and it grew and became a great tree, and the birds of the air lodged in the branches thereof.",
+        "And again he said: Whereunto shall I esteem the kingdom of God to be like?",
+        "It is like to leaven, which a woman took and hid in three measures of meal, till the whole was leavened."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 13:18-21",
+      "reference": "Luke 13:18-21",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Tuesday of the 30th week of Ordinary Time",
+        "key": "tuesdayOfThe30thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/27.html",
+    "title": "Gospel and Word of the Day - 27 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-27"
+}
