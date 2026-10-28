@@ -1,0 +1,232 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "94d3db9292bd9d1e338495232b24691cbdc043953f7f6f8cc3ed039b35f9a75d",
+        "inputSha256": "5b1e1ce96ba54a621f353d0bad9e4f3f990da169cbd47453308a5c8d5db77591",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "365c61e668033376be62e20d002c200d0da07a877de07630879c53f24a26a420",
+        "inputSha256": "8614ea1e10da71bd0b02231dad581f562ac8d788dd9fe30870fe43d09b4f1d4a",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "df843fdee183e073714bf23c2cd8602f649526cee4c3e9283f4106755de3308f",
+        "inputSha256": "ad553f155010dcf79927a42d5449f11ad519c4001895adab163335eb4ce8f619",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-28T06:50:58.864Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Belonging here is engineered, not inherited: a deliberate adoption into a household that functions like a psyche learning to trust. “Corner stone” reads as the integrating center that makes disparate parts cohere; without it, the self stays a loose federation of loyalties. The all-night prayer is the cost of choosing: solitude before selection, interior silence before naming, as if leadership must be born from contact with the deepest layer rather than from charisma. The list of names is not romance but realism; the community is built with mixed material, including the future betrayer, because a mature body doesn’t require purity to become one—only a shared axis.\n\nSemina Verbi: Stoic cosmopolitanism imagines citizenship beyond tribe; this passage intensifies it into a home. Confucian family-ritual logic treats the household as the training ground of virtue; here the household becomes the architecture of the sacred. In Sufism, the night vigil (tahajjud) is a furnace for intention; speculation: the mountain scene echoes that purification before entrusting authority. In Mahayana, Indra’s Net pictures mutual interdependence; speculation: “framed together” feels like that web, but with a single organizing center rather than infinite symmetry.",
+    "excursus": "This isn’t a warm welcome; it’s a reclassification. “No more strangers” sounds like relief until you hear the price: you stop belonging to yourself. Citizenship and household aren’t metaphors of comfort so much as paperwork for the soul, a transfer of custody. The temple image tightens the vise. Stones don’t wander; they get placed. “Framed together” is intimacy without consent, closeness enforced by architecture.\n\nThe foundation is apostles and prophets, but the corner stone is the one thing you can’t move. A corner stone doesn’t invite; it dictates angles. The holy building grows, yes, like a body that’s still being assembled while you’re inside it. “An habitation of God” is possession dressed as purpose: you become a room.\n\nThen Luke shows how the rooms are chosen. Jesus spends the night in prayer, not for serenity but for resolve, like someone deciding whom to bind to a fate. Morning brings selection, names, roles. And the list ends with the traitor, as if betrayal is not an accident but a necessary beam. The community is built with a flaw set in on purpose, dread mortared into the walls. Desire for belonging is answered, but the answer includes Judas, because a temple that cannot be broken cannot be real.",
+    "synthesis": "Christ constitutes one people by apostolic foundation and Spirit-indwelling, forming them into God’s dwelling. The apostolic office is instituted by Jesus’ sovereign choice and remains real even under the shadow of internal treachery.",
+    "gospel": [
+      {
+        "text": "Luke frames apostolic office as a deliberate reconstitution of Israel (twelve) enacted by Jesus’ sovereign call. The roll-call is not filler: it is the public charter of a new governing witness, with ordinary names carrying institutional weight.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul argues ecclesiology from Christ outward: the apostolic-prophetic witness is the mediated base, but the decisive load-bearing logic is Christ, and the Spirit is the mode of divine presence. The church is presented as a single coordinated project, not a federation of private pieties.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Citizenship replaces exile; household replaces border. Grace has an address.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Foundation is not ideas but persons; the corner is a person too. Alignment is christological.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A building that grows: organic stonework. Holiness is architecture, not mood.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Plural stones, single habitation. Spirit is the occupancy, not the décor.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Night-long prayer precedes public selection. Authority is incubated in solitude.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He chooses from disciples; apostles are made, not found. Naming is an act of rule.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The list ends with a wound: “traitor” inside the Twelve. Election does not cancel betrayal.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, who brought us to the knowledge of your name through the preaching of the apostles, we pray that, through the intercession of Saint Simon and Saint Jude, your Church may always continue to grow through the unceasing conversion of the peoples. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have ended. May we rest during the night so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now therefore you are no more strangers and foreigners: but you are fellow citizens with the saints and the domestics of God,",
+        "Built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone:",
+        "In whom all the building, being framed together, groweth up into an holy temple in the Lord.",
+        "In whom you also are built together into an habitation of God in the Spirit."
+      ],
+      "lineRefs": [
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ephesians 2:19-22",
+      "reference": "Ephesians 2:19-22",
+      "heading": "A reading from the Letter of St. Paul to the Ephesians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass in those days, that he went out into a mountain to pray: and he passed the whole night in the prayer of God.",
+        "And when day was come, he called unto him his disciples: and he chose twelve of them (whom also he named apostles):",
+        "Simon, whom he surnamed Peter, and Andrew his brother, James and John, Philip and Bartholomew,",
+        "Matthew and Thomas, James the son of Alpheus, and Simon who is called Zelotes,",
+        "And Jude the brother of James, and Judas Iscariot, who was the traitor."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 6:12-16",
+      "reference": "Luke 6:12-16",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Saints Simon and Jude, Apostles",
+        "key": "saintsSimonAndJudeApostles"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/28.html",
+    "title": "Gospel and Word of the Day - 28 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-28"
+}
