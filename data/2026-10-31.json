@@ -1,0 +1,255 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "5878b1f5f1cd5c07f01a347744c069d1e19ef2b8aaeef2298583f7dead4d9337",
+        "inputSha256": "04f717e1f14a4df4b5fda23ef1958cafbb8ce9404a490cc8fa9d04c220e328ad",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "dd0178f279249ebdd9da195834ecce974296fea1c203056ec1f7569861835166",
+        "inputSha256": "32e08f6edb5c31e5cbbf5e81129195c147020abc65884a37dd9bea27c3e57b6d",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "9bfd7422107eca12fb214b264e1f5ea144df4505fa30bdfd0f665d05607009b4",
+        "inputSha256": "43958540716b40789f02d50fa24c75a9511691b9f4f9308b0c3c588e7bf26194",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-10-31T06:59:18.652Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s calm preference for dissolution reads like trained detachment rather than morbidity: the ego loosens its grip because meaning has been relocated from self-preservation to a beloved center outside the self. That is close, speculatively, to Stoic apatheia and Epictetus’s readiness to “give back” what was loaned, and to the Bhagavad Gita’s karma-yoga where the worker relinquishes claim on outcomes yet stays in the world for duty. His decision to remain “needful for you” parallels the bodhisattva vow in Mahayana Buddhism: postponing release for the sake of others, not from guilt but from compassion.\n\nLuke’s table scene is social psychology sharpened into spiritual practice: status-hunger makes people misread the room, and humility is a strategy that cures the craving to be seen. That resembles Confucian li and the cultivated modesty of the junzi, where self-effacement stabilizes community, and it also echoes Taoist wu-wei, speculatively, in the preference for the low place that ends up being the strong place. Even the Sufi adab of taking the lowest seat, not as performance but as ego-surgery, sits near this logic: the self shrinks, perception clears, and honor arrives only when it is no longer hunted.",
+    "excursus": "Paul is not serenely resigned; he is addicted to an ending. “To die is gain” lands like a private fantasy he keeps polishing, a clean exit that would finally make his body useful as a billboard. The talk of “salvation” and “confidence” reads as self-management, a way to domesticate panic: if the outcome is already framed as victory, then prison, failure, even execution can’t humiliate him. Yet the confession slips out: he wants to be “dissolved.” Not transformed, dissolved. The desire is for release from the burdensome self.\n\nHe stays, not because life is sweet, but because other people need him. That is the cruel bargain: his longing for disappearance is tethered to the community’s dependence. “Fruit of labour” is grimly economic; his continued breathing is justified only as output. He chooses life the way a caretaker chooses another night shift.\n\nJesus’ table counsel is not pious modesty; it is social strategy under surveillance. In the Pharisee’s house “they watched him,” and everyone else is watching everyone else. The lowest seat is a weapon: you refuse to compete, and in refusing you force the host to reveal the hierarchy out loud. Humility becomes a trap set for the room’s vanity, a way to make honor someone else’s responsibility.\n\nPut together, the texts are about managing exposure. Paul wants the ultimate hiding place—death—yet keeps performing for others. Jesus teaches a choreography of self-erasure that paradoxically manufactures attention. Desire runs through both: to be seen without risking shame, to vanish without being forgotten.",
+    "synthesis": "Christ alone is the measure of gain, so both life and honor are received as assignments rather than seized as possessions. God’s order reverses self-promotion: exaltation is granted, not taken.",
+    "gospel": [
+      {
+        "text": "Jesus reads the room: guests convert a feast into a ladder. The parable attacks the social technology of honor by relocating promotion to the host’s initiative; status becomes gift, not seizure. The closing maxim is not etiquette but judgment: the table rehearses the eschatological reversal where self-assertion is exposed and self-lowering is vindicated.",
+        "lines": [
+          2,
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames his fate inside a network: prayer, Spirit, and the community’s progress. The question is not personal survival but whether his continued presence functions as “fruit” for others; his agency is redefined as stewardship of time. The passage turns apostolic biography into ecclesial economy: one man’s remaining days are allocated for the faith’s increase and the community’s joy, so that their boasting is relocated “in Christ” rather than in Paul.",
+        "lines": [
+          2,
+          5,
+          7,
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Indifference to motive: the Name outruns the messenger.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Body as theater for magnification; life/death reduced to instruments.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A private axiom that detonates ordinary valuation.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Dissolved”: self treated as a temporary binding, not an essence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Sabbath hospitality as surveillance; the table is a trap.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Honor is unstable currency; public demotion is the pedagogy.",
+      "lines": [
+        3,
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The host’s word creates rank; “Friend” is an act of elevation.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A reversible law: self-exaltation carries its own sentence.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, increase our faith, hope, and charity, and, that we may merit to obtain what you promise, grant that we may love your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our voice, Lord, our spirit, and our whole life be a continual praise in your honor; and since our entire existence is a pure gift of your generosity, may each of our actions also be wholly dedicated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We feel guilty, Lord, and we confess our sins before you; have mercy on us and grant us the abundance of your peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who have deigned to redeem us and have willed to make us your children, look upon us always with a father’s love, and grant that all who believe in Christ, your Son, may attain true freedom and the eternal inheritance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But what then? So that by all means, whether by occasion or by truth, Christ be preached: in this also I rejoice, yea, and will rejoice.",
+        "For I know that this shall fall out to me unto salvation, through your prayer and the supply of the Spirit of Jesus Christ,",
+        "According to my expectation and hope; that in nothing I shall be confounded: but with all confidence, as always, so now also, shall Christ be magnified in my body, whether it be by life or by death.",
+        "For to me, to live is Christ: and to die is gain.",
+        "And if to live in the flesh: this is to me the fruit of labour. And what I shall choose I know not.",
+        "But I am straitened between two: having a desire to be dissolved and to be with Christ, a thing by far the better.",
+        "But to abide still in the flesh is needful for you.",
+        "And having this confidence, I know that I shall abide and continue with you all, for your furtherance and joy of faith:",
+        "That your rejoicing may abound in Christ Jesus for me, by my coming to you again."
+      ],
+      "lineRefs": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Philippians 1:18-26",
+      "reference": "Philippians 1:18-26",
+      "heading": "A reading from the Letter of St. Paul to the Philippians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, when Jesus went into the house of one of the Pharisees, on the sabbath day, that they watched him.",
+        "And he spoke a parable also to them that were invited, marking how they chose the first seats at the table, saying to them:",
+        "When thou art invited to a wedding, sit not down in the first place, lest perhaps one more honourable than thou be invited by him:",
+        "And he that invited thee and him, come and say to thee: Give this man place. And then thou begin with shame to take the lowest place.",
+        "But when thou art invited, go, sit down in the lowest place; that when he who invited thee cometh, he may say to thee: Friend, go up higher. Then shalt thou have glory before them that sit at table with thee.",
+        "Because every one that exalteth himself shall be humbled: and he that humbleth himself shall be exalted."
+      ],
+      "lineRefs": [
+        "1",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 14:1,7-11",
+      "reference": "Luke 14:1,7-11",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 30th week of Ordinary Time",
+        "key": "saturdayOfThe30thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/10/31.html",
+    "title": "Gospel and Word of the Day - 31 October 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/10/31.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-10-31"
+}
