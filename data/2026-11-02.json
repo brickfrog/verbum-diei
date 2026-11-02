@@ -1,0 +1,267 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "0dda7fcba38237783aeb2853da396be094da53735bba0d9916caa7d02ef1f9c9",
+        "inputSha256": "b1089f031489a4e88120c879a0f9b9ab2ad2da0cf79fdb1ad76c321b5479e6f3",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "329164ee4cfb8abf2d538ca0a9050989912ea2919a74566344f51ab9d4811b47",
+        "inputSha256": "8e8e1ca9926c11c6f880ab8254eedd9a7ce0cd650d6c05587465197c906e37f7",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ec194f56951f1911a8042b9538a7af451efd5cc5f691224c524b55d14491bed2",
+        "inputSha256": "25ff28cba08e42f3444470bc788643849320e1442d6d818622e61293dc6c882e",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-02T07:40:40.325Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The “hand of God” reads like the psyche’s last refuge: a holding environment that outlasts the body’s panic. What looks like annihilation to the “unwise” is the outside view of inner continuity; grief mislabels peace as absence. The furnace image is not sadism but refinement under pressure, the way suffering can burn off false selves until a quieter core remains. “Not cast out” names the deepest therapeutic promise: the self that comes forward, even ruined, is received and kept; the fear is not death but rejection.\n\nSemina Verbi: Stoicism’s inner citadel (Epictetus) parallels the untouchable “hand,” a sovereignty no external force can seize. Plato’s Phaedo and the Orphic strain echo the soul’s release into a truer life, though this text insists on relational keeping rather than mere escape. In Mahayana Buddhism, bodhisattva vows to “lose none” resemble the refusal to cast out; speculation: the “raising” can be read as the reconstitution of personhood, not just survival. In the Bhagavad Gita, the tested one who endures heat without collapse mirrors the gold-in-fire motif, with the same claim that ordeal can disclose what is real.",
+    "excursus": "These readings sell consolation with the hard edge of possession. The “souls of the just” are safe, yes, but only by being held. The hand that protects is also the hand that grips. Death’s torment “shall not touch them” because something stronger has already touched them first.\n\nWisdom’s peace is not gentle; it is anesthesia after public failure. “In the sight of the unwise they seemed to die” is the whole social nightmare: your end looks like proof you were wrong. The text answers with a fantasy of reversal, but it cannot hide the cost. God “tries” them, heats them, receives them “as a victim.” This is not comfort; it is a theology of meaningful harm, a desire to have suffering certify you, to make your pain legible and therefore worth it.\n\nThen John intensifies the same hunger: “All that the Father giveth to me.” People are not simply welcomed; they are transferred. The Son promises he will “lose nothing,” like a keeper counting what belongs to him. The dread underneath is obvious: you can be lost. The desire is equally obvious: to be unable to fall out of the hand, to have your fragile will replaced by a stronger will that drags you past death and calls it love.\n\nImmortality here is not escape from violence; it is violence given a narrative that makes it bearable. The furnace becomes proof, the victim becomes chosen, the lost becomes impossible. The promise is peace, but the mechanism is control, and the soul aches for it.",
+    "synthesis": "God preserves his own through death and will publicly vindicate them by resurrection. The Son’s obedience secures an unbroken chain from the Father’s gift to everlasting life.",
+    "gospel": [
+      {
+        "text": "John stages salvation as the Father’s initiative executed by the Son: the Father gives, the Son receives and preserves, and the last day supplies the public vindication through resurrection.",
+        "lines": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The descent motif anchors authority in origin and obedience: the Son’s legitimacy is not self-assertion but alignment with the Sender, making eternal life a matter of divine will enacted in history.",
+        "lines": [
+          2
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The text builds an eschatological counter-narrative to communal grief: what looks like rupture is re-described as peace and hope, relocating meaning from the moment of loss to the horizon of immortality.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "It ends with a reversal of status: the just move from being judged by “the unwise” to judging and ruling; knowledge of truth and rest are framed as covenantal privileges of the elect, not generic human outcomes.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Hand of God” displaces the grave; custody replaces chaos.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Public optics misread the event; death is an interpretive failure.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Trial is not information for God but valuation for the world: “worthy of himself.”",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two metaphors, one logic: furnace and altar—purification and possession.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Glory is kinetic: sparks do not sit; they scatter and ignite.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A closed circuit: given → come; come → not cast out. No leakage.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Descent is obedience, not spectacle; mission defined as submitted will.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Salvation stated as inventory control: “lose nothing” against entropy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Seeing and believing are the gate; resurrection is the guarantee clause.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord of power and mercy, you have willed, by your favor, to make the service of your faithful worthy and pleasing; grant that we may walk without stumbling toward the good things you promise us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord of power and mercy, you have willed in your favor to make the service of your faithful worthy and pleasing; grant that we may walk without stumbling toward the good things you promise us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our supplications, that as we confess the resurrection of Jesus Christ, your Son, our hope may also be strengthened that all your children will rise again. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our supplications, that as we confess the resurrection of Jesus Christ, your Son, our hope may also be strengthened that all your children will rise again. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, O Lord, our supplications, that as we confess the resurrection of Jesus Christ, your Son, our hope may also be strengthened that all your children will rise again. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord of power and mercy, who in your favor have willed to make the service of your faithful worthy and pleasing, grant us to walk without stumbling toward the goods you promise us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But the souls of the just are in the hand of God, and the torment of death shall not touch them.",
+        "In the sight of the unwise they seemed to die: and their departure was taken for misery:",
+        "And their going away from us, for utter destruction: but they are in peace.",
+        "And though in the sight of men they suffered torments, their hope is full of immortality.",
+        "Afflicted in few things, in many they shall be well rewarded: because God hath tried them, and found them worthy of himself.",
+        "As gold in the furnace, he hath proved them, and as a victim of a holocaust, he hath received them, and in time there shall be respect had to them.",
+        "The just shall shine, and shall run to and fro like sparks among the reeds.",
+        "They shall judge nations, and rule over people, and their Lord shall reign for ever.",
+        "They that trust in him shall understand the truth: and they that are faithful in love, shall rest in him: for grace and peace are to his elect."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Wisdom 3:1-9",
+      "reference": "Wisdom 3:1-9",
+      "heading": "A reading from the Book of Wisdom",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "All that the Father giveth to me shall come to me: and him that cometh to me, I will not cast out.",
+        "Because I came down from heaven, not to do my own will but the will of him that sent me.",
+        "Now this is the will of the Father who sent me: that of all that he hath given me, I should lose nothing; but should raise it up again in the last day.",
+        "And this is the will of my Father that sent me: that every one who seeth the Son and believeth in him may have life everlasting. And I will raise him up in the last day."
+      ],
+      "lineRefs": [
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 6:37-40",
+      "reference": "John 6:37-40",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "All Souls",
+        "key": "allSouls"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/02.html",
+    "title": "Gospel and Word of the Day - 2 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/02.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-02"
+}
