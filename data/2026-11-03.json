@@ -1,0 +1,264 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bad5d8a79bb3ef06eff28bdba7b8208377b85ee2afa3a76f872419f99eff5814",
+        "inputSha256": "10051251e7c60f3dbf99e32c9a947865b64f05384e569598efdec6e844adec70",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "478ffc3948b786af65823709ad2ad819f62b96a54692d561ffedbd5ca005c49e",
+        "inputSha256": "bc917b06873aa20d46f4e3c5143a11f1c2f59f3bfd77fecbba36c86e8b1087a4",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "ad9eaaca03dfb6eb1683fdab7320c429abc1761a00d7a548c00ea6d4e173dbba",
+        "inputSha256": "d37991c37ea3e5951a8a9d74315939491a59806d658a4d15648f66670bb59955",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-03T07:54:28.843Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The downward motion that becomes ascent has close cousins. In the Bhagavad Gita, Krishna’s call to act without clinging to status or fruit echoes a voluntary unseating of the ego; the paradox is that relinquishment yields a truer lordship. In Mahayana Buddhism, the bodhisattva’s refusal to grasp nirvana for himself resembles self-emptying into service; speculation: the “name above every name” reads like the psychic consolidation that follows radical non-appropriation.\n\nThe banquet that the respectable decline and the marginal accept recalls the Daoist inversion where the low becomes the vessel of the Way, and Zhuangzi’s preference for the useless and overlooked. It also resonates with Sufi imagery of the Beloved’s feast where the polished self is the obstacle; speculation: “compel” can be heard as the fierce mercy of reality breaking through self-protective excuses.\n\nThe excuses themselves match Stoic diagnosis: externals—property, productivity, domestic arrangement—masquerade as necessities and quietly dethrone the good. The invitation exposes a psychology of postponement; the poor and wounded enter because they have less to defend.\n\nA final parallel sits in the Jewish prophetic critique of complacent cult: the table is not a reward for the already-satisfied but a reversal that gathers those pushed outside. Speculation: the “filled house” is the imagination’s healed community, where dignity is received rather than performed.",
+    "excursus": "Philippians isn’t a hymn to humility; it’s a portrait of divine strategy. The “emptying” reads like a chosen deprivation, a god trying on the claustrophobia of flesh to learn what obedience tastes like. The cross is not only sacrifice but experiment: how far can love be driven before it breaks. Exaltation comes after as compensation and as proof that the descent was real. The “name above all names” is the seal on a wager: if you can endure being nothing, you deserve to be everything.\n\nLuke’s banquet is the same dread in domestic clothing. The invited refuse not out of busyness but out of instinct: intimacy is dangerous, and a free feast always hides a claim. Land, oxen, marriage are alibis for the deeper fear of being seen and obligated. The host’s anger is the exposed underside of generosity; he doesn’t merely offer, he needs the room filled. So the poor are not romanticized—they are usable, reachable, less defended. “Compel them” is the naked admission that grace has teeth.\n\nPut together, the texts suggest a God who desires consent but will not tolerate indifference. He empties himself to enter our excuses, then returns as a host who cannot stand an empty house. The kingdom is not a polite invitation; it is a pressure, a feast that feels like judgment because it demands you show up hungry.",
+    "synthesis": "Christ’s self-emptying establishes his universal lordship, and the kingdom’s banquet exposes refusal as judgment while grace fills the house with those who would not have presumed to enter.",
+    "gospel": [
+      {
+        "text": "The parable turns on timing and substitution: the feast is already prepared, and the invited reveal their true priorities when readiness confronts them. The master’s anger is not caprice but judgment on contempt; the guest list is reconstituted by mission, first within the city’s margins and then beyond its boundaries, until fullness is achieved.",
+        "lines": [
+          2,
+          3,
+          7,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames the passage as a pattern of cognition (“mind”) that culminates in universal confession. The movement is not merely ethical imitation but a cosmic reordering: the one who chose abasement becomes the axis around which heaven, earth, and the underworld are aligned, so that worship is rendered as recognition of lordship within the Father’s glory.",
+        "lines": [
+          1,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Equality not seized; it is possessed without theft.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The descent is voluntary: from “form” to “form,” not from being to non-being.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Obedience is measured by its endpoint; the cross is the unit.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Exaltation is not reversal but verdict; the Name is the public sentence.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Pious beatitude spoken at a table; it functions as insulation.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Property becomes liturgy: the farm demands visitation like a god.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Marriage invoked as necessity; gift turned into alibi.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Compel” exposes the violence of grace against inertia.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Invitation can expire; refusal hardens into exclusion.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord of power and mercy, you have willed, by your favor, to make the service of your faithful worthy and pleasing; grant that we may walk without stumbling toward the good things you promise us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, from whom flow the goodness and beauty of all that is created, grant that we may begin this day with a joyful spirit and carry out our works moved by love for you and for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and serve your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our evening prayer rise up to you, Father of mercy, and may your blessing come down upon us; thus, with your help, we shall be saved now and forever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, forever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For let this mind be in you, which was also in Christ Jesus:",
+        "Who being in the form of God, thought it not robbery to be equal with God:",
+        "But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man.",
+        "He humbled himself, becoming obedient unto death, even to the death of the cross.",
+        "For which cause, God also hath exalted him and hath given him a name which is above all names:",
+        "That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth:",
+        "And that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Philippians 2:5-11",
+      "reference": "Philippians 2:5-11",
+      "heading": "A reading from the Letter of St. Paul to the Philippians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "When one of them that sat at table with him had heard these things, he said to him: Blessed is he that shall eat bread in the kingdom of God.",
+        "But he said to him: A certain man made a great supper and invited many.",
+        "And he sent his servant at the hour of supper to say to them that were invited, that they should come: for now all things are ready.",
+        "And they began all at once to make excuse. The first said to him: I have bought a farm and I must needs go out and see it. I pray thee, hold me excused.",
+        "And another said: I have bought five yoke of oxen and I go to try them. I pray thee, hold me excused.",
+        "And another said: I have married a wife; and therefore I cannot come.",
+        "And the servant returning, told these things to his lord. Then the master of the house, being angry, said to his servant: Go out quickly into the streets and lanes of the city; and bring in hither the poor and the feeble and the blind and the lame.",
+        "And the servant said: Lord, it is done as thou hast commanded; and yet there is room.",
+        "And the Lord said to the servant: Go out into the highways and hedges, and compel them to come in, that my house may be filled.",
+        "But I say unto you that none of those men that were invited shall taste of my supper."
+      ],
+      "lineRefs": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 14:15-24",
+      "reference": "Luke 14:15-24",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Martin de Porres, Religious",
+        "key": "saintMartinDePorresReligious"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/03.html",
+    "title": "Gospel and Word of the Day - 3 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/03.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-03"
+}
