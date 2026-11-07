@@ -1,0 +1,257 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "1fb1aabea3f2197cea4c761be543821632feeae7ffaa8bf1b0a7ff157b18f78a",
+        "inputSha256": "3a82d7dc6082ed0983d8b70dccdd722d48c2fc6a24eb3176d384709d651094dc",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "cd258a1a4ba02495b8ebe77b3970b6cd36fc60043db65599a8d5dd0640d78897",
+        "inputSha256": "7b88ceae23d9ec715c49c5812ea8266112f835e29cceb88c569ba93f06b25951",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "1591bacb11d3ab2e2b0f4bca344cbd86308f3c3c07b7ac6db1365379037f4eb9",
+        "inputSha256": "6240120cf9d79f7a57560c973c488198cc2b6b44c566764620d459c3b4f5fba4",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-07T07:07:53.654Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Stoic ethics, especially Epictetus, treats contentment as trained freedom from externals: hunger and plenty become interchangeable drills for the will. Buddhism’s dāna frames giving as a transfer that enriches the giver’s karma more than the receiver’s store, a psychology close to “fruit” accruing to an account. In the Bhagavad Gītā, action without grasping at its outcome and the language of offering echo the “acceptable sacrifice” motif, with wealth demoted to instrument. Confucian ren and li make fidelity in small roles the test of fitness for greater trust, as if character is audited in petty transactions. Sufi zuhd suspects the heart’s attachment more than the coin itself, and treats public self-justification as a veil; speculation: “mammon” functions like nafs when it becomes a rival lord. Jewish Pirkei Avot’s insistence that the Judge sees what people cannot parallels the exposure of performative virtue, where social esteem is the most seductive currency.",
+    "excursus": "Paul’s “contentment” reads like a disciplined performance staged under the pressure of dependence. He insists he doesn’t need their money, then lingers over how often they sent it, then spiritualizes the transaction into “fruit” on their account. It’s not gratitude so much as a careful management of shame: he wants the intimacy of being provided for without the humiliation of needing. The odor of sweetness is the alibi that lets desire for support pass as worship.\n\nJesus is colder. He tells you to use dirty money to buy friends because everything fails and you will need a door to open when you’re turned out. “Mammon of iniquity” isn’t purified; it’s weaponized. Fidelity isn’t about purity but about what you do with compromised power when it’s small, because your heart is already choosing its master. The Pharisees sneer because they recognize the exposure: their virtue is a public story, and God’s knowledge is the private audit that makes their “high” life feel like an abomination.",
+    "synthesis": "God judges fidelity by concrete stewardship, and he converts material exchange into spiritual testimony. Wealth cannot be neutral: it either serves communion with God or exposes service to mammon.",
+    "gospel": [
+      {
+        "text": "Jesus argues from the small to the ultimate: mundane stewardship reveals the kind of person who would mishandle greater trust. The issue is not merely wealth but custody—handling what is “another’s” exposes whether one can be entrusted with what is truly one’s own in the kingdom. The Pharisees’ derision functions as self-indictment: contempt for the teaching discloses the heart’s allegiance.",
+        "lines": [
+          2,
+          4,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Paul frames the Philippians’ support as participation in his affliction and as an economy with eschatological bookkeeping: “giving and receiving” becomes moral commerce whose dividend is credited to the givers. The benediction is not a fundraising tactic but a theological claim that God, not Paul, is the final paymaster, and that generosity binds a church to apostolic mission without making the apostle dependent.",
+        "lines": [
+          5,
+          6,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Their care “flourished” late; charity has seasons, and Paul names the delay without rancor.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Contentment is learned, not felt; a discipline, not a mood.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“All things” is bounded by “in him”: agency relocated, not inflated.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Money becomes liturgy: gift transfigured into “odour… sacrifice” language.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Use tainted wealth to purchase untainted welcome: an unsettling instrumentalization.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Unjust mammon” is a test currency; failure there disqualifies for “the true.”",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two masters is not divided time but divided love; the verb is total.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Public height is private stench: human honor and divine judgment invert.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "God of power and mercy, from whom it comes that your faithful serve you worthily and meritoriously, grant that we may advance without hindrance toward the goods you promise us. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, fount and origin of our salvation, grant that, as long as our life lasts here on earth, we may praise you without ceasing and thus one day share in the eternal praise of heaven. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our whole life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place you may always be offered worthy service, and thus your faithful may obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, increase in your Church the gifts of the Holy Spirit, so that your people may always grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that coincide with Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room: drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Now I rejoice in the Lord exceedingly that now at length your thought for me hath flourished again, as you did also think; but you were busied.",
+        "I speak not as it were for want. For I have learned, in whatsoever state I am, to be content therewith.",
+        "I know both how to be brought low, and I know how to abound (every where and in all things I am instructed): both to be full and to be hungry: both to abound and to suffer need.",
+        "I can do all things in him who strengtheneth me.",
+        "Nevertheless, you have done well in communicating to my tribulation.",
+        "And you also know, O Philippians, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but you only.",
+        "For unto Thessalonica also you sent once and again for my use.",
+        "Not that I seek the gift: but I seek the fruit that may abound to your account.",
+        "But I have all and abound: I am filled, having received from Epaphroditus the things you sent, an odour of sweetness, an acceptable sacrifice, pleasing to God.",
+        "And may my God supply all your want, according to his riches in glory in Christ Jesus."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Philippians 4:10-19",
+      "reference": "Philippians 4:10-19",
+      "heading": "A reading from the Letter of St. Paul to the Philippians",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And I say to you: Make unto you friends of the mammon of iniquity: that when you shall fail, they may receive you into everlasting dwellings.",
+        "He that is faithful in that which is least is faithful also in that which is greater: and he that is unjust in that which is little is unjust also in that which is greater.",
+        "If then you have not been faithful in the unjust mammon, who will trust you with that which is the true?",
+        "And if you have not been faithful in that which is another's, who will give you that which is your own?",
+        "No servant can serve two masters: for either he will hate the one and love the other: or he will hold to the one and despise the other. You cannot serve God and mammon.",
+        "Now the Pharisees, who were covetous, heard all these things: and they derided him.",
+        "And he said to them: you are they who justify yourselves before men, but God knoweth your hearts. For that which is high to men is an abomination before God."
+      ],
+      "lineRefs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 16:9-15",
+      "reference": "Luke 16:9-15",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 31st week of Ordinary Time",
+        "key": "saturdayOfThe31stWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week III",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/07.html",
+    "title": "Gospel and Word of the Day - 7 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/07.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-07"
+}
