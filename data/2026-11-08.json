@@ -1,0 +1,295 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "706bef2dfd695cab4ed5ae37da9d26bd791253504bf35dd4c4ddd77eed32e9d0",
+        "inputSha256": "112bffde2300fdf24d35d7b188d50305ba6878b168b1a053bf9f6cdc1d52767d",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f46ad660046a8e468a20be75bf4d10cef4eda5ea860afe1299fa2d505ff7a6bc",
+        "inputSha256": "400c46258ffc4898b333c88d02789e09712be8ea67da9595534bbab77c2b0c7e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c115e6eef05cfb5d0b172700c090703701d63f9fb4925abe2f1cd66dd27e75a1",
+        "inputSha256": "95f7b0761a227f9b2d4b979b9d43cca730143e2f9f8be59a54a5c06213e6fdd5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-08T07:17:45.590Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This desire for Wisdom that arrives before you do feels like the Dao that “comes” when you stop forcing it, and like Zen’s insistence that the sought is already at the gate when attention is clean. The lamp-and-oil divide reads psychologically as the difference between borrowed persona and metabolized practice; you can’t outsource readiness at the moment of demand.\n\nThe midnight cry has the snap of Sufi wakefulness, the sudden summons that finds the heart either seasoned or merely excited; speculation, but the “oil” resembles baraka as an accumulated interior quality, not a transferable commodity. The shut door echoes the Bhagavad Gita’s emphasis on steady discipline over last-minute fervor, and the Stoic claim that character is forged in advance, not improvised under crisis.\n\nWisdom “sitting at the door” also rhymes with the Upanishadic idea that the Self is nearer than near, and with Plato’s anamnesis, learning as remembering what was always available. Speculation: the harsh “I know you not” lands like the Buddhist mirror—reality reflects what is there, not what is pleaded for.",
+    "excursus": "Wisdom here is not a gentle teacher but a seducer with a schedule. “Covet” is the tell: desire is the engine, not virtue. She “prevents” you, gets there first, sits at your door like an ambush. The promise of “security” is the narcotic—keep thinking of her and you won’t feel the panic of contingency.\n\nMatthew turns that narcotic into dread. Everyone sleeps; the division isn’t moral alertness but private reserves. Oil is interior life hoarded in a flask, the part of you that can’t be borrowed at the last minute. The wise refuse to share not because they’re cold, but because the self can’t be portioned out without going dark. The market is a cruel joke: go buy what can’t be bought.\n\nThe bridegroom’s “I know you not” lands like a diagnosis. You can perform readiness, carry a lamp, join the procession, even call him “Lord,” and still be unrecognizable when the door closes. The story doesn’t reward goodness; it rewards having enough hidden fuel to burn through delay. Desire either becomes a storehouse or it becomes a costume, and midnight exposes which one you are.",
+    "synthesis": "Grace offers Wisdom ahead of our search, but entry into the kingdom requires a non-transferable readiness formed before the summons. Judgment is the moment when delayed desire meets a shut door.",
+    "gospel": [
+      {
+        "text": "The narrative divides humanity not by invitation but by preparation: all are in the wedding party, yet only some carry surplus. The “vessels” signal an interior capacity that must be filled before the crisis, not during it.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The sequence—trim, request, plead—shows escalating urgency that cannot reverse prior neglect. The final imperative to watch is not about predicting the hour but about living in a state where recognition and entry are already secured.",
+        "lines": [
+          7,
+          8,
+          11,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage argues that Wisdom is publicly available yet personally appropriated: she is “easily seen” and also encountered at one’s own threshold. The rhetoric collapses distance—seeking is met by presence—so the moral problem shifts from access to attention.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "Desire, initiative, and cognition are braided: the text treats rightly ordered longing as the engine of formation, while insisting that Wisdom’s initiative precedes human motion. The result is a doctrine of receptivity: instruction is not seized but received by those already turned toward it.",
+        "lines": [
+          1,
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Covet” is rehabilitated: desire redirected from possession to instruction.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Wisdom is not scarce; the scarcity is love and seeking.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Priority is inverted: the seeker is preceded; grace outruns appetite.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "She is found “sitting”: Wisdom waits; the door becomes a threshold of judgment.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Thinking becomes vigilance; contemplation is treated as security, not ornament.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lamps without oil: liturgy without interior reserve; procession without provision.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "All sleep: virtue is not insomnia; the test is what remains when consciousness drops.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Midnight: the summons arrives at the least convenient hour; readiness is preloaded.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Refusal is not cruelty but non-transferability: preparedness cannot be donated at the last minute.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The shut door is the parable’s hard edge: time congeals into verdict.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“I know you not”: exclusion framed as failed recognition, not failed effort.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the same church that has been dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus may your faithful obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the dedicated church:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may ever grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who each year make us relive the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus may your faithful obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may ever grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and merciful God, keep all evil away from us, so that, with our body and spirit rightly disposed, we may freely accomplish your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and merciful God, keep all evil away from us, so that, with our body and spirit well disposed, we may freely accomplish your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and merciful God, keep all evil far from us, so that, with our body and spirit well disposed, we may freely accomplish your will. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Within the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus may your faithful obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may always grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called the Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that fall on Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; may your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Covet ye, therefore, my words, and love them, and you shall have instruction.",
+        "Wisdom is glorious, and never fadeth away, and is easily seen by them that love her, and is found by them that seek her.",
+        "She preventeth them that covet her, so that she first sheweth herself unto them.",
+        "He that awaketh early to seek her, shall not labour: for he shall find her sitting at his door.",
+        "To think, therefore, upon her, is perfect understanding: and he that watcheth for her, shall quickly be secure."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Wisdom 6:12-16",
+      "reference": "Wisdom 6:12-16",
+      "heading": "A reading from the Book of Wisdom",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Then shall the kingdom of heaven be like to ten virgins, who taking their lamps went out to meet the bridegroom and the bride.",
+        "And five of them were foolish and five wise.",
+        "But the five foolish, having taken their lamps, did not take oil with them.",
+        "But the wise took oil in their vessels with the lamps.",
+        "And the bridegroom tarrying, they all slumbered and slept.",
+        "And at midnight there was a cry made: Behold the bridegroom cometh. Go ye forth to meet him.",
+        "Then all those virgins arose and trimmed their lamps.",
+        "And the foolish said to the wise: Give us of your oil, for our lamps are gone out.",
+        "The wise answered, saying: Lest perhaps there be not enough for us and for you, go ye rather to them that sell and buy for yourselves.",
+        "Now whilst they went to buy the bridegroom came: and they that were ready went in with him to the marriage. And the door was shut.",
+        "But at last came also the other virgins, saying: Lord, Lord, open to us.",
+        "But he answering said: Amen I say to you, I know you not.",
+        "Watch ye therefore, because you know not the day nor the hour."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 25:1-13",
+      "reference": "Matthew 25:1-13",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "32nd Sunday of Ordinary Time",
+        "key": "32ndSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/08.html",
+    "title": "Gospel and Word of the Day - 8 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/08.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-08"
+}
