@@ -1,0 +1,336 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "753dad6524f9bb68358acf3dcbf348dec13b420c215294ef7b6c786657519b5e",
+        "inputSha256": "86fd183d957f29e67fad1090d966739f262d27d63e7c75df497b96c8a7c2c974",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "f1e715fb8a7cf28fd08a11675c007b96eb8935d7144f17eba83a65e9c8dcda42",
+        "inputSha256": "bd1e8c57e68d3b95cd2dd10435df8127a122d389b6525181373b137944063ee3",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "19063a17e9fcc65a4ec3feb36c2c05944322680296f3fcc18003d901c47cd0c8",
+        "inputSha256": "1406afb9e2da37cf24447aebba1568c0462ba0ae7c76c69dee6648d640fa9216",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-09T07:59:02.323Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Ezekiel’s river resembles the Hindu Ganga: not mere water but a current of sanctity that “heals” what it touches; speculation: both imagine holiness as transmissible, almost ecological, turning geography into physiology. The fruit trees with medicinal leaves echo the Buddhist image of dharma as medicine and the bodhisattva as physician; here, the cure is not advice but a living environment grown from the sacred source.\n\nJohn’s temple scene parallels the Stoic and Cynic suspicion of commerce as a corrosion of the inner citadel; the whip is a dramatized psychotherapy, an intervention against compulsive exchange that has colonized the psyche’s sanctuary. “Destroy this temple” aligns with Zen’s iconoclasm toward external forms; speculation: the shock is meant to break attachment to the building so the body becomes the only credible altar, a relocation of the sacred from institution to person.",
+    "excursus": "Ezekiel’s water is not comfort; it is a leak. The sanctuary can’t hold itself together, and what escapes becomes a torrent that colonizes everything it touches. The “healing” is invasive: the desert gets rewritten, the sea gets corrected, trees are conscripted into endless productivity, fruit on schedule, leaves that never fall. It’s a fantasy of life without winter, which is another way of saying life without permission to die. The holy place emits a substance that won’t let the world remain itself.\n\nJohn’s temple scene is the same pressure turned violent. Jesus doesn’t purify; he breaks the social skin that makes worship manageable. The whip is theater and threat, a public nervous system snapping. “My Father’s house” is not a shared civic space but a private body he claims, and the claim demands eviction. Then he shifts the building into himself: the real temple is a body that can be destroyed and rebuilt, which is to say a body that will not stay dead.\n\nPut them together and the dread sharpens. The sacred is not a refuge from appetite and exchange; it is appetite intensified, desire for a world remade at any cost. Water pours from the altar like blood from a wound, and the cure is indistinguishable from takeover. The sign is not serenity but a promise: everything you rely on can be overturned, and the thing that overturns it will call itself life.",
+    "synthesis": "God’s dwelling is no longer secured by a managed sanctuary but is identified with the crucified-and-raised body of Christ, from whom healing life flows into what is dead. True worship therefore purges commerce and generates restoration rather than revenue.",
+    "gospel": [
+      {
+        "text": "Passover frames the action as a contest over liberation and its symbols. The question for a “sign” exposes the temple’s crisis: authority is demanded in the idiom of spectacle, while Jesus acts as if ownership is already settled.",
+        "lines": [
+          1,
+          2,
+          6
+        ]
+      },
+      {
+        "text": "The narrative relocates the temple from architecture to a body, and then from body to interpretation after resurrection. The misunderstanding about construction time is not incidental; it marks the end of building as the mode of access to God, replaced by a raised body that becomes the definitive site of presence and the key that makes Scripture intelligible.",
+        "lines": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The vision is staged as a guided inspection: the prophet is walked around the structure so the source can be identified as the sanctuary itself, then the stream is traced outward until it reaches what Israel cannot fix by policy—desert and sea. The point is not irrigation but a new center of causality: holiness becomes the origin of ecological and social restoration.",
+        "lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The effects are comprehensive: from “creeping” life to cultivated trees, the torrent reorganizes the whole food chain and calendar. The monthly yield implies a reordered time, where worship is no longer episodic tribute but continuous production of life that can be eaten and administered as remedy.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Water from under the threshold: life leaks from holiness, not from human plumbing.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Eastward orientation: worship has a direction; grace has a vector.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Right side, south of the altar: the torrent is liturgically sited, not random nature.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "He is led out to see what cannot be seen from inside: revelation requires displacement.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Desert-to-sea itinerary: the stream seeks the dead place on purpose.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Waters shall be healed”: the sea is the patient; creation is treated, not merely admired.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Creeping things live: the lowest forms are not beneath the torrent’s reach.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Abundance of fish: fertility where sterility was assumed.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Trees on both banks: symmetry of gift; no privileged shoreline.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Leaf does not fall, fruit does not fail: time’s usual losses are suspended.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Monthly firstfruits: perpetual offering generated by the sanctuary itself.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Food and medicine: nourishment and cure are one economy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Scourge of cords: judgment is handmade, deliberate, not a tantrum.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He drives out animals and money alike: sacrifice and commerce share the same contamination.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Coins poured out, tables overturned: value is de-minted; stability is revoked.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "House of Father vs house of traffic: filiation excludes monetization.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Zeal that eats: devotion as self-consuming fire, not polite preference.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Destroy this temple”: permission to break the sign once the reality arrives.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus may your faithful obtain the fruits of a full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, increase in your Church the gifts of the Holy Spirit, so that your people may ever grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place you may always be offered worthy service, and thus your faithful may obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may ever grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you have willed that your people be called the Church; grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the same dedicated church:\n\nLord, you who make us relive each year the day of the consecration of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus your faithful may obtain the fruits of full redemption. Through Jesus Christ our Lord.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called the Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus your faithful may obtain the fruits of full redemption. Through Jesus Christ our Lord.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may always grow for the building up of the heavenly Jerusalem. Through Jesus Christ our Lord.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place you may always be offered worthy service, and thus your faithful may obtain the fruits of full redemption. Through Jesus Christ our Lord.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, increase in your Church the gifts of the Holy Spirit, so that your people may always grow for the building up of the heavenly Jerusalem. Through Jesus Christ our Lord.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "In the church dedicated:\n\nLord, you who make us relive each year the day of the dedication of this church, hear the prayers of your people, and grant that in this place a worthy service may always be offered to you, and thus that your faithful may obtain the fruits of full redemption. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOutside the church dedicated:\n\nLord, you who build the temple of your glory with living and chosen stones, multiply in your Church the gifts of the Holy Spirit, so that your people may always grow for the building up of the heavenly Jerusalem. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.\nAmen.\n\nOr:\n\nLord our God, you who have willed that your people be called the Church, grant that, gathered in your name, it may worship you, love you, follow you, and, guided by you, attain the kingdom you have promised it. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he brought me again to the gate of the house, and behold waters issued out from under the threshold of the house toward the east: for the forefront of the house looked toward the east: but the waters came down to the right side of the temple to the south part of the altar.",
+        "And he led me out by the way of the north gate, and he caused me to turn to the way without the outward gate to the way that looked toward the east: and behold there ran out waters on the right side.",
+        "And he said to me: These waters that issue forth toward the hillocks of sand to the east, and go down to the plains of the desert, shall go into the sea, and shall go out, and the waters shall be healed.",
+        "And every living creature that creepeth whithersoever the torrent shall come, shall live: and there shall be fishes in abundance after these waters shall come thither, and they shall be healed, and all things shall live to which the torrent shall come.",
+        "And by the torrent on the banks thereof on both sides shall grow all trees that bear fruit: their leaf shall not fall off, and their fruit shall not fail: every month shall they bring forth firstfruits, because the waters thereof shall issue out of the sanctuary: and the fruits thereof shall be for food, and the leaves thereof for medicine."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "8",
+        "9",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 47:1-2,8-9,12",
+      "reference": "Ezekiel 47:1-2,8-9,12",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And the pasch of the Jews was at hand: and Jesus went up to Jerusalem.",
+        "And he found in the temple them that sold oxen and sheep and doves, and the changers of money sitting.",
+        "And when he had made, as it were, a scourge of little cords, he drove them all out of the temple, the sheep also and the oxen: and the money of the changers he poured out, and the tables he overthrew.",
+        "And to them that sold doves he said: Take these things hence, and make not the house of my Father a house of traffic.",
+        "And his disciples remembered, that it was written: The zeal of thy house hath eaten me up.",
+        "The Jews, therefore, answered, and said to him: What sign dost thou shew unto us, seeing thou dost these things?",
+        "Jesus answered and said to them: Destroy this temple; and in three days I will raise it up.",
+        "The Jews then said: Six and forty years was this temple in building; and wilt thou raise it up in three days?",
+        "But he spoke of the temple of his body.",
+        "When therefore he was risen again from the dead, his disciples remembered that he had said this: and they believed the scripture and the word that Jesus had said."
+      ],
+      "lineRefs": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "John 2:13-22",
+      "reference": "John 2:13-22",
+      "heading": "From the Gospel according to John",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "FEAST",
+        "name": "Dedication of the Lateran Basilica",
+        "key": "dedicationOfTheLateranBasilica"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/09.html",
+    "title": "Gospel and Word of the Day - 9 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/09.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-09"
+}
