@@ -1,0 +1,275 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "d73a2f1a0e25bfea36fd204ff5e41390f0aa00661e75b7d2cf593f84fd289afa",
+        "inputSha256": "0fc3f7504792fe04da5c351fc0ca2957b0fb73933c759b994ed6b522d59d5f43",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "ca095baea5f7ef2f2329cda46634eab4f40b80851930e5b018cfcb988da5f2dc",
+        "inputSha256": "912a49feab32aa58ff2de0c0da60703a2dc138a95a4d7cc9bc7e4a5eb6297b15",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "2f454dd65a80ea4c20a1fcf03c64247774d14f6106a03545d0d8f480ce4f12c3",
+        "inputSha256": "90de0ddc0786c5cb08361d9c49f483e7cecbaa26b53e711d2ad376307d1f7661",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-10T08:24:32.308Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Paul’s household ethic and Luke’s “unprofitable servant” share a single psychological aim: dissolve the ego’s demand to be admired. Virtue here is not performance for applause but steadiness under anonymity, a trained indifference to being owed thanks. That interior decentering is what makes “sound words” unassailable; the opponent finds no handle because vanity has been starved.\n\nSemina Verbi: Stoicism’s prohairesis and Epictetus’s insistence on doing one’s role without craving recognition runs close. Confucian li and filial role-ethics similarly bind character to ordinary duties rather than heroic display. In the Bhagavad Gita, nishkama karma—action without attachment to fruit—echoes the same ego-thinning discipline. In Zen, “no gaining idea” (speculative parallel) resembles the servant’s refusal to convert obedience into self-congratulation. In Sufism, adab and khidma—courtesy and service—treat the self’s hunger for credit as the real disorder.",
+    "excursus": "This is not comfort; it is social engineering with a holy alibi. Titus reads like an anxious manual for keeping scandal away: old bodies disciplined, young bodies domesticated, speech scrubbed so the “contrary part” has nothing to grab. The point is not virtue as radiance but virtue as camouflage. Desire is treated as a leak that will betray the group, so everyone is trained to become opaque.\n\nThen Luke says the quiet part aloud: no gratitude, no intimacy, no reciprocity. You work, you serve, you disappear. “Unprofitable” is not humility; it is identity. The master’s meal comes first, and your hunger is permitted only after your usefulness has been extracted.\n\nPut together, the texts stage a dread bargain: belong and be clean, but accept being replaceable. Grace “appears,” yet it arrives as instruction, as management, as the internal voice that tells you not merely to obey but to feel no claim on love for obeying. The hope promised at the horizon is what makes the present bearable: keep serving now, and call the ache holiness.",
+    "synthesis": "Grace creates a people whose obedience is necessary, not meritorious. Christian ethics is the public form of a redeemed life lived under coming glory, without claims of entitlement.",
+    "gospel": [
+      {
+        "text": "The parable dismantles the economy of recognition. The master’s meal is not payment; it is hierarchy enacted. The disciple is trained to refuse the claim that obedience generates entitlement, thereby excluding spiritual bargaining.",
+        "lines": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage builds a public ethic by distributing responsibility across stations and ages, then concentrates it in the leader: the teacher’s life must carry the weight of the teaching. The community’s credibility is treated as a theological asset to be guarded under scrutiny.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The ground of the moral program is eschatological: grace has appeared and glory will appear. Life “in this world” is framed as an interim discipline ordered by expectation, not by self-expression.",
+        "lines": [
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Doctrine is not ornament; it has a fittingness that governs speech.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Age is tasked with steadiness: faith, love, patience—virtues that outlast impulse.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Holy attire” is public theology; slander and wine are rival liturgies.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Domestic order is missional: conduct can either shield or invite blasphemy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The aim is adversary-silence: integrity as a muzzle for accusation.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Grace trains by negation first: denial precedes any positive ethic.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Redemption is purification toward ownership: a people claimed, then driven into works.",
+      "lines": [
+        12
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The servant returns from labor to more labor; duty does not expire at fatigue.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Commanded obedience is not a gift offered; it is a debt paid.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The final word is self-demotion: “unprofitable” cuts off merit at the root.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who do not allow the power of hell to overcome your Church, founded upon the firmness of the apostolic rock, grant, through the prayers of Pope Saint Leo the Great, that she may remain ever steadfast in the truth, so that she may enjoy lasting peace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, you who do not allow the power of hell to overcome your Church, founded upon the firmness of the apostolic rock, grant, through the prayers of Pope Saint Leo the Great, that she may remain ever steadfast in the truth, and so enjoy lasting peace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who do not allow the power of hell to overcome your Church, founded upon the firmness of the apostolic rock, grant, through the prayers of Pope Saint Leo the Great, that she may always remain steadfast in the truth, so that she may enjoy lasting peace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight our night, Lord, and grant us peaceful rest; may we rise tomorrow in your name and, in health and joy, behold the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "But speak thou the things that become sound doctrine:",
+        "That the aged men be sober, chaste, prudent, sound in faith, in love, in patience.",
+        "The aged women, in like manner, in holy attire, not false accusers, not given to much wine, teaching well:",
+        "That they may teach the young women to be wise, to love their husbands, to love their children.",
+        "To be discreet, chaste, sober, having a care of the house, gentle, obedient to their husbands: that the word of God be not blasphemed.",
+        "Young men, in like manner, exhort that they be sober.",
+        "In all things shew thyself an example of good works, in doctrine, in integrity, in gravity,",
+        "The sound word that can not be blamed: that he who is on the contrary part may be afraid, having no evil to say of us.",
+        "For the grace of God our Saviour hath appeared to all men:",
+        "Instructing us, that, denying ungodliness and worldly desires, we should live soberly and justly and godly in this world,",
+        "Looking for the blessed hope and coming of the glory of the great God and our Saviour Jesus Christ.",
+        "Who gave himself for us, that he might redeem us from all iniquity and might cleanse to himself a people acceptable, a pursuer of good works."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Titus 2:1-8,11-14",
+      "reference": "Titus 2:1-8,11-14",
+      "heading": "A reading from the Letter of St. Paul to the Titus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But which of you, having a servant ploughing or feeding cattle, will say to him, when he is come from the field: Immediately go. Sit down to meat.",
+        "And will not rather say to him: Make ready my supper and gird thyself and serve me, whilst I eat and drink; and afterwards thou shalt eat and drink?",
+        "Doth he thank that servant for doing the things which he commanded him?",
+        "I think not. So you also, when you shall have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do."
+      ],
+      "lineRefs": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 17:7-10",
+      "reference": "Luke 17:7-10",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "DOCTOR_OF_THE_CHURCH"
+        ],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Leo the Great, Pope and Doctor",
+        "key": "saintLeoTheGreatPopeAndDoctor"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/10.html",
+    "title": "Gospel and Word of the Day - 10 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/10.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-10"
+}
