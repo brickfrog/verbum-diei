@@ -1,0 +1,261 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b57e0103bec244da24a873f36d65f8eb52e58115fc3d4c9fe050ddf2f9cae523",
+        "inputSha256": "ebba870c899762a0187d166372099043de244d8c0a184b78123647e5813752ca",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "04890270861ae8fab71489a9eae4a20ee159305f884d6c49fb91310c320c7a2c",
+        "inputSha256": "6049c7be692d4c1415f7ba60e5a00bf7ed40f3a78490ec8568d125e88d2557ea",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "abd0b436ecc991faef18302421dbd42083a3958953a4753724f246b011e28eba",
+        "inputSha256": "b44c3496e06fefc156c2d5c8ecb67f9030f88f08271b8cb56ced272c7627d3fa",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-11T07:44:26.358Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The ethic here is social adulthood: submit to the civic order, refuse the narcotic of contempt, and practice a gentleness that is not naïve but disciplined. Psychologically it reads like a program for people who know their own capacity for ugliness; the memory of having been “unwise” becomes the brake on cruelty. Mercy is not a reward for self-improvement but an interruption that re-forms the self from the inside, like a new nervous system.\n\nThe lepers’ distance is shame made spatial. Healing arrives as a task, not a spectacle: walk, expose yourself, re-enter the world’s scrutiny. Nine take the cure and run; one turns back because gratitude is more than manners, it is integration. The outsider is the only one who can see the gift as gift; the insiders treat it as entitlement. Faith “making whole” is not mere symptom relief but the restoration of relationship, the end of exile.\n\nSemina Verbi: Stoicism’s oikeiosis and Epictetus’s refusal to slander echo the trained gentleness toward all, though the source there is reason rather than mercy. Buddhism’s metta and the discipline of non-harming parallel the ban on litigious speech, and the return to give thanks resembles the mindful recognition of dependent arising; speculation: gratitude functions as awakening to reality. In Confucian ren and li, the healed man’s return reads like ritual propriety that repairs the social fabric, while the text’s preference for the “stranger” quietly critiques status. In Islam, shukr as a whole-life response to divine beneficence matches the one who returns; speculation: the nine resemble heedlessness (ghaflah), cured in body but not in attention. In Hindu bhakti, the turn back toward the giver is devotion as wholeness, not transaction, a movement from benefit to beloved.",
+    "excursus": "Paul’s “be subject” is not virtue; it’s damage control. A community of former addicts of desire and spite learns to survive by lowering its profile, speaking softly, obeying quickly. The moral tone is almost bureaucratic: don’t attract the whip. Mercy arrives not as reward but as interruption, a wash that rewires the nervous system. Grace isn’t flattering; it’s an amnesty that humiliates the self-made.\n\nLuke stages the same humiliation. Jesus doesn’t touch the lepers; he sends them into the machinery of approval, toward priests, toward paperwork. Healing happens while they comply, as if the body is cured by submission to the social script. But the one who turns back breaks the script. He’s the wrong ethnicity, the wrong worshipper, and he refuses to let his cure be absorbed into normal life.\n\nThe nine want cleanliness; the Samaritan wants contact. Gratitude here is not politeness but obsession: he returns loud, almost indecent, to the feet. Jesus’ question—where are the nine?—is not a lesson in manners; it’s the ache of being used. “Your faith made you whole” means more than skin. It means he chose dependence over respectability, desire over reintegration. Wholeness is the wound that keeps you near.",
+    "synthesis": "God saves by merciful regeneration, not by human justice, and the saved are identified by obedient trust that returns to give God glory.",
+    "gospel": [
+      {
+        "text": "The scene is staged on a borderland road to Jerusalem, where impurity and ethnic suspicion already rule. The nine accept restoration as an endpoint; the one reads it as a sign that must be returned to its source. The narrative isolates doxology as the proper completion of mercy, and it assigns that completion to the outsider.",
+        "lines": [
+          1,
+          3,
+          5,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage pivots on an appearance: divine “kindness” enters history and reconstitutes status—saved, then justified, then made heirs. The ethical imperatives at the front are not a ladder to God but the public shape of a people who know their prior condition and their new inheritance.",
+        "lines": [
+          4,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Civic subjection is framed as moral readiness: obedience becomes a posture for “every good work.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The indictment is communal—“we ourselves”: memory of degradation is made a restraint on contempt.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A hard negation: salvation is not a wage; the instrument is washing and Spirit, not merit.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Abundantly” refuses scarcity; grace is described as overflow, not ration.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Distance is their liturgy: exclusion becomes the setting of petition.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Command precedes cure; they move while still unclean—obedience in the dark.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Gratitude takes a body: prostration; and the scandal is named—Samaritan.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Christ counts the healed; arithmetic becomes accusation.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cleansing is not the last word: faith yields “whole,” a larger verdict than skin.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who were glorified by the life and death of your bishop Saint Martin of Tours, renew in our hearts the wonders of your grace, so that neither life nor death may separate us from your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who were glorified by the life and death of your bishop Saint Martin of Tours, renew in our hearts the wonders of your grace, so that neither life nor death may separate us from your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who were glorified by the life and death of your Bishop Saint Martin of Tours, renew in our hearts the wonders of your grace, so that neither life nor death may separate us from your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, with body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work.",
+        "To speak evil of no man, not to be litigious but gentle: shewing all mildness towards all men.",
+        "For we ourselves also were some time unwise, incredulous, erring, slaves to divers desires and pleasures, living in malice and envy, hateful and hating one another.",
+        "But when the goodness and kindness of God our Saviour appeared:",
+        "Not by the works of justice which we have done, but according to his mercy, he saved us, by the laver of regeneration and renovation of the Holy Ghost.",
+        "Whom he hath poured forth upon us abundantly, through Jesus Christ our Saviour:",
+        "That, being justified by his grace, we may be heirs according to hope of life everlasting."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Titus 3:1-7",
+      "reference": "Titus 3:1-7",
+      "heading": "A reading from the Letter of St. Paul to the Titus",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee.",
+        "And as he entered into a certain town, there met him ten men that were lepers, who stood afar off.",
+        "And lifted up their voice, saying: Jesus, Master, have mercy on us.",
+        "Whom when he saw, he said: Go, shew yourselves to the priests. And it came to pass, as they went, they were made clean.",
+        "And one of them, when he saw that he was made clean, went back, with a loud voice glorifying God.",
+        "And he fell on his face before his feet, giving thanks. And this was a Samaritan.",
+        "And Jesus answering, said: Were not ten made clean? And where are the nine?",
+        "There is no one found to return and give glory to God, but this stranger.",
+        "And he said to him: Arise, go thy way; for thy faith hath made thee whole."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 17:11-19",
+      "reference": "Luke 17:11-19",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Martin of Tours, Bishop",
+        "key": "saintMartinOfToursBishop"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/11.html",
+    "title": "Gospel and Word of the Day - 11 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/11.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-11"
+}
