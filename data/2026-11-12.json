@@ -1,0 +1,211 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "8e0a7508f3a53c0acdfcd72a008a73329ea2cb20554c213feaaea26139aad6dc",
+        "inputSha256": "61226ab30a71f9d59346bddc3a6226038e1a8f2fd6a9d0982ac68f6813627935",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "8614b4cbd7f059d19bbdcf107b27620ea39d7ba3106958b8d268e8c2923c44be",
+        "inputSha256": "d26e878c578e2319a40b813b55cbd442f46e7a96ed8d455c9f57f8ebf367c588",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "e320a4ec9ef05dbf651316b0616be297c52352eb18d649e2baaf7e2b4419847a",
+        "inputSha256": "f35eeace43079fdb8825edc4ee55a27cf1ef294ab8b61505efa0947e3ceedcbf",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-12T08:18:23.858Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The line that bites is “within you”: the kingdom is not a spectacle to be verified but an interior regime that either takes you over or doesn’t. The Pharisees want a calendar and a map; Jesus refuses both, because the craving to locate the holy “over there” is itself the addiction that keeps it absent. Psychologically, it’s an attack on externalization: the mind that hunts for proof, signs, and timelines is the mind avoiding conversion. “Observation” becomes a defense mechanism, a way to stay a spectator.\n\nThen the text turns and tightens: once you’ve been told the kingdom is not trackable, you’re warned you’ll still be tempted by trackers. “See here, see there” names the perennial market for certainty, the false relief of joining a crowd that claims it has the inside angle. The instruction is not merely prudential; it’s diagnostic. The hunger for a single “day” of the Son of Man is a longing for an intense experience that would cancel ambiguity. The refusal—“you shall not see it”—forces endurance: faith as sobriety, not intoxication.\n\nLightning is not a clue; it’s an interruption. It doesn’t invite pursuit; it abolishes it. The Son of Man “in his day” arrives as an event that cannot be managed, predicted, or used. That image strips the ego of its favorite role: the one who gets there first, who knows, who can point. And then the final sentence lands like gravity: before any unveiling, there is suffering and rejection. The interior kingdom is not a private glow; it is a path that makes you unfit for the generation’s applause.\n\nSemina Verbi: this interior, non-spectacular reign echoes the Stoic idea of the ruling principle within (hegemonikon), where freedom is an inward governance rather than a change of scenery. It also resembles Zen’s suspicion of chasing “kensho” as an experience to possess; the warning against “here/there” teachers feels adjacent, though that parallel is speculative. The lightning-like arrival recalls apocalyptic motifs in Zoroastrian and later Islamic imagination of sudden disclosure, but here the shock is yoked to prior humiliation, closer in spirit to the bodhisattva’s vow to enter suffering rather than escape it.",
+    "excursus": "They want a timetable, a spectacle, a proof you can point to. He refuses the whole economy of watching. The kingdom doesn’t arrive like weather; it’s already lodged inside the very people asking, like a splinter they can’t extract. “Within you” is not comfort. It’s accusation: the thing you demand to see has been living in your body, and you’ve trained yourself not to feel it.\n\nThen he turns to his own and names the addiction that follows disappointment: you will crave a single clean day when everything makes sense, one bright frame to stop the film. You won’t get it. In that hunger, you’ll become easy prey for voices that offer coordinates—here, there—anything to quiet the ache. He commands them not to follow because the desire to follow is the real danger.\n\nLightning is not guidance; it’s exposure. It doesn’t lead you; it reveals you for an instant and leaves you blinking in the dark. The “day” of the Son of Man is not a pageant but a flash that shows what you’ve become while you waited.\n\nAnd before any revelation, there is rejection. Not as a theological necessity but as a psychological law: the generation cannot tolerate what is already within it, so it expels it. The kingdom presses from the inside, and the first public sign of it is violence against the one who names it.",
+    "synthesis": "The kingdom of God is not accessed by external calculation but by submission to God’s reign, and the Son of Man’s public vindication is inseparable from his prior suffering and rejection.",
+    "gospel": [
+      {
+        "text": "Jesus answers a political-eschatological question by redefining the kingdom’s mode of arrival: it is not an object in the public field but a reign that cannot be captured by the Pharisaic apparatus of verification.",
+        "lines": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "He then splits audiences: the Pharisees get a correction; the disciples get a forecast of deprivation and the ethics of refusal—an instruction for the interim when authority will be counterfeited by directional claims.",
+        "lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "The passage binds apocalypse to passion. The manifestation of the Son of Man is universal in scope, yet it is preceded by a historically particular scandal: suffering and rejection by “this generation,” making the cross the interpretive key to the kingdom.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": []
+  },
+  "marginalia": [
+    {
+      "text": "They want a timetable; he denies the premise: no “observation,” no measurable approach.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The kingdom refuses coordinates; “within you” turns the search inward and indicts the searchers.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "False guidance is always spatial: “here/there.” The command is negative—do not chase, do not trail.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Lightning: unannounced, total, non-local. The Day is not a rumor but an event that overrules sight.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The sequence is fixed: glory is gated by suffering; rejection is not an accident but a necessity.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Desire without fulfillment: disciples learn absence before presence; longing becomes discipline.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, in your Church, the Spirit who moved Saint Josaphat, bishop and martyr, to lay down his life for his flock, and grant, through his intercession, that the same Spirit may give us strength to lay down our lives for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, in your Church, the Spirit that moved Saint Josaphat, bishop and martyr, to lay down his life for his flock, and grant, through his intercession, that the same Spirit may give us strength to lay down our lives for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your ways with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never falter in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, in your Church, the Spirit that moved Saint Josaphat, bishop and martyr, to lay down his life for his flock, and grant, through his intercession, that the same Spirit may give us strength to lay down our lives for our brothers and sisters. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that restores our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And being asked by the Pharisees when the kingdom of God should come, he answering them and said: The kingdom of God cometh not with observation.",
+        "Neither shall they say: Behold here, or behold there. For lo, the kingdom of God is within you.",
+        "And he said to his disciples: The days will come when you shall desire to see one day of the Son of man. And you shall not see it.",
+        "And they will say to you: See here, and see there. Go ye not after, nor follow them.",
+        "For as the lightning that lighteneth from under heaven shineth unto the parts that are under heaven, so shall the Son of man be in his day.",
+        "But first he must suffer many things and be rejected by this generation."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 17:20-25",
+      "reference": "Luke 17:20-25",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Josaphat, Bishop and Martyr",
+        "key": "saintJosaphatBishopAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/12.html",
+    "title": "Gospel and Word of the Day - 12 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/12.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-12"
+}
