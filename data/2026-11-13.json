@@ -1,0 +1,236 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "b401690ed85b5d77c4818075e2192c2fffd3975122787cd165099544530f9b42",
+        "inputSha256": "10bfed3b21ac6b8d99060d854462162ba158b8fb61c47728b20bc1f95922d4d4",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "14a2041930beeb362b1dc29c30180476b584dd74deac1c9485854e9d7c6acd5b",
+        "inputSha256": "0e51e45982990c327e1b2ddcb82ceeec7d451e4751670a9baf4f204987880708",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "7974ce23eafadf7ebd71201e182a9199717b9fde3adf8740d588005b0116e37c",
+        "inputSha256": "cc2c3f51ef8fc37b082f2cc42a0b91406a6bc0c5a5c4d0b10260ceefcab162fb",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-13T07:56:07.214Z"
+  },
+  "commentary": {
+    "seminaVerbi": "This passage treats ordinary life as anesthesia. Eating, marrying, trading, building: not sins, but trance. Disaster arrives not because people are doing “bad” things, but because they are so absorbed in continuity that they cannot imagine an ending. The psyche clings to the familiar rhythm until the rhythm is what kills it.\n\nThe command not to go back is an assault on attachment. “Remember Lot’s wife” is the portrait of backward-looking desire: nostalgia as petrification. The self that turns to secure what it owns becomes a monument to its own fear.\n\n“Whoever seeks to save his life will lose it” names the paradox of identity. The ego’s survival strategy—control, hoarding, retreat—shrinks the soul; surrender enlarges it. The separations in bed, at the mill, in the field show that intimacy and shared labor do not guarantee shared awakening. Two bodies can occupy the same scene while living in different realities.\n\nThe final image refuses a map. The question “Where?” is met with a scavenger’s law: where there is a carcass, the birds arrive. It suggests inevitability and exposure: what is dead in us will be found; what is ripe for judgment draws its agents. Speculation: it also hints that the “taking” is less a rescue than a sorting by gravity, like nature cleaning what has already begun to rot.\n\nSemina Verbi: In Buddhism, the shock resembles impermanence breaking through samsaric routine; clinging is the salt that hardens the heart. In Stoicism, it echoes memento mori and the training to drop externals instantly when fate calls. In the Bhagavad Gita, it rhymes with acting in the world without grasping at the fruits, because grasping binds. In Sufism, it recalls fanā: losing the smaller life to find the real one. Speculation: the eagles over the body resemble Tibetan charnel-ground imagery, where truth is what remains when the self’s decorations are stripped away.",
+    "excursus": "This isn’t a warning against pleasure; it’s a warning against continuity. Eating, drinking, marrying, buying, planting, building: the ordinary narcotic of “tomorrow” that keeps the psyche stitched to its habits. Disaster arrives not as punishment for vice but as the sudden cancellation of the story you tell yourself to stay calm.\n\n“Remember Lot’s wife” reads like contempt for attachment, but it’s really a portrait of desire’s recoil. She looks back because she wants the old heat, the familiar ruin, the identity she had inside the burning city. The salt is what happens when longing hardens into a statue: you become the monument of what you refused to outgrow.\n\nThe command not to go down for your goods is not moral heroism; it’s triage. When the revelation comes, the self cannot be carried whole. Something must be dropped. The line about saving and losing life is psychological surgery: the part of you that scrambles to preserve itself is precisely what will be stripped.\n\nTwo in one bed, two at the mill, two in the field: intimacy offers no shelter. The taken/left split is not about merit; it’s about readiness for severance. Some can survive the cut because they already live with an inner looseness; others need the world to stay put.\n\nAnd the last image is the bleakest. The eagles gather where the body is because revelation is scavenger truth: it finds what is already dead in you and circles it. The “Son of man” is not a comforter descending; he is the moment your false life is exposed, and the air fills with wings.",
+    "synthesis": "The coming of the Son of Man exposes the futility of self-preservation and the irrelevance of ordinary securities; salvation is determined by God’s act of separation, not by human proximity, productivity, or possession.",
+    "gospel": [
+      {
+        "text": "The passage frames revelation as interruption: the Son of Man’s appearing is not an event within normal time but the disclosure that normal time was already under sentence.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Noah and Lot function as paired witnesses: one saved through enclosure, one saved through evacuation; both expose that the decisive line is drawn by God, not by cultural sophistication.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The commands are procedural, not emotional: do not descend, do not return. The question “Where?” seeks coordinates; the answer refuses them, because the separation is not geographically managed but divinely executed.",
+        "lines": [
+          6,
+          11
+        ]
+      }
+    ],
+    "reading": []
+  },
+  "marginalia": [
+    {
+      "text": "Noe as template: history reduced to a pattern, not a lesson.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Ordinary pleasures named as indictment; the ark is a door that closes without debate.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Commerce and cultivation: the world’s continuity becomes its anesthesia.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No time for retrieval; possession is reclassified as drag.",
+      "lines": [
+        6
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "One sentence, one corpse: nostalgia as disobedience.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The calculus inverts: self-preservation is the losing move.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Sameness of circumstance, difference of outcome; intimacy and labor do not shield.",
+      "lines": [
+        9,
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Not a map but a sign: judgment attracts its agents as carrion draws birds.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and merciful God, keep all evil away from us, so that, with our body and spirit well disposed, we may freely accomplish your will. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We ask you, Lord, for your abundant grace, that it may help us to follow the path of your commandments, and so enjoy your consolation in this life and attain eternal happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always illumine us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our faults, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed that your Son should suffer for the salvation of all, grant that, inflamed with your love, we may know how to offer ourselves to you as a living sacrifice. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And as it came to pass in the days of Noe, so shall it be also in the days of the Son of man.",
+        "They did eat and drink, they married wives and were given in marriage, until the day that Noe entered into the ark and the flood came and destroyed them all.",
+        "Likewise as it came to pass in the days of Lot. They did eat and drink, they bought and sold, they planted and built.",
+        "And in the day that Lot went out of Sodom, it rained fire and brimstone from heaven and destroyed them all.",
+        "Even thus shall it be in the day when the Son of man shall be revealed.",
+        "In that hour, he that shall be on the housetop, and his goods in the house, let him not go down to take them away: and he that shall be in the field, in like manner, let him not return back.",
+        "Remember Lot's wife.",
+        "Whosoever shall seek to save his life shall lose it: and whosoever shall lose it shall preserve it.",
+        "I say to you: In that night there shall be two men in one bed. The one shall be taken and the other shall be left.",
+        "Two women shall be grinding together. The one shall be taken and the other shall be left. Two men shall be in the field. The one shall be taken and the other shall be left.",
+        "They answering, say to him: Where, Lord?",
+        "Who said to them: Wheresoever the body shall be, thither will the eagles also be gathered together."
+      ],
+      "lineRefs": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 17:26-37",
+      "reference": "Luke 17:26-37",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "n",
+        "rank": "MEMORIAL",
+        "name": "Saint Frances Xavier Cabrini, Virgin",
+        "key": "saintFrancesXavierCabriniVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week IV",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/13.html",
+    "title": "Gospel and Word of the Day - 13 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/13.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-13"
+}
