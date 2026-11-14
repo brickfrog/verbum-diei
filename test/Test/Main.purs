@@ -5,6 +5,7 @@ import Prelude
 import Control.Monad.Error.Class (throwError)
 import Data.Array as Array
 import Data.Either (Either(..))
+import Data.Foldable (traverse_)
 import Data.Maybe (Maybe(..))
 import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
@@ -42,6 +43,32 @@ main = do
     test "parses ordinal book references" do
       reading <- fetchBibleReading "1 John 1:1-4"
       assertEqual "lineRefs" [ "1", "2", "3", "4" ] reading.lineRefs
+
+    test "reads verse-only citations in single-chapter books" do
+      let cases =
+            [ { heading: "A reading from the Third Letter of John", book: "3 John" }
+            , { heading: "A reading from the Second Letter of John", book: "2 John" }
+            , { heading: "A reading from the Letter to Philemon", book: "Philemon" }
+            , { heading: "A reading from the Letter of Jude", book: "Jude" }
+            , { heading: "A reading from the Book of Obadiah", book: "Obadiah" }
+            ]
+      cases # traverse_ \c -> do
+        let feed = parseWordOfDayFeed (verseOnlyFeedXml c.heading "5-8")
+        item <- case Array.head feed.items of
+          Nothing -> throwError (error "expected one feed item")
+          Just it -> pure it
+        assertEqual "references"
+          [ c.book <> " 1:5-8", "Luke 18:1-8" ]
+          (item.readings <#> _.bibleApiReference)
+        reading <- fetchBibleReading (c.book <> " 1:5-8")
+        assertEqual "lineRefs" [ "5", "6", "7", "8" ] reading.lineRefs
+
+    test "does not treat commentary as a reading or assume omitted chapters in other books" do
+      let feed = parseWordOfDayFeed (verseOnlyFeedXml "A reading from the First Letter of John" "5-8")
+      item <- case Array.head feed.items of
+        Nothing -> throwError (error "expected one feed item")
+        Just it -> pure it
+      assertEqual "only the gospel" [ "Luke 18:1-8" ] (item.readings <#> _.bibleApiReference)
 
     test "resolves book aliases" do
       reading <- fetchBibleReading "Ecclesiasticus 3:2-3"
@@ -281,6 +308,20 @@ expectedRevelation =
   , "12:6"
   , "12:10"
   ]
+
+-- | The 2026-11-14 item omits the chapter for 3 John and includes an inline
+-- | citation in the commentary, which previously became a bogus first reading.
+verseOnlyFeedXml :: String -> String -> String
+verseOnlyFeedXml heading citation =
+  """<rss><channel><item>
+<title>Gospel and Word of the Day - 14 November 2026</title>
+<guid>https://www.vaticannews.va/en/word-of-the-day/2026/11/14.html</guid>
+<description><![CDATA[<p>""" <> heading <> "<br /> " <> citation <> """</p>
+<p>Beloved, you are faithful in all you do for the brothers and sisters.</p>
+<p>From the Gospel according to Luke<br /> 18:1-8</p>
+<p>Jesus told his disciples a parable.</p>
+<p>Christ speaks to his disciples of the “need to pray always, and not to lose heart” (Lk 18:1). Just as we never grow weary of breathing, so let us never grow weary of praying!</p>
+]]></description></item></channel></rss>"""
 
 -- | Trimmed copy of the 2026-08-08 Vatican News item that broke the nightly
 -- | run: upstream flattened every non-ASCII character to '?', so the

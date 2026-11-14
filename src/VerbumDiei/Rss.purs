@@ -10,11 +10,13 @@ import Prelude
 import Control.Alternative (guard)
 import Data.Array as Array
 import Data.Char as Char
+import Data.Either (Either(..))
 import Data.Int as Int
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String (Pattern(..), joinWith, split)
 import Data.String.CodeUnits as CodeUnits
 import Data.String.Common (trim)
+import VerbumDiei.Bible.Citation (parseCitation)
 
 type Feed =
   { title :: String
@@ -173,13 +175,23 @@ parseReadingFromParagraph paragraph = do
       split (Pattern "\n") paragraph
         # map trim
         # Array.filter (_ /= "")
-    citationIndex = Array.findIndex isCitationLine lines
-  idx <- citationIndex
-  citationLine <- Array.index lines idx
-  let
-    heading = fromMaybe "" (Array.index lines 0)
-    splitResult = splitBookCitation citationLine
+    heading = fromMaybe "" (Array.head lines)
     headingBook = extractBookFromHeading heading
+    headingWords = tokenizeWords heading
+    singleChapter = headingBook `Array.elem` [ "Obadiah", "Philemon", "2 John", "3 John", "Jude" ]
+    isVerseOnlyLine line =
+      singleChapter && case parseCitation ("1:" <> normalizeCitation line) of
+        Right _ -> true
+        Left _ -> false
+    citationIndex = Array.findIndex (\line -> isCitationLine line || isVerseOnlyLine line) lines
+  -- Commentary can contain inline scripture references, but it is not a
+  -- reading heading and must never supply the first reading.
+  guard ("reading" `Array.elem` headingWords || isGospelHeading heading)
+  idx <- citationIndex
+  rawCitationLine <- Array.index lines idx
+  let
+    citationLine = if isVerseOnlyLine rawCitationLine then "1:" <> rawCitationLine else rawCitationLine
+    splitResult = splitBookCitation citationLine
     -- Extract base book name (without ordinal prefix like "1 " or "2 ")
     headingBookBase = stripOrdinalPrefix headingBook
     headingBookBaseLower = toLowerString headingBookBase
