@@ -1,0 +1,294 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "4fb07b40c722d0154b5670cf42d6154d7cc35d48b7d3656a3ae98380daee3ebc",
+        "inputSha256": "7ad4cb2cf6f64523cf7ffe89665e5aed12d2a936aa047c7b475c2e0bd5567ccb",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "556eb927cb081b0b9bab6d9cb351176197e81d060adb97503dd5b7278f8fd91c",
+        "inputSha256": "e3b2d808cdd8d34d2f84460a5b28f78a5778dbad5190c18233fcc37df67eb701",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "c2a15101b9b36a6bbdcf9b394b8b2edaaad12d26745a1e075e4e3c59b26022e7",
+        "inputSha256": "f98b68d01eafceb5b89fc9d970a55231f53c9e4baafa4a8a79c07f5576a126dd",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-15T07:51:14.938Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The valiant woman and the trading servants share one spine: mature agency. Worth is not a glow on the surface but a practiced capacity to convert time, skill, and attention into shelter for others. Psychologically, this is the integrated self: desire harnessed, fear metabolized, competence made generous. The “gates” and the “reckoning” are the same public mirror where inner life becomes legible.\n\nThe buried talent reads as anxiety disguised as morality. He calls the master harsh to justify paralysis; he prefers innocence to risk, safety to growth, and so becomes sterile. The punishment is not arbitrary; it is the natural end of a life that refused circulation. What isn’t invested in reality decays into darkness.\n\nSemina Verbi: Aristotle’s phronesis and aretē, where virtue is skillful action proven over time. Confucian ren and li, where trustworthiness is built through patterned work and care. The Bhagavad Gita’s karma-yoga, action without clinging, though here the text insists results matter too. In Buddhism, right effort and the critique of sloth, with the “burying” as a cousin of torpor; speculation: the “joy of the lord” resembles the ease that follows disciplined non-avoidance. In Islam, amanah as entrusted responsibility, and barakah as increase through faithful use. In Stoicism, oikeiōsis and duty: what is given must be exercised, not hoarded. In Jewish Pirkei Avot, “If I am only for myself, what am I?”—the hands that spin are the hands that open.",
+    "excursus": "These readings are not praise songs; they are recruitment posters for a brutal economy of worth.\n\nThe “valiant woman” is priced “from the uttermost coasts,” a rare commodity whose virtue is measured as output: wool, flax, spindle, strong things. Even mercy is rendered as labor, hands opening like a factory line. “Favour is deceitful, beauty is vain” sounds pious, but it is also a purge of the merely pleasing; only the productive survives the audit. Let her works praise her “in the gates,” the public square where reputations are bought and sold.\n\nMatthew makes the same world explicit. The master is absent, unaccountable, and admits he harvests where he did not plant. The successful servants are not morally pure; they are daring. They accept the master’s predation and mirror it, multiplying capital, entering “joy” that reads like relief after terror.\n\nThe one-talent servant is the only honest psychologist in the room. He names the master as hard, feels fear, and refuses the game. He preserves what was given, declining to turn life into profit. For that refusal he is called wicked, not because he stole, but because he would not desire what the master desires. The parable’s dread is that safety is punished: burying the gift is treated as an attack on the system itself.\n\nPut together, Proverbs supplies the ideal worker and Matthew supplies the sanction. Love, trust, praise, even piety become incentives to keep hands moving. The darkness is not for sinners; it is for those who stop producing.",
+    "synthesis": "God entrusts real goods and demands their fruitful use over time. Reverent fear produces durable, public works; servile fear produces concealment and condemnation.",
+    "gospel": [
+      {
+        "text": "The parable is about delegated lordship: goods remain the master’s, time passes, then audit. Reward is not wages but promotion into governance (“over many things”), while judgment is reallocation—capital flows toward proven stewardship.",
+        "lines": [
+          1,
+          6,
+          8,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "The servant’s defense is accepted only as self-indictment: if his premise about the master were true, it would demand greater diligence, not concealment. Fear is exposed as a strategy, not a condition.",
+        "lines": [
+          12,
+          13
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The portrait is public and economic: production (wool/flax), distribution (to needy), and civic recognition (“in the gates”). Wisdom is not interior sentiment but a social order made visible in outputs.",
+        "lines": [
+          4,
+          6,
+          8
+        ]
+      },
+      {
+        "text": "“All the days of her life” frames virtue as duration, not a single feat; the text measures holiness by sustained reliability.",
+        "lines": [
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "“Find” makes virtue rare; “price” makes her a treasure, not an ornament.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Trust replaces plunder; the household runs without predation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Hands trained on “strong things”: domestic labor cast as force-work, not delicacy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Charm and beauty are time-bound currencies; fear of the Lord is the only non-counterfeit.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Distribution is unequal, but not arbitrary: “according to ability” forecloses envy as an excuse.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He buries the gift to keep it “safe”; the earth becomes a vault and a grave.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He theologizes his laziness: a “hard man” invented to justify paralysis.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Minimum fidelity exists: if you will not risk, at least do not sterilize the capital.",
+      "lines": [
+        14
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Exterior darkness is exile from the master’s economy; refusal of work becomes self-expulsion.",
+      "lines": [
+        17
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live joyfully in your service, for in serving you, the creator of every good, lies full and true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live in joy in your service, for in serving you, the creator of every good, lies full and true happiness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live joyfully in your service, for in serving you, the creator of every good, lies full and true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live joyfully in your service, for in serving you, the creator of every good, lies full and true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live joyfully in your service, for in serving you, the creator of every good, consists full and true joy. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live in gladness in your service, for in serving you, the creator of every good, lies full and true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the Resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise joyful to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "Who shall find a valiant woman? far, and from the uttermost coasts is the price of her.",
+        "The heart of her husband trusteth in her, and he shall have no need of spoils.",
+        "She will render him good, and not evil all the days of her life.",
+        "She hath sought wool and flax, and hath wrought by the counsel of her hands.",
+        "She hath put out her hand to strong things, and her fingers have taken hold of the spindle.",
+        "She hath opened her hand to the needy, and stretched out her hands to the poor.",
+        "Favour is deceitful, and beauty is vain: the woman that feareth the Lord, she shall be praised.",
+        "Give her of the fruit of her hands: and let her works praise her in the gates."
+      ],
+      "lineRefs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "19",
+        "20",
+        "30",
+        "31"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Proverbs 31:10-13,19-20,30-31",
+      "reference": "Proverbs 31:10-13,19-20,30-31",
+      "heading": "A reading from the Book of Proverbs",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "For even as a man going into a far country called his servants and delivered to them his goods;",
+        "And to one he gave five talents, and to another two, and to another one, to every one according to his proper ability: and immediately he took his journey.",
+        "And he that had received the five talents went his way and traded with the same and gained other five.",
+        "And in like manner he that had received the two gained other two.",
+        "But he that had received the one, going his way, digged into the earth and hid his lord's money.",
+        "But after a long time the lord of those servants came and reckoned with them.",
+        "And he that had received the five talents coming, brought other five talents, saying: Lord, thou didst deliver to me five talents. Behold I have gained other five over and above.",
+        "His lord said to him: Well done, good and faithful servant, because thou hast been faithful over a few things, I will place thee over many things. Enter thou into the joy of thy lord.",
+        "And he also that had received the two talents came and said: Lord, thou deliveredst two talents to me. Behold I have gained other two.",
+        "His lord said to him: Well done, good and faithful servant: because thou hast been faithful over a few things, I will place thee over many things. Enter thou into the joy of thy lord.",
+        "But he that had received the one talent, came and said: Lord, I know that thou art a hard man; thou reapest where thou hast not sown and gatherest where thou hast not strewed.",
+        "And being afraid, I went and hid thy talent in the earth. Behold here thou hast that which is thine.",
+        "And his lord answering, said to him: Wicked and slothful servant, thou knewest that I reap where I sow not and gather where I have not strewed.",
+        "Thou oughtest therefore to have committed my money to the bankers: and at my coming I should have received my own with usury.",
+        "Take ye away therefore the talent from him and give it him that hath ten talents.",
+        "For to every one that hath shall be given, and he shall abound: but from him that hath not, that also which he seemeth to have shall be taken away.",
+        "And the unprofitable servant, cast ye out into the exterior darkness. There shall be weeping and gnashing of teeth."
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 25:14-30",
+      "reference": "Matthew 25:14-30",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "SUNDAY",
+        "name": "33rd Sunday of Ordinary Time",
+        "key": "33rdSundayOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/15.html",
+    "title": "Gospel and Word of the Day - 15 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/15.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-15"
+}
