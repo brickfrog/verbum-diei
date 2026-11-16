@@ -1,0 +1,285 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "971277a176fb178daa84c168073f703ab447cf2e0bd0286fa33a0b516267dd74",
+        "inputSha256": "e50089598d6bdecc34ec407390ddf40ff965201773dbe7dc3ac2100d73029021",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "70fd50d4102781a3164caabba12c2c90528918e25b9d75d8053757ba7ce4d76b",
+        "inputSha256": "5bd997e0ab32ccdcf885f0706caece6fffd21844483eaa9f8a4162438fec64af",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "146d0a69370c5e0c0c8aaa9a579de6b8cfdbc3cc9b21a470c34b2716c6e4f2e9",
+        "inputSha256": "4b3a95d15603428ea55a5dee8720368c225a96468bfdebcadacbf52b9623c2ae",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-16T07:58:50.201Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The seer’s warning to Ephesus—competence without first love—resembles the Bhagavad Gita’s critique of action severed from devotion, and Sufism’s distrust of piety without ishq, love that burns through self-regard. The threatened removal of the lampstand echoes the Daoist sense that when the Way is lost, institutions keep the shell and lose the light.\n\nThe blind beggar’s refusal to be silenced matches Zen’s insistence on great doubt and great determination, and the Psalms’ holy audacity in petition. Jesus’ question, “What do you want me to do for you?” parallels therapeutic traditions that force desire into speech: in psychoanalysis the cure begins when the subject risks naming what he wants. Speculation: the cry “have mercy” functions like the Jesus Prayer and like dhikr, a repetitive utterance that gathers a scattered self until perception changes.\n\n“Your faith has made you whole” has kinship with yogic and Stoic accounts of attention: what you entrust yourself to reorganizes you. The crowd’s shift from rebuke to praise recalls Girard’s contagion of desire and emotion, but here redirected toward gratitude, as if sight spreads socially once one person dares to ask for it.",
+    "excursus": "Revelation opens like a sealed letter slid under the door at night: blessed is the one who reads because reading is already compliance. The voice that “walks in the midst” is not comforting; it is inspection. Ephesus is praised for suspicion, for its talent at detecting impostors, for its hard-won stamina. And then comes the wound: you have left your first charity. Not your doctrine, not your discipline—your desire. The threat is intimate and surgical: I will move your candlestick. Not punish you elsewhere, but unhouse your light, erase your place, make your vigilance meaningless.\n\nThe blind man in Luke is the inverse of Ephesus. He has no purity, no résumé of works, only need. The crowd polices silence the way Ephesus polices error; both are addicted to control. His faith is not correctness but insistence, a refusal to be managed. Jesus’ question—what do you want?—is the dangerous one, because it forces desire into speech. “That I may see” is not piety; it is appetite for reality, even if reality burns.\n\nPut together, the texts say the same unsettling thing: you can be right and still be dead. You can guard the gates so well you lock out your own first love. Salvation here is not a reward for vigilance; it is the restoration of wanting. The candlestick stays where it is only if the heart returns. The blind man is healed because he will not stop asking, and Ephesus is threatened because it has stopped.",
+    "synthesis": "Christ judges churches by whether love remains first, and he restores persons by faith that clings to him despite social suppression. Where charity and faith are absent, the lampstand is removed; where they persist, sight and praise follow.",
+    "gospel": [
+      {
+        "text": "The narrative turns on hearing: the blind man interprets a passing crowd, and Jesus interrupts the procession by stopping. Salvation here is a break in traffic, not a private moment.",
+        "lines": [
+          2,
+          3,
+          6
+        ]
+      },
+      {
+        "text": "The healed man’s first act is attachment—he follows—then doxology spreads contagiously to the crowd. The miracle functions as public reordering of attention.",
+        "lines": [
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The Ephesian audit distinguishes endurance and discernment from the one thing that cannot be outsourced: love’s primacy. The letter assumes a church can win its purity tests and still be in collapse.",
+        "lines": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "text": "John’s role is evidentiary—“testimony”—so the apocalypse is presented as courtroom material, not private rapture; it demands a verdict and a change of allegiance.",
+        "lines": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Revelation arrives as chain-of-command: God → Jesus → angel → John → servants; distance is part of the message.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Three verbs: read, hear, keep. The blessing is procedural, not sentimental; urgency supplies the pressure.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Time is named as a Person: “is/was/to come.” Peace is sourced in ontology, not circumstance.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The indictment is not heresy but amnesia: orthodoxy without “first charity” is a fall.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Penance is framed as return to origin; the threat is ecclesial removal—lightstand displaced, not merely dimmed.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Blindness is stationed at the roadside: marginal, dependent, public.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "He names what he cannot see: “Son of David.” Insight precedes sight.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The crowd polices noise; mercy is treated as disorder. Persistence becomes his liturgy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The request is bare and singular: not alms, not status—vision.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Healing is adjudicated as faith’s effect; wholeness is credited before it is displayed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord our God, grant that we may always live joyfully in your service, for in serving you, the creator of every good, lies full and true joy. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, may your grace inspire, sustain, and accompany our works, so that our labor may begin in you, as in its source, and always tend toward you, as to its end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you are the one who assigns the tasks and gives the workers their just wage. Help us to bear the burden of the day and the heat of the journey without ever complaining of your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our humble service, Lord, proclaim your greatness; and since for our salvation you deigned to look upon the lowliness of the Virgin Mary, we pray that you may exalt us by bringing us to the fullness of salvation. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and spring up for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John,",
+        "Who hath given testimony to the word of God and the testimony of Jesus Christ, what things soever he hath seen.",
+        "Blessed is he that readeth and heareth the words of this prophecy: and keepeth those things which are written in it. For the time is at hand.",
+        "John to the seven churches which are in Asia. Grace be unto you and peace, from him that is and that was and that is to come: and from the seven spirits which are before his throne:",
+        "Unto the angel of the church of Ephesus write: These things saith he who holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks:",
+        "I know thy works and thy labour and thy patience and how thou canst not bear them that are evil. And thou hast tried them who say they are apostles and are not: and hast found them liars:",
+        "And thou hast patience and hast endured for my name and hast not fainted.",
+        "But I have somewhat against thee, because thou hast left thy first charity.",
+        "Be mindful therefore from whence thou art fallen: and do penance and do the first works. Or else I come to thee and will move thy candlestick out of its place, except thou do penance."
+      ],
+      "lineRefs": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4",
+        "2:1",
+        "2:2",
+        "2:3",
+        "2:4",
+        "2:5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 1:1-4; 2:1-5",
+      "reference": "Revelation 1:1-4; 2:1-5",
+      "heading": "A reading from the Second Letter of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "Now it came to pass, when he drew nigh to Jericho, that a certain blind man sat by the way side, begging.",
+        "And when he heard the multitude passing by, he asked what this meant.",
+        "And they told him that Jesus of Nazareth was passing by.",
+        "And he cried out, saying: Jesus, Son of David, have mercy on me.",
+        "And they that went before rebuked him, that he should hold his peace: but he cried out much more: Son of David, have mercy on me.",
+        "And Jesus standing, commanded him to be brought unto him. And when he was come near, he asked him,",
+        "Saying; What wilt thou that I do to thee? But he said: Lord, that I may see.",
+        "And Jesus said to him: Receive thy sight: thy faith hath made thee whole.",
+        "And immediately he saw and followed him, glorifying God. And all the people, when they saw it, gave praise to God."
+      ],
+      "lineRefs": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 18:35-43",
+      "reference": "Luke 18:35-43",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Margaret of Scotland/Saint Gertrude the Great, Virgin",
+        "key": "saintMargaretOfScotlandSaintGertrudeTheGreatVirgin"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/16.html",
+    "title": "Gospel and Word of the Day - 16 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/16.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-16"
+}
