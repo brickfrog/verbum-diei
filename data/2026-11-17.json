@@ -1,0 +1,335 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "6ba3f3c706378509a6d8590cc9f8269f230e276484fc56de4851b94136e8fff5",
+        "inputSha256": "7446fedd9f3ea730371465e05bc0e3abad61a639ee63e9c337f154d44f43b2aa",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "13bf103d0fea4b132430e952dc9e16da92f27af0b7b3a515738ddd6885c6b645",
+        "inputSha256": "5bd6bfb5ad16bdccff6c256e88eb105322ce4c3e2a4dfd62f064631c946d82e8",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "d30a096bfcf111eb5d608517ba84b16fec1d05f3678f10b44339be63e601e103",
+        "inputSha256": "1459089cf37a39b9bb2d031081679edf22db45e74f4e67a50fc51ef57ac6ef27",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-17T09:12:33.907Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Sardis and Laodicea read like a clinical portrait of dissociation: a public self with “a name of being alive” while the inner life is necrotic, then the narcotic middle temperature of comfort that protects the ego from urgency. That “lukewarm” is not moderation but anesthesia; it’s the psyche choosing numbness over risk, preferring the story “I have need of nothing” to the humiliating truth of need. The violent image of being spat out is the body’s revolt against self-deception: what cannot be metabolized must be expelled.\n\nThe white garment is a clean nervous system, a self no longer sticky with compromise. “Name in the book” is identity stabilized by reality rather than reputation. The thief-in-the-night is the return of the repressed: consequence arrives on its own schedule when attention has been outsourced.\n\nZacchaeus is the counter-move: desire that refuses the crowd’s script. He climbs—childlike, undignified—because the hunger to see is stronger than shame. Then the gaze reverses; he is seen first, and that recognition breaks the loop of acquisitive compensation. Restitution is not moral bookkeeping but psychic integration: money stops being armor and becomes repair. The house is the inner dwelling; the guest is the uninvited truth welcomed to the table.\n\nSemina Verbi: the watchfulness and sudden arrival echo Buddhist sati and the shock of impermanence (speculation). The “lukewarm” sickness resembles the Bhagavad Gita’s tamas, the dulling inertia that mimics peace. The knock at the door recalls Sufi imagery of the Beloved seeking entry to the heart. Zacchaeus’s fourfold restoration parallels Jewish teshuvah and also the Jain instinct to undo harm through concrete amends. The white garment has kinship with the Stoic aim of inner clarity and with Hindu notions of sattva as lucidity, though the symbolism diverges (speculation).",
+    "excursus": "These texts hate respectable vitality. Sardis has a reputation for life and the thing itself is dead; Laodicea has comfort and the soul is nauseating. The threat is not hellfire but disgust: the divine mouth that would rather taste ice or flame than tepid self-satisfaction. “White garments” aren’t moral décor; they’re the fantasy of being finally seen as clean, a name not erased, a body not exposed.\n\nZaccheus is Laodicea in miniature: rich, needing nothing, yet restless enough to climb a tree like a child. His smallness is not quaint; it’s the humiliation that drives desire. Jesus’ “I must abide” is an invasion, not an invitation, and the crowd’s murmur is the social immune system reacting to contamination. Zaccheus’ lavish repayment is not a spreadsheet of virtue; it’s panic and relief, the sudden urge to make his life coherent under a gaze that has already entered his home.\n\nSalvation here is not reward for improvement. It’s the shock of being chosen while still unacceptable, the door opened because someone knocked with authority. The dread is that the thief comes when you’re performing life; the desire is that he comes anyway, and sits down to eat with you in the very place you’ve been hiding.",
+    "synthesis": "Christ exposes the church’s self-deception and offers communion only through repentance and overcoming. Salvation arrives as a concrete visitation that reorders status, perception, and possessions.",
+    "gospel": [
+      {
+        "text": "Jericho’s passage becomes a household judgment: the rich collaborator is reclassified as “son of Abraham.” Salvation is declared as a present event tied to a specific house, not a vague moral improvement.",
+        "lines": [
+          1,
+          2,
+          9
+        ]
+      },
+      {
+        "text": "Joy and restitution form a single movement: welcome produces repair. The narrative treats economic reversal as evidence, not payment, of the visitation.",
+        "lines": [
+          6,
+          8
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The command is triage: stabilize what remains before it dies. The churches are treated as failing bodies whose prognosis depends on immediate vigilance.",
+        "lines": [
+          2
+        ]
+      },
+      {
+        "text": "Two self-presentations of Christ frame the diagnosis: “Amen” and “true witness” confront a community built on self-testimony; love expresses itself as chastisement; enthronement is promised only through shared overcoming. Authority, discipline, and reward are one continuous logic.",
+        "lines": [
+          7,
+          8,
+          12,
+          14
+        ]
+      },
+      {
+        "text": "The repeated ear-formula makes the letters liturgical and judicial: the issue is not information but reception. Hearing is the hinge between warning and participation.",
+        "lines": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Reputation for life; verdict of death. The autopsy is divine.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Memory becomes indictment: received/heard—now obey. The thief-image makes delay a liability.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Garments carry moral history; a few remain unsoiled. Purity is social minority.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Names can be erased; perseverance is archival. Public confession answers public denial.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lukewarmness is not mildness but nausea. The mouth rejects the undecided.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Self-description (“rich”) versus true condition (“naked”). Misdiagnosis is the core poverty.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Commerce inverted: buy from the one you think you don’t need. Gold/garment/eyes—wealth, shame, perception.",
+      "lines": [
+        11
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The judge becomes a petitioner at the door. Supper offered where entry is granted.",
+      "lines": [
+        13
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Desire meets obstruction: crowd and smallness. The impediment is both social and bodily.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A rich man climbs like a child. Dignity is traded for sight.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Jesus calls by name and issues necessity: “I must.” Grace is appointment, not invitation.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The crowd polices purity; murmuring is their liturgy. Hospitality becomes scandal.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Restitution is concrete and excessive: half given, fourfold restored. Conversion touches accounts.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Mission statement: seek and save the lost. The lost are located, not theorized.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted Saint Elizabeth of Hungary the grace to recognize and venerate your Son Jesus Christ in the poor, grant us, through her intercession, to serve with tireless love the humble and the afflicted. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted Saint Elizabeth of Hungary the grace to recognize and venerate your Son Jesus Christ in the poor, grant us, through her intercession, to serve with tireless love the humble and the afflicted. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the hallmark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and useful to your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted Saint Elizabeth of Hungary the grace to recognize and venerate your Son Jesus Christ in the poor, grant us, through her intercession, to serve with untiring love the humble and the afflicted. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And to the angel of the church of Sardis write: These things saith he that hath the seven spirits of God and the seven stars: I know thy works, and that thou hast the name of being alive. And thou art dead.",
+        "Be watchful and strengthen the things that remain, which are ready to die. For I find not thy works full before my God.",
+        "Have in mind therefore in what manner thou hast received and heard: and observe and do penance: If then thou shalt not watch, I will come to thee as a thief: and thou shalt not know at what hour I will come to thee.",
+        "But thou hast a few names in Sardis which have not defiled their garments: and they shall walk with me in white, because they are worthy.",
+        "He that shall overcome shall thus be clothed in white garments: and I will not blot out his name out of the book of life. And I will confess his name before my Father and before his angels.",
+        "He that hath an ear, let him hear what the Spirit saith to the churches.",
+        "And to the angel of the church of Laodicea write: These things saith the Amen, the faithful and true witness, who is the beginning of the creation of God:",
+        "I know thy works, that thou art neither cold nor hot. I would thou wert cold or hot.",
+        "But because thou art lukewarm and neither cold nor hot, I will begin to vomit thee out of my mouth.",
+        "Because thou sayest: I am rich and made wealthy and have need of nothing: and knowest not that thou art wretched and miserable and poor and blind and naked.",
+        "I counsel thee to buy of me gold, fire tried, that thou mayest be made rich and mayest be clothed in white garments: and that the shame of thy nakedness may not appear. And anoint thy eyes with eyesalve, that thou mayest see.",
+        "Such as I love, I rebuke and chastise. Be zealous therefore and do penance.",
+        "Behold, I stand at the gate and knock. If any man shall hear my voice and open to me the door, I will come in to him and will sup with him: and he with me.",
+        "To him that shall overcome, I will give to sit with me in my throne: as I also have overcome and am set down with my Father in his throne.",
+        "He that hath an ear, let him hear what the Spirit saith to the churches."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 3:1-6,14-22",
+      "reference": "Revelation 3:1-6,14-22",
+      "heading": "A reading from the Second Letter of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And entering he walked through Jericho.",
+        "And behold, there was a man named Zacheus, who was the chief of the publicans: and he was rich.",
+        "And he sought to see Jesus who he was: and he could not for the crowd, because he was low of stature.",
+        "And running before, he climbed up into a sycamore tree, that he might see him: for he was to pass that way.",
+        "And when Jesus was come to the place, looking up, he saw him and said to him: Zacheus, make haste and come down: for this day I must abide in thy house.",
+        "And he made haste and came down and received him with joy.",
+        "And when all saw it, they murmured, saying, that he was gone to be a guest with a man that was a sinner.",
+        "But Zacheus standing, said to the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have wronged any man of any thing, I restore him fourfold.",
+        "Jesus said to him: This day is salvation come to this house, because he also is a son of Abraham.",
+        "For the Son of man is come to seek and to save that which was lost."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 19:1-10",
+      "reference": "Luke 19:1-10",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Elizabeth of Hungary",
+        "key": "saintElizabethOfHungary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/17.html",
+    "title": "Gospel and Word of the Day - 17 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/17.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-17"
+}
