@@ -1,0 +1,251 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "01defc9a404a8236b4cb1141193b630b92a548bf708495eb394020a4d6395055",
+        "inputSha256": "979c728d052ceec3f6cb8ebefd0223fa8db367babd0bf2dcbea9ecf7cfa73829",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c32993869685fa2597ab445531a4c0358b07eaa1358de66f0a2654a0dbd0600c",
+        "inputSha256": "3547c0c58695f6319c81ac5ae628e6fc2fab912b5b7f6e90835506225bf5376e",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "8b6e024c1c586fb044ba2e63db42beb30bc9a6304176870f28f294d5df296323",
+        "inputSha256": "6a853b0a24080898db557b442e88f482fe3ca552b4517df8cbe50222d28ca843",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-20T08:32:30.310Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Eating the open book reads like a psyche taking in a truth it cannot keep at arm’s length: first it flatters the tongue with coherence, then it turns in the gut where consequences live. That sweetness is the seduction of meaning; the bitterness is the cost of becoming its carrier, the way insight becomes obligation and isolates the one who bears it.\n\nThe temple scene is the same inner drama in public. Cleansing is not etiquette; it is boundary-making. Commerce in the holy place is the mind’s habit of turning attention into transaction, prayer into leverage, presence into profit. He drives it out, then teaches in the cleared space, and that clarity makes him dangerous: systems can tolerate devotion, but not undivided attention.\n\nSemina Verbi: Ezekiel’s scroll is the obvious kin, but the deeper parallel is Vedic and Buddhist: in the Upanishads, knowledge that is “tasted” remakes the knower; in Zen, the sweetness of satori is followed by the bitter discipline of carrying it into the marketplace. Speculation: the “den of thieves” resembles the Bhagavad Gita’s warning about desire turning sacrifice into bargaining, and Sufi adab’s insistence that the heart’s sanctuary be kept free of trade, so listening can become a kind of collective liberation rather than a commodity.",
+    "excursus": "Revelation’s “little book” is not a message delivered; it is a message ingested. The voice doesn’t ask for belief, it demands appetite. The scroll tastes like honey because language flatters the one who speaks it: to name the world feels like mastery. Then it turns in the gut, because words don’t stay words. Once swallowed, they become tissue, compulsion, a second stomach that digests you back. Prophecy is not a gift but an addiction: sweetness at the tongue, bitterness in the body, and the command to do it again.\n\nLuke’s temple scene is the same interior drama made public. Jesus isn’t cleansing a building; he’s attacking a system that makes desire manageable. Buying and selling in the holy place is not mere corruption, it’s a technology for turning longing into transaction. He drives it out because he wants prayer to be raw need, not a controlled exchange. That’s why they want him dead: he threatens the economy that keeps dread at bay.\n\nThe people are “attentive” because he speaks like the scroll tastes: honey for those starved of unbought meaning. But attention is a dangerous intimacy. To listen is already to eat. And once the word is inside, it will sour, because it demands a life rearranged. The den of thieves is not just them; it’s the part of us that prefers a price tag to a wound, and would rather kill the one who names it than let the bitterness do its work.",
+    "synthesis": "God’s word must be taken into the self and then spoken against the world’s corrupt worship. True sanctity provokes resistance because it displaces entrenched profit and power.",
+    "gospel": [
+      {
+        "text": "Jesus’ action reorders the temple’s telos: prayer and teaching are asserted as the institution’s proper end, and that reordering immediately generates lethal opposition. The narrative frames conflict as the predictable consequence of restoring true use to a captured sacred space.",
+        "lines": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Public space is contested by competing claims of ownership—market, rulers, and Messiah. The crowd’s sustained attention functions as a temporary transfer of legitimacy, delaying the rulers’ violence.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene binds revelation to mission: the message is not merely received but internalized, then redirected outward across every human boundary. Prophecy here is compelled labor under a universal mandate, not a private ecstasy.",
+        "lines": [
+          1,
+          4
+        ]
+      },
+      {
+        "text": "The text stages a logic of mediation: what comes from heaven must pass through the prophet’s body before it can pass to the world. Authority is authenticated by incorporation, not by citation.",
+        "lines": [
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Heaven’s voice issues a command, not an idea; the angel straddles sea and land—jurisdiction without border.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The “open” book is not for viewing but ingestion; sweetness at the lips, bitterness in the gut—revelation as delayed cost.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "John verifies the paradox by repetition: experience, not metaphor; the body becomes the scroll’s proving ground.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "“Again” implies prior fatigue; the list (nations…kings) is totalizing—speech aimed at power and plurality alike.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Temple entry becomes judgment; commerce is expelled, not negotiated—purification by forceful removal.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Scripture is wielded as indictment; prayer-house inverted into “den”—a sanctuary redefined by predation.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Teaching and assassination plots run in parallel; the temple hosts both instruction and conspiracy.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The rulers’ impotence is procedural and popular; attention becomes a shield—listening as political fact.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look with favor, Lord, upon the desires and prayers of your people; grant us light to know your will and the strength needed to carry it out. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who have illumined the darkness of our ignorance with the light of your Word: increase in us the faith that you yourself have given; may no temptation ever be able to destroy the fervor of faith and charity that your grace has kindled in our spirit. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Sext went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may enter after death into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who granted to your bishop Saint Anthony Mary Claret an admirable charity and courage to proclaim the Gospel to the peoples, grant us, through his intercession, that, always seeking your will in all things, we may work generously to win new brothers and sisters for Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord God almighty, since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to newness of life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I heard a voice from heaven, again speaking to me and saying: Go and take the book that is open, from the hand of the angel who standeth upon the sea and upon the earth.",
+        "And I went to the angel, saying unto him that he should give me the book. And he said to me: Take the book and eat it up. And it shall make thy belly bitter: but in thy mouth it shall be sweet as honey.",
+        "And I took the book from the hand of the angel and ate it up: and it was in my mouth, sweet as honey. And when I had eaten it, my belly was bitter.",
+        "And he said to me: Thou must prophesy again to many nations and peoples and tongues and kings."
+      ],
+      "lineRefs": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 10:8-11",
+      "reference": "Revelation 10:8-11",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And entering into the temple, he began to cast out them that sold therein and them that bought.",
+        "Saying to them: It is written: My house is the house of prayer. But you have made it a den of thieves.",
+        "And he was teaching daily in the temple. And the chief priests and the scribes and the rulers of the people sought to destroy him.",
+        "And they found not what to do to him: for all the people were very attentive to hear him."
+      ],
+      "lineRefs": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 19:45-48",
+      "reference": "Luke 19:45-48",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 33rd week of Ordinary Time",
+        "key": "fridayOfThe33rdWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/20.html",
+    "title": "Gospel and Word of the Day - 20 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/20.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-20"
+}
