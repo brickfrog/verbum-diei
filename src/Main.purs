@@ -29,7 +29,7 @@ import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
 import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, callOpenAiTranslation, encodeLlmOutput)
 import VerbumDiei.Prompts (heterodoxPrompt, hoursTranslationPrompt, llmInstructions, seminaVerbiPrompt)
-import VerbumDiei.Rss (FeedItem, parseWordOfDayFeed)
+import VerbumDiei.Rss (FeedItem, FeedReading, parseWordOfDayFeed)
 import VerbumDiei.Site (renderAppShellPage, renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
 
@@ -344,7 +344,7 @@ buildHoursOfPrayer dateIso model openAiKey = do
 fetchReadings :: Array Override -> FeedItem -> Aff (Array Reading)
 fetchReadings overrides item = do
   item.readings # traverse \r -> do
-    ref <- resolveReference overrides r.bibleApiReference
+    ref <- resolveReference overrides r
     api <- fetchBibleReading ref
     pure
       { kind: readingKindFromString r.kind
@@ -388,7 +388,7 @@ preflightFeed overrides targetDate items = do
     )
   results <- items # traverse \item -> do
     checks <- item.readings # traverse \r -> do
-      ref <- resolveReference overrides r.bibleApiReference
+      ref <- resolveReference overrides r
       res <- attempt (fetchBibleReading ref)
       pure { kind: r.kind, ref, result: res }
     pure { item, checks }
@@ -729,17 +729,16 @@ parseOverride raw =
         if from == "" || to == "" then Nothing else Just { from, to }
     Nothing -> Nothing
 
--- | Rewrite a reference when it exactly matches an override's FROM; first match
--- | wins. Trimmed exact match keeps the behaviour predictable.
-applyOverride :: Array Override -> String -> String
-applyOverride overrides ref =
-  case Array.find (\o -> o.from == trim ref) overrides of
-    Just o -> o.to
-    Nothing -> ref
-
--- | Apply overrides and announce any that fire, so re-runs leave an audit trail.
-resolveReference :: Array Override -> String -> Aff String
-resolveReference overrides orig = do
-  let ref = applyOverride overrides orig
-  when (ref /= orig) $ log ("Override: \"" <> orig <> "\" -> \"" <> ref <> "\"")
-  pure ref
+-- | Manual overrides match the original normalized citation and win over any
+-- | built-in reading correction, even when intentionally overriding to itself.
+resolveReference :: Array Override -> FeedReading -> Aff String
+resolveReference overrides reading = do
+  let orig = reading.bibleApiReference
+  case Array.find (\o -> o.from == trim orig) overrides of
+    Just override -> do
+      when (override.to /= orig) $ log ("Override: \"" <> orig <> "\" -> \"" <> override.to <> "\"")
+      pure override.to
+    Nothing -> do
+      let ref = fromMaybe orig reading.draReference
+      when (ref /= orig) $ log ("DRA versification: \"" <> orig <> "\" -> \"" <> ref <> "\"")
+      pure ref

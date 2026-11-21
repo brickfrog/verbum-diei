@@ -7,11 +7,13 @@ import Data.Array as Array
 import Data.Either (Either(..))
 import Data.Foldable (traverse_)
 import Data.Maybe (Maybe(..))
+import Data.String (Pattern(..), contains)
 import Effect (Effect)
 import Effect.Aff (Aff, attempt, launchAff_)
 import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error)
+import Main (fetchReadings)
 import VerbumDiei.Bible (fetchBibleReading)
 import VerbumDiei.Rss (parseWordOfDayFeed)
 
@@ -69,6 +71,49 @@ main = do
         Nothing -> throwError (error "expected one feed item")
         Just it -> pure it
       assertEqual "only the gospel" [ "Luke 18:1-8" ] (item.readings <#> _.bibleApiReference)
+
+    test "resolves the Advent Isaiah lectionary citation to the correct Douay-Rheims verses" do
+      [ "63:16b-17, 19b; 64:2-7", "63:16B–17, 19B, 64:2–7" ] # traverse_ \citation -> do
+        let feed = parseWordOfDayFeed (isaiahFeedXml citation)
+        item <- case Array.head feed.items of
+          Nothing -> throwError (error "expected one feed item")
+          Just it -> pure it
+        readings <- fetchReadings [] item
+        first <- case Array.head readings of
+          Nothing -> throwError (error "expected a first reading")
+          Just r -> pure r
+        assertEqual "resolved reference" "Isaiah 63:16-17,64:1,3-8" first.reference
+        assertEqual "lineRefs"
+          [ "63:16", "63:17", "64:1", "64:3", "64:4", "64:5", "64:6", "64:7", "64:8" ]
+          first.lineRefs
+        assertEqual "heavens opening" (Just true) (contains (Pattern "rend the heavens") <$> Array.index first.lines 2)
+        assertEqual "clay and maker" (Just true) (contains (Pattern "we are clay: and thou art our maker") <$> Array.last first.lines)
+        let sourceRef = (Array.head item.readings) <#> _.bibleApiReference
+        from <- case sourceRef of
+          Nothing -> throwError (error "expected a source citation")
+          Just ref -> pure ref
+        manual <- fetchReadings [ { from, to: "Isaiah 63:19" } ] item
+        assertEqual "manual override takes precedence" (Just "Isaiah 63:19") (_.reference <$> Array.head manual)
+        unchanged <- fetchReadings [ { from, to: from } ] item
+        assertEqual "explicit no-op override takes precedence" (Just from) (_.reference <$> Array.head unchanged)
+        assertEqual "Gospel unchanged" (Just "Mark 13:33-37") (_.reference <$> Array.last readings)
+
+    test "does not remap nearby Isaiah readings, direct references, or the chapter 8 fold" do
+      [ { citation: "63:16b-17, 19; 64:2-7", expected: "Isaiah 63:16-17,19; 64:2-7" }
+      , { citation: "63:19b", expected: "Isaiah 63:19" }
+      , { citation: "64:2-7", expected: "Isaiah 64:2-7" }
+      ] # traverse_ \c -> do
+        let feed = parseWordOfDayFeed (isaiahFeedXml c.citation)
+        item <- case Array.head feed.items of
+          Nothing -> throwError (error "expected one feed item")
+          Just it -> pure it
+        readings <- fetchReadings [] item
+        assertEqual "nearby reference" (Just c.expected) (_.reference <$> Array.head readings)
+      direct <- fetchBibleReading "Isaiah 63:19"
+      assertEqual "direct DRA text" (Just true) (contains (Pattern "We are become as in the beginning") <$> Array.head direct.lines)
+      folded <- fetchBibleReading "Isaiah 8:23"
+      original <- fetchBibleReading "Isaiah 9:1"
+      assertEqual "Isaiah 8 fold text" original.lines folded.lines
 
     test "resolves book aliases" do
       reading <- fetchBibleReading "Ecclesiasticus 3:2-3"
@@ -308,6 +353,15 @@ expectedRevelation =
   , "12:6"
   , "12:10"
   ]
+
+-- | Synthetic fixture based on the published November 29 lectionary citation.
+isaiahFeedXml :: String -> String
+isaiahFeedXml citation =
+  """<rss><channel><item>
+<guid>https://www.vaticannews.va/en/word-of-the-day/2026/11/29.html</guid>
+<description><![CDATA[<p>A reading from the Book of Isaiah<br /> """ <> citation <> """</p>
+<p>From the Gospel according to Mark<br /> 13:33-37</p>
+]]></description></item></channel></rss>"""
 
 -- | The 2026-11-14 item omits the chapter for 3 John and includes an inline
 -- | citation in the commentary, which previously became a bogus first reading.

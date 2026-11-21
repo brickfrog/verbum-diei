@@ -39,6 +39,7 @@ type FeedReading =
   , book :: String
   , citation :: String
   , bibleApiReference :: String
+  , draReference :: Maybe String
   }
 
 data XmlToken
@@ -219,6 +220,7 @@ parseReadingFromParagraph paragraph = do
       else
         "first"
     bibleApiReference = trim (resolvedBook <> " " <> resolvedCitation)
+    draReference = adventIsaiahDraReference resolvedBook splitResult.citation
   if resolvedBook == "" || resolvedCitation == "" then
     Nothing
   else
@@ -228,7 +230,26 @@ parseReadingFromParagraph paragraph = do
       , book: resolvedBook
       , citation: resolvedCitation
       , bibleApiReference
+      , draReference
       }
+
+-- | Match the complete lectionary citation before dropping verse-part markers.
+-- | Modern 63:19b alone is DRA 64:1; the intervening DRA 64:2 is not read.
+adventIsaiahDraReference :: String -> String -> Maybe String
+adventIsaiahDraReference book citation =
+  let
+    key =
+      citation
+        # stripTrailingPunctuation
+        # CodeUnits.toCharArray
+        # Array.filter (\c -> not (isSpaceChar c) && c /= '\x00A0')
+        # map (\c -> if c == '–' || c == '—' then '-' else toLowerChar c)
+        # CodeUnits.fromCharArray
+  in
+    if book == "Isaiah" && key `Array.elem` [ "63:16b-17,19b;64:2-7", "63:16b-17,19b,64:2-7" ] then
+      Just "Isaiah 63:16-17,64:1,3-8"
+    else
+      Nothing
 
 type SplitCitation =
   { book :: Maybe String
