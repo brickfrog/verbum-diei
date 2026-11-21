@@ -1,0 +1,291 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c37ac09fd42491f358bd60a29f29285650e4e9cc6f73bbae3b30ee11440204a9",
+        "inputSha256": "186756174a2e4177a150677514fe54177c7a2c573db28ab18275aa0c935d56e8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "2d551951a5a84789d13a6dc32bc60f3bbbcef7d88d5b6fc078bb52534b2ae0f4",
+        "inputSha256": "4efc8cad32a9bbc91f37bc5d8b165de68e9cf8a9042335d072be98253cbbc9b5",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "4480c0d11eb5337c5cba7f7ba30f7dd1064a4493b523ed98d7595a65c26a03bb",
+        "inputSha256": "8570102850d17d6995d445483b0b77e5649b4fe58edfccef971a40234add2e8b",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-21T08:16:34.929Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The two witnesses feel like the psyche’s paired insistences that reality is answerable: conscience and imagination, law and prophecy, reason and lyric. They stand “before the Lord of the earth” the way an integrated self stands before the real, refusing the cheap peace of denial. The fire from their mouths is not pyrotechnics but speech that burns through self-deception; truth-telling is experienced as violence by those invested in the lie. The beast from the abyss is the return of what a culture represses: the organized counter-will that cannot bear being named. The public gloating over the corpses is the intoxication of a crowd that thinks it has finally silenced its own inner critics. The three-and-a-half days are the short reign of cynicism before vitality returns; the “spirit of life” is the stubborn reanimation of meaning, and the ascent is the image of vindication that does not need applause.\n\nThe Sadducees’ puzzle is an attempt to trap the future inside the bookkeeping of the present. Jesus refuses the premise: resurrection is not an extension of current arrangements but a different mode of personhood, where possession and lineage no longer define relation. “All live to him” shifts identity from social contract to living address; the self is held in a present tense deeper than biology. Psychologically, it dismantles the fantasy that love is secured by ownership; what endures is not the legal bond but the livingness that made any bond possible.\n\nSemina Verbi: The paired witnesses echo Zoroastrianism’s twin spirits in their moral polarity, and also Taoism’s yin-yang as complementary forces that reality won’t let you amputate; speculative, but the structure fits. Their death and return resembles Osiris and also Dionysus—gods torn and reconstituted—charitably read as mythic grammar for the psyche’s recurring defeat and renewal. Jesus’ refusal to reduce the next life to marital accounting parallels the Bhagavad Gita’s move from roles to the imperishable self, and Buddhism’s loosening of clinging to relational identity; speculative, but both traditions recognize that liberation reorders attachment rather than merely prolonging it.",
+    "excursus": "The two witnesses are not heroes; they are symptoms. They stand like twin nerves exposed in the public square, and the world hates them because they make reality hurt. Their “fire” is speech that burns, testimony so exact it feels like violence. They can shut the sky, turn water to blood, because naming the truth changes the weather inside a city; it curdles the ordinary into plague.\n\nThe beast doesn’t win by argument but by exhaustion. It kills them when they have “finished,” when the last word has been said and there is nothing left to do but be a body. Then comes the real cruelty: not burial but display. The crowd’s gift-giving is the pornography of relief, a festival of finally being unaccused. Dread flips into desire; they love the silence where conscience used to be.\n\nJesus answers the Sadducees with a colder liberation than it sounds. Their riddle is about ownership: whose is she, which man gets to keep the woman as proof he mattered. Resurrection, he says, breaks the economy of possession. No marriage there, not because love is denied, but because the hunger to secure oneself through another body is ended. The living God is not a curator of graves; he is the pressure of life that refuses to stay manageable.\n\nPut together, the texts say this: the world wants death to be final because finality makes cruelty safe. It can laugh, exchange gifts, close the case. Resurrection is the nightmare of the comfortable—the return of what was publicly shamed, standing up again, unburied, and unowned.",
+    "synthesis": "God’s covenantal life nullifies death’s claim and relativizes all earthly arrangements. Witness and resurrection are public acts of divine judgment and vindication.",
+    "gospel": [
+      {
+        "text": "Jesus answers a legal citation with a cosmological distinction: “this world” versus “that world.” He grounds resurrection not in speculative mechanics but in the divine name disclosed to Moses; covenant grammar (“I am the God of…”) implies ongoing life. The exchange ends not with conversion but with procedural silence: the debate is closed because the premise has been dismantled.",
+        "lines": [
+          2,
+          8,
+          11,
+          13,
+          14
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The witnesses are cast in the mold of Exodus and Elijah: drought, blood, plagues—creation conscripted into litigation against the world. Their defeat is staged as a spectacle with a fixed duration, then reversed by an intrusion of divine life that reorders the public narrative from mockery to fear.",
+        "lines": [
+          3,
+          6,
+          8
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Olive and lamp: oil and light; witness as fuel and exposure.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Speech weaponized: mouths become furnaces; harm answered in kind.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Testimony has an end-point; only then the abyss is permitted a turn.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "One city, two names: vice (Sodom) and bondage (Egypt) layered over crucifixion-ground.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The earth celebrates silence; gifts exchanged over a corpse—anti-liturgical feast.",
+      "lines": [
+        7
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Summons, ascent, visibility: vindication is public, not private.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Denial arrives as a question; unbelief prefers puzzles to worship.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Resurrection reduced to property law; the woman becomes a case.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“Accounted worthy”: resurrection is not an entitlement but a judgment.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No more death, no more marriage: the old engines of succession shut down.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“All live to him”: life defined by relation to God, not by pulse.",
+      "lines": [
+        12
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, that you grant to all of us who today honor the glorious memory of the Most Holy Virgin Mary, through her intercession, to share, as she did, in the fullness of your grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, that as we honor today the glorious memory of the Most Holy Virgin Mary, you may grant us, through her intercession, to share, like her, in the fullness of your grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "We beseech you, Lord, that as we honor today the glorious memory of the Most Holy Virgin Mary, you may grant us, through her intercession, to share, like her, in the fullness of your grace. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "These are the two olive trees and the two candlesticks that stand before the Lord of the earth.",
+        "And if any man will hurt them, fire shall come out of their mouths and shall devour their enemies. And if any man will hurt them, in this manner must he be slain.",
+        "These have power to shut heaven, that it rain not in the days of their prophecy: And they have power over waters, to turn them into blood and to strike the earth with all plagues, as often as they will.",
+        "And when they shall have finished their testimony, the beast that ascendeth out of the abyss shall make war against them and shall overcome them and kill them.",
+        "And their bodies shall lie in the streets of the great city which is called spiritually, Sodom and Egypt: where their Lord also was crucified.",
+        "And they of the tribes and peoples and tongues and nations shall see their bodies for three days and a half: and they shall not suffer their bodies to be laid in sepulchres.",
+        "And they that dwell upon the earth shall rejoice over them and make merry: and shall send gifts one to another, because these two prophets tormented them that dwelt upon the earth.",
+        "And after three days and a half, the spirit of life from God entered into them. And they stood upon their feet: and great fear fell upon them that saw them.",
+        "And they heard a great voice from heaven, saying to them: Come up hither. And they went up to heaven in a cloud: and their enemies saw them."
+      ],
+      "lineRefs": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 11:4-12",
+      "reference": "Revelation 11:4-12",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And there came to him some of the Sadducees, who deny that there is any resurrection: and they asked him,",
+        "Saying: Master, Moses wrote unto us: If any man's brother die, having a wife, and he leave no children, that his brother should take her to wife and raise up seed unto his brother.",
+        "There were therefore seven brethren: and the first took a wife and died without children.",
+        "And the next took her to wife: and he also died childless.",
+        "And the third took her. And in like manner, all the seven: and they left no children and died.",
+        "Last of all the woman died also.",
+        "In the resurrection therefore, whose wife of them shall she be? For all the seven had her to wife.",
+        "And Jesus said to them: The children of this world marry and are given in marriage:",
+        "But they that shall be accounted worthy of that world and of the resurrection from the dead shall neither be married nor take wives.",
+        "Neither can they die any more for they are equal to the angels and are the children of God, being the children of the resurrection.",
+        "Now that the dead rise again, Moses also shewed at the bush, when he called the Lord: The God of Abraham and the God of Isaac and the God of Jacob.",
+        "For he is not the God of the dead, but of the living: for all live to him.",
+        "And some of the scribes answering, said to him: Master, thou hast said well.",
+        "And after that they durst not ask him any more questions."
+      ],
+      "lineRefs": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 20:27-40",
+      "reference": "Luke 20:27-40",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Presentation of The Blessed Virgin Mary",
+        "key": "presentationOfTheBlessedVirginMary"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week I",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/21.html",
+    "title": "Gospel and Word of the Day - 21 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/21.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-21"
+}
