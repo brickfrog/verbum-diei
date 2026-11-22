@@ -1,0 +1,287 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "def2ae67c5de4b1b0a675840ce35abacd8a5ff40063e268e2d86ad5010b19afe",
+        "inputSha256": "5cae0ed22da13b406384cc99f6b9e193584c78ab0e683364f98da14e754e03a7",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "c88cd1a95b263131ee0ec8c200d80fe9b79bdfc8a95def8d65b24aa1377d9e6f",
+        "inputSha256": "793bb9b6d59cc71776720bac0f7c1dd6aff4640a5f27667909a58f57d805888f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "74fd17380869c11417fab6ca243bdb66e4d79cad386726e6ae90126591739ee3",
+        "inputSha256": "7e04bc1d92eaef269bc03ab3567e03cf399e81fed5922ffe339789c96d827900",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-22T07:59:56.819Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The shepherd who hunts for the scattered and the king who hides inside the least both press the same psychological claim: the self is measured by what it does when no applause is possible. Care becomes identity. Neglect becomes a chosen blindness.\n\nA close parallel sits in Mahayana Buddhism: the bodhisattva who refuses private liberation until all beings are gathered back from suffering; compassion is not sentiment but vow. In Islam, zakat and the prophetic insistence on the orphan, the traveler, and the prisoner make the poor a moral touchstone rather than a social problem. In Hindu bhakti, seva offered to the lowly treats service as encounter with the divine presence; speculation: the “least” functions like a living icon that dissolves the ego’s fantasy of purity. Stoicism’s oikeiosis extends the circle of concern outward until the stranger is kin; speculation: the sheep-and-goats divide resembles the Stoic split between a trained disposition and a life left to drift. Confucian ren makes the vulnerable the exam of character, not the object of pity, and turns judgment into the plain exposure of who one has become.",
+    "excursus": "The shepherd here is not gentle. He is the one who scattered them in the first place, or at least allowed the scattering, and now returns like a storm-front with a promise that feels like a threat: I will visit. In Ezekiel the comfort is inseparable from surveillance. He will make them lie down, not because they trust him, but because there will be nowhere else to stand. Even the care is coercive: binding, strengthening, preserving, feeding in judgment. The dark day doesn’t end; it becomes the lighting for an inspection.\n\nMatthew intensifies the dread by turning mercy into a test you never knew you were taking. The “just” are not saints with clear intentions; they are sleepwalkers who stumbled into decency and are startled to learn it counted. The condemned are not cartoon villains; they are the people who missed the signal because the signal was disguised as the ordinary. The king’s demand is erotic in its intimacy and humiliating in its method: he hides in need, in hunger, in the unwashed body, and waits to see whether you can bear contact without reward.\n\nThe division between sheep and goats is less about morality than about tolerance for proximity. Sheep submit to being gathered, sorted, handled. Goats resist, keep their distance, preserve their clean autonomy—and that very self-protection becomes the crime. “Least brethren” is the trapdoor: you don’t get to love God directly; you have to love what you would rather step over. The afterlife verdict is the psychological truth made cosmic: you become what you practiced. If you trained your attention to pass by, you inherit the world of passing by forever.",
+    "synthesis": "Christ the Shepherd-King identifies himself with the least and judges the nations by their treatment of them. Salvation and condemnation are rendered by this identification, and the verdict is eternal.",
+    "gospel": [
+      {
+        "text": "Matthew frames final judgment as the public revelation of what persons have been worshiping in practice: the King is encountered under the guise of need, and omission counts as a positive act of refusal. The surprise of both groups exposes that the criterion is not self-conscious piety but enacted allegiance, measured in concrete works toward the vulnerable.",
+        "lines": [
+          5,
+          6,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Ezekiel’s oracle is a polemic against failed shepherds: God assumes direct governance, first by regathering, then by adjudicating within the community. Restoration is not mere comfort; it culminates in a tribunal that distinguishes exploiters from the exploited inside the same fold.",
+        "lines": [
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "God refuses delegation: “I myself.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The rescue is meteorological: “cloudy and dark day” names history as weather.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Feeding ends in enforced rest; pasture becomes command.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Mercy is selective: the weak are repaired; the “fat and strong” are handled by “judgment.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The flock is internally litigated; predators are not only outside.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Majesty is a seat: sovereignty as furniture and posture.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The shepherd’s work becomes geopolitical: “all nations” reduced to livestock logic.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Inheritance precedes merit: “prepared… from the foundation.”",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The least are a sacrament of the King; contact transfers.",
+      "lines": [
+        10
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Fire is not improvised; it has an address and prior occupants.",
+      "lines": [
+        11
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Two eternities, no third category; symmetry without softness.",
+      "lines": [
+        16
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to found all things in your most beloved Son, King of the universe, grant that all creation, set free from the slavery of sin, may serve your majesty and glorify you without end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to found all things in your most beloved Son, King of the universe, grant that all creation, freed from the slavery of sin, may serve your majesty and glorify you without end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to establish all things in your most beloved Son, King of the universe, grant that all creation, freed from the bondage of sin, may serve your majesty and glorify you without end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to found all things in your most beloved Son, King of the universe, grant that all creation, freed from the slavery of sin, may serve your majesty and glorify you without end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to establish all things in your most beloved Son, King of the universe, grant that all creation, freed from the slavery of sin, may serve your majesty and glorify you without end. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who willed to establish all things in your most beloved Son, King of the universe, grant that all creation, freed from the slavery of sin, may serve your majesty and glorify you without end. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter Second Vespers of Sunday or of solemnities that coincide with Sunday:\n\nHumbly we ask you, Lord, that after celebrating this day the mysteries of the resurrection of your Son, we may rest without any fear in your peace, and tomorrow rise with joy to sing your praises once again. Through Jesus Christ our Lord. Amen.\n\nAfter Vespers of solemnities that do not coincide with Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy; let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "For thus saith the Lord God: Behold I myself will seek my sheep, and will visit them.",
+        "As the shepherd visiteth his flock in the day when he shall be in the midst of his sheep that were scattered, so will I visit my sheep, and will deliver them out of all the places where they have been scattered in the cloudy and dark day.",
+        "I will feed my sheep: and I will cause them to lie down, saith the Lord God.",
+        "I will seek that which was lost: and that which was driven away, I will bring again: and I will bind up that which was broken, and I will strengthen that which was weak, and that which was fat and strong I will preserve, and I will feed them in judgment.",
+        "And as for you, O my flocks, thus saith the Lord God: Behold I judge between cattle and cattle, of rams and of he-goats."
+      ],
+      "lineRefs": [
+        "11",
+        "12",
+        "15",
+        "16",
+        "17"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Ezekiel 34:11-12,15-17",
+      "reference": "Ezekiel 34:11-12,15-17",
+      "heading": "A reading from the Book of Ezekiel",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when the Son of man shall come in his majesty, and all the angels with him, then shall he sit upon the seat of his majesty.",
+        "And all nations shall be gathered together before him: and he shall separate them one from another, as the shepherd separateth the sheep from the goats:",
+        "And he shall set the sheep on his right hand, but the goats on his left.",
+        "Then shall the king say to them that shall be on his right hand: Come, ye blessed of my Father, possess you the kingdom prepared for you from the foundation of the world.",
+        "For I was hungry, and you gave me to eat: I was thirsty, and you gave me to drink: I was a stranger, and you took me in:",
+        "Naked, and you covered me: sick, and you visited me: I was in prison, and you came to me.",
+        "Then shall the just answer him, saying: Lord, when did we see thee hungry and fed thee: thirsty and gave thee drink?",
+        "Or when did we see thee a stranger and took thee in? Or naked and covered thee?",
+        "Or when did we see thee sick or in prison and came to thee?",
+        "And the king answering shall say to them: Amen I say to you, as long as you did it to one of these my least brethren, you did it to me.",
+        "Then he shall say to them also that shall be on his left hand: Depart from me, you cursed, into everlasting fire, which was prepared for the devil and his angels.",
+        "For I was hungry and you gave me not to eat: I was thirsty and you gave me not to drink.",
+        "I was a stranger and you took me not in: naked and you covered me not: sick and in prison and you did not visit me.",
+        "Then they also shall answer him, saying: Lord, when did we see thee hungry or thirsty or a stranger or naked or sick or in prison and did not minister to thee?",
+        "Then he shall answer them, saying: Amen: I say to you, as long as you did it not to one of these least, neither did you do it to me.",
+        "And these shall go into everlasting punishment: but the just, into life everlasting."
+      ],
+      "lineRefs": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Matthew 25:31-46",
+      "reference": "Matthew 25:31-46",
+      "heading": "From the Gospel according to Matthew",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "WHITE",
+        "source": "c",
+        "rank": "SOLEMNITY",
+        "name": "Christ the King",
+        "key": "christTheKing"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/22.html",
+    "title": "Gospel and Word of the Day - 22 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/22.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-22"
+}
