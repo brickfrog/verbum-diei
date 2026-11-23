@@ -1,0 +1,247 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "429fed4d5f6c7397b6fa416f0e4f8e10082d62b8714c7ed29c7a743e9d06b5f8",
+        "inputSha256": "31526e39c1468009bf5be157c4e03a390274c6375cbb70854bbc3d6fbe4ce8e8",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bf7de26116f5a82c304eacbbcdfeafebacfba15b374fae352c632fc9ed0f0129",
+        "inputSha256": "4fc6e6378d0934583bb5528ff3f20c8b1db08489b4193210d040231579d2203c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "65491eb3b365a8a6b95db22ec87c4e2b09c93d3af2864f4bce77dfbd12e1fd5c",
+        "inputSha256": "aa524279ffaecb193b4c457fbd73987904bd621ada56692762c001db24f0dfdb",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-23T09:02:24.869Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The sealed foreheads read like an interior signature: identity no longer negotiated with the crowd but impressed from a deeper allegiance. That mark has cousins in Hindu tilaka and Shaiva vibhuti, in Sikh kes and kakkars, in the Buddhist refuge formula held “in mind” as a lived imprint; in each, the body becomes a public surface for an inward vow. The “new song” that only the initiated can sing resembles the Vedic idea of mantra as transmissible only through fit hearing, and the Sufi sama‘ where audition is not mere music but a capacity shaped by purification; speculation: the text is describing a psychology of resonance, where certain truths become audible only after desire has been re-trained.\n\nVirginity here functions less as sexual bookkeeping than as undivided attention, a refusal to be bought by competing appetites. That maps cleanly onto Stoic apatheia, Buddhist non-attachment, and the yogic brahmacharya ideal: not negation of life, but concentration of life. “No lie in their mouth” aligns with satya in Yoga and right speech in the Eightfold Path, where speech is the last seam that still betrays a divided self.\n\nThe widow’s two coins are the same inner logic in miniature: the value is not the object but the self-risk. It parallels dana in Buddhism and tzedakah in Judaism when giving is measured by cost to the giver, not by spectacle. Speculation: she performs the opposite of the mark-as-brand; she becomes unmarked socially, yet her act is a seal of integrity, a quiet initiation into the same undividedness the vision praises.",
+    "excursus": "Revelation stages purity as a kind of managed violence. The marked foreheads are not crowns but brands, ownership made visible. The “new song” is not a celebration open to all; it’s a password, a closed frequency only the purchased can hear. Even the virgins’ cleanliness reads less like innocence than like fear of contamination, a refusal of the ordinary mess of desire. “No lie” means no inner conflict, no private language left—spotless because emptied.\n\nLuke’s widow is the human cost of that economy. Jesus watches a system that praises extraction and calls it devotion. The rich give without losing themselves; the widow gives until there is no self left to lose. He names it “more,” but the word lands like an indictment: holiness measured by disappearance. Between the branded choir and the emptied woman, the texts share a chill—salvation imagined as being spent, owned, and finally sung through, until nothing personal remains.",
+    "synthesis": "God’s kingdom measures persons by consecration rather than quantity: the marked and truthful belong to the Lamb, and the gift that costs the giver is counted as the greater offering.",
+    "gospel": [
+      {
+        "text": "Jesus reads the temple treasury as a moral instrument: it reveals what remains after giving. The widow’s act is total transfer of security; the rich preserve themselves while appearing generous.",
+        "lines": [
+          1,
+          4
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene is a counter-city: Zion replaces empire, and the throne-room sets the economy. The “new” song is not novelty but eschatological speech—membership grants utterance; outsiders can hear but not participate.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "The passage constructs a priestly remnant by exclusion and selection: firstfruits, unblemished, truth-speaking. It is not a census but a sacrificial category—people described in the grammar of offerings.",
+        "lines": [
+          4,
+          5
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Foreheads as liturgy: identity made public, not private.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Heaven’s soundscape: water, thunder, then strings—terror disciplined into music.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A song that cannot be learned; purchase precedes praise.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Virginity framed as non-contamination; the body turned into boundary law.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No lie: purity measured at the mouth; speech as the last test.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two mites: the smallest coin becomes a unit of judgment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“More than they all”: arithmetic overturned by valuation.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Abundance gives without exposure; want gives by self-emptying.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, the hearts of your children, so that, responding generously to your grace, they may receive in greater abundance the help of your goodness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, almighty God, you have brought us to the beginning of this day; save us today by your power, that we may not fall into any sin, but that our words, thoughts, and actions may follow the way of your commandments. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, Father full of goodness, you have willed that we should work in such a way that, by cooperating with one another, we might achieve ever greater success; help us, then, to live amid our labors always feeling ourselves to be your children and brothers and sisters of all. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you are the master of the vineyard and the fields; you assign the tasks and give the workers their just wage. Help us to bear the burden of the day and the heat of the work without ever complaining about your designs. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "You have called us together, Lord, into your presence at that very hour when the apostles were going up to the temple for the evening prayer; grant that the supplications we now address to you in the name of Jesus, your Son, may obtain salvation for all who invoke this name. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who have willed to assist us in the work that we, your poor servants, have carried out today, as we come to the end of this day, accept our evening offering, in which we give you thanks for all the benefits we have received from you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nGrant, Lord, to our weary bodies the rest they need, and make the seed of the kingdom that by our work we have sown today grow and come to fruition for the harvest of eternal life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I beheld: and lo a Lamb stood upon mount Sion, and with him an hundred forty-four thousand, having his name and the name of his Father written on their foreheads.",
+        "And I heard a voice from heaven, as the noise of many waters and as the voice of great thunder. And the voice which I heard was as the voice of harpers, harping on their harps.",
+        "And they sung as it were a new canticle, before the throne and before the four living creatures and the ancients: and no man could say the canticle, but those hundred forty-four thousand who were purchased from the earth.",
+        "These are they who were not defiled with women: for they are virgins. These follow the Lamb whithersoever he goeth. These were purchased from among men, the firstfruits to God and to the Lamb.",
+        "And in their mouth there was found no lie: for they are without spot before the throne of God."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 14:1-3,4-5",
+      "reference": "Revelation 14:1-3,4-5",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And looking on, he saw the rich men cast their gifts into the treasury.",
+        "And he saw also a certain poor widow casting in two brass mites.",
+        "And he said: Verily, I say to you that this poor widow hath cast in more than they all.",
+        "For all these have of their abundance cast into the offerings of God: but she of her want hath cast in all the living that she had."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:1-4",
+      "reference": "Luke 21:1-4",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "n",
+        "rank": "OPT_MEMORIAL",
+        "name": "Blessed Miguel Agustin Pro, Priest and Martyr",
+        "key": "blessedMiguelAgustinProPriestAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/23.html",
+    "title": "Gospel and Word of the Day - 23 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/23.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-23"
+}
