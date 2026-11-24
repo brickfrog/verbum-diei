@@ -1,0 +1,256 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "c09e6af63e61babbdc8ff234f114efc42daa2a39d8bbb227e77aaa5236dd8a53",
+        "inputSha256": "2d61c4276361526eb2d30c52b9f10d260dea796c5fb67ad22e1edb1751eab152",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "bb6755b4204c967f3497145b6f90a0f14635aa0f1488d67ede3ab29792abd4fa",
+        "inputSha256": "9a255db54fe9d2739ec5344e17122da678348d4c8394aac3bf3ef0880ca1f762",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "83f7a38e1fc9babaf27f4de1739a71f9671b81e1c36ae467b851ccb5a8fe3fe6",
+        "inputSha256": "4641329610688d3eae811634ee6f99a7228999f9169dc7abed849212ee97e300",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-24T10:55:21.544Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The sickle and the toppled stones are the same psyche-event: the mind’s periodic insistence on liquidation. When the inner temple becomes a showroom of “goodly stones,” the self starts mistaking ornament for shelter; then reality arrives as a blade, not to punish but to end the masquerade. The harvest image is not about a calendar but about ripeness: a point at which accumulated evasion can no longer be composted into growth and must be cut down into consequence. The warning about seducers is the clinical detail: in collapse, the ego craves a voice that promises timing, mastery, a shortcut through dread.\n\nSemina Verbi: the reaping resembles the Bhagavad Gita’s vision of Time as the devourer of worlds, a disclosure that strips the hero’s fantasies of control. It echoes Buddhism’s impermanence and the “cutting” wisdom of Manjushri’s sword, severing attachment to the decorated temple of identity. Speculation: the vineyard pressed into wrath has a Taoist flavor of reversion; what is overripe returns violently to the root when harmony is refused, not as moral vengeance but as energetic correction. Even the “many will come” motif rhymes with Sufi cautions about false sheikhs and with Stoic suspicion of prophets of panic: the mind in fear will rent its freedom to anyone selling certainty.",
+    "excursus": "These passages aren’t about the end of the world; they’re about the end of your refuge. The temple is praised like a body dressed in jewelry, and Jesus answers with a demolition fantasy: not one stone left. He strips the disciples of the comfort of permanence, because permanence is the oldest seducer. Their question—when, what sign—is the addict’s question. Give me a timetable so I can keep worshiping my fear.\n\nRevelation turns that same fear into erotic agriculture. The figure “like the Son of man” does not console; he harvests. Ripeness is not virtue here; it is overmaturity, the moment sweetness tips into rot. The sickle is desire made clean and metallic, and the angels are bureaucrats of violence, issuing orders from temple and altar, from piety and sacrifice. Even the grapes are gathered for a press: the world’s life is converted into pressure, juice, wrath.\n\n“Be not seduced” lands as a cruel joke, because seduction is exactly what apocalypse offers: meaning, pattern, a thrilling narrative where your dread is finally justified. Wars, earthquakes, pestilence—these are not signs of an ending but the mind’s way of making chaos feel intentional. The real warning is not to chase the men who say “I am he,” including the version of God you invent to make terror legible. The harvest comes when you are ripe with explanations, and the sickle cuts them down.",
+    "synthesis": "God’s judgment is executed through ordered heavenly agency, and no earthly sanctity or spectacle can serve as a refuge from it. The faithful response is vigilance against counterfeit immediacy and endurance through necessary upheavals.",
+    "gospel": [
+      {
+        "text": "The discourse begins with aesthetic admiration and ends with geopolitical fracture; the question about timing is answered by a reordering of attention. The point is not to supply a calendar but to strip the temple of its function as a stabilizing guarantee, so that discipleship is trained to endure collapse without converting it into a false ‘end’.",
+        "lines": [
+          1,
+          3,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The scene divides judgment into two administrations: temple-angel and altar-angel. Heaven’s worship-space issues orders that culminate in wrath, showing that eschatology is not an interruption of cult but its disclosure—what the altar signifies is what history becomes when ripeness is reached.",
+        "lines": [
+          4,
+          6
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Cloud-throne: judgment arrives as weather. Crown and sickle: royalty with a tool.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The enthroned waits for a messenger; sovereignty executes on command.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "One motion, total effect: the earth reduced to a field.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Altar and fire authorize the cut: liturgy becomes ignition.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Vineyard ends in a press: fruit translated into wrath.",
+      "lines": [
+        6
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Stone on stone: the sacred is not exempt from physics.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Deception wears proximity: ‘I am’ and ‘now’ as bait.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Terror is a misreading of sequence; necessity is not immediacy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Creation convulses; heaven adds its own portents—no safe layer.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source and origin of all fatherhood, you made the holy martyrs Andrew and his companions faithful to the cross of Christ with a fidelity that went as far as the shedding of their blood; grant, through their intercession, that we may spread your love among our brothers and sisters, and that we may be called and truly be your children. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source and origin of all fatherhood, you made the holy martyrs Andrew and his companions faithful to the Cross of Christ, with a fidelity that went as far as the shedding of their blood; grant, through their intercession, that we may spread your love among our brothers and sisters, and that we may be called and truly be your children. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, who at the hour of Terce sent your Spirit, the Advocate, upon the apostles, pour out upon us also that same Spirit of love, so that before all people we may always bear faithful witness to that love which you have willed to be the distinguishing mark of the disciples of your Son. Who lives and reigns for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who revealed to Peter your plan to save all nations, grant us your grace, that all our actions may be pleasing in your sight and serve your design of love and universal salvation. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, who sent an angel to the centurion Cornelius to reveal to him the way of salvation, help us to work each day with ever greater dedication for the salvation of all, so that, together with all our brothers and sisters, incorporated into your Church, we may come to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, source and origin of all fatherhood, you made the holy martyrs Andrew and his companions faithful to the Cross of Christ, with a fidelity that went as far as the shedding of their blood; grant, through their intercession, that we may spread your love among our brothers and sisters and that we may be called, and truly be, your children. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nLight up our night, Lord, and grant us a peaceful rest; may we rise tomorrow in your name and be able to behold, in health and joy, the dawning of the new day. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I saw: and behold a white cloud and upon the cloud one sitting like to the Son of man, having on his head a crown of gold and in his hand a sharp sickle.",
+        "And another angel came out from the temple, crying with a loud voice to him that sat upon the cloud: Thrust in thy sickle and reap, because the hour is come to reap. For the harvest of the earth is ripe.",
+        "And he that sat on the cloud thrust his sickle into the earth: and the earth was reaped.",
+        "And another angel came out of the temple which is in heaven, he also having a sharp sickle.",
+        "And another angel came out from the altar, who had power over fire. And he cried with a loud voice to him that had the sharp sickle, saying: Thrust in thy sharp sickle and gather the clusters of the vineyard of the earth, because the grapes thereof are ripe.",
+        "And the angel thrust in his sharp sickle into the earth and gathered the vineyard of the earth and cast it into the great press of the wrath of God:"
+      ],
+      "lineRefs": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 14:14-19",
+      "reference": "Revelation 14:14-19",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And some saying of the temple that it was adorned with goodly stones and gifts, he said:",
+        "These things which you see, the days will come in which there shall not be left a stone upon a stone that shall not be thrown down.",
+        "And they asked him, saying: Master, when shall these things be? And what shall be the sign when they shall begin to come to pass?",
+        "Who said: Take heed you be not seduced: for many will come in my name, saying: I am he and the time is at hand. Go ye not therefore after them.",
+        "And when you shall hear of wars and seditions, be not terrified. These things must first come to pass: but the end is not yet presently.",
+        "Then he said to them: Nation shall rise against nation, and kingdom against kingdom.",
+        "And there shall be great earthquakes in divers places and pestilences and famines and terrors from heaven: and there shall be great signs."
+      ],
+      "lineRefs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:5-11",
+      "reference": "Luke 21:5-11",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "RED",
+        "source": "g",
+        "rank": "MEMORIAL",
+        "name": "Saint Andrew Dung-Lac and Companions, Martyrs",
+        "key": "saintAndrewDungLacAndCompanionsMartyrs"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/24.html",
+    "title": "Gospel and Word of the Day - 24 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/24.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-24"
+}
