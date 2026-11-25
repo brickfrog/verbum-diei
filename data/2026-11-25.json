@@ -1,0 +1,259 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "107caa33c81c00dc8a01ec9319da390e5b7e7e0d303b129d4632eb8dfb8614b1",
+        "inputSha256": "5650be87529c6877574e252b5331f91a6972a476d07b5b9066f134a9cc15f7b5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "d6170cacda19eaeae784af2bfc578188c9c2007e88b416a341e64d52b9328c64",
+        "inputSha256": "7be6d5bd88c13af5c10090b4593105c1ac39519bef3c9c0931b2762acc2c2435",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "7e97449004b5ed0499362f8cc4cd6e241507f436a1854e4cb47b9ec33541d61e",
+        "inputSha256": "180cd362086c8a21cd62fb3e2921793c9d44f4ecdffbe505c9c005a29bb7c3d5",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-25T09:51:39.366Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The sea of glass mingled with fire feels like the psyche after ordeal: emotion vitrified into clarity, still burning underneath. The song is not escape but integration; trauma is transmuted into praise, the self no longer bargaining with history but consenting to a moral order it can finally see.\n\nThe persecution scene in Luke reads as a training in non-anticipatory courage. “Do not premeditate” is a refusal of rehearsal-compulsion, the anxious mind’s attempt to control outcomes by scripting. The promised “mouth and wisdom” is the emergence of speech from a deeper stratum than calculation, the self speaking from center rather than from fear.\n\nBetrayal by family names the most destabilizing wound: the collapse of the social mirror that tells you who you are. The line about not a hair perishing is psychic, not forensic: integrity survives even when the body is touched. Patience becomes the discipline of staying coherent under pressure; by endurance you repossess your own interior.\n\nSemina Verbi: the sea of glass recalls the Stoic ideal of apatheia as a lucid surface over a furnace of passions, not numbness but ordered affect. The unpremeditated “mouth and wisdom” parallels Zen’s spontaneous right speech and Daoist wu-wei; speculation: it points to a practiced emptiness that lets the true word arrive. The victory-song after ordeal resembles the Bhagavad Gita’s steadiness in action and the Sikh ardas, where suffering is folded into communal remembrance without bitterness.",
+    "excursus": "These texts don’t soothe; they eroticize catastrophe. Revelation stages a spectacle where the “overcomers” stand on a sea that is both glass and fire: frozen terror, burning desire. They sing not because the world is healed but because the violence has finally been named, organized, made “manifest.” The harps are not instruments of peace; they are the soundtrack of control returning. Wrath becomes aesthetic, and the survivors learn to love the clarity of judgment more than the messy ambiguity of mercy.\n\nLuke makes the cost intimate. The betrayal isn’t from strangers; it’s from parents, siblings, friends—your own origin turning on you. The promise of a “mouth and wisdom” is less comfort than possession: don’t prepare, don’t think, be spoken through. And then the cruel line: some of you will be killed, yet not a hair will perish. The self is split—body expendable, identity preserved as a narrative. “In your patience you shall possess your souls” reads like a hostage note: endure long enough and you’ll get back what was taken, though you may not recognize it when it’s returned.",
+    "synthesis": "God’s judgments are not an embarrassment to be hidden but the public revelation that compels true worship. The Church’s endurance under persecution is not self-defense but divinely given testimony that cannot be finally harmed.",
+    "gospel": [
+      {
+        "text": "Persecution is redefined as instrument: it becomes “testimony,” and speech is promised as gift, not technique. The text shifts agency—adversaries initiate violence, but Christ governs the meaning and the outcome of the encounter.",
+        "lines": [
+          2,
+          4
+        ]
+      },
+      {
+        "text": "The fracture runs through kinship; the cost is not merely public opposition but domestic betrayal. The hatred is explicitly tethered to the Name, making the conflict theological rather than temperamental.",
+        "lines": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The vision frames history as a liturgical court: wrath is “filled up,” then answered not by panic but by ordered praise. The conquerors are identified by what they refused (beast, image, number), and their stance is priestly—harps—so triumph is rendered as worship rather than retaliation.",
+        "lines": [
+          1,
+          3
+        ]
+      },
+      {
+        "text": "Universality is not sentimental: nations come because judgment is disclosed. Holiness is asserted as exclusivity (“thou only”), and that exclusivity becomes the ground of worldwide adoration, not a barrier to it.",
+        "lines": [
+          4
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Wrath is not a mood here; it is measured, parceled into “seven.”",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Victory stands on what should not bear weight: glass; and it is lit from within: fire.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Two songs fused—Exodus and Cross—liberation recited as doxology.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fear becomes liturgy; judgment becomes public, not private.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sequence is juridical: hands, synagogues, prisons, rulers—religion and state in one net.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Commanded unpreparedness: refusal of self-authored defense.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "A paradox of accounting: some killed, yet nothing lost.",
+      "lines": [
+        7
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Patience is possession; the soul is not seized by force but by endurance.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move, Lord, the hearts of your children, so that, responding generously to your grace, they may receive in greater abundance the help of your goodness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Send, Lord, into our hearts the abundance of your light, so that, always advancing along the path of your commandments, we may be freed from every error. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, holy Father, faithful God, who sent the promised Holy Spirit to gather together the people whom sin had scattered, help us to be, in the midst of the world, a leaven of unity and peace. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and loving God, who at the midpoint of our day grant rest from our weariness, look with favor upon the work we have begun today; remedy our shortcomings and make our deeds pleasing to you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who for the salvation of mankind stretched out your arms upon the cross, grant that all our actions may be pleasing to you and serve to make your redemption known to the world. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "O God, your name is holy, and your mercy reaches your faithful from generation to generation; therefore hear the supplications of your people and grant that they may proclaim your greatness for ever. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God, for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord Jesus Christ, you are meek and humble of heart and you offer those who come to you a yoke that is easy and a burden that is light; deign, then, to accept the desires and the deeds of the day we have now ended. Grant that we may rest during the night, so that, our body and spirit renewed, we may persevere steadfastly in your service. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I saw another sign in heaven, great and wonderful: seven angels having the seven last plagues. For in them is filled up the wrath of God.",
+        "And I saw as it were a sea of glass mingled with fire: and them that had overcome the beast and his image and the number of his name, standing on the sea of glass, having the harps of God:",
+        "And singing the canticle of Moses, the servant of God, and the canticle of the Lamb, saying: Great and wonderful are thy works, O Lord God Almighty. Just and true are thy ways, O King of ages.",
+        "Who shall not fear thee, O Lord, and magnify thy name? For thou only art holy. For all nations shall come and shall adore in thy sight, because thy judgments are manifest."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 15:1-4",
+      "reference": "Revelation 15:1-4",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "But before all these things, they will lay their hands on you and persecute you, delivering you up to the synagogues and into prisons, dragging you before kings and governors, for my name's sake.",
+        "And it shall happen unto you for a testimony.",
+        "Lay it up therefore in your hearts, not to meditate before how you shall answer:",
+        "For I will give you a mouth and wisdom, which all your adversaries shall not be able to resist and gainsay.",
+        "And you shall be betrayed by your parents and brethren and kinsmen and friends: and some of you they will put to death.",
+        "And you shall be hated by all men for my name's sake.",
+        "But a hair of your head shall not perish.",
+        "In your patience you shall possess your souls."
+      ],
+      "lineRefs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:12-19",
+      "reference": "Luke 21:12-19",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [
+          "MARTYR"
+        ],
+        "color": "GREEN",
+        "source": "g",
+        "rank": "OPT_MEMORIAL",
+        "name": "Saint Catherine of Alexandria, Virgin and Martyr",
+        "key": "saintCatherineOfAlexandriaVirginAndMartyr"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/25.html",
+    "title": "Gospel and Word of the Day - 25 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/25.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-25"
+}
