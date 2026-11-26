@@ -1,0 +1,325 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "f7bf62a5531ee66d2052c20e97835264b1ae4ffa49f2e4fbc441272d5687172c",
+        "inputSha256": "14ed11cf71c55680729aca4dbe8624e6bd51e69705d26a4e30e0c537ebbc6938",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "42ffb0110c823d8b91c43dd9f5295f0ecd204ea2b568b282d5763c0ac28a5a76",
+        "inputSha256": "d39a53d18bb11fb47d597bb7fc3080f785b474514b6809baf6b3eb2d756cde1f",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "3b48e79e4c1d9098753a103a3d88a87665d6529ee27c27276fab37749ecc5437",
+        "inputSha256": "06da776191ed5e3040a4de08e4d7c6b584b659ac75738374fba354f5ed2ba4cd",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-26T09:31:11.887Z"
+  },
+  "commentary": {
+    "seminaVerbi": "Babylon is the psyche’s manic metropolis: a dazzling, self-justifying system that runs on seduction, noise, and commerce, and then collapses into a sudden, absolute silence. The “enchantments” are not spells but mass suggestion, the trance of status and appetite that makes exploitation feel like destiny. The millstone is the blunt fact of consequence; what seemed immortal is revealed as weight, and it drops. The heavenly alleluia is the relief that arrives when a compulsive pattern finally breaks; the smoke “for ever” is the mind’s refusal to romanticize it again.\n\nJerusalem under siege is the inner city when reality closes in and denial loses its exits. The command to flee is a directive toward simplicity: abandon the crowded center where identity, loyalty, and fear tangle, and move to the mountains of bare attention. Pregnancy and nursing name vulnerability and attachment; crisis punishes what cannot travel light. Cosmic signs externalize panic’s scale, when personal dread feels like the sun and moon have shifted. “Lift up your heads” is the counter-movement to collapse: not optimism, but posture—choosing orientation toward meaning when the old order is being dismantled.\n\nSemina Verbi: This resembles the Bhagavad Gita’s vision of forms dissolving into a vast, impersonal disclosure that forces relinquishment of false refuge. It echoes Buddhism’s image of a burning house, where the glamour of the “city” is recognized as samsaric intoxication and release begins with turning away. It parallels Stoic ekpyrosis as a cleansing end of a corrupt cycle, though here the fire is moral rather than merely cosmic. Speculation: it also brushes Sufi fana, the annihilation of the constructed self so that a truer wedding-feast intimacy can occur beyond the market’s spell.",
+    "excursus": "Babylon isn’t a city out there. It’s the part of us that needs noise to feel real. The harpers, the mills, the lamp, the bride and bridegroom—ordinary human warmth—are named only to be erased, like an addict listing the pleasures he’s about to lose and calling it justice. The angel’s “glory” is a floodlight: it doesn’t heal, it exposes. The enchantment is commerce as hypnosis, desire turned into a spell that keeps you buying so you don’t have to feel the emptiness underneath.\n\nThe crowd in heaven chanting Alleluia reads like collective relief at finally being allowed to hate without shame. They call her harlot because they want her; they burn what seduced them. “Her smoke ascendeth for ever” is the fantasy of a clean break that never has to end, a permanent proof that temptation has been punished. The marriage supper arrives not as tenderness but as replacement: if you can’t stop longing, you can at least trade one appetite for another and call it blessed.\n\nLuke’s siege strips the metaphor to the bone. When the city is surrounded, don’t be brave; run. Apocalypse here is not heroic revelation but panic management. Pregnancy and nursing are singled out because attachment makes you slow, and the text is ruthless about what survival costs. Signs in sun and sea are the psyche’s weather: dread so total it feels cosmic. Then the command, almost indecent in its brightness: lift your heads. Not because the world is kinder, but because collapse is the only moment the spell breaks, the only time you can stop bargaining with Babylon and finally admit what you’ve been living for.",
+    "synthesis": "God judges cities and ages as moral agents, stripping their lights, songs, and markets to expose their demons. The faithful are not promised preservation of structures but summons to the Lamb’s feast and readiness for the Son of Man’s appearing.",
+    "gospel": [
+      {
+        "text": "The discourse binds a near historical calamity to a longer eschatological horizon: Jerusalem’s trampling is real, timed, and instrumental. The city’s fate becomes a template for how God dismantles false securities without surrendering his promises.",
+        "lines": [
+          1,
+          5
+        ]
+      },
+      {
+        "text": "Cosmic disturbance functions as de-centering: creation itself refuses to be a stable backdrop for human projects. Fear is portrayed as a physiological unraveling, the body confessing what the mind resists—contingency under judgment.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The coming of the Son of Man is presented as the interpretive key that reverses the meaning of events. The same sequence that reads as disintegration becomes, for the instructed, the approach of deliverance and the demand for watchful composure.",
+        "lines": [
+          8,
+          9
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "Heaven’s acclamation is not aesthetic pleasure at catastrophe; it is a public ratification of God’s courtroom. The “harlot” names a system that makes corruption ordinary and martyrdom predictable; the praise declares that such normality is not ultimate.",
+        "lines": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "The oracle targets a total way of life—spiritual, economic, domestic—so the fall is comprehensive. What is judged is not merely private vice but a civilizational liturgy: merchants as “great men,” deception as the glue of international order.",
+        "lines": [
+          2,
+          5
+        ]
+      },
+      {
+        "text": "The command to “Write” turns the vision into durable testimony. Blessedness is relocated from participation in the city’s economy to summons into the Lamb’s polity, where truth is not negotiated.",
+        "lines": [
+          9
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Glory does not soothe; it exposes. Illumination as indictment.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Empire reclassified as zoo: devils, spirits, birds. The civic becomes the feral.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "A millstone: commerce turned weapon. The sea receives what the city refused to repent.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Art, craft, industry: silenced in one stroke. Culture is not a shield.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Lamp out; wedding song gone. The end is liturgical: no light, no nuptials. Merchants named as princes; enchantment as policy.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Smoke as monument. “For ever” is the duration of the verdict, not the romance of ruin.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Beatitude addressed to guests, not builders. The true city is a supper, not a market.",
+      "lines": [
+        9
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The sign is mundane: an army. Apocalypse begins as siegeworks.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "No heroics, no holding ground. Salvation here is flight.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Vengeance framed as fulfillment: history as execution of written sentence.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Woe falls on the dependent body. Judgment is not evenly distributed by strength.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Holy city becomes pavement. “Till” implies a clock over conquest.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Cloud: concealment turned throne. Power arrives veiled, not explained.",
+      "lines": [
+        8
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "The posture commanded is vertical. Redemption is read in the same events others call collapse.",
+      "lines": [
+        9
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Move, Lord, the hearts of your children, so that, responding generously to your grace, they may receive in greater abundance the help of your goodness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Humbly we beseech you, Lord, who are the true light and the very source of all light, that, faithfully meditating on your law, we may always live in your radiance. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, you who at the hour of Terce sent the Holy Spirit upon the apostles gathered in prayer, grant that we too may share in the gifts of this Spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty and eternal God, before you there is neither darkness nor gloom; therefore let the brightness of your light shine upon us, so that, keeping your commandments, we may walk faithfully in your paths with hearts enlarged. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Look upon your family at prayer, Lord, and grant that, imitating the examples of patience of your Son, it may never falter in adversity. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "As we offer you, Lord, our evening praise, we humbly ask that, meditating on your law day and night, we may one day attain the light and the reward of eternal life. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord our God, grant us a peaceful rest that will restore our strength, now worn down by the day’s work; so that, strengthened by your help, we may always serve you with our whole body and spirit. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And after these things, I saw another angel come down from heaven, having great power: and the earth was enlightened with his glory.",
+        "And he cried out with a strong voice, saying: Babylon the great is fallen, is fallen: and is become the habitation of devils and the hold of every unclean spirit and the hold of every unclean and hateful bird:",
+        "And a mighty angel took up a stone, as it were a great millstone, and cast it into the sea, saying: With such violence as this, shall Babylon, that great city, be thrown down and shall be found no more at all.",
+        "And the voice of harpers and of musicians and of them that play on the pipe and on the trumpet shall no more be heard at all in thee: and no craftsman of any art whatsoever shall be found any more at all in thee: and the sound of the mill shall be heard no more at all in thee:",
+        "And the light of the lamp shall shine no more at all in thee: and the voice of the bridegroom and the bride shall be heard no more at all in thee. For thy merchants were the great men of the earth: for all nations have been deceived by thy enchantments.",
+        "After these things, I heard as it were the voice of much people in heaven, saying: Alleluia. Salvation and glory and power is to our God.",
+        "For true and just are his judgments, who hath judged the great harlot which corrupted the earth with her fornication and hath revenged the blood of his servants, at her hands.",
+        "And again they said: Alleluia. And her smoke ascendeth for ever and ever.",
+        "And he said to me: Write: Blessed are they that are called to the marriage supper of the Lamb. And he saith to me: These words of God are true."
+      ],
+      "lineRefs": [
+        "18:1",
+        "18:2",
+        "18:21",
+        "18:22",
+        "18:23",
+        "19:1",
+        "19:2",
+        "19:3",
+        "19:9"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 18:1-2,21-23; 19:1-3,9",
+      "reference": "Revelation 18:1-2,21-23; 19:1-3,9",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And when you shall see Jerusalem compassed about with an army, then know that the desolation thereof is at hand.",
+        "Then let those who are in Judea flee to the mountains: and those who are in the midst thereof depart out: and those who are in the countries not enter into it.",
+        "For these are the days of vengeance, that all things may be fulfilled, that are written.",
+        "But woe to them that are with child and give suck in those days: for there shall be great distress in the land and wrath upon this people.",
+        "And they shall fall by the edge of the sword and shall be led away captives into all nations: and Jerusalem shall be trodden down by the Gentiles till the times of the nations be fulfilled.",
+        "And there shall be signs in the sun and in the moon and in the stars; and upon the earth distress of nations, by reason of the confusion of the roaring of the sea, and of the waves:",
+        "Men withering away for fear and expectation of what shall come upon the whole world. For the powers of heaven shall be moved.",
+        "And then they shall see the Son of man coming in a cloud, with great power and majesty.",
+        "But when these things begin to come to pass, look up and lift up your heads, because your redemption is at hand."
+      ],
+      "lineRefs": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:20-28",
+      "reference": "Luke 21:20-28",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Thursday of the 34th week of Ordinary Time",
+        "key": "thursdayOfThe34thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/26.html",
+    "title": "Gospel and Word of the Day - 26 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/26.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-26"
+}
