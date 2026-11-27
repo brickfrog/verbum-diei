@@ -1,0 +1,263 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "04e942725198e76fa21328baf44d74f87f453edef02cb0e3bc3bb017043c8272",
+        "inputSha256": "c90c4cdf9dc9785c609b019a6381517420f4e94f96cbb8eb3a8e1fdc274ddea5",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "0a39f9510b91f9f3de8386de2bacf3512aa3ff943254c9bf85fa9fc02b1237a0",
+        "inputSha256": "fae3624053ba209cf903826272562a7843c0797dff00f03aa21702ca8e71f65c",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "45d6940a37b19e0461430af13014ed84636cc7a00969fc5b4c9367431d40ce19",
+        "inputSha256": "078137a0c59879fd43c887ce58a13badd2a94c96ef8a019b592675ef0431a8a6",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-27T09:41:04.887Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The chained dragon reads like the psyche’s periodic containment of its own compulsion: the drive to seduce, to loop nations and persons into the same addictive story. The “little time” of release is the relapse clause built into human time, the brief return of what was repressed so it can be finally seen, named, and outlived.\n\nThe books and the book of life echo the Egyptian weighing of the heart against Ma’at and the Tibetan Bardo’s mirror of karma: not a courtroom so much as an unveiling where nothing remains merely private. Speculation: the “second death” resembles the Hindu notion of moksha by negation, not annihilation of being but the burning off of clinging identity.\n\nA new city descending as a bride parallels Plato’s form of the polis arriving from beyond appetite, and the Islamic image of the Garden as an ordered mercy that is received, not engineered. The vanished sea recalls Mesopotamian chaos-waters tamed; psychologically, the end of inner weather.\n\nThe fig tree is Zen’s ordinary sign made luminous: the season shows itself without argument. “This generation” has the bite of Stoic kairos, the demand to read reality as it ripens. “My words shall not pass away” aligns with the Dao as enduring pattern; speculation: it also resembles the Vedic idea of śabda as a stable thread when worlds dissolve.",
+    "excursus": "Revelation’s chain is not triumph but a pause button. Evil isn’t destroyed; it’s quarantined, sealed, and scheduled for release, because the psyche needs its dragon. The thousand years reads like a manic fantasy of control: a long, clean interval where the seducer is muted and the faithful dead are finally allowed to “reign,” meaning their wound gets promoted into authority. But the text can’t let the wound heal. “After that, he must be loosed.” Necessity, not accident.\n\nThen the throne appears and reality itself panics. Earth and heaven flee like guilty witnesses, as if creation can’t bear the face of judgment. The books are opened: the bureaucratic nightmare of being reduced to entries, works, records, a life made legible. Even death and hell are dragged up and thrown into fire, not as mercy but as escalation: a second death, a final erasure for whoever isn’t already inscribed. Salvation here feels less like love than like being on the right list.\n\nAnd after the burn, desire returns in costume. A city descends “as a bride,” a perfected intimacy that arrives from above, pre-made, immaculate, not grown. The sea is gone—the unruly unconscious drained away—so nothing unknown can surge back. Luke’s fig tree offers the same chill: read the signs, infer the season, accept the timetable. “This generation” will see it; heaven and earth will pass; only the words remain. Not comfort, but the claim that language outlives the world, and that is the real dominion: a voice insisting it will still be speaking when everything else has fled.",
+    "synthesis": "God’s reign culminates in a public judgment that abolishes death and installs a given, descending order. Christ’s words are the enduring measure by which history’s signs and its final accounting are read.",
+    "gospel": [
+      {
+        "text": "The parable trains perception: the kingdom is read the way seasons are read—by effects, not by access to hidden timetables. The saying about words outlasting heaven and earth places Jesus’ utterance on the far side of cosmic dissolution; it functions as the stable reference point by which “these things” are interpreted, preventing both panic and denial.",
+        "lines": [
+          2,
+          3,
+          5
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The vision moves from coercive restraint (the adversary contained) to juridical disclosure: a throne that evacuates the cosmos, then records that outlast bodies. Judgment is not arbitrary power but public accounting—works measured against a separate register of life. The finale is not ascent but descent: the city comes down, implying that the renewed order is given, not engineered, and that holiness is architectural and communal rather than merely interior.",
+        "lines": [
+          5,
+          6,
+          7,
+          9,
+          11
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Key and chain: authority rendered as hardware.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Four names for one enemy; identity is indictment.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Seal stops seduction, not existence; evil is restrained, then scheduled.",
+      "lines": [
+        3
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Thrones for the beheaded: loss becomes office; refusal of the mark becomes credential.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Death thrown into fire: the executioner executed.",
+      "lines": [
+        8
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "No sea: chaos drained; the old world’s remainder removed.",
+      "lines": [
+        10
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Fig tree plus “all the trees”: the sign is not exotic; it is ordinary.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "“This generation”: prophecy pinned to a clock, not a mood.",
+      "lines": [
+        4
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Creation is perishable; speech is not.",
+      "lines": [
+        5
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Stir up, Lord, the hearts of your children, so that, responding generously to your grace, they may receive in greater abundance the help of your goodness. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God almighty, we ask you to grant that, just as we have sung your praises in this morning celebration, so too we may sing them in all their fullness in the assembly of your saints for all eternity. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the hour of Terce were led to the torment of the Cross for the salvation of the world, help us to weep for the sins of our past life and to avoid faults in the time to come. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who at the sixth hour went up to the cross for our salvation while darkness covered the world, grant that your light may always shine upon us, so that, guided by it, we may attain eternal life. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord Jesus Christ, who, hanging upon the cross, granted the repentant thief the eternal kingdom, look upon us who, like him, confess our sins, and grant that we too, like him, may be able to enter, after death, into paradise. You who live and reign for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Our God, who in a wondrous way have revealed your hidden wisdom through the scandal of the cross, grant that we may contemplate with such fullness of faith the glory of your Son’s Passion that we may always glory with confidence in the cross of Jesus Christ. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\nLord, almighty God: since by our rest we are going to imitate your Son who rested in the tomb, we ask you that, when we rise tomorrow, we may also imitate him by rising to a new life. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And I saw an angel coming down from heaven, having the key of the bottomless pit and a great chain in his hand.",
+        "And he laid hold on the dragon, the old serpent, which is the devil and Satan, and bound him for a thousand years.",
+        "And he cast him into the bottomless pit and shut him up and set a seal upon him, that he should no more seduce the nations till the thousand years be finished. And after that, he must be loosed a little time.",
+        "And I saw seats. And they sat upon them: and judgment was given unto them. And the souls of them that were beheaded for the testimony of Jesus and for the word of God and who had not adored the beast nor his image nor received his character on their foreheads or in their hands. And they lived and reigned with Christ a thousand years.",
+        "And I saw a great white throne and one sitting upon it, from whose face the earth and heaven fled away: and there was no place found for them.",
+        "And I saw the dead, great and small, standing in the presence of the throne. And the books were opened: and another book was opened, which was the book of life. And the dead were judged by those things which were written in the books, according to their works.",
+        "And the sea gave up the dead that were in it: and death and hell gave up their dead that were in them. And they were judged, every one according to their works.",
+        "And hell and death were cast into the pool of fire. This is the second death.",
+        "And whosoever was not found written in the book of life was cast into the pool of fire.",
+        "I saw a new heaven and a new earth. For the first heaven and the first earth was gone: and the sea is now no more.",
+        "And I, John, saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband."
+      ],
+      "lineRefs": [
+        "20:1",
+        "20:2",
+        "20:3",
+        "20:4",
+        "20:11",
+        "20:12",
+        "20:13",
+        "20:14",
+        "20:15",
+        "21:1",
+        "21:2"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 20:1-4,11—21:2",
+      "reference": "Revelation 20:1-4,11—21:2",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And he spoke to them a similitude. See the fig tree and all the trees:",
+        "When they now shoot forth their fruit, you know that summer is nigh;",
+        "So you also, when you shall see these things come to pass, know that the kingdom of God is at hand.",
+        "Amen, I say to you, this generation shall not pass away till all things be fulfilled.",
+        "Heaven and earth shall pass away: but my words shall not pass away."
+      ],
+      "lineRefs": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:29-33",
+      "reference": "Luke 21:29-33",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Friday of the 34th week of Ordinary Time",
+        "key": "fridayOfThe34thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/27.html",
+    "title": "Gospel and Word of the Day - 27 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/27.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-27"
+}
