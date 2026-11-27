@@ -20,7 +20,9 @@ Daily “Word of the Day” (Vatican News RSS) rendered as a static page with:
 - Pick a specific date (YYYY-MM-DD): `bun run generate -- --date 2025-12-13`
 
 Outputs:
-- `public/index.html`
+- `public/index.html` (newest archived date, including after a backfill)
+- `public/d/YYYY-MM-DD/index.html` (static permalink for each day)
+- `public/YYYY-MM-DD/index.html` (legacy date route)
 - `public/archive/index.html`
 - `public/data/archive.json`
 - `public/data/YYYY-MM-DD.json`
@@ -47,4 +49,4 @@ Outputs:
 - Create a repository secret `OPENAI_API_KEY` (optional; only needed for LLM output).
 - Run the workflow once (`Actions` → `Daily generate` → `Run workflow`) to create/update the `gh-pages` branch.
 - Configure Pages to deploy from the `gh-pages` branch (root).
-- `.github/workflows/daily.yml` runs daily, generates the site, and publishes `public/` to `gh-pages` (keeping `main` free of generated artifacts).
+- `.github/workflows/daily.yml` runs daily, generates the site, and publishes `public/` to `gh-pages` (keeping `master` free of generated artifacts).

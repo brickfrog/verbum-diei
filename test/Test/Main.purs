@@ -5,21 +5,46 @@ import Prelude
 import Control.Monad.Error.Class (throwError)
 import Data.Array as Array
 import Data.Either (Either(..))
-import Data.Foldable (traverse_)
+import Data.Foldable (for_, traverse_)
 import Data.Maybe (Maybe(..))
 import Data.String (Pattern(..), contains)
 import Effect (Effect)
-import Effect.Aff (Aff, attempt, launchAff_)
+import Effect.Aff (Aff, attempt, bracket, launchAff_)
 import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error)
-import Main (fetchReadings)
+import Main (emptyCommentary, fetchReadings, selectFeedItem, writeOutputs)
+import Node.FS.Sync as FS
+import VerbumDiei.Fs (readTextFile)
 import VerbumDiei.Bible (fetchBibleReading)
 import VerbumDiei.Rss (parseWordOfDayFeed)
 
 main :: Effect Unit
 main = do
   launchAff_ do
+    test "keeps the latest homepage and static permalinks after a backfill" do
+      let edition date =
+            { date, source: { guid: "", title: "", itemUrl: "", rssUrl: "" }
+            , observances: { meta: { season: "", cycle: "", psalterWeek: "" }, celebrations: [] }
+            , readings: [], hoursOfPrayer: [], marginalia: [], commentary: emptyCommentary
+            , llm: { generatedAt: "", calls: [] }
+            }
+      bracket (liftEffect $ FS.mkdtemp "test-site-")
+        (\dir -> liftEffect $ FS.rm' dir { recursive: true, force: true, maxRetries: 0, retryDelay: 0 }) \dir -> do
+          liftEffect $ writeOutputs dir (edition "2026-11-27")
+          liftEffect $ writeOutputs dir (edition "2026-11-26")
+          for_ [ { path: "/index.html", date: "2026-11-27" }
+               , { path: "/d/2026-11-27/index.html", date: "2026-11-27" }
+               , { path: "/2026-11-26/index.html", date: "2026-11-26" }
+               ] \page -> do
+            html <- liftEffect $ readTextFile (dir <> page.path)
+            assertEqual page.path true (contains (Pattern ("<title>Verbum Diei · " <> page.date <> "</title>")) html)
+
+    test "rejects a publish target without a usable date or readings" do
+      let item = { date: "2026-11-27", guid: "sample", title: "", pubDate: "", descriptionHtml: "", readings: [] }
+      assertEqual "empty readings" (Left "No readings found for 2026-11-27") (selectFeedItem Nothing [ item ])
+      assertEqual "missing date" (Left "Invalid date in RSS item sample") (selectFeedItem Nothing [ item { date = "" } ])
+
     test "parses 'and' as a verse separator" do
       reading <- fetchBibleReading "John 20:1 and 2-8"
       assertEqual "lineRefs" expectedJohn20 reading.lineRefs

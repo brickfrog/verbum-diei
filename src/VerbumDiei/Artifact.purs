@@ -12,6 +12,8 @@ module VerbumDiei.Artifact
   , ReadingKind
   , Source
   , Translation
+  , decodeStoredArtifact
+  , defaultHoursOfPrayer
   , encodeArtifact
   , encodeCommentary
   , encodeHourEntry
@@ -24,6 +26,9 @@ module VerbumDiei.Artifact
 import Prelude
 
 import Data.Argonaut.Core (Json, jsonEmptyObject)
+import Data.Argonaut.Decode (JsonDecodeError, fromJsonString)
+import Data.Either (Either)
+import Data.Maybe (fromMaybe)
 import Data.Argonaut.Encode ((:=), (~>))
 
 type ReadingKind = String
@@ -234,3 +239,24 @@ encodeArtifact artifact =
     ~> "commentary" := encodeCommentary artifact.commentary
     ~> "llm" := encodeLlmMeta artifact.llm
     ~> jsonEmptyObject
+
+defaultHoursOfPrayer :: Array HourEntry
+defaultHoursOfPrayer =
+  [ { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" }
+  , { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" }
+  , { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" }
+  , { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" }
+  , { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" }
+  , { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" }
+  , { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" }
+  ]
+
+-- Early editions predate verse labels, prayer hours, and generation timestamps.
+decodeStoredArtifact :: String -> Either JsonDecodeError Artifact
+decodeStoredArtifact raw = do
+  stored <- fromJsonString raw
+  pure stored
+    { hoursOfPrayer = fromMaybe [] stored.hoursOfPrayer
+    , readings = stored.readings <#> \r -> r { lineRefs = fromMaybe [] r.lineRefs }
+    , llm = stored.llm { generatedAt = fromMaybe "" stored.llm.generatedAt }
+    }

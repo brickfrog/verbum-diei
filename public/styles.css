@@ -913,6 +913,7 @@ body::before {
   transition: transform 0.2s, opacity 0.2s;
 }
 .cal-peek.is-closed {
+  visibility: hidden;
   transform: scale(0.85) translateY(-6px);
   opacity: 0;
   pointer-events: none;
@@ -984,6 +985,7 @@ body::before {
   align-items: center;
   gap: 6px;
 }
+.codex-body:not(.js-ready) .cal-toggle { display: none; }
 .cal-toggle:hover { background: var(--gold); }
 .cal-toggle svg { width: 12px; height: 12px; }
 

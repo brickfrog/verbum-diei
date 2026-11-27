@@ -5,9 +5,11 @@ import Prelude
 import Control.Monad.Error.Class (throwError)
 import Data.Argonaut.Core (jsonEmptyObject)
 import Data.Argonaut.Encode ((:=), (~>))
+import Data.Argonaut.Decode (printJsonDecodeError)
 import Data.Array as Array
 import Data.Char as Char
 import Data.Either (Either(..))
+import Data.Foldable (for_)
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.String (Pattern(..), split)
 import Data.String as String
@@ -20,17 +22,17 @@ import Effect.Class (liftEffect)
 import Effect.Class.Console (log)
 import Effect.Exception (error, message)
 import Node.Process as Process
-import VerbumDiei.Artifact (Artifact, Commentary, HourEntry, Reading, ReadingKind, encodeArtifact, firstReadingKind, gospelKind)
+import VerbumDiei.Artifact (Artifact, Commentary, HourEntry, Reading, ReadingKind, decodeStoredArtifact, defaultHoursOfPrayer, encodeArtifact, firstReadingKind, gospelKind)
 import VerbumDiei.Bible (fetchBibleReading)
 import VerbumDiei.Breviarium (OfficeOption, OfficePayload, getOfficePayload)
-import VerbumDiei.Fs (ensureDir, readDir, writeTextFile)
+import VerbumDiei.Fs (ensureDir, readDir, readTextFile, writeTextFile)
 import VerbumDiei.Http (fetchText)
 import VerbumDiei.Json (stringifyPretty)
 import VerbumDiei.Observances (getObservances)
 import VerbumDiei.OpenAI (callOpenAiExcursus, callOpenAiSeminaVerbi, callOpenAiStructured, callOpenAiTranslation, encodeLlmOutput)
 import VerbumDiei.Prompts (heterodoxPrompt, hoursTranslationPrompt, llmInstructions, seminaVerbiPrompt)
 import VerbumDiei.Rss (FeedItem, FeedReading, parseWordOfDayFeed)
-import VerbumDiei.Site (renderAppShellPage, renderArchivePage, renderArtifactPage)
+import VerbumDiei.Site (renderArchivePage, renderArtifactPage)
 import VerbumDiei.Util (nowIso, sha256Hex)
 
 main :: Effect Unit
@@ -200,18 +202,7 @@ run = do
               }
           }
 
-    writeOutputs artifact
-
-defaultHoursOfPrayer :: Array HourEntry
-defaultHoursOfPrayer =
-  [ { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" }
-  , { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" }
-  , { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" }
-  , { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" }
-  , { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" }
-  , { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" }
-  , { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" }
-  ]
+    liftEffect $ writeOutputs "public" artifact
 
 officeOptionsForKey :: OfficePayload -> String -> Array OfficeOption
 officeOptionsForKey payload = case _ of
@@ -359,8 +350,8 @@ fetchReadings overrides item = do
 -- | Pick the single feed item that `generate` would publish: the date target
 -- | when given, otherwise the newest (head) item.
 selectFeedItem :: Maybe String -> Array FeedItem -> Either String FeedItem
-selectFeedItem targetDate items =
-  case targetDate of
+selectFeedItem targetDate items = do
+  item <- case targetDate of
     Nothing ->
       case Array.head items of
         Nothing -> Left "RSS feed had no items"
@@ -369,6 +360,9 @@ selectFeedItem targetDate items =
       case Array.find (\it -> it.date == d) items of
         Nothing -> Left ("No RSS item matched date " <> d)
         Just it -> Right it
+  if not (isIsoDate item.date) then Left ("Invalid date in RSS item " <> item.guid)
+  else if Array.null item.readings then Left ("No readings found for " <> item.date)
+  else Right item
 
 -- | Preflight gates only on the item that will actually be published (the head,
 -- | or `--date`). Other feed items are still checked, but a broken one is merely
@@ -573,97 +567,69 @@ extractDateFromDataFilename filename =
     Just base | isIsoDate base -> Just base
     _ -> Nothing
 
-listDataDates :: Effect (Array String)
-listDataDates = do
-  entries <- readDir "public/data"
+listDataDates :: String -> Effect (Array String)
+listDataDates directory = do
+  entries <- readDir directory
   pure $
     entries
       # Array.mapMaybe extractDateFromDataFilename
       # Array.sort
       # Array.reverse
 
-writeOutputs :: Artifact -> Aff Unit
-writeOutputs artifact = do
+writeOutputs :: String -> Artifact -> Effect Unit
+writeOutputs directory artifact = do
   let json = stringifyPretty (encodeArtifact artifact)
 
-  liftEffect do
-    ensureDir "public"
-    ensureDir "public/data"
-    ensureDir "public/archive"
+  let dataDir = directory <> "/data"
+  ensureDir dataDir
+  ensureDir (directory <> "/archive")
+  writeTextFile (dataDir <> "/" <> artifact.date <> ".json") json
 
-    writeTextFile ("public/data/" <> artifact.date <> ".json") json
-
-  dates <- liftEffect listDataDates
+  dates <- listDataDates dataDir
   let archiveJson =
         stringifyPretty $
           "dates" := dates
             ~> jsonEmptyObject
 
-  rootHtml <- liftEffect $
-    renderArtifactPage
-      { assetPrefix: ""
-      , homeHref: "./"
-      , archiveHref: "archive/"
-      , permalinkHref: "d/" <> artifact.date <> "/"
-      }
-      artifact
-
-  archiveHtml <- liftEffect $
+  archiveHtml <-
     renderArchivePage
       { assetPrefix: "../"
       , homeHref: "../"
-      , dayHrefPrefix: "../"
+      , dayHrefPrefix: "../d/"
       }
       dates
 
-  dayPermalinkHtmlStatic <- liftEffect $
-    renderArtifactPage
-      { assetPrefix: "../../"
-      , homeHref: "../../"
-      , archiveHref: "../../archive/"
-      , permalinkHref: "./"
-      }
-      artifact
-
-  dayLegacyHtmlStatic <- liftEffect $
-    renderArtifactPage
-      { assetPrefix: "../"
-      , homeHref: "../"
-      , archiveHref: "../archive/"
-      , permalinkHref: "../d/" <> artifact.date <> "/"
-      }
-      artifact
-
-  dayPermalinkHtmlShell <- liftEffect $
-    renderAppShellPage
-      { assetPrefix: "../../"
-      , pageTitle: "Verbum Diei"
-      , defaultView: "latest"
-      }
-
-  dayLegacyHtmlShell <- liftEffect $
-    renderAppShellPage
-      { assetPrefix: "../"
-      , pageTitle: "Verbum Diei"
-      , defaultView: "latest"
-      }
-
-  liftEffect do
-    writeTextFile "public/data/archive.json" archiveJson
-    writeTextFile "public/index.html" rootHtml
-    writeTextFile "public/archive/index.html" archiveHtml
-    _ <- dates # traverse \date -> do
-      ensureDir ("public/d/" <> date)
-      ensureDir ("public/" <> date)
-      if date == artifact.date then do
-        writeTextFile ("public/d/" <> date <> "/index.html") dayPermalinkHtmlStatic
-        writeTextFile ("public/" <> date <> "/index.html") dayLegacyHtmlStatic
+  let recentDates = Array.take 14 dates
+  for_ dates \date -> do
+    day <- if date == artifact.date then pure artifact
       else do
-        writeTextFile ("public/d/" <> date <> "/index.html") dayPermalinkHtmlShell
-        writeTextFile ("public/" <> date <> "/index.html") dayLegacyHtmlShell
-    pure unit
+        let path = dataDir <> "/" <> date <> ".json"
+        raw <- readTextFile path
+        case decodeStoredArtifact raw of
+          Left err -> throwError (error (path <> ": " <> printJsonDecodeError err))
+          Right stored | stored.date == date -> pure stored
+          Right _ -> throwError (error ("Date mismatch in " <> path))
 
-  log ("Wrote static latest pages + archive, date routes, public/data/archive.json, and public/data/" <> artifact.date <> ".json")
+    let
+      writePage pageDir assetPrefix permalinkHref = do
+        ensureDir pageDir
+        html <- renderArtifactPage
+          { assetPrefix, recentDates, permalinkHref
+          , homeHref: if assetPrefix == "" then "./" else assetPrefix
+          , archiveHref: assetPrefix <> "archive/"
+          }
+          day
+        writeTextFile (pageDir <> "/index.html") html
+
+    writePage (directory <> "/d/" <> date) "../../" "./"
+    writePage (directory <> "/" <> date) "../" ("../d/" <> date <> "/")
+    when (Array.head dates == Just date) $
+      writePage directory "" ("d/" <> date <> "/")
+
+  writeTextFile (dataDir <> "/archive.json") archiveJson
+  writeTextFile (directory <> "/archive/index.html") archiveHtml
+
+  log ("Rendered " <> show (Array.length dates) <> " days and the archive.")
 
 argValue :: String -> Array String -> Maybe String
 argValue key argv =

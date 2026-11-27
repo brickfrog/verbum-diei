@@ -1,7 +1,6 @@
 module VerbumDiei.Site
   ( renderArtifactPage
   , renderArchivePage
-  , renderAppShellPage
   ) where
 
 import Prelude
@@ -16,12 +15,13 @@ import Flame.Html.Attribute as HA
 import Flame.Html.Element as HE
 import Flame.Renderer.String as FRS
 import Flame.Types (NodeData)
-import VerbumDiei.Artifact (Artifact, CommentNote, HourEntry, MarginalNote, Reading, ReadingKind, firstReadingKind, gospelKind)
+import VerbumDiei.Artifact (Artifact, CommentNote, HourEntry, MarginalNote, Reading, ReadingKind, defaultHoursOfPrayer, firstReadingKind, gospelKind)
 
 type RenderConfig =
   { assetPrefix :: String
   , homeHref :: String
   , archiveHref :: String
+  , recentDates :: Array String
   , permalinkHref :: String
   }
 
@@ -31,12 +31,6 @@ type ArchiveConfig =
   , dayHrefPrefix :: String
   }
 
-type AppShellConfig =
-  { assetPrefix :: String
-  , pageTitle :: String
-  , defaultView :: String
-  }
-
 renderArtifactPage :: RenderConfig -> Artifact -> Effect String
 renderArtifactPage config artifact =
   FRS.render (artifactDocument config artifact)
@@ -44,10 +38,6 @@ renderArtifactPage config artifact =
 renderArchivePage :: ArchiveConfig -> Array String -> Effect String
 renderArchivePage config dates =
   FRS.render (archiveDocument config dates)
-
-renderAppShellPage :: AppShellConfig -> Effect String
-renderAppShellPage config =
-  FRS.render (appShellDocument config)
 
 el :: forall message. String -> Array (NodeData message) -> Array (Html message) -> Html message
 el = HE.createElement
@@ -352,10 +342,10 @@ renderObservances artifact =
 renderHours :: forall message. Array HourEntry -> Html message
 renderHours rawHours =
   let
-    rows = if Array.null rawHours then defaultHours else rawHours
+    rows = if Array.null rawHours then defaultHoursOfPrayer else rawHours
     arcSvg =
       raw $
-        "<svg class=\"clock-arc\" viewBox=\"0 0 760 240\" preserveAspectRatio=\"xMidYMid meet\" data-hours-arc=\"true\" aria-hidden=\"true\">"
+        "<svg class=\"clock-arc\" viewBox=\"0 0 760 240\" preserveAspectRatio=\"xMidYMid meet\" data-hours-arc=\"true\" role=\"group\" aria-label=\"Prayer hours\">"
           <> "<line class=\"horizon\" x1=\"15\" y1=\"216\" x2=\"745\" y2=\"216\"/>"
           <> "<path class=\"arc-line\" d=\"M 80 216 A 300 170 0 0 1 680 216\"/>"
           <> "<path class=\"arc-day\" d=\"M 80 216 A 300 170 0 0 1 680 216\"/>"
@@ -393,17 +383,6 @@ renderHours rawHours =
           ]
           (rows <#> hourCard)
       ]
-
-defaultHours :: Array HourEntry
-defaultHours =
-  [ { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" }
-  , { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" }
-  , { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" }
-  , { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" }
-  , { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" }
-  , { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" }
-  , { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" }
-  ]
 
 renderReading
   :: forall message
@@ -619,6 +598,11 @@ renderGutterRail artifact =
         , sourceItem
         ]
 
+    sectionLink target label = el "li" [] [ el "a" [ HA.href target ] [ txt label ] ]
+    readingLink kind target label =
+      if Array.any (\r -> r.kind == kind) artifact.readings then [ sectionLink target label ]
+      else []
+
     briefNode =
       if daySummary == "" then []
       else
@@ -629,12 +613,10 @@ renderGutterRail artifact =
     el "div" [ HA.class' "gutter-rail" ]
       ([ el "h4" [] [ txt "In Hac Pagina" ]
        , el "ul" []
-            [ el "li" [] [ el "a" [ HA.href "#observances" ] [ txt "Observantiæ" ] ]
-            , el "li" [] [ el "a" [ HA.href "#hours-of-prayer" ] [ txt "Horæ Canonicæ" ] ]
-            , el "li" [] [ el "a" [ HA.href "#reading-first" ] [ txt "Lectio" ] ]
-            , el "li" [] [ el "a" [ HA.href "#reading-gospel" ] [ txt "Evangelium" ] ]
-            , el "li" [] [ el "a" [ HA.href "#commentary" ] [ txt "Glossa" ] ]
-            ]
+           ([ sectionLink "#observances" "Observantiæ", sectionLink "#hours-of-prayer" "Horæ Canonicæ" ]
+             <> readingLink firstReadingKind "#reading-first" "Lectio"
+             <> readingLink gospelKind "#reading-gospel" "Evangelium"
+             <> [ sectionLink "#commentary" "Glossa" ])
        ]
         <> briefNode
         <>
@@ -642,17 +624,26 @@ renderGutterRail artifact =
           , el "ul" [ HA.class' "meta-list" ] contextItems
           ])
 
-renderCalPeek :: forall message. String -> Html message
-renderCalPeek archiveHref =
+renderCalPeek :: forall message. RenderConfig -> String -> Html message
+renderCalPeek config currentDate =
   el "div"
     [ HA.id "cal-peek"
     , HA.class' "cal-peek is-closed"
     , HA.createAttribute "data-cal-peek" "true"
     ]
     [ el "h5" [] [ txt "Calendarium" ]
-    , el "ul" [ HA.id "cal-peek-list" ] []
+    , el "ul" [ HA.id "cal-peek-list" ] (config.recentDates <#> \date ->
+        el "li" []
+          [ el "a"
+              [ HA.href (config.assetPrefix <> "d/" <> date <> "/")
+              , HA.class' (if date == currentDate then "is-current" else "")
+              ]
+              [ el "span" [ HA.class' "d" ] [ txt (String.drop 5 date) ]
+              , el "span" [] [ txt date ]
+              ]
+          ])
     , el "div" [ HA.class' "cal-foot" ]
-        [ el "a" [ HA.href archiveHref ] [ txt "All Days →" ] ]
+        [ el "a" [ HA.href config.archiveHref ] [ txt "All Days →" ] ]
     ]
 
 renderCalToggle :: forall message. Html message
@@ -736,8 +727,8 @@ artifactDocument config artifact =
       [ documentHead config.assetPrefix ("Verbum Diei · " <> artifact.date)
       , el "body" [ HA.class' "codex-body" ]
           [ renderCalToggle
-          , renderCalPeek config.archiveHref
-          , el "main" [ HA.class' "codex" ]
+          , renderCalPeek config artifact.date
+          , el "main" [ HA.class' "codex", HA.createAttribute "data-asset-prefix" config.assetPrefix ]
               [ el "article" [ HA.class' "codex-page" ]
                   ([ fleuronSvg "tl"
                    , fleuronSvg "tr"
@@ -823,22 +814,3 @@ archiveDocument config dates =
               ]
           ]
       ]
-
-appShellDocument :: AppShellConfig -> Html Unit
-appShellDocument config =
-  el "html"
-    [ HA.lang "en"
-    , HA.createAttribute "data-palette" "vespers"
-    ]
-    [ documentHead config.assetPrefix config.pageTitle
-    , el "body" [ HA.class' "codex-body app-shell-body" ]
-        [ el "main"
-            [ HA.id "app-root"
-            , HA.class' "codex"
-            , HA.createAttribute "data-default-view" config.defaultView
-            , HA.createAttribute "data-asset-prefix" config.assetPrefix
-            ]
-            []
-        , leaf "script" [ HA.src (config.assetPrefix <> "app.js"), HA.createAttribute "defer" "defer" ]
-        ]
-    ]

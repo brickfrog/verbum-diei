@@ -5,63 +5,8 @@
   // shared utilities
   // ============================================================
 
-  function escapeHtml(value) {
-    return String(value == null ? "" : value)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
-  }
-  function escapeAttr(value) { return escapeHtml(value); }
   function isIsoDate(value) { return /^\d{4}-\d{2}-\d{2}$/.test(String(value || "")); }
   function pad2(n) { return n < 10 ? "0" + String(n) : String(n); }
-  function listOrEmpty(value) { return Array.isArray(value) ? value : []; }
-  function kindShort(kind) { return kind === "gospel" ? "G" : "R"; }
-  function kindLatin(kind) { return kind === "gospel" ? "Evangelium" : "Lectio"; }
-  function kindKicker(kind) { return kind === "gospel" ? "Evangelium" : "Lectio Prima"; }
-  function lineId(kind, n) { return String(kind) + "-L" + String(n); }
-
-  function paletteFromSeason(season) {
-    var s = String(season || "").toLowerCase();
-    if (s.indexOf("lent") !== -1) return "lent";
-    if (s.indexOf("easter") !== -1) return "easter";
-    if (s.indexOf("advent") !== -1) return "advent";
-    if (s.indexOf("christmas") !== -1) return "christmas";
-    if (s.indexOf("ordinary") !== -1) return "ordinary";
-    return "vespers";
-  }
-
-  function hourLatin(key) {
-    return ({
-      matins: "Ad Matutinum",
-      lauds: "Ad Laudes",
-      terce: "Ad Tertiam",
-      sext: "Ad Sextam",
-      none: "Ad Nonam",
-      vespers: "Ad Vesperas",
-      compline: "Ad Completorium",
-    })[String(key)] || "";
-  }
-
-  function toRoman(num) {
-    var pairs = [["M",1000],["CM",900],["D",500],["CD",400],["C",100],["XC",90],
-                 ["L",50],["XL",40],["X",10],["IX",9],["V",5],["IV",4],["I",1]];
-    var r = "", n = num;
-    for (var i = 0; i < pairs.length; i++) {
-      while (n >= pairs[i][1]) { r += pairs[i][0]; n -= pairs[i][1]; }
-    }
-    return r;
-  }
-
-  function romanDate(dateIso) {
-    var m = String(dateIso || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
-    if (!m) return dateIso || "";
-    return toRoman(Number(m[3])).toLowerCase() +
-           " · " + toRoman(Number(m[2])).toLowerCase() +
-           " · " + toRoman(Number(m[1]));
-  }
-
   function longDate(dateIso) {
     var m = String(dateIso || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
     if (!m) return dateIso || "";
@@ -74,26 +19,6 @@
     } catch (_e) {
       return dateIso;
     }
-  }
-
-  function hrefLatest(prefix) { return prefix === "" ? "./" : prefix; }
-  function hrefArchive(prefix) { return prefix + "archive/"; }
-  function hrefDate(prefix, date) { return prefix + "d/" + encodeURIComponent(date) + "/"; }
-
-  function fetchJson(url) {
-    return fetch(url, { cache: "no-store" }).then(function (r) {
-      if (!r.ok) throw new Error("Request failed: " + r.status + " " + url);
-      return r.json();
-    });
-  }
-
-  function findDateFromPath(pathname) {
-    var path = String(pathname || "").replace(/\/+$/, "");
-    var m = path.match(/\/d\/(\d{4}-\d{2}-\d{2})$/);
-    if (m) return m[1];
-    var legacy = path.match(/\/(\d{4}-\d{2}-\d{2})$/);
-    if (legacy) return legacy[1];
-    return null;
   }
 
   // ============================================================
@@ -146,6 +71,7 @@
 
   function buildHoursArc(svg, hours, currentKey, activeKey) {
     // wipe any previously-injected dynamic children, leaving the static skeleton
+    var focused = svg.contains(document.activeElement) && document.activeElement.getAttribute("data-station-key");
     var dyn = svg.querySelectorAll("[data-arc-dyn]");
     for (var i = 0; i < dyn.length; i++) dyn[i].remove();
 
@@ -171,6 +97,7 @@
         "data-station-key": h.key,
         "tabindex": "0",
         "role": "button",
+        "aria-pressed": String(h.key === activeKey),
         "aria-label": h.label + " " + pad2(h.hourLocal) + ":" + pad2(h.minuteLocal),
       });
       g.appendChild(svgEl("circle", { "class": "station-glow", "r": "14" }));
@@ -179,6 +106,7 @@
       g.appendChild(svgEl("text", { "class": "station-time", "y": "22" },
         pad2(h.hourLocal) + ":" + pad2(h.minuteLocal)));
       svg.appendChild(g);
+      if (h.key === focused) g.focus();
     }
 
     // now marker (vertical line + sun)
@@ -284,11 +212,11 @@
     if (!hours.length) return;
 
     var currentKey = pickCurrentHourKey(hours, nowMinutesLocal());
-    var activeKey = currentKey;
+    var activeKey = null;
 
     function refresh() {
-      buildHoursArc(svg, hours, currentKey, activeKey);
-      showHourCard(container, activeKey);
+      buildHoursArc(svg, hours, currentKey, activeKey || currentKey);
+      showHourCard(container, activeKey || currentKey);
       applyCurrentHourBadge(container, currentKey);
     }
     refresh();
@@ -314,11 +242,7 @@
 
     // tick the now marker every minute so the page stays alive across the day
     setInterval(function () {
-      var nk = pickCurrentHourKey(hours, nowMinutesLocal());
-      if (nk !== currentKey) {
-        currentKey = nk;
-        if (activeKey === null) activeKey = currentKey;
-      }
+      currentKey = pickCurrentHourKey(hours, nowMinutesLocal());
       refresh();
     }, 60 * 1000);
   }
@@ -410,28 +334,10 @@
   // ============================================================
   // calendar peek (date jumper)
   // ============================================================
-  function setupCalPeek(assetPrefix, currentDate, archiveDates) {
+  function setupCalPeek() {
     var toggle = document.getElementById("cal-toggle");
     var peek = document.getElementById("cal-peek");
-    var list = document.getElementById("cal-peek-list");
     if (!toggle || !peek) return;
-
-    if (list) {
-      var recent = listOrEmpty(archiveDates).slice(0, 14);
-      var html = "";
-      for (var i = 0; i < recent.length; i++) {
-        var d = recent[i];
-        var isCurrent = d === currentDate;
-        html += '<li><a href="' + escapeAttr(hrefDate(assetPrefix, d)) +
-                '" class="' + (isCurrent ? "is-current" : "") + '">' +
-                '<span class="d">' + escapeHtml(d.slice(5)) + '</span>' +
-                '<span>' + escapeHtml(d) + '</span></a></li>';
-      }
-      if (!html) {
-        html = '<li><span class="d">—</span><span>No days</span></li>';
-      }
-      list.innerHTML = html;
-    }
 
     function close() {
       peek.classList.add("is-closed");
@@ -456,409 +362,20 @@
   }
 
   // ============================================================
-  // SPA-shell rendering (older permalink pages)
-  // ============================================================
-  function renderShellDay(root, artifact, _dates, assetPrefix) {
-    var palette = paletteFromSeason(((artifact.observances || {}).meta || {}).season || "");
-    document.documentElement.setAttribute("data-palette", palette);
-
-    var first = null, gospel = null;
-    var readings = listOrEmpty(artifact.readings);
-    for (var i = 0; i < readings.length; i++) {
-      var r = readings[i] || {};
-      if (r.kind === "gospel") gospel = r;
-      else if (!first) first = r;
-    }
-    var marginalia = listOrEmpty(artifact.marginalia);
-    var meta = (artifact.observances || {}).meta || {};
-    var celebrations = listOrEmpty((artifact.observances || {}).celebrations);
-    var commentary = artifact.commentary || {};
-    var hasLlm = !!artifact.llm && Array.isArray(artifact.llm.calls) && artifact.llm.calls.length > 0;
-
-    function notesByLineIdx(reading, idx) {
-      var kindNotes = marginalia.filter(function (n) { return n.readingKind === reading.kind; });
-      for (var i = 0; i < kindNotes.length; i++) {
-        if (Array.isArray(kindNotes[i].lines) && kindNotes[i].lines.indexOf(idx) !== -1) {
-          return kindNotes[i];
-        }
-      }
-      return null;
-    }
-
-    function readingHtml(reading, romanIdx) {
-      if (!reading) return "";
-      var lines = listOrEmpty(reading.lines);
-      var lineRefs = listOrEmpty(reading.lineRefs);
-      var rows = "";
-      for (var i = 0; i < lines.length; i++) {
-        var n = i + 1;
-        var id = lineId(reading.kind, n);
-        var label = String(lineRefs[i] || n);
-        var note = notesByLineIdx(reading, n);
-        var hasMargin = note ? "true" : "false";
-        var verse =
-          '<p class="verse" id="' + escapeAttr(id) +
-          '" data-verse-id="' + escapeAttr(id) +
-          '" data-has-margin="' + hasMargin + '"' +
-          ' data-line-ref="' + escapeAttr(label) + '">' +
-          '<span class="vn">' + escapeHtml(label) + '</span>' +
-          '<span class="vt">' + escapeHtml(lines[i]) + '</span></p>';
-        var gutter = note
-          ? '<aside class="gutter-note" data-gutter-for="' + escapeAttr(id) + '">' +
-            '<span class="manicule">☞</span>' +
-            '<span class="ref-tag">' + kindShort(reading.kind) + " " + escapeHtml(label) + '</span>' +
-            '<div>' + escapeHtml(note.text || "") + '</div></aside>'
-          : "";
-        rows += '<div class="verse-row">' + verse + gutter + "</div>";
-      }
-      var translation = reading.translation || {};
-      var panelId = reading.kind === "gospel" ? "reading-gospel" : "reading-first";
-      return '<section class="section reading" id="' + panelId + '">' +
-        '<h2 class="rubric-heading">' +
-          '<span class="num">' + romanIdx + '</span>' +
-          '<span class="title-main">' + kindLatin(reading.kind) + '</span>' +
-          '<span class="latin">' + escapeHtml(reading.reference || "") + '</span>' +
-        '</h2>' +
-        '<div class="reading-head">' +
-          '<div class="kicker">' + kindKicker(reading.kind) + '</div>' +
-          '<h3 class="heading">' + escapeHtml(reading.heading || "") + '</h3>' +
-          '<div class="ref">' + escapeHtml((reading.reference || "") + " · " + (translation.name || "")) + '</div>' +
-        '</div>' +
-        '<div class="scripture with-dropcap">' + rows + '</div>' +
-        '</section>';
-    }
-
-    function commentNoteList(kind, notes) {
-      var arr = listOrEmpty(notes);
-      if (!arr.length) {
-        return '<div class="empty-note">' + (hasLlm ? "(no notes)" : "LLM output unavailable.") + '</div>';
-      }
-      var items = "";
-      for (var i = 0; i < arr.length; i++) {
-        var note = arr[i] || {};
-        var lines = listOrEmpty(note.lines);
-        var hl = lines.map(function (n) { return lineId(kind, n); }).join(" ");
-        var label = kindShort(kind) + " " + lines.join(",");
-        items += '<li><a class="note-ref" href="#' + (lines.length ? lineId(kind, lines[0]) : "") +
-                 '" data-hl="' + escapeAttr(hl) + '">' + escapeHtml(label) + '</a>' +
-                 '<span class="note-text"> ' + escapeHtml(note.text || "") + '</span></li>';
-      }
-      return '<ul>' + items + '</ul>';
-    }
-
-    function paragraphs(text) {
-      var t = String(text || "").trim();
-      if (!t) return "";
-      var parts = t.split(/\n\n+/);
-      var out = "";
-      for (var i = 0; i < parts.length; i++) out += '<p>' + escapeHtml(parts[i]) + '</p>';
-      return out;
-    }
-
-    var observancesHtml =
-      '<section class="section" id="observances">' +
-        '<h2 class="rubric-heading">' +
-          '<span class="num">I</span>' +
-          '<span class="title-main">Observantiæ</span>' +
-          '<span class="latin">Dies Hodierna</span>' +
-        '</h2>' +
-        '<div class="observance-row">' +
-          '<div class="observance-cell"><div class="lab">Tempus</div><div class="val">' + escapeHtml(meta.season || "—") + '</div></div>' +
-          '<div class="observance-cell"><div class="lab">Cyclus</div><div class="val">' + escapeHtml(meta.cycle || "—") + '</div></div>' +
-          '<div class="observance-cell"><div class="lab">Psalterium</div><div class="val">' + escapeHtml(meta.psalterWeek || "—") + '</div></div>' +
-        '</div>' +
-        celebrations.map(function (c) {
-          return '<div class="celebration">' +
-            '<svg class="saint-mark" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true">' +
-              '<path d="M16 3 L16 29 M9 11 L23 11 M11 22 L21 22"/>' +
-              '<circle cx="16" cy="7" r="2.4" fill="currentColor" stroke="none"/>' +
-            '</svg>' +
-            '<span class="rank">' + escapeHtml(c.rank || "—") + '</span>' +
-            '<span class="name">' + escapeHtml(c.name || "") + '</span>' +
-          '</div>';
-        }).join("") +
-      '</section>';
-
-    var hours = listOrEmpty(artifact.hoursOfPrayer);
-    if (!hours.length) {
-      hours = [
-        { key: "matins", label: "Matins", hourLocal: 0, minuteLocal: 0, prayer: "Lord, open my lips, and my mouth shall declare your praise.", source: "fallback" },
-        { key: "lauds", label: "Lauds", hourLocal: 6, minuteLocal: 0, prayer: "Blessed are you, Lord, in the light of the new day.", source: "fallback" },
-        { key: "terce", label: "Terce", hourLocal: 9, minuteLocal: 0, prayer: "Come, Holy Spirit, and lighten our work in truth.", source: "fallback" },
-        { key: "sext", label: "Sext", hourLocal: 12, minuteLocal: 0, prayer: "God, come to my assistance. Lord, make haste to help me.", source: "fallback" },
-        { key: "none", label: "Nones", hourLocal: 15, minuteLocal: 0, prayer: "Stay with us, Lord, in the heat and trial of this day.", source: "fallback" },
-        { key: "vespers", label: "Vespers", hourLocal: 18, minuteLocal: 0, prayer: "Let my prayer rise before you like incense this evening.", source: "fallback" },
-        { key: "compline", label: "Compline", hourLocal: 21, minuteLocal: 0, prayer: "Into your hands, Lord, I commend my spirit.", source: "fallback" },
-      ];
-    }
-    var hoursCards = "";
-    for (var hi = 0; hi < hours.length; hi++) {
-      var h = hours[hi];
-      hoursCards +=
-        '<div class="hour-card" data-hour-key="' + escapeAttr(h.key) + '"' +
-        ' data-hour-local="' + escapeAttr(h.hourLocal) + '"' +
-        ' data-minute-local="' + escapeAttr(h.minuteLocal) + '"' +
-        ' data-hour-source="' + escapeAttr(h.source || "fallback") + '">' +
-          '<div class="head">' +
-            '<span class="label">' + escapeHtml(h.label) + '</span>' +
-            '<span class="latin-name">' + escapeHtml(hourLatin(h.key)) + '</span>' +
-            '<span class="time">' + pad2(h.hourLocal) + ":" + pad2(h.minuteLocal) + '</span>' +
-          '</div>' +
-          '<div class="prayer">' + escapeHtml(h.prayer || "") + '</div>' +
-        '</div>';
-    }
-    var hoursHtml =
-      '<section class="section" id="hours-of-prayer">' +
-        '<h2 class="rubric-heading">' +
-          '<span class="num">II</span>' +
-          '<span class="title-main">Horæ Canonicæ</span>' +
-          '<span class="latin">Officium Divinum</span>' +
-        '</h2>' +
-        '<div class="section-meta">Seven stations · the sun above traces the day.</div>' +
-        '<div class="hours-wrap">' +
-          '<svg class="clock-arc" viewBox="0 0 760 240" preserveAspectRatio="xMidYMid meet" data-hours-arc="true" aria-hidden="true">' +
-            '<line class="horizon" x1="15" y1="216" x2="745" y2="216"/>' +
-            '<path class="arc-line" d="M 80 216 A 300 170 0 0 1 680 216"/>' +
-            '<path class="arc-day" d="M 80 216 A 300 170 0 0 1 680 216"/>' +
-          '</svg>' +
-        '</div>' +
-        '<div id="hours-cards" data-hours-list="true">' + hoursCards + '</div>' +
-      '</section>';
-
-    var divider = '<div class="divider-rule" aria-hidden="true">' +
-      '<span class="line"></span><span class="glyph">✠ ❦ ✠</span><span class="line"></span></div>';
-
-    var commentaryHtml =
-      '<section class="section" id="commentary">' +
-        '<h2 class="rubric-heading">' +
-          '<span class="num">V</span>' +
-          '<span class="title-main">Glossa</span>' +
-          '<span class="latin">Commentarium</span>' +
-        '</h2>' +
-        (commentary.synthesis ? '<div class="synthesis"><span class="lead">Sententia Doctrinalis</span>' +
-          escapeHtml(commentary.synthesis) + '</div>' : "") +
-        ((listOrEmpty(commentary.reading).length || listOrEmpty(commentary.gospel).length) ?
-          '<div class="commentary-cols">' +
-            '<section class="commentary-col"><h4>In Lectionem</h4>' + commentNoteList("first", commentary.reading) + '</section>' +
-            '<section class="commentary-col"><h4>In Evangelium</h4>' + commentNoteList("gospel", commentary.gospel) + '</section>' +
-          '</div>' : "") +
-        ((commentary.excursus || hasLlm) ? '<section class="long-prose with-dropcap">' +
-          '<h4>Lectio Heterodoxa</h4>' +
-          (paragraphs(commentary.excursus) || '<p class="empty-note">(no heterodox reading generated)</p>') +
-          '</section>' : "") +
-        ((commentary.seminaVerbi || hasLlm) ? '<section class="long-prose">' +
-          '<h4>Semina Verbi</h4>' +
-          (paragraphs(commentary.seminaVerbi) || '<p class="empty-note">(no semina verbi generated)</p>') +
-          '</section>' : "") +
-      '</section>';
-
-    var firstTrans = (first && first.translation) || { id: "dra", name: "Douay-Rheims 1899" };
-    var translationHrefValue = firstTrans.id === "dra" ? "https://www.gutenberg.org/ebooks/8300" : "https://www.gutenberg.org/";
-    var footerHtml =
-      '<footer class="codex-footer">' +
-        '<div>Scripturæ textus: <a href="' + escapeAttr(translationHrefValue) + '">' +
-          escapeHtml(firstTrans.name + " · Public Domain") + '</a></div>' +
-        '<div>Calendarium per <a href="https://github.com/romcal/romcal">romcal</a> · ' +
-          'Horarum textus per <a href="https://github.com/DavidLara/breviarium">breviarium</a></div>' +
-        '<div>Marginalia et glossæ a machina linguistica generatæ — ad meditationem, non ad doctrinam.</div>' +
-        '<div>Source: <a href="https://github.com/brickfrog/verbum-diei">github.com/brickfrog/verbum-diei</a></div>' +
-        '<div class="explicit">Explicit Liber · Deo Gratias</div>' +
-      '</footer>';
-
-    var pillsHtml = "";
-    if (artifact.source && artifact.source.itemUrl) {
-      pillsHtml += '<a class="nav-pill" href="' + escapeAttr(artifact.source.itemUrl) + '" rel="noreferrer">Vatican</a>';
-    }
-    pillsHtml += '<a class="nav-pill" href="' + escapeAttr(hrefArchive(assetPrefix)) + '">Archive</a>';
-    pillsHtml += '<a class="nav-pill" href="' + escapeAttr(hrefLatest(assetPrefix)) + '">Latest</a>';
-
-    var fleuron =
-      '<svg class="fleuron {{POS}}" viewBox="0 0 56 56" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">' +
-        '<path d="M4 4 Q 14 4, 14 14 Q 14 24, 24 24"/>' +
-        '<path d="M4 4 Q 4 14, 14 14"/>' +
-        '<circle cx="14" cy="14" r="2.2" fill="currentColor" stroke="none"/>' +
-        '<path d="M28 8 Q 22 14, 28 22 Q 34 14, 28 8 Z" fill="currentColor" opacity="0.6" stroke="none"/>' +
-        '<path d="M8 28 Q 14 22, 22 28 Q 14 34, 8 28 Z" fill="currentColor" opacity="0.6" stroke="none"/>' +
-        '<path d="M28 28 m -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0" fill="currentColor" stroke="none"/>' +
-      '</svg>';
-
-    // Top-level shell uses #app-root which has class "codex"
-    root.className = "codex";
-    root.innerHTML =
-      '<article class="codex-page">' +
-        fleuron.replace("{{POS}}", "tl") +
-        fleuron.replace("{{POS}}", "tr") +
-        fleuron.replace("{{POS}}", "bl") +
-        fleuron.replace("{{POS}}", "br") +
-        '<header class="colophon">' +
-          '<div class="colophon-left">' +
-            '<span>Codex Verbi · Folio</span>' +
-            '<span style="color:var(--rubric)">Scriptura · Oratio · Glossa</span>' +
-          '</div>' +
-          '<div class="wordmark">' +
-            '<h1 class="v-d">Verbum Diei</h1>' +
-            '<div class="latin">Lectionarium Cottidianum</div>' +
-          '</div>' +
-          '<div class="colophon-right">' +
-            '<span class="date-long" data-iso="' + escapeAttr(artifact.date || "") + '">' + escapeHtml(artifact.date || "") + '</span>' +
-            '<span class="date-roman">' + escapeHtml(romanDate(artifact.date)) + '</span>' +
-            '<span class="nav-pills">' + pillsHtml + '</span>' +
-          '</div>' +
-        '</header>' +
-        '<div class="codex-grid placement-gutter">' +
-          '<div class="center-column">' +
-            observancesHtml +
-            hoursHtml +
-            divider +
-            readingHtml(first, "III") +
-            readingHtml(gospel, "IV") +
-            commentaryHtml +
-            footerHtml +
-          '</div>' +
-          '<aside class="gutter-rail-col">' +
-            '<div class="gutter-rail">' +
-              '<h4>In Hac Pagina</h4>' +
-              '<ul>' +
-                '<li><a href="#observances">Observantiæ</a></li>' +
-                '<li><a href="#hours-of-prayer">Horæ Canonicæ</a></li>' +
-                '<li><a href="#reading-first">Lectio</a></li>' +
-                '<li><a href="#reading-gospel">Evangelium</a></li>' +
-                '<li><a href="#commentary">Glossa</a></li>' +
-              '</ul>' +
-              (commentary.synthesis ?
-                '<h4>Sententia</h4><p class="day-brief">' + escapeHtml(commentary.synthesis) + '</p>' : "") +
-            '</div>' +
-          '</aside>' +
-        '</div>' +
-      '</article>';
-
-    document.title = "Verbum Diei · " + (artifact.date || "");
-  }
-
-  function renderShellArchive(root, dates, assetPrefix) {
-    document.documentElement.setAttribute("data-palette", "vespers");
-    var items = "";
-    for (var i = 0; i < dates.length; i++) {
-      items += '<li class="archive-item"><a href="' + escapeAttr(hrefDate(assetPrefix, dates[i])) +
-               '">' + escapeHtml(dates[i]) + '</a></li>';
-    }
-    if (!items) items = '<div class="empty-note">No generated days yet.</div>';
-
-    root.className = "codex";
-    root.innerHTML =
-      '<article class="codex-page">' +
-        '<header class="colophon">' +
-          '<div class="colophon-left"><span>Chronicon · Codex Dierum</span></div>' +
-          '<div class="wordmark">' +
-            '<h1 class="v-d">Archivum</h1>' +
-            '<div class="latin">Codex Dierum</div>' +
-          '</div>' +
-          '<div class="colophon-right">' +
-            '<span class="nav-pills">' +
-              '<a class="nav-pill" href="' + escapeAttr(hrefLatest(assetPrefix)) + '">Latest</a>' +
-            '</span>' +
-          '</div>' +
-        '</header>' +
-        '<div class="codex-grid" style="grid-template-columns:1fr">' +
-          '<div class="center-column">' +
-            '<section class="section">' +
-              '<h2 class="rubric-heading">' +
-                '<span class="num">I</span>' +
-                '<span class="title-main">Dies</span>' +
-                '<span class="latin">Omnia</span>' +
-              '</h2>' +
-              (dates.length ? '<ul class="archive-list">' + items + '</ul>' : items) +
-            '</section>' +
-            '<footer class="codex-footer">' +
-              '<div>Generated daily.</div>' +
-              '<div class="explicit">Codex Dierum · Deo Gratias</div>' +
-            '</footer>' +
-          '</div>' +
-        '</div>' +
-      '</article>';
-
-    document.title = "Verbum Diei · Archive";
-  }
-
-  function renderShellError(root, message) {
-    root.className = "codex";
-    root.innerHTML =
-      '<article class="codex-page"><div class="codex-grid" style="grid-template-columns:1fr">' +
-      '<div class="center-column"><section class="section">' +
-      '<h2 class="rubric-heading"><span class="num">!</span><span class="title-main">Error</span></h2>' +
-      '<div class="empty-note">' + escapeHtml(message) + '</div></section></div></div></article>';
-  }
-
-  // ============================================================
   // bootstrap
   // ============================================================
-  function readAssetPrefixFromMain() {
-    var main = document.querySelector("main.codex, #app-root");
-    return main ? (main.getAttribute("data-asset-prefix") || "") : "";
-  }
-
-  function readCurrentDateFromDom() {
-    var node = document.querySelector(".date-long[data-iso]");
-    if (node) {
-      var iso = node.getAttribute("data-iso");
-      if (isIsoDate(iso)) return iso;
-    }
-    return null;
-  }
-
   function bootstrap() {
-    var shellRoot = document.getElementById("app-root");
-    var assetPrefix = readAssetPrefixFromMain();
-
-    if (shellRoot) {
-      // SPA shell page (older permalinks): fetch + render
-      var defaultView = shellRoot.getAttribute("data-default-view") || "latest";
-      fetchJson(assetPrefix + "data/archive.json")
-        .then(function (payload) {
-          var dates = listOrEmpty(payload && payload.dates).filter(isIsoDate).sort().reverse();
-          var params = new URLSearchParams(location.search);
-          var dq = params.get("date");
-          var dp = findDateFromPath(location.pathname);
-          var target = isIsoDate(dq) ? dq
-                      : isIsoDate(dp) ? dp
-                      : (defaultView !== "archive" && dates.length ? dates[0] : null);
-          if (!target) {
-            renderShellArchive(shellRoot, dates, assetPrefix);
-            postRender(assetPrefix, null, dates);
-            return;
-          }
-          return fetchJson(assetPrefix + "data/" + target + ".json")
-            .then(function (artifact) {
-              renderShellDay(shellRoot, artifact || {}, dates, assetPrefix);
-              postRender(assetPrefix, artifact && artifact.date, dates);
-            })
-            .catch(function () {
-              renderShellError(shellRoot, "No day data found for " + target + ".");
-            });
-        })
-        .catch(function (err) {
-          renderShellError(shellRoot, err && err.message ? err.message : "Unknown error.");
-        });
-    } else {
-      // Static SSR page — just enhance.
-      var currentDate = readCurrentDateFromDom();
-      fetchJson(assetPrefix + "data/archive.json")
-        .then(function (payload) {
-          var dates = listOrEmpty(payload && payload.dates).filter(isIsoDate).sort().reverse();
-          postRender(assetPrefix, currentDate, dates);
-        })
-        .catch(function () {
-          postRender(assetPrefix, currentDate, []);
-        });
+    var date = new URLSearchParams(location.search).get("date");
+    if (isIsoDate(date)) {
+      var prefix = document.querySelector("main.codex").getAttribute("data-asset-prefix");
+      location.replace(prefix + "d/" + date + "/" + location.hash);
+      return;
     }
-  }
-
-  function postRender(assetPrefix, currentDate, archiveDates) {
     document.body.classList.add("js-ready");
     enhanceDates();
     enhanceHours();
     setupGutterLinking();
-    setupCalPeek(assetPrefix, currentDate, archiveDates);
+    setupCalPeek();
   }
 
   if (document.readyState === "loading") {
