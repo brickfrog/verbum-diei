@@ -1,0 +1,234 @@
+{
+  "llm": {
+    "calls": [
+      {
+        "outputSha256": "bc8f41d5dab505d0dd728f36c748b4c7192bb4ef4a381ad3fd896f16c1d6c373",
+        "inputSha256": "3dfe808a13935e465120684fd944504ebf6ac2ac3591524be73e0c54941957db",
+        "model": "gpt-5.2",
+        "name": "analysis"
+      },
+      {
+        "outputSha256": "19a578545bd00cd3ddc1cc2fadd1574ca9a38ad42b6d470b36799c24e312cf0a",
+        "inputSha256": "20a582135a0fb30868207448c13e1c1e152740cc48c2a32fc28b7550fb86c770",
+        "model": "gpt-5.2",
+        "name": "heterodox_reading"
+      },
+      {
+        "outputSha256": "28a6e9c8afc634b82f4922d81e3c25161798445bac755ea09595ca6346ff3e20",
+        "inputSha256": "4ea7d8f5789ad8599b290d8b6ed02d8a7e28811a1bb7da287afcdb34cf10e483",
+        "model": "gpt-5.2",
+        "name": "semina_verbi"
+      }
+    ],
+    "generatedAt": "2026-11-28T08:55:15.969Z"
+  },
+  "commentary": {
+    "seminaVerbi": "The river and the tree read like the psyche’s final integration: life no longer rationed, no longer hoarded, but flowing from a single center that can’t be bribed or exhausted. “Clear as crystal” is consciousness without self-deception; the water is not comfort but lucidity. The monthly fruit is desire healed of binge-and-famine cycles, appetite synchronized with time instead of fighting it.\n\nThe forehead-name is identity no longer performed. It’s the end of masking: the self marked by what it serves, not what it consumes. “No night” is not perpetual daytime but the collapse of inner double-life, where shadow-work has finished and vigilance is no longer anxious.\n\nLuke’s warning is the counter-image: the heart made heavy by saturation and worry, two forms of the same narcotic. Surfeiting and “cares” both dull attention; both make the future arrive like a trap because the present was never inhabited. Watchfulness here is a discipline of lightness, a refusal to let the inner river silt up.\n\nSpeculation: the river and tree echo the Hindu Ganga as purifying flow and the Ashvattha/world-tree as axis of reality; the “healing leaves” resemble Buddhist medicine imagery in the Bhaisajyaguru tradition; the forehead-mark recalls the Hindu tilaka and the Buddhist urna as signs of awakened orientation; the end of night parallels Sufi fanāʾ/baqāʾ as the extinguishing of divided selfhood into a steadier illumination. These are not equivalences, but they rhyme as shared intuitions about attention, desire, and the unburdened self.",
+    "excursus": "Revelation’s paradise reads like a controlled environment masquerading as freedom. Everything is clean, clear, illuminated, managed: a river routed from a throne, a tree engineered to bear on schedule, healing administered through leaves like policy. “No curse” doesn’t mean no cost; it means the old vocabulary of protest is abolished. The most intimate promise—seeing the face—lands like surveillance: the Name on foreheads, identity stamped, desire made legible. Even “reign” feels like conscription into the system’s eternity, service without night, without shadows where a self could hide.\n\nLuke supplies the psychology that makes such a world possible: fear of being caught. The danger isn’t only pleasure; it’s ordinary life thickening around the heart until the Day snaps shut like a trap. So you watch yourself, you police appetite and distraction, you pray not for love but to be “accounted worthy,” to escape. The dread is that you’ll be found too human, too slow, too attached.\n\nPut together, the texts offer a bargain: trade ambivalence for brightness, trade private longing for a forehead-mark, trade the messy warmth of “cares of this life” for a spotless city where nothing surprises. The river is desire made safe by being owned at the source. The snare is not merely judgment; it’s the moment you realize you wanted the trap because it ends the ache of choosing.",
+    "synthesis": "Final blessedness is participation in God’s unveiled rule, marked by direct vision and obedient keeping. Readiness for that rule is cultivated now by vigilant prayer that resists the heart’s heaviness and prepares it to stand in judgment.",
+    "gospel": [
+      {
+        "text": "Luke treats the end as a crisis of attention rather than a puzzle of dates. The discipline prescribed is continuous prayer that reorders desire and time, so the subject can endure judgment as presence (“stand”) rather than collapse into event-driven panic.",
+        "lines": [
+          1,
+          3
+        ]
+      }
+    ],
+    "reading": [
+      {
+        "text": "The passage frames eschatology as administration: curse removed, service instituted, testimony certified, and imminence announced. The end is not an escape from order but the final stabilization of it—throne-centered, angel-mediated, and ethically binding (“keepeth”).",
+        "lines": [
+          3,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "marginalia": [
+    {
+      "text": "Life is not summoned from below; it issues from the throne. Clarity is a property of source, not of distance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The city’s center is arboreal, not civic. Medicine is vegetal: leaves outlast empires.",
+      "lines": [
+        2
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Beatitude becomes visibility: face, then name. Forehead-mark replaces all other citizenship.",
+      "lines": [
+        4
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "Night abolished; not by technology but by presence. Reign is derivative illumination.",
+      "lines": [
+        5
+      ],
+      "readingKind": "first"
+    },
+    {
+      "text": "The heart can be weighted down; excess and anxiety are the same gravity. The threat is suddenness, not distance.",
+      "lines": [
+        1
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Universality of the trap: no privileged latitude. “Sit” names complacency as posture.",
+      "lines": [
+        2
+      ],
+      "readingKind": "gospel"
+    },
+    {
+      "text": "Watchfulness is litigated: “accounted worthy.” Standing is the opposite of being snared.",
+      "lines": [
+        3
+      ],
+      "readingKind": "gospel"
+    }
+  ],
+  "hoursOfPrayer": [
+    {
+      "source": "breviarium+openai",
+      "prayer": "Awaken, Lord, the will of your faithful, so that, by seeking more earnestly the fruit of your divine action, they may receive greater help from your love. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 0,
+      "label": "Matins",
+      "key": "matins"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "May our voice, Lord, our spirit, and our whole life be a continual praise in your honor; and since our entire existence is a pure gift of your generosity, may each of our actions also be wholly dedicated to you. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit and is God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 6,
+      "label": "Lauds",
+      "key": "lauds"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord God, almighty Father, pour into us the light of the Holy Spirit, so that, free from every adversity, we may always rejoice in your praise. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 9,
+      "label": "Terce",
+      "key": "terce"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Lord, blazing fire of eternal love, grant that, enkindled by your love, we may love you above all things and our neighbor for love of you. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 12,
+      "label": "Sext",
+      "key": "sext"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Hear, Lord, our prayer and grant us the abundance of your peace, so that, through the intercession of Saint Mary, the Virgin, after having served you throughout our life, we may come before you without any fear. Through Jesus Christ our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 15,
+      "label": "Nones",
+      "key": "none"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Almighty God, as we begin Advent, kindle in your faithful the desire to go out to meet Christ who is coming, accompanied by good works, so that, placed one day at his right hand, they may merit to possess the eternal kingdom. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, God for ever and ever.",
+      "minuteLocal": 0,
+      "hourLocal": 18,
+      "label": "Vespers",
+      "key": "vespers"
+    },
+    {
+      "source": "breviarium+openai",
+      "prayer": "Let us pray:\n\nAfter First Vespers of Sunday or of solemnities that fall on Sunday:\n\nKeep us, Lord, through this night, and grant that tomorrow, as the new day dawns, the celebration of Sunday may fill us with the joy of the resurrection of your Son. Who lives and reigns for ever and ever. Amen.\n\nAfter Vespers of solemnities that do not fall on Sunday:\n\nVisit, Lord, this room; drive far from it the snares of the enemy. Let your holy angels dwell here and keep us in peace, and may your blessing remain always with us. Through Jesus Christ, our Lord.",
+      "minuteLocal": 0,
+      "hourLocal": 21,
+      "label": "Compline",
+      "key": "compline"
+    }
+  ],
+  "readings": [
+    {
+      "lines": [
+        "And he shewed me a river of water of life, clear as crystal, proceeding from the throne of God and of the Lamb.",
+        "In the midst of the street thereof, and on both sides of the river, was the tree of life, bearing twelve fruits, yielding its fruits every month: the leaves of the tree for the healing of the nations.",
+        "And there shall be no curse any more: but the throne of God and of the Lamb shall be in it. And his servants shall serve him.",
+        "And they shall see his face: and his name shall be on their foreheads.",
+        "And night shall be no more. And they shall not need the light of the lamp, nor the light of the sun, because the Lord God shall enlighten then. And they shall reign for ever and ever.",
+        "And he said to me: These words are most faithful and true. And the Lord God of the spirits of the prophets sent his angel to shew his servant the things which must be done shortly.",
+        "And: Behold I come quickly. Blessed is he that keepeth the words of the prophecy of this book."
+      ],
+      "lineRefs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Revelation 22:1-7",
+      "reference": "Revelation 22:1-7",
+      "heading": "A reading from the Book of Revelation",
+      "kind": "first"
+    },
+    {
+      "lines": [
+        "And take heed to yourselves, lest perhaps your hearts be overcharged with surfeiting and drunkenness and the cares of this life: and that day come upon you suddenly.",
+        "For as a snare shall it come upon all that sit upon the face of the whole earth.",
+        "Watch ye, therefore, praying at all times, that you may be accounted worthy to escape all these things that are to come and to stand before the Son of man."
+      ],
+      "lineRefs": [
+        "34",
+        "35",
+        "36"
+      ],
+      "translation": {
+        "note": "Public Domain",
+        "name": "Douay-Rheims 1899 American Edition",
+        "id": "dra"
+      },
+      "bibleApiReference": "Luke 21:34-36",
+      "reference": "Luke 21:34-36",
+      "heading": "From the Gospel according to Luke",
+      "kind": "gospel"
+    }
+  ],
+  "observances": {
+    "celebrations": [
+      {
+        "titles": [],
+        "color": "GREEN",
+        "source": "l",
+        "rank": "FERIA",
+        "name": "Saturday of the 34th week of Ordinary Time",
+        "key": "saturdayOfThe34thWeekOfOrdinaryTime"
+      }
+    ],
+    "meta": {
+      "psalterWeek": "Week II",
+      "cycle": "Year A",
+      "season": "Ordinary Time"
+    }
+  },
+  "source": {
+    "guid": "https://www.vaticannews.va/en/word-of-the-day/2026/11/28.html",
+    "title": "Gospel and Word of the Day - 28 November 2026",
+    "itemUrl": "https://www.vaticannews.va/en/word-of-the-day/2026/11/28.html",
+    "rssUrl": "https://www.vaticannews.va/en/word-of-the-day.rss.xml"
+  },
+  "date": "2026-11-28"
+}
